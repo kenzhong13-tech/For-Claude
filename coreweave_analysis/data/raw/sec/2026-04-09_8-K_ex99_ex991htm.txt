@@ -1,0 +1,34 @@
+
+
+EX-99.1
+
+2
+
+ex991.htm
+
+EX-99.1
+
+Document
+EXHIBIT 99.1
+COREWEAVE AND META ANNOUNCE $21 BILLION EXPANDED AI 
+INFRASTRUCTURE AGREEMENT
+Meta to leverage CoreWeave’s AI cloud platform to scale inference workloads, underscoring the surging demand for large-scale AI compute 
+Livingston, NJ – April 9, 2026 –
+
+CoreWeave
+ (Nasdaq: CRWV), the Essential Cloud for AI™, today announced an expanded, long-term agreement with Meta Platforms, Inc. to provide
+
+AI cloud capacity through December 2032 for approximately $21 billion. With this deal, the two companies are continuing their existing relationship increasing support for Meta’s development and deployment of AI.
+
+The dedicated capacity will be deployed across multiple locations and will include some of the initial deployments of the NVIDIA Vera Rubin platform. This distributed approach is designed to optimize performance, resilience, and scalability for Meta’s AI operations. 
+The new agreement is a clear signal of the industry’s  accelerating demand for high-performance infrastructure capable of supporting increasingly complex, large-scale AI workloads
+“This is another example that leading companies are choosing CoreWeave’s AI cloud  to run their most demanding workloads,” said Michael Intrator, Co-founder, CEO, Chairman of CoreWeave. 
+Additional details regarding the agreement are available in CoreWeave’s filing with the U.S. Securities and Exchange Commission.
+About CoreWeave
+CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to move at the pace of innovation, building and scaling AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave serves as a force multiplier by combining superior infrastructure performance with deep technical expertise to accelerate breakthroughs. Established in 2017, CoreWeave completed its public listing on Nasdaq (CRWV) in March 2025. Learn more at 
+www.coreweave.com
+.
+press@coreweave.com
+
+###
+

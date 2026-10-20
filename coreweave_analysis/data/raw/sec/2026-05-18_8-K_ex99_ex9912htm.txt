@@ -1,0 +1,39 @@
+
+
+EX-99.1
+
+4
+
+ex9912.htm
+
+EX-99.1
+
+Document
+EXHIBIT 99.1
+COREWEAVE CLOSES $3.1 BILLION LOAN FACILITY, EXPANDING ACCESS 
+TO PUBLIC MARKETS FOR GPU-BACKED FINANCING
+●
+First publicly syndicated HPC-backed delayed draw term loan facility, significantly expanding investor base for AI infrastructure financing.
+●
+Facility supports deployment of infrastructure dedicated to two customer contracts.
+●
+Meaningfully oversubscribed transaction with exceptional investor demand, pricing by 50 basis points during syndication.
+●
+Ba2 ratings from Moody’s and BB+ from Fitch, further validating the emerging asset class for AI infrastructure financing.
+LIVINGSTON, N.J. — May 18, 2026 —
+
+CoreWeave, Inc.
+ (Nasdaq: CRWV), The Essential Cloud for AI™, today announced it has closed its $3.1 billion delayed draw term loan facility (“DDTL 5.0 Facility”), supporting continued expansion of its AI cloud platform and committed customer deployments.
+The DDTL 5.0 Facility marks the first publicly syndicated HPC infrastructure-backed financing vehicle, significantly expanding the addressable investor base for AI infrastructure financing and enabling secondary market trading.
+The facility received ratings of Ba2 from Moody’s and BB+ from Fitch, further validating the growing institutional maturity of the AI infrastructure financing market as an emerging asset class.
+“This transaction further validates HPC infrastructure-backed financing as a scalable new asset class designed to support long-term AI demand. We believe this approach is becoming one of the defining investment categories of the next decade,” said Brannin McBee, co-founder and chief development officer at CoreWeave. “The exceptional investor demand for this facility reflects growing institutional confidence in our execution, customer commitments, and business model, along with sustained conviction that AI adoption is accelerating.”
+Proceeds from the DDTL 5.0 Facility will support the purchase and deployment of infrastructure dedicated to customer contracts with two large, non-investment grade customers, further expanding CoreWeave’s AI cloud footprint.
+The transaction was meaningfully oversubscribed, attracting exceptional investor demand during syndication. Strong market interest enabled pricing to tighten by 50 basis points from initial discussions, resulting in final pricing at SOFR + 4.50%.
+The DDTL 5.0 Facility has a maturity of approximately 5.5 years and was issued through CoreWeave Financing DDTL V, LLC. The facility is structured as a delayed draw term loan designed to align funding with the deployment schedule and useful life of the underlying GPU infrastructure assets.
+Morgan Stanley and Mitsubishi UFJ Financial Group served as joint lead arrangers and bookrunners for the transaction.
+The DDTL 5.0 Facility builds on CoreWeave’s continued capital markets momentum and follows the company’s previously announced $8.5 billion investment-grade rated DDTL 4.0 facility completed earlier this year. With the closing of this latest transaction, CoreWeave has secured more than $20 billion of debt and equity capital year-to-date to support continued expansion of its AI cloud platform.
+About CoreWeave
+CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to move at the pace of innovation, building and scaling AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave serves as a force multiplier by combining superior infrastructure performance with deep technical expertise to accelerate breakthroughs. Established in 2017, CoreWeave completed its public listing on Nasdaq (CRWV) in March 2025. Learn more at 
+www.coreweave.com
+.
+
