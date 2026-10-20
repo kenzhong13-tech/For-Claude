@@ -17,6 +17,7 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 RAW = os.path.join(ROOT, "data", "raw")
 OUT = os.path.join(ROOT, "data", "processed")
 TD = 252
+END_DATE = "2026-10-19"  # last complete session before the report date
 
 
 def load_yahoo(name):
@@ -27,12 +28,11 @@ def load_yahoo(name):
 
 
 def load_rf(index):
-    """Daily risk-free rate from FRED 3-month T-bill (percent p.a.); falls back to a flat 4%."""
-    path = os.path.join(RAW, "fred_dgs3mo.csv")
+    """Daily risk-free rate from the 13-week T-bill yield (Yahoo ^IRX, percent p.a.); falls back to a flat 4%."""
     try:
-        r = pd.read_csv(path, index_col=0, parse_dates=True).iloc[:, 0]
-        r = pd.to_numeric(r, errors="coerce").ffill().reindex(index, method="ffill").bfill()
-        return r / 100.0, "FRED DGS3MO"
+        r = load_yahoo("IDX_IRX")["Close"]
+        r = r.reindex(index).ffill().bfill()
+        return r / 100.0, "13-week US T-bill (^IRX)"
     except Exception:  # noqa: BLE001
         return pd.Series(0.04, index=index), "flat 4.0%"
 
@@ -40,8 +40,10 @@ def load_rf(index):
 crwv = load_yahoo("CRWV")
 spx = load_yahoo("IDX_GSPC")
 px = pd.DataFrame({"crwv": crwv["Adj Close"], "spx": spx["Adj Close"]}).dropna()
-px = px[px.index >= "2025-03-28"]
+px = px[(px.index >= "2025-03-28") & (px.index <= END_DATE)]
 ret = px.pct_change().dropna()
+peers = pd.DataFrame({p: load_yahoo(f)["Adj Close"] for p, f in [("nbis", "NBIS"), ("nvda", "NVDA"), ("orcl", "ORCL"), ("smh", "SMH")]})
+peer_ret = peers.pct_change().reindex(ret.index)
 logret = np.log(px).diff().dropna()
 rf_annual, rf_source = load_rf(ret.index)
 rf_daily = (1 + rf_annual) ** (1 / TD) - 1
@@ -244,6 +246,8 @@ for ev in EVENTS:
     row["ret_0_p5"] = float((1 + ret["crwv"].iloc[pos:hi5 + 1]).prod() - 1)
     row["price_before"] = float(px["crwv"].iloc[pos - 1]) if pos > 0 else None
     row["price_day0"] = float(px["crwv"].iloc[pos])
+    for p in peer_ret.columns:
+        row[f"ret_{p}"] = float(peer_ret[p].iloc[pos])
     ev_out.append(row)
 res["events"] = ev_out
 res["resid_sd_daily"] = resid_sd
@@ -252,7 +256,8 @@ res["resid_sd_daily"] = resid_sd
 top = abn.abs().sort_values(ascending=False).iloc[:25]
 res["top_abnormal_days"] = [
     {"date": str(d.date()), "ret_crwv": float(ret["crwv"][d]), "ret_spx": float(ret["spx"][d]),
-     "ar": float(abn[d]), "ar_t": float(abn[d] / resid_sd)} for d in top.index]
+     "ar": float(abn[d]), "ar_t": float(abn[d] / resid_sd),
+     "ret_nbis": float(peer_ret["nbis"][d]), "ret_nvda": float(peer_ret["nvda"][d])} for d in top.index]
 
 # earnings-day vs normal-day absolute moves
 earn_days = [e["day0"] for e in ev_out if e.get("category") == "earnings"]
@@ -280,6 +285,56 @@ series.index = series.index.strftime("%Y-%m-%d")
 res["series"] = {"date": series.index.tolist(),
                  **{c: [None if pd.isna(v) else round(float(v), 6) for v in series[c]] for c in series.columns}}
 res["scatter"] = {"x": [round(float(v), 5) for v in ex["spx"]], "y": [round(float(v), 5) for v in ex["crwv"]]}
+
+# ---------- sensitivity to the AI trade (multi-index betas, two-factor model) ----------
+idx = pd.DataFrame({k: load_yahoo(f)["Adj Close"] for k, f in
+                    [("qqq", "QQQ"), ("smh", "SMH"), ("nvda", "NVDA"), ("nbis", "NBIS"), ("orcl", "ORCL"), ("msft", "MSFT")]})
+idx_ret = idx.pct_change().reindex(ret.index)
+fac = {}
+for k in idx_ret.columns:
+    xk = idx_ret[k].dropna()
+    yk = ret["crwv"].reindex(xk.index)
+    mk = sm.OLS(yk, sm.add_constant(xk)).fit()
+    fac[k] = {"beta": float(mk.params.iloc[1]), "r2": float(mk.rsquared), "corr": float(np.corrcoef(yk, xk)[0, 1])}
+# AI factor = semiconductor ETF return orthogonalised to the S&P 500
+xs = pd.concat([ret["spx"], idx_ret["smh"]], axis=1).dropna()
+ai = sm.OLS(xs["smh"], sm.add_constant(xs["spx"])).fit().resid.rename("ai_factor")
+X2 = pd.concat([xs["spx"], ai], axis=1)
+m2 = sm.OLS(ret["crwv"].reindex(X2.index), sm.add_constant(X2)).fit()
+res["two_factor"] = {"beta_spx": float(m2.params["spx"]), "beta_ai": float(m2.params["ai_factor"]),
+                     "t_spx": float(m2.tvalues["spx"]), "t_ai": float(m2.tvalues["ai_factor"]),
+                     "r2": float(m2.rsquared), "r2_sim": sim_daily["r2"]}
+# add a neocloud peer factor (Nebius orthogonalised to SPX and AI factor)
+xn = pd.concat([X2, idx_ret["nbis"]], axis=1).dropna()
+nb = sm.OLS(xn["nbis"], sm.add_constant(xn[["spx", "ai_factor"]])).fit().resid.rename("neocloud")
+X3 = pd.concat([xn[["spx", "ai_factor"]], nb], axis=1)
+m3 = sm.OLS(ret["crwv"].reindex(X3.index), sm.add_constant(X3)).fit()
+res["three_factor"] = {"beta_spx": float(m3.params["spx"]), "beta_ai": float(m3.params["ai_factor"]),
+                       "beta_neo": float(m3.params["neocloud"]), "r2": float(m3.rsquared)}
+res["factor_betas"] = fac
+big = idx_ret["smh"].abs() > 0.03
+res["smh_big_days"] = {"n": int(big.sum()),
+                       "avg_abs_crwv": float(ret["crwv"][big].abs().mean()),
+                       "avg_abs_smh": float(idx_ret["smh"][big].abs().mean()),
+                       "same_sign_share": float((np.sign(ret["crwv"][big]) == np.sign(idx_ret["smh"][big])).mean())}
+roll["corr63_nbis"] = ret["crwv"].rolling(W).corr(idx_ret["nbis"])
+series_extra = roll[["corr63_nbis"]].copy()
+series_extra.index = series_extra.index.strftime("%Y-%m-%d")
+res["series"]["corr63_nbis"] = [None if pd.isna(v) else round(float(v), 4) for v in series_extra["corr63_nbis"].reindex(res["series"]["date"])]
+
+# ---------- implied volatility (Yahoo option chain snapshot, 2026-10-20 intraday) ----------
+try:
+    o = pd.read_csv(os.path.join(RAW, "crwv_options.csv"))
+    spot = float(crwv["Close"].iloc[-1])
+    iv = []
+    for ex_, g in o.groupby("expiry"):
+        g = g[(g.impliedVolatility > 0.05) & (g.openInterest.fillna(0) > 50)]
+        atm = g[(g.strike - spot).abs() <= spot * 0.06]
+        if len(atm):
+            iv.append({"expiry": ex_, "atm_iv": float(atm.impliedVolatility.median()), "n": int(len(atm))})
+    res["implied_vol"] = {"spot": spot, "term": iv}
+except Exception as e:  # noqa: BLE001
+    res["implied_vol"] = {"error": str(e)}
 
 os.makedirs(OUT, exist_ok=True)
 json.dump(res, open(os.path.join(OUT, "market_analysis.json"), "w"), ensure_ascii=False, indent=1)

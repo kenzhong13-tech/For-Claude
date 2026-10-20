@@ -1,11 +1,14 @@
 name: fetch-market-data
+# Manual refresh of the raw data behind coreweave_analysis/ (Yahoo Finance prices, SEC filings).
+# Runs on a GitHub-hosted runner and commits the downloaded files back to the branch it was started on.
 on:
-  push:
-    branches: [claude/ecstatic-pasteur-xjywhs]
-    paths:
-      - .github/workflows/fetch-market-data.yml
-      - coreweave_analysis/scripts/fetch_data.py
-      - coreweave_analysis/scripts/fetch_extra.py
+  workflow_dispatch:
+    inputs:
+      script:
+        description: "Fetch script to run"
+        default: fetch_data.py
+        type: choice
+        options: [fetch_data.py, fetch_extra.py]
 permissions:
   contents: write
 jobs:
@@ -18,11 +21,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install yfinance pandas beautifulsoup4 lxml
-      - run: python coreweave_analysis/scripts/fetch_extra.py
+      - run: python coreweave_analysis/scripts/${{ inputs.script }}
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add coreweave_analysis/data
-          git commit -m "Add Treasury yields and CoreWeave earnings releases" || echo "nothing to commit"
+          git commit -m "Refresh CoreWeave raw data (${{ inputs.script }})" || echo "nothing to commit"
           git push
