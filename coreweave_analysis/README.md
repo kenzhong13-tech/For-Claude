@@ -3,7 +3,7 @@
 中文研究报告：财务表现、债务与偿债能力、对市场增长的敏感性、未来规划，以及以标普 500 为基准的波动率分析和股价事件研究。行情数据截至 2026-10-19 收盘，财务数据截至 2026 年第二季度 10-Q。
 
 - `report/coreweave_report.html`：交互式报告（离线可直接用浏览器打开）
-- `report/coreweave_report.pdf`：A4 打印版（17 页）
+- `report/coreweave_report.pdf`：A4 打印版（29 页）
 - `report/template.html`：报告模板，由 `scripts/build_report.py` 注入数据生成上面的 HTML
 
 ## 数据
@@ -26,6 +26,7 @@ python coreweave_analysis/scripts/build_financials.py     # XBRL → 季度财�
 python coreweave_analysis/scripts/analyze_market.py       # 波动率、单指数模型、GARCH、事件研究
 python coreweave_analysis/scripts/analyze_fundamentals.py # 偿债指标、情景与敏感性、估值
 python coreweave_analysis/scripts/build_report.py         # 生成 report/coreweave_report.html
+node report_kit/make_pdf.mjs coreweave_analysis/report/coreweave_report.html coreweave_analysis/report/coreweave_report.pdf "CoreWeave（CRWV）财务分析报告"
 ```
 
 本报告仅供研究学习，不构成投资建议。
