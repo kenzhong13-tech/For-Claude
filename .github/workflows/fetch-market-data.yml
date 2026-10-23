@@ -3,10 +3,6 @@ name: fetch-market-data
 # HKEXnews, Eastmoney via akshare, FRED).
 # Runs on a GitHub-hosted runner and commits the downloaded files back to the branch it was started on.
 on:
-  push:
-    branches: [claude/ecstatic-pasteur-xjywhs]
-    paths:
-      - 3sbio_analysis/scripts/fetch_data.py
   workflow_dispatch:
     inputs:
       script:
@@ -27,7 +23,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install yfinance pandas beautifulsoup4 lxml pdfminer.six akshare
-      - run: python ${{ inputs.script || '3sbio_analysis/scripts/fetch_data.py' }}
+      - run: python ${{ inputs.script }}
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
@@ -35,5 +31,5 @@ jobs:
           git add coreweave_analysis/data || true
           git add popmart_analysis/data || true
           git add 3sbio_analysis/data || true
-          git commit -m "Refresh raw data (${{ inputs.script || '3sbio_analysis/scripts/fetch_data.py' }})" || echo "nothing to commit"
+          git commit -m "Refresh raw data (${{ inputs.script }})" || echo "nothing to commit"
           git push

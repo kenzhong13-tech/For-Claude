@@ -174,6 +174,9 @@ function barChart(el, cfg) {
   const bw = Math.max(3, Math.min(24, (band * 0.72 - (ns - 1) * 2) / ns));
   const gw = bw * ns + (ns - 1) * 2;
   const every = cfg.every || (rot ? 1 : Math.max(1, Math.ceil(nc / Math.floor(iw / (narrow ? 34 : 46)))));
+  // on narrow charts, value labels are drawn only when the widest one fits its bar's slot
+  const vtext = v => cfg.vfmt ? cfg.vfmt(v) : cfg.tfmt(v);
+  const vfit = !narrow || Math.max(...all.map(v => vtext(v).length)) * 6.6 <= (ns > 1 ? bw + 2 : band - 4);
   cfg.labels.forEach((lab, i) => {
     const cx = m.l + band * (i + 0.5);
     if (cfg.axisLabels) { if (cfg.axisLabels[i]) txt(g, m.l + band * i, H - 8, cfg.axisLabels[i], 'ax', 'middle'); }
@@ -187,14 +190,16 @@ function barChart(el, cfg) {
       const open = () => showTip(el, x + bw / 2, Math.min(ys(v), ys(0)), lab, [{ cls, value: cfg.tfmt(v), label: s.label }]);
       p.addEventListener('pointerenter', open); p.addEventListener('focus', open);
       p.addEventListener('pointerleave', () => hideTip(el)); p.addEventListener('blur', () => hideTip(el));
-      if (cfg.valueLabels && (cfg.valueLabels === true || cfg.valueLabels(i, k)) && !narrow) {
-        txt(svg, x + bw / 2, v >= 0 ? ys(v) - 5 : ys(v) + 13, cfg.vfmt ? cfg.vfmt(v) : cfg.tfmt(v), 'vlab', 'middle');
+      if (cfg.valueLabels && (cfg.valueLabels === true || cfg.valueLabels(i, k)) && vfit) {
+        txt(svg, x + bw / 2, v >= 0 ? ys(v) - 5 : ys(v) + 13, vtext(v), 'vlab', 'middle');
       }
     });
   });
 }
 
 /* ---------- horizontal bar chart (diverging around zero) ---------- */
+// approximate width of a 12px label: CJK glyphs are full-width, Latin letters and digits about half
+const textW = s => [...s].reduce((w, ch) => w + (ch.charCodeAt(0) > 0x2e7f ? 12 : 6.8), 0);
 function hbarChart(el, cfg) {
   const W = Math.max(280, el.clientWidth);
   const narrow = W < 480;
@@ -214,8 +219,7 @@ function hbarChart(el, cfg) {
   cfg.items.forEach((d, i) => {
     const y = m.t + i * row, bh = Math.min(14, row - 6), yy = y + (row - bh) / 2;
     let lab = d.label;
-    const maxChars = Math.floor(lw / 11.5);
-    if (lab.length > maxChars) lab = lab.slice(0, maxChars - 1) + '…';
+    if (textW(lab) > lw) { while (lab.length > 1 && textW(lab + '…') > lw) lab = lab.slice(0, -1); lab += '…'; }
     txt(g, m.l - 8, y + row / 2 + 4, lab, 'lbl', 'end');
     const x0 = xs(0), x1 = xs(d.v);
     const left = Math.min(x0, x1), w = Math.max(1, Math.abs(x1 - x0));
@@ -228,9 +232,12 @@ function hbarChart(el, cfg) {
     const open = () => showTip(el, x1, y + 4, d.title || d.label, [{ cls, value: cfg.tfmt ? cfg.tfmt(d) : cfg.fmt(d.v), label: d.sub || '' }], d.desc);
     p.addEventListener('pointerenter', open); p.addEventListener('focus', open);
     p.addEventListener('pointerleave', () => hideTip(el)); p.addEventListener('blur', () => hideTip(el));
-    // a long negative bar leaves no room before the category labels, so its value goes inside the bar
-    if (d.v < 0 && x1 - m.l < 34 && w > 40) txt(svg, x1 + 5, y + row / 2 + 4, cfg.fmt(d.v), 'vlab-in', 'start');
-    else txt(svg, d.v >= 0 ? x1 + 5 : x1 - 5, y + row / 2 + 4, cfg.fmt(d.v), 'vlab', d.v >= 0 ? 'start' : 'end');
+    // a negative bar that reaches the category labels leaves no room for its value on the left:
+    // the value goes inside the bar when it fits, otherwise just right of the zero line
+    if (d.v < 0 && x1 - m.l < 34) {
+      if (w > 40) txt(svg, x1 + 5, y + row / 2 + 4, cfg.fmt(d.v), 'vlab-in', 'start');
+      else txt(svg, x0 + 5, y + row / 2 + 4, cfg.fmt(d.v), 'vlab', 'start');
+    } else txt(svg, d.v >= 0 ? x1 + 5 : x1 - 5, y + row / 2 + 4, cfg.fmt(d.v), 'vlab', d.v >= 0 ? 'start' : 'end');
   });
 }
 
