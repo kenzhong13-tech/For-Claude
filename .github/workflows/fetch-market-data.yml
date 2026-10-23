@@ -3,10 +3,6 @@ name: fetch-market-data
 # (Yahoo Finance, SEC, HKEXnews, cninfo, Eastmoney via akshare, FRED).
 # Runs on a GitHub-hosted runner and commits the downloaded files back to the branch it was started on.
 on:
-  push:
-    branches: [claude/ecstatic-pasteur-xjywhs]
-    paths:
-      - gdexpressway_analysis/scripts/fetch_extra.py
   workflow_dispatch:
     inputs:
       script:
@@ -29,7 +25,7 @@ jobs:
           python-version: "3.12"
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
       - run: pip install yfinance pandas beautifulsoup4 lxml pdfminer.six akshare
-      - run: python ${{ inputs.script || 'gdexpressway_analysis/scripts/fetch_extra.py' }}
+      - run: python ${{ inputs.script }}
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
@@ -38,5 +34,5 @@ jobs:
           git add popmart_analysis/data || true
           git add 3sbio_analysis/data || true
           git add gdexpressway_analysis/data || true
-          git commit -m "Refresh raw data (${{ inputs.script || 'gdexpressway_analysis/scripts/fetch_extra.py' }})" || echo "nothing to commit"
+          git commit -m "Refresh raw data (${{ inputs.script }})" || echo "nothing to commit"
           git push
