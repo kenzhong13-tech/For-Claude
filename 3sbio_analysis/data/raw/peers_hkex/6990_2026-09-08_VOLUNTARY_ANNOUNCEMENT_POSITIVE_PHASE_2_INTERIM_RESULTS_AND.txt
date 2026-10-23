@@ -1,0 +1,126 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited 
+take  no  responsibility  for  the  contents  of  this  announcement,  make  no  representation  as  to 
+its  accuracy  or  completeness  and  expressly  disclaim  any  liability  whatsoever  for  any  loss 
+howsoever  arising  from  or  in  reliance  upon  the  whole  or  any  part  of  the  contents  of  this 
+announcement.
+
+Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.
+四 川 科 倫 博 泰 生 物 醫 藥 股 份 有 限 公 司
+(A joint stock company incorporated in the People’s Republic of China with limited liability)
+(Stock Code: 6990)
+
+VOLUNTARY ANNOUNCEMENT
+POSITIVE PHASE 2 INTERIM RESULTS AND INITIATION OF 
+PHASE 3 STUDY OF SKB378/WIN378 IN ASTHMA
+
+T h e   b o a r d   ( t h e   “B o a r d ” )   o f   d i r e c t o r s   ( “D i r e c t o r s” )   o f   S i c h u a n   K e l u n - B i o t e c h 
+Biopharmaceutical Co., Ltd. (the “Company”) is pleased to announce that Windward Bio AG 
+(“Windward  Bio”),  the  Company’s  partner,  has  reported  positive  interim  results  from  the 
+Phase  2  portion  of  the  POLARIS-1  clinical  trial  of  SKB378/WIN378,  a  fully  human  ultra-
+long-acting monoclonal antibody targeting thymic stromal lymphopoietin (TSLP), in asthma. 
+The Phase 3 portion of POLARIS-1 has also been initiated.
+
+SKB378/WIN378  is  a  novel  fully  human,  ultra-long-acting  monoclonal  antibody  with  a 
+unique binding mode to inhibit TSLP. It was engineered for improved potency, extended half-
+life and silenced effector function. It is the only known investigational drug that blocks TSLP 
+signaling by binding to two different sites on TSLP, interfering with the binding of TSLP to 
+both of its co-receptors on the cell surface of epithelial cells.
+
+POLARIS-1 (NCT07120503) is an operationally seamless, global Phase 2/3 study of SKB378/
+WIN378 in adults with uncontrolled asthma conducted by Windward Bio. The Phase 2 portion 
+of  the  study  is  a  48-week,  randomised,  double-blind  study  evaluating  three  dose  levels  of 
+SKB378/WIN378  administered  subcutaneously  against  placebo,  with  primary  objectives  of 
+characterising  pharmacokinetics,  safety,  immunogenicity  and  pharmacodynamic  activity,  as 
+well as informing dose selection for Phase 3 development. The study also evaluates the effect 
+of  SKB378/WIN378  on  lung  function  and  biomarkers  of  airway  inflammation.  The  Phase  2 
+portion enrolled a total of 147 patients, exceeding the initial enrolment target of 120 patients, 
+with the interim analysis conducted on the first 98 patients. The Phase 3 portion is evaluating 
+two  twice-yearly  doses  of  SKB378/WIN378  against  placebo,  with  a  primary  endpoint  of 
+annualized asthma exacerbation rate in patients with severe asthma.
+
+– 1 –
+
+The  interim  analysis  demonstrated  the  following  at  Week  24  after  a  single  dose  of  SKB378/
+WIN378:
+
+(i)  Dose-dependent mean increases in forced expiratory volume in one second (FEV1) of up 
+
+to 174mL (placebo-adjusted mean increase up to 256mL, p=0.033);
+
+(ii)  Dose-dependent  mean  reductions  in  fractional  exhaled  nitric  oxide  (FeNO)  of  up  to  24 
+
+parts per billion (or a 43% reduction; p=0.006); and
+
+(iii)  Reductions  in  mean  blood  eosinophil  count  (EOS)  of  up  to  200  cells/µL  (or  a  51% 
+
+reduction; p<0.0001).
+
+FEV 1  is  a  key  measure  of  lung  function,  while  FeNO  and  EOS  are  key  markers  of 
+inflammation that correlate with asthma exacerbations. Near-maximal effects were observed as 
+early as Week 2 and sustained through Week 24. The interim analysis demonstrated a half-life 
+of  up  to  75  days.  The  interim  results  and  population  pharmacokinetic  modelling  support  the 
+potential for twice-yearly dosing of SKB378/WIN378.
+
+SKB378/WIN378  was  well  tolerated,  with  favorable  safety  results,  and  there  were  no 
+treatment-related  serious  adverse  events,  withdrawals  or  discontinuations  observed  as  of 
+the  data  cut-off  date.  Adverse  events  were  balanced  between  the  active  treatment  arms  and 
+placebo. Less than 1% of participants experienced injection site reactions, and 2% developed 
+anti-drug antibodies, a measure of immunogenicity, which had no impact on the pharmacology 
+of SKB378/WIN378.
+
+Two  twice-yearly  doses  have  been  selected  for  the  Phase  3  portion  of  POLARIS-1,  which 
+is  designed  to  evaluate  the  effect  of  SKB378/WIN378  on  annualized  asthma  exacerbation 
+rate  and  other  key  efficacy  measures  in  patients  with  severe  asthma.  The  Phase  3  portion  of 
+the  study  has  been  initiated  by  Windward  Bio  who  plans  to  begin  a  second  Phase  3  study, 
+POLARIS-2,  in  the  first  half  of  2027.  Data  from  the  Phase  2  portion  of  POLARIS-1  will  be 
+presented at an upcoming medical congress.
+
+SKB378/WIN378 started as a co-development project jointly conducted by the Company and 
+HBM  Holdings  Limited  (the  “Harbour  BioMed”),  with  both  parties  equally  sharing  global 
+rights.
+
+– 2 –
+
+About SKB378/WIN378
+
+SKB378/WIN378  is  a  novel  fully  human,  ultra-long-acting  monoclonal  antibody  with a 
+unique  binding  mode  to  inhibit  TSLP.  This  clinically  validated  target  plays  a  key  role  in  the 
+development  and  progression  of  a  wide  array  of  immunological  diseases,  including  asthma, 
+chronic obstructive pulmonary disease (COPD), chronic rhinosinusitis with nasal polyps, and 
+eosinophilic  esophagitis.  SKB378/WIN378  was  engineered  for  improved  potency,  extended 
+half-life  and  silenced  effector  function.  It  is  the  only  known  investigational  drug  that  blocks 
+TSLP  signaling  by  binding  to  two different  sites  on  TSLP,  interfering  with  the  binding  of 
+TSLP to both of its co-receptors on the cell surface of epithelial cells. Phase 2 interim results 
+support the potential of twice-yearly dosing. SKB378/WIN378 produced significant, sustained 
+and  dose-dependent  increases  in  FEV1,  a  measure  of  lung  function,  together  with  significant 
+and  sustained  reductions  in  FeNO  and  blood  eosinophils  –  key  markers  that  correlate 
+with  asthma  exacerbations.  SKB378/WIN378  is  being  evaluated  in  the  global  Phase  2/3 
+POLARIS-1  study  in  asthma  and  the  Phase  2  SIRIUS  study  in  COPD,  with  a  second  pivotal 
+Phase  3  asthma  trial,  POLARIS-2,  planned  to  begin  in  the  first  half  of  2027.  Windward  Bio 
+licensed  the  global  rights  (excluding  Greater  China  and  several  Southeast  and  West  Asian 
+countries) for this molecule from the Company (also known as SKB378) and Harbour BioMed 
+(also known as HBM9378).
+
+RISK WARNING
+
+SKB378/WIN378 MAY NOT ULTIMATELY BE SUCCESSFULLY DEVELOPED AND 
+COMMERCIALIZED.  THE  COMPANY’S  SHAREHOLDERS  AND  POTENTIAL 
+INVESTORS ARE REMINDED TO EXERCISE CAUTION WHEN DEALING IN THE 
+SECURITIES OF THE COMPANY.
+
+By order of the Board
+Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.
+LIU Gexin
+Chairman of the Board and Non-executive Director
+
+Hong Kong, September 8, 2026
+
+As  at  the  date  of  this  announcement,  the  Board  comprises  Mr.  LIU  Gexin  as  the  chairman 
+of  the  Board  and  non-executive  Director,  Dr.  GE  Junyou  as  executive  Director,  Mr.  LIU 
+Sichuan,  Mr.  LAI  Degui,  Mr.  FENG  Hao,  Ms.  LIAO  Yihong  and  Mr.  ZENG  Xuebo  as  non-
+executive  Directors,  and  Dr.  ZHENG  Qiang,  Dr.  TU  Wenwei,  Dr.  JIN  Jinping  and  Dr.  LI 
+Yuedong as independent non-executive Directors.
+
+– 3 –
+
+

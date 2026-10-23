@@ -1,0 +1,1428 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility 
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly 
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the 
+contents of this announcement.
+
+Hansoh Pharmaceutical Group Company Limited
+翰 森 製 藥 集 團 有 限 公 司
+(Incorporated in the Cayman Islands with limited liability)
+(Stock Code: 3692)
+
+INTERIM RESULTS ANNOUNCEMENT
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+The board (the “Board”) of directors (the “Directors”) of Hansoh Pharmaceutical Group Company 
+Limited (the “Company”) is pleased to announce the unaudited interim results of the Company and 
+its subsidiaries (collectively, the “Group”) for the six months ended June 30, 2026 (the “Reporting 
+Period”), together with the comparative figures for the corresponding period in 2025.
+
+In  this  announcement,  “we”,  “us”  and  “our”  refer  to  the  Company  and  the  Group,  depending  on 
+the context.
+
+FINANCIAL HIGHLIGHTS
+
+For the six months ended June 30, 2026, the Group recorded the following unaudited results:
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Revenue  was  approximately  RMB8,304  million,  representing  an  increase  of  approximately 
+11.7% compared with the corresponding period of the previous year;
+
+Revenue  of  innovative  medicines  amounted  to  approximately  RMB7,092  million,  representing 
+an  increase  of  approximately  15.4%  compared  with  the  corresponding  period  of  the  previous 
+year which amounted to approximately RMB6,145 million, and its proportion of total revenue 
+increased to approximately 85.4%;
+
+R&D  expenditure  was  approximately  RMB1,739  million,  representing  an  increase  of 
+approximately  20.7%  compared  with  the  corresponding  period  of  the  previous  year,  and 
+accounted for approximately 20.9% of the revenue;
+
+Profit  was  approximately  RMB4,258  million,  representing  an  increase  of  approximately 
+35.8% compared with the corresponding period of the previous year; and
+
+Basic  earnings  per  share  was  approximately  RMB0.70,  representing  an  increase  of 
+approximately 33.1% compared with the corresponding period of the previous year.
+
+The  increase  in  profit  and  basic  earnings  per  share  during  the  Reporting  Period  was  primarily 
+due to the combined effect of the increase in revenue of innovative medicines and the increase in 
+other income.
+
+The Board has declared the payment of an interim dividend of HK$28.50 cents per share for the 
+six months ended June 30, 2026.
+
+1
+
+CORPORATE OVERVIEW
+
+The  Company  is  a  leading  innovation-driven  pharmaceutical  enterprise  in  the  People’s  Republic 
+of  China  (“China”  or  “PRC”).  With  the  mission  of  “continuous  innovation  for  better  life”,  the 
+Company  focuses  on  major  disease  therapeutic  areas  such  as  oncology,  metabolism,  immunology, 
+central  nervous  system  (“CNS”)  and  anti-infectives.  The  Company  has  launched  seven  innovative 
+medicines that generate product sales in China, forming a rich product pipeline. For the six months 
+ended  June  30,  2026,  the  revenue  of  innovative  medicines  amounted  to  approximately  RMB7,092 
+million  and  accounted  for  approximately  85.4%  of  the  revenue,  becoming  a  core  driver  for  the 
+sustainable growth of the Group’s performance.
+
+The major achievements during the Reporting Period were as follows:
+
+In  January  2026,  the  Group’s  innovative  medicine  Ameile  (阿美樂®)  (Aumolertinib  Mesylate 
+Tablets)  was  granted  drug  registration  approval  by  the  National  Medical  Products  Administration 
+(“NMPA”)  of  China  for  its  fifth  indication,  in  respect  of  which  Ameile  is  used  in  combination 
+with  pemetrexed  and  platinum-based  chemotherapy  for  the  first-line  treatment  of  adult  patients 
+with  locally  advanced  or  metastatic  non-small  cell  lung  cancer  (“NSCLC”)  whose  tumors  have 
+epidermal growth factor receptor (“EGFR”) exon 19 deletions or exon 21 (L858R) mutations.
+
+In  February  2026,  Aumolertinib  Mesylate  Tablets,  marketed  as  Ameile  (阿美樂®)  in  China  and 
+as  Aumseqa®  outside  China,  was  approved  in  the  European  Union  (“EU”)  as  monotherapy  for: 
+the  first-line  treatment  of  adult  patients  with  advanced  NSCLC  whose  tumors  have  EGFR  exon 
+19  deletions  or  exon  21  (L858R)  substitution  mutations;  and  the  treatment  of  adult  patients  with 
+advanced EGFR T790M mutation-positive NSCLC.
+
+In  February  2026,  the  New  Drug  Application  (“NDA”)  of  the  Group’s  innovative  medicine 
+Dalmelitinib  Mesylate  Tablets  in  combination  with  Aumolertinib  Mesylate  Tablets  was 
+accepted  by  the  NMPA  for  the  treatment  of  patients  with  locally  advanced  or  metastatic  EGFR 
+mutation-positive NSCLC whose tumors have mesenchymal to epithelial transition factor (“MET”) 
+amplification after prior EGFR-TKI therapy.
+
+In  March  2026,  HS-10587  tablets,  a  Class  1  innovative  medicine  self-developed  by  the  Group, 
+obtained  a  Clinical  Trial  Approval  issued  by  the  NMPA,  which  is  intended  to  be  investigated  in 
+clinical trials for MTAP-deleted advanced solid tumors.
+
+In  March  2026,  HS-20152  injection,  a  Class  1  innovative  medicine  self-developed  by  the  Group, 
+obtained  a  Clinical  Trial  Approval  issued  by  the  NMPA,  which  is  intended  to  be  investigated  in 
+clinical trials for paroxysmal nocturnal hemoglobinuria (“PNH”).
+
+2
+
+In  March  2026,  the  Group’s  innovative  medicine  XINYUE  (昕越®)  (Inebilizumab  Injection) 
+was  granted  drug  registration  approval  by  the  NMPA  for  its  third  indication,  in  respect  of  which 
+XINYUE  is  used  in  combination  with  conventional  therapeutic  drugs  for  the  treatment  of  adult 
+patients  with  generalized  myasthenia  gravis  (“gMG”)  who  are  positive  for  anti-acetylcholine 
+receptor (AChR) or anti-muscle-specific tyrosine kinase (MuSK) antibodies.
+
+In  April  2026,  the  Group’s  self-developed  B7-H3-directed  antibody-drug  conjugate  (“ADC”) 
+HS-20093  for  injection  in  combination  with  adebrelimab  obtained  approval  to  be  included 
+as  Breakthrough-Therapy-Designated  Drug  by  the  NMPA,  with  the  proposed  indication  for 
+locally  advanced  or  metastatic  non-squamous  NSCLC  without  actionable  genomic  alterations 
+(“non-AGA”)  that  has  progressed  or  relapsed  after  platinum-based  chemotherapy.  Subsequently, 
+HS-20093  for  injection  was  further  approved  by  the  NMPA  to  be  included  as  Breakthrough-
+Therapy-Designated Drug for two indications, namely: in April 2026, advanced castration-resistant 
+prostate  cancer  previously  treated  with  novel  endocrine  therapy  and  taxane-based  chemotherapy; 
+and in May 2026, unresectable locally advanced or metastatic esophageal squamous cell carcinoma 
+that  failed  prior  first-line  treatment  with  platinum-based  chemotherapy  and  immune  checkpoint 
+inhibitors (“ICI”).
+
+In  April  2026,  HS-10522  tablets,  a  Class  1  innovative  medicine  self-developed  by  the  Group,  has 
+obtained two Clinical Trial Approvals issued by the NMPA, which are intended to be investigated 
+in  clinical  trials  for  the  treatment  of  uncontrolled  hypertension  (uHTN)  and  the  treatment  of 
+primary aldosteronism (PA), respectively.
+
+In  May  2026,  HS-10541  tablets,  a  Class  1  innovative  medicine  self-developed  by  the  Group, 
+obtained  a  Clinical  Trial  Approval  issued  by  the  NMPA,  which  is  intended  to  be  investigated  in 
+clinical trials for the treatment of patients with KRAS G12C-mutated advanced solid tumors.
+
+In  May  2026,  the  Group’s  self-developed  fourth-generation  EGFR-TKI  HS-10504  tablets 
+obtained  approval  to  be  included  as  Breakthrough-Therapy-Designated  Drug  by  the  NMPA,  with 
+the  proposed  indication  for  locally  advanced  or  metastatic  NSCLC  harboring  the  EGFR  C797S 
+mutation after prior EGFR-TKI therapy failure.
+
+In June 2026, the Biologics License Application of the Group’s innovative medicine Olatorepatide 
+Injection was accepted by the NMPA for chronic weight management in obese or overweight adult 
+patients.
+
+In  June  2026,  the  NDA  of  HS-10568  injection  (collaborator  code  SHR6508)  was  accepted  by  the 
+NMPA for secondary hyperparathyroidism (“SHPT”) in adult patients with chronic kidney disease 
+(“CKD”) undergoing hemodialysis.
+
+In  June  2026,  the  Group  entered  into  an  exclusive  license  agreement  with  Avere  Therapeutics, 
+Inc.  (“Avere”)  for  HS-20118  (collaborator  code  AVR-001),  a  cyclic  peptide  interleukin-23 
+(“IL-23”)  receptor  antagonist.  Avere  was  granted  an  exclusive  license  to  develop,  manufacture 
+and  commercialize  HS-20118  globally  (excluding  the  Chinese  Mainland,  Hong  Kong,  Macau  and 
+Taiwan).
+
+3
+
+The  Group  has  improved  steadily  in  environmental,  social  and  governance  (“ESG”)  aspects. 
+During  the  Reporting  Period,  the  Group’s  MSCI  ESG  rating  was  upgraded  to  the  highest  level  of 
+AAA,  achieving  a  globally  leading  position.  The  Group  was  again  selected  for  inclusion  in  the 
+Sustainability Yearbook (Global Edition) 2026  and Sustainability Yearbook (China Edition) 2026 
+published by S&P Global, and ranked in the top 1% of the Chinese pharmaceutical industry. It not 
+only  indicates  the  Company’s  past  achievements  in  the  ESG  field,  but  also  represents  our  long-
+term commitment and strategic plan for sustainable development.
+
+Events after the Reporting Period are set out below:
+
+In  July  2026,  HS-20136-2  injection,  a  Class  1  innovative  medicine  self-developed  by  the  Group, 
+obtained two Clinical Trial Approvals issued by the NMPA, which are intended to be investigated 
+in clinical trials for type 2 diabetes mellitus (“T2DM”) and weight management, respectively.
+
+In  July  2026,  Avere  (an  investee  company  of  the  Company)  and  NextCure,  Inc.,  a  company  listed 
+on  Nasdaq  (NASDAQ:  NXTC)  entered  into  a  merger  agreement,  pursuant  to  which  Avere  will  be 
+merged into NextCure.
+
+In  July  2026,  HS-20093  met  the  primary  endpoint  of  overall  survival  (“OS”)  in  a  pivotal  Phase 
+III  clinical  trial  (ARTEMIS-008)  for  patients  with  advanced  or  relapsed  small  cell  lung  cancer 
+(“SCLC”) after prior platinum-based therapy.
+
+In July 2026, HS-20093 met the primary endpoint of progression-free survival (“PFS”) assessed by 
+the Independent Review Committee (“IRC”) in the pivotal Phase III clinical trial (ARTEMIS-011) 
+for  patients  with  osteosarcoma  who  had  progressed  or  relapsed  after  receiving  at  least  two  prior 
+lines of systemic therapy.
+
+In  August  2026,  HS-10582  tablets,  a  Class  1  innovative  medicine  self-developed  by  the  Group, 
+obtained  a  Clinical  Trial  Approval  issued  by  the  NMPA,  which  is  intended  to  be  investigated  in 
+clinical  trials  for  the  treatment  of  adult  patients  with  primary  hypercholesterolemia  and  mixed 
+dyslipidemia.
+
+Save  as  disclosed  above,  there  is  no  material  event  affecting  the  Company  during  the  period  from 
+June 30, 2026 to the date of this announcement.
+
+The website of the Group: www.hspharm.com/
+
+4
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Industry Review
+
+As  the  inaugural  year  of  the  15th  Five-Year  Plan,  the  first  half  of  2026  saw  rapid  development 
+in  the  pharmaceutical  industry,  propelled  by  robust  top-level  policy  design.  In  March,  the  Report 
+on  the  Work  of  the  Government  designated  the  biopharmaceutical  sector  as  an  “emerging  pillar 
+industry”  at  the  national  level  for  the  first  time,  marking  the  entry  of  pharmaceutical  innovation 
+into  national  core  strategic  arenas.  In  April,  the  General  Office  of  the  State  Council  issued  the 
+Several  Opinions  on  Improving  the  Drug  Price  Formation  Mechanism  (《關於健全藥品價格形
+成機制的若干意見》)  to  optimize  the  first-launch  pricing  mechanism  for  new  medicines,  such 
+as  innovative  medicines,  and  to  promote  diversified  payment  and  rational  pricing  of  innovative 
+medicines.  Policy  signals  were  released  in  concentrated  manner  across  key  stages,  including  new 
+medicines  research  and  development,  review  and  approval,  and  medical  insurance  reimbursement, 
+which  have  rapidly  translated  into  strong  momentum  for  the  development  of  the  industry.  During 
+the first half of the year, both the number of innovative medicines approved for marketing and the 
+scale  of  out-licensing  transactions  reached  record  highs.  China  has  firmly  maintained  its  position 
+as  the  world’s  second-largest  pharmaceutical  market  with  its  investigational  medicines  accounting 
+for approximately 30% of the global total, while the proportion of high value-added formulation in 
+exports continued to increase. The Chinese innovative pharmaceutical industry is fully transitioning 
+from the “follower” phase to the “frontrunner” phase.
+
+Business Highlights
+
+For the six months ended June 30, 2026, the Group recorded revenue of approximately RMB8,304 
+million, representing an increase of approximately 11.7% compared with the corresponding period 
+of  the  previous  year;  profit  of  approximately  RMB4,258  million,  representing  an  increase  of 
+approximately 35.8% compared with the corresponding period of the previous year; basic earnings 
+per  share  of  approximately  RMB0.70,  representing  an  increase  of  approximately  33.1%  compared 
+with  the  corresponding  period  of  the  previous  year;  revenue  of  innovative  medicines  amounted  to 
+approximately  RMB7,092  million,  and  its  proportion  of  total  revenue  increased  to  approximately 
+85.4%.
+
+We  generate  our  revenue  primarily  from  sales  of  pharmaceutical  products.  Our  main  products 
+are  concentrated  in  the  main  therapeutic  areas  on  which  the  Group  strategically  focuses.  The 
+increase  in  profit  and  basic  earnings  per  share  during  the  Reporting  Period  was  primarily  due  to 
+the  combined  effect  of  the  increase  in  revenue  of  innovative  medicines  and  the  increase  in  other 
+income.
+
+5
+
+For the six months ended June 30, 2026, the revenue and product portfolio of our therapeutic areas 
+are as follows:
+
+Therapeutic Area
+
+Product Portfolio
+
+Oncology area 
+
+(revenue amounted to 
+approximately RMB5,473 
+million, accounting for 
+approximately 65.9% of  
+the total revenue)
+
+Non-oncology areas 
+
+(revenue amounted to 
+approximately RMB2,831 
+million, accounting for 
+approximately 34.1% of  
+the total revenue)
+
+Innovative Medicine Products
+
+Ameile (阿美樂®)
+
+Innovative  medicine  Ameile  (Aumolertinib  Mesylate  Tablets), 
+innovative  medicine  Hansoh  Xinfu  (Flumatinib  Mesylate 
+Tablets),  Pulaile  (Pemetrexed  Disodium  for  Injection),  Pulaitan 
+(Enzalutamide  Soft  Capsules)  and  Xinwei  (Imatinib  Mesylate 
+Tablets), etc.
+
+Innovative  medicine  Hengmu  (Tenofovir  Amibufenamide 
+Tablets), innovative medicine XINYUE (Inebilizumab Injection), 
+innovative  medicine  Fulaimei  (Polyethylene  Glycol  Loxenatide 
+Injection),  innovative  medicine  Saint  Luolai  (Pegmolesatide 
+Injection),  Hengsen  (Micafungin  Sodium  for  Injection), 
+Ameining  (Agomelatine  Tablets),  Ailanning  (Paliperidone 
+Extended-Release  Tablets),  Oulanning  (Olanzapine  Tablets/
+Orally  Disintegrating  Tablets/Oral  Soluble  Films),  Fulaidi 
+(Repaglinide Tablets) and Punuoan (Ambrisentan Tablets), etc.
+
+Ameile  (Aumolertinib  Mesylate  Tablets),  self-developed  by  the  Group,  is  the  first  original 
+third-generation  EGFR-TKI  innovative  medicine  in  China.  In  March  2020,  it  was  approved  for 
+the  treatment  of  patients  with  locally  advanced  or  metastatic  NSCLC  with  T790M  mutation 
+positive, who have progressed on or after EGFR-TKI therapy. In December 2021, it was approved 
+as  the  first-line  treatment  for  adult  patients  with  locally  advanced  or  metastatic  NSCLC  whose 
+tumors  have  EGFR  exon  19  deletions  or  exon  21  (L858R)  substitute  mutation  positive.  In  March 
+2025,  it  was  approved  for  the  treatment  of  patients  with  locally  advanced,  unresectable  NSCLC 
+whose  disease  has  not  progressed  following  definitive  platinum-based  chemoradiotherapy  whose 
+tumors  have  EGFR  exon  19  deletions  or  exon  21  (L858R)  substitute  mutations.  In  May  2025,  it 
+was  approved  for  the  treatment  of  adult  patients  with  stage  II  to  IIIB  NSCLC  whose  tumors  have 
+EGFR exon 19 deletions or exon 21 (L858R) substitute mutations, and who have undergone tumor 
+resection  with  or  without  prior  adjuvant  chemotherapy  as  determined  by  their  physician.  In  June 
+2025,  it  was  approved  by  the  Medicines  and  Healthcare  products  Regulatory  Agency  (MHRA)  in 
+the UK for marketing.
+
+6
+
+Ameile  is  continuously  expanding  its  indications.  In  January  2026,  the  fifth  indication  of  Ameile 
+was  approved,  in  combination  with  pemetrexed  and  platinum-based  chemotherapy  to  be  used  as 
+the first-line treatment of adult patients with locally advanced or metastatic NSCLC whose tumors 
+have EGFR exon 19 deletions or exon 21 (L858R) mutations.
+
+As of the date of this announcement, the first to fourth indications of Ameile have been included in 
+the National Reimbursement Drug List (“NRDL”), continuously enhancing patient accessibility.
+
+Ameile  continues  to  strengthen  its  evidence  base.  As  of  the  date  of  this  announcement,  Ameile 
+has  been  recommended  as  Class  I  or  Preferred  by  multiple  national  diagnosis  and  treatment 
+guidelines,  including  the  Chinese Society of Clinical Oncology  (“CSCO”)  Guidelines for the 
+treatment of Non-small Cell Lung Cancer (2026 Edition)*  (《中國臨床腫瘤學會非小細胞肺癌
+診療指南(2026  版)》).  During  the  Reporting  Period,  six  academic  achievements  of  Ameile  were 
+presented at authoritative conferences such as the European Lung Cancer Congress (“ELCC”) and 
+the  American  Society  of  Clinical  Oncology  Annual  Meeting  (“ASCO”),  and  eight  were  published 
+in  top  academic  journals  such  as The Lancet Oncology, CA:A Cancer Journal for Clinicians and 
+Journal of Thoracic Oncology.
+
+In January 2026, the ARTS study, a Phase III clinical trial of Aumolertinib as adjuvant therapy for 
+patients with stage II-IIIB EGFR-mutated NSCLC, was published in The Lancet Oncology (Impact 
+Factor: 33.7). The study results showed that Aumolertinib could significantly improve the disease-
+free survival (DFS) of patients of stage II to IIIB NSCLC with EGFR mutations and whose tumors 
+have been fully resected, with a favorable safety profile.
+
+In  March  2026,  the  first  prospective,  randomized  and  multicenter  Phase  III  trial  (ACROSS  2 
+study)  specifically  targeting  EGFR-positive  NSCLC  patients  with  concomitant  tumor-suppressor 
+gene  (TSG)  co-mutation  was  published  in CA: A Cancer Journal for Clinicians  (Impact  Factor: 
+685.2). The results showed that when compared with Aumolertinib monotherapy, the treatment by 
+Aumolertinib  in  combination  with  Carboplatin-Pemetrexed  demonstrated  a  statistically  significant 
+and clinically meaningful improvement in PFS.
+
+In  June  2026,  the  Phase  III  trial  (AENEAS  2  study)  for  Aumolertinib  in  combination  with 
+platinum-based  chemotherapy  as  first-line  treatment  for  advanced  NSCLC  with  EGFR-sensitive 
+mutations  was  published  in The Lancet Oncology  (Impact  Factor:  33.7).  The  results  showed  that 
+Aumolertinib  in  combination  with  platinum-based  doublet  chemotherapy  could  significantly 
+improve  the  PFS  of  advanced  NSCLC  patients  who  have  EGFR  sensitive  mutations,  with  overall 
+manageable safety.
+
+In  June  2026,  the  Aumolertinib  NEOVADE  study  was  orally  presented  at  the  Clinical  Science 
+Symposium  of  ASCO  2026.  The  study  explored  for  the  first  time  a  neoadjuvant  treatment 
+of  Aumolertinib  followed  by  chemo-IO,  demonstrating  excellent  early  survival  benefits  and 
+pathological downstaging effects.
+
+7
+
+In July 2026, the results of the Aumolertinib ACTIVE study were published in Journal of Thoracic 
+Oncology  (Impact  Factor:  23.3).  This  is  the  world’s  first  prospective  “treatment  switching”  study 
+targeted  at  patients  with  third-generation  EGFR-TKI  (Osimertinib)  intolerance.  The  study  results 
+showed  that  among  patients  who  switched  to  Aumolertinib  following  Osimertinib  intolerance, 
+the  three-month  treatment-switch  success  rate  was  70.6%,  the  median  progression-free  survival 
+(“mPFS”)  period  was  11.6  months,  and  the  disease-control  rate  was  86.5%.  The  ACTIVE  study 
+has provided an evidence-based reference for the subsequent treatment of NSCLC patients who are 
+intolerant to Osimertinib.
+
+During the Reporting Period, Aumolertinib has made additional global progress, including:
+
+In  February  2026,  Aumolertinib  Mesylate  Tablets  (trade  name  in  China:  Ameile  (阿美樂®), 
+overseas  trade  name:  Aumseqa®)  was  approved  in  the  EU  as  monotherapy  for:  (i)  the  first-line 
+treatment  of  adult  patients  with  advanced  NSCLC  whose  tumors  have  EGFR  exon  19  deletions 
+or  exon  21  (L858R)  substitution  mutations;  and  (ii)  the  treatment  of  adult  patients  with  advanced 
+EGFR  T790M  mutation-positive  NSCLC.  Aumolertinib  Mesylate  Tablets  became  the  first  EGFR-
+TKI original medicine developed in China that was approved for marketing in the EU.
+
+In  August  2026,  all  five  NMPA-approved  indications  of  Aumolertinib  were  also  approved  for 
+marketing  by  the  Pharmaceutical  Administration  Bureau  of  Macau  Special  Administrative  Region 
+of  the  PRC,  covering  the  first-line  and  second-line  treatment  of  advanced  NSCLC  with  classic 
+EGFR mutations, post-chemoradiotherapy consolidation for locally advanced disease, post-surgical 
+adjuvant therapy, and first-line targeted therapy in combination with chemotherapy.
+
+Hansoh Xinfu (豪森昕福®)
+
+Hansoh  Xinfu  (Flumatinib  Mesylate  Tablets)  is  the  first  original  novel  second-generation  TKI 
+for  chronic  myeloid  leukemia  in  China,  which  was  approved  in  2019.  In  2020,  Hansoh  Xinfu  was 
+included  in  the  NRDL  for  the  first  time  and  was  successfully  renewed  in  November  2024,  and  is 
+currently  within  the  term  of  the  agreement.  For  the  treatment  of  chronic  myeloid  leukemia,  based 
+on  results  of  existing  clinical  trials,  compared  with  first-generation  TKIs,  Hansoh  Xinfu  achieved 
+faster  and  deeper  molecular  remission  (e.g.  MMR,  MR4.5),  and  compared  to  second-generation 
+and  other  TKIs,  it  has  comparable  depth  of  remission  and  durable  efficacy.  Hansoh  Xinfu  also 
+has  favorable  safety  profile,  with  no  specific  adverse  reactions  (such  as  pleural  effusion  or 
+cardiotoxicity)  relating  to  the  use  of  other  second-generation  BCR-ABL  TKI  treatments  being 
+found.  Further,  no  adverse  reactions  (such  as  hypertension  or  elevated  lipase)  related  to  STAMP 
+allosteric inhibitor treatment have been reported, and it has been adopted for long-term application 
+by  an  increasing  number  of  patients.  Both  the Guidelines for the Diagnosis and Treatment of 
+Chronic Myeloid Leukemia (2022 Edition)*  (《慢性髓性白血病診療指南(2022  年版)》)  issued  by 
+the  National  Health  Commission  of  the  PRC  and  the Guidelines for Diagnosis and Treatment of 
+Malignant Hematologic Diseases (2025)*  (《惡性血液病診療指南(2025)》)  issued  by  the  CSCO 
+recommended Hansoh Xinfu as the first-line treatment of chronic myeloid leukemia. The Guideline 
+for the Diagnosis and Treatment of Chronic Myeloid Leukemia in China (2025 Edition)*  (《慢性
+髓細胞性白血病中國診斷與治療指南(2025年版)》)  recommended  Flumatinib  for  first-line  and 
+subsequent line switching treatment of chronic myeloid leukemia.
+
+8
+
+In  June  2026,  multiple  studies  relating  to  Hansoh  Xinfu  were  presented  at  the  31st  Annual 
+Congress of the European Hematology Association of 2026 (EHA 2026), encompassing real-world 
+efficacy  validation,  optimization  of  combination  therapy  strategies  and  exploration  of  prognostic 
+factors. These studies provide robust clinical evidence for the long-term standardized management 
+of  chronic  myeloid  leukemia.  The  clinical  efficacy  and  safety  of  Hansoh  Xinfu  are  continuing  to 
+gain recognition within the international academic community.
+
+XINYUE (昕越®)
+
+XINYUE  (Inebilizumab  Injection)  is  a  targeted  CD19  B-cell  depleting  antibody  and  the  world’s 
+first  humanized  CD19  monoclonal  antibody  approved  for  the  treatment  of  adult  patients  with 
+anti-aquaporin-4 (“AQP4”) antibody-positive neuromyelitis optica spectrum disorder (“NMOSD”). 
+In May 2019, the Group entered into a license agreement with Viela Bio Inc. (which was acquired 
+by Horizon Therapeutics plc in 2021, and the latter was acquired by Amgen INC in 2023) to obtain 
+an  exclusive  license  to  develop  and  commercialize  the  product  in  Chinese  Mainland,  Hong  Kong 
+and  Macau.  In  March  2022,  the  product  was  approved  by  the  NMPA  in  China  and  is  indicated 
+for  the  treatment  of  adult  NMOSD  patients  who  are  AQP4  antibody  positive.  In  January  2023, 
+XINYUE was included in the NRDL for the first time and was successfully renewed in November 
+2024, and is currently within the term of the agreement. In August 2025, the second indication for 
+XINYUE was approved for the treatment of adult patients with IgG4-related disease.
+
+During  the  Reporting  Period,  XINYUE  further  expanded  its  scope  of  indications.  In  March  2026, 
+the  third  indication  for  XINYUE  was  approved  to  be  used  in  combination  with  conventional 
+therapeutic  drugs  for  the  treatment  of  adult  patients  with  gMG  who  are  positive  for  anti-
+acetylcholine receptor (AChR) or anti-muscle-specific tyrosine kinase (MuSK) antibodies.
+
+In  April  2026,  the  results  of  nine  real-world  studies  of  XINYUE  involving  Chinese  patients  were 
+selected for the 78th Annual Meeting of the American Academy of Neurology (AAN) in 2026. The 
+study  results  demonstrated  that  Inebilizumab  showed  significant  efficacy  and  a  favorable  safety 
+profile in patients with NMOSD and gMG, effectively reducing the disease relapse rate, improving 
+disability  scores,  maintaining  stable  B-cell  levels,  and  significantly  enhancing  patient  treatment 
+satisfaction and quality of life.
+
+9
+
+Fulaimei (孚來美®)
+
+Fulaimei  (Polyethylene  Glycol  Loxenatide  Injection)  is  the  first  innovative  medicine  launched 
+leveraging  the  Group’s  proprietary  PEGylation  technology.  It  is  the  first  original  GLP-1  receptor 
+agonist  (“GLP-1RA”)  weekly  formulation  in  China  and  the  world’s  first  PEG  GLP-1RA  weekly 
+formulation,  which  was  approved  in  May  2019  for  the  treatment  of  T2DM.  Fulaimei  provides  a 
+new treatment option that is safe, effective and convenient for T2DM patients in China, with clear 
+efficacy  in  lowering  blood  glucose,  combined  with  weight  loss,  lowering  of  cholesterol  and  blood 
+pressure,  renal  and  cardiovascular  benefits,  as  well  as  low  incidence  of  gastrointestinal  reactions 
+and  hypoglycemic  adverse  events,  while  requiring  only  one  subcutaneous  injection  per  week. 
+In  2020,  Fulaimei  was  included  in  the  NRDL  for  the  first  time  and  was  successfully  renewed  in 
+November 2024, and is currently within the term of the agreement.
+
+During  the  Reporting  Period,  abstracts  of  multiple  real-world  studies  of  Fulaimei  were  selected 
+for  international  academic  conferences,  including  2026  European  Congress  of  Internal  Medicine 
+(“ECIM”) and 2026 European Congress of Endocrinology (“ECE”).
+
+In  March  2026,  two  real-world  studies  of  Fulaimei,  namely  FIGHTING-2  and  FIGHTING-3, 
+were  selected  for  the  ECIM,  further  solidifying  its  leading  position  in  cardiovascular  protection 
+compared to DPP-4i and certain imported GLP-1RAs in real-world clinical settings.
+
+In  May  2026,  two  real-world  studies  of  Fulaimei  were  selected  for  the  ECE,  focusing  on 
+cardiovascular  and  renal  outcomes.  This  fully  demonstrated  its  important  clinical  value  in  the 
+comprehensive management of T2DM patients, and provided a solid evidence-based foundation for 
+the individualized and full-course metabolic management of Chinese T2DM patients.
+
+During  the  Reporting  Period,  multiple  study  findings  related  to  Fulaimei  were  published 
+in  internationally  renowned  journals,  including  Frontiers in Endocrinology, Journal of 
+Endocrinological Investigation and Molecular Metabolism.
+
+In  January  2026, Frontiers in Endocrinology  published  a  randomized  controlled  clinical  study, 
+demonstrating  for  the  first  time  the  remarkable  efficacy  of  Fulaimei  in  patients  with  severe 
+obesity  combined  with  T2DM,  which  provided  important  evidence-based  medical  support  for  the 
+pharmacological treatment of such specific population.
+
+In  February  2026,  a  clinical  observational  study  jointly  conducted  by  16  domestic  hospitals 
+demonstrated for the first time in the T2DM population that Fulaimei in combination with standard 
+therapy  not  only  effectively  controls  blood  glucose,  body  weight  and  blood  lipids,  but  also 
+significantly  improves  the  cognitive  function  and  emotional  state  of  patients.  This  study  provided 
+new  treatment  insights  and  evidence  support  for  the  comprehensive  management  of  T2DM, 
+particularly for patients at risk of cognitive decline. The study results were published in the Journal 
+of Endocrinological Investigation.
+
+10
+
+In  June  2026, Molecular Metabolism,  an  authoritative  journal  in  the  field  of  endocrinology  and 
+metabolism, published the Study on the Mechanism of Long-acting GLP-1 Receptor Agonist PEG-
+Loxenatide in Diabetic Osteoporosis,  which  systematically  reported  for  the  first  time  the  bone 
+protective  potential  of  Fulaimei  in  diabetic  osteoporosis,  providing  preliminary  evidence  for  the 
+application of such medicine in the field of bone metabolism.
+
+In  addition,  Fulaimei  has  been  successively  included  in  multiple  authoritative  guidelines  and 
+consensuses, such as the Guidelines for the Prevention and Treatment of Diabetes Mellitus in China 
+(2024 Edition)* (《中國糖尿病防治指南(2024版)》), the National Guidelines for the Prevention and 
+Control of Diabetes in Primary Care (2025 Edition)*  (《國家基層糖尿病防治管理指南(2025)》), 
+the Guidelines for the Management of Diabetes Mellitus in the Elderly in China (2024 Edition)* 
+(《中國老年糖尿病診療指南(2024版)》),  the Expert Consensus on the Diagnosis and Treatment of 
+Diabetes Mellitus Patients with Cardiovascular Disease* (《糖尿病患者合併心血管疾病診治專家
+共識》),  the Expert Consensus on Weight Management in Patients with Diabetes Mellitus (2024 
+Edition)*  (《糖尿病患者體重管理專家共識(2024版)》)  and  the Chinese Expert Consensus on the 
+Comprehensive Management of Patients with Cardiovascular-Kidney-Metabolic Syndrome* (《心血
+管 － 腎臟 － 代謝綜合症患者的綜合管理中國專家共識》).  In  March  2026,  Fulaimei  was  included 
+in  the Clinical Guidelines for the Prevention and Treatment of Type 2 Diabetes in the Elderly in 
+China (2026 Edition)* (《中國老年 2 型糖尿病防治臨床指南 (2026年版)》).
+
+Hengmu (恒沐®)
+
+Hengmu  (Tenofovir  Amibufenamide  Tablets)  is  a  novel  nucleotide  reverse  transcriptase  inhibitor 
+(NRTI)  self-developed  by  the  Group,  which  is  the  first  originally  developed  oral  dose  medicine 
+indicated  for  the  treatment  of  hepatitis  B  virus  infection  in  China.  Hengmu  was  approved  by  the 
+NMPA in June 2021 for the treatment of adult patients with chronic hepatitis B. In the same year, 
+Hengmu  was  included  in  the  NRDL  for  the  first  time  and  was  successfully  renewed  for  inclusion 
+in the 2025 NRDL in December 2025.
+
+The  48-week,  96-week  and  144-week  results  of  the  phase  III  registration  clinical  study  and  the 
+research  data  of  the  phase  IV  study  with  a  follow-up  period  of  up  to  5  years  (240  weeks)  of 
+Hengmu  have  been  published  in  several  academic  journals  and  international  conferences.  The 
+results  of  the  studies  strongly  confirmed  the  efficacy  and  safety  of  Hengmu  in  the  long-term 
+treatment  of  patients  with  chronic  hepatitis  B.  Specifically,  in  terms  of  bone  and  renal  safety, 
+Hengmu demonstrates advantages over tenofovir disoproxil fumarate (TDF).
+
+As of the date of this announcement, Hengmu has been successively recommended by 17 domestic 
+and  overseas  guidelines  and  consensuses,  including  the Asian-Pacific Clinical Practice Guidelines 
+on the Management of Chronic Hepatitis B (2026 Edition)*  (《亞太慢性乙型肝炎管理臨床實踐指
+南(2026版)》). Findings on multiple clinical studies of Hengmu were presented at top international 
+academic conferences in the field of hepatology, including the American Association for the Study 
+of Liver Diseases (AASLD) Annual Meeting, the European Association for the Study of the Liver 
+(EASL)  Annual  Meeting  and  the  Asian  Pacific  Association  for  the  Study  of  the  Liver  (APASL) 
+Annual  Meeting,  and  were  published  in  domestic  and  international  journals  such  as Alimentary 
+Pharmacology & Therapeutics, Frontiers In Pharmacology, World Journal of Gastroenterology, 
+Journal of Clinical and Translational Hepatology and Chinese Journal of Hepatology.
+
+11
+
+Saint Luolai (聖羅萊®)
+
+Saint  Luolai  (Pegmolesatide  Injection),  self-developed  by  the  Group,  is  the  “only  class  1  small 
+molecule  peptide  chemical  drug  approved  worldwide  in  the  field  of  renal  anemia  treatment”.  In 
+June  2023,  Saint  Luolai  was  approved  for  two  indications  to  treat  anemia  in  CKD  adult  patients 
+who  have  not  received  erythropoiesis-stimulating  agent  and  are  not  on  dialysis,  as  well  as  those 
+who are receiving short-acting erythropoietin treatment and on dialysis. In 2023, Saint Luolai was 
+included  in  the  NRDL  for  the  first  time  and  was  successfully  renewed  for  inclusion  in  the  2025 
+NRDL in December 2025.
+
+Saint  Luolai  has  high  affinity  and  selectivity  to  erythropoietin  (“EPO”)  receptor.  It  effectively 
+promotes  erythropoiesis  and  assists  in  reducing  potential  safety  risks.  The  data  of  the  phase  III 
+pivotal  registrational  clinical  trial  of  Saint  Luolai  (published  in eClinicalMedicine,  a  subset  of 
+The Lancet, in 2023) demonstrated that subcutaneous injection of Saint Luolai once a month is as 
+effective  and  safe  as  fast-acting  recombinant  human  erythropoietin  (“rHuEPO”)  conventionally 
+administered  1  to  3  times  a  week  in  treating  anemia  in  Chinese  dialysis  patients.  It  even  shows 
+a  trend  of  superiority  and  a  lower  incidence  of  adverse  cardiovascular  events.  Latest  post-hoc 
+analyses have demonstrated that the risk of adverse cardiovascular events in the Saint Luolai group 
+was lower than that in the rHuEPO group in both dialysis and non-dialysis patients. A mechanistic 
+study  further  suggested  that  the  favorable  cardiovascular  safety  profile  of  Saint  Luolai  may  be 
+attributable to its high selectivity for the EPO receptor. Post-hoc analyses also revealed that, among 
+non-dialysis  patients,  the  Saint  Luolai  group  exhibited  higher  iron  utilization  rates  and  lower  iron 
+supplementation  requirements  compared  with  the  rHuEPO  group.  Recent  studies  also  found  that 
+Saint  Luolai’s  prolonged  anti-anemia  effect  not  only  results  from  higher  pharmacokinetic  half-life 
+due  to  PEGylation,  but  is  also  related  to  mechanisms  such  as  Pegmolesatide’s  enhanced  EPO 
+receptor binding stability.
+
+As  of  the  date  of  this  announcement,  multiple  study  findings  of  Saint  Luolai  have  been  published 
+in  top-tier  journals  or  medical  conferences,  including  eClinicalMedicine, Kidney International 
+Reports, Journal of Translational Medicine, International Immunopharmacology, Frontiers 
+in Pharmacology,  as  well  as the  American  Society  of  Nephrology  (ASN)  Kidney  Week,  the 
+International Society of Nephrology (ISN) and the World Congress of Nephrology (WCN).
+
+With  its  innovative  structure,  unique  mechanism  of  action  and  solid  clinical  evidence,  Saint 
+Luolai  has  been  recommended  by  multiple  guidelines  and  consensuses,  including  the Clinical 
+Practice Guideline for Delaying the Progression of Chronic Kidney Disease (2025 Edition)* 
+(《延緩慢性腎臟病進展臨床管理指南(2025年版)》),  the  Chinese Clinical Practice Guidelines 
+for the Management of Peridialysis-Related Chronic Kidney Disease (2025 Edition)*  (《中國
+圍透析期慢性腎臟病管理臨床實踐指南(2025年版)》),  the  Chinese Expert Consensus on the 
+Clinical Management of Renal Anemia in Patients undergoing Maintenance Hemodialysis (2026 
+Edition)*  (《維持性血液透析合併腎性貧血臨床管理中國專家共識(2026版)》),  the Chinese Expert 
+Consensus on Long-acting Erythropoiesis-stimulating Agents in the Treatment of Renal Anemia 
+(2024 Edition)*  (《長效紅細胞生成刺激劑治療腎性貧血中國專家共識(2024 年版)》)  and  the 
+Chinese Expert Consensus on Guiding Self-management of Patients with Renal Anemia (2024 
+Edition)* (《指導腎性貧血患者自我管理的中國專家共識(2024版)》).
+
+12
+
+R&D and Innovation
+
+Innovation is the core driver of the Company’s development. The Group has consistently increased 
+its  investment  in  R&D  year  by  year,  established  comprehensive  R&D  platforms,  and  built  a 
+portfolio  of  proprietary  technologies.  It  has  successfully  developed  and  commercialized  multiple 
+innovative  medicines,  while  advancing  a  pipeline  of  innovative  medicines  across  various  stages 
+of  development.  Our  professional  R&D  team  consists  of  over  2,500  research  fellows  at  four  R&D 
+centres located in Maryland, United States, and Shanghai, Changzhou and Lianyungang, China. We 
+have  several  national-level  R&D  designations,  including  the  National  Technology  Center*  (國家
+級技術中心), Post-doctoral Research Station* (博士後科研工作站) and Key National Laboratory* 
+(國家重點實驗室).
+
+During the six months ended June 30, 2026, we submitted eight formal patent applications in China 
+and 92 formal patent applications overseas, and were granted 57 patents globally.
+
+R&D pipeline update
+
+During  the  six  months  ended  June  30,  2026,  the  Group  had  more  than  70  clinical  trials  of 
+innovative medicines being investigated, covering more than 40 innovative medicine candidates.
+
+During  the  Reporting  Period,  we  had  four  new  innovative  medicine  candidates  entering  clinical 
+stage,  including  HS-20152  (for  PNH);  HS-10587  (for  MTAP-deleted  advanced  solid  tumors);  HS-
+10522  (for  uncontrolled  hypertension  (uHTN)  and  primary  aldosteronism  (PA));  HS-10541  (for 
+KRAS G12C-mutated advanced solid tumors).
+
+During  the  Reporting  Period,  three  new  phase  III  pivotal  registration  clinical  trials  were  added, 
+including:  self-developed  B7-H3-directed  ADC  HS-20093  (for  2L  non-AGA  NSCLC,  esophageal 
+squamous  cell  carcinoma);  self-developed  Orexin  Receptors  (OXR)-targeted  HS-10506  (for 
+insomnia).
+
+13
+
+R&D progress of oncology key pipeline candidates
+
+Risvutatug Rezetecan (HS-20093)
+
+HS-20093,  a  B7-H3-directed  ADC  self-developed  by  the  Group,  is  composed  of  a  fully  human 
+anti-B7-H3  monoclonal  antibody  covalently  linked  to  topoisomerase  inhibitor  (TOPOi)  payload. 
+In  December  2023,  the  Group  entered  into  an  exclusive  license  agreement  with  GlaxoSmithKline 
+Intellectual  Property  (No.  4)  Limited  (“GSK”),  pursuant  to  which  GSK  was  granted  an  exclusive 
+worldwide  license  (excluding  the  Chinese  Mainland,  Hong  Kong,  Macau  and  Taiwan)  to  develop, 
+manufacture and commercialize the product.
+
+During  the  Reporting  Period,  HS-20093  was  successfully  advanced  to  clinical  trials  for  multiple 
+indications  in  the  PRC:  its  use  for  the  treatment  of  2L  non-AGA  non-squamous  NSCLC  and 
+esophageal squamous cell carcinoma has entered into the Phase III, while proofs of concept (PoC) 
+clinical  studies  for  the  treatment  of  head  and  neck  squamous  cell  carcinoma  (HNSCC),  castrate-
+resistant prostate cancer and other solid tumors were also advancing concurrently.
+
+In  July  2026,  HS-20093  met  the  primary  endpoint  of  OS  in  a  pivotal  Phase  III  clinical  trial 
+(ARTEMIS-008) for patients with advanced or relapsed SCLC after prior platinum-based therapy.
+
+In  July  2026,  HS-20093  met  the  IRC-PFS  primary  endpoint  in  a  pivotal  Phase  III  clinical  trial 
+(ARTEMIS-011)  for  patients  with  osteosarcoma  who  had  progressed  or  relapsed  after  at  least  two 
+prior lines of systemic therapy.
+
+During  the  Reporting  Period,  HS-20093  was  granted  three  Breakthrough-Therapy-Designated 
+Drugs by the NMPA as follows:
+
+In  April  2026,  HS-20093  for  injection  in  combination  with  adebrelimab  for  locally  advanced  or 
+metastatic  non-squamous  NSCLC  without  actionable  genomic  alterations  that  has  progressed  or 
+relapsed after platinum-based chemotherapy.
+
+In  April  2026,  HS-20093  for  injection  for  advanced  castration-resistant  prostate  cancer  previously 
+treated with novel endocrine therapy and taxane-based chemotherapy.
+
+In  May  2026,  HS-20093  for  injection  for  unresectable  locally  advanced  or  metastatic  esophageal 
+squamous  cell  carcinoma  that  failed  prior  first-line  treatment  with  platinum-based  chemotherapy 
+and ICI.
+
+14
+
+As of the date of this announcement, it has obtained a total of 12 regulatory designations in China, 
+the  United  States,  Europe  and  Japan,  covering  multiple  solid  tumor  indications  with  high  clinical 
+demand.
+
+In  addition  to  the  three  aforementioned  NMPA  Breakthrough-Therapy-Designated  Drugs,  it  also 
+includes  three  Breakthrough-Therapy-Designated  Drugs  granted  by  the  NMPA:  in  November 
+2024,  for  extensive-stage  small-cell  lung  cancer  (“ES-SCLC”)  developed  after  standard  first-
+line  treatment  (platinum  doublet  chemotherapy  combined  with  immunotherapy);  in  February 
+2025,  for  the  treatment  of  patients  with  osteosarcoma  who  have  progressed  on  at  least  two 
+prior  lines  of  therapy;  in  April  2025,  for  locally  advanced  or  metastatic  non-squamous  NSCLC 
+without  actionable  genomic  alterations  that  has  progressed  or  recurred  following  platinum-based 
+chemotherapy.
+
+Two  Breakthrough  Therapy  Designations  and  one  Orphan  Drug  Designation  (“ODD”)  were 
+granted  by  the  U.S.  Food  and  Drug  Administration  (FDA):  in  August  2024,  for  the  treatment 
+of  patients  with  ES-SCLC  with  disease  progression  on  or  after  platinum-based  chemotherapy 
+(relapsed  or  refractory);  in  January  2025,  for  the  treatment  of  adult  patients  with  relapsed  or 
+refractory  osteosarcoma  (bone  cancer)  who  have  progressed  on  at  least  two  prior  lines  of  therapy; 
+in December 2025, for the treatment of SCLC.
+
+One  Priority  Medicines  (PRIME)  designation  and  one  ODD  were  granted  by  the  European 
+Medicines  Agency  (EMA):  in  December  2024,  for  the  treatment  of  patients  with  relapsed  ES-
+SCLC; in October 2025, for the treatment of pulmonary neuroendocrine cancer, including SCLC.
+
+One ODD was granted by the Ministry of Health, Labour and Welfare of Japan: in March 2026, for 
+the treatment of SCLC.
+
+During the Reporting Period, multiple clinical studies of HS-20093 were presented at international 
+academic conferences or published in authoritative journals:
+
+In  February  2026,  the  Phase  II  study  of  HS-20093  for  the  treatment  of  patients  with  metastatic 
+castrate-resistant  prostate  cancer  (“mCRPC”)  was  presented  at  the  2026  ASCO  Genitourinary 
+Cancers  Symposium  (GU).  The  results  showed  that  HS-20093  demonstrated  favorable  anti-tumor 
+activity  in  both  taxane-pretreated  and  taxane-naïve  mCRPC  patients,  with  an  overall  manageable 
+safety profile.
+
+In  March  2026,  the  Phase  Ia/b  study  of  HS-20093  was  published  in Cancer Cell.  The  results 
+showed  that  HS-20093  demonstrated  clinically  meaningful  anti-tumor  activity  in  lung  cancer 
+patients who had previously received multiple lines of therapy.
+
+In  April  2026,  the  Phase  I  study  of  HS-20093  in  combination  with  adebrelimab  for  the  treatment 
+of  patients  with  non-squamous  NSCLC  without  actionable  genomic  alterations  was  presented 
+at  the  2026  American  Association  for  Cancer  Research  (“AACR”)  Annual  Meeting.  The  results 
+demonstrated encouraging anti-tumor activity and an overall manageable safety profile.
+
+In  June  2026,  the  positive  Phase  II  study  results  of  HS-20093  for  the  treatment  of  patients  with 
+relapsed  or  refractory  osteosarcoma  and  soft  tissue  sarcoma  (STS)  were  presented  at  the  2026 
+European  Society  for  Medical  Oncology  Targeted  Anticancer  Therapies  Asia  (ESMO  TAT  Asia) 
+Congress,  demonstrating  durable  anti-tumor  activity  and  a  manageable  safety  profile  in  both 
+indications.
+
+15
+
+Mocertatug Rezetecan (HS-20089)
+
+HS-20089  is  a  B7-H4-targeted  ADC  self-developed  by  the  Group.  In  October  2023,  the  Group 
+entered  into  an  exclusive  license  agreement  with  GSK,  pursuant  to  which  the  Group  granted  GSK 
+an  exclusive  global  license  (excluding  Chinese  Mainland,  Hong  Kong,  Macau  and  Taiwan)  to 
+develop,  manufacture  and  commercialize  this  product.  In  May  2025,  HS-20089  was  approved  by 
+the  NMPA  as  Breakthrough-Therapy-Designated  Drug  for  the  proposed  indication  of  treatment 
+of  patients  with  platinum-resistant  recurrent  epithelial  ovarian  cancer,  fallopian  tube  cancer  or 
+primary peritoneal cancer.
+
+During the Reporting Period, HS-20089 made smooth progress in multiple clinical trials for various 
+indications in China, including a Phase III clinical study for platinum-resistant ovarian cancer and 
+proof-of-concept (PoC) studies for the treatment of other solid tumors.
+
+In  February  2026,  the  results  of  two  clinical  studies  of  HS-20089  in  patients  with  platinum-
+sensitive  ovarian  cancer  (PSOC)  were  presented  at  the  2026  European  Society  of  Gynaecological 
+Oncology (ESGO) Congress, as follows:
+
+HS-20089-103  Study,  a  Phase  I  study  designed  to  evaluate  HS-20089  combination  therapies  in 
+patients with advanced solid tumors. The results demonstrated that, among patients with platinum-
+sensitive  recurrent  ovarian  cancer,  with  a  median  follow-up  period  of  3.9  months,  HS-20089  in 
+combination  with  bevacizumab  exhibited  favorable  anti-tumor  activity  with  confirmed  objective 
+response rate (“cORR”) at 72.2%, and manageable safety. Consistent with the previously reported 
+known safety profile, no new or additive toxicities were observed.
+
+HS-20089-201  Study,  a  Phase  II  study  designed  to  evaluate  the  efficacy,  safety,  pharmacokinetics 
+and  immunogenicity  of  HS-20089  in  Chinese  patients  with  recurrent  or  metastatic  ovarian  cancer 
+and  endometrial  cancer.  The  results  demonstrated  that,  among  heavily  pretreated  patients  with 
+platinum-sensitive  recurrent  ovarian  cancer,  with  a  median  follow-up  period  of  16.6  months, 
+three  patients  achieved  complete  response  (CR),  and  the  cORR  was  64.5%.  The  median  duration 
+of  response  (DoR)  was  13.8  months,  and  the  mPFS  was  14.1  months.  The  safety  profile  of 
+monotherapy was manageable and consistent with prior clinical experience.
+
+HS-20122
+
+HS-20122 is a bispecific ADC developed based on HS-20117 that targets EGFR/c-MET. In March 
+2024,  the  Group  entered  into  a  license  agreement  with  Biotheus  Inc.  (“Biotheus”,  which  was 
+acquired  by  Biopharmaceutical  New  Technologies  in  February  2025)  and  obtained  an  exclusive 
+license  from  Biotheus  to  use  bispecific  antibody  targeting  EGFR/c-MET,  including  HS-20117, 
+globally  for  the  development,  production  and  commercialization  of  ADC  products,  with  the  right 
+of sublicense.
+
+16
+
+Dalmelitinib Mesylate Tablets (HS-10241)
+
+Dalmelitinib  Mesylate  Tablets  is  an  orally  administered  and  highly  selective  c-MET  TKI  self-
+developed  by  the  Group,  for  the  treatment  of  patients  with  locally  advanced  or  metastatic  EGFR 
+mutation-positive NSCLC whose tumors have MET amplification after failure of prior EGFR-TKI 
+therapy. 
+
+In  February  2026,  the  NDA  for  Dalmelitinib  Mesylate  Tablets  in  combination  with  Aumolertinib 
+Mesylate Tablets (Ameile 阿美樂 ®) has been accepted by the NMPA.
+
+In March 2026, the 2026 ELCC presented the Phase Ib study data of Dalmelitinib Mesylate Tablets 
+in  combination  with  Aumolertinib  Mesylate  Tablets  for  the  treatment  of  patients  with  locally 
+advanced  or  metastatic  EGFR  mutation-positive  NSCLC  whose  tumors  have  MET  amplification 
+after  failure  of  prior  EGFR-TKI  therapy.  The  study  results  demonstrated  that  Dalmelitinib 
+in  combination  with  Aumolertinib  exhibited  encouraging  clinical  anti-tumor  activity  and  a 
+manageable  safety  profile  in  115  efficacy-evaluable  NSCLC  patients.  Specifically,  mPFS  was  7.4 
+months  and  median  OS  was  25.4  months.  Among  the  evaluable  patients,  >85%  had  previously 
+undergone  third-generation  EGFR-TKI  therapy,  which  aligns  more  closely  with  clinical  practice; 
+furthermore,  compared  with  previous  reports,  this  study  covered  broader  detection  thresholds  for 
+MET  amplification.  In  terms  of  safety,  the  combination  therapy  was  well  tolerated,  with  most  of 
+the  treatment-emergent  adverse  events  (“TEAEs”)  being  Grade  1-2  and  generally  reversible.  No 
+new safety signals were identified.
+
+HS-10504
+
+HS-10504  is  a  novel,  potent  and  highly  selective  fourth-generation  EGFR-TKI  self-developed  by 
+the  Group.  As  of  the  date  of  this  announcement,  it  has  entered  Phase  III  clinical  trials  in  patients 
+with NSCLC.
+
+In  April  2026,  the  results  of  the  first-in-human  Phase  I  study  of  HS-10504  in  patients  with 
+advanced  NSCLC  were  presented  at  the  2026  AACR  Annual  Meeting.  The  study  results 
+demonstrated  that  HS-10504  exhibited  notable  anti-tumor  activity  in  patients  with  NSCLC 
+harbouring  the  EGFR  C797S  mutation.  Given  its  rapid  onset  of  action,  durable  remission  and 
+manageable safety profile, it has the potential to become a new treatment option for these patients 
+with poor prognosis and currently no targeted therapy options.
+
+In  May  2026,  HS-10504  was  approved  by  the  NMPA  as  Breakthrough-Therapy-Designated  Drug, 
+with  the  proposed  indication  for  patients  with  locally  advanced  or  metastatic  NSCLC  with  EGFR 
+C797S mutations who have failed EGFR-TKI therapy.
+
+HS-10365
+
+HS-10365  capsules  is  a  highly  selective  RET  inhibitor  self-developed  by  the  Group.  In  October 
+2025,  its  NDA  was  accepted  by  the  NMPA  for  the  treatment  of  adult  patients  with  RET  fusion-
+positive locally advanced or metastatic NSCLC.
+
+17
+
+R&D progress of non-oncology key pipeline candidates
+
+Olatorepatide (HS-20094)
+
+Olatorepatide  is  a  once-weekly  subcutaneous  injection  GLP-1/GIP  receptor  dual  agonist  self-
+developed by the Group, which serves to modulate the metabolic pathways associated with appetite 
+control,  glucose  metabolism  and  energy  balance.  By  activating  complementary  insulinotropic 
+pathways,  Olatorepatide  aims  to  achieve  robust  weight  loss  while  maintaining  a  favorable 
+tolerability profile.
+
+In March 2026, the Phase III clinical trial of Olatorepatide for the treatment of adults with obesity 
+or overweight met its co-primary endpoints. The study results demonstrated that the Olatorepatide  
+group achieved a mean body weight reduction from baseline of up to 19.3% at Week 48, and up to 
+97.2% of subjects achieved a body weight reduction of ≥5%, representing a statistically significant 
+difference  as  compared  with  the  placebo  group.  Olatorepatide  also  demonstrated  favorable 
+gastrointestinal tolerability, with an average incidence of nausea of <10% and an average incidence 
+of  vomiting  of  <5%.  Compared  with  published  Phase  III  clinical  trial  data  for  GLP-1-related  dual 
+agonists,  Olatorepatide  was  associated  with  lower  rates  of  gastrointestinal  adverse  events  and 
+treatment discontinuation.
+
+In  June  2026,  the  NMPA  accepted  the  Biologics  License  Application  for  Olatorepatide  Injection 
+for long-term weight management in adults with obesity or overweight.
+
+In  June  2026,  an  in  vitro  pharmacology  study  report  on  Olatorepatide  Injection  was  presented  at 
+the  2026  Endocrine  Society  Annual  Meeting  (ENDO).  The  results  indicated  that  Olatorepatide, 
+as  a  dual-biased  GLP-1/GIP  agonist,  possesses  a  favorable  GIP/GLP-1  activity  ratio  with  reduced 
+β-arrestin2  recruitment  and  receptor  internalization  at  both  GLP-1/GIP  targets.  This  profile  was 
+specifically  designed  to  minimize  gastrointestinal  adverse  reactions  while  maintaining  potent 
+therapeutic  effects.  These  in  vitro  characteristics  provide  a  mechanistic  prediction  of  its  clinical 
+performance.
+
+18
+
+HS-20118
+
+HS-20118  is  a  highly  differentiated  oral  IL-23  receptor  antagonist  self-developed  by  the  Group, 
+which is in Phase II clinical study for the treatment of psoriasis, demonstrating the potential to be 
+developed into a convenient once-weekly oral therapy.
+
+In  May  2026,  a  Phase  I  clinical  study  of  HS-20118  was  presented  at  the  2026  Society  for 
+Investigative Dermatology (SID) Annual Meeting. The results showed that HS-20118 demonstrated 
+promising  efficacy  signals  and  concordant  biomarker  responses,  achieving  therapeutic  effects 
+comparable to IL-23 monoclonal antibody therapies in participants with psoriasis, with a favorable 
+safety  profile.  Among  the  patients  with  psoriasis,  following  only  4  weeks  of  treatment,  it 
+demonstrated  clinically  significantly  greater  PASI  improvements  from  baseline  compared  to  the 
+placebo group. Furthermore, PASI scores continued to decrease over the subsequent 6 weeks after 
+treatment discontinuation: 100mg once a week (“QW”) cohort: -39.1% at week 4, -58.0% at week 
+10;  25mg  quaque  die  (“QD”)  cohort:  -54.5%  at  week  4,  -90.5%  at  week  10.  At  week  8,  PASI  75 
+response rates were 33.3% in the 100mg QW cohort and 75.0% in the 25mg QD cohort. A similar 
+trend was observed for IGA 0/1 response rate, with the 25mg QD cohort achieving a notably high 
+IGA  0/1  response  rate  of  87.5%.  HS-20118  has  a  favorable  safety  profile;  only  mild-to-moderate 
+TEAEs  were  reported,  with  no  dose-dependent  relationship  observed.  Most  TEAEs  were  transient 
+and  resolved/recovered  without  medical  treatment.  The  incidence  of  moderate  TEAEs  was  similar 
+in  Chinese  and  New  Zealand  participants  in  the  single  ascending  dose  (“SAD”)  trial.  No  serious 
+adverse events (“SAEs”) or TEAEs leading to withdrawal from the trial occurred.
+
+In  June  2026,  the  Group  entered  into  an  exclusive  license  agreement  with  Avere  for  HS-20118 
+(collaborator  code  AVR-001),  granting  an  exclusive  license  to  Avere  to  develop,  manufacture 
+and  commercialize  HS-20118  globally  (excluding  the  Chinese  Mainland,  Hong  Kong,  Macau  and 
+Taiwan).
+
+HS-10506
+
+HS-10506  is  a  selective  orexin-2  receptor  (OX2R)  antagonist  self-developed  by  the  Group,  which 
+is in Phase III clinical study for the treatment of insomnia.
+
+In  April  2026,  a  Phase  Ib/II  clinical  study  was  presented  at  the  2026  American  Academy  of 
+Neurology  Annual  Meeting  (AAN).  The  results  showed  that  HS-10506  demonstrated  sustained 
+improvements in both subjective and objective sleep measures and favorable safety profiles across 
+all  doses.  In  Phase  II  clinical  study,  compared  with  the  placebo  group,  the  mean  changes  from 
+baseline in the sleep latency (LPS D13/D14) of the HS-10506 20mg, 40mg and 60mg groups were 
+-13.7  min  (95%  CI:  -21.0,  -6.4; P < 0.001),  -16.6  min  (95%  CI:  -23.8,  -9.3; P < 0.001)  and  -18.8 
+min  (95%  CI:  -26.1,  -11.6; P <  0.001),  respectively,  all  of  which  were  statistically  significant 
+and  clinically  meaningful.  In  terms  of  safety  profile,  HS-10506  showed  favorable  safety  profiles 
+across  all  doses.  No  negative  impact  on  alertness,  cognitive  function,  depressive  symptoms  or 
+anxiety symptoms was observed following the treatment. No rebound insomnia occurred following 
+discontinuation of treatment.
+
+19
+
+HS-10542
+
+HS-10542  is  a  small  molecule  complement  factor  B  inhibitor  self-developed  by  the  Group,  which 
+is in Phase II clinical study for complement-mediated diseases.
+
+In  March  2026,  a  Phase  I  study  of  it  was  presented  at  the  2026  World  Congress  of  Nephrology 
+(WCN).  The  results  showed  that  HS-10542  has  demonstrated  potential  as  a  best-in-class,  once-
+daily  therapy  for  complement-mediated  diseases,  with  a  favorable  safety  and  PK  profile  and 
+robust  alternative  pathway  (AP)  inhibition  within  24  hours.  HS-10542  was  rapidly  absorbed,  with 
+a  median  Tmax  of  1-2  hours.  The  terminal  half-life  ranged  from  26-33  hours  supporting  a  once-
+daily dosing regimen. HS-10542 has a favorable safety profile. No deaths, SAEs or severe adverse 
+events  (AEs)  were  reported.  TEAEs  were  mild.  TEAEs  were  comparable  between  the  pooled  HS-
+10542 group and placebo group in SAD (62.5% vs. 62.5%) and in multiple ascending dose (MAD) 
+(76.9% vs. 88.9%) parts.
+
+HS-10374
+
+HS-10374  is  a  selective  allosteric  inhibitor  of  tyrosine  kinase  2  (“TYK2”)  self-developed  by  the 
+Group.  In  phase  II  clinical  trial  in  patients  with  moderate-to-severe  plaque  psoriasis,  HS-10374 
+demonstrated significant efficacy, with overall safety similar to other TYK2 inhibitors and a lower 
+risk of skin-related toxicity. Currently, we are actively advancing phase III clinical studies of HS-
+10374 in adult patients with moderate-to-severe plaque psoriasis.
+
+Business Development
+
+As  an  important  part  of  our  daily  business,  the  Group  pays  close  attention  to  the  cutting-edge 
+developments  in  the  global  pharmaceutical  industry  and  proactively  seizes  opportunities  for 
+out-licensing  and  collaboration  in  Business  Development  (“BD”).  During  the  Reporting  Period, 
+the  Company  advanced  clinical  trials  for  eight  in-licensed  projects,  with  a  further  three  in 
+the  commercialization  stage,  as  well  as  several  platform  or  technology  collaboration  projects. 
+Meanwhile,  the  Group  maximized  the  commercial  value  of  its  proprietary  pipeline  products  and 
+actively pursued out-licensing opportunities.
+
+On June 15, 2026, the Group entered into an exclusive license agreement with Avere for HS-20118 
+(collaborator  code  AVR-001),  an  IL-23  receptor  antagonist.  Under  the  license  agreement,  the 
+Group  granted  an  exclusive  license  to  Avere  to  develop,  manufacture  and  commercialize  the 
+product globally (excluding the Chinese Mainland, Hong Kong, Macau and Taiwan), subject to the 
+terms  and  conditions  thereof.  The  Group  is  eligible  to  receive  upfront  payments  totaling  US$120 
+million  and  up  to  US$2.18  billion  in  milestone  payments  associated  with  development  and  sales, 
+as  well  as  mid-single  to  low-double  digit  royalty  payments  on  sales  in  the  licensed  territory.  For 
+details, please refer to the announcement of the Company dated July 14, 2026.
+
+Clinical Progress of In-licensing and Collaboration Programs
+
+During the Reporting Period, the Group incurred a total of approximately RMB44 million of R&D 
+expenses  due  to  the  in-licensed  or  collaborative  projects  that  had  been  introduced  in  the  past, 
+which were mainly for advancing the clinical trials of a number of in-licensed projects.
+
+20
+
+Progress of HS-20117
+
+HS-20117  is  a  fully  human  immunoglobulin  G1  (IgG1)  bispecific  antibody  that  simultaneously 
+targets  EGFR  and  c-MET.  In  November  2022,  the  Group  entered  into  a  licensing  agreement  with 
+Biotheus, pursuant to which the Group obtained the exclusive license to develop and commercialize 
+HS-20117 (collaborator code PM1080) in China (including Hong Kong, Macau and Taiwan).
+
+In June 2026, a Phase I study of HS-20117 for the treatment of advanced NSCLC with EGFR exon 
+20  insertion  mutations  (“EGFR  ex20ins”)  previously  treated  with  platinum-based  chemotherapy 
+was presented at the 2026 European Society for Medical Oncology Targeted Anticancer Therapies 
+Asia  (ESMO  TAT  Asia).  The  results  showed  that  HS-20117  has  demonstrated  a  favorable  anti-
+tumor  activity  in  advanced  NSCLC  harboring  EGFR  ex20ins  with  manageable  safety.  Among  the 
+22  patients  with  EGFR  ex20ins-mutated  advanced  NSCLC,  median  duration  of  responses  (DoR) 
+was  16.6  months,  the  mPFS  was  9.3  months,  and  the  estimated  12-month  overall  survival  rate 
+was  84.9%.  Among  the  25  safety-evaluable  patients,  HS-20117  demonstrated  a  favorable  and 
+manageable safety profile, with most treatment-related adverse events (“TRAEs”) being Grade 1-2. 
+No TRAE led to dose discontinuation or death.
+
+As  of  the  date  of  this  announcement,  clinical  development  of  HS-20117  for  NSCLC,  colorectal 
+cancer (CRC) and head and neck squamous cell carcinoma (HNSCC) was ongoing.
+
+Progress of HS-10568
+
+HS-10568  is  an  allosteric  modulator  of  calcium-sensing  receptor  (CaSR)  which  increases  the 
+receptor’s  sensitivity  to  extracellular  calcium,  thereby  reducing  the  secretion  of  parathyroid 
+hormone  (PTH).  In  December  2025,  the  Group  entered  into  a  licensing  agreement  with  Jiangsu 
+Hengrui  Pharmaceuticals  Co.,  Ltd.,  pursuant  to  which  the  Group  obtained  the  exclusive  license 
+to  develop,  manufacture  and  commercialize  HS-10568  (collaborator  code  SHR6508)  in  China 
+(excluding  Hong  Kong,  Macau  and  Taiwan),  with  the  right  of  sub-license  in  accordance  with  the 
+terms of the licensing agreement.
+
+In  June  2026,  the  NDA  for  HS-10568  was  accepted  by  the  NMPA  for  the  treatment  of  SHPT  in 
+adult patients with CKD undergoing hemodialysis.
+
+Progress of HS-10382
+
+HS-10382  is  a  novel  BCR-ABL  kinase  allosteric  inhibitor  that  specifically  targets  the  ABL 
+myristoyl pocket (STAMP). In July 2020, the Group entered into a licensing agreement with Terns 
+Pharmaceuticals, Inc. (which was acquired by Merck & Co., Inc. in May 2026), pursuant to which 
+the  Group  obtained  the  exclusive  license  to  develop  and  commercialize  HS-10382  (collaborator 
+code TRN-000632) in China (including Hong Kong, Macau and Taiwan).
+
+21
+
+In  June  2026,  data  on  HS-10382  as  monotherapy  and  in  combination  with  Flumatinib  for  patients 
+with  newly  diagnosed  chronic  myeloid  leukemia  in  the  chronic  phase  (CML-CP)  were  presented 
+at  the  2026  European  Hematology  Association  (EHA)  Congress.  The  study  results  showed  that 
+HS-10382,  as  monotherapy  and  in  combination  with  Flumatinib,  has  shown  promising  anti-tumor 
+activity with a favorable safety profile in the evaluated Chronic Myeloid Leukemia-Chronic phase 
+(CML-CP)  population.  Among  the  patients  with  newly  diagnosed  Ph+  CML-CP  administered 
+with  HS-10382  in  combination  with  Flumatinib  as  first-line  therapy,  at  week  48,  MMR  achieved 
+80%  and  MR4.0  reached  30%.  In  another  study  initiated  by  the  investigator,  among  the  patients 
+with  newly  diagnosed  Ph+  CML-CP  administered  with  HS-10382  as  monotherapy,  at  week  48, 
+MMR  achieved  66.7%  and  MR4.0  was  28.6%.  It  demonstrated  a  favorable  safety  profile  as  both 
+monotherapy and combination therapy.
+
+Environmental, Social and Governance (ESG)
+
+Adhering  to  our  core  values  of  “Responsibility,  Integrity,  Dedication  and  Innovation”,  the  Group 
+has  in  the  long  term  been  committed  to  improving  the  accessibility  of  innovative  medicines  in 
+the  areas  with  unmet  clinical  needs.  During  the  Reporting  Period,  we  continued  to  optimize  our 
+efforts  in  R&D  innovation,  governance,  environmental  protection,  talent  cultivation  and  inclusive 
+healthcare,  laying  a  solid  foundation  for  the  long-term  development  of  the  Company.  We  are 
+continuously improving the disclosures of our governance, strategy, risk management, metrics and 
+targets  on  key  ESG  issues  in  response  to  stakeholders’  concerns  as  well  as  enhancing  the  level  of 
+ESG management to lower operating risks.
+
+In  the  first  half  of  2026,  the  Board  continued  to  perform  its  supervisory  duties.  Through  the 
+ESG  Committee,  the  Board  regularly  reviewed  risk  prevention  strategies  and  systems,  ESG 
+strategies and emerging risks, as well as key performance indicators that reflect the comprehensive 
+improvement  of  ESG  results,  and  took  proactive  and  forward-looking  measures  to  address  the 
+identified hidden hazards or potential risks.
+
+During  the  Reporting  Period,  we  continued  to  engage  an  independent  third  party  to  provide 
+assurance  for  our  2025  ESG  report,  and  continued  to  carry  out  systematic  inspections  and  third-
+party  verification  of  Scope  1,  Scope  2  and  Scope  3  greenhouse  gas  emissions,  to  ensure  the 
+authenticity, completeness and reliability of ESG information and data disclosure.
+
+During  the  Reporting  Period,  the  Group’s  MSCI  ESG  rating  was  upgraded  to  the  highest  level  of 
+AAA,  achieving  a  globally  leading  position.  The  Group  was  again  selected  for  inclusion  in  the 
+Sustainability Yearbook (Global Edition) 2026  and Sustainability Yearbook (China Edition) 2026 
+published by S&P Global, and ranked in the top 1% of the Chinese pharmaceutical industry.
+
+We actively respond to the Sustainable Development Goals of the United Nations, deeply integrate 
+ESG management into the Company’s long-term planning, and proactively address ESG challenges 
+to  contribute  to  global  sustainable  development.  We  are  committed  to  sharing  proven  practices 
+with  partners  across  the  industry  chain,  promoting  green  innovations  to  benefit  a  broader  medical 
+community, and bringing new hope to areas of unmet clinical needs. This is not only conducive to 
+ecological environment protection and social welfare, but also beneficial to creating a more stable 
+and  sustainable  business  environment,  realizing  coordinated  economic,  social  and  environmental 
+development.  We  will  continue  to  adhere  to  the  philosophy  of  being  “patient-centered  and 
+innovation-driven”,  actively  fulfill  our  responsibility  as  a  corporate  citizen,  and  create  long-term 
+value for the industry and society.
+
+22
+
+FINANCIAL REVIEW
+
+Revenue
+
+During the Reporting Period, the Group’s revenue amounted to approximately RMB8,304 million, 
+representing an increase of approximately 11.7% as compared to approximately RMB7,434 million 
+for  the  six  months  ended  June  30,  2025.  The  Group’s  revenue  was  primarily  generated  from  the 
+sales  of  pharmaceutical  products.  Major  products  are  concentrated  in  the  main  therapeutic  areas 
+on  which  the  Group  strategically  focuses,  including  oncology,  metabolism,  immunology,  CNS 
+and  anti-infectives.  The  increase  in  revenue  during  the  Reporting  Period  was  primarily  due  to 
+approximately 21.6% growth in the sales revenue of innovative medicine products.
+
+Cost of Sales
+
+The  Group’s  cost  of  sales  increased  by  approximately  1.6%  from  approximately  RMB661  million 
+for  the  six  months  ended  June  30,  2025  to  approximately  RMB671  million  for  the  Reporting 
+Period, which accounted for approximately 8.1% of the Group’s total revenue for the same period. 
+The increase in cost of sales of the Group was mainly attributable to the increased sales of products 
+for the Reporting Period, as compared to the six months ended June 30, 2025.
+
+Other Income
+
+The  Group’s  other  income  mainly  consisted  of  investment  income,  bank  interest  income, 
+government  grants  and  other  income.  During  the  Reporting  Period,  the  Group’s  other  income 
+amounted  to  approximately  RMB1,318  million,  representing  an  increase  of  approximately  127.9% 
+as  compared  to  approximately  RMB578  million  for  the  six  months  ended  June  30,  2025.  The 
+increase  was  mainly  attributable  to  increased  significant  income  arising  from  an  unlisted  equity 
+investment  of  the  Group  through  venture  capital  funds  in  the  life  science  industry  during  the 
+period.
+
+Selling and Distribution Expenses
+
+The  Group’s  selling  and  distribution  expenses  consisted  of  expenses  that  were  directly  related  to 
+the  Group’s  marketing  and  promotion  activities.  During  the  Reporting  Period,  the  Group’s  selling 
+and distribution expenses amounted to approximately RMB1,861 million,  representing an  increase 
+of approximately 2.3% as compared to approximately RMB1,818 million for the six months ended 
+June 30, 2025. The increase was mainly attributable to the growth of sales revenue.
+
+Administrative Expenses
+
+The Group’s administrative expenses primarily consisted of staff costs, general operating expenses, 
+depreciation  and  amortization,  auditor’s  remuneration,  consulting  expenses,  taxation  and  other 
+administrative  expenses.  During  the  Reporting  Period,  the  Group’s  administrative  expenses 
+amounted  to  approximately  RMB326  million,  representing  a  decrease  of  approximately  4.8%  as 
+compared to approximately RMB343 million for the six months ended June 30, 2025. The decrease 
+was mainly due to strengthened cost controls during the period.
+
+23
+
+R&D Expenses
+
+The  Group’s  R&D  expenses  primarily  consisted  of  employee  costs,  CRO  and  experiment  costs, 
+material  expenses,  energy  expenses,  BD  expenses,  depreciation  and  amortization  and  other  R&D 
+expenses.  During  the  Reporting  Period,  the  Group’s  R&D  expenses  amounted  to  approximately 
+RMB1,739 million, representing an increase of approximately 20.7% as compared to approximately 
+RMB1,441 million for the six months ended June 30, 2025. The increase was primarily attributable 
+to  the  fact  that  the  Group  has  focused  on  innovation  and  consistently  increased  its  investment  in 
+R&D year by year, establishing comprehensive R&D platforms, developing and launching multiple 
+innovative  medicine  products  and  reserving  pipelines  of  innovative  medicines  at  various  stages  of 
+development.
+
+Other Expenses
+
+The  Group’s  other  expenses  primarily  consisted  of  fair  value  gain/(loss)  of  financial  assets  at 
+fair  value  through  profit  or  loss,  interest  expenses,  exchange  differences,  net,  and  impairment 
+of  inventories,  net,  etc.  For  the  Reporting  Period,  the  Group’s  other  expenses  amounted  to 
+approximately  RMB15  million,  as  compared  to  other  expenses  of  approximately  RMB61  million 
+for the six months ended June 30, 2025. The change was mainly due to fair value gain of financial 
+assets at fair value through profit or loss during the period.
+
+Income Tax Expense
+
+During the Reporting Period, the Group’s income tax expense amounted to approximately RMB751 
+million,  representing  an  increase  of  approximately  35.8%  as  compared  to  approximately  RMB553 
+million  for  the  six  months  ended  June  30,  2025.  The  increase  in  the  Group’s  income  tax  expense 
+was primarily attributable to the increase in profit before tax for the Reporting Period as compared 
+to the six months ended June 30, 2025.
+
+Profit for the Period
+
+The  Group’s  profit  for  the  Reporting  Period  was  approximately  RMB4,258  million,  representing 
+an  increase  of  approximately  35.8%  as  compared  to  approximately  RMB3,135  million  for  the  six 
+months  ended  June  30,  2025,  which  was  primarily  due  to  the  combined  effect  of  the  increase  in 
+revenue of innovative medicines and the increase in other income.
+
+24
+
+Liquidity and Financial Resources
+
+Currently,  the  Group  follows  a  set  of  funding  and  treasury  policies  to  manage  its  capital 
+resources  and  mitigate  potential  risks.  The  Board  considers  various  funding  sources  depending 
+on  the  Group’s  funding  needs  to  ensure  that  the  financial  resources  have  been  used  in  the  most 
+cost-effective  and  efficient  way.  We  also  closely  monitor  uses  of  cash  resources  and  strive  to 
+maintain healthy liquidity for the needs of our business operations.
+
+For  the  six  months  ended  June  30,  2026,  the  Group’s  operating  activities  generated  a  net  cash 
+inflow  of  RMB2,337  million.  The  capital  expenditure  during  the  Reporting  Period  was  RMB303 
+million,  mainly  relating  to  the  construction  of  workshops,  as  well  as,  among  other  things, 
+the  purchase  of  equipment,  motor  vehicles  and  software  required  for  production,  R&D  and 
+administrative activities, etc. The cash flow of financing activities for the Reporting Period mainly 
+consisted  of  the  net  proceeds  from  the  issuance  of  convertible  bonds,  which  were  approximately 
+HK$4,640 million.
+
+The  Group’s  financial  position  remains  sound.  As  at  June  30,  2026,  the  Group  had  net  current 
+assets  of  approximately  RMB32,968  million,  as  compared  to  approximately  RMB31,160  million 
+as  at  December  31,  2025.  The  increase  in  net  current  assets  was  mainly  attributable  to  increased 
+cash  and  bank  balances.  The  current  ratio  of  the  Group  decreased  to  approximately  4.9  as  at 
+June  30,  2026  from  approximately  8.1  as  at  December  31,  2025,  primarily  due  to  issuance  of 
+convertible  bonds.  As  at  June  30,  2026,  we  had  cash  and  bank  balances  of  RMB37,383  million 
+(as  at  December  31,  2025:  RMB31,549  million)  and  current  financial  assets  at  fair  value  through 
+profit  or  loss  of  RMB0  million  (as  at  December  31,  2025:  RMB18  million).  As  each  of  the 
+financial  products  was  subscribed  with  different  banks  under  different  terms  and  are  of  different 
+nature  and  none  of  the  financial  products  exceeds  5%  of  the  applicable  percentage  ratios  on  a 
+standalone basis, the Group’s purchase of financial products during the six months ended June 30, 
+2026  does  not  constitute  notifiable  transactions  of  the  Company  under  the  Rules  Governing  the 
+Listing  of  Securities  on  The  Stock  Exchange  of  Hong  Kong  Limited  (the  “Listing  Rules”).  As 
+at  June  30,  2026,  the  Group’s  gearing  ratio  (calculated  as  total  liabilities  divided  by  total  assets) 
+was  approximately  19.0%  (as  at  December  31,  2025:  11.4%).  The  increase  in  gearing  ratio  was 
+primarily due to issuance of convertible bonds. After reviewing the Group’s profitability, working 
+capital  and  capital  expenditure  requirements,  the  Board  is  of  the  view  that  the  Group  has  no 
+significant liquidity risk and has sufficient working capital.
+
+Most of the Group’s assets and liabilities are denominated in Renminbi and United States Dollars. 
+The  Group  manages  its  foreign  exchange  risk  by  closely  monitoring  its  net  foreign  exchange 
+exposure to reduce the impact of foreign exchange fluctuations.
+
+25
+
+Pledge of Group Assets
+
+As  at  June  30,  2026,  none  of  the  Group’s  assets  was  subject  to  any  encumbrance,  mortgage,  lien, 
+charge or pledge.
+
+Contingent Liabilities
+
+As at June 30, 2026, the Group had no material contingent liabilities.
+
+Significant Investments Held
+
+During the six months ended June 30, 2026, the Group did not have any significant investments.
+
+Future Plans for Material Investments and Capital Assets
+
+As at June 30, 2026, the Group did not have any plans for material investments and capital assets.
+
+Material Acquisitions and Disposals
+
+During  the  six  months  ended  June  30,  2026,  the  Group  did  not  have  any  material  acquisitions  or 
+disposals of subsidiaries, associates or joint ventures.
+
+Employees and Emoluments Policy
+
+As at June 30, 2026, the Group had a total of 9,643 full-time employees, whose remuneration was 
+determined  based  on  their  performance  and  experience  as  well  as  the  prevailing  market  salary 
+levels.
+
+The  staff  costs,  including  remuneration  of  the  executive  Directors,  social  welfare  and  other 
+benefits,  were  approximately  RMB1,816  million  for  the  six  months  ended  June  30,  2026.  We 
+also  provided  regular  training  to  employees  designed  to  strengthen  staff  commitment  to  us  and 
+improve staff knowledge in a number of important areas of our services, such as knowledge about 
+the  Company  and  our  products  as  well  as  sales,  laws  and  regulations  applicable  to  our  operation, 
+requirements  under  applicable  GMP  or  other  certifications,  quality  control,  production  safety  and 
+corporate culture.
+
+26
+
+Post-IPO RSU Scheme
+
+The  Company  has  conditionally  approved  and  adopted  the  restricted  share  unit  scheme  (“RSU 
+Scheme”) on May 27, 2019 to recognize contributions by selected participants and give incentives 
+thereto  in  order  to  retain  them  for  the  continual  operation  and  development  of  the  Group  and 
+to  attract  suitable  personnel  for  further  development  of  the  Group.  Participants  may  include 
+employees  of  the  Group  (including  director,  chief  executive  officer,  vice  president,  financial 
+controller,  company  secretary,  members  of  senior  management  or  key  technical  personnel)  as 
+well  as  any  other  person  selected  by  the  Board  at  its  sole  discretion  from  time  to  time  (subject  to 
+compliance with the applicable Listing Rules). On April 28, 2026, the Board resolved to terminate 
+the  RSU  Scheme.  The  termination  of  the  RSU  Scheme  took  effect  on  June  26,  2026,  being  the 
+date of adoption of the 2026 Share Scheme (as defined below). According to the terms of the RSU 
+Scheme, the RSU Scheme may be terminated at any time prior to the expiry of the scheme period 
+by  the  Board.  No  further  awards  shall  be  granted  after  the  RSU  Scheme  is  terminated  but  in  all 
+other  respects  the  provisions  of  the  RSU  Scheme  shall  remain  in  full  force  and  effect.  All  awards 
+granted under the RSU Scheme prior to such termination that have not yet vested as at the date of 
+the termination shall remain valid.
+
+On  April  17,  2026,  pursuant  to  the  terms  of  the  RSU  Scheme,  the  Company  allotted  and  issued 
+9,000,000  new  ordinary  shares  (aggregate  nominal  value:  HK$90)  to  Computershare  Hong  Kong 
+Trustees  Limited  (the  “RSU  Trustee”),  holding  such  shares  for  the  benefit  of  the  participants 
+of  the  RSU  Scheme,  with  the  issue  price  per  share  of  HK$3.5788  as  measured  by  the  Company, 
+which  was  arrived  at  after  taking  into  consideration  the  number  of  shares  currently  held  by  the 
+RSU  Trustee  and  the  purchase  prices  of  the  RSUs  at  the  time  of  measurement,  and  the  closing 
+price  per  share  of  the  Company  on  the  business  day  immediately  preceding  the  issuance  was 
+HK$40.16.  During  the  Reporting  Period,  the  RSU  Trustee  was  instructed  by  the  Company  to 
+purchase  an  aggregate  of  370,000  shares  from  the  open  market.  As  at  June  30,  2026,  a  balance 
+of  1,421,000  shares  of  the  Company  was  held  by  the  RSU  Trustee  for  settlement  of  the  restricted 
+share  units  (“RSUs”)  under  the  RSU  Scheme.  For  details  of  the  RSU  Scheme,  please  refer  to  the 
+section headed “Statutory and General Information – D. Post-IPO RSU Scheme” in Appendix IV to 
+the prospectus of the Company dated May 31, 2019.
+
+During the Reporting Period, RSUs representing an aggregate of 4,992,330 shares of the Company 
+had  been  granted  by  the  Company  pursuant  to  the  RSU  Scheme.  Among  the  grants  during  the 
+Reporting  Period  (details  of  the  grants  are  set  out  in  the  announcement  of  the  Company  dated 
+April 28, 2026), all RSUs granted to Dr. Lyu Aifeng (representing 109,010 shares of the Company 
+granted), being an executive Director of the Company, only involve existing shares of the Company 
+held  or  to  be  held  by  the  RSU  Trustee,  and  no  new  shares  were  or  will  be  allotted  or  issued  by 
+the  Company  for  the  vesting  of  such  RSUs.  According  to  the  director’s  service  contract  with 
+the  Company,  the  RSUs  granted  to  him  form  part  of  his  remuneration  package  and  are  therefore 
+exempted  from  the  reporting,  announcement  and  independent  shareholders’  approval  requirements 
+under Rules 14A.73(6) and 14A.95 of the Listing Rules.
+
+27
+
+2026 Share Scheme
+
+On June 26, 2026, the share scheme (the “2026 Share Scheme”) was adopted by the shareholders 
+of  the  Company  at  the  annual  general  meeting  of  the  Company.  The  2026  Share  Scheme  enables 
+the Company to grant awards in the form of RSUs and options, and its purpose is (a) to recognize 
+the  contributions  by  the  eligible  participants  and  give  incentives  to  them  in  order  to  retain  them 
+for  the  continual  operation  and  development  of  the  Group;  and  (b)  to  attract  suitable  and  skilled 
+personnel to strive for the future development of the Group, with a view to achieving the objectives 
+of  increasing  the  value  of  the  Company  and  aligning  the  interests  of  the  selected  participants 
+directly  to  the  shareholders  of  the  Company  through  ownership  of  shares  of  the  Company.  The 
+2026  Share  Scheme  constitutes  a  share  scheme  governed  by  Chapter  17  of  the  Listing  Rules.  For 
+details of the 2026 Share Scheme, please refer to the circular of the Company dated June 4, 2026. 
+As of June 30, 2026, no awards had been granted or agreed to be granted by the Company pursuant 
+to the 2026 Share Scheme.
+
+Prospects
+
+In  the  second  half  of  2026,  driven  by  the  dual  engines  of  innovation  and  internationalization,  the 
+Group  will  continue  to  increase  investment  in  R&D,  strengthen  its  innovation  pipelines  in  both 
+oncology  and  non-oncology  areas,  focus  on  the  deployment  of  new  targets  and  new  technology 
+platforms, and expand into new indications to build a globally competitive pipeline matrix.
+
+The  Group  will  accelerate  the  progress  of  clinical  development  and  registration  and  expect  to 
+present  multiple  sets  of  pivotal  clinical  study  data  at  international  academic  conferences  and  in 
+authoritative  journals,  and  submit  NDAs  in  due  course,  ensuring  thorough  preparation  for  new 
+product launches.
+
+In terms of commercialization, the Group will deepen the hospital coverage and market expansion 
+strategies  for  its  marketed  innovative  medicines,  continuously  enhance  product  accessibility,  and 
+drive  the  steady  growth  of  sales,  ensuring  long-term  competitive  advantages  in  a  dynamic  and 
+evolving market.
+
+In  an  increasingly  active  global  licensing  and  collaboration  landscape,  the  Group  maintains 
+an  open  and  cooperative  stance  and  actively  evaluates  opportunities  for  external  strategic 
+collaboration, with a view to unlocking the overseas commercial value of its pipelines and enabling 
+its differentiated innovative products to benefit patients worldwide as soon as possible.
+
+The  Group  will  remain  steadfastly  guided  by  unmet  clinical  needs,  steadily  advancing  the 
+integration of the full value chain from R&D to commercialization, and continuing to create long-
+term, sustainable value for patients, shareholders and the society.
+
+28
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+FOR THE SIX MONTHS ENDED 30 JUNE 2026
+
+REVENUE
+
+Cost of sales
+
+Gross profit
+
+Other income
+Selling and distribution expenses
+Administrative expenses
+Research and development costs
+Other expenses
+
+PROFIT BEFORE TAX
+
+Income tax expense
+
+PROFIT FOR THE PERIOD
+
+Attributable to owners of the parent
+
+EARNINGS PER SHARE ATTRIBUTABLE TO
+  ORDINARY EQUITY HOLDERS OF THE PARENT
+  FOR THE PERIOD
+
+Basic (RMB)
+Diluted (RMB)
+
+For the six months 
+ended 30 June
+
+2026
+(Unaudited)
+RMB’000
+
+2025
+(Unaudited)
+RMB’000
+
+Notes
+
+4
+
+8,304,007
+
+7,433,559
+
+(671,083)
+
+(660,786)
+
+7,632,924
+
+6,772,773
+
+1,318,260
+(1,860,652)
+(326,441)
+(1,739,380)
+(15,369)
+
+578,413
+(1,817,936)
+(342,770)
+(1,440,841)
+(61,487)
+
+5,009,342
+
+3,688,152
+
+(751,401)
+
+(553,223)
+
+4,257,941
+
+3,134,929
+
+4,257,941
+
+3,134,929
+
+0.70
+0.70
+
+0.53
+0.53
+
+4
+
+4
+
+5
+
+6
+
+8
+8
+
+29
+
+INTERIM  CONDENSED  CONSOLIDATED  STATEMENT  OF  COMPREHENSIVE 
+INCOME
+FOR THE SIX MONTHS ENDED 30 JUNE 2026
+
+For the six months 
+ended 30 June
+
+2026
+(Unaudited)
+RMB’000
+
+2025
+(Unaudited)
+RMB’000
+
+PROFIT FOR THE PERIOD
+
+4,257,941
+
+3,134,929
+
+OTHER COMPREHENSIVE LOSS
+
+Other comprehensive loss that may be reclassified
+
+to profit or loss in subsequent periods:
+
+Exchange differences on translation of foreign operations
+
+(871,912)
+
+(86,108)
+
+Net other comprehensive loss that may be
+
+reclassified to profit or loss in subsequent periods
+
+OTHER COMPREHENSIVE LOSS FOR
+  THE PERIOD, NET OF TAX
+
+(871,912)
+
+(86,108)
+
+(871,912)
+
+(86,108)
+
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD
+
+3,386,029
+
+3,048,821
+
+Attributable to owners of the parent
+
+3,386,029
+
+3,048,821
+
+30
+
+ 
+ 
+

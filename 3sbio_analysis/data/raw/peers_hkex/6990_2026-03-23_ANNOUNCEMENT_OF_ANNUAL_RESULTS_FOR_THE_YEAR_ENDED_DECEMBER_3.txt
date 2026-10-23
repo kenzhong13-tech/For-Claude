@@ -1,0 +1,2081 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited 
+take  no  responsibility  for  the  contents  of  this  announcement,  make  no  representation  as  to 
+its  accuracy  or  completeness  and  expressly  disclaim  any  liability  whatsoever  for  any  loss 
+howsoever  arising  from  or  in  reliance  upon  the  whole  or  any  part  of  the  contents  of  this 
+announcement.
+
+Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.
+四 川 科 倫 博 泰 生 物 醫 藥 股 份 有 限 公 司
+(A joint stock company incorporated in the People’s Republic of China with limited liability)
+(Stock Code: 6990)
+
+ANNOUNCEMENT OF ANNUAL RESULTS
+FOR THE YEAR ENDED DECEMBER 31, 2025
+
+The  Board  is  pleased  to  announce  the  audited  consolidated  results  of  the  Group  for  the 
+year  ended  December  31,  2025,  together  with  audited  comparative  figures  for  the  year 
+ended  December  31,  2024.  Unless  otherwise  defined  herein,  capitalized  terms  used  in  this 
+announcement shall have the same meanings as those defined in the Prospectus.
+
+FINANCIAL HIGHLIGHTS
+
+Revenue
+Gross profit
+Research and development expenses
+Loss for the year
+Adjusted loss for the year1
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+2,057,920
+1,478,781
+(1,319,675)
+(381,971)
+(211,276)
+
+1,933,045
+1,273,657
+(1,206,134)
+(266,766)
+(118,481)
+
+As at 
+December 31, 
+2025
+
+As at 
+December 31, 
+2024
+
+Flux
+
+6.5%
+16.1%
+9.4%
+43.2%
+78.3%
+
+Cash and financial assets2
+Total Equity
+Debt-to-asset ratio3
+
+4,559,358
+4,867,070
+18.7%
+
+3,075,651
+3,308,661
+22.5%
+
+48.2%
+47.1%
+-3.8%
+
+1 
+
+2 
+
+3 
+
+Calculated  by  deducting  equity-settled  share-based  payment  from loss  for  the year.  The  equity-settled 
+share-based payment was RMB170.7 million and RMB148.3 million for the year ended December 31, 2025 
+and 2024, respectively.
+Comprises cash and cash equivalents, restricted deposits, financial assets measured at fair value through 
+profit or loss and financial assets measured at amortized cost.
+Calculated by dividing the total liabilities by the total assets.
+
+– 1 –
+
+BUSINESS HIGHLIGHTS
+
+Since the beginning of 2025, we have made encouraging progress in our business:
+
+• 
+
+Key developments of our ADC and novel DC assets:
+
+o 
+
+Our  Core  Product  sac-TMT  (sacituzumab  tirumotecan,  TROP2  ADC)  (also 
+known as SKB264/MK-2870) (佳泰萊®):
+
+o 
+
+TNBC.  In  November  2024,  we  received  marketing  authorization  in  China 
+from  the  NMPA  for  sac-TMT  in  adult  patients  with  unresectable  locally 
+advanced  or  metastatic  TNBC  who  have  received  at  least  two  prior 
+systemic therapies (at least one of them for advanced or metastatic setting). 
+Sac-TMT is the first domestically developed ADC with global intellectual 
+property rights to receive complete marketing authorization in China.
+
+Our results from the Phase 3 study of sac-TMT in patients with previously 
+treated  locally  recurrent  or  metastatic  TNBC  were  presented  at  the  ASCO 
+Annual  Meeting  in  May  2024  and  Nature  Medicine  in  April  2025.  Sac-
+TMT  demonstrated  a  statistically  significant  and  clinically  meaningful 
+improvement in PFS and OS. The median PFS, as assessed by BICR, was 6.7 
+months (95% CI: 5.5, 8.0) with sac-TMT and 2.5 months (95% CI: 1.7, 2.7) 
+with chemotherapy, and HR was 0.32 (95% CI: 0.24, 0.44, p<0.00001), and 
+the  risk  of  disease  progression  or  death  was  reduced  by  68%.  The  median 
+OS  was  not  reached  with  sac-TMT  (95%  CI:  11.2,  NE)  and  9.4  months 
+with chemotherapy (95% CI: 8.5, 11.7), HR was 0.53 (95% CI: 0.36, 0.78, 
+p=0.0005),  and  the  risk  of  death  was  reduced  by  47%.  ORR  was  45.4% 
+with sac-TMT compared to 12% with chemotherapy. The subset of patients 
+with high TROP2 expression (H-score>200) had a higher median PFS (8.3 
+months) and ORR (52.1%) with sac-TMT.
+
+We  have  initiated  a  Phase  3  registrational  study  of  sac-TMT  monotherapy 
+versus ICC for 1L advanced TNBC.
+
+o 
+
+HR+/HER2-  BC.  In  February  2026,  a  new  indication  application  for  sac-
+TMT  for  the  treatment  of  adult  patients  with  unresectable  or  metastatic 
+HR+/HER2-  BC  who  have  received  prior  ET  and  at  least  one  line  of 
+chemotherapy in advanced setting has been approved for marketing by the 
+NMPA.
+
+– 2 –
+
+Our  results  from  the  Phase  3  study  of  sac-TMT  for  the  treatment  of  2L+ 
+HR+/HER2-  BC  were  selected  for  LBA  and  presented  as  an  oral  report 
+at  the  ESMO  Congress  in  October  2025.  Sac-TMT  achieved  statistically 
+significant  clinical  outcomes  compared  to  ICC:  ORR  (41.5%  vs  24.1%); 
+PFS  (median  8.3  vs  4.1  months,  HR=0.35,  95%  CI=0.26-0.48,  p<0.0001). 
+Clinical benefit was seen in sac-TMT independent of HER2 expression (HR 
+for  PFS  in  HER2-zero=0.39,  95%  CI=0.26-0.57;  in  HER2-low=0.31,  95% 
+CI=0.20-0.48).  There  was  a  trend  in  OS  that  favored  sac-TMT  over  ICC 
+(HR=0.33; 95% CI=0.18-0.61).
+
+A  Phase  3  registrational  study  of  sac-TMT  versus  ICC  for  treatment  of 
+patients  with  unresectable  locally  advanced,  recurrent  or  metastatic  HR+/
+HER2- BC who received prior ET is in progress.
+
+o 
+
+E G F R-m u t a n t  N S C L C.  I n  M a r c h  2025,  w e  r e c e i v e d  m a r k e t i n g 
+authorization  in  China  from  the  NMPA  for  sac-TMT  for  the  treatment  of 
+adult  patients  with  EGFR  mutant-positive  locally  advanced  or  metastatic 
+non-squamous  NSCLC  following  progression  on  EGFR-TKI  therapy  and 
+platinum-based chemotherapy. This is the first TROP2 ADC drug approved 
+for marketing in LC globally.
+
+Our  final  OS  analysis,  along  with  updated  PFS  and  additional  data  from 
+the  pivotal  study  of  sac-TMT  for  the  treatment  of  3L  advanced  EGFR-
+mutant  NSCLC  will  be  presented  at  the  2026  ELCC  in  March  2026.  Sac-
+TMT  demonstrated  a  statistically  significant  and  clinically  meaningful 
+improvement  in  overall  survival.  In  the  docetaxel  control  group,  41.3% 
+of  patients  crossed  over  to  receive  sac-TMT  after  disease  progression. 
+Considering  the  impact  of  OS  from  crossover  treatment  in  the  control 
+group, adjusted and analysed by the pre-specified rank-preserving structural 
+failure  time  (RPSFT)  model,  the  median  OS  was  20.0  months  in  the  sac-
+TMT group vs 11.2 months in the docetaxel group (HR 0.45, 95% CI: 0.28-
+0.73),  with  18-month  OS  rate  of  54.7%  vs  9.1%.  Without  adjustment  for 
+subsequent  sac-TMT  treatment  in  the  control  group,  median  OS  was  20.0 
+months vs 13.5 months (HR 0.63, 95% CI: 0.40-0.98). Median PFS assessed 
+by INV was 7.9 months vs 2.8 months (HR 0.23, 95% CI: 0.15-0.35).
+
+In  October  2025,  we  received  marketing  authorization  in  China  from 
+the  NMPA  for  sac-TMT  for  the  treatment  of  adult  patients  with  EGFR 
+mutant-positive  locally  advanced  or  metastatic  non-squamous  NSCLC 
+who  progressed  after  treatment  with  EGFR-TKI  therapy.  This  is  the  first 
+ADC  globally  to  show  an  OS  benefit  compared  with  platinum  doublet 
+chemotherapy and be approved for advanced NSCLC following progression 
+on only TKI therapy (2L).
+
+– 3 –
+
+Our  results  from  the  Phase  3  study  of  sac-TMT  for  the  treatment  of  2L 
+advanced EGFR-mutant NSCLC were selected for LBA and presented as an 
+oral report in the Presidential Symposium session at the ESMO Congress in 
+October 2025. Sac-TMT achieved statistically significant clinical outcomes 
+compared  to  chemotherapy:  ORR  (60.6%  vs  43.1%);  PFS  (BIRC:  median 
+8.3  vs  4.3  months,  HR=0.49,  95%  CI=0.39-0.62,  p<0.0001);  preplanned 
+interim  analysis  of  OS  (NR  vs  17.4  months,  HR=0.6,  95%  CI=0.44-0.82, 
+two-sided p=0.001). In the supplemental analysis, when censoring patients 
+at  the  date  of  initiation  of  subsequent  ADCs,  sac-TMT  significantly 
+improved OS over chemotherapy with 44% lower risk of death (HR, 0.56; 
+95%  CI,  0.41-0.77).  The  study  results  were  published  simultaneously 
+online  at  the  New  England  Journal  of  Medicine  (Impact  Factor=78.5)  and 
+in the first issue of 2026.
+
+In  addition,  a  Phase  3  registrational  study  of  sac-TMT  combined  with 
+osimertinib  as  first-line  treatment  of  locally  advanced  or  metastatic 
+non-squamous  EGFR-mutant  NSCLC  and  a  Phase  2  study  of  sac-TMT 
+monotherapy or in combination with osimertinib as neoadjuvant therapy for 
+EGFR-mutant NSCLC are in progress.
+
+o 
+
+EGFR-wild type NSCLC. The Phase 3 registrational study of sac-TMT in 
+combination  with  KEYTRUDA®4  (pembrolizumab)  versus  pembrolizumab 
+as a first-line treatment of patients with PD-L1 positive locally advanced or 
+metastatic NSCLC has demonstrated a statistically significant and clinically 
+meaningful improvement in PFS, the study’s primary endpoint. A positive 
+trend in overall survival was also observed. This is the first Phase 3 clinical 
+trial  of  ADC  combined  with  immune  checkpoint  inhibitor  to  achieve  its 
+primary endpoint in the first-line treatment of NSCLC.
+
+In  January  2026,  sac-TMT  in  combination  with  pembrolizumab  for  the 
+first-line treatment of patients with locally advanced or metastatic NSCLC 
+who have PD-L1 TPS≥1% and are EGFR-negative and ALK-negative were 
+granted Breakthrough Therapy Designation by the NMPA.
+
+Additionally,  a  Phase  3  registrational  study  of  sac-TMT  in  combination 
+with  pembrolizumab  versus  chemotherapy  combined  with  pembrolizumab 
+as first-line treatment for patients with PD-L1 negative locally advanced or 
+metastatic non-squamous NSCLC is in progress.
+
+4 
+
+KEYTRUDA® (Pembrolizumab) is a registered trademark of Merck Sharp & Dohme LLC, a subsidiary of 
+Merck & Co., Inc., Rahway, NJ, USA.
+
+– 4 –
+
+o 
+
+o 
+
+Other  indications.  We  are  actively  exploring  the  potential  of  sac-TMT 
+both as a monotherapy and in combination with other therapies for treating 
+other  solid  tumors,  including  GC,  EC,  CC,  OC,  TC,  UC,  CRPC  and 
+HNSCC, etc.
+
+Global  clinical  development.  In  May  2022,  we  licensed  to  MSD  the 
+exclusive  rights  to  develop,  use,  manufacture  and  commercialize  sac-
+TMT  in  all  territories  outside  of  Greater  China  (which  includes  Chinese 
+mainland,  Hong  Kong,  Macao,  and  Taiwan).  As  at  the  date  of  this 
+announcement, MSD is evaluating 17 ongoing Phase 3 global, multi-center 
+clinical studies for sac-TMT for several types of cancer including BC, LC, 
+gynecological cancer, GI cancer and GU cancer. We are also collaborating 
+with  MSD  on  several  global  Phase  2  basket  studies  for  sac-TMT  as 
+monotherapy or in combination with other agents for multiple solid tumors 
+and those studies are ongoing.
+
+o 
+
+Clinical  data  readout.  We  presented  clinical  data  on  studies  of  sac-TMT 
+at various academic conferences and published in journals, such as:
+
+▓ 
+
+2025 ASCO GU Cancers Symposium.
+
+• 
+
+Efficacy  and  safety  results  from  the  Phase  1/2  KL264-01/MK-
+2870-001  study  (NCT04152499)  of  sac-TMT  monotherapy  in 
+patients  with  unresectable,  locally  advanced  or  metastatic  UC 
+who progressed on or after prior anti-cancer therapies;
+
+▓ 
+
+2025 ASCO Annual Meeting.
+
+• 
+
+• 
+
+• 
+
+• 
+
+Sac-TMT  in  patients  with  previously  treated  advanced  EGFR-
+mutated  NSCLC:  Results  from  the  randomized  OptiTROP-
+Lung03 study;
+
+Sac-TMT  as  first-line  treatment  for  unresectable  locally 
+advanced/metastatic  TNBC:  Initial  results  from  the  Phase  2 
+OptiTROP-Breast05 study;
+
+Sac-TMT  in  combination  with  tagitanlimab  (anti-PD-L1)  in 
+first-line  advanced  NSCLC:  Non-squamous  cohort  from  the 
+Phase 2 OptiTROP-Lung01 study;
+
+Sac-TMT  in  patients  with  previously  treated  locally  advanced 
+or  metastatic  NSCLC  harboring  uncommon  EGFR  mutations: 
+Preliminary results from a Phase 2 Study;
+
+– 5 –
+
+▓ 
+
+2025 ESMO Congress.
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Sac-TMT  versus  platinum-based  chemotherapy  in  EGFR-
+mutated  NSCLC  following  progression  on  EGFR-TKIs:  results 
+from  the  randomized,  multi-center  phase  3  OptiTROP-Lung04 
+study;
+
+Sac-TMT  versus  ICC  in  previously  treated  locally  advanced  or 
+metastatic HR+/HER2- BC: results from the randomized, multi-
+center phase 3 OptiTROP-Breast02 study;
+
+Sac-TMT  in  participants  with  previously  treated,  advanced 
+KRAS-Mutant  NSCLC:  results  from  cohort  5d  of  the  SKB264-
+II-08 Study;
+
+Sac-TMT  plus  pembrolizumab  for  treatment-naïve  advanced 
+PD-L1  positive  NSCLC:  results  from  the  Phase  2  SKB264-
+II-04/MK-2870-003 study;
+
+Sac-TMT plus pembrolizumab in metastatic CRPC: results from 
+Phase 2 SKB264-II-06/MK-2870-002 study;
+
+Sac-TMT monotherapy in advanced/metastatic EC: results from 
+a Phase 1/2 study (KL264-01/MK-2870-001);
+
+Efficacy  and  safety  of  sac-TMT  monotherapy  in  advanced/
+metastatic  CC:  results  from  a  Phase  1/2  study  (KL264-01/MK-
+2870-001);
+
+▓ 
+
+2026 ASCO GU.
+
+• 
+
+Sac-TMT  plus  pembrolizumab  in  participants  with  advanced 
+UC: results from the SKB264-II-06/2870-002 study;
+
+▓ 
+
+2026 ELCC.
+
+• 
+
+Sac-TMT  in  patients  with  previously  treated  advanced  EGFR-
+mutated  NSCLC:  Final  OS  analysis  from  the  randomized 
+OptiTROP-Lung03 study;
+
+▓  The New England Journal of Medicine.
+
+• 
+
+Sac-TMT  in  EGFR-TKI-resistant,  EGFR-mutated  advanced 
+NSCLC (OptiTROP-Lung04);
+
+– 6 –
+
+▓  The British Medical Journal.
+
+• 
+
+Sac-TMT  versus  docetaxel  for  previously  treated  EGFR-
+mutated advanced NSCLC: multicentre, open label, randomised 
+controlled trial (OptiTROP-Lung03);
+
+▓  Nature Medicine.
+
+• 
+
+• 
+
+• 
+
+Sac-TMT in previously treated metastatic TNBC: a randomized 
+Phase 3 trial (OptiTROP-Breast01);
+
+Sac-TMT in advanced NSCLC with or without EGFR mutations: 
+Phase 1/2 and Phase 2 trials;
+
+Sac-TMT  in  combination  with  PD-L1  mAb  tagitanlimab  (科
+泰萊®)  for  the  first-line  treatment  of  advanced  or  metastatic 
+NSCLC: a Phase 2 trial (OptiTROP-Lung01);
+
+▓ 
+
+Journal of Hematology & Oncology.
+
+• 
+
+Results  of  a  phase  1/2  study  of  sac-TMT  in  patients  with 
+unresectable  locally  advanced  or  metastatic  solid  tumors 
+refractory to standard therapies; and
+
+▓  The Annals of Oncology.
+
+• 
+
+Sac-TMT  in  participants  with  advanced  or  metastatic  UC  and 
+disease progression after chemotherapy and immune checkpoint 
+inhibitor.
+
+o 
+
+Our Core Product trastuzumab botidotin (HER2 ADC, also known as A166) (舒
+泰萊®):
+
+▓ 
+
+In  October  2025,  trastuzumab  botidotin  was  approved  for  marketing  by 
+the  NMPA  for  adult  patients  with  unresectable  or  metastatic  HER2+  BC 
+who  have  received  one  or  more  prior  anti-HER2  therapy.  This  is  the  first 
+domestically  developed  HER2  ADC  approved  for  2L+  HER2+  BC  in 
+China.
+
+– 7 –
+
+Our  results  from  the  Phase  3  study  of  trastuzumab  botidotin  for  the 
+treatment  of  2L+  HER2+  BC  were  selected  for  LBA  and  presented  as  an 
+oral report at the ESMO Congress in October 2025. Trastuzumab botidotin 
+achieved  statistically  significant  clinical  outcomes  compared  to  T-DM1: 
+ORR  (BICR:  76.9%  vs  53%);  PFS  (median  11.1  vs  4.4  months,  HR=0.39, 
+95%  CI=0.30-0.51,  p<0.0001).  PFS  benefit  with  trastuzumab  botidotin 
+was  consistently  observed  regardless  of  prior  lines  of  anti-HER2  therapy 
+(HR=0.36,  95%  CI=0.25-0.53,  for  1  prior  line;  HR=0.39,  95%  CI=0.28-
+0.56,  for  ≥2  prior  lines).  A  trend  toward  benefit  in  OS  was  observed  in 
+trastuzumab botidotin (HR 0.62).
+
+▓  We  have  also  initiated  an  open,  multicenter  Phase  2  clinical  study  of 
+trastuzumab botidotin in the treatment of HER2+ unresectable or metastatic 
+BC that previously received a topoisomerase inhibitor ADC.
+
+o 
+
+Others:
+
+Phase 2 clinical stage
+
+▓  SKB315 (CLDN18.2 ADC). We are conducting a Phase 1b clinical trial of 
+
+SKB315 for the treatment of GC/GEJC/PDAC, etc.
+
+The  early-stage  clinical  data  of  SKB315  demonstrates  promising  efficacy 
+and  acceptable  safety  profile  in  GC  with  mid  and  high  CLDN18.2 
+expression.  Results  of  a  Phase  1  study  of  SKB315  in  patients  with 
+advanced solid tumors including gastric GC/GEJC were presented at 2025 
+ESMO  Congress  in  October  2025.  Of  32  evaluable  (≥1  on-study  scan) 
+CLDN18.2-expressing  (H-score  ≥80)  patients  with  GC/GEJC  at  ≥2.4  mg/
+kg,  the  ORR  and  DCR  were  37.5%  and  84.4%,  respectively.  Median  PFS 
+was 8.2 months (95% CI: 2.7, 9.8), and median OS was 12.4 months (95% 
+CI: 4.9, 17.8). In the subset of patients with GC/GEJC at 5.4 mg/kg Q2W, 
+the ORR and DCR were 41.7% (5/12) and 91.7% (11/12), respectively.
+
+▓  SKB410/MK-3120  (Nectin-4  ADC).  MSD,  as  the  sponsor,  has  launched 
+4  global  Phase  1/2  clinical  trials  of  SKB410/MK-3120  in  advanced  solid 
+tumor including bladder cancer, etc.
+
+– 8 –
+
+▓  SKB571/MK-2750.  SKB571  is  a  novel  bsADC  that  primarily  targets 
+various  solid  tumors  such  as  LC  and  GI  cancer  etc.,  being  developed  in 
+collaboration with MSD. The Phase 2 clinical trial in China is ongoing.
+
+▓  SKB518.  SKB518  is  a  novel  ADC  drug  with  a  potential  FIC  target.  The 
+
+Phase 2 clinical trials are ongoing in China.
+
+▓  S K B500.  S K B500  i s  a  n o v e l  A D C  d r u g  w i t h  v e r i f i e d  t a r g e t  b u t 
+differentiated  payload-linker  strategy.  A  Phase  2  study  of  SKB500  is 
+ongoing in China.
+
+Phase 1 clinical stage
+
+▓  SKB107. SKB107 is a RDC drug jointly developed by us and the Affiliated 
+Hospital  of  Southwest  Medical  University  (西南醫科大學附屬醫院) 
+targeting bone metastases in solid tumors. The Phase 1 study is ongoing.
+
+▓  SKB535/MK-6204.  SKB535  is  a  novel  ADC  drug  with  potential  FIC 
+target.  The  Phase  1  clinical  trial  for  SKB535  is  ongoing  in  China.  The 
+Company has entered into a license and collaboration agreement with MSD 
+to develop SKB535.
+
+▓  SKB445.  SKB445  is  a  novel  ADC  drug  with  potential  FIC  target.  The 
+
+Phase 1 clinical trials for SKB445 is ongoing in China.
+
+▓  SKB105/CR-003  (ITGB6  ADC).  SKB105  is  a  differentiated  ADC 
+with  a  topoisomerase  1  inhibitor  payload  in  collaboration  with  Crescent 
+Biopharma. In January 2026, an IND application was approved by the CDE 
+of NMPA for the treatment of advanced solid tumors. A Phase 1/2 trial in 
+China is ongoing.
+
+– 9 –
+
+• 
+
+Key developments of our non-DC assets:
+
+o 
+
+Our  non-DC  assets  are  primarily  developed  for  oncology,  including  IO  that  is 
+expected  as  synergetic  combinations  with  our  ADC  and  novel  DC  assets,  as 
+follows:
+
+▓  Tagitanlimab  (PD-L1  mAb,  also  known  as  A167)  (科泰萊 ®).  In 
+December  2024,  we  received  marketing  authorization  of  tagitanlimab  in 
+China from NMPA for the treatment of patients with recurrent or metastatic 
+NPC  who  have  failed  after  prior  2L+  chemotherapy.  In  January  2025,  we 
+received  marketing  authorization  of  tagitanlimab  used  in  combination 
+with  cisplatin  and  gemcitabine  for  the  first-line  treatment  of  patients  with 
+recurrent or metastatic NPC in China from NMPA. Tagitanlimab is the first 
+PD-L1 mAb globally to receive authorization for the first-line treatment of 
+NPC.
+
+Based  on  a  randomized,  double-blinded,  placebo  controlled,  multi-center, 
+Phase  3  clinical  study  which  evaluates  the  efficacy  and  safety  results  of 
+tagitanlimab in combination with cisplatin and gemcitabine versus placebo 
+in combination with cisplatin and gemcitabine for the treatment of recurrent 
+or  metastatic  NPC,  as  presented  at  the  ASCO  Annual  Meeting  in  May 
+2025,  tagitanlimab  used  in  combination  with  cisplatin  and  gemcitabine 
+for  the  first-line  treatment  of  recurrent  or  metastatic  NPC  has  better  PFS, 
+higher  ORR  and  extended  DoR  compared  with  chemotherapy,  and  has 
+benefitted all patients regardless of PD-L1 expression. The median PFS for 
+tagitanlimab in combination with chemotherapy is not reached compared to 
+7.9 months for placebo in combination with chemotherapy (HR=0.47, 95% 
+CI:  0.33-0.66,  p<0.0001),  and  the  risk  of  disease  progression  and  death 
+is  reduced  by  53%;  ORR  is  81.7%  vs  74.5%;  median  DoR  is  11.7  vs  5.8 
+months (HR=0.48, 95% CI: 0.32-0.70), which is nearly double compared to 
+the placebo arm; the beneficial trend for OS of tagitanlimab in combination 
+with  chemotherapy  has  already  been  observed  (HR=0.62,  95%  CI:  0.32-
+1.22), and its risk of death is reduced by 38%.
+
+– 10 –
+
+▓  Cetuximab  N01  (EGFR  mAb,  also  known  as  A140)  (達泰萊 ®).  In 
+February  2025,  we  received  marketing  authorization  in  China  from  the 
+NMPA  for  Cetuximab  N01  Injection  used  in  combination  with  FOLFOX 
+or FOLFIRI regimens for first-line treatment of RAS wild-type mCRC. As 
+demonstrated  by  a  large-scale  domestic  Phase  3  clinical  study  conducting 
+a  head-to-head  comparison  of  Cetuximab  N01  Injection  with  Cetuximab 
+Solution  for  Injection  (Erbitux ®),  the  Cetuximab  N01  combination 
+chemotherapy  was  clinically  equivalent  in  ORR  (Cetuximab  N01  vs 
+Cetuximab  Solution  for  Injection  (Erbitux®):  71.0%  vs  77.5%;  ORR  ratio 
+is 0.93 (95% CI: 0.87, 0.99)), and Cetuximab N01 did not demonstrate any 
+clinically  meaningful  or  statistically  significant  differences  in  DoR  and 
+PFS  compared  with  Cetuximab  Solution  for  Injection  (Erbitux®)  (median 
+PFS: 10.9 months vs 10.8 months, HR: 1.03 (95% CI: 0.83, 1.28); median 
+DoR: 10.2 months vs 9.5 months). As for safety, this study has sufficiently 
+proven  that  the  Cetuximab  N01  combination  chemotherapy  is  comparable 
+in terms of safety, tolerance and immunogenicity to the Cetuximab Solution 
+for Injection (Erbitux®) combination chemotherapy.
+
+▓  Lunbotinib  Fumarate  Capsules  (RET  inhibitor,  also  known  as  A400/
+EP0031) (寧泰萊 ®)5. An NDA was accepted for review by the CDE of the 
+NMPA  of  China  for  the  1L+  treatment  of  adult  patients  with  RET-fusion 
+positive  locally  advanced,  or  metastatic  NSCLC.  We  are  also  conducting 
+a  Phase  1b/2  clinical  study  for  RET+  MTC  and  solid  tumor  in  China. 
+Through  our  collaboration  and  license  agreement,  Ellipses  Pharma  is 
+progressing their phase 2 clinical study globally outside of China.
+
+Our  results  from  the  Phase  1  study  of  Lunbotinib  Fumarate  Capsules  in 
+patients  with  advanced  RET-mutant  MTC  were  presented  at  the  ASCO 
+Annual  Meeting  in  May  2025.  The  confirmed  ORR  was  63.0%  and  the 
+DCR  was  100%  for  overall  population.  The  confirmed  ORR  was  56.3% 
+(9/16)  and  62.5%  (5/8)  in  patients  with  prior  MKI  or  treatment  naïve, 
+respectively.  Median  DoR  was  not  reached,  with  the  longest  duration  still 
+ongoing  at  25.8  months.  Similarly,  median  PFS  was  not  reached,  with  the 
+24-month PFS rate of 77.8%.
+
+5 
+
+Trade name to be approved by NMPA.
+
+– 11 –
+
+▓  SKB118/CR-001  (PD-1/VEGF  bsAb).  SKB118  is  a  tetravalent  bsAb 
+being  developed  for  the  treatment  of  solid  tumors  that  combines  two 
+complementary, validated mechanisms in oncology via a blockade of PD-1 
+and VEGF with Greater China rights in-licensed from Crescent Biopharma. 
+In  January  2026,  Crescent  Biopharma  announced  the  regulatory  clearance 
+of the IND application for SKB118 by FDA to initiate its global ASCEND 
+Phase 1/2 clinical trial for the treatment of advanced solid tumors, and the 
+first  patient  has  been  dosed  in  February  2026.  We  are  planning  to  initiate 
+the Phase 1/2 clinical study for SKB118 in China in the first half of 2026.
+
+o  We are also developing the following assets for autoimmune diseases:
+
+▓  SKB378/WIN378  (TSLP  mAb).  We  completed  Phase  1  clinical  trial  in 
+healthy subjects in China. In January 2025, an IND application for SKB378 
+for the treatment of COPD was approved by the NMPA. Our collaboration 
+partner, Windward Bio, has launched the Phase 2 POLARIS global trial in 
+patients with asthma.
+
+▓  SKB575  (TSLP/undisclosed  target  bsAb).  In  March  2026,  an  IND 
+application for SKB575 for the treatment of atopic dermatitis was approved 
+by the NMPA.
+
+o 
+
+Assets for other non-oncology disease areas include:
+
+▓  SKB336 (FXI/FXIa mAb). We completed Phase 1 clinical trial in China.
+
+• 
+
+Commercialization.  We  have  received  marketing  authorization  for  sac-TMT 
+(佳泰萊 ®),  tagitanlimab  (科泰萊 ®),  Cetuximab  N01  (達泰萊 ®)  and  trastuzumab 
+botidotin (舒泰萊 ®) and have commenced their commercialization. We have also filed 
+an  NDA  for  Lunbotinib  Fumarate  Capsules  (寧泰萊®)6  and  expect  to  commence  its 
+commercialization in the first half of 2027, subject to regulatory communications and 
+marketing  approval.  Three  of  our  commercialized  products,  namely  sac-TMT  (佳泰
+萊®),  tagitanlimab  (科泰萊®)  and  Cetuximab  N01  (達泰萊®),  were  for  the  first  time 
+successfully  included  in  the  National  Reimbursement  Drug  List  which  has  officially 
+taken effect since January 1, 2026.
+
+6 
+
+Trade name to be approved by NMPA.
+
+– 12 –
+
+Currently,  our  businesses  have  covered  30  provinces,  over  300  prefectures  and  over 
+1,200  hospitals,  and  reached  tens  of  thousands  of  healthcare  professionals  through 
+various  types  of  marketing  campaigns  to  convey  product  and  medical  professional 
+information. In addition, we have obtained authoritative endorsement for our products 
+from experts in clinical guidelines, such as “Guidelines of CSCO: Breast Cancer 2025 
+(CSCO乳腺癌診療指南2025)”,  “Guidelines  of  CSCO:  Non-Small  Cell  Lung  Cancer 
+2025)  (CSCO非小細胞肺癌診療指南2025)”,  “Guidelines  of  CSCO:  Nasopharyngeal 
+Carcinoma  2025  (CSCO鼻咽癌診療指南2025)”,  “CBCS&CSOBO  Guidelines  for 
+Breast  Cancer  Diagnosis  and  Treatment  (2026  Concise  Edition)  (CBCS&CSOBO乳
+腺癌診治指南與規範(2026年精要本))”,  “Guidelines  for  Diagnosis  and  Treatment 
+of  Advanced  Breast  Cancer  in  China  (2024  edition)  (中國晚期乳腺癌規範診療指南
+(2024版))”  and  “Chinese  Medical  Association  Clinical  Practice  Guidelines  for  Lung 
+Cancer  (中華醫學會肺癌臨床診療指南(2025版))”,  providing  further  support  for  the 
+commercialization process.
+
+A s  a t  t h e  d a t e  o f  t h i s  a n n o u n c e m e n t,  w e  h a v e  e s t a b l i s h e d  a  f u l l y-f l e d g e d 
+commercialization team of over 600 people, dedicated to preparing and implementing 
+the  marketing  and  commercialization  of  our  strategic  products.  Within  the 
+commercialization  team,  we  have  established  a  departmental  structure  that  includes 
+marketing,  sales,  medical  affairs,  distribution  and  market  access,  strategic  planning 
+and  commercial  excellence  as  well  as  marketing  compliance  and  KA  functions.  The 
+commercialization team will continue to expand to capture more market opportunities 
+in  the  future  as  more  products  and  indications  are  launched  and  are  included  in  the 
+medical  insurance.  Currently,  among  the  commercialized  products  and  therapeutic 
+areas,  the  business  team  is  divided  into  breast  cancer,  lung  cancer,  and  other  tumors 
+based  on  indications,  and  the  synergy  of  the  indications  of  commercialized  products 
+are conducive to the implementation of marketing and promotional activities.
+
+In  2025,  our  products  were  sold  primarily  through  DTP  pharmacies.  We  have 
+established  stable  relationships  with  multiple  leading  commercial  and  distribution 
+groups,  including  60+  Tier  1  distributors  and  400+  DTP  pharmacies.  A  hierarchical 
+management  system  for  pharmacy  retail  has  been  adopted  and  trainings  have  been 
+provided  to  nearly  10,000  pharmacists  in  2025.  By  organizing  nationwide  pharmacy 
+trainings,  the  company  has  significantly  enhanced  the  professionalism  of  terminal 
+services and improved the ability to provide patients with medication guidance.
+
+– 13 –
+
+We  have  actively  optimized  our  network  strategy.  In  2025,  sac-TMT  (佳泰萊®), 
+tagitanlimab  (科泰萊®)  and  Cetuximab  N01  (達泰萊®)  have  been  included  in  31 
+provincial  networks,  and  trastuzumab  botidotin  (舒泰萊®)  has  been  included  in  5 
+provincial  networks,  ensuring  rapid  market  access  through  provincial  procurement 
+channels. On December 7, 2025, the National Healthcare Security Administration and 
+the Ministry of Human Resources and Social Security published the updated National 
+Reimbursement  Drug  List  (國家醫保藥品目錄).  Three  of  our  commercialized 
+products, namely sac-TMT (佳泰萊 ®), tagitanlimab (科泰萊 ®) and Cetuximab N01 (達
+泰萊®),  were  for  the  first  time  successfully  included  in  the  National  Reimbursement 
+Drug  List  which  has  officially  taken  effect  since  January  1,  2026.  Meanwhile, 
+to  further  reduce  the  burden  of  patients  and  implement  the  concept  of  inclusive 
+healthcare, we have been proactively facilitating the enrollment of sac-TMT (佳泰萊®) 
+in provincial  and  prefecture city level Inclusive Insurance (惠民保). As at the end of 
+the Reporting Period, sac-TMT (佳泰萊®) has been enrolled in more than 14 provinces 
+and 30 cities.
+
+Globally,  we  will  continue  to  pursue  a  flexible  strategy  to  capture  the  commercial 
+value  in  major  international  markets,  through  forging  synergistic  license  and 
+collaboration opportunities worldwide.
+
+• 
+
+Highlights of our License and Collaboration Arrangements.
+
+▓  Collaboration  with  MSD.  We  have  entered  into  license  and  collaboration 
+agreements with MSD to develop multiple ADC assets for cancer treatment.
+
+▓  Sac-TMT:  We  have  granted  MSD  an  exclusive,  royalty-bearing  and  sub-
+licensable license to develop, use, manufacture and commercialize sac-TMT 
+outside  Greater  China.  We  retain  the  right  to  develop  and  commercialize 
+sac-TMT within Greater China. As at the date of this announcement, MSD is 
+evaluating initiated 17 ongoing Phase 3 global clinical studies of sac-TMT 
+as a monotherapy or with pembrolizumab or other agents for several types 
+of cancer. The following studies are sponsored and led by MSD:
+
+  BC.
+
+o 
+
+o 
+
+Adjuvant  sac-TMT  plus  pembrolizumab  versus  TPC  in  TNBC 
+who  received  neoadjuvant  pembrolizumab  plus  chemotherapy 
+and did not achieve a pCR at surgery;
+
+S a c - T M T   a s   a   m o n o t h e r a p y   a n d   i n   c o m b i n a t i o n   w i t h 
+pembrolizumab  versus  TPC  in  participants  with  previously 
+untreated  locally  recurrent  unresectable  or  metastatic  TNBC 
+expressing PD-L1 at CPS<10;
+
+– 14 –
+
+o 
+
+o 
+
+S a c - T M T   a s   a   s i n g l e   a g e n t   a n d   i n   c o m b i n a t i o n   w i t h 
+pembrolizumab  versus  TPC  in  participants  with  unresectable 
+locally  advanced  or  metastatic  HR+/HER2-BC  (after  one  or 
+more lines of ET);
+
+S a c - T M T   f o l l o w e d   b y   c a r b o p l a t i n / p a c l i t a x e l   v e r s u s 
+chemotherapy,  both  in  combination  with  pembrolizumab  as 
+neoadjuvant therapy for high-risk, early-stage TNBC or HR-low 
+positive/HER2-negative BC;
+
+   LC.
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+Adjuvant  sac-TMT  plus  pembrolizumab  versus  pembrolizumab 
+in  adult  participants  with  resectable  NSCLC  not  achieving  a 
+pCR after receiving neoadjuvant pembrolizumab with platinum-
+based doublet chemotherapy followed by surgery;
+
+S a c - T M T   i n   c o m b i n a t i o n   w i t h   p e m b r o l i z u m a b   v e r s u s 
+pembrolizumab  monotherapy  in  the  first-line  treatment  of 
+participants  with  metastatic  NSCLC  expressing  PD-L1  greater 
+than or equal to 50 percent;
+
+Sac-TMT  monotherapy  versus  standard  chemotherapy  for  the 
+treatment  of  previously  treated  advanced  or  metastatic  NSCLC 
+with  EGFR  mutations  or  other  genomic  alterations  (after  1  or 
+2  prior  lines  of  EGFR-TKI  and  1  platinum-based  therapy  after 
+progression on or after EGFR-TKI);
+
+Sac-TMT  versus  pemetrexed  and  carboplatin  combination 
+therapy  in  participants  with  EGFR-mutated,  advanced  non-
+squamous NSCLC who have progressed on prior EGFR-TKI;
+
+S a c - T M T   i n   c o m b i n a t i o n   w i t h   p e m b r o l i z u m a b   v e r s u s 
+pembrolizumab  as  maintenance  treatment  in  the  first-line 
+treatment  of  metastatic  squamous  NSCLC  after  induction 
+treatment  with  pembrolizumab  plus  carboplatin  and  paclitaxel 
+or nab-paclitaxel;
+
+– 15 –
+
+   Gynecological cancer.
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+Sac-TMT  monotherapy  versus  chemotherapy  for  the  treatment 
+of  EC  who  have  received  prior  platinum-based  chemotherapy 
+and immunotherapy;
+
+S a c - T M T   i n   c o m b i n a t i o n   w i t h   p e m b r o l i z u m a b   v e r s u s 
+pembrolizumab alone as treatment in participants with mismatch 
+repair proficient EC;
+Sac-TMT monotherapy versus TPC as second-line treatment for 
+participants with recurrent or metastatic CC;
+
+Sac-TMT in patients with platinum-sensitive recurrent OC who 
+have received 2L chemotherapy;
+
+Sac-TMT  in  combination  with  pembrolizumab  with  or  without 
+Bevacizumab compared with SOC as 1L maintenance treatment 
+for  participants  with  persistent,  recurrent,  or  newly  diagnosed 
+metastatic CC with PD-L1 CPS≥1;
+
+Sac-TMT  maintenance  treatment  with  or  without  Bevacizumab 
+versus  SOC  in  participants  with  newly  diagnosed  advanced 
+HRD-negative OC following 1L platinum-based chemotherapy;
+
+   GI cancer. Sac-TMT in 3L+ advanced/metastatic GEA; and
+
+   GU cancer. Sac-TMT in pretreated metastatic UC.
+
+We  are  also  collaborating  with  MSD  on  several  global  Phase  2  basket 
+studies  for  sac-TMT  as  monotherapy  or  in  combination  with  other  agents 
+for multiple solid tumors and those studies are ongoing.
+
+– 16 –
+
+▓  Other  ADC  assets:  In  addition  to  sac-TMT,  we  are  also  collaborating 
+with  MSD  on  certain  ADC  assets  to  continuously  explore  favorable  ADC 
+pipeline  portfolios.  Through  our  ADC  pipelines,  we  aim  to  cover  a  wide 
+range  of  tumor  indications  via  different  targets,  to  apply  differentiated 
+payload-linker  strategies  for  ADC  assets  with  different  targets  to 
+achieve  better  efficacy  and/or  differentiated  safety  profiles,  and,  through 
+various  strategies,  to  explore  ADCs  in  combination.  We  have  granted 
+MSD  exclusive  global  licenses  to  research,  develop,  manufacture  and 
+commercialize  multiple  ADC  assets  and  exclusive  options  to  obtain 
+additional  licenses  to  certain  other  ADC  assets.  We  retain  the  right  to 
+research,  develop,  manufacture  and  commercialize  certain  licenses  and 
+option ADCs for Chinese mainland, Hong Kong and Macau.
+
+▓  Collaboration  with  Ellipses  Pharma.  In  March  2021,  we  have  entered  into 
+a  collaboration  and  license  agreement  with  Ellipses  Pharma,  under  which 
+we  granted  Ellipses  Pharma  an  exclusive,  revenue  sharing,  royalty-bearing, 
+sublicensable  license  to  develop,  manufacture  and  commercialize  Lunbotinib 
+Fumarate Capsules (known as EP0031 by Ellipses Pharma). 
+
+In  April  2024,  Lunbotinib  Fumarate  Capsules  was  cleared  by  the  FDA  to 
+progress into Phase 2 clinical development. As at December 31, 2025, a total of 
+39 clinical sites in the United States, Europe and UAE were set up for Lunbotinib 
+Fumarate Capsules.
+
+▓  Collaboration  with  Windward  Bio.  In  January  2025,  it  was  announced  that 
+we  and  Harbour  BioMed  had  entered  into  an  exclusive  license  agreement 
+with  Windward  Bio,  under  which  we  and  Harbour  BioMed  granted  Windward 
+Bio  an  exclusive  license  for  the  research,  development,  manufacturing  and 
+commercialization  of  SKB378/WIN378  globally  (excluding  Greater  China  and 
+several Southeast and West Asian countries).
+
+In return, we and Harbour BioMed are eligible to receive a total of up to US$970 
+million  upfront  and  milestone  payments  as  well  as  single  to  double-digit  tiered 
+royalties on net sales of SKB378/WIN378. The US$45 million upfront and near-
+term payments include both cash consideration and equity in the parent company 
+of Windward Bio. The payments to be made by Windward Bio under the license 
+agreement shall be paid in equal amounts to us and Harbour BioMed.
+
+Windward  Bio  has  launched  the  Phase  2  POLARIS  global  trial  in  patients  with 
+asthma.
+
+– 17 –
+
+▓  C o l l a b o r a t i o n  w i t h  C r e s c e n t  B i o p h a r m a .  I n  D e c e m b e r  2025,  w e  a n d 
+Crescent  Biopharma  entered  into  a  strategic  collaboration  for  SKB105/CR-
+003  and  SKB118  (a  PD1 ×  VEGF  bsAb,  also  known  as  CR-001).  Under  the 
+collaboration,  we  granted  Crescent  Biopharma  exclusive  rights  to  research, 
+develop,  manufacture  and  commercialize  SKB105/CR-003  in  the  United  States, 
+Europe  and  all  other  markets  outside  of  Greater  China.  In  addition,  Crescent 
+Biopharma  granted  us  exclusive  rights  to  research,  develop,  manufacture  and 
+commercialize  SKB118/CR-001  in  Greater  China.  The  partnership  includes 
+the  development  of  these  candidates  as  monotherapies,  and  also  the  evaluation 
+of  SKB118/CR-001  in  combination  with  SKB105/CR-003.  Both  we  and 
+Crescent  Biopharma  have  the  right  to  independently  develop  SKB118/CR-001 
+in  additional  combinations,  including  combinations  of  SKB118/CR-001  with 
+proprietary ADC pipeline assets.
+
+Under the collaboration, we are eligible to receive an upfront payment of US$80 
+million  from  Crescent  Biopharma  and  additional  milestones  of  up  to  US$1.25 
+billion, plus tiered middle single-digit to low double-digit royalties on net sales 
+of  SKB105/CR-003.  We  are  also  eligible  to  receive  additional  payment  from 
+Crescent  Biopharma  if  Crescent  Biopharma  undergoes  a  near-term  change 
+of  control  or  enters  into  a  sublicense  agreement  with  a  third  party.  Crescent 
+Biopharma is also eligible to receive an upfront payment of US$20 million from 
+us  and  additional  milestones  of  up  to  US$30  million,  plus  tiered  low  to  middle 
+single digit royalties on net sales of SKB118/CR-001.
+
+In January 2026, Crescent Biopharma announced the regulatory clearance of the 
+IND  application  for  SKB118  by  FDA  to  initiate  its  global  ASCEND  Phase  1/2 
+clinical trial for the treatment of advanced solid tumors, and the first patient has 
+been dosed in February 2026.
+
+• 
+
+ESG.  We  have  established  a  comprehensive  three-tier  ESG  governance  structure 
+consisting  of  the  Board  of  Directors,  ESG  Working  Group  and  ESG  Executive 
+Body.  Among  them,  the  Board  of  Directors  serves  as  the  highest  responsible  and 
+decision-making  body  for  ESG  management  and  information  disclosure,  guiding 
+and  supervising  the  Company’s  ESG  development.  Through  the  establishment 
+and  continuous  improvement  of  the  ESG  governance  structure,  the  Company 
+comprehensively  enhances  ESG  performance  ability  and  ensures  the  Company’s 
+sustainable  development.  In  May  2025,  the  company  was  awarded  “Best  ESG”  by 
+Extel (formerly Institutional Investor Research) (前稱“機構投資者”). In March 2026, 
+the Company had received a rating of “AA” in the MSCI ESG Rating Assessment.
+
+• 
+
+Placing of New H Shares. On June 12, 2025, the placing of 5,918,000 H Shares to not 
+less than six placees at the placing price of HK$331.80 per Share was completed. The 
+net proceeds from the Placing amounted to approximately HK$1,943.0 million.
+
+– 18 –
+
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+for the year ended December 31, 2025
+(Expressed in Renminbi (“RMB”))
+
+Revenue
+Cost of sales
+
+Gross profit
+Other net income
+Selling and distribution expenses
+Administrative expenses
+Research and development expenses
+
+Loss from operations
+Finance costs
+
+Loss before taxation
+Income tax
+
+Loss for the year attributable to equity 
+
+shareholders of the Company
+
+Loss per share
+Basic and diluted (RMB Yuan per share)
+
+Note
+
+4
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+2,057,920
+(579,139)
+
+1,933,045
+(659,388)
+
+1,478,781
+145,243
+(475,252)
+(178,719)
+(1,319,675)
+
+1,273,657
+139,755
+(182,717)
+(163,310)
+(1,206,134)
+
+(349,622)
+(6,158)
+
+(138,749)
+(3,796)
+
+(355,780)
+(26,191)
+
+(142,545)
+(124,221)
+
+(381,971)
+
+(266,766)
+
+(1.66)
+
+(1.20)
+
+5
+
+6
+
+– 19 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE 
+INCOME
+for the year ended December 31, 2025
+(Expressed in RMB)
+
+Note
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+Loss for the year
+
+(381,971)
+
+(266,766)
+
+Other comprehensive income for the year  
+
+(after tax)
+
+Item that may be reclassified subsequently to  
+
+profit or loss:
+
+Exchange differences on translation of financial 
+
+statements of overseas subsidiaries
+
+(7,749)
+
+3,537
+
+Other comprehensive income for the year
+
+(7,749)
+
+3,537
+
+Total comprehensive income for the year 
+
+attributable to equity shareholders of the 
+Company
+
+(389,720)
+
+(263,229)
+
+– 20 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(Expressed in RMB)
+
+Note
+
+As at December 31,
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+Non-current assets
+Property, plant and equipment
+Right-of-use assets
+Intangible assets
+Financial assets measured at fair value through other 
+
+comprehensive income (“FVOCI”)
+
+Other non-current assets
+
+Current assets
+Inventories
+Trade and other receivables
+Amounts due from related parties
+Financial assets measured at fair value through profit 
+
+7
+8
+
+or loss (“FVPL”)
+
+Financial assets measured at amortized cost
+Restricted deposits
+Cash and cash equivalents
+
+635,905
+122,591
+1,100
+
+70,080
+10,234
+
+594,822
+163,283
+2,579
+
+–
+14,512
+
+839,910
+
+775,196
+
+240,944
+345,538
+2,795
+
+935,310
+292,574
+87,677
+3,243,797
+
+110,506
+303,728
+2,921
+
+1,448,319
+283,979
+6,850
+1,336,503
+
+5,148,635
+
+3,492,806
+
+Current liabilities
+Contract liabilities
+Trade and other payables
+Lease liabilities
+Amounts due to related parties
+
+9
+10
+
+258,033
+684,518
+44,401
+17,542
+
+312,375
+446,832
+41,842
+8,792
+
+1,004,494
+
+809,841
+
+– 21 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note
+
+As at December 31,
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+Net current assets
+
+4,144,141
+
+2,682,965
+
+Total assets less current liabilities
+
+4,984,051
+
+3,458,161
+
+Non-current liabilities
+Lease liabilities
+Deferred income
+
+44,043
+72,938
+
+84,905
+64,595
+
+116,981
+
+149,500
+
+NET ASSETS
+
+4,867,070
+
+3,308,661
+
+CAPITAL AND RESERVES
+Share capital
+Reserves
+
+11
+
+233,186
+4,633,884
+
+227,268
+3,081,393
+
+TOTAL EQUITY
+
+4,867,070
+
+3,308,661
+
+– 22 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+for the year ended December 31, 2025
+(Expressed in RMB)
+
+Note
+
+Share 
+capital
+RMB’000
+
+Capital 
+reserves
+RMB’000
+
+Exchange 
+reserves
+RMB’000
+
+Accumulated 
+losses
+RMB’000
+
+Total
+RMB’000
+
+Balance at January 1, 2024
+
+219,196
+
+6,161,075
+
+5,542
+
+(4,056,316)
+
+2,329,497
+
+Changes in equity for 2024
+Loss for the year
+Exchange differences on translation 
+of financial statements of overseas 
+subsidiaries
+
+Total comprehensive income
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(266,766)
+
+(266,766)
+
+3,537
+
+–
+
+3,537
+
+3,537
+
+(266,766)
+
+(263,229)
+
+Issuance of new shares
+Equity-settled share-based payment
+
+11
+
+8,072
+–
+
+1,086,036
+148,285
+
+–
+–
+
+–
+–
+
+1,094,108
+148,285
+
+Balance at December 31, 2024 and 
+
+January 1, 2025
+
+Changes in equity for 2025
+Loss for the year
+Exchange differences on translation 
+of financial statements of overseas 
+subsidiaries
+
+Total comprehensive income
+
+227,268
+
+7,395,396
+
+9,079
+
+(4,323,082)
+
+3,308,661
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(381,971)
+
+(381,971)
+
+(7,749)
+
+–
+
+(7,749)
+
+(7,749)
+
+(381,971)
+
+(389,720)
+
+Issuance of new shares
+Equity-settled share-based payment
+
+11
+
+5,918
+–
+
+1,771,516
+170,695
+
+–
+–
+
+–
+–
+
+1,777,434
+170,695
+
+Balance at December 31, 2025
+
+233,186
+
+9,337,607
+
+1,330
+
+(4,705,053)
+
+4,867,070
+
+– 23 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED CASH FLOW STATEMENT
+for the year ended December 31, 2025
+(Expressed in RMB)
+
+Operating activities
+Cash used in operating activities
+Withholding tax refunded
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+(227,015)
+46,715
+
+(429,770)
+–
+
+Net cash used in operating activities
+
+(180,300)
+
+(429,770)
+
+Investing activities
+Payment for the purchase of property, plant and equipment
+Proceeds from disposal of property, plant and equipment
+Payment for intangible assets
+Payment for investment in financial assets measured at FVPL
+Proceeds from redemption of financial  
+
+(125,685)
+3
+(565)
+(4,530,000)
+
+(77,460)
+30
+(3,659)
+(3,210,000)
+
+assets measured at FVPL
+
+5,067,140
+
+2,416,933
+
+Payment for investment in financial assets measured at 
+
+amortized cost
+
+Proceeds from maturity of financial assets measured at 
+
+amortized cost
+
+(2,883,857)
+
+(103,102)
+
+2,883,978
+
+155,253
+
+Net cash generated from/(used in) investing activities
+
+411,014
+
+(822,005)
+
+Financing activities
+Net proceeds from issuance of new shares
+Capital element of lease rentals paid
+Interest element of lease rentals paid
+
+1,777,434
+(43,215)
+(6,158)
+
+1,094,108
+(54,601)
+(2,288)
+
+Net cash generated from financing activities
+
+1,728,061
+
+1,037,219
+
+Net increase/(decrease) in cash and cash equivalents
+
+1,958,775
+
+(214,556)
+
+Cash and cash equivalents at January 1
+
+1,336,503
+
+1,528,774
+
+Effect of foreign exchange rate changes
+
+(51,481)
+
+22,285
+
+Cash and cash equivalents at December 31
+
+3,243,797
+
+1,336,503
+
+– 24 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTES TO THE CONSOLIDATED FINANCIAL REPORT
+(Expressed in thousands of RMB, unless otherwise indicated)
+
+1. 
+
+STATEMENT OF COMPLIANCE
+
+These  financial  statements  have  been  prepared  in  accordance  with  all  applicable  IFRS  Accounting 
+Standards,  which  collective  term  includes  all  applicable  individual  International  Financial  Reporting 
+Standards,  International  Accounting  Standards  (“IASs”)  and  Interpretations  issued  by  the  International 
+Accounting  Standards  Board  (“IASB”)  and  the  disclosure  requirements  of  the  Hong  Kong  Companies 
+Ordinance. These financial statements also comply with the applicable disclosure provisions of the Rules 
+Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited (“Stock Exchange”). 
+Material  accounting  policies  adopted  by  the  Company  and  its  subsidiaries  (together  referred  to  as  the 
+“Group”) are disclosed below.
+
+The  IASB  has  issued  certain  amendments  to  IFRS  Accounting  Standards  that  are  first  effective  or 
+available for early adoption for the current accounting period of the Group.
+
+2. 
+
+BASIS OF PREPARATION
+
+The consolidated financial statements for the year ended December 31, 2025 comprise the Group.
+
+Items included in these consolidated financial statements of each entity in the Group are measured using 
+the currency that best reflects the economic substance of the underlying events and circumstances relevant 
+to the entity (“functional currency”).
+
+RMB,  the  United  States  dollars  (“USD”)  and  Hong  Kong  dollars  (“HKD”)  are  the  functional  currencies 
+for the Company and Company’s subsidiaries established in Mainland China, the United States and Hong 
+Kong.
+
+The  consolidated  financial  statements  are  presented  in  RMB,  rounded  to  nearest  thousands,  which  is  the 
+presentation currency.
+
+The  measurement  basis  used  in  the  preparation  of  the  financial  statements  is  the  historical  cost  basis 
+except that financial assets measured at fair value through profit or loss and financial assets measured at 
+fair value through other comprehensive income are stated at fair value.
+
+The  preparation  of  financial  statements  in  conformity  with  IFRS  Accounting  Standards  requires 
+management  to  make  judgements,  estimates  and  assumptions  that  affect  the  application  of  policies  and 
+reported  amounts  of  assets,  liabilities,  income  and  expenses.  The  estimates  and  associated  assumptions 
+are  based  on  historical  experience  and  various  other  factors  that  are  believed  to  be  reasonable  under  the 
+circumstances,  the  results  of  which  form  the  basis  of  making  the  judgements  about  carrying  values  of 
+assets and liabilities that are not readily apparent from other sources. Actual results may differ from these 
+estimates.
+
+The  estimates  and  underlying  assumptions  are  reviewed  on  an  ongoing  basis.  Revisions  to  accounting 
+estimates  are  recognized  in  the  period  in  which  the  estimate  is  revised  if  the  revision  affects  only  that 
+period,  or  in  the  period  of  the  revision  and  future  periods  if  the  revision  affects  both  current  and  future 
+periods.
+
+– 25 –
+
+3. 
+
+CHANGES IN ACCOUNTING POLICIES
+
+The Group has applied amendments to IAS 21, The effects of changes in foreign exchange rates – Lack of 
+exchangeability  issued  by  the  IASB  to  these  financial  statements  for  the  current  accounting  period.  The 
+amendments do not have a material impact on these financial statements as the Group has not entered into 
+any foreign currency transactions in which the foreign currency is not exchangeable into another currency.
+
+The  Group  has  not  applied  any  new  standard  or  interpretation  that  is  not  yet  effective  for  the  current 
+accounting period.
+
+4. 
+
+REVENUE AND SEGMENT REPORTING
+
+The  principal  activities  of  the  Group  are  the  researching  and  developing  service  of  innovative  drugs, 
+manufacturing and commercialization of novel drugs.
+
+Disaggregation of revenue
+
+Disaggregation  of  revenue  from  contracts  with  customers  by  major  service  lines  and  by  geographic 
+markets is as follows:
+
+Revenue from contracts with customers within the scope of IFRS 15
+Revenue from license and collaboration agreements
+Revenue from provision of research and development service
+Revenue from sales of pharmaceutical products
+
+Year ended December 31,
+
+2025
+RMB’000
+
+1,498,044
+17,175
+542,701
+
+2024
+RMB’000
+
+1,863,071
+18,276
+51,698
+
+2,057,920
+
+1,933,045
+
+Disaggregation  of  revenue  from  contracts  with  customers  by  the  timing  of  revenue  recognition  is  as 
+follows:
+
+Disaggregated by timing of revenue recognition
+Point in time
+Over time
+
+Year ended December 31,
+
+2025
+RMB’000
+
+1,376,331
+681,589
+
+2024
+RMB’000
+
+1,107,697
+825,348
+
+2,057,920
+
+1,933,045
+
+– 26 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. 
+
+INCOME TAX IN THE CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+
+Current tax
+Provision for the period
+– The PRC Corporate Income Tax
+– United States Withholding Tax
+– United States Withholding Tax refunded
+
+(i) 
+
+PRC Corporate Income Tax
+
+Year ended December 31,
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+–
+72,906
+(46,715)
+
+–
+124,221
+–
+
+26,191
+
+124,221
+
+Effective from January 1, 2008, the PRC statutory income tax rate is 25% under the PRC Corporate 
+Income Tax Law. The Group’s subsidiaries in the PRC are subject to PRC income tax at 25% unless 
+otherwise specified.
+
+According to the PRC Corporate Income Tax Law and its relevant regulations, entities that qualified 
+as  high-technology  enterprise  are  entitled  to  a  preferential  income  tax  rate  of  15%.  The  Company 
+obtained  its  certificate  of  high-technology  enterprise  on  December  3,  2020  and  October  16,  2023 
+respectively and is entitled to preferential income tax of 15% from 2020 to 2026.
+
+(ii)  Hong Kong Profit Tax
+
+The  provision  for  Hong  Kong  Profits  Tax  for  2025  is  calculated  at  16.5%  (2024:  16.5%)  of  the 
+estimated  assessable  profits  for  the  period.  There  were  no  assessable  profits  generating  from  the 
+subsidiary incorporated in Hong Kong of the Group during the year ended December 31, 2025.
+
+(iii)  United States Withholding Tax
+
+Pursuant  to  US  Income  Tax  laws  and  regulations  and  the  agreement  between  the  government  of 
+the  People’s  Republic  of  China  and  the  USA  for  avoidance  of  double  taxation  and  the  prevention 
+of  fiscal  evasion  with  respect  to  taxes  on  income  (中華人民共和國政府和美利堅合眾國政府關
+於對所得避免雙重徵稅和防止偷漏稅的協定),  a  10%  US  federal  withholding  tax  is  charged  on 
+royalties paid pursuant to license and collaboration agreements entered between the Company and a 
+US company.
+
+The  Company  applied  to  the  Internal  Revenue  Service  to  refund  the  US  federal  withholding  tax 
+and  Internal  Revenue  Service  reviewed  this  application  on  a  case-bycase  basis.  In  2025,  Internal 
+Revenue Service refunded withholding tax of USD6,500,000 (equivalent to RMB46,715,000) to the 
+Company.
+
+– 27 –
+
+ 
+ 
+ 
+ 
+6. 
+
+LOSS PER SHARE
+
+(a) 
+
+Basic loss per share
+
+The  calculation  of  basic  loss  per  share  is  based  on  the  loss  for  the  period  attributable  to  ordinary 
+equity  shareholders  of  the  Company  and  the  weighted  average  number  of  ordinary  shares  in  issue 
+during the period, calculated as follows.
+
+(i) 
+
+Loss attributable to ordinary equity shareholders of the Company used in basic loss/earnings 
+per share calculation:
+
+Year ended December 31,
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+Loss for the period attributable to ordinary equity 
+shareholders of the Company for the purpose of 
+basic loss per share
+
+(381,971)
+
+(266,766)
+
+(ii)  Weighted average number of shares
+
+Issued ordinary shares at January 1
+Effect of issuance of new shares
+
+Year ended December 31,
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+227,267,969
+3,275,167
+
+219,195,499
+2,452,086
+
+Weighted average number of ordinary shares  
+
+at December 31
+
+230,543,136
+
+221,647,585
+
+(b)  Diluted loss/earnings per share
+
+No  adjustment  has  been  made  to  the  basic  loss/earnings  per  share  presented  for  the  year  ended 
+December  31,  2025  and  2024  as  the  Group  had  no  potentially  dilutive  ordinary  shares  in  issue 
+during those periods.
+
+– 28 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+7. 
+
+INVENTORY
+
+Raw materials
+Low-value consumables
+Work in progress
+Finished goods
+
+8. 
+
+TRADE AND OTHER RECEIVABLES
+
+Trade receivables
+Other receivables
+Value Added Tax (“VAT”) recoverable
+Prepaid tax
+Prepayments
+
+As at December 31,
+
+2025
+RMB’000
+
+66,575
+6,341
+133,709
+34,319
+
+2024
+RMB’000
+
+78,655
+5,000
+24,848
+2,003
+
+240,944
+
+110,506
+
+As at December 31,
+
+2025
+RMB’000
+
+94,475
+4,357
+189,060
+–
+57,646
+
+2024
+RMB’000
+
+57,842
+12,083
+171,243
+2,085
+60,475
+
+345,538
+
+303,728
+
+As  at  the  end  of  each  reporting  period,  the  ageing  analysis  of  trade  receivables  (which  are  included  in 
+trade and other receivables), based on the invoice date, is as follows:
+
+Within 3 months (inclusive)
+
+As at December 31,
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+94,475
+
+57,842
+
+– 29 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. 
+
+CONTRACT LIABILITIES
+
+Receipts in advance
+
+As at December 31,
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+258,033
+
+312,375
+
+When the Group receives upfront payments before the provision of research and development service, this 
+will give rise to contract liabilities at the start of a contract, until the revenue recognized from provision of 
+research and development service exceeds the amount of the upfront payments. The amount of the upfront 
+payments was negotiated on a case-by-case basis with the respective customers.
+
+Movements in contract liabilities
+
+Balance at January 1
+Decrease in contract liabilities as a result of recognising revenue  
+during the year that was included in the contract liabilities  
+at the beginning of the year
+
+Increase in contract liabilities as a result of receipts in advance
+
+As at December 31,
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+312,375
+
+510,692
+
+(312,375)
+258,033
+
+(510,692)
+312,375
+
+Balance at December 31
+
+258,033
+
+312,375
+
+All of contract liabilities are expected to be recognized as income within one year.
+
+10.  TRADE AND OTHER PAYABLES
+
+As at December 31,
+
+2025
+RMB’000
+
+355,458
+81,076
+53,452
+184,530
+10,002
+
+2024
+RMB’000
+
+246,687
+2,539
+35,810
+156,341
+5,455
+
+684,518
+
+446,832
+
+Trade payables
+Other payables
+Bills payable
+Accrued payroll and benefits
+Other taxes payable
+
+– 30 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
