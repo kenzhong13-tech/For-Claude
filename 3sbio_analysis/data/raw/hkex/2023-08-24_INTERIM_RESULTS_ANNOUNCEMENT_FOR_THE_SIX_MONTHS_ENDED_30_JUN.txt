@@ -1,0 +1,3256 @@
+Hong  Kong  Exchanges  and  Clearing  Limited  and  The  Stock  Exchange  of  Hong  Kong  Limited  take  no  responsibility  for  the 
+contents  of  this  announcement,  make  no  representation  as  to  its  accuracy  or  completeness  and  expressly  disclaim  any  liability 
+whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+(Incorporated in the Cayman Islands with limited liability)
+(Stock Code: 1530)
+(Convertible Bonds Code: 40285)
+
+INTERIM RESULTS ANNOUNCEMENT 
+FOR THE SIX MONTHS ENDED 30 JUNE 2023
+
+FINANCIAL HIGHLIGHTS*#
+
+•  Revenue increased by RMB689.3 million or 22.3% to RMB3,783.8 million, as compared to 
+
+the six months ended 30 June 2022.
+
+•  Gross profit increased by RMB636.4 million or 24.8% to RMB3,201.6 million, as compared 
+to  the  six  months  ended  30  June  2022.  The  gross  profit  margin  increased  to  84.6%  from 
+82.9% for the six months ended 30 June 2022.
+
+•  Net  profit  attributable  to  owners  of  the  parent  increased  by  RMB13.7  million  or  1.4%  to 
+RMB980.6  million,  as  compared  to  the  six  months  ended  30  June  2022.  Normalized  net 
+profit  attributable  to  owners  of  the  parent1  increased  by  RMB199.3  million  or  20.1%  to 
+RMB1,191.5 million, as compared to the six months ended 30 June 2022.
+
+•  EBITDA increased by RMB37.5 million or 2.9% to RMB1,330.5 million, as compared to the 
+six  months  ended  30  June  2022.  Normalized  EBITDA2  increased  by  RMB228.4  million  or 
+17.7% to RMB1,518.1 million, as compared to the six months ended 30 June 2022.
+
+All  numbers  in  the  “Financial  Highlights”  section  are  subject  to  rounding  adjustments  and  therefore  are  approximate 
+numbers only.
+
+The  numbers  for  the  six  months  ended  30  June  2022  have  been  restated  with  consolidation  of  Liaoning  Sunshine 
+Technology Development Co., Ltd..
+
+* 
+
+# 
+
+Notes:
+
+1 
+
+The normalized net profit attributable to owners of the parent is defined as the profit for the period excluding, as applicable: 
+(a)  the  interest  expenses  incurred  in  relation  to  the  issuance  of  the  Euro  (“EUR”)-denominated  zero-coupon  convertible 
+bonds  in  an  aggregate  principal  amount  of  EUR320,000,000  due  2025  (the  “2025  Bonds”);  (b)  the  expenses  associated 
+with the share options and awarded shares granted in March 2020; (c) the expenses associated with the share options under 
+an  employee  share  ownership  plan  (the  “ESOP”)  of  Sunshine  Guojian  Pharmaceutical  (Shanghai)  Co.,  Ltd.  (“Sunshine 
+Guojian”), an indirect non-wholly owned subsidiary of 3SBio Inc. (“3SBio” or the “Company”); (d) gain on redemption of 
+2025 Bonds, and (e) fair value gain or loss on financial assets at fair value through profit or loss (“FVTPL”).
+
+2 
+
+The normalized EBITDA is defined as the EBITDA for the period excluding the same items as listed in Note 1 above.
+
+1
+
+INTERIM RESULTS
+
+The  board  (the  “Board”)  of  directors  (the  “Directors”)  of  3SBio  is  pleased  to  announce  the 
+unaudited condensed consolidated interim results of the Company and its subsidiaries (collectively, 
+the “Group”) for the six months ended 30 June 2023 (the “Reporting Period”), together with the 
+comparative figures for the corresponding period in 2022 as follows:
+
+INTERIM  CONDENSED  CONSOLIDATED  STATEMENT  OF  PROFIT 
+OR LOSS
+For the six months ended 30 June 2023
+
+REVENUE
+
+Cost of sales
+
+Gross profit
+
+Other income and gains
+Selling and distribution expenses
+Administrative expenses
+Research and development costs
+Other expenses 
+Finance costs
+Share of profits and losses of:
+  A joint venture
+  Associates
+
+PROFIT BEFORE TAX
+
+Income tax expense
+
+PROFIT FOR THE PERIOD
+
+Attributable to:
+  Owners of the parent
+  Non-controlling interests
+
+Notes
+
+2023
+(Unaudited)
+
+RMB’000
+
+2022
+(Unaudited)
+(Restated)
+RMB’000
+
+4
+
+5
+
+6
+7
+
+6
+
+8
+
+3,783,833
+
+3,094,460
+
+(582,279)
+
+(529,285)
+
+3,201,554
+
+2,565,175
+
+(7,201)
+(1,374,752)
+(214,422)
+(306,593)
+(5,079)
+(88,878)
+
+348,992
+(1,150,307)
+(198,115)
+(294,337)
+(105,136)
+(36,516)
+
+1,244
+(11,805)
+
+(654)
+(12,096)
+
+1,194,068
+
+1,117,006
+
+(207,601)
+
+(163,972)
+
+986,467
+
+953,034
+
+980,577
+5,890
+
+966,893
+(13,859)
+
+986,467
+
+953,034 
+
+EARNINGS PER SHARE ATTRIBUTABLE 
+  TO ORDINARY EQUITY HOLDERS 
+  OF THE PARENT
+— Basic 
+— Diluted
+
+2
+
+10
+10
+
+RMB0.40
+RMB0.39
+
+RMB0.39
+RMB0.37
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTERIM  CONDENSED  CONSOLIDATED  STATEMENT  OF 
+COMPREHENSIVE INCOME
+For the six months ended 30 June 2023
+
+2023
+(Unaudited)
+
+RMB’000
+
+2022
+(Unaudited)
+(Restated)
+RMB’000
+
+986,467
+
+953,034
+
+PROFIT FOR THE PERIOD
+
+OTHER COMPREHENSIVE INCOME
+Other comprehensive income that may be reclassified 
+
+to profit or loss in subsequent periods:
+
+Exchange differences:
+  Exchange differences on translation of foreign operations
+
+18,227
+
+51,033
+
+Net other comprehensive income that may be reclassified 
+
+to profit or loss in subsequent periods
+
+18,227
+
+51,033
+
+Other comprehensive income that will not be reclassified 
+
+to profit or loss in subsequent periods:
+
+  Equity investments designated at fair value through 
+
+  other comprehensive income:
+
+  Changes in fair value
+Income tax effect
+
+(71,056)
+—
+
+(109,189)
+(2,693)
+
+Net other comprehensive income that will not be reclassified 
+
+to profit or loss in subsequent periods
+
+(71,056)
+
+(111,882)
+
+OTHER COMPREHENSIVE INCOME FOR THE PERIOD, 
+  NET OF TAX
+
+(52,829)
+
+(60,849)
+
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD
+
+933,638
+
+892,185
+
+Attributable to:
+  Owners of the parent
+  Non-controlling interests
+
+927,748
+5,890
+
+906,044
+(13,859)
+
+933,638
+
+892,185
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTERIM  CONDENSED  CONSOLIDATED  STATEMENT  OF 
+FINANCIAL POSITION
+30 June 2023
+
+NON-CURRENT ASSETS
+Property, plant and equipment
+Right-of-use assets
+Goodwill
+Other intangible assets
+Investment in joint ventures
+Investments in associates
+Equity investments designated at fair value through 
+  other comprehensive income
+Prepayments, other receivables and other assets
+Non-pledged time deposits
+Deferred tax assets
+
+Total non-current assets
+
+CURRENT ASSETS
+Inventories
+Trade and notes receivables
+Prepayments, other receivables and other assets
+Financial assets at fair value through profit or loss
+Pledged deposits
+Cash and cash equivalents
+
+Total current assets
+
+CURRENT LIABILITIES
+Trade and bills payables
+Other payables and accruals
+Deferred income
+Interest-bearing bank and other borrowings
+Lease liabilities
+Tax payable
+
+Total current liabilities
+
+NET CURRENT ASSETS
+
+Notes
+
+30 June 
+2023
+(Unaudited)
+
+RMB’000
+
+31 December
+ 2022
+(Audited)
+(Restated)
+RMB’000
+
+11
+
+13
+
+12
+
+13
+13
+
+14
+
+15
+
+4,294,791
+380,213
+4,271,428
+1,568,945
+2,456
+614,009
+
+567,468
+362,804
+556,647
+299,843
+
+4,113,675
+388,620
+4,140,061
+1,578,312
+1,212
+622,637
+
+554,974
+353,810
+201,183
+303,949
+
+12,918,604
+
+12,258,433
+
+740,024
+1,337,814
+1,306,332
+4,601,751
+193,869
+2,071,521
+
+712,742
+1,311,805
+504,790
+4,861,054
+208,392
+2,151,746
+
+10,251,311
+
+9,750,529
+
+273,875
+1,131,553
+29,536
+1,998,267
+11,270
+115,138
+
+249,521
+1,028,460
+28,549
+413,259
+12,234
+111,888
+
+3,559,639
+
+1,843,911
+
+6,691,672
+
+7,906,618
+
+TOTAL ASSETS LESS CURRENT LIABILITIES
+
+19,610,276
+
+20,165,051
+
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NON-CURRENT LIABILITIES
+Interest-bearing bank and other borrowings
+Lease liabilities
+Convertible bonds
+Bonds payable
+Deferred income
+Deferred tax liabilities
+Other non-current liabilities
+
+Total non-current liabilities
+
+Net assets
+
+EQUITY
+Equity attributable to owners of the parent
+Share capital
+Treasury shares
+Share premium
+Other reserves
+
+Notes
+
+30 June 
+2023
+(Unaudited)
+
+RMB’000
+
+31 December
+ 2022
+(Audited)
+(Restated)
+RMB’000
+
+15
+
+16
+
+17
+
+1,727,398
+22,706
+11,266
+1,200,552
+420,396
+259,136
+4,399
+
+1,901,748
+27,587
+2,163,735
+—
+422,610
+279,865
+5,925
+
+3,645,853
+
+4,801,470
+
+15,964,423
+
+15,363,581
+
+149
+(235,641)
+3,469,120
+10,287,129
+
+149
+(235,641)
+3,693,433
+9,467,864
+
+Equity attributable to owners of the parent
+
+13,520,757
+
+12,925,805
+
+Non-controlling interests
+
+Total equity
+
+2,443,666
+
+2,437,776
+
+15,964,423
+
+15,363,581
+
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTES  TO  INTERIM  CONDENSED  CONSOLIDATED  FINANCIAL 
+INFORMATION
+30 June 2023
+
+1.  CORPORATE INFORMATION
+
+3SBio  Inc.  was  incorporated  in  the  Cayman  Islands  as  an  exempted  company  with  limited 
+liability  under  the  Cayman  Islands  Companies  Laws  on  9  August  2006.  The  registered  office 
+address  of  the  Company  is  Cricket  Square,  Hutchins  Drive,  P.O.  Box  2681,  Grand  Cayman, 
+KY1-1111,  Cayman  Islands.  The  Company’s  shares  were  listed  on  the  Main  Board  of  The 
+Stock Exchange of Hong Kong Limited (the “HKEx”) on 11 June 2015.
+
+The Company is an investment holding company. During the six months ended 30 June 2023, 
+the  Company  and  its  subsidiaries  were  principally  engaged  in  the  development,  production, 
+marketing and sale of biopharmaceutical products in the mainland area (“Mainland China”) of 
+the People’s Republic of China (the “PRC”).
+
+2.  BASIS  OF  PREPARATION  AND  CHANGES  IN  ACCOUNTING 
+
+POLICIES AND DISCLOSURES
+
+2.1  BASIS OF PREPARATION
+
+The  interim  condensed  consolidated  financial  information  for  the  six  months  ended  30 
+June 2023 has been prepared in accordance with IAS 34 Interim Financial Reporting. The 
+interim  condensed  consolidated  financial  information  does  not  include  all  the  information 
+and  disclosures  required  in  the  annual  financial  statements,  and  should  be  read  in 
+conjunction  with  the  Group’s  annual  consolidated  financial  statements  for  the  year  ended 
+31 December 2022.
+
+As a result of the business combination under common control as described in note 18, the 
+comparative figures have been restated.
+
+2.2  CHANGES IN ACCOUNTING POLICIES AND DISCLOSURES
+
+The  accounting  policies  adopted  in  the  preparation  of  the  interim  condensed  consolidated 
+financial  information  are  consistent  with  those  applied  in  the  preparation  of  the  Group’s 
+annual consolidated financial statements for the year ended 31 December 2022, except for 
+the adoption of the following new and revised International Financial Reporting Standards 
+(“IFRSs”) for the first time for the current period’s financial information.
+
+IFRS 17
+Amendments to IFRS 17
+Amendment to IFRS 17
+
+Insurance Contracts
+Insurance Contracts
+Initial Application of IFRS 17 and IFRS 9 — Comparative 
+
+Amendments to IAS 1 and 
+
+Disclosure of Accounting Policies
+
+Information
+
+IFRS Practice Statement 2
+
+Amendments to IAS 8
+Amendments to IAS 12
+
+Amendments to IAS 12
+
+Definition of Accounting Estimates
+Deferred Tax related to Assets and Liabilities arising from 
+  a Single Transaction
+International Tax Reform — Pillar Two Model Rules
+
+6
+
+ 
+ 
+The  nature  and  impact  of  the  new  and  revised  IFRSs  that  are  applicable  to  the  Group  are 
+described below:
+
+(a)  Amendments  to  IAS  1  require  entities  to  disclose  their  material  accounting  policy 
+information  rather  than  their  significant  accounting  policies.  Accounting  policy 
+information  is  material  if,  when  considered  together  with  other  information  included 
+in an entity’s financial statements, it can reasonably be expected to influence decisions 
+that  the  primary  users  of  general  purpose  financial  statements  make  on  the  basis  of 
+those  financial  statements.  Amendments  to  IFRS  Practice  Statement  2  provide  non-
+mandatory  guidance  on  how  to  apply  the  concept  of  materiality  to  accounting  policy 
+disclosures.  The  Group  has  applied  the  amendments  since  1  January  2023.  The 
+amendments  did  not  have  any  impact  on  the  Group’s  interim  condensed  consolidated 
+financial information but are expected to affect the accounting policy disclosures in the 
+Group’s annual consolidated financial statements.
+
+(b)  Amendments to IAS 8 clarify the distinction between changes in accounting estimates 
+and  changes  in  accounting  policies.  Accounting  estimates  are  defined  as  monetary 
+amounts  in  financial  statements  that  are  subject  to  measurement  uncertainty.  The 
+amendments  also  clarify  how  entities  use  measurement  techniques  and  inputs  to 
+develop  accounting  estimates.  The  Group  has  applied  the  amendments  to  changes 
+in  accounting  policies  and  changes  in  accounting  estimates  that  occur  on  or  after  1 
+January  2023.  Since  the  Group’s  policy  of  determining  accounting  estimates  aligns 
+with  the  amendments,  the  amendments  did  not  have  any  impact  on  the  financial 
+position or performance of the Group.
+
+(c)  Amendments  to  IAS  12  Deferred  Tax  related  to  Assets  and  Liabilities  arising  from  a 
+Single Transaction narrow the scope of the initial recognition exception in IAS 12 so 
+that  it  no  longer  applies  to  transactions  that  give  rise  to  equal  taxable  and  deductible 
+temporary  differences,  such  as  leases  and  decommissioning  obligations.  Therefore, 
+entities are required to recognise a deferred tax asset  (provided  that  sufficient  taxable 
+profit  is  available)  and  a  deferred  tax  liability  for  temporary  differences  arising  from 
+these transactions. Since the Group has recognised a deferred tax asset and a deferred 
+tax  liability  for  temporary  differences  arising  from  transactions  related  to  leases,  the 
+amendments  did  not  have  any  impact  on  the  financial  position  or  performance  of  the 
+Group.
+
+7
+
+(d)  Amendments to IAS 12 International Tax Reform — Pillar Two Model Rules introduce 
+a  mandatory  temporary  exception  from  the  recognition  and  disclosure  of  deferred 
+taxes arising from the implementation of the Pillar Two model rules published by the 
+Organisation  for  Economic  Co-operation  and  Development.  The  amendments  also 
+introduce disclosure requirements for the affected entities to help users of the financial 
+statements  better  understand  the  entities’  exposure  to  Pillar  Two  income  taxes, 
+including  the  disclosure  of  current  tax  related  to  Pillar  Two  income  taxes  separately 
+in  the  periods  when  Pillar  Two  legislation  is  effective  and  the  disclosure  of  known 
+or  reasonably  estimable  information  of  their  exposure  to  Pillar  Two  income  taxes  in 
+periods in which the legislation is enacted or substantively enacted but not yet in effect. 
+Entities  are  required  to  disclose  the  information  relating  to  their  exposure  to  Pillar 
+Two income taxes in annual periods beginning on or after 1 January 2023, but are not 
+required  to  disclose  such  information  for  any  interim  periods  ending  on  or  before  31 
+December  2023.  The  Group  has  applied  the  amendments  retrospectively.  Since  the 
+Group did not fall within the scope of the Pillar Two model rules, the amendments did 
+not have any impact to the Group.
+
+3.  OPERATING SEGMENT INFORMATION
+
+The  Group  has  only  one  operating  segment,  which  is  the  development,  production,  marketing 
+and sale of biopharmaceutical products.
+
+Geographical information
+
+(a)  Revenue from external customers
+
+Mainland China
+Others
+
+For the six months 
+ended 30 June
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+(Restated)
+
+3,684,591
+99,242
+
+3,019,862
+74,598
+
+3,783,833
+
+3,094,460
+
+The revenue information above is based on the locations of the customers.
+
+8
+
+ 
+ 
+ 
+ 
+(b)  Non-current assets
+
+Mainland China
+Others
+
+30 June 
+2023
+RMB’000 
+(Unaudited) 
+
+31 December 
+2022
+RMB’000
+(Audited)
+(Restated)
+
+10,115,195 
+1,936,098
+
+9,218,841
+2,180,669
+
+12,051,293
+
+11,399,510
+
+The  non-current  asset  information  above  is  based  on  the  locations  of  the  assets  and  excludes 
+financial instruments and deferred tax assets.
+
+Information about major customers
+
+The  Group’s  customer  base  is  diversified  and  no  revenue  from  transactions  with  a  significant 
+customer accounted for 10% or more of the Group’s total revenue during the Reporting Period.
+
+4.  REVENUE
+
+An analysis of revenue is as follows:
+
+Revenue from contracts with customers
+  Sale of biopharmaceuticals
+  Contract development and manufacturing operation business
+
+For the six months 
+ended 30 June
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+(Restated)
+
+3,688,923
+94,910
+
+3,039,146
+55,314
+
+3,783,833
+
+3,094,460
+
+9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disaggregated revenue information for revenue from contracts with customers
+
+For the six months 
+ended 30 June
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+(Restated)
+
+Types of goods or services
+Sale of biopharmaceuticals
+Contract development and manufacturing operation business
+
+3,688,923
+94,910
+
+3,039,146
+55,314
+
+Total revenue from contracts with customers
+
+3,783,833
+
+3,094,460
+
+Geographical markets
+Mainland China
+Others
+
+3,684,591
+99,242
+
+3,019,862
+74,598
+
+Total revenue from contracts with customers
+
+3,783,833
+
+3,094,460
+
+Timing of revenue recognition
+Goods transferred at a point in time
+Services transferred at a point in time
+
+3,688,923
+94,910
+
+3,039,146
+55,314
+
+Total revenue from contracts with customers
+
+3,783,833
+
+3,094,460
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  OTHER INCOME AND GAINS
+
+An analysis of other income and gains is as follows:
+
+Other income
+Interest income
+Government grants related to
+  — Assets 
+  — Income 
+Others
+
+Gains
+Gain on repurchase of convertible bonds
+Foreign exchange differences, net
+Fair value (loss)/gain on financial assets at 
+
+fair value through profit or loss
+
+For the six months 
+ended 30 June 
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+(Restated)
+
+131,947
+
+47,441
+
+10,204
+13,558
+7,544
+
+18,295
+13,962
+4,402
+
+163,253
+
+84,100
+
+47,067
+14,666
+
+—
+251,083
+
+(232,187)
+
+13,809
+
+(170,454)
+
+264,892
+
+(7,201)
+
+348,992
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.  PROFIT BEFORE TAX
+
+The Group’s profit before tax is arrived at after charging/(crediting):
+
+For the six months 
+ended 30 June
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+(Restated)
+
+493,292
+88,987
+108,956
+52,473
+10,270
+7,805
+
+533,823
+2,434
+45,993
+68,184
+
+478,201
+51,084
+93,095
+77,666
+10,160
+6,007
+
+520,787
+10,543
+41,401
+65,050
+
+650,434
+
+637,781
+
+9,030
+1,366
+—
+
+(9,441)
+1,440
+—
+2,684
+
+8,814
+1,067
+59,907
+
+9,844
+12,553
+7,300
+5,651
+
+5,079
+
+105,136
+
+Cost of inventories sold
+Cost of services provided
+Depreciation of items of property, plant and equipment
+Amortisation of other intangible assets
+Depreciation of right-of-use assets
+Amortisation of long-term deferred expenses
+Employee benefit expenses (including directors’ 
+  and chief executive’s remuneration):
+  Wages, salaries and staff welfare
+  Equity-settled compensation expenses
+  Pension scheme contributions
+  Social welfare and other costs
+
+Other expenses and losses:
+
+Donation 
+Loss on disposal of items of property, plant and equipment
+Provision for impairment of investment in an associate
+(Reversal of provision)/provision for impairment 
+  of trade receivables
+Provision for impairment of other receivables
+Provision for litigation
+Others
+
+12
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.  FINANCE COSTS
+
+An analysis of finance costs is as follows:
+
+Interest on bank borrowings
+Interest on bonds payable
+Interest on convertible bonds
+Interest on lease liabilities
+
+8.  INCOME TAX
+
+For the six months 
+ended 30 June
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+(Restated)
+
+63,581
+530
+23,344
+1,423
+
+7,294
+—
+28,572
+650
+
+88,878
+
+36,516
+
+The Group is subject to income tax on an entity basis on profits arising in or derived from the 
+jurisdictions in which members of the Group are domiciled and operate.
+
+Pursuant  to  the  relevant  rules  and  regulations  of  the  Cayman  Islands  and  the  British  Virgin 
+Islands  (“BVI”),  the  Company  and  the  subsidiaries  of  the  Group  incorporated  therein  are  not 
+subject to any income tax in the Cayman Islands and the BVI.
+
+No provision for Hong Kong profits tax has been made for the six months ended 30 June 2023 
+as the Group had no assessable profits arising in Hong Kong.
+
+Under  the  relevant  PRC  income  tax  law,  except  for  Shenyang  Sunshine  Pharmaceutical  Co., 
+Ltd.  (“Shenyang  Sunshine”),  Sunshine  Guojian,  National  Engineering  Research  Center  of 
+Antibody  Medicine  (“NERC”),  Shenzhen  Sciprogen  Bio-pharmaceutical  Technology  Co., 
+Ltd.  (“Shenzhen  Sciprogen”)  and  Zhejiang  Wansheng  Pharmaceutical  Co.,  Ltd.  (“Zhejiang 
+Wansheng”),  which  enjoy  a  certain  preferential  treatment,  the  PRC  subsidiaries  of  the  Group 
+are  subject  to  income  tax  at  a  rate  of  25%  on  their  respective  taxable  income.  In  accordance 
+with the relevant Italian tax regulations, Sirton Pharmaceuticals S.p.A. (“Sirton”) is subject to 
+income tax at a rate of 27.9%.
+
+Shenyang  Sunshine,  Sunshine  Guojian,  NERC,  Shenzhen  Sciprogen  and  Zhejiang  Wansheng, 
+which  are  qualified  as  High  and  New  Technology  Enterprises,  were  entitled  to  a  preferential 
+income tax rate of 15% for the six months ended 30 June 2023.
+
+13
+
+ 
+ 
+ 
+ 
+Pursuant to the PRC Corporate Income Tax Law, a 10% withholding tax is levied on dividends 
+declared  to  foreign  investors  from  the  foreign  investment  enterprises  established  in  Mainland 
+China.  The  requirement  is  effective  from  1  January  2008  and  applies  to  earnings  after  31 
+December 2007. However, a lower withholding tax rate may be applied if there is a tax treaty 
+between the PRC and the jurisdiction of the foreign investors.
+
+An analysis of the provision for tax in the interim condensed consolidated financial information 
+is as follows:
+
+Current
+Deferred 
+
+For the six months 
+ended 30 June 
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+(Restated)
+
+224,224
+(16,623)
+
+189,842
+(25,870)
+
+Total tax charge for the period
+
+207,601
+
+163,972
+
+9.  DIVIDENDS
+
+For the six months 
+ended 30 June 
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+
+Dividend for ordinary shareholders of the Company 
+
+recognised as distribution during the period: 
+
+  Final 2022 — HKD10 cents per share
+
+(2022: Final 2021 — HKD20 cents per share)
+
+224,883
+
+417,140
+
+A  final  dividend  in  respect  of  the  year  ended  31  December  2022  of  Hong  Kong  Dollar 
+(“HKD”)  10  cents  per  share  was  proposed  pursuant  to  a  resolution  passed  by  the  Board  on 
+21  March  2023  and  was  approved  at  the  annual  general  meeting  of  the  Company  on  22  June 
+2023. The dividend had not been paid to the shareholders of the Company during the Reporting 
+Period.
+
+14
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. EARNINGS  PER  SHARE  ATTRIBUTABLE  TO  ORDINARY  EQUITY 
+
+HOLDERS OF THE PARENT
+
+The  calculation  of  the  basic  earnings  per  share  amounts  is  based  on  the  profit  for  the  period 
+attributable  to  ordinary  equity  holders  of  the  parent  of  RMB980,577,000  for  the  six  months 
+ended 30 June 2023 (for the six months ended 30 June 2022: RMB966,893,000 (restated)) and 
+the  weighted  average  number  of  ordinary  share  2,438,919,579  (for  the  six  months  ended  30 
+June 2022: 2,448,991,145) of the Company in issue during the period, as adjusted to reflect the 
+issue of ordinary shares during the period.
+
+The calculation of the diluted earnings per share amounts is based on the profit for the period 
+attributable  to  ordinary  equity  holders  of  the  parent,  adjusted  to  reflect  the  interest  on  the 
+convertible  bonds,  where  applicable  (see  below).  The  weighted  average  number  of  ordinary 
+shares  used  in  the  calculation  is  the  number  of  ordinary  shares  in  issue  during  the  period,  as 
+used in the basic earnings per share calculation, and the weighted average number of ordinary 
+shares assumed to have been issued at no consideration on the deemed exercise or conversion of 
+all dilutive potential ordinary shares into ordinary shares.
+
+The calculations of basic and diluted earnings per share are based on:
+
+For the six months 
+ended 30 June 
+
+2023
+RMB’000
+(Unaudited)
+
+2022
+RMB’000
+(Unaudited)
+(Restated)
+
+Earnings
+Profit attributable to ordinary equity holders of the parent, 
+  used in the basic earnings per share calculation:
+Interest on convertible bonds
+Less: Gain on repurchase of convertible bonds
+
+980,577
+23,344
+(47,067)
+
+966,893
+28,572
+—
+
+Profit attributable to ordinary equity holders of the parent 
+  before interest and gain on convertible bonds
+
+956,854
+
+995,465
+
+15
+
+ 
+ 
+ 
+ 
+Shares
+Weighted average number of ordinary shares in issue during 
+
+the reporting period used in the basic earnings 
+
+  per share calculation
+Effect of dilution — weighted average number 
+  of ordinary shares:
+  Share options
+  Awarded shares
+  Convertible bonds
+
+11. PROPERTY, PLANT AND EQUIPMENT
+
+Carrying amount at 1 January 
+Additions
+Depreciation provided during the period/year
+Disposals
+Exchange realignment
+
+Number of shares 
+For the six months 
+ended 30 June 
+
+2023
+(Unaudited)
+
+2022
+(Unaudited)
+
+2,438,919,579
+
+2,448,991,145
+
+883,352
+2,750,000
+960,521
+
+—
+12,635,448
+212,035,522
+
+2,443,513,452
+
+2,673,662,115
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December
+ 2022
+RMB’000
+(Audited)
+(Restated)
+
+4,113,675
+283,678
+(108,956)
+(2,547)
+8,941
+
+3,470,278
+830,752
+(186,844)
+(4,740)
+4,229 
+
+Carrying amount at 30 June/31 December 
+
+4,294,791
+
+4,113,675
+
+A  freehold  land  with  a  carrying  amount  of  approximately  RMB2,754,000  as  at  30  June  2023 
+(31 December 2022: RMB2,595,000) is located in Italy.
+
+The Group is in the process of applying for the title certificates of certain of its buildings with 
+an  aggregate  book  value  of  approximately  RMB11,112,000  as  at  30  June  2023  (31  December 
+2022: RMB13,076,000). The Directors are of the view that the Group is entitled to lawfully and 
+validly  occupy  and  use  the  above-mentioned  buildings.  The  Directors  are  also  of  the  opinion 
+that the aforesaid matter did not have any significant impact on the Group’s financial position 
+as at 30 June 2023.
+
+16
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At  30  June  2023,  certain  of  the  Group’s  construction  in  progress,  freehold  land  and  buildings 
+with  aggregate  carrying  amounts  of  approximately  RMB1,135,347,000  (31  December 
+2022:  RMB1,071,168,000),  RMB2,754,000  (31  December  2022:  RMB2,595,000)  and 
+RMB93,055,000  (31  December  2022:  RMB91,668,000)  respectively  were  pledged  to  secure 
+general banking facilities granted to the Group (note 15).
+
+12. TRADE AND NOTES RECEIVABLES
+
+Trade receivables
+Notes receivable
+
+Provision for impairment of trade receivables (Note)
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December 
+2022
+RMB’000
+(Audited)
+(Restated)
+
+1,314,848
+78,947
+
+1,284,667
+92,560
+
+1,393,795
+(55,981)
+
+1,377,227
+(65,422)
+
+1,337,814
+
+1,311,805
+
+The  Group’s  trading  terms  with  its  customers  are  mainly  on  credit.  The  credit  period  is 
+generally  two  months,  extending  up  to  three  months  for  major  customers.  The  Group  seeks 
+to  maintain  strict  control  over  its  outstanding  receivables  and  overdue  balances,  which  are 
+reviewed  regularly  by  senior  management.  In  view  of  the  aforementioned  and  the  fact  that 
+the  Group’s  trade  receivables  relate  to  a  large  number  of  diversified  customers,  there  is  no 
+significant concentration of credit risk. Trade receivables are non-interest-bearing.
+
+Note:
+
+With the collection efforts by the Group, trade receivable amounting to USD999,960 was settled by certain customer in the 
+second quarter of 2023, which individual provision was provided in 2022.
+
+An ageing analysis of the trade receivables as at the end of the Reporting Period, based on the 
+invoice date, is as follows:
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December 
+2022
+RMB’000
+(Audited)
+(Restated)
+
+1,259,411
+12,377
+43,060
+
+1,218,595
+23,981
+42,091
+
+1,314,848
+
+1,284,667
+
+Within 1 year
+1 to 2 years
+Over 2 years
+
+17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13. CASH AND CASH EQUIVALENTS AND PLEDGED DEPOSITS
+
+Cash and bank balances
+Restricted cash
+Non-pledged time deposits
+Pledged deposits
+
+Less:
+Pledged deposits 
+Non-pledged time deposits
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December 
+2022
+RMB’000
+(Audited)
+(Restated)
+
+2,070,791
+730
+556,647
+193,869
+
+2,150,920
+826
+201,183
+208,392
+
+2,822,037
+
+2,561,321
+
+(193,869)
+(556,647)
+
+(208,392)
+(201,183)
+
+Cash and cash equivalents
+
+2,071,521
+
+2,151,746
+
+The  RMB  is  not  freely  convertible  into  other  currencies.  However,  under  Mainland  China’s 
+Foreign  Exchange  Control  Regulations  and  Administration  of  Settlement,  and  Sale  and 
+Payment of Foreign Exchange Regulations, the Group is permitted to exchange RMB for other 
+currencies  through  banks  authorised  to  conduct  foreign  exchange  business.  The  remittance 
+of  funds  out  of  Mainland  China  is  subject  to  exchange  restrictions  imposed  by  the  PRC 
+government.
+
+The Group’s cash and cash equivalents and deposits as at 30 June 2023 are denominated in the 
+following currencies:
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December 
+2022
+RMB’000
+(Audited)
+(Restated)
+
+2,310,753
+11,280
+428,155
+71,848
+1
+
+2,154,171
+34,118
+299,199
+73,832
+1
+
+2,822,037
+
+2,561,321
+
+Denominated in:
+  — RMB
+  — HKD
+  — United States Dollar (“USD”)
+  — EUR
+  — Great Britain Pound
+
+18
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash  at  banks  earns  interest  at  floating  rates  based  on  daily  bank  deposit  rates.  The  bank 
+balances and deposits are deposited with creditworthy banks with no recent history of default.
+
+The carrying amounts of the cash and cash equivalents approximated to their fair values as at 
+the  end  of  the  Reporting  Period.  Deposits  of  approximately  RMB193,869,000  (31  December 
+2022:  RMB208,392,000)  have  been  pledged  to  secure  letters  of  credit,  bank  acceptance  bills 
+and pending lawsuits and arbitration as at 30 June 2023.
+
+14. TRADE AND BILLS PAYABLES
+
+An ageing analysis of the trade and bills payables as at the end of the reporting period, based on 
+the invoice date, is as follows:
+
+Within 3 months
+3 to 6 months
+Over 6 months
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December 
+2022
+RMB’000
+(Audited)
+(Restated)
+
+230,737
+38,061
+5,077
+
+218,002
+27,191
+4,328
+
+273,875
+
+249,521
+
+The trade and bills payables are non-interest-bearing and repayable within the normal operating 
+cycle or on demand.
+
+19
+
+ 
+ 
+ 
+ 
+15. INTEREST-BEARING BANK AND OTHER BORROWINGS
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December 
+2022
+RMB’000
+(Audited)
+(Restated)
+
+1,541,375
+456,892
+
+300,259
+113,000
+
+1,998,267
+
+413,259
+
+1,602,196
+125,202
+
+1,716,787
+184,961
+
+1,727,398
+
+1,901,748
+
+11,266
+
+2,163,735
+
+1,200,552
+
+—
+
+2,939,216
+
+4,065,483
+
+4,937,483
+
+4,478,742
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December 
+2022
+RMB’000
+(Audited)
+(Restated)
+
+1,998,267
+300,218
+1,427,180
+
+413,259
+470,309
+1,431,439
+
+3,725,665
+
+2,315,007
+
+Current
+  Bank loans — unsecured
+  Bank loan — secured
+
+Non-current
+  Bank loans — unsecured
+  Bank loans — secured
+
+Convertible bonds
+
+Bonds payable
+
+Total
+
+Analysed into:
+  Bank loans and overdrafts repayable:
+  Within one year or on demand
+
+In the second year
+In the third to ninth years, inclusive
+
+20
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  Group’s  interest-bearing  bank  borrowings  as  at  30  June  2023  are  denominated  in  the 
+following currencies:
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December
+ 2022
+RMB’000
+(Audited)
+(Restated)
+
+630,933
+889,420
+892,994
+1,312,318
+
+546,260
+857,756
+859,031
+51,960
+
+3,725,665
+
+2,315,007
+
+Denominated in:
+  — RMB
+  — USD
+  — HKD
+  — EUR
+
+Notes:
+
+(a)  For the six months ended 30 June 2023, the bank borrowings bear interest at fixed interest rates ranging from 2.30% to 
+
+6.54% (31 December 2022: 1.48% to 6.27%) per annum.
+
+(b)  Certain  of  the  Group’s  bank  borrowings  are  secured  by  mortgages  over  the  Group’s  freehold  land,  leasehold  land, 
+
+buildings and constructions in progress (note 11).
+
+(c)  The Group has entered into certain recourse factoring agreements with certain bank for financing purposes. As at 30 
+June  2023,  trade  receivables  of  RMB333,333,000  (31  December  2022:  RMB5,556,000)  had  been  transferred  under 
+recourse  factoring  agreements.  Those  trade  receivables  were  derived  from  internal  transactions  within  the  Group 
+and  were  eliminated  in  full  on  consolidation.  In  the  opinion  of  the  Directors,  such  transactions  did  not  qualify  for 
+derecognition  of  the  relevant  trade  receivables  and  the  loans  received  from  the  bank  were  accounted  for  as  secured 
+borrowings.
+
+(d)  Certain  of  the  Group’s  bank  loans  are  secured  by  the  90.34%  equity  interests  in  Northern  Medicine  Valley  Desen 
+
+(Shenyang) Biologics Co., Ltd. (“Desen Biologics”) held by Shenyang Sunshine.
+
+(e)  The carrying amounts of the current bank borrowings approximate to their fair values.
+
+21
+
+ 
+ 
+ 
+ 
+16. BONDS PAYABLE
+
+On  26  June  2023,  the  Company  issued  unsecured  non-listed  bonds  in  an  aggregate  amount  of 
+RMB1,200,000,000. The bonds were priced at par at RMB100 each, carrying interest at a fixed 
+rate of 4.20% per annum. The bonds will mature on 26 June 2025.
+
+Bonds payable
+
+Amount repayable:
+In the second year
+
+17. SHARE CAPITAL
+
+Shares
+
+Issued and fully paid:
+2,438,920,412 (31 December 2022: 2,438,870,412) 
+  ordinary shares
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+1,200,552
+
+1,200,552
+
+30 June 
+2023
+RMB’000
+(Unaudited)
+
+31 December 
+2022
+RMB’000
+(Audited)
+
+149
+
+149
+
+A summary of movements in the Company’s issued share capital for the six months ended 30 
+June 2023 is as follows:
+
+Number of 
+shares in issue
+
+Share 
+capital
+RMB’000
+(Unaudited)
+
+Share 
+premium
+RMB’000
+(Unaudited)
+
+Total
+RMB’000
+(Unaudited)
+
+Ordinary shares of USD0.00001 each at 
+  31 December 2022 and 1 January 2023
+Shares options exercised
+Final 2022 dividend declared (Note 9)*
+
+2,438,870,412
+50,000
+—
+
+149
+—
+—
+
+3,693,433
+570
+(224,883)
+
+3,693,582
+570
+(224,883)
+
+Ordinary shares of USD0.00001 each at 
+  30 June 2023
+
+2,438,920,412
+
+149
+
+3,469,120
+
+3,469,269
+
+* 
+
+The Company declared the final 2022 dividend out of the Company’s share premium account.
+
+22
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18. BUSINESS COMBINATION
+
+Acquisition of a subsidiary under common control
+
+On  31  May  2023,  the  Group  acquired  a  100%  interest  in  Liaoning  Sunshine  Technology 
+Development  Co.,  Ltd.  (“Liaoning  Sunshine  Technology”)  from  Dalian  Huansheng  Medical 
+Investment  Co.,  Ltd  (“Dalian  Huansheng”)  with  cash  consideration  of  RMB1.00.  Liaoning 
+Sunshine Technology is engaged in the manufacture and sale of medical devices.
+
+Since Liaoning Sunshine Technology and the Group are both under common control of Dr. Lou 
+Jing before and after the acquisition, the acquisition is accounted for as merger accounting, i.e., 
+the assets and liabilities of Liaoning Sunshine Technology are consolidated by the Group using 
+the existing book values from Dr. Lou Jing’s perspective, as if the current group structure had 
+been in existence throughout the periods presented, with the difference between the book value 
+of  the  net  assets  of  Liaoning  Sunshine  Technology  and  the  consideration  directly  credited  to 
+equity. The comparative figures of the consolidated financial statements have also been restated 
+as a result of the merger accounting.
+
+The  book  values  of  Liaoning  Sunshine  Technology’s  assets  and  liabilities  as  at  31  May  2023 
+and 31 December 2022 were as follows:
+
+Property, plant and equipment
+Other intangible assets
+Other current assets
+Other current liabilities
+Interest-bearing bank and other borrowings
+Deferred income
+
+31 May 
+2023
+Book value
+RMB’000
+
+31 December 
+2022
+Book value
+RMB’000
+
+26,164
+8,309
+5,046
+(5,574)
+(82,200)
+(5,492)
+
+27,578
+8,405
+5,690
+(4,740)
+(68,105)
+(5,697)
+
+Deficient in net assets
+
+(53,747)
+
+(36,869)
+
+Difference directly credited to equity
+
+Cash consideration
+
+(53,747)
+
+RMB1.00
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Business Review
+
+Overview
+
+3SBio is a leading biotechnology company in the PRC. As a pioneer in the Chinese biotechnology 
+industry,  the  Group  has  extensive  expertise  in  researching,  developing,  manufacturing  and 
+marketing bio-pharmaceuticals. The core products of the Group include several bio-pharmaceutical 
+drugs, TPIAO (特比澳), recombinant human erythropoietin (“rhEPO”) products EPIAO (益比奥) 
+and SEPO (賽博爾), Yisaipu (益賽普), Cipterbin (賽普汀) and a small molecule drug, Mandi (蔓
+迪). TPIAO is the only commercialized recombinant human thrombopoietin (“rhTPO”) product in 
+the world. According to IQVIA1, the market share in the treatment of thrombocytopenia of TPIAO 
+in Mainland China was 64.6% in the first half of 2023 in terms of sales value. With its two rhEPO 
+products,  the  Group  has  been  the  premier  market  leader  in  the  Mainland  China  rhEPO  market 
+for  two  decades,  holding  a  total  market  share  of  42.9%  in  the  first  half  of  2023.  According  to  the 
+data of Chinese Pharmaceutical Association (中國藥學會, “CPA”), Mandi has a dominant market 
+share of 70.3% in the Mainland China minoxidil tincture market in terms of sales value in the first 
+  inhibitor  product  with  a  market 
+half  of  2023.  Yisaipu  is  a  Tumour  Necrosis  Factor  (“TNF”) 
+share of 23.7% in the Mainland China TNF 
+ market in the first half of 2023. The Group has been 
+expanding  its  therapeutic  coverage  by  adding  products  through  internal  research  and  development 
+(“R&D”) and various external strategic partnerships. Meanwhile, the Group boosts its revenue scale 
+through  strategic  positioning  in  contract  development  and  manufacturing  operation  (“CDMO”) 
+business.  Its  operation  officially  commenced  since  December  2021,  witnessing  continuous  growth 
+in Mainland China.
+
+α
+
+α
+
+Key Events
+
+Termination of Exclusive License Agreement with AstraZeneca in respect of Byetta and Bydureon
+
+Due to further streamlining in respect to the licensed products under an exclusive license agreement 
+with  AstraZeneca2,  Hongkong  Sansheng  Medical  Limited,  a  wholly-owned  subsidiary  of  the 
+Company,  and  AstraZeneca  entered  into  a  termination  agreement  on  28  February  2023  to  agree 
+that, with effect from 31 December 2023, the exclusive license agreement shall be terminated and 
+the  commercialization  of  the  licensed  products  thereunder  shall  cease,  except  that  the  distribution 
+by the third party distributors of Byetta licensed products acquired by such third party distributors 
+prior  to  31  December  2023  shall  cease  on  31  August  2025.  For  further  details,  please  refer  to  the 
+announcements of the Company dated 11 October 2016 and 28 February 2023.
+
+1 
+2 
+
+All market share information throughout this announcement cites the IQVIA data, unless otherwise noted.
+
+AstraZeneca refers to the applicable subsidiaries of AstraZeneca PLC.
+
+24
+
+First Patient Enrolled in TPIAO CLD Indication Phase III Trial
+
+As announced on 22 May 2023, the first patient has recently been enrolled in the trial of phase III 
+clinical  study  of  TPIAO  in  the  treatment  of  patients  with  chronic  liver  disease  (“CLD”)  related 
+thrombocytopenia  who  are  candidates  for  invasive  surgery.  Thrombocytopenia  is  a  common 
+complication  of  CLD,  the  degree  of  which  is  related  to  the  severity  of  liver  disease.  About  78% 
+of  patients  with  liver  cirrhosis  have  varying  degrees  of  thrombocytopenia.  The  main  cause  of 
+thrombocytopenia in CLD patients is decreased production of thrombopoietin (TPO).
+
+For  certain  other  key  event,  please  refer  to,  hereinafter,  “PURCHASE,  SALE  OR  REDEMPTION 
+OF LISTED SECURITIES — Redemption of 2025 Bonds”.
+
+Key Events after the Reporting Period
+
+Remitch NDA for Pruritus in Hemodialysis Patients Approved
+
+As announced on 5 July 2023, the New Drug Application (“NDA”) of narfuraphine hydrochloride 
+orally  disintegrating  tablets  (麗美治®,  trade  name  in  Japan:  “レミッチOD錠2.5μg”)  submitted  to 
+the  PRC  National  Medical  Products  Administration  (“NMPA”)  has  been  approved  (national  drug 
+approval No. HJ20230091) for the improvement of pruritus in hemodialysis patients (only in cases 
+where  the  efficacy  of  existing  treatments  is  not  satisfactory).  This  is  the  first  and  only  selective 
+к  (kappa)-opioid  receptor  agonist  approved  by  the  NMPA  to  treat  hemodialysis  patients  with 
+refractory pruritus. In addition, the clinical trial application for this product to improve pruritus in 
+patients with CLD (only in cases where the efficacy of existing treatments is not satisfactory) was 
+approved in May 2023 (Notice No.: 2023LP00912).
+
+Key Products
+
+— Bio-pharmaceuticals
+
+TPIAO
+
+TPIAO  is  the  Group’s  self-developed  proprietary  product,  and  has  been  the  only  commercialized 
+rhTPO product in the world since its launch in 2006. TPIAO has been approved by the NMPA for 
+two  indications:  the  treatment  of  chemotherapy-induced  thrombocytopenia  (“CIT”)  and  immune 
+thrombocytopenia  (“ITP”).  TPIAO  has  the  advantages  of  higher  efficacy,  faster  platelet  recovery 
+and fewer side effects as compared to alternative treatments for CIT and ITP.
+
+25
+
+TPIAO  has  been  listed  on  the  National  Reimbursement  Drug  List  (“NRDL”)  as  a  Class  B  Drug 
+for the treatment of severe CIT in patients with solid tumors or ITP since 2017. In the “Guidelines 
+of  CSCO  —  Cancer  Therapy  Induced  Thrombocytopenia  (“CTIT”)  (2022)”3,  rhTPO  is  listed 
+as  a  treatment  choice  with  the  highest  level  recommendation,  the  Grade  I  recommendation. 
+According to the “Chinese Guideline on the Diagnosis and Management of Adult Primary Immune 
+Thrombocytopenia  (2020  version)”4,  rhTPO  is  one  of  the  primary  treatments  for  ITP  emergency 
+cases  and  is  the  first  choice  recommendation  in  the  second  line  treatments  list  for  both  ITP 
+and  ITP  in  pregnancy.  In  “Consensus  on  the  Clinical  Diagnosis,  Treatment,  and  Prevention  of 
+Chemotherapy-Induced Thrombocytopenia in China (2019 version)”5, rhTPO is one of the primary 
+treatments for CIT. rhTPO has also received similar professional endorsements in several national 
+guidelines and experts consensus on treating certain other diseases in Mainland China.
+
+On 18 January 2023, TPIAO was listed on the 2022 NRDL through negotiation. Future growth of 
+TPIAO may be driven by: 1) the enhanced market position as for inpatients attributable to its safety 
+and efficacy, and its continually supplanting traditional interleukin (“IL”) platelet-raising drugs in 
+clinical use; 2) the continued increase in the number of hospitals covered; and 3) the expansion of 
+indications. The Group estimates that the penetration rates for CIT and ITP indications in Mainland 
+China are in the range of approximately 25% to 35%. In the first half of 2023, its market share for 
+the  treatment  of  thrombocytopenia  in  Mainland  China  was  33.1%  in  terms  of  sales  volume  and 
+64.6%  in  terms  of  sales  value.  As  announced  in  May  2022,  the  phase  III  clinical  trial  of  TPIAO 
+in  the  pediatric  ITP  indication  achieved  the  pre-defined  primary  endpoint,  and  the  Group  has 
+submitted the supplemental NDA to the NMPA in November 2022. As announced on 22 May 2023, 
+the  first  patient  has  recently  been  enrolled  in  the  trial  of  phase  III  clinical  study  of  TPIAO  in  the 
+treatment of patients with CLD related thrombocytopenia who are candidates for invasive surgery. 
+Outside of Mainland China, TPIAO has been approved in nine countries, including the Philippines 
+and Thailand. Currently, TPIAO is in the process of registration in several countries in Asia, Africa 
+and South America.
+
+EPIAO
+
+EPIAO  is  approved  by  the  NMPA  for  the  following  three  indications:  the  treatment  of  anemia 
+associated  with  chronic  kidney  disease  (“CKD”),  the  treatment  of  chemotherapy-induced  anemia 
+(“CIA”),  and  the  reduction  of  allogeneic  blood  transfusion  in  surgery  patients.  EPIAO  has  been 
+listed  on  the  NRDL  as  a  Class  B  Drug  for  renal  anemia  since  2000,  and,  additionally,  for  CIA 
+in  patients  with  non-hematological  malignancies  since  2019.  EPIAO  has  also  been  listed  on  the 
+2018  National  Essential  Drug  List.  EPIAO  has  consistently  been  the  premier  market  leader  in  the 
+Mainland  China  rhEPO  market  since  2002  in  terms  of  both  sales  volume  and  sales  value.  EPIAO 
+and SEPO together claim a majority market share of the Mainland China rhEPO market at 10,000 
+IU  dosage.  The  Group  believes  that,  1)  the  continuous  expansion  of  the  dialysis  market;  2)  the 
+improvement of anemia treatment standards; 3) the improvement of the diagnosis and treatment rate 
+of  cancer  anemia;  and  4)  the  proactive  going-deep  strategy  in  the  lower-tier  market,  will  continue 
+to  drive  the  further  growth  of  its  erythropoietin  products.  Outside  of  Mainland  China,  EPIAO  has 
+
+3 
+4 
+5 
+
+Issued by the Chinese Society of Clinical Oncology (“CSCO”)
+
+Issued by the Thrombosis and Hemostasis Group of the Chinese Society of Hematology of the Chinese Medical Association (the “CMA”)
+
+Issued by the Society of Chemotherapy, China Anti-Cancer Association; and Committee of Neoplastic Supportive-Care (CONS), China Anti-Cancer Association
+
+26
+
+been approved in 24 countries, including Brazil, Thailand and Pakistan. The multi-center biosimilar 
+clinical  trials  for  EPIAO  in  Russia  and  Thailand  were  completed  in  2021.  EPIAO  demonstrated 
+promising  effectiveness  and  manageable  safety  in  patients  with  end-stage  renal  disease  on 
+hemodialysis. EPIAO is in the process of registration in several countries.
+
+Yisaipu
+
+α
+
+α
+
+ Receptor II: IgG Fc Fusion Protein for Injection), is a TNF 
+
+Yisaipu (Recombinant Human TNF-
+inhibitor product. It was first launched in 2005 in Mainland China for rheumatoid arthritis (“RA”). 
+α
+Its  indications  were  expanded  to  ankylosing  spondylitis  (“AS”)  and  psoriasis  in  2007.  Yisaipu 
+has  been  listed  on  the  NRDL  as  a  Class  B  Drug  since  2017  for  RA  and  for  AS,  each  subject  to 
+certain  medical  prerequisites,  and  additionally,  since  2019  for  the  treatment  of  adult  patients  with 
+  inhibitor  product  in  Mainland  China 
+severe  plaque  psoriasis.  Yisaipu  is  the  first-to-market  TNF 
+that  filled  a  gap  among  domestic  peers  in  regard  to  the  fully-human  therapeutic  antibody-drugs. 
+Compared  with  competitors,  the  efficacy  and  safety  of  Yisaipu  has  been  proven  in  the  domestic 
+market over 18 years. In “2018 China Rheumatoid Arthritis Treatment Guidance”, an authoritative 
+document  issued  by  the  CMA,  Yisaipu  was  adopted  under  ‘TNF 
+  inhibitors’  as  one  of  the  RA 
+ inhibitors was deemed as a group of biological agents with relatively 
+treatment options, and TNF 
+  inhibitors  have  been 
+sufficient  evidence  and  relatively  wide  adoption  in  treating  RA.  TNF 
+recommended  in  a  number  of  professional  guidelines,  such  as  “EULAR  Recommendations  for 
+the  Management  of  Rheumatoid  Arthritis  with  Synthetic  and  Biological  Disease-Modifying  Anti-
+rheumatic  Drugs:  2022  Update”,  “Group  for  Research  and  Assessment  of  Psoriasis  and  Psoriatic 
+Arthritis  (GRAPPA):  Updated  Treatment  Recommendations  for  Psoriatic  Arthritis  2021”  and 
+“Recommendations for Diagnosis and Treatment of Ankylosing Spondylitis”6. With the increasing 
+number of competitors and price adjustment of the Group’s own accord, the market share of Yisaipu 
+decreased,  at  23.7%  in  the  Mainland  China  TNF 
+  market  in  the  first  half  of  2023.  The  Group 
+is  working  on:  1)  promoting  the  concept  of  long-term  treatment  of  chronic  diseases  to  highlight 
+efficacy and safety of Yisaipu through post-marketing clinical studies; 2) coverage of new patients; 
+and  3)  further  expansion  to  lower-tier  cities  and  hospitals.  The  NDA  for  the  pre-filled  aqueous 
+injection solution of Yisaipu (Group R&D code: 301S) was approved by the NMPA in March 2023. 
+The Group is of the view that the prefilled syringe of Yisaipu will improve patients convenience and 
+contribute to further Yisaipu growth. Outside of Mainland China, Yisaipu has been approved in 16 
+countries, including Indonesia, the Philippines and Pakistan.
+
+α
+
+α
+
+α
+
+α
+
+6 
+
+Issued by Chinese Rheumatology Association of the CMA, Chin J Intern Med, August 2022, Vol. 61, No. 8
+
+27
+
+ 
+Cipterbin
+
+Cipterbin  (Inetetamab)  is  the  first  innovative  anti-HER2  monoclonal  antibody  (“mAb”)  in 
+Mainland China with the engineered Fc region and optimized production process. Sunshine Guojian 
+independently developed this product based on its proprietary technology platform. It was approved 
+by the NMPA in June 2020 for treatment of HER2-positive metastatic breast cancer in combination 
+with  chemotherapy,  as  it  was  proven  to  be  capable  of  delaying  the  disease  progression  for,  and 
+bringing  survival  benefits  to,  HER2-positive  metastatic  breast  cancer  patients.  Cipterbin  has  been 
+listed  on  the  NRDL  since  2020.  Inetetamab  has  been  included  in  several  clinical  guidelines  and 
+experts  consensus.  According  to  the  “Guidelines  of  CSCO  —  Breast  Cancer  (2022  edition)”, 
+Inetetamab  (Cipterbin)  is  listed  as  a  treatment  choice  with  the  highest  level  recommendation,  the 
+Grade  I  recommendation,  for  patients  with  HER2-positive  advanced  breast  cancer.  Under  the 
+revised  recommendation,  the  number  of  Inetetamab-applicable  patients  increase  significantly. 
+According to “Diagnosis and Treatment Guidelines of Breast Cancer (2022 edition)” issued by the 
+PRC  National  Health  Commission,  Inetetamab  (Cipterbin)  is  one  of  the  treatments  of  advanced 
+breast cancer. A large number of real-world studies, as well as studies initiated by clinical experts, 
+have  been  conducted  for  inetetamab,  and  new  evidence-based  data  continues  to  be  accumulated. 
+In  the  2023  American  Society  of  Clinical  Oncology  (ASCO)  Annual  Meeting,  several  clinical 
+studies on Inetetamab (Cipterbin) have been selected for presentation7. In the meantime, the Group 
+is  actively  promote  Inetetamab  as  a  first-line  treatment  of  HER2-positive  advanced  breast  cancer. 
+In the first half of 2023, the sales coverage of Cipterbin reaches over 1,300 hospitals in Mainland 
+China and the duration-of-therapy per patient continues to grow.
+
+— Small Molecules
+
+Mandi
+
+Mandi,  generically  known  as  minoxidil  tincture,  was  launched  in  2001  as  the  first  over-the-
+counter (“OTC”) drug in Mainland China for androgenetic alopecia (“AGA”) and alopecia areata. 
+Minoxidil  is  the  world’s  only  topical  OTC  drug  for  male  and  female  alopecia  that  is  approved  by 
+the U.S. Food and Drug Administration (“FDA”) as well as the NMPA. The topical minoxidil can 
+promote  hair  growth  through:  1)  promoting  angiogenesis  to  increase  regional  blood  supply  and 
+dilate  scalp  vascular,  so  as  to  improve  microcirculation;  2)  directly  stimulating  proliferation  and 
+differentiation  of  hair  follicle  epithelial  cells  to  extend  hair  growth  cycle;  and  3)  regulating  the 
+balance  between  calcium  ion  and  potassium  ion.  In  the  “Guideline  for  Diagnosis  and  Treatment 
+of  Androgenetic  Alopecia”  issued  by  Chinese  Medical  Doctor  Association,  minoxidil  receives  the 
+highest  endorsement  level,  as  it  is  superior  to  other  AGA  treatments  in  terms  of  anti-alopecia  and 
+improvement  effects  and  safety.  In  “Chinese  Experts  Consensus  on  the  Diagnosis  and  Treatment 
+of Female Androgenetic Alopecia (2022 edition)”, 5% minoxidil receives the highest endorsement 
+level in female androgenetic alopecia (FAGA).
+
+7 
+
+(1) In “Neoadjuvant inetetamab combined with pertuzumab, paclitaxel, and carboplatin (TCbIP) for locally advanced HER2-positive breast cancer: Primary analysis 
+
+of  a  phase  II  study”,  TCbIP  displays  a  promising  efficacy  (pCR  rate  of  66.7%)  and  manageable  toxicity  in  patients  with  HER2-positive  LA  breast  cancer  in  the 
+
+neoadjuvant  setting.  (2)  In  “Safety  and  efficacy  of  inetetamab  in  combination  with  pyrotinib  in  HER2  mutant  patients  with  non-small  cell  lung  cancer  (NSCLC): 
+
+An  open-label,  phase  Ib  trial”,  the  preliminary  data  of  inetetamab  in  combination  with  pyrotinib  showed  manageable  safety  and  compelling  anti-tumor  activity  in 
+
+advanced  NSCLC  patients  harboring  HER2  mutations.  (3)  In  “Anti-HER2  antibody  inetetamab  plus  camrelizumab  and  utidelone  for  pre-treated  HER2-positive 
+
+metastatic breast cancer: Final results from the phase 2 ICU trial”, final efficacy and safety results were consistent with previous ICU study preliminary analyses. 
+
+The ICU study showed a favorable benefit-risk profile and is an important option for Chinese patients with HER2-positive metastatic breast cancer after at least two 
+
+lines of HER2-directed therapies with trastuzumab and TKIs.
+
+28
+
+According  to  the  CPA’s  data,  Mandi  has  a  market  share  of  70.3%  in  Mainland  China  in  the  first 
+half of 2023, with a year-on-year growth of 35.3% in sales value. The increase of Mandi’s sales is 
+mainly due to professional online brand operation. For the Reporting Period, the revenue of Mandi 
+from  e-commerce  recorded  year-on-year  growth  of  approximately  64%.  The  Group  believes  that 
+Mandi’s  continuous  growth  in  the  future  will  be  driven  by:  1)  persistent  market  education,  as  the 
+Group will continue to invest resources in promotion and market education regarding the science of 
+hair  growth,  enhancing  the  social  recognition  of  Mandi  as  the  top  brand  of  scientific  hair  growth; 
+2)  professional  digital  marketing  system,  as  Mandi  expands  its  online  layout  from  traditional 
+e-commerce  platforms  such  as  Ali,  JD,  to  new  e-commerce  platforms  like  Tiktok  store  and  Little 
+Red  Book,  creating  diversified  and  fine-tuned  operation,  accurately  reaching  and  converting 
+potential  customers,  and  continuously  boosting  sales  on  e-commerce  platforms;  and  3)  potential 
+launch  of  new  product  formulation.  The  phase  III  study  of  the  foam  form  of  Mandi,  comparing 
+head-to-head  in  male  hair  loss  patients  to  ROGAINE®,  a  leading  minoxidil  drug  in  the  U.S.,  has 
+been successfully completed, showing Mandi foam being of equivalent efficacy and similar safety 
+and tolerability. The application for market launch of Mandi foam was accepted by the NMPA, as 
+announced on 11 January 2022. If approved for marketing, Mandi will likely be the only minoxidil 
+foam in the Mainland China market, which will significantly improve its market competitiveness.
+
+In  Mainland  China,  the  current  penetration  rate  of  Mandi  is  only  2–3%  among  the  250  million 
+hair  loss  population.  The  Group  focuses  on  greater  brand  promotion  of  Mandi  and  on  improving 
+recognition  of  drug  treatment  effectiveness  for  hair  loss.  The  Group  believes  that  with  greater 
+promotion, the enhanced penetration rate will continue to aggrandize the market potential of Mandi.
+
+Remitch
+
+As announced on 4 July 2023, the NDA of nalfuraphine hydrochloride orally disintegrating tablets 
+(Group  R&D  code:  TRK-820,  marketed  in  Japan  as  “Remitch”  since  2009,  to  be  marketed  in 
+Mainland  China  as  麗美治®)  was  approved  by  the  NMPA  to  treat  hemodialysis  pruritus  where 
+current  treatments  do  not  produce  satisfactory  results.  In  December  2017,  Toray  Industries  Inc. 
+(“Toray”)  granted  to  the  Group  the  exclusive  right  to  develop  and  commercialize  TRK-820  in 
+Mainland China.
+
+According  to  the  results  of  the  global  survey  DOPPS  (Dialysis  Outcomes  and  Practice  Patterns 
+Study), as high as 39% of hemodialysis patients in Mainland China are suffering from moderate or 
+more severe level of skin itching, and patients suffering from severe or acutely severe skin itching 
+are  up  to  19%.  Pruritus  and  the  accompanying  persistent  sleep  obstacles  have  become  one  of  the 
+important  causes  of  depression  suffered  by  hemodialysis  patients;  there  is  also  a  clear  correlation 
+between the state of depression and the increased death rates in hemodialysis patients. At present, 
+
+29
+
+while  antihistamines  is  one  of  the  most  commonly  used  drugs  for  treatment  of  skin  pruritus  in 
+Mainland China, it is not very effective for treating hemodialysis pruritus, and using antihistamines 
+alone  is  quite  difficult  to  improve  their  quality  of  life  effectively.  The  therapeutic  effect  of  other 
+treatments  ranging  from  local  phototherapy  to  skin  lubricants,  topical  hormones,  oral  gabapentin 
+or pregabalin is limited. For those hemodialysis patients who do not experience satisfactory results 
+from such treatments for pruritus, there is presently no effective treatment method.
+
+TRK-820  is  a  highly  selective  к(kappa)-opioid  receptor  agonist  developed  by  Toray.  The  soft  
+capsule  dosage-form  of  the  TRK-820  has  been  launched  in  Japan  since  2009  and  in  South 
+Korea  since  2016  to  treat  hemodialysis  pruritus,  which  is  limited  to  circumstances  where  current 
+treatments  do  not  produce  satisfactory  results.  Additional  indications  of  TRK-820,  including 
+pruritus  in  CLD  patients  and  pruritus  in  peritoneal  dialysis  patients,  were  approved  in  Japan  in 
+2015  and  2017,  respectively.  The  orally  disintegrating  tablet  was  approved  and  launched  in  Japan 
+in  2017.  The  orally  disintegrating  tablet  can  be  taken  with  or  without  water,  which  is  particularly 
+suitable for patients whose swallowing capabilities have deteriorated or those who have restrictions 
+on water intake, and therefore is expected to improve drug intake compliance of patients. According 
+to  the  results  of  the  Group’s  bridging  clinical  study,  doses  of  5μ g  and  2.5μ g  of  nalfuraphine 
+hydrochloride  orally  disintegrating  tablets  can  safely  improve  the  symptoms  of  hemodialysis 
+patients  with  refractory  pruritus  when  compared  with  the  placebo.  TRK-820  is  the  first  marketed 
+drug  in  Mainland  China  targeting  hemodialysis  pruritus,  and  is  expected  to  alleviate  the  pruritus 
+symptoms  and  improve  patient  quality  of  life,  thereby  bringing  benefits  to  the  large  number  of 
+hemodialysis pruritus patients in Mainland China.
+
+In  addition,  the  phase  III  clinical  trial  application  of  TRK-820  for  improving  pruritus  in  CLD 
+patients  (only  in  cases  where  the  existing  treatment  efficacy  is  unsatisfactory)  was  approved  in 
+May 2023. In the field of liver diseases, CLD patients, such as hepatitis, cirrhosis and obstructive 
+jaundice,  often  experience  intensive  pruritus  through  the  body.  In  addition,  the  primary  biliary 
+cholanitis  is  a  disease  characterized  by  pruritus.  Pruritus  can  seriously  affect  patients’  activity 
+and  sleep.  The  pruritus  caused  by  CLD  is  believed  to  be  related  to  a  number  of  factors,  and  it 
+is  completely  ineffective  for  certain  patients  treated  with  antihistamines,  anti-allergic  drugs  and 
+anion  exchange  resin.  Such  symptom  is  known  as  “refractory  pruritus”.  According  to  the  data 
+of  epidemiological  investigation,  more  than  one  fifth  of  the  population  in  Mainland  China  are 
+suffering from liver diseases, including approximately 90 million chronic hepatitis B virus (“HBV”) 
+infection  patients,  approximately  10  million  chronic  hepatitis  C  virus  (“HCV”)  infection  patients, 
+approximately  7  million  cirrhosis  patients,  approximately  173  to  310  million  non-alcoholic  fatty 
+liver patients, approximately 62 million alcoholic liver disease patients, and approximately 460,000 
+liver  cancer  patients.  Among  them,  skin  itch  occurs  in  20%  ~  70%  of  primary  biliary  cirrhosis 
+patients,  20%  ~  60%  of  primary  sclerosing  cholanitis  patients,  20%  ~  50%  of  jaundice  patients, 
+5.1% ~ 58.4% of HCV viral infection patients, and 8% ~ 36.2% of HBV viral infection patients. It 
+was reported that existing anti-pruritics drugs are ineffective for 57.8% of pruritus patients. Remitch 
+was  approved  in  Japan  for  pruritus  in  liver  diseases  in  2015.  The  Group  will  actively  advance 
+clinical  development  for  this  indication  in  Mainland  China  to  meet  the  clinical  needs  of  Chinese 
+patients.
+
+TRK-820  for  improving  pruritus  in  CLD  patients  as  a  product  candidate  is  at  an  early  stage  of 
+
+30
+
+pharmaceutical  development.  For  risks  associated  with  pharmaceutical  development,  please  refer 
+to, under the heading “Principal Risks and Uncertainties” in the Company’s 2022 Annual Report, 
+“If  the  Group  fails  to  develop  and  commercialize  new  pharmaceutical  products,  its  business 
+prospects could be adversely affected”.
+
+— CDMO Business
+
+The  Group’s  CDMO  business  currently  comprises  Desen  Biologics,  Shanghai  Shengguo 
+Pharmaceutical  Development  Co.,  Ltd.,  Guangdong  Sunshine  Pharmaceutical  Co.,  Ltd.  and  Sirton 
+in  Italy,  all  being  the  Group’s  subsidiaries.  Among  them,  Desen  Biologics  has  a  total  planned 
+area  of  500  Chinese  mu,  designed  as  a  biopharmaceutical  CDMO  base,  a  manufacturing  base  of 
+biopharmaceutical  raw  and  auxiliary  materials  and  consumables,  and  a  biopharmaceutical  core 
+process  equipment  base  that  are  domestically-leading,  oriented  to  the  international  market  and  are 
+compliant with relevant Chinese, EU and U.S. Good Manufacturing Practice (“GMP”) regulations. 
+The first phase of Desen Biologics covers an area of over 110 Chinese mu. The 76,000-liter Drug 
+Substance (“DS”) and Drug Product (“DP”) manufacturing capacity for the first phase of the project 
+has commenced to be successively certified and put into operation since 2023.
+
+The  Group  provides  contract  development  and  manufacturing  services  of  biologics  expressed  by 
+microbial  and  mammalian  cells,  including  mAb,  bispecific  antibody,  neutralization  antibody,  as 
+well  as  vaccine.  The  Group’s  technology  platforms  provide  services  for  cell  and  gene  therapy 
+products,  including  plasmid,  mRNA  nucleic  acid  drugs  and  virus  vector.  The  full-process 
+requirements of biologics are covered from DNA sequence, cell bank and Chemistry Manufacturing 
+and  Control  (CMC)  to  DS/DP  production  for  clinical  trials,  registration  supports  and  commercial 
+production.  The  production  lines  are  equipped  with  reactors  of  various  scales,  with  single-unit 
+specifications  of  stainless  steel  systems  and  single-use  bioreactors  ranging  from  10L  to  10KL, 
+which can meet different requirement scenarios from small batch sample testing at the R&D stage 
+to  mass  commercial  production.  The  total  capacity  of  the  production  lines  exceeds  200  million 
+doses of formulation, covering the main forms of biologics such as liquid vials, freeze-dry powder 
+injections  and  pre-filled  injections.  The  Group’s  CDMO  lines  have  received  GMP  certifications 
+in  Mainland  China,  Colombia,  certain  Pharmaceutical  Inspection  Co-operation  Scheme  (PIC/
+S)  members,  the  EU  (in  regard  to  Sirton)  and  other  countries;  and  have  successfully  passed  all 
+regulatory  reviews,  including  multiple  unannounced  inspections,  as  well  as  quality  audits  by 
+domestic and international customers.
+
+The  Group  believes  that  it  possesses  various  competitive  advantages  in  the  CDMO  business, 
+including  the  technological  advantages  associated  with  engaging  in  the  whole  process  spanning 
+from  R&D  to  production  of  biopharmaceutical  products  over  the  years;  the  scalable  cost 
+advantages  of  a  single  10,000  litre  bioreactor  for  commercial  production;  the  production  cost 
+advantages  brought  by  the  in-house  capability  to  manufacture  raw  materials  such  as  culture 
+medium  and  chromatographic  filler;  and  the  quality  control  management  advantage  with  high 
+level  of  automation.  In  the  first  half  of  2023,  the  Group’s  CDMO  business  completed  orders  of 
+approximately  RMB95  million,  with  signed  orders  valuing  approximately  RMB160  million.  The 
+
+31
+
+Group’s  customers  include  leading  domestic  and  international  pharmaceutical  companies  and 
+biotechnology  companies,  with  services  encompassing  various  steps  from  pre-clinical  stage  to 
+commercialization for drugs.
+
+Key Product Candidate
+
+Winlevi®
+
+In  the  second  half  of  2022,  3SBio  officially  commenced  the  preparation  work  for  investigational 
+new  drug  (“IND”)  application  of  1%  clascoterone  cream  (Group  R&D  code:  WS204),  a 
+collaboration product with Cosmo Pharmaceuticals N.V. (“Cosmo”). In July 2022, 3SBio received 
+from Cassiopea, a subsidiary of Cosmo, the exclusive right to develop and commercialize Winlevi®, 
+to treat acne, in Greater China.
+
+According  to  the  data  of  Chinese  Guidelines  for  the  Treatment  of  Acne  (2019  revised  version), 
+more  than  95%  of  Chinese  suffer  from  different  degrees  of  acne;  3%  ~  7%  of  acne  patients  incur 
+scars  on  faces,  which  affects  physical  and  mental  health  of  acne  patients.  According  to  Frost  & 
+Sullivan,  in  2018,  there  were  over  100  million  Chinese  patients  aged  between  10  and  25  with 
+acne vulgaris, while their drug treatment rate was at a low level, signaling that China’s traditional 
+therapeutic drugs failed to meet the clinical needs of these patients. The symptoms of acne severely 
+affect the appearance of the patients and burden them psychologically, causing social, work and life 
+barriers. An effective acne drug is required to help relieve patients from this skin disease.
+
+WS204  (1%  Clascoterone)  cream  is  the  world’s  first  marketed  topical  androgen  receptor  (“AR”) 
+inhibitor, developed by Cosmo for the patients with acne vulgaris aged 12 and above. Winlevi® has 
+been approved by the U.S. FDA in November 2021. It is the first acne drug with a new mechanism 
+of  action  (MOA)  approved  by  the  FDA  in  the  past  40  years,  which  will  provide  an  innovative 
+and  effective  treatment  for  dermatologists  and  patients.  Unlike  oral  hormones  to  treat  acne,  1% 
+clascoterone  cream  can  be  used  by  both  male  and  female  patients.  According  to  Cosmo’s  public 
+disclosure, Winlevi® has become the most prescribed branded topical acne drug in the U.S. market. 
+As of the end of July 2023, there were more than 15,000 prescribers of Winlevi®, and this drug has 
+generated more than 670,000 prescriptions in the U.S. market since its launch in November 2021. 
+WS204 is expected to become the first AR antagonist for treating acne vulgaris in Mainland China, 
+which  may  provide  an  innovative  treatment  option  for  hundreds  of  millions  of  acne  patients,  and 
+contribute to better general skin health condition nationally.
+
+This  product  candidate  is  at  an  early  stage  of  pharmaceutical  development.  For  risks  associated 
+with  pharmaceutical  development,  please  refer  to,  under  the  heading  “Principal  Risks  and 
+Uncertainties”  in  the  Company’s  2022  Annual  Report,  “If  the  Group  fails  to  develop  and 
+commercialize new pharmaceutical products, its business prospects could be adversely affected”.
+
+32
+
+Research and Development
+
+The Group’s integrated R&D platform covers a broad range of technical expertise in the discovery 
+and development of innovative bio-pharmaceutical and small molecule products, including antibody 
+discovery, molecular cloning, antibody/protein engineering, gene expression, cell line construction, 
+manufacturing  process  development,  pilot  and  large  scale  manufacturing,  quality  control  and 
+assurance,  design  and  management  of  pre-clinical  and  clinical  trials,  and  regulatory  filing  and 
+registration.  The  Group  is  experienced  in  the  R&D  of  mammalian  cell-expressed,  bacterial  cell-
+expressed and chemically-synthesized pharmaceuticals.
+
+The Group focuses its R&D efforts on researching and developing innovative biological products as 
+well as in small molecule therapeutics. Currently, the Group has several leading biological products 
+in various stages of clinical development, including SSS06 (NuPIAO, a second-generation rhEPO to 
+treat anemia), 608 (an anti-IL-17A antibody to treat autoimmune and other inflammatory diseases), 
+601A  (an  anti-vascular  endothelial  growth  factor  (“VEGF”)  antibody  to  treat  branch  retinal  vein 
+occlusion  (“BRVO”)  and  other  ophthalmological  diseases),  613  (an  IL-1ß  antibody  to  treat  AG 
+  antibody 
+arthritis),  RD-01  (a  pegylated  long-acting  rhEPO  to  treat  anemia),  611  (an  anti-IL4R 
+to treat atopic dermatitis), 610 (an anti-IL-5 antibody to treat severe asthma), SSS07 (an anti-TNF 
+  antibody  to  treat  RA  and  other  inflammatory  diseases),  and  pegsiticase  (a  modified  pegylated 
+recombinant  uricase  from  candida  utilis  to  treat  refractory  gout).  On  the  small  molecule  side,  the 
+α
+Group is conducting clinical trials of HIF-117 capsule (SSS17, a selective small molecule inhibitor 
+to hypoxia inducible factor (“HIF”) proline hydroxylase) to treat anemia, and is actively preparing 
+for  the  bridging  clinical  trial  application  in  Mainland  China  for  clascoterone  cream  (Winlevi)  in 
+acne  indication,  and  performing  bio-equivalency  studies  of  a  number  of  generic  small  molecule 
+products in the field of nephrology, autoimmune and dermatological diseases.
+
+α
+
+On the research front, the Group is engaged in developing innovative biological products, including 
+mAbs,  bi-specific  antibodies  and  fusion  proteins,  and  a  number  of  small  molecule  drugs,  both 
+innovative  and  generic,  in  the  areas  of  nephrology,  oncology,  auto-immune  and  inflammatory 
+diseases, ophthalmology and dermatological diseases. 
+
+The  Group’s  R&D  team,  consisting  of  nearly  600  experienced  scientists,  is  working  diligently  to 
+research  and  discover  new  medicines,  to  accelerate  the  progress  of  clinical  development,  and  to 
+bring breakthrough therapies to fulfill the unmet medical needs of patients. 
+
+Product Pipeline
+
+As at 30 June 2023, amongst the 30 product candidates within the Group’s active pipeline, 25 were 
+being  developed  as  innovative  drugs  in  Mainland  China.  Out  of  these  30  product  candidates,  14 
+are antibodies, 6 are other biologic products, and 10 are small molecule entities. The Group has 10 
+product candidates in hematology/oncology; 13 product candidates that target auto-immune diseases 
+including  RA  and  other  diseases  including  refractory  gout  and  ophthalmological  diseases  such  as 
+BRVO; 5 product candidates in nephrology; and 2 product candidates in dermatology.
+
+Notes:
+
+(1)  Each arrow bar in the R&D Pipeline chart below indicates the progress in Mainland China. Remarks starting with “*” note 
+
+the progress in the U.S.
+
+(2)  BE: Bio-equivalence assessment
+
+(3)  ANDA: abbreviated NDA
+
+33
+
+R&D Pipeline
+
+Therapeutic 
+Area
+
+Candidates
+
+Pre-clinical
+
+IND
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+SSS06 Long-acting rhEPO
+
+RD-01 Long-acting rhEPO
+
+Nephrology
+
+SSS12 Cinacalcet hydrochloride
+
+TRK-820 Liver Disease Pruritus
+
+Hematology 
+and 
+Oncology 
+肿瘤
+
+Auto-
+immune, 
+Ophthalmology 
+and 
+others
+
+SSS17 HIF inhibitor
+
+TPO-105 Pediatric ITP
+
+TPO-106 CLDT
+
+304R anti-CD20 Ab
+
+602 anti-EGFR Ab
+
+302H anti-HER2 Ab
+
+609A anti-PD1 Ab
+
+707 anti-PD1/VEGF BsAb
+
+705 anti-PD1/HER2 BsAb
+
+SSS41 CAR-T
+
+SSS20 Eltrombobag
+
+608 anti-IL17A Ab
+
+601A anti-VEGF Ab
+613 anti-IL1β Ab
+611 anti-IL4Rα Ab
+610 anti-IL5 Ab
+SSS07 anti-TNFα Ab
+SSS11  Pegsiticase
+
+SSS40 anti-NGF Ab
+
+621 anti-IL33 Ab
+
+SSS32 Tofacitinib
+
+WS105 Fexofenadine
+
+AP506 Apremilast
+
+皮肤科
+Dermatology
+
+SSS39 Rapamycin Nanoparticle
+
+MN709 Minoxidil Foam
+
+WS204 Clascoterone
+
+1
+
+Key Product Developments
+
+*U.S Phase I
+
+*U.S IND
+*U.S IND
+
+*U.S Phase Ia
+
+*U.S IND
+
+ANDA
+
+NDA        
+
+BE
+
+ANDA
+ANDA
+ANDA
+
+NDA
+
+3
+
+Pre-clinical
+
+5
+
+IND & phase I
+
+7
+
+Phase II
+
+10
+
+Phase III & NDA 
+
+5
+
+BE & ANDA
+
+Small molecule
+
+Antibody
+
+Other
+
+—  New Drug Application submission and phase III development
+
+Minoxidil  foam  formulation  (MN709):  The  Group  has  completed  a  multi-centered,  randomized, 
+and  double-blinded  phase  III  study  comparing  head-to-head  MN709  to  ROGAINE®  in  male 
+patients  with  hair  loss.  The  study  result  shows  that  the  efficacy  of  MN709  is  equivalent  to  that 
+of  ROGAINE®  and  there  is  similarity  between  the  two  in  terms  of  safety  and  tolerability.  As 
+announced on 11 January 2022, an NDA submitted to the NMPA was accepted for review.
+
+Nalfuraphine  hydrochloride  (TRK820):  As  announced  on  5  July  2023,  the  NDA  of  narfuraphine 
+hydrochloride  orally  disintegrating  tablets  submitted  to  the  NMPA  has  been  approved  for  the 
+improvement  of  pruritus  in  hemodialysis  patients  (only  in  cases  where  the  efficacy  of  existing 
+treatments is not satisfactory). In addition, the phase III clinical trial application for this product to 
+improve pruritus in patients with CLD (only in cases where the efficacy of existing treatments is not 
+satisfactory) was approved in May 2023.
+
+TPIAO (TPO): As announced on 10 May 2022, a multicenter, randomized, double-blind, placebo-
+controlled  study  on  the  safety,  efficacy,  and  pharmacokinetics  of  rhTPO  injection  in  children  or 
+adolescents  with  chronic  primary  ITP  achieved  the  pre-defined  primary  endpoint.  The  Group  has 
+submitted  the  supplemental  NDA  to  the  NMPA  in  November  2022.  As  announced  on  22  May 
+2023, the first patient was recently enrolled in the trial of phase III clinical study of TPIAO in the 
+treatment of patients with CLD related thrombocytopenia who are candidates for invasive surgery.
+
+34
+
+Pegsiticase (SSS11): The Group collaborated  with its  business partner  Swedish Orphan  Biovitrum 
+AB  (STO:  SOBI)  (“Sobi”)  in  the  United  States  ,  and  completed  the  phase  III  clinical  trial  of  the 
+combination  therapy  SEL-212  for  chronic  refractory  gout.  SEL-212  contains  pegsiticase  (also 
+known as pegadricase, a recombinant enzyme that metabolizes uric acid). The Group has initiated 
+a phase Ib clinical trial for SSS11 in patients with high uric acid level and medical history of gout 
+symptoms in Mainland China.
+
+NuPIAO  (EPO,SSS06):  The  Group  is  conducting  the  phase  III  clinical  trial  of  SSS06  for  anemia, 
+and plans to complete the phase III clinical trial and obtain CSR (Clinical Study Reports) within the 
+year.
+
+Anti-IL-17A  mAb  (608):  The  phase  II  trial  of  608  in  patients  with  plaque  psoriasis  has  reached 
+the  primary  endpoints,  and  the  patient  enrollment  of  the  phase  III  clinical  trial  for  this  indication 
+has  been  completed  in  April  2023.  The  primary  endpoint  data  of  the  608  phase  III  clinical  trial  is 
+expected in the second half of 2023.
+
+Anti-VEGF  mAb  (601A):  The  Group  is  conducting  the  phase  III  clinical  trial  of  601A  for  BRVO, 
+with over 180 patients enrolled as of June 2023.
+
+Anti-IL-1ß  Ab  (613):  The  Group  received  an  IND  approval  from  the  NMPA  for  613  in  respect  to 
+acute  gout  (AG)  in  March  2022,  and  the  phase  II  clinical  trial  for  acute  gout  arthritis  has  reached 
+the primary endpoints in July 2023. It is expected that, in the second half of 2023, the submission 
+of materials for the company-side consultation meeting with the NMPA Center for Drug Evaluation 
+(“CDE”)  on  the  phase  III  clinical  study  of  acute  gout  arthritis  will  be  completed,  and  the  CDE’s 
+opinions will be obtained.
+
+—  Phase II development
+
+Anti-IL4R α  mAb  (611):  A  dose  escalating  phase  Ia  clinical  study  in  healthy  volunteers  has  been 
+completed  in  the  U.S..  The  phase  II  study  in  patients  with  atopic  dermatitis  (“AD”)  in  Mainland 
+China  has  completed  patient  enrollment  in  the  first  quarter  of  2023,  and  has  produced  the 
+primary endpoint data in August 2023. The IND application for the adolescent AD indication was 
+completed in August 2023. The IND application for the phase II clinical trial of 611 for CRSwNP 
+was  approved  by  the  NMPA  in  April  2023,  and  the  first  patient  has  been  enrolled  in  July  2023. 
+Meanwhile,  the  IND  application  of  611  for  moderate-to-severe  Chronic  Obstructive  Pulmonary 
+Disease (“COPD”) was accepted.
+
+Anti-IL5 mAb (610): 610 for the severe eosinophilic asthma indication completed phase Ib 32-week 
+data un-blinding in the first half of 2023. The efficacy data was positive and the enrollment of phase 
+II clinical trial was completed in July 2023. The primary endpoint data of the phase II clinical study 
+is expected in the second half of the year.
+
+35
+
+HIF-117 (SSS17): A phase II clinical trial of SSS17 to treat anemia is in patient enrollment. SSS17 
+is  a  selective  small  molecule  inhibitor  to  hypoxia  inducible  factor  proline  hydroxylase  (HIF-PH), 
+a  molecule  which  can  improve  the  stability  and  half-life  period  of  hypoxia  inducible  factor-
+), so as to motivate the secretion of erythropoietin (EPO). It is expected that SSS17 will have 
+(HIF-
+α
+a synergistic effect with the Group’s rhEPO injection drug in the future, providing patients with an 
+alternative treatment option.
+
+α
+
+—  Phase I development and new IND applications
+
+Anti-PD1/VEGF BsAb (707): The phase Ia clinical trial in patients with advanced or metastatic solid 
+tumors  has  been  initiated  in  Mainland  China,  and  the  patient  enrollment  for  phase  Ia  is  expected 
+to  be  completed  within  the  year.  707  is  a  PD1/VEGF-targeting  bi-specific  antibody  developed  on 
+the  Group’s  CLF2  BsAb  platform,  and  has  been  approved  by  the  FDA  for  phase  I  clinical  trial  in 
+advanced solid tumors in the U.S..
+
+Anti-NGF  Ab  (SSS40):  It  is  a  humanized  neuro-growth  factor  (NGF)  mAb.  In  Mainland  China, 
+the  clinical  trial  approval  notice  from  the  NMPA  was  issued  in  January  2023.  The  first  patient 
+enrollment for phase Ia clinical trial is expected in the second half of 2023.
+
+Anti-IL-33 mAb (621): The IND approval for COPD in the U.S. has been obtained in July 2023. The 
+IND application for COPD indication in Mainland China has been accepted.
+
+Sales, Marketing and Distribution
+
+The  Group’s  sales  and  marketing  efforts  are  characterized  by  a  strong  emphasis  on  academic 
+promotion.  The  Group  aims  to  promote  and  strengthen  the  Group’s  academic  recognition  and  the 
+brand  awareness  of  its  products  among  medical  experts.  The  Group  markets  and  promotes  its  key 
+products  mainly  through  its  in-house  team.  The  Group  sells  these  products  to  distributors  who 
+are  responsible  for  delivering  products  to  hospitals  and  other  medical  institutions.  Mandi  is  sold 
+through retail pharmacies and online stores.
+
+As  at  30  June  2023,  the  Group’s  extensive  sales  and  distribution  network  in  Mainland  China  was 
+supported  by  approximately  2,704  sales  and  marketing  employees,  1,144  distributors  and  1,889 
+third-party promoters. During the Reporting Period, the Group’s products were sold in nearly 2,700 
+Grade  III  hospitals  and  over  6,000  Grade  II  or  lower  hospitals  and  medical  institutions  across  all 
+provinces, autonomous regions and special municipalities in Mainland China. In addition, TPIAO, 
+Yisaipu,  EPIAO,  SEPO  and  some  of  the  Group’s  other  products  are  exported  to  a  number  of 
+countries through international promoters.
+
+36
+
+ 
+Outlook
+
+In  January  2023,  the  “National  Reimbursement  Drug  List  for  Basic  Medical  Insurance,  Work-
+Related  Injury  Insurance  and  Maternity  Insurance  (2022)”  (《國家基本醫療保險、工傷保險和
+生育保險藥品目錄(2022年)》)  has  been  issued  officially  by  the  National  Healthcare  Security 
+Administration  and  the  Ministry  of  Human  Resources  and  Social  Security  of  the  PRC  in  2023. 
+Among  the  Group’s  products,  Recombinant  Human  Thrombopoietin  (TPIAO)  and  Inetetamab 
+(Cipterbin) successfully re-entered the national medical insurance and made adjustments in part in 
+relevant  indications.  Under  the  new  medical  insurance  policy,  the  Group  keeps  ensuring  the  good 
+order  of  production  and  quality  control,  and  be  diligent  in  its  social  responsibilities,  and  benefit 
+more patients with high-quality and high-standard medicines.
+
+Looking  forward  to  the  second  half  of  2023,  the  biologics  segment  of  the  Group  will  maintain 
+a  steady  growth.  The  Group  has  always  maintained  strong  confidence  in  the  market  potential  of 
+domestic  hair  and  skin  drugs.  The  Group  will  continue  to  promote  the  publicity  and  education  of 
+Mandi  as  a  scientifically  proven  drug  for  hair  loss  treatment,  command  digital  marketing,  expand 
+in  new  media  channels,  and  enhance  Mandi’s  brand  awareness.  The  Group  will  also  focus  on 
+promoting the introduction of the global innovative acne drug, Clascoterone (WS204), in Mainland 
+China.  Leveraging  on  the  Group’s  profound  biopharmaceutical  R&D  experience  and  production 
+capacity,  the  Group  will  continue  to  empower  numerous  domestic  biotechnology  companies  and 
+accelerate  the  launch  of  high-quality  new  domestic  drugs.  With  a  highly  localized  supply  chain, 
+the Group reduces the “stranglehold” risk imposed by overseas suppliers on the R&D of domestic 
+customers,  thereby  maximizing  the  value  of  the  Group’s  businesses  and  fostering  new  business 
+growth points.
+
+For business development, the Group will actively deploy in the second half of 2023 for the harvest 
+period of the newly launched drugs. The prefilled syringe of Yisaipu was approved for marketing in 
+March 2023, significantly improving medication convenience for hundreds of thousands of medical 
+professionals  and  patients.  Being  approved  for  marketing  in  June  2023,  Remitch®  (nalfuraphine 
+hydrochloride orally disintegrating tablets) is the first and only domestic drug indicated for dialysis 
+pruritus,  filling  a  gap  in  dialysis  pruritus  treatment  area,  which  will  bring  significant  clinical 
+benefits to millions of patients with nephrology and liver diseases in Mainland China. In the second 
+half of 2023, the Group expects to receive the marketing approval of Mandi foam, and the phase III 
+key  data  readout  of  the  Group’s  key  product  candidate  608  (recombinant  humanized  anti-IL-17A 
+mAb).  We  expect  that  the  Group  will  have  new  drugs  entering  the  commercialization  stage  every 
+year in the future.
+
+37
+
+For  clinical  R&D  strategy,  the  Group  will  continue  to  focus  on  the  fields  of  its  strength,  namely, 
+nephrology,  autoimmune  diseases,  hair  and  skin,  hematology,  and  oncology.  In  particular,  the 
+Group  will  fast-track,  and  explore  multiple  indications  of  the  autoimmune  diseases  products 
+which  the  Group  has  made  leading  R&D  progress  in  Mainland  China.  Meanwhile,  the  Group 
+endeavours  to  drive  forward  the  bridging  clinical  trials  for  Clascoterone  cream  in  acne  indication 
+and Remitch in liver diseases pruritus, both with vast market potentials and large number of target 
+patients. The Group will focus on and accelerate the overall R&D strategic set-up. The Group will 
+conduct comprehensive research and prudent evaluation on investment and merger and acquisition 
+strategies, proactively acquire high-quality assets with long-term value, and strive to maximize the 
+Group’s  advantages.  Driven  by  the  mission  to  make  innovative  bio-pharmaceuticals  within  reach, 
+the Group accelerates the early launch of more high-quality products to benefit patients.
+
+Financial Review
+
+Revenue
+
+For  the  Reporting  Period,  the  Group’s  revenue  amounted  to  approximately  RMB3,783.8  million, 
+as  compared  to  approximately  RMB3,094.5  million  for  the  six  months  ended  30  June  2022, 
+representing  an  increase  of  approximately  RMB689.3  million,  or  approximately  22.3%.  The 
+increase was mainly attributable to the strong sales growth of TPIAO, Yisaipu and Mandi.
+
+For  the  Reporting  Period,  the  Group’s  sales  of  TPIAO  increased  to  approximately  RMB2,019.1 
+million,  as  compared  to  approximately  RMB1,575.4  million  for  the  six  months  ended  30  June 
+2022, representing an increase of approximately RMB443.7 million, or approximately 28.2%. The 
+increase was primarily attributable to an increase in sales volume. For the Reporting Period, sales of 
+TPIAO accounted for approximately 53.4% of the Group’s total revenue.
+
+For  the  Reporting  Period,  the  Group’s  sales  of  EPIAO  and  SEPO  decreased  to  approximately 
+RMB463.2 million, as compared to approximately RMB533.1 million for the six months ended 30 
+June  2022,  representing  a  decrease  of  approximately  RMB69.9  million,  or  approximately  13.1%. 
+The  decrease  was  mainly  due  to  a  decrease  of  the  ex-factory  price  and  sales  volume.  For  the 
+Reporting  Period,  the  Group’s  sales  of  EPIAO  decreased  to  approximately  RMB365.9  million,  as 
+compared to approximately RMB406.8 million for the six months ended 30 June 2022, representing 
+a  decrease  of  approximately  RMB40.9  million,  or  approximately  10.1%.  For  the  Reporting 
+Period,  the  Group’s  sales  of  SEPO  decreased  to  approximately  RMB97.4  million,  as  compared  to 
+approximately RMB126.3 million for the six months ended 30 June 2022, representing a decrease 
+of  approximately  RMB28.9  million,  or  approximately  22.9%.  For  the  Reporting  Period,  the 
+combined sales of EPIAO and SEPO accounted for a total of approximately 12.2% of the Group’s 
+total revenue.
+
+For  the  Reporting  Period,  the  Group’s  sales  from  alopecia  area  increased  to  approximately 
+RMB507.5 million, as compared to approximately RMB374.3 million for the six months ended 30 
+June 2022, representing an increase of approximately RMB133.2 million, or approximately 35.6%. 
+The  increase  was  mainly  attributable  to  the  increased  market  demand  for  hair  loss  and  growth 
+treatments, which was driven by the Group’s diversified and effective promotional efforts. For the 
+
+38
+
+Reporting  Period,  the  Group’s  sales  of  Mandi  increased  to  approximately  RMB495.5  million,  as 
+compared to approximately RMB366.2 million for the six months ended 30 June 2022, representing 
+an  increase  of  approximately  RMB129.3  million,  or  approximately  35.3%.  For  the  Reporting 
+Period,  the  sales  from  alopecia  area  accounted  for  a  total  of  approximately  13.4%  of  the  Group’s 
+revenue.
+
+For  the  Reporting  Period,  the  Group’s  sales  of  Yisaipu  (domestic  and  overseas)  increased  to 
+approximately  RMB303.7  million,  representing  a  year-on-year  increase  of  approximately  25.0%. 
+The increase was mainly attributable to increased sales volume.
+
+For  the  Reporting  Period,  the  Group’s  revenue  from  CDMO  business  increased  to  approximately 
+RMB94.9  million,  as  compared  to  approximately  RMB55.3  million  for  the  six  months  ended  30 
+June  2022,  representing  an  increase  of  approximately  RMB39.6  million,  or  approximately  71.6%. 
+The increase was mainly attributable to the increased CDMO orders from customers.
+
+For  the  Reporting  Period,  the  Group’s  other  sales,  primarily  consisted  of  sales  from  Cipterbin, 
+Sparin (an injectable low-molecular-weight heparin calcium product indicated for: (1) prophylaxis 
+and  treatment  of  deep  vein  thrombosis;  and  (2)  prevention  of  clotting  during  hemodialysis), 
+export  sales  and  other  products,  increased  to  approximately  RMB417.0  million,  as  compared  to 
+approximately RMB338.6 million for the six months ended 30 June 2022, representing an increase 
+of approximately RMB78.4 million, or approximately 23.2%. The increase was mainly attributable 
+to  the  increased  sales  volume  of  Cipterbin  and  Sparin.  For  the  Reporting  Period,  the  Group’s 
+sales  of  Cipterbin  increased  to  approximately  RMB108.6  million,  as  compared  to  approximately 
+RMB67.7 million for the six months ended 30 June 2022, representing an increase of approximately 
+RMB40.9 million, or approximately 60.4%. For the Reporting Period, the Group’s sales of Sparin 
+increased  to  approximately  RMB150.6  million,  as  compared  to  approximately  RMB118.3  million 
+for  the  six  months  ended  30  June  2022,  representing  an  increase  of  approximately  RMB32.3 
+million, or approximately 27.3%.
+
+Cost of Sales
+
+The  Group’s  cost  of  sales  increased  from  approximately  RMB529.3  million  for  the  six  months 
+ended 30 June 2022 to approximately RMB582.3 million for the Reporting Period, which accounted 
+for approximately 15.4% of the Group’s total revenue for the same period. The primary reason for 
+the  increase  in  the  Group’s  cost  of  sales  was  mainly  attributable  to  the  increased  sales  volume  of 
+products for the Reporting Period, as compared to the corresponding period in 2022.
+
+Gross Profit
+
+For  the  Reporting  Period,  the  Group’s  gross  profit  increased  to  approximately  RMB3,201.6 
+million,  as  compared  to  approximately  RMB2,565.2  million  for  the  six  months  ended  30  June 
+2022, representing an increase of approximately RMB636.4 million, or approximately 24.8%. The 
+increase in the Group’s gross profit was broadly in line with its revenue increase during the period. 
+The  Group’s  gross  profit  margin  increased  to  approximately  84.6%  for  the  Reporting  Period  from 
+approximately 82.9% for the corresponding period in 2022.
+
+39
+
+Other Income and Gains
+
+The  Group’s  other  income  and  gains  mainly  comprised  government  grants,  interest  income, 
+foreign  exchange  gain,  fair  value  gain  or  loss  on  financial  assets  at  FVTPL,  gain  on  redemption 
+of convertible bonds and other miscellaneous income. For the Reporting Period, the Group’s other 
+income  and  gains  decreased  to  approximately  RMB-7.2  million,  as  compared  to  approximately 
+RMB349.0  million  for  the  six  months  ended  30  June  2022,  representing  a  decrease  of 
+approximately RMB356.2 million, or approximately 102.1%. The decrease was mainly attributable 
+to the fair value loss on financial assets at FVTPL in the Reporting Period.
+
+Selling and Distribution Expenses
+
+The  Group’s  selling  and  distribution  expenses  primarily  consisted  of  marketing  and  promotion 
+expenses,  staff  costs,  transportation  expenses  and  other  miscellaneous  selling  and  distribution 
+expenses.  For  the  Reporting  Period,  the  Group’s  selling  and  distribution  expenses  amounted  to 
+approximately  RMB1,374.8  million,  as  compared  to  approximately  RMB1,150.3  million  for  the 
+six  months  ended  30  June  2022,  representing  an  increase  of  approximately  RMB224.5  million,  or 
+approximately  19.5%.  In  terms  of  the  percentage  of  revenue,  the  Group’s  selling  and  distribution 
+expenses  decreased  from  approximately  37.2%  for  the  six  months  ended  30  June  2022  to 
+approximately 36.3% for the Reporting Period.
+
+Administrative Expenses
+
+The  Group’s  administrative  expenses  consisted  of  staff  costs,  professional  fees,  depreciation 
+and  amortization,  property  expenses,  share-based  compensation,  and  other  miscellaneous 
+administrative  expenses.  For  the  Reporting  Period,  the  Group’s  administrative  expenses  amounted 
+to  approximately  RMB214.4  million,  as  compared  to  approximately  RMB198.1  million  for  the 
+six  months  ended  30  June  2022,  representing  an  increase  of  approximately  RMB16.3  million,  or 
+approximately  8.2%.  The  administrative  expenses  as  a  percentage  of  revenue  was  approximately 
+5.7% for the Reporting Period and approximately 6.4% for the six months ended 30 June 2022.
+
+R&D Costs
+
+The  Group’s  R&D  costs  primarily  consisted  of  staff  costs,  materials  consumption,  clinical  trials 
+costs,  depreciation  and  amortisation,  and  other  miscellaneous  R&D  expenses.  For  the  Reporting 
+Period,  the  Group’s  R&D  costs  amounted  to  approximately  RMB306.6  million,  as  compared  to 
+approximately RMB294.3 million for the six months ended 30 June 2022, representing an increase 
+of  approximately  RMB12.3  million,  or  approximately  4.2%.  The  increase  was  mainly  due  to  the 
+speed-up  of  the  Group’s  R&D  projects.  The  R&D  costs  accounted  for  approximately  8.1%  of 
+revenue for the Reporting Period, as compared to approximately 9.5% for the corresponding period 
+in 2022.
+
+40
+
+Other Expenses and Losses
+
+The  Group’s  other  expenses  and  losses  primarily  consisted  of  donation  expenses,  provision  for 
+impairment of financial assets and investment in associates, and other miscellaneous expenses and 
+losses. For the Reporting Period, the Group’s other expenses and losses amounted to approximately 
+RMB5.1  million,  as  compared  to  approximately  RMB105.1  million  for  the  six  months  ended  30 
+June 2022, representing a decrease of approximately RMB100.0 million, or approximately 95.1%. 
+The  decrease  was  mainly  due  to  the  decrease  in  provision  for  impairment  of  financial  assets  and 
+investment in an associate.
+
+Finance Costs
+
+For  the  Reporting  Period,  the  Group’s  finance  costs  amounted  to  approximately  RMB88.9 
+million,  as  compared  to  approximately  RMB36.5  million  for  the  six  months  ended  30  June  2022, 
+representing an increase of approximately RMB52.4 million, or approximately 143.6%. Excluding 
+the non-cash interest expenses of the 2025 Bonds, the finance cost increased from RMB7.9 million 
+for  the  six  months  ended  30  June  2022  to  approximately  RMB65.5  million  for  the  Reporting 
+Period, representing an increase of approximately RMB57.6 million, or approximately 729.1%. The 
+increase was mainly due to the increased interest-bearing bank borrowings for the Reporting Period.
+
+Income Tax Expense
+
+For the Reporting Period, the Group’s income tax expense amounted to approximately RMB207.6 
+million,  as  compared  to  approximately  RMB164.0  million  for  the  six  months  ended  30  June 
+2022,  representing  an  increase  of  approximately  RMB43.6  million,  or  approximately  26.6%.  The 
+increase  was  mainly  due  to  the  increase  of  the  taxable  income  during  the  Reporting  Period,  as 
+compared to the corresponding period in 2022. The effective tax rates for the Reporting Period and 
+the  corresponding  period  in  2022  were  17.4%  and  14.7%,  respectively.  The  increase  in  effective 
+tax  rate  was  mainly  due  to  the  increase  in  non-deductible  expenses  for  the  Reporting  Period,  as 
+compared to those for the six months ended 30 June 2022.
+
+Net Profit Attributable to Owners of the Parent and EBITDA
+
+The  net  profit  attributable  to  owners  of  the  parent  for  the  Reporting  Period  was  approximately 
+RMB980.6 million, as compared to approximately RMB966.9 million for the six months ended 30 
+June  2022,  representing  an  increase  of  approximately  RMB13.7  million,  or  approximately  1.4%. 
+The normalized net profit attributable to owners of the parent is defined as the profit for the period 
+excluding,  as  applicable:  (a)  the  interest  expenses  incurred  in  relation  to  the  issuance  of  the  2025 
+Bonds;  (b)  the  expenses  associated  with  the  share  options  and  awarded  shares  granted  in  March 
+2020; (c) the expenses associated with the share options under the ESOP of Sunshine Guojian; (d) 
+gain  on  redemption  of  2025  Bonds  and  (e)  fair  value  gain  or  loss  on  financial  assets  at  FVTPL. 
+The  Group’s  normalized  net  profit  attributable  to  owners  of  the  parent  for  the  Reporting  Period 
+was approximately RMB1,191.5 million, as compared to approximately RMB992.2 million for the 
+six  months  ended  30  June  2022,  representing  a  increase  of  approximately  RMB199.3  million,  or 
+approximately 20.1%.
+
+41
+
+The  EBITDA  for  the  Reporting  Period  increased  by  approximately  RMB37.5  million  or 
+approximately  2.9%  to  approximately  RMB1,330.5  million,  as  compared  to  approximately 
+RMB1,293.0  million  for  the  six  months  ended  30  June  2022.  The  normalized  EBITDA  is  defined 
+as the EBITDA for the period excluding, as applicable: (a) the interest expenses incurred in relation 
+to the issuance of the 2025 Bonds; (b) the expenses associated with the share options and awarded 
+shares granted in March 2020; (c) the expenses associated with the share options under the ESOP 
+of  Sunshine  Guojian;  (d)  gain  on  redemption  of  2025  Bonds,  and  (e)  fair  value  gain  or  loss  on 
+financial assets at FVTPL. The Group’s normalized EBITDA for the Reporting Period increased by 
+approximately  RMB228.4  million  or  approximately  17.7%  to  approximately  RMB1,518.1  million, 
+as compared to approximately RMB1,289.7 million for the six months ended 30 June 2022.
+
+Earnings Per Share
+
+The  basic  earnings  per  share  for  the  Reporting  Period  was  approximately  RMB0.40,  as  compared 
+to  approximately  RMB0.39  for  the  six  months  ended  30  June  2022,  representing  an  increase  of 
+approximately 2.6%.
+
+Financial Assets Measured at Fair Value
+
+As  at  30  June  2023,  financial  assets  measured  at  fair  value  primarily  comprised  the  investment  in 
+treasury or cash management products issued by certain banks, the investments in listed companies 
+and the investments in private equity funds which focus on investment in health-care industry.
+
+The  treasury  or  cash  management  products  subscribed  by  the  Group  for  treasury  management 
+purposes  from  time  to  time  included  wealth  management  products  offered  by  various  independent 
+commercial  banks.  For  further  information,  please  refer  to  the  section  headed  “Management 
+Discussion and Analysis — Liquidity, Financial and Capital Resources — Significant Investments 
+Held” hereinafter relating to the Group’s subscriptions from independent commercial banks.
+
+Liquidity, Financial and Capital Resources
+
+The  Group’s  liquidity  remained  strong.  For  the  Reporting  Period,  the  Group’s  operating  activities 
+generated a net cash inflow of approximately RMB1,184.5 million, as compared to approximately 
+RMB1,027.6 million for the six months ended 30 June 2022, representing an increase of RMB156.9 
+million or approximately 15.3%. The increase was mainly attributable to the increased cash inflow 
+from the sales of biopharmaceuticals. As at 30 June 2023, the Group’s cash and bank balances and 
+bank financial products were approximately RMB7,423.8 million.
+
+42
+
+Net Current Assets
+
+As  at  30  June  2023,  the  Group  had  net  current  assets  of  approximately  RMB6,691.7  million,  as 
+compared  to  net  current  assets  of  approximately  RMB7,906.6  million  as  at  31  December  2022. 
+The  current  ratio  of  the  Group  decreased  from  approximately  5.3  as  at  31  December  2022  to 
+approximately  2.9  as  at  30  June  2023.  The  decrease  in  net  current  assets  and  current  ratio  was 
+mainly  attributable  to  the  higher  current  liabilities  which  was  brought  by  the  increased  interest-
+bearing bank borrowings in 2023.
+
+Funding and Treasury Policies, Borrowing and Pledge of Assets
+
+The  Group’s  finance  department  is  responsible  for  the  funding  and  treasury  policies  with  regard 
+to  the  overall  business  operation  of  the  Group.  The  Company  expects  to  fund  its  working  capital 
+and other capital requirements from a combination of various sources, including but not limited to 
+internal  financing  and  external  financing  at  reasonable  market  rates.  The  Group  continues  to  seek 
+improving the return of equity and assets while maintaining prudent funding and treasury policies.
+
+As  at  30  June  2023,  the  Group  had  total  interest-bearing  bank  borrowings  of  approximately 
+RMB3,725.7  million,  as  compared  to  approximately  RMB2,315.0  million  as  at  31  December 
+2022.  The  increase  in  bank  borrowings  primarily  reflected  the  additional  bank-borrowing  of 
+approximately RMB1,640.9 million, partly offset by the repayment of loans of RMB303.9 million, 
+during the Reporting Period. Among the short-term deposits, none was pledged to secure bank loans 
+as at 30 June 2023.
+
+As  at  30  June  2023,  the  Group  had  outstanding  convertible  bonds  of  approximately  RMB11.2 
+million and outstanding Panda bonds of approximately RMB1,200.6 million. For more information 
+on  the  Group’s  Panda  bonds,  please  refer  to  Note  16  “BONDS  PAYABLE”  to  the  interim 
+condensed consolidated financial information for the Reporting Period set forth above.
+
+Gearing Ratio
+
+The gearing ratio of the Group, which was calculated by dividing the total borrowings and bonds by 
+the total equity, increased to approximately 30.9% as at 30 June 2023 from approximately 29.2% as 
+at 31 December 2022.
+
+43
+
+Contingent Liabilities
+
+As at 30 June 2023, the Group had no significant contingent liabilities.
+
+Contractual Obligations
+
+The  Group’s  capital  commitment  amounted  to  approximately  RMB1,158.0  million  as  at  30  June 
+2023, as compared to approximately RMB1,320.5 million as at 31 December 2022.
+
+Foreign Exchange and Exchange Rate Risk
+
+The  Group  mainly  operates  in  Mainland  China,  with  all  material  aspects  of  its  regular  business 
+conducted in Renminbi other than: (1) the operations of Sirton; and (2) the Group’s exports, which 
+amounted  to  approximately  RMB28.8  million,  or  approximately  0.8%  of  the  Group’s  revenue, 
+for  the  Reporting  Period.  Except  for  the  operations  of  Sirton,  the  Group’s  exports,  potential 
+international deal-making expenditures (such as related to international licensing and acquisitions), 
+foreign currency denominated bank borrowings and bank deposits and the Euro-denominated bonds, 
+the  Group  believes  that  it  does  not  have  any  other  material  direct  exposure  to  foreign  exchange 
+fluctuations. As at 30 June 2023, the Group’s foreign currency denominated bank deposits primarily 
+comprised:  (1)  approximately  USD59.3  million  (equivalent  to  approximately  RMB428.2  million); 
+(2)  approximately  HKD12.2  million  (equivalent  to  approximately  RMB11.3  million);  and  (3) 
+approximately EUR9.1 million (equivalent to approximately RMB71.8 million). The Group expects 
+that  the  fluctuation  of  the  Renminbi  exchange  rate  will  not  have  a  material  adverse  effect  on  the 
+operations of the Group in the foreseeable future.
+
+Significant Investments Held
+
+As  at  30  June  2023,  the  Group  did  not  hold  any  significant  investments.  As  at  30  June  2023,  the 
+Group  held  (i)  equity  investments  designated  at  fair  value  through  other  comprehensive  income 
+of  approximately  RMB567.5  million;  (ii)  wealth  management  products  of  various  independent 
+commercial  banks  as  financial  assets  at  FVTPL  of  approximately  RMB4,601.8  million,  and  (iii) 
+non-pledged  time  deposits  of  approximately  RMB556.6  million,  none  of  which  such  investments 
+in  any  group  of  entities  or  products  offered  by  any  group  of  commercial  banks,  in  aggregate, 
+represented 5.0% or more of the total assets of the Group.
+
+Material Acquisitions and Disposals
+
+The  Group  did  not  have  material  acquisitions  and  disposals  of  subsidiaries,  associated  companies 
+and joint ventures during the Reporting Period. For information relating to the Group’s acquisition 
+of  100%  interest  in  Liaoning  Sunshine  Technology  from  Dalian  Huansheng  by  way  of  business 
+combination,  please  refer  to  Note  18  “BUSINESS  COMBINATION”  to  the  interim  condensed 
+consolidated financial information for the Reporting Period set forth above.
+
+44
+
+Future Plans for Material Investments or Capital Assets
+
+The Group estimates that the total capital expenditure of the Group for the next three years will be 
+in the range of RMB1,200 million to RMB1,300 million. These expected capital expenditures will 
+primarily be incurred for the expansion of the Group’s production capabilities and the maintenance 
+of  the  Group’s  existing  facilities.  The  Group  expects  to  finance  its  capital  expenditures  through  a 
+combination of internally generated funds, bank borrowings and equity financing.
+
+EMPLOYEES AND EMOLUMENTS POLICY
+
+As at 30 June 2023, the Group employed a total of 5,311 employees, as compared to a total of 5,213 
+employees as at 31 December 2022. The staff costs, including Directors’ emoluments but excluding 
+any contributions to the pension scheme, were approximately RMB604.4 million for the Reporting 
+Period, as compared to approximately RMB596.4 million for the corresponding period in 2022. The 
+Group  generally  formulated  its  employees’  remuneration  package  to  include  salary,  bonus,  equity 
+compensation,  and  allowance  elements.  The  compensation  programs  were  designed  to  remunerate 
+the employees based on their performance, measured against specified objective criteria. The Group 
+also  provided  the  employees  with  welfare  benefits  in  accordance  with  applicable  regulations  and 
+the Group’s internal policies. The Company has adopted a share option scheme and a share award 
+scheme  (“2019  Share  Award  Scheme”)  and  there  are  other  incentive  initiatives  such  as  cash 
+awards, all of which are for the purpose of providing incentives and rewards to eligible participants 
+who  contribute  to  the  success  of  the  Group’s  operations.  In  addition,  Sunshine  Guojian  adopted 
+a  restricted  share  incentive  plan  in  February  2021  and  there  is  also  a  gratuitous  incentive  scheme 
+set  up  by  founding  and  management  members  of  the  Group  that  serves  to  recognise  employees’ 
+contributions.
+
+INTERIM DIVIDEND
+
+The Board does not recommend any interim dividend for the Reporting Period.
+
+CORPORATE GOVERNANCE PRACTICES
+
+The  Group  is  committed  to  maintaining  high  standards  of  corporate  governance  to  safeguard  the 
+interests  of  members  of  the  Company  and  to  enhance  corporate  value  and  accountability.  The 
+Company  has  adopted  the  Corporate  Governance  Code  (the  “CG  Code”)  as  set  out  in  Appendix 
+14  to  the  Rules  Governing  the  Listing  of  Securities  on  the  HKEx  (the  “HKEx  Listing  Rules”) 
+as  its  own  code  of  corporate  governance.  Except  as  expressly  described  below,  the  Company  has 
+complied with all applicable code provisions set out in the CG Code during the Reporting Period.
+
+Separation of the Roles of the Chairman of the Board and the Chief Executive Officer
+
+Pursuant  to  code  provision  C.2.1  of  the  CG  Code,  companies  listed  on  the  HKEx  are  expected  to 
+comply  with,  but  may  choose  to  deviate  from,  the  requirement  that  the  responsibilities  between 
+the  chairman  and  the  chief  executive  officer  should  be  segregated  and  should  not  be  performed 
+by  the  same  individual.  The  Company  does  not  have  separate  chairman  and  chief  executive 
+officer.  Dr.  LOU  Jing  currently  performs  these  two  roles.  The  Board  believes  that  vesting  both 
+the  roles  of  chairman  and  chief  executive  officer  in  the  same  person  has  the  benefit  of  ensuring 
+
+45
+
+consistent  leadership  within  the  Group  and  facilitating  a  more  effective  and  efficient  overall 
+strategic planning for the Group. The Board considers that the balance of power and authority for 
+the  present  arrangement  will  not  be  impaired  and  this  structure  will  enable  the  Company  to  make 
+and  implement  decisions  promptly  and  effectively.  The  Board  will  from  time  to  time  review  and 
+consider splitting the roles of chairman of the Board and the chief executive officer of the Company 
+at an appropriate time, taking into account the circumstances of the Group as a whole.
+
+MODEL  CODE  FOR  SECURITIES  TRANSACTIONS  BY  DIRECTORS 
+OF LISTED ISSUERS
+
+The  Company  has  adopted  the  “Model  Code  for  Securities  Transactions  by  Directors  of  Listed 
+Issuer”  as  set  out  in  Appendix  10  to  the  HKEx  Listing  Rules  (the  “Model  Code”)  as  its  code  of 
+conduct  regarding  securities  transactions  by  the  Directors.  Having  made  specific  enquiry  with  the 
+Directors, all Directors confirmed that they had complied with the required standard as set out in the 
+Model Code during the Reporting Period.
+
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES
+
+Save  as  disclosed  in  the  subsection  headed  “Redemption  of  2025  Bonds”  below,  there  was  no 
+purchase, sale and redemption of any listed securities of the Company by the Company or any of its 
+subsidiaries during the Reporting Period.
+
+Redemption of 2025 Bonds
+
+Pursuant  to  the  terms  and  conditions  of  the  2025  Bonds,  the  holder(s)  of  the  2025  Bonds  have 
+the  right  to  require  Strategic  International  Group  Limited,  a  direct  wholly-owned  subsidiary  of 
+the  Company,  as  the  Issuer,  to  redeem  all  or  some  of  the  2025  Bonds  of  such  holder  on  29  June 
+2023.  Certain  holders  exercised  such  right  in  respect  of  EUR287,600,000  in  aggregate  principal 
+amount  of  the  2025  Bonds  (the  “Put  Bonds”).  The  redemption  of  the  Put  Bonds  was  completed 
+and  all  payments  had  been  made  to  the  exercising  holders  on  29  June  2023  pursuant  to  the  terms 
+and  conditions  of  the  2025  Bonds.  The  redeemed  Put  Bonds  had  been  cancelled.  The  remaining 
+outstanding 2025 Bonds amounted to a principal amount of EUR1,400,000. The maximum number 
+of  ordinary  shares  to  be  issued  by  the  Company  upon  full  conversion  of  such  outstanding  2025 
+Bonds will be 972,844 ordinary shares (based on the conversion price adjusted on 4 July 2023).
+
+On  26  July  2023,  the  Board  announced  that  the  Company  served  a  notice  to  exercise  its  right  to 
+redeem  all  such  2025  Bonds  in  the  principal  amount  of  EUR1,400,000  that  remains  outstanding  
+on 28 August 2023 pursuant to the terms and conditions of the 2025 Bonds. For details, please refer 
+to the Company’s announcement dated 26 July 2023.
+
+46
+
+AUDIT COMMITTEE
+
+The Board has established an audit committee (the “Audit Committee”) which comprises the three 
+independent non-executive Directors, namely Mr. PU Tianruo (chairman), Mr. NG, Joo Yeow Gerry 
+and Ms. YANG, Hoi Ti Heidi.
+
+The Audit Committee, together with the Board, has reviewed the unaudited condensed consolidated 
+interim  results  of  the  Group  for  the  Reporting  Period.  The  Audit  Committee  has  also  reviewed 
+the  effectiveness  of  the  financial  controls  and  internal  control  and  risk  management  systems  of 
+the Company, and considers the internal control and risk management systems to be effective and 
+adequate.
+
+SCOPE OF WORK OF ERNST & YOUNG
+
+The  financial  information  in  respect  of  the  interim  results  announcement  of  the  Group’s  results 
+for the Reporting Period has been agreed by the Group’s auditors, Ernst & Young, to the amounts 
+set  out  in  the  Group’s  draft  unaudited  interim  condensed  consolidated  financial  information  for 
+the  Reporting  Period.  The  work  performed  by  Ernst  &  Young  in  this  respect  did  not  constitute 
+an  assurance  engagement  in  accordance  with  International  Standards  on  Auditing,  International 
+Standards on Review Engagements or International Standards on Assurance Engagements issued by 
+the International Auditing and Assurance Standards Board and consequently no assurance has been 
+expressed by Ernst & Young on this interim results announcement.
+
+PUBLICATION  OF  THE  INTERIM  RESULTS  AND  2023  INTERIM 
+REPORT ON THE WEBSITES OF THE HKEX AND THE COMPANY
+
+This  interim  results  announcement  is  published  on  the  respective  websites  of  the  HKEx  
+(www.hkexnews.hk) and the Company (www.3sbio.com).
+
+The Company’s 2023 interim report containing all the information required under the HKEx Listing 
+Rules will be dispatched to the shareholders of the Company and will be published on the respective 
+websites of the HKEx and the Company in due course.
+
+By Order of the Board
+3SBio Inc.
+Dr. LOU Jing
+Chairman
+
+Hong Kong, 24 August 2023
+
+As  at  the  date  of  this  announcement,  the  Board  comprises  Dr.  LOU  Jing  and  Ms.  SU  Dongmei  as  executive  directors;  
+Mr.  HUANG  Bin  as  non-executive  director;  and  Mr.  PU  Tianruo,  Ms.  YANG,  Hoi  Ti  Heidi,  Mr.  NG,  Joo  Yeow  Gerry  and  
+Dr. ZHANG Dan as independent non-executive directors.
+
+47
+
+

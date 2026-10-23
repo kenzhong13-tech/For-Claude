@@ -1,0 +1,472 @@
+
+
+EX-99.1
+
+2
+
+coreweave2q25earningspress.htm
+
+EX-99.1
+
+Document
+CoreWeave Reports Strong Second Quarter 2025 Results
+Record Second Quarter Revenue Underscores Robust Demand and Strong Execution
+LIVINGSTON, N.J., – August 12, 2025 
+– CoreWeave, Inc. (Nasdaq: CRWV), the AI Hyperscaler™, today reported financial results for the second quarter ended June 30, 2025.
+"Our strong second quarter performance demonstrates continued momentum across every dimension of our business," said Michael Intrator, Co-Founder, Chairman of the Board and Chief Executive Officer, CoreWeave. "We are scaling rapidly as we look to meet the unprecedented demand for AI. Our purpose-built AI cloud platform continues to set new benchmarks for performance and scalability including becoming the first company to offer the complete Blackwell GPU portfolio at scale, making CoreWeave the platform of choice for the world’s most advanced AI workloads and AI pioneers.”
+Second Quarter 2025 Financial Highlights
+
+(In thousands, except percentages and per share amounts) | Three Months Ended June 30,
+
+2025 | 2024
+
+Revenue | $ | 1,212,788 | $ | 395,371
+
+Operating expenses | 1,193,579 | 317,650
+
+Operating income | $ | 19,209 | $ | 77,721
+
+Operating income margin | 2 | % | 20 | %
+
+Interest expense, net | $ | (266,966) | $ | (66,766)
+
+Net loss | $ | (290,509) | $ | (323,021)
+
+Net loss margin | (24) | % | (82) | %
+
+Basic net loss per share | $ | (0.60) | $ | (1.62)
+
+Diluted net loss per share | $ | (0.60) | $ | (1.62)
+
+Non-GAAP Measures 
+
+(In thousands, except percentages) | Three Months Ended June 30,
+
+2025 | 2024
+
+Adjusted EBITDA | $ | 753,169 | $ | 249,841
+
+Adjusted EBITDA margin | 62 | % | 63 | %
+
+Adjusted operating income | $ | 199,788 | $ | 85,381
+
+Adjusted operating income margin | 16 | % | 22 | %
+
+Adjusted net loss | $ | (130,806) | $ | (5,130)
+
+Adjusted net loss margin | (11) | % | (1) | %
+
+(See “Non-GAAP Financial Measures” and the reconciliation of GAAP to non-GAAP results table in this press release for additional information.)
+Additional Second Quarter 2025 Financial Highlights
+Revenue backlog was $30.1 billion as of June 30, 2025.
+1 
+Second Quarter 2025 Highlights
+
+•
+Key customer wins across AI labs, hyperscalers and enterprises including
+◦
+$4 billion expansion deal with OpenAI, in addition to previously announced $11.9 billion deal
+◦
+New hyperscaler customer - signed and expanded in the quarter
+◦
+AI labs and enterprises including: BT Group, Cohere, Hippocratic AI, Hologen, LG CNS, Mistral, Moonvalley, Novel and Woven by Toyota
+◦
+Official AI Cloud Computing Partner of the Aston Martin Aramco Formula One
+®
+ Team 
+•
+Continued rapid scaling of our purpose-built AI Infrastructure. We ended the quarter with approximately 470 MW of active power and we increased total contracted power approximately 600 MW to 2.2 GW
+•
+Continued to drive our technology leadership position across our platform, enabling leading AI companies to unleash AI’s potential
+◦
+First to bring NVIDIA GB200 NVL72 systems online for customers at scale, with AI frontier companies like Cohere, IBM and Mistral AI and we announced general availability of B200 based instances
+◦
+Delivered the largest-ever MLPerf Training v5.0 submission utilizing NVIDIA Blackwell GB200 instances. The breakthrough submission was 34X larger than other submissions and 4.5x more performant than the best GB200 submission from any other enterprise
+•
+Completed acquisition of Weights & Biases and launched new products to extend our cloud platform capabilities
+◦
+Mission Control Integration: groundbreaking cluster health management system, now available through W&B Models. Providing real-time insights and remediation tips for CoreWeave AI clusters
+◦
+W&B Inference, powered by the CoreWeave Cloud Platform: gives AI developers a simple way to access and explore leading open-source AI models through the W&B platform
+◦
+W&B Weave Online Evaluations: provides real-time insights into how their AI agents are performing in production
+◦
+Held our largest ever developer event, Weights & Biases by CoreWeave Fully Connected
+•
+Developing, as part of a joint venture, a new data center campus in Kenilworth, NJ, with capacity of up to 250MW. This marks CoreWeave’s first greenfield purpose-built AI data center project, with the initial phase expected to be delivered in 2026
+•
+Successfully raised $2 billion in 9.25% Senior Unsecured Notes due 2030, upsized by $500 million due to strong demand, to drive the next generation of cloud computing for the future of AI
+
+1
+
+Revenue backlog includes remaining performance obligations, plus, subject to the satisfaction of delivery and availability of service requirements, other amounts we estimate will be recognized as revenue in future periods under committed customer contracts.
+Business Outlook 
+CoreWeave will provide forward-looking guidance in connection with this quarterly earnings announcement on its earnings conference call and webcast.
+Webcast and Conference Call Information
+CoreWeave will host an audio webcast to discuss the results for the second quarter of 2025, provide a business update, and forward-looking guidance
+
+at 2:00 pm PT / 5:00 pm ET today. The live webcast of CoreWeave’s earnings conference call can be accessed at the CoreWeave Investor Relations website at investors.coreweave.com, along with the earnings press release and earnings presentation. 
+Following the call, a replay will be available at the same website. A transcript of the conference call will be posted to the investors.coreweave.com website.
+Disclosure Information
+CoreWeave uses its investor relations page (investors.coreweave.com), its X account (@CoreWeave), and its LinkedIn page (linkedin.com/company/coreweave/) to disclose material non-public information and for complying with its disclosure obligations under Regulation FD. Accordingly, investors should monitor these websites, in addition to following CoreWeave's press releases, Securities and Exchange Commission (SEC) filings, public conference calls and public webcasts.
+About CoreWeave
+
+CoreWeave, the AI Hyperscaler™, delivers a cloud platform of cutting-edge software powering the next wave of AI. The company's technology provides enterprises and leading AI labs with cloud solutions for accelerated computing. Since 2017, CoreWeave has operated a growing footprint of data centers across the US and Europe. CoreWeave was ranked as one of the TIME100 most influential companies and featured on Forbes Cloud 100 ranking in 2024. Learn more at
+
+www.coreweave.com. 
+
+Investor Relations contact:
+Investor-Relations@coreweave.com / https://investors.coreweave.com/
+Media contact:                                     
+Press@coreweave.com / https://www.coreweave.com/about-us
+Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of applicable securities laws. Such statements are based on our current expectations, forecasts and assumptions and involve risks and uncertainties. These statements include, but are not limited to, statements related to our business; our strategy; our capital structure; our market opportunity and future growth; market trends; demand for our platform; the expected timing of the completion of our new data center campus in Kenilworth, NJ; other estimated of other amounts included in our revenue backlog figure; our plans to scale our platform; and strategic opportunities. In some cases, you can identify forward-looking statements by terms such as “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “project,” “will,” “would,” “should,” “could,” “can,” “predict,” “potential,” “target,” “explore,” “continue,” “outlook,” “guidance,” or the negative of these terms, where applicable, and similar expressions intended to identify forward-looking statements.
+Our expectations and beliefs regarding these matters may not materialize, and actual results in future periods are subject to risks and uncertainties that could cause actual results to differ materially from those projected. These risks include but are not limited to our ability to execute our business strategies and manage our growth, our ability to maintain and grow our customer base, continued demand for AI infrastructure, any disruption in our strategic relationships or disruptions with our third-party providers, including our suppliers and data center partners, our ability to develop and maintain our corporate infrastructure and internal controls, our financial performance, capital requirements and ability to raise additional capital and the impact of global political and macroeconomic conditions, including the effects of global geopolitical conflicts, inflation, tariffs, interest rates, any instability in the global banking sector and foreign currency exchange rates. More information about factors that could affect our operating results is included under the captions "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our most recent filings with the SEC, including in our Quarterly Report on Form 10-Q for the quarter ended June  30, 2025, copies of which may be obtained by visiting our Investor Relations website at https://investors.coreweave.com or the SEC's website at www.sec.gov. Forward-looking statements speak only as of the date the statements are made and are based on information available to us at the time those statements are made and/or management’s good faith belief as of that time with respect to future events. Additionally, the forward-looking statements in this press release do not include the potential impact of any acquisitions that may be announced and/or completed after the date hereof. We assume no obligation to update forward-looking statements to reflect events or circumstances after the date they were made, except as required by law.
+Non-GAAP Financial Measures
+To supplement our consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States (“GAAP”), we use adjusted EBITDA and adjusted EBITDA margin, adjusted operating income (loss) and adjusted operating income (loss) margin, adjusted net income (loss) and adjusted net income (loss) margin, collectively, to help us evaluate our business. We use such non-GAAP financial measures to make strategic decisions, establish business plans and forecasts, identify trends affecting our business, and evaluate operating performance. We believe that these non-GAAP financial measures, when taken collectively, may be helpful to investors because they allow for greater transparency into what measures we use in operating our business and measuring our performance and enable comparison of financial trends and results between periods where items may vary independent of business performance. These non-GAAP financial measures are presented for supplemental informational purposes only, should not be considered a substitute for financial information presented in accordance with GAAP, and may be different from similarly titled non-GAAP measures used by other companies. Forward-looking non-GAAP financial measures are presented on a non-GAAP basis without reconciliation due to the inherent difficulty in forecasting and quantifying certain amounts that are necessary for such reconciliations. Accordingly, a reconciliation of these forward-looking non-GAAP financial measures are not available without unreasonable effort.
+A reconciliation is provided below for each historical non-GAAP financial measure to the most directly comparable financial measure stated in accordance with GAAP. CoreWeave encourages investors to review the related U.S. GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measures, and not to rely on any single financial measure to evaluate CoreWeave’s business.
+COREWEAVE, INC. 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(in thousands, except per share data)
+
+Three Months Ended June 30, | Six Months Ended June 30,
+
+2025 | 2024 | 2025 | 2024
+
+Revenue | $ | 1,212,788 | $ | 395,371 | $ | 2,194,420 | $ | 584,055
+
+Operating expenses:
+
+Cost of revenue | 312,667 | 108,838 | 575,061 | 168,058
+
+Technology and infrastructure | 669,913 | 182,886 | 1,231,315 | 275,767
+
+Sales and marketing | 36,799 | 4,172 | 47,348 | 8,222
+
+General and administrative | 174,200 | 21,754 | 348,957 | 37,440
+
+Total operating expenses | 1,193,579 | 317,650 | 2,202,681 | 489,487
+
+Operating income (loss) | 19,209 | 77,721 | (8,261) | 94,568
+
+Gain (loss) on fair value adjustments | — | (310,231) | 26,837 | (407,731)
+
+Interest expense, net | (266,966) | (66,766) | (530,801) | (107,422)
+
+Other income (expense), net | 5,023 | 16,406 | 886 | 23,866
+
+Loss before provision for (benefit from) income taxes | (242,734) | (282,870) | (511,339) | (396,719)
+
+Provision for (benefit from) income taxes | 47,775 | 40,151 | 93,811 | 55,550
+
+Net loss | $ | (290,509) | $ | (323,021) | $ | (605,150) | $ | (452,269)
+
+Net loss attributable to common stockholders, basic | $ | (290,509) | $ | (338,617) | $ | (633,872) | $ | (467,865)
+
+Net loss attributable to common stockholders, diluted | $ | (290,509) | $ | (338,617) | $ | (660,717) | $ | (467,865)
+
+Net loss per share attributable to common stockholders, basic | $ | (0.60) | $ | (1.62) | $ | (1.73) | $ | (2.23)
+
+Net loss per share attributable to common stockholders, diluted | $ | (0.60) | $ | (1.62) | $ | (1.79) | $ | (2.23)
+
+Weighted-average shares used in computing net loss per share attributable to common stockholders, basic | 486,591 | 209,626 | 366,765 | 209,560
+
+Weighted-average shares used in computing net loss per share attributable to common stockholders, diluted | 486,591 | 209,626 | 368,607 | 209,560
+
+COREWEAVE, INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except per share data)
+
+June 30, 2025 | December 31, 2024
+
+Assets
+
+Current assets
+
+Cash and cash equivalents | $ | 1,152,883 | $ | 1,361,083
+
+Restricted cash and cash equivalents, current | 560,173 | 37,394
+
+Accounts receivable, net | 1,933,698 | 416,526
+
+Prepaid expenses and other current assets | 299,229 | 101,246
+
+Total current assets | 3,945,983 | 1,916,249
+
+Restricted cash and cash equivalents, non-current | 340,527 | 637,356
+
+Restricted marketable securities, non-current | — | 29,308
+
+Property and equipment, net | 16,631,510 | 11,914,774
+
+Operating lease right-of-use assets | 3,380,201 | 2,589,547
+
+Intangible assets, net | 205,895 | 4,909
+
+Goodwill | 812,970 | 19,544
+
+Other non-current assets | 924,277 | 720,912
+
+Total assets | $ | 26,241,363 | $ | 17,832,599
+
+Liabilities, Redeemable Convertible Preferred Stock, Redeemable Common Stock, and Stockholders’ Equity (Deficit)
+
+Current liabilities
+
+Accounts payable | $ | 1,226,579 | $ | 868,259
+
+Accrued liabilities | 1,411,237 | 355,821
+
+Debt, current | 3,627,664 | 2,468,425
+
+Deferred revenue, current | 951,346 | 768,927
+
+Operating lease liabilities, current | 279,080 | 213,104
+
+Finance lease liabilities, current | 60,396 | 57,801
+
+Other current liabilities | 53 | 230,244
+
+Total current liabilities | 7,556,355 | 4,962,581
+
+Debt, non-current | 7,423,837 | 5,457,915
+
+Derivative and warrant liabilities | 698 | 200,089
+
+Deferred revenue, non-current | 3,896,173 | 3,294,977
+
+Operating lease liabilities, non-current | 3,168,392 | 2,388,912
+
+Finance lease liabilities, non-current | 3,112 | 34,120
+
+Deferred tax liabilities, non-current | 245,659 | 149,232
+
+Other non-current liabilities | 126,331 | 36,260
+
+Total liabilities | 22,420,557 | 16,524,086
+
+Commitments and contingencies
+
+Redeemable convertible preferred stock and redeemable common stock
+
+Redeemable convertible preferred stock | — | 1,722,111
+
+Redeemable Class A common stock | 1,163,159 | —
+
+Stockholders’ equity (deficit)
+
+Preferred stock | — | —
+
+Class A common stock | 2 | 1
+
+Class B common stock | 0 | 0
+
+Class C common stock | — | —
+
+Treasury stock | (33,524) | (33,524)
+
+Additional paid-in capital | 4,772,825 | 1,096,160
+
+Accumulated other comprehensive income (loss) | (271) | —
+
+Accumulated deficit | (2,081,385) | (1,476,235)
+
+Total stockholders’ equity (deficit) | 2,657,647 | (413,598)
+
+Total liabilities, redeemable convertible preferred stock, redeemable common stock, and stockholders’ equity (deficit) | $ | 26,241,363 | $ | 17,832,599
+
+COREWEAVE, INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(in thousands) 
+
+Three Months Ended June 30, | Six Months Ended June 30,
+
+2025 | 2024 | 2025 | 2024
+
+Cash flows from operating activities:
+
+Net loss | $ | (290,509) | $ | (323,021) | $ | (605,150) | $ | (452,269)
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities
+
+Depreciation and amortization | 559,481 | 164,460 | 1,002,978 | 243,970
+
+Non-cash lease expense | 77,244 | 26,925 | 144,113 | 42,015
+
+Amortization of debt discounts and issuance costs and accretion of redemption premiums | 29,036 | 7,547 | 66,727 | 15,605
+
+Loss (gain) on fair value adjustments | — | 310,231 | (26,837) | 407,731
+
+Stock-based compensation | 145,005 | 7,660 | 328,978 | 15,849
+
+Deferred income taxes | 46,267 | 28,521 | 90,884 | 43,207
+
+Other non-cash reconciling items | 17,409 | (2,962) | 40,132 | (3,848)
+
+Changes in operating assets and liabilities, net of effect of business acquisition:
+
+Accounts receivable | (865,946) | (235,076) | (1,504,696) | (180,748)
+
+Prepaid expenses and other current assets | (110,519) | (21,592) | (120,448) | 1,636
+
+Accounts payable and accrued expenses | (351,500) | 182,553 | (289,173) | 697,848
+
+Deferred revenue | 758,796 | 84,916 | 742,892 | 1,524,487
+
+Lease liabilities | (59,342) | (14,889) | (110,451) | (20,708)
+
+Other non-current assets | (206,673) | (333,097) | 49,968 | (413,561)
+
+Net cash provided by (used in) operating activities | (251,251) | (117,824) | (190,083) | 1,921,214
+
+Cash flows from investing activities:
+
+Purchase of property and equipment, including capitalized internal-use software | (2,452,992) | (2,247,161) | (3,860,351) | (3,989,096)
+
+Sale of available-for-sale marketable securities | — | 840 | — | 840
+
+Maturities of marketable securities | — | 47,822 | 29,308 | 47,822
+
+Purchase of restricted marketable securities | — | — | — | (29,308)
+
+Purchase of strategic investments | — | (50,000) | — | (50,000)
+
+Sale of warrants received as lease incentive | 100,645 | — | 100,645 | —
+
+Business combination, net of cash acquired | (45,706) | — | (45,706) | —
+
+Issuance of notes receivable | (18,000) | — | (73,000) | —
+
+Other investing activities | (26,109) | (1,433) | (26,109) | (1,433)
+
+Net cash provided by (used in) investing activities | (2,442,162) | (2,249,932) | (3,875,213) | (4,021,175)
+
+Cash flows from financing activities:
+
+Proceeds from issuance of debt | 3,647,767 | 889,894 | 4,432,723 | 1,821,541
+
+Repayments of debt | (1,303,763) | (69,460) | (1,574,867) | (74,416)
+
+Payment of debt issuance costs | (36,536) | (3,479) | (36,536) | (3,479)
+
+Issuance of redeemable convertible preferred stock, net of issuance costs | — | 1,147,476 | — | 1,172,476
+
+Redeemable convertible preferred stock cash dividends paid | (2,592) | — | (28,693) | —
+
+Proceeds from exercise of stock options | 1,744 | 597 | 4,538 | 642
+
+Proceeds from initial public offering, net of underwriting discounts and commissions | — | — | 1,422,619 | —
+
+Issuance of common stock, net of underwriting discounts and commissions | 67,669 | — | 67,669 | —
+
+Payment of tax withholdings on settlement of RSUs and RSAs | (116,873) | — | (132,558) | —
+
+Deferred offering costs paid | (10,893) | — | (27,763) | —
+
+Other financing activities | (17,343) | (24,739) | (44,086) | (56,980)
+
+Net cash provided by (used in) financing activities | $ | 2,229,180 | $ | 1,940,289 | $ | 4,083,046 | $ | 2,859,784
+
+Net increase in cash, cash equivalents, and restricted cash | $ | (464,233) | $ | (427,467) | $ | 17,750 | $ | 759,823
+
+Cash, cash equivalents, and restricted cash—beginning of period | 2,517,816 | 1,667,365 | 2,035,833 | 480,075
+
+Cash, cash equivalents, and restricted cash—end of period | $ | 2,053,583 | $ | 1,239,898 | $ | 2,053,583 | $ | 1,239,898
+
+Reconciliation of GAAP to Non-GAAP Results
+Reconciliation of Net Loss to Adjusted EBITDA
+(in thousands, except percentages)
+
+Three Months Ended June 30, | Six Months Ended June 30,
+
+2025 | 2024 | 2025 | 2024
+
+Net loss | $ | (290,509) | $ | (323,021) | $ | (605,150) | $ | (452,269)
+
+Depreciation and amortization | 559,481 | 164,460 | 1,002,978 | 243,970
+
+Interest expense, net | 266,966 | 66,766 | 530,801 | 107,422
+
+Stock-based compensation | 145,005 | 7,660 | 328,978 | 15,849
+
+Provision for (benefit from) income taxes | 47,775 | 40,151 | 93,811 | 55,550
+
+Acquisition related costs (1) | 29,474 | — | 35,604 | —
+
+Other expense (income), net | (5,023) | (16,406) | (886) | (23,866)
+
+(Gain) loss on fair value adjustments (2) | — | 310,231 | (26,837) | 407,731
+
+Adjusted EBITDA | $ | 753,169 | $ | 249,841 | $ | 1,359,299 | $ | 354,387
+
+Revenue | $ | 1,212,788 | $ | 395,371 | $ | 2,194,420 | $ | 584,055
+
+Net loss margin | (24) | % | (82) | % | (28) | % | (77) | %
+
+Adjusted EBITDA margin | 62 | % | 63 | % | 62 | % | 61 | %
+
+(1) Acquisition related costs include direct transaction costs, such as due diligence, advisory, and professional services fees, and certain compensation and integration related expenses. We exclude acquisition related costs, as we believe these transaction-specific expenses are inconsistent in amount and frequency, and do not correlate to the operation of our business.
+(2) Represents adjustments related to recording our derivative liabilities at fair value at the end of each reporting period for our 2021 Convertible Senior Secured Notes, warrant liabilities related to our 2022 Senior Secured Notes, and the fair value remeasurement of the option liability in connection with our Series B financing. Refer to Note 3. Fair Value Measurements to our consolidated financial statements included in our Quarterly Report on Form 10-Q filed or to be filed with the SEC for the quarter ended June 30, 2025 for additional information. 
+Reconciliation of Operating Income to Adjusted Operating Income
+(in thousands, except percentages)
+
+Three Months Ended June 30, | Six Months Ended June 30,
+
+2025 | 2024 | 2025 | 2024
+
+Operating income (loss) | $ | 19,209 | $ | 77,721 | $ | (8,261) | $ | 94,568
+
+Stock-based compensation | 145,005 | 7,660 | 328,978 | 15,849
+
+Acquisition related costs (1) | 29,474 | — | 35,604 | —
+
+Amortization of acquired intangibles (2) | 6,100 | — | 6,100 | —
+
+Adjusted operating income | $ | 199,788 | $ | 85,381 | $ | 362,421 | $ | 110,417
+
+Revenue | $ | 1,212,788 | $ | 395,371 | $ | 2,194,420 | $ | 584,055
+
+Operating income (loss) margin | 2 | % | 20 | % | 0 | % | 16 | %
+
+Adjusted operating income margin | 16 | % | 22 | % | 17 | % | 19 | %
+
+(1) Acquisition related costs include direct transaction costs, such as due diligence, advisory, and professional services fees, and certain compensation and integration related expenses. We exclude acquisition related costs, as we believe these transaction-specific expenses are inconsistent in amount and frequency, and do not correlate to the operation of our business.
+(2) In the second quarter of 2025, we began including an adjustment for the amortization of acquired intangibles in our calculation of adjusted operating income (loss). Prior period non-GAAP calculations for acquired intangible amortization are not being adjusted as these amounts were insignificant.
+Reconciliation of Net Loss to Adjusted Net Loss
+(in thousands, except percentages)
+
+Three Months Ended June 30, | Six Months Ended June 30,
+
+2025 | 2024 | 2025 | 2024
+
+Net loss | $ | (290,509) | $ | (323,021) | $ | (605,150) | $ | (452,269)
+
+Stock-based compensation | 145,005 | 7,660 | 328,978 | 15,849
+
+Acquisition related costs (1) | 29,474 | — | 35,604 | —
+
+Amortization of acquired intangibles (2) | 6,100 | — | 6,100 | —
+
+Loss on extinguishment of debt (3) | 8,487 | — | 10,305 | —
+
+(Gain) loss on fair value adjustments (4) | — | 310,231 | (26,837) | 407,731
+
+Other adjustments (5) | (10,690) | — | (10,690) | —
+
+Income tax effect related to the above adjustments (6) | (18,673) | — | (18,673) | —
+
+Adjusted net loss | $ | (130,806) | $ | (5,130) | $ | (280,363) | $ | (28,689)
+
+Revenue | $ | 1,212,788 | $ | 395,371 | $ | 2,194,420 | $ | 584,055
+
+Net loss margin | (24) | % | (82) | % | (28) | % | (77) | %
+
+Adjusted net loss margin | (11) | % | (1) | % | (13) | % | (5) | %
+
+(1)  Acquisition related costs include direct transaction costs, such as due diligence, advisory, and professional services fees, and certain compensation and integration related expenses. We exclude acquisition related costs, as we believe these transaction-specific expenses are inconsistent in amount and frequency, and do not correlate to the operation of our business.
+(2) In the second quarter of 2025, we began including an adjustment for the amortization of acquired intangibles in our calculation of adjusted net loss. Prior period non-GAAP calculations for acquired intangible amortization are not being adjusted as these amounts were insignificant.
+(3) Primarily relates to accelerated amortization of debt discount and debt issuance costs related to our 2024 Term Loan, which was repaid in connection with the IPO.
+(4) Represents adjustments related to recording our derivative liabilities at fair value at the end of each reporting period for our 2021 Convertible Senior Secured Notes, warrant liabilities related to our 2022 Senior Secured Notes, and the fair value remeasurement of the option liability in connection with our Series B financing. Refer to Note 3. Fair Value Measurements to our consolidated financial statements included in our Quarterly Report on Form 10-Q filed or to be filed with the SEC for the quarter ended June 30, 2025 for additional information. 
+(5) Primarily relates to a gain on the sale of warrants received as a lease incentive.
+(6) In the second quarter of 2025, we began including an adjustment for the income tax effect related to our non-GAAP adjustments. Prior period non-GAAP calculations for the income tax effects on our non-GAAP adjustments are not being adjusted as these amounts were not material. 
+

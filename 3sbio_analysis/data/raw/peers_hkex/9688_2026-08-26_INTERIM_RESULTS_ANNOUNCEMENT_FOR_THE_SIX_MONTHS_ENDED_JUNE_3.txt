@@ -1,0 +1,2024 @@
+Hong  Kong  Exchanges  and  Clearing  Limited  and  The  Stock  Exchange  of  Hong  Kong  Limited  take  no  responsibility  for  the 
+
+contents  of  this  announcement,  make  no  representation  as  to  its  accuracy  or  completeness  and  expressly  disclaim  any  liability 
+
+whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+Zai Lab Limited
+再 鼎 醫 藥 有 限 公 司 *
+
+(incorporated in the Cayman Islands with limited liability)
+(Stock Code: 9688)
+
+INTERIM RESULTS ANNOUNCEMENT
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+The Company hereby announces the unaudited condensed consolidated results of the Company for 
+the  Reporting  Period,  together  with  the  comparative  figures  for  the  corresponding  period  in  2025, 
+which  have  been  prepared  in  accordance  with  U.S.  GAAP  and  reviewed  by  the  Audit  Committee. 
+This  announcement,  which  contains  the  full  text  of  the  2026  interim  report  of  the  Company, 
+complies  with  the  relevant  requirements  of  the  HK  Listing  Rules  in  relation  to  information  to 
+accompany preliminary announcement of interim results.
+
+FINANCIAL HIGHLIGHTS
+
+Six months ended June 30, 2026 vs. six months ended June 30, 2025 (in U.S. dollars)
+
+•  Net product revenue decreased by $13.4 million, or 6%, to $201.3 million, primarily driven 
+by  decreased  revenue  for  ZEJULA,  due  to  a  shift  in  hospital  utilization  patterns  following 
+volume-based procurement for generic olaparib, and VYVGART, primarily due to a pricing 
+adjustment  related  to  NRDL  renewal.  These  decreases  were  partially  offset  by  increased 
+sales for XACDURO, driven by strong patient demand and expanding hospital adoption but 
+partially  constrained  by  supply  limitations,  and  increased  sales  for  NUZYRA,  supported  by 
+increased market coverage and penetration.
+
+•  Research and development expenses increased by $16.0 million, or 14%, to $127.4 million, 
+primarily  driven  by  an  increase  in  licensing  fees  under  our  license  and  collaboration 
+agreements.
+
+•  Net loss increased by $12.7 million, or 14%, to $101.8 million, primarily due to an increase 
+
+in licensing fees.
+
+•  Basic and diluted loss per ordinary share was $0.09, representing a 12% increase from $0.08.
+
+Publication of Interim Results and Interim Report
+
+is  published  on 
+
+This  announcement 
+the  Hong  Kong  Stock  Exchange 
+(www.hkexnews.hk)  and  the  website  of  the  Company  (www.zailaboratory.com).  The  interim 
+report of the Company for the Reporting Period will be published on the aforesaid websites and (if 
+applicable) dispatched to the Company’s shareholders in due course.
+
+the  website  of 
+
+By order of the Board
+Zai Lab Limited
+Samantha Du
+Director, Chairperson, and Chief Executive Officer
+
+Hong Kong, August 26, 2026
+
+As  at  the  date  of  this  announcement,  the  board  of  directors  of  the  Company  comprises  Dr.  Samantha  Du  and  Mr.  Leon  O. 
+Moulder, Jr. as directors, and Dr. John Diekman, Dr. Richard Gaynor, Ms. Nisa Leung, Mr. William Lis, Mr. Scott W. Morrison, 
+Mr. Michel Vounatsos and Mr. Peter Wirth as independent directors.
+
+*  For identification only
+
+Incorporated in the Cayman Islands 
+with limited liability
+
+HKEX: 9688
+
+NASDAQ: ZLAB
+
+2026
+Interim
+Report
+
+CONTENTS
+
+CORPORATE INFORMATION 
+
+FORWARD-LOOKING STATEMENTS 
+
+MANAGEMENT DISCUSSION AND ANALYSIS 
+
+OTHER INFORMATION 
+
+UNAUDITED CONDENSED CONSOLIDATED  
+BALANCE SHEETS 
+
+UNAUDITED CONDENSED CONSOLIDATED  
+STATEMENTS OF OPERATIONS 
+
+UNAUDITED CONDENSED CONSOLIDATED  
+STATEMENTS OF COMPREHENSIVE LOSS 
+
+UNAUDITED CONDENSED CONSOLIDATED  
+STATEMENTS OF SHAREHOLDERS’ EQUITY 
+
+UNAUDITED CONDENSED CONSOLIDATED  
+STATEMENTS OF CASH FLOWS 
+
+NOTES TO THE UNAUDITED CONDENSED  
+CONSOLIDATED FINANCIAL STATEMENTS 
+
+GLOSSARY 
+
+2
+
+4
+
+7
+
+27
+
+55
+
+57
+
+58
+
+59
+
+60
+
+62
+
+80
+
+BOARD OF DIRECTORS 
+Directors 
+
+Dr. Samantha Du (Chairperson and Chief Executive Officer) 
+
+Mr.  Leon  O.  Moulder,  Jr. (re-designated as Director with effect 
+
+HEAD OFFICE AND PRINCIPAL 
+PLACE OF BUSINESS IN 
+HONG KONG 
+Room 2301, 23/F
+
+from March 5, 2026) 
+
+Independent Directors 
+
+Island Place Tower
+
+510 King’s Road
+
+North Point, Hong Kong
+
+Dr. John Diekman (Lead Independent Director) 
+
+P.R. China
+
+Dr. Richard Gaynor
+
+Ms. Nisa Leung
+
+Mr. William Lis
+
+Mr. Scott W. Morrison
+
+REGISTERED OFFICE 
+Harbour Place, 2nd Floor
+
+103 South Church Street
+
+Mr. Leon O. Moulder, Jr. (ceased to be an independent director 
+
+P.O. Box 472
+
+with effect from 5 March 2026) 
+
+Mr. Michel Vounatsos
+
+Mr. Peter Wirth 
+
+George Town
+
+Grand Cayman KY1-1106
+
+Cayman Islands
+
+HEAD OFFICE AND PRINCIPAL 
+PLACE OF BUSINESS IN 
+MAINLAND CHINA 
+Building B
+
+899 Halei Road
+
+Pudong, Shanghai, 201203
+
+P.R. China
+
+HEAD OFFICE AND PRINCIPAL 
+PLACE OF BUSINESS IN 
+THE UNITED STATES
+314 Main Street
+
+4th Floor, Suite 100
+
+Cambridge, MA 02142
+
+USA
+
+PRINCIPAL SHARE REGISTRAR AND 
+TRANSFER AGENT 
+International Corporation Services Ltd
+
+Harbour Place, 2nd Floor
+
+103 South Church Street
+
+P.O. Box 472
+
+George Town
+
+Grand Cayman KY1-1106
+
+Cayman Islands
+
+HONG KONG SHARE REGISTRAR AND 
+TRANSFER AGENT
+Computershare Hong Kong Investor Services Limited
+
+Shops 1712–1716
+
+17th Floor, Hopewell Centre
+
+183 Queen’s Road East
+
+Wanchai, Hong Kong
+
+P.R. China
+
+2
+
+CORPORATE INFORMATIONAUTHORIZED REPRESENTATIVES 
+Dr. Samantha Du
+
+COMMERCIAL COMMITTEE
+Mr. Michel Vounatsos (Chairperson) 
+
+Building B
+
+899 Halei Road 
+
+Pudong, Shanghai, 201203
+
+P.R. China
+
+Mr. F. Ty Edmondson
+
+314 Main Street 
+
+4th Floor, Suite 100 
+
+Cambridge, MA 02142 
+
+USA
+
+AUDIT COMMITTEE 
+Mr. Scott W. Morrison (Chairperson) 
+
+Mr. William Lis
+
+Mr. Peter Wirth
+
+Mr. William Lis 
+
+Mr. Leon O. Moulder, Jr. 
+
+COMPANY SECRETARY
+Mr. F. Ty Edmondson 
+
+314 Main Street 
+
+4th Floor, Suite 100 
+
+Cambridge, MA 02142 
+
+USA
+
+AUDITORS 
+As to Hong Kong financial reporting audit
+
+KPMG
+
+Public Interest Entity Auditor registered in accordance with the 
+
+Accounting and Financial Reporting Council Ordinance
+
+COMPENSATION COMMITTEE 
+Mr. Peter Wirth (Chairperson) 
+
+As to United States financial reporting audit
+
+KPMG LLP
+
+Dr. John Diekman
+
+Dr. Richard Gaynor
+
+A public accounting firm registered with the U.S. Public Company 
+
+Accounting Oversight Board
+
+NOMINATING AND CORPORATE 
+GOVERNANCE COMMITTEE 
+Dr. John Diekman (Chairperson) 
+
+STOCK CODES 
+HKEX: 9688 
+
+NASDAQ: ZLAB 
+
+COMPANY WEBSITE
+http://www.zailaboratory.com/
+
+Ms. Nisa Leung
+
+Mr. Michel Vounatsos
+
+Mr. Peter Wirth
+
+RESEARCH AND DEVELOPMENT 
+COMMITTEE
+Dr. Richard Gaynor (Chairperson) 
+
+Dr. Samantha Du
+
+Mr. Leon O. Moulder, Jr.
+
+Mr. Michel Vounatsos
+
+3
+
+CORPORATE INFORMATIONThis  report  contains  certain  forward-looking  statements,  including  statements  relating  to  our  strategy  and  plans;  potential  of  and 
+
+expectations  for  our  business,  commercial  products,  and  pipeline  programs;  the  market  for  our  commercial  and  pipeline  products; 
+
+capital allocation and investment strategy; clinical development programs and related clinical trials; clinical trial data, data readouts, 
+
+and  presentations;  risks  and  uncertainties  associated  with  drug  development  and  commercialization;  regulatory  discussions, 
+
+submissions,  filings,  and  approvals  and  the  timing  thereof;  the  potential  benefits,  safety,  and  efficacy  of  our  products  and  product 
+
+candidates and those of our collaboration partners; the anticipated benefits and potential of investments, collaborations, and business 
+
+development  activities;  our  profitability;  and  our  future  financial  and  operating  results.  All  statements,  other  than  statements  of 
+
+historical  fact,  included  in  this  report  are  forward-looking  statements,  and  can  be  identified  by  words  such  as  “aim,”  “anticipate,” 
+
+“believe,”  “contemplate,”  “continue,”  “could,”  “estimate,”  “expect,”  “forecast,”  “goal,”  “intend,”  “may,”  “plan,”  “possible,” 
+
+“potential,”  “predict,”  “project,”  “seek,”  “should,”  “target,”  “will,”  “would,”  or  the  negative  of  these  terms  or  similar  expressions. 
+
+Such  statements  constitute  forward-looking  statements  within  the  meaning  of  the  Private  Securities  Litigation  Reform  Act  of  1995. 
+
+Forward-looking  statements  are  not  guarantees  or  assurances  of  future  performance.  Forward-looking  statements  are  based  on 
+
+our  expectations  and  assumptions  as  of  the  date  of  this  report  and  are  subject  to  inherent  uncertainties,  risks,  and  changes  in 
+
+circumstances that may differ materially from those contemplated by the forward-looking statements. We may not actually achieve 
+
+the  plans,  carry  out  the  intentions,  or  meet  the  expectations  or  projections  disclosed  in  our  forward-looking  statements,  and  you 
+
+should  not  place  undue  reliance  on  these  forward-looking  statements.  Actual  results  may  differ  materially  from  those  indicated  by 
+
+such forward-looking statements as a result of various important factors, including but not limited to the following:
+
+• 
+
+• 
+
+• 
+
+• 
+
+Our ability to successfully commercialize and generate revenue from our approved products;
+
+Our ability to obtain funding for our operations and business initiatives;
+
+The results of our clinical and pre-clinical development of our product candidates;
+
+The content and timing of decisions made by the relevant regulatory authorities regarding regulatory approvals of our product 
+
+candidates;
+
+• 
+
+Any  inability  of  third  parties  on  whom  we  rely,  such  as  our  licensors,  CMOs,  and  others  that  supply  certain  of  our  products 
+
+and product candidates; CROs that conduct or support some of our pre-clinical and clinical trials; and distributors that sell our 
+
+commercial products, to successfully carry out their contractual duties or meet expected deadlines;
+
+• 
+
+Any  issues  that  our  Chinese  manufacturing  facilities  may  have  with  operating  in  conformity  with  established  GMPs  and 
+
+international best practices, and with passing FDA, NMPA, and EMA inspections;
+
+• 
+
+• 
+
+Any inability to obtain or maintain sufficient patent protection for our products and product candidates;
+
+Changes  in  U.S.  and  China  trade  policies  and  relations,  as  well  as  relations  with  other  countries,  and/or  changes  in  laws, 
+
+regulations, and/or sanctions;
+
+4
+
+FORWARD-LOOKING STATEMENTS• 
+
+• 
+
+• 
+
+Actions the Chinese government may take to intervene in or influence our operations;
+
+Economic, political, and social conditions in mainland China as well as governmental policies;
+
+Significant business disruptions caused by events or developments outside of our control, such as pandemics, international war 
+
+or conflict, natural disasters or extreme weather events, and other geopolitical events;
+
+• 
+
+Uncertainties in the Chinese legal system, including with respect to the anti-corruption enforcement efforts in mainland China 
+
+and those addressing espionage, protection of and transfer restrictions on data, including personal information, data processing 
+
+and security, and cybersecurity, and other future laws and regulations or amendments to such laws and regulations;
+
+• 
+
+Approval,  filing,  or  procedural  requirements  imposed  by  the  China  Securities  Regulatory  Commission  or  other  Chinese 
+
+regulatory authorities in connection with issuing securities to foreign investors under Chinese law;
+
+• 
+
+Any  violation  or  liability  under  the  U.S.  Foreign  Corrupt  Practices  Act  or  Chinese  anti-corruption,  anti-bribery,  and  anti-fraud 
+
+laws;
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Variations in currency exchange rates and restrictions on currency exchange;
+
+Limitations on the ability of our Chinese subsidiaries to make payments to us;
+
+Chinese requirements on the ability of residents in mainland China to establish offshore special purpose companies;
+
+Chinese regulations regarding acquisitions of companies based in mainland China by foreign investors;
+
+Expiration of, or changes to, financial incentives or discretionary policies granted by local governments in mainland China;
+
+Restrictions  or  limitations  on  the  ability  of  overseas  regulators  to  conduct  investigations  or  collect  evidence  within  mainland 
+
+China;
+
+• 
+
+Unfavorable tax consequences to us and our non-Chinese shareholders or ADS holders if we were to be classified as a Chinese 
+
+resident enterprise for Chinese income tax purposes;
+
+• 
+
+Failure to comply with applicable Chinese, U.S., and Hong Kong regulations that could lead to government enforcement actions, 
+
+fines, other legal or administrative sanctions, and/or harm to our business or reputation; 
+
+• 
+
+• 
+
+Delays or obstacles for closing transactions, such as review by the CFIUS in our investments; and
+
+Any inability to renew our current leases on desirable terms or otherwise locate desirable alternatives for our leased properties.
+
+5
+
+FORWARD-LOOKING STATEMENTSThese factors should not be construed as exhaustive and should be read with the other cautionary statements and information in our 
+
+2025  Annual  Report,  our  Annual  Report  on  Form  10-K  for  2025,  our  Quarterly  Reports  on  Form  10-Q,  and  our  other  filings  with  the 
+
+SEC. Forward-looking statements are based on our management’s beliefs and assumptions and information currently available to our 
+
+management. These statements, like all statements in this report, speak only as of their date. We anticipate that subsequent events 
+
+and  developments  will  cause  our  expectations  and  assumptions  to  change,  and  we  undertake  no  obligation  to  update  or  revise  any 
+
+forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required by law. 
+
+These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this 
+
+report. 
+
+6
+
+FORWARD-LOOKING STATEMENTSThe  following  management  discussion  and  analysis  should  be  read  in  conjunction  with  our  2025  Annual  Report  and  our  unaudited 
+
+condensed consolidated financial statements and the accompanying notes thereto included in this report. 
+
+OVERVIEW 
+
+We  are  a  patient-focused,  innovative,  commercial-stage,  global  biopharmaceutical  company  with  a  substantial  presence  in  both 
+
+Greater China and the United States. We are focused on discovering, developing, and commercializing products that address medical 
+
+conditions  with  significant  unmet  needs  in  the  areas  of  oncology,  immunology,  neuroscience,  and  infectious  disease.  We  intend 
+
+to  leverage  our  competencies  and  resources  to  positively  impact  human  health.  We  currently  have  eight  commercial  programs  — 
+
+ZEJULA,  VYVGART/VYVGART  Hytrulo,  NUZYRA,  OPTUNE,  QINLOCK,  XACDURO,  AUGTYRO,  and  KarXT  —  with  products  that  have 
+
+received marketing approval and that we have commercially launched in China. We also have multiple programs in late-stage product 
+
+development and a number of ongoing pivotal trials across our portfolio.
+
+Since  our  inception,  we  have  incurred  net  losses  and  negative  cash  flows  from  our  operations.  Substantially  all  of  our  losses  have 
+
+resulted  from  funding  our  research  and  development  programs  and  selling,  general,  and  administrative  costs  associated  with  our 
+
+operations.  Developing  high  quality  product  candidates  requires  significant  investment  in  our  research  and  development  activities 
+
+over a prolonged period of time, and a core part of our strategy is to continue making sustained investments in this area. Our ability to 
+
+generate profits and positive cash flow from operations depends upon our ability to successfully market our commercial products and 
+
+to successfully expand the indications for these products and develop and commercialize our other product candidates. As discussed 
+
+further  below,  we  expect  to  continue  to  incur  substantial  costs  related  to  our  research  and  development  and  commercialization 
+
+activities.
+
+As  we  pursue  our  corporate  strategic  goals,  we  anticipate  that  our  financial  results  will  fluctuate  from  quarter  to  quarter  and 
+
+year  to  year  depending  in  part  on  the  balance  between  the  success  of  our  commercial  products  and  the  level  of  our  research  and 
+
+development expenses. We cannot predict whether or when our product candidates will receive regulatory approval. Further, if we 
+
+receive such regulatory approval, we cannot predict whether or when we may be able to successfully commercialize such products or 
+
+whether or when such products may become profitable. 
+
+Recent Developments 
+
+Commercial Products 
+
+Net product revenue was $201.3 million for the six months ended June 30, 2026, a decrease of 6% compared to the prior year period, 
+
+primarily driven by decreased revenue for ZEJULA, due to a shift in hospital utilization patterns following volume-based procurement 
+
+for  generic  olaparib,  and  VYVGART,  primarily  due  to  a  pricing  adjustment  related  to  NRDL  renewal.  These  decreases  were  partially 
+
+offset by increased sales for XACDURO, driven by strong patient demand and expanding hospital adoption but partially constrained by 
+
+supply limitations, and increased sales for NUZYRA, supported by increased market coverage and penetration. 
+
+7
+
+MANAGEMENT DISCUSSION AND ANALYSISIn  June  2026,  we  launched KarXT in  mainland  China  for  the  treatment  of  schizophrenia  in  adults.  KarXT  is  the  first  schizophrenia 
+
+therapy  with  a  novel  mechanism  of  action  approved  in  over  70  years,  offering  a  new  approach to  treating  schizophrenia  through 
+
+selective activation of M1 and M4 muscarinic receptors. We are preparing to seek inclusion of KarXT in China’s NRDL in 2027.
+
+Product Candidates 
+
+We  continued  to  advance  our  product  candidates  through  our  research  and  development  activities,  including  the  following 
+
+developments with respect to our clinical trials and regulatory approvals:
+
+Oncology
+
+• 
+
+Zocilurtatug  Pelitecan  (Zoci,  DLL3-Targeting  ADC)  (formerly  ZL-1310):  In  April  2026,  we  presented  compelling  clinical  data 
+
+at  the  AACR  Annual  Meeting  2026  demonstrating  that  zoci  delivers  rapid  and  robust  intracranial  responses  in  patients  with 
+
+previously treated ES-SCLC and brain metastases as measured by blinded independent assessment using mRANO-BM criteria, as 
+
+well as promising data in patients with extrapulmonary NECs.
+
+ 
+
+SCLC with Brain Metastases:  Zoci  showed  a  53.7%  confirmed  intracranial  objective  response  rate  with  62.5%  (10/16)  at 
+
+the  1.6  mg/kg  dose,  including  complete  responses.  Notably,  responses  were  observed  in  patients  without  prior  brain 
+
+radiotherapy  (9/15,  60%),  highlighting  the  net  drug  effect  on  the  intracranial  lesions.  Zoci  was  well  tolerated,  with 
+
+Grade ≥3 TRAEs in 19.9% (27/136) of the overall population and in 16.4% (9/55) of patients who received 1.6 mg/kg.
+
+ 
+
+Extrapulmonary NECs:  Encouraging  activity  was  observed  with  a  38.2%  confirmed  objective  response  rate  across 
+
+extrapulmonary  NECs  of  different  primary  origins.  The  safety  profile  in  extrapulmonary  NECs  was  consistent  with  that 
+
+previously observed in SCLC with Grade ≥3 TRAEs in 15.2% of patients in Phase 1b. We are actively engaging with health 
+
+authorities on a registrational plan for extrapulmonary NECs.
+
+Combination Collaborations: In  April  2026,  we  announced  a  global  clinical  trial  collaboration  with  Amgen  to  evaluate  zoci  in 
+
+combination  with  Amgen’s  IMDELLTRA®  (tarlatamab-dlle),  a  DLL3/CD3  bispecific  T-cell  engager,  for  ES-SCLC  and  a  clinical 
+
+collaboration with Boehringer Ingelheim to evaluate zoci in combination with obrixtamig, a DLL3/CD3 bispecific T-cell engager, 
+
+for SCLC and other NECs. In April 2026, Amgen initiated enrollment in the global Phase 1b study (DeLLphi-313) evaluating zoci in 
+
+combination with tarlatamab with or without anti-PD-L1 in patients with SCLC.
+
+Regulatory Designations: In May 2026, we received Fast Track Designation from the FDA for zoci for the treatment of patients 
+
+with extrapulmonary NECs. This is the second FDA Fast Track Designation for zoci. In June 2026, we received ODD from the EMA 
+
+for  zoci  for  the  treatment  of  patients  with  pulmonary  NECs,  and  in  July  2026,  we  received  ODD  from  the  FDA  for  zoci  for  the 
+
+treatment of NECs.
+
+8
+
+MANAGEMENT DISCUSSION AND ANALYSIS 
+ 
+• 
+
+TIVDAK (tisotumab vedotin): In June 2026, China’s NMPA approved the BLA for TIVDAK for the treatment of adult patients with 
+
+recurrent or metastatic cervical cancer with disease progression on or after chemotherapy. TIVDAK is the first ADC approved in 
+
+China for this indication. TIVDAK demonstrated a statistically significant overall survival benefit in the global Phase 3 innovaTV 
+
+301 clinical trial, including in the trial’s China subpopulation.
+
+• 
+
+Tumor Treating Fields (TTFields): We participated in the Greater China portion of the Phase 3 pivotal PANOVA-3 trial evaluating 
+
+the efficacy of TTFields therapy administered concomitantly with gemcitabine and nab-paclitaxel as a 1L treatment for patients 
+
+with  unresectable,  locally  advanced  pancreatic  cancer.  In  February  2026,  the  FDA  approved  TTFields,  under  the  brand  name 
+
+OPTUNE Pax, for this indication. In August 2025, the NMPA granted Innovative Medical Device Designation for TTFields therapy 
+
+for  patients  with  pancreatic  cancer  based  on  the  positive  results  from  the  Phase  3  PANOVA-3  trial.  This  designation  offers 
+
+opportunities  to  expedite  the  regulatory  review  and  approval  process.  The  trial  met  its  primary  endpoint,  demonstrating 
+
+a  statistically  significant  improvement  in  median  overall  survival  for  patients  treated  with  TTFields.  We  filed  for  regulatory 
+
+approval in mainland China in the fourth quarter of 2025 for this combination treatment in patients with unresectable, locally 
+
+advanced pancreatic cancer.
+
+Immunology, Neuroscience, and Infectious Disease
+
+• 
+
+ZL-1503  (IL-13/IL-31Rα):  In  April  2026,  we  announced  new  data  from  a  preclinical  study  of  ZL-1503,  demonstrating  that  our 
+
+internally developed long-acting IL-13/IL-31Rα bispecific antibody may lead to sustained suppression of intense pruritus (itch) 
+
+and  inflammation  caused  by  atopic  diseases.  The  findings  reinforce  the  potential  of  ZL-1503  to  be  a  first-in-class  treatment 
+
+option for moderate-to-severe atopic dermatitis and other IL-13 and IL-31-driven diseases. A global Phase 1/1b study is ongoing, 
+
+and we expect to report the first-in-human data from the global Phase 1 portion in the second half of 2026.
+
+• 
+
+Efgartigimod (FcRn): In February 2026, argenx announced topline results from the global registrational Phase 3 ADAPT-OCULUS 
+
+study of efgartigimod for the treatment of ocular MG. The study met its primary endpoint (p-value=0.012), demonstrating that 
+
+patients  living  with  ocular  MG  and  treated  with  VYVGART  demonstrated  statistically  significant  improvement  from  baseline 
+
+in  MGII  PRO  ocular  scores  at  Week  4  compared  to  placebo.  In  the  overall  population,  mean  change  from  baseline  in  patients 
+
+treated  with  VYVGART  was  a  4.04  point  improvement  in  MGII  PRO  versus  a  mean  change  of  1.99  MGII  PRO  score  in  patients 
+
+treated with placebo. VYVGART was well tolerated and had a favorable safety profile in patients with oMG, consistent with prior 
+
+studies. We participated in the study in Greater China.
+
+In  May  2026,  the  FDA  approved  the  supplemental  BLA  submitted  by  our  partner  argenx  in  January  2026  for  VYVGART  and 
+
+VYVGART Hytrulo,  expanding  the  label  to  include  all  serotypes  of  adult  patients  living  with  gMG  —  anti-AChR-Ab  positive, 
+
+anti-MuSK-Ab  positive,  anti-LRP4-Ab  positive,  and  triple  seronegative.  The  approval  is  based  on  data  from  the  Phase  3  ADAPT 
+
+SERON study. We participated in the ADAPT SERON study in Greater China.
+
+In  August  2026,  argenx  announced  positive  topline  results  from  the  ALKIVIA  Phase  3  study  evaluating  VYVGART  Hytrulo 
+
+(efgartigimod alfa and hyaluronidase-qvfc) in adults with autoimmune myositis. The study met primary endpoint of mean total 
+
+improvement score at Week 52 in the combined study population of IMNM and DM patients (p=0.0011). We participated in the 
+
+ALKIVIA study in Greater China.
+
+9
+
+MANAGEMENT DISCUSSION AND ANALYSIS 
+ 
+• 
+
+Povetacicept (Pove, Anti-APRIL/BAFF): 
+
+ 
+
+IgAN:  In  March  2026,  our  partner  Vertex  announced  positive  data  from  a  pre-specified  Week  36  interim  analysis  of  the 
+
+global  Phase  3  RAINIER  trial  of  pove  in  IgAN.  The  trial  met  its  primary  objective,  with  povetacicept-treated  patients 
+
+achieving  a  52.0%  reduction  from  baseline  in  24-hour  UPCR,  representing  a  statistically  significant  and  clinically 
+
+meaningful 49.8% UPCR reduction versus placebo (p<0.0001). Pove was generally safe and well tolerated. We participated 
+
+in the global Phase 3 study in Greater China. In June 2026, our partner Vertex announced that the FDA accepted its BLA 
+
+submission for pove for accelerated approval in adults with IgAN, with a PDUFA target action date of November 30, 2026. 
+
+We participated in the global Phase 3 RAINIER study in Greater China.
+
+ 
+
+pMN: Our partner Vertex has completed enrollment in the Phase 2 portion of the global pivotal Phase 2/3 OLYMPUS study 
+
+and has initiated the Phase 3 portion. We participated in the global study in Greater China.
+
+• 
+
+Elegrobart  (Anti-IGF-1R,  SC):  Viridian  Therapeutics  announced  positive  topline  data  from  REVEAL-1,  elegrobart’s  pivotal 
+
+Phase 3 clinical trial for active TED, and REVEAL-2, elegrobart’s pivotal Phase 3 clinical trial for chronic TED, in March 2026 and 
+
+May 2026, respectively. Elegrobart was generally well tolerated across both studies. We have an exclusive license from Zenas 
+
+BioPharma to develop and commercialize elegrobart in Greater China and are currently conducting a Phase 3 bridging study in 
+
+the region.
+
+ 
+
+REVEAL-1 in Active TED:  The  trial  met  its  primary  endpoint  with  a  highly  statistically  significant  treatment  effect.  Both 
+
+elegrobart Q4W and Q8W treatment arms showed rapid onset of treatment effect and achieved clinically meaningful 54% 
+
+and  63%  proptosis  responder  rates,  respectively,  versus  18%  placebo  at  week  24.  The  Q4W  treatment  arm  additionally 
+
+provided meaningful diplopia benefit to patients with active TED.
+
+ 
+
+REVEAL-2  in  Chronic  TED:  The  trial  met  its  primary  endpoint  with  a  highly  statistically  significant  treatment  effect. 
+
+Both  elegrobart  Q4W  and  Q8W  treatment  arms  achieved  statistically  significant  and  clinically  meaningful  50%  and  54% 
+
+proptosis  responder  rates,  respectively,  versus  15%  placebo  at  week  24.  The  Q4W  treatment  arm  additionally  provided 
+
+meaningful diplopia benefit to patients with chronic TED.
+
+Organizational Updates
+
+During  the  second  quarter,  we  continued  to  strengthen  our  business  through  key  additions  to  our  global  leadership  team.  For 
+
+example,  in  April  2026,  we  appointed  Yizhe  Wang,  Ph.D.,  as  Operating  Partner,  to  strengthen  our  commercial  capabilities  and 
+
+execution. Dr. Wang brings extensive experience in global oncology and immunology commercial operations, having led commercial 
+
+teams across China, the U.S., and the U.K. at GSK and Eli Lilly. 
+
+In May 2026, Josh Smiley, President and Chief Operating Officer, departed the Company.
+
+10
+
+MANAGEMENT DISCUSSION AND ANALYSISFactors Affecting Our Results of Operations 
+
+Our Commercial Products 
+
+We  generate  product  revenue  through  the  sale  of  our  commercial  products  in  Greater  China,  net  of  any  related  sales  returns  and 
+
+rebates  to  distributors.  Our  cost  of  product  revenue  mainly  consists  of  the  costs  of  manufacturing  ZEJULA  and  NUZYRA;  costs  of 
+
+purchasing  VYVGART/VYVGART  Hytrulo,  OPTUNE,  QINLOCK,  XACDURO,  AUGTYRO,  and  KarXT  from  our  collaboration  partners;  any 
+
+royalty fees incurred as a result of sales of our commercial products under our license and collaboration agreements; and amortization 
+
+of capitalized post-approval milestone fees incurred under our license and collaboration agreements. We expect to continue to focus 
+
+on increasing patient access to our existing commercial products, such as through NRDL listing or increased supplemental insurance 
+
+coverage  in  the  private-pay  market,  and  to  launch  additional  commercial  products,  if  and  when  we  obtain  required  regulatory 
+
+approvals.
+
+Research and Development Expenses 
+
+We believe our ability to successfully develop product candidates will be the primary factor affecting our long-term competitiveness, 
+
+as  well  as  our  future  growth  and  development.  Developing  high  quality  product  candidates  requires  a  significant  investment  of 
+
+resources over a prolonged period of time. We are committed to advancing and expanding our pipeline of potential best-in-class and 
+
+first-in-class  products,  such  as  through  clinical  and  pre-clinical  trials  and  business  development  activities.  As  a  result,  we  expect  to 
+
+continue making significant investments in research and development, including internal discovery activities. 
+
+Elements of research and development expenditures primarily include: 
+
+• 
+
+• 
+
+• 
+
+payroll and other related costs of personnel engaged in research and development activities; 
+
+fees for exclusive development rights of products granted to the Company; 
+
+costs  related  to  pre-clinical  testing  of  the  Company’s  technologies  and  clinical  trials,  such  as  payments  to  CROs  and  CMOs, 
+
+investigators, and clinical trial sites that conduct our clinical studies; and
+
+• 
+
+costs to produce the product candidates, including raw materials and supplies, product testing, depreciation, and facility-related 
+
+expenses.
+
+11
+
+MANAGEMENT DISCUSSION AND ANALYSISSelling, General, and Administrative Expenses 
+
+Our selling, general, and administrative expenses consist primarily of personnel compensation and related costs, including share-based 
+
+compensation  for  commercial  and  administrative  personnel.  Other  selling,  general,  and  administrative  expenses  include  product 
+
+distribution  and  promotion  costs,  and  professional  service  fees  for  legal,  intellectual  property,  auditing,  and  tax  services  as  well  as 
+
+other  direct  and  allocated  expenses  for  rent  and  maintenance  of  facilities,  insurance,  and  other  supplies  used  in  selling,  general, 
+
+and  administrative  activities.  We  expect  these  costs  to  continue  to  be  significant  to  support  sales  of  our  commercial  products  and 
+
+preparation to launch and subsequent sales of additional product candidates if and when approved.
+
+Our Ability to Commercialize Our Product Candidates 
+
+We have multiple product candidates in late-stage clinical development and various others in clinical and pre-clinical development in 
+
+Greater  China  and  globally.  Our  ability  to  generate  revenue  from  our  product  candidates  is  dependent  on  our  receipt  of  regulatory 
+
+approvals for and successful commercialization of such product candidates, which may not occur. Certain of our product candidates 
+
+may require additional pre-clinical and/or clinical development, regulatory approvals in multiple jurisdictions, manufacturing supply, 
+
+and significant marketing efforts before we generate any revenue from product sales. 
+
+License and Collaboration Arrangements 
+
+Our  results  of  operations  have  been,  and  will  continue  to  be,  affected  by  our  license  and  collaboration  agreements.  In  accordance 
+
+with  these  agreements,  we  may  be  required  to  make  upfront  payments  and  milestone  payments  upon  the  achievement  of  certain 
+
+development, regulatory, and sales-based milestones for the relevant products as well as certain royalties at tiered percentage rates 
+
+based on annual net sales of the licensed products in the licensed territories. As of June 30, 2026, we may in the future be required 
+
+to  pay  development  and  regulatory  milestone  payments  of  up  to  an  additional  aggregate  amount  of  $197.0  million  for  our  current 
+
+clinical programs and $863.0 million for other programs. Such development and regulatory milestone payments are contingent on the 
+
+progress  of  our  product  candidates  prior  to  commercialization,  and  we  see  these  payments  as  favorable  because  they  indicate  that 
+
+product candidates are advancing. As of June 30, 2026, we also in the future may be required to pay sales-based milestone payments 
+
+of up to an additional aggregate amount of $3,078.0 million as well as certain royalties at tiered percentage rates on annual net sales. 
+
+Such sales-based milestone and royalty payments are contingent on the performance of our commercial products, and we see these 
+
+payments as favorable because they signify that a product is achieving higher sales levels.
+
+12
+
+MANAGEMENT DISCUSSION AND ANALYSISFUTURE AND OUTLOOK
+
+Our mission is to be a leading global biopharmaceutical company focused on discovering, developing, and commercializing innovative 
+
+therapies that improve the lives of patients.
+
+To  execute  on  that  mission,  we  have  developed  a  corporate  strategy  with  the  following  three  pillars  to  help  us  drive  innovation  in 
+
+China and beyond:
+
+• 
+
+Accelerate Medicines to Patients: We seek to advance our global and regional pipelines by continuing to invest in research and 
+
+development activities;
+
+• 
+
+Expand  and  Strengthen  Our  Pipeline:  We  seek  to  continue  to  expand  and  strengthen  our  differentiated  global  and  regional 
+
+pipelines through our internal discovery efforts and synergistic collaborations and corporate development activities; and
+
+• 
+
+Continue  Our  Commercial  Excellence  and  Execution:  We  seek  to  continue  delivering  strong  financial  performance,  including 
+
+by  increasing  access  to  our  existing  commercial  products  and  driving  further  increases  in  our  efficiency  and  productivity  as 
+
+we  prepare  to  launch  additional  products  or  new  indications  for  existing  products,  as  we  advance  along  our  path  to  achieve 
+
+profitability.
+
+We also seek to build and maintain the trust of our stakeholders, including through our Trust for Life strategy, which includes three 
+
+commitments: improve human health, create better outcomes, and act right now with ethical business practices and strong corporate 
+
+governance. As part of our corporate strategy, and the actions taken in support of our corporate goals, we will continue to develop 
+
+and integrate our Trust for Life strategy into our business and operations.
+
+13
+
+MANAGEMENT DISCUSSION AND ANALYSISFINANCIAL REVIEW
+
+Results of Operations 
+
+In this section, we discuss our results of operations for the six months ended June 30, 2026 compared to the same period in 2025.
+
+The following table presents our results of operations ($ in thousands):
+
+Revenues
+
+ Product revenue, net
+
+ Collaboration revenue
+
+Total revenues
+
+Expenses
+
+ Cost of product revenue
+
+ Cost of collaboration revenue
+
+ Research and development
+
+ Selling, general, and administrative
+
+Loss from operations
+
+ Interest income
+
+ Interest expenses
+
+ Foreign currency gains 
+
+ Other income, net
+
+Loss before income tax 
+
+Income tax benefit (expense)
+
+Net loss
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+$
+
+201,307
+
+214,735
+
+(13,428)
+
+4,615
+
+1,729
+
+2,886
+
+205,922
+
+216,464
+
+(10,542)
+
+(86,477)
+
+(81,455)
+
+(20)
+
+(412)
+
+(127,357)
+
+(111,343)
+
+(137,942)
+
+(134,460)
+
+(145,874)
+
+(111,206)
+
+12,326
+
+(3,224)
+
+29,902
+
+5,447
+
+17,449
+
+(2,449)
+
+3,488
+
+3,553
+
+(5,022)
+
+392
+
+(16,014)
+
+(3,482)
+
+(34,668)
+
+(5,123)
+
+(775)
+
+26,414
+
+1,894
+
+(101,423)
+
+(89,165)
+
+(12,258)
+
+(418)
+
+—
+
+(418)
+
+(101,841)
+
+(89,165)
+
+(12,676)
+
+%
+
+(6)%
+
+167 %
+
+(5)%
+
+6 %
+
+(95)%
+
+14 %
+
+3 %
+
+31 %
+
+(29)%
+
+32 %
+
+757 %
+
+53 %
+
+14 %
+
+— %
+
+14 %
+
+14
+
+MANAGEMENT DISCUSSION AND ANALYSISRevenues
+
+Product Revenue, Net
+
+The following table presents net revenue by commercial program ($ in thousands):
+
+ZEJULA
+
+VYVGART/VYVGART Hytrulo
+
+NUZYRA
+
+OPTUNE
+
+QINLOCK
+
+XACDURO
+
+AUGTYRO
+
+KarXT
+
+Other (i)
+
+Six Months Ended June 30,
+
+2026
+
+62,046
+
+41,417
+
+33,359
+
+24,272
+
+18,575
+
+16,529
+
+4,005
+
+552
+
+552
+
+2025
+
+90,571
+
+44,602
+
+29,410
+
+23,718
+
+17,045
+
+5,739
+
+3,025
+
+—
+
+625
+
+Change
+
+$
+
+(28,525)
+
+(3,185)
+
+3,949
+
+554
+
+1,530
+
+10,790
+
+980
+
+552
+
+(73)
+
+Total product revenue, net
+
+201,307
+
+214,735
+
+(13,428)
+
+NM — Not Meaningful
+
+(i) 
+
+Other includes product candidates sold in patient programs prior to commercialization. 
+
+%
+
+(31)%
+
+(7)%
+
+13 %
+
+2 %
+
+9 %
+
+188 %
+
+32 %
+
+NM
+
+(12)%
+
+(6)%
+
+Our  product  revenue  is  primarily  derived  from  the  sales  of  our  commercial  products  in  mainland  China,  net  of  sales  returns  and 
+
+rebates to distributors with respect to the sales of these products. 
+
+Our net product revenue decreased by $13.4 million in the six months ended June 30, 2026, primarily driven by decreased revenue 
+
+for  ZEJULA,  due  to  a  shift  in  hospital  utilization  patterns  following  volume-based  procurement  for  generic  olaparib,  and  VYVGART, 
+
+primarily due to a pricing adjustment related to NRDL renewal. These decreases were partially offset by increased sales for XACDURO, 
+
+driven by strong patient demand and expanding hospital adoption but partially constrained by supply limitations, and increased sales 
+
+for NUZYRA, supported by increased market coverage and penetration. 
+
+15
+
+MANAGEMENT DISCUSSION AND ANALYSISCost of Product Revenue
+
+Cost of product revenue increased by $5.0 million in the six months ended June 30, 2026, primarily due to a shift in product mix and 
+
+the inventory write-down in the second quarter in 2026.
+
+Collaboration Revenue and Cost of Collaboration Revenue
+
+In  the  six  months  ended  June  30,  2026,  collaboration  revenue  increased  by  $2.9  million  mainly  related  to  a  regional  license  and 
+
+collaboration arrangement. Cost of collaboration revenue was insignificant in the six months ended June 30, 2026. 
+
+Research and Development Expenses 
+
+The following table presents the components of our research and development expenses ($ in thousands):
+
+Personnel compensation and related costs
+
+Licensing fees
+
+CROs/CMOs/Investigators expenses
+
+Other costs
+
+Total
+
+Six Months Ended June 30,
+
+2026
+
+41,183
+
+37,000
+
+37,800
+
+11,374
+
+2025
+
+46,527
+
+19,997
+
+29,765
+
+15,054
+
+127,357
+
+111,343
+
+Change
+
+$
+
+(5,344)
+
+17,003
+
+8,035
+
+(3,680)
+
+16,014
+
+%
+
+(11)%
+
+85 %
+
+27 %
+
+(24)%
+
+14 %
+
+Research and development expenses increased by $16.0 million in the six months ended June 30, 2026, primarily due to: 
+
+• 
+
+an  increase  of  $17.0  million  in  licensing  fees  in  connection  with  increased  upfront  and  milestone  fees  for  our  license  and 
+
+collaboration agreements; 
+
+• 
+
+• 
+
+an increase of $4.4 million in CROs/CMOs/Investigators expenses and other clinical and pre-clinical costs; partially offset by
+
+a  decrease  of  $5.3  million  in  personnel  compensation  and  related  costs,  primarily  driven  by  our  resource  prioritization  and 
+
+efficiency efforts.
+
+16
+
+MANAGEMENT DISCUSSION AND ANALYSISThe following table presents our research and development expenses by program ($ in thousands):
+
+Clinical programs
+
+Pre-Clinical programs
+
+Unallocated research and development expenses
+
+Total
+
+Six Months Ended June 30,
+
+Change
+
+2026
+
+45,881
+
+31,325
+
+50,151
+
+2025
+
+45,059
+
+8,383
+
+57,901
+
+127,357
+
+111,343
+
+$
+
+822
+
+22,942
+
+(7,750)
+
+16,014
+
+%
+
+2 %
+
+274 %
+
+(13)%
+
+14 %
+
+In  the  six  months  ended  June  30,  2026,  research  and  development  expenses  attributable  to  pre-clinical  programs  increased  by 
+
+$22.9 million, primarily driven by an increase in licensing fees for our license and collaboration agreements.
+
+Although  we  manage  our  external  research  and  development  expenses  by  program,  we  do  not  allocate  our  internal  research  and 
+
+development expenses by program because our employees and internal resources may be engaged in projects for multiple programs 
+
+at any given time. 
+
+Selling, General, and Administrative Expenses 
+
+The following table presents our selling, general, and administrative expenses by category ($ in thousands):
+
+Personnel compensation and related costs
+
+Other costs
+
+Total
+
+Six Months Ended June 30,
+
+Change
+
+2026
+
+85,767
+
+52,175
+
+2025
+
+83,322
+
+51,138
+
+137,942
+
+134,460
+
+$
+
+2,445
+
+1,037
+
+3,482
+
+%
+
+3%
+
+2%
+
+3%
+
+Selling,  general,  and  administrative  expenses  remained  relatively  flat  in  the  six  months  ended  June  30,  2026,  compared  to  the  prior 
+
+year period, reflecting continued efforts to streamline the organization, optimize resource allocation, and enhance operating efficiency 
+
+as the company advances its next phase of growth. 
+
+17
+
+MANAGEMENT DISCUSSION AND ANALYSISInterest Income 
+
+Interest income decreased by $5.1 million in the six months ended June 30, 2026, primarily due to decreased interest rates.
+
+Interest Expense
+
+Interest expense increased by $0.8 million in the six months ended June 30, 2026, primarily due to higher levels of short-term debt.
+
+Foreign Currency Gains
+
+Foreign  currency  gains  increased  by  $26.4  million  in  the  six  months  ended  June  30,  2026,  primarily  due  to  appreciation  of  the  RMB 
+
+against the U.S. dollar.
+
+Other Income, Net 
+
+Other income, net increased by $1.9 million in the six months ended June 30, 2026, primarily due to higher government grants.
+
+Income Tax Expense 
+
+Income tax expense was $0.4 million in the six months ended June 30, 2026 attributable to taxable income in certain Chinese entities. 
+
+Income tax expense was nil in the six months ended June 30, 2025 as the Company’s subsidiaries were in cumulative loss positions.
+
+Net Loss
+
+Net loss was $101.8 million in the six months ended June 30, 2026, or a loss per ordinary share attributable to shareholders of $0.09 
+
+(or loss per ADS of $0.92), compared to a net loss of $89.2 million in the six months ended June 30, 2025, or a loss per ordinary share 
+
+of $0.08 (or loss per ADS of $0.82). 
+
+18
+
+MANAGEMENT DISCUSSION AND ANALYSISDiscussion of Certain Key Balance Sheet Items
+
+This section includes discussion of certain key balance sheet items as of June 30, 2026 compared to December 31, 2025.
+
+Cash, Cash Equivalents, and Restricted Cash 
+
+As of June 30, 2026, the Company’s cash, cash equivalents, and restricted cash amounted to $708.6 million and primarily comprised of 
+
+(i) $683.3 million denominated in U.S. dollars; (ii) $21.0 million denominated in RMB; and (iii) $4.3 million in aggregate denominated in 
+
+HK dollars, Australian dollars, and Taiwan dollars.
+
+Accounts Receivable
+
+Accounts receivable decreased by $36.5 million to $69.6 million as of June 30, 2026, primarily due to decreased product revenue.
+
+Inventories, Net
+
+Inventories, net increased by $16.1 million to $90.9 million as of June 30, 2026, primarily due to increased inventory levels to support 
+
+anticipated sales growth.
+
+Property and Equipment, Net
+
+Property and equipment, net decreased by $1.0 million to $46.4 million as of June 30, 2026, primarily due to the depreciation.
+
+Intangible Assets, Net
+
+Intangible assets, net increased by $9.6 million to $85.8 million as of June 30, 2026, primarily driven by regulatory milestone fees for 
+
+TIVDAK.
+
+Accounts Payable
+
+Accounts payable decreased by $4.9 million to $136.7 million as of June 30, 2026, based on the timing of accruals and payments. 
+
+19
+
+MANAGEMENT DISCUSSION AND ANALYSISShort-Term Debt
+
+Short-term  debt  increased  by  $33.6  million  to  $238.1  million  as  of  June  30,  2026,  primarily  due  to  net  new  borrowings  made  in  the 
+
+first half of 2026. 
+
+Other Current Liabilities 
+
+Other  current  liabilities  decreased  by  $14.9  million  to  $48.8  million  as  of  June  30,  2026,  primarily  due  to  payments  of  employee 
+
+bonuses and rebates for VYVGART related to its NRDL renewal.
+
+Liquidity and Capital Resources 
+
+The following table represents our cash and cash equivalents, short-term investments, and restricted cash ($ in thousands):
+
+Cash and cash equivalents
+
+Restricted cash, current
+
+Short-term investments
+
+Restricted cash, non-current
+
+Total
+
+June 30, 
+2026
+
+607,522
+
+100,000
+
+10,000
+
+1,118
+
+718,640
+
+December 31, 
+2025
+
+679,573
+
+100,000
+
+10,000
+
+1,116
+
+790,689
+
+To  date,  we  have  financed  our  activities  primarily  through  private  placements  and  public  offerings,  including  our  September  2017 
+
+initial public offering and various follow-on offerings on Nasdaq and our September 2020 secondary listing and initial public offering 
+
+on  the  Hong  Kong  Stock  Exchange.  We  have  raised  approximately  $164.6  million  in  private  equity  financing  and  approximately 
+
+$2,677.8  million  in  net  proceeds  from  public  offerings  after  deducting  underwriting  commissions  and  the  offering  expenses  payable 
+
+by us. Our operations have consumed substantial amounts of cash since inception. The net cash used in our operating activities was 
+
+$75.3  million  and  $92.7  million  in  the  six  months  ended  June  30,  2026  and  2025,  respectively.  For  information  on  our  research  and 
+
+development  activities  and  related  expenditures,  see  the Research and Development Expenses, Selling, General, and Administrative 
+
+Expenses, License and Collaboration Arrangements, and Results of Operations sections above. In addition, as of June 30, 2026, we had 
+
+commitments of $1.8 million related to commercial manufacturing development activities and capital expenditures.
+
+We  have  also  identified  opportunities  to  access  capital  through  debt  arrangements  on  favorable  commercial  terms.  As  of  June  30, 
+
+2026,  we  had  such  debt  arrangements  with  Chinese  financial  institutions  that  allow  certain  of  our  subsidiaries  to  borrow  up  to 
+
+approximately  $320.0  million  (or  RMB2,271.7  million)  to  support  our  working  capital  needs  in  mainland  China.  As  of  June  30,  2026, 
+
+we  had  short-term  debt  outstanding  of  $238.1  million  (or  RMB1,479.5  million)  pursuant  to  these  debt  arrangements.  These  debt 
+
+arrangements provide us with additional capital capacity that will give us enhanced flexibility to execute our corporate strategic goals. 
+
+For more information, see Note 10.
+
+20
+
+MANAGEMENT DISCUSSION AND ANALYSISAs of June 30, 2026, we had cash and cash equivalents, current restricted cash, and short-term investments of $717.5 million, which 
+
+we expect will enable us to meet our cash requirements including the funding of operating expenses, capital expenditures, and debt 
+
+obligations for at least the next 12 months. 
+
+Although we believe that we have sufficient capital to fund our operations for at least the next twelve months, we may, from time to 
+
+time, utilize debt arrangements on favorable commercial terms, subject to lenders’ assessment of our financial position including our 
+
+cash balances, or consider additional funding sources to bring to fruition our strategic objectives. There can be no assurances that such 
+
+funding will be made available to us on acceptable terms or at all. 
+
+The following table presents information regarding our cash flows ($ in thousands): 
+
+Net cash used in operating activities
+
+Net cash (used in) provided by investing activities
+
+Net cash provided by financing activities
+
+Effect of foreign exchange rate changes on cash, cash equivalents and 
+
+Six Months Ended June 30,
+
+Change
+
+2026
+
+(75,318)
+
+(23,705)
+
+24,278
+
+2025
+
+$
+
+(92,723)
+
+17,405
+
+323,211
+
+(346,916)
+
+51,990
+
+(27,712)
+
+ restricted cash
+
+2,696
+
+125
+
+2,571
+
+Net (decrease) increase in cash, cash equivalents and restricted cash
+
+(72,049)
+
+282,603
+
+(354,652)
+
+Net Cash Used in Operating Activities 
+
+Net cash used in operating activities decreased by $17.4 million in the six months ended June 30, 2026, primarily due to an increase 
+
+of $61.4 million in net changes in operating assets and liabilities, partially offset by a decrease of $31.3 million in other adjustments to 
+
+reconcile net loss to net cash used in operating activities and an increase of $12.7 million in net loss.
+
+Net Cash (Used in) Provided by Investing Activities 
+
+Net  cash  used  in  investing  activities  was  $23.7  million  in  the  six  months  ended  June  30,  2026,  compared  to  net  cash  provided  by 
+
+investing activities of $323.2 million in the six months ended June 30, 2025, primarily due to a decrease of $330.0 million in proceeds 
+
+from  the  maturity  of  short-term  investments,  an  increase  of  $17.6  million  from  acquisitions  of  intangible  assets,  and  a  decrease  of 
+
+$1.2 million in proceeds from the sale of an equity investment, partially offset by a decrease of $1.9 million in purchases of property 
+
+and equipment.
+
+21
+
+MANAGEMENT DISCUSSION AND ANALYSISNet Cash Provided by Financing Activities 
+
+Net  cash  provided  by  financing  activities  decreased  by  $27.7  million  in  the  six  months  ended  June  30,  2026,  primarily  due  to  an 
+
+increase of $47.1 million in repayment of short-term bank borrowings, a decrease of $9.7 million in proceeds from exercises of stock 
+
+options, and an increase of $4.4 million in employee taxes paid related to net share settlement of equity awards, partially offset by an 
+
+increase of $32.6 million in short-term debt proceeds.
+
+Effect of Exchange Rates on Cash
+
+We have substantial operations in mainland China, which generate a significant amount of RMB-denominated cash from product sales 
+
+and require a significant amount of RMB-denominated cash to pay our obligations. Since the reporting currency of the Company is the 
+
+U.S. dollar, periods of volatility in exchange rates may have a significant impact on our consolidated cash balances.
+
+Operating Capital Requirements
+
+We may require or seek to obtain additional funding in connection with our operations through public or private equity offerings, debt 
+
+financing, collaborations or licensing arrangements, or other sources. If we are unable to raise capital when needed or on acceptable 
+
+terms, we could incur losses or be forced to delay, reduce, or terminate certain programs or activities. 
+
+Although  we  believe  our  cash  and  cash  equivalents,  and  short-term  investments  as  of  June  30,  2026  will  enable  us  to  fund  our 
+
+operating  expenses  and  capital  expenditure  requirements  for  at  least  the  next  twelve  months,  we  could  use  our  capital  resources 
+
+sooner than we currently expect. Our future capital requirements will depend on many factors, including:
+
+• 
+
+• 
+
+revenues from our approved commercial products and related product costs;
+
+the  cost  and  timing  of  future  commercialization  activities  for  our  products  and  any  other  product  candidates  for  which  we 
+
+receive regulatory approval;
+
+• 
+
+the  cost,  timing,  and  outcome  of  seeking,  obtaining,  and  maintaining  regulatory  approval  for  our  products  and  product 
+
+candidates;
+
+• 
+
+the  scope,  progress,  timing,  results,  and  costs  of  researching  and  developing  our  product  candidates,  including  additional 
+
+indications for our existing commercial products and conducting pre-clinical and clinical trials;
+
+• 
+
+our  ability  to  establish  and  maintain  strategic  partnerships,  including  collaboration,  licensing,  or  other  arrangements,  and  the 
+
+economic and other terms, timing, and success of such arrangements, such as with respect to any upfront fees, development 
+
+and  regulatory  milestones  that  may  be  payable  prior  to  commercialization  or  before  we  have  generated  revenue  from  the 
+
+related product, and sales-based milestones or royalty payments that may be payable after commercial launch;
+
+22
+
+MANAGEMENT DISCUSSION AND ANALYSIS• 
+
+the  cost,  timing,  and  outcome  of  preparing,  filing,  and  prosecuting  patent  applications,  maintaining  and  enforcing  our 
+
+intellectual property rights, and defending any intellectual property related claims;
+
+• 
+
+• 
+
+• 
+
+• 
+
+cash requirements of any future acquisitions;
+
+resources and costs required to promote compliance with applicable laws and regulations by us and our third-party partners;
+
+costs of our personnel; and
+
+the costs of operating as a public company in both the United States and Hong Kong.
+
+Contractual Obligations and Commitments
+
+As  of  June  30,  2026,  our  commitments  were  $1.8  million  and  related  to  commercial  manufacturing  development  activities  and 
+
+capital expenditures that are contracted but not yet reflected in the unaudited condensed consolidated financial statements. These 
+
+commitments were expected to be incurred within one year from June 30, 2026. 
+
+Disclosures About Market Risk
+
+We are exposed to market risk including foreign exchange risk, credit risk, and interest rate risk. 
+
+Foreign Exchange Risk 
+
+Renminbi,  or  RMB,  is  not  a  freely  convertible  currency.  The  State  Administration  of  Foreign  Exchange,  under  the  authority  of  the 
+
+People’s  Bank  of  China,  controls  the  conversion  of  RMB  into  foreign  currencies.  The  value  of  RMB  is  subject  to  changes  in  central 
+
+government  policies  and  to  international  economic  and  political  developments  affecting  supply  and  demand  in  the  China  Foreign 
+
+Exchange Trading System market. The cash and cash equivalents of the Company included aggregated amounts of $21.0 million and 
+
+$25.4  million,  which  were  denominated  in  RMB,  representing  3%  and  4%  of  the  cash  and  cash  equivalents  as  of  June  30,  2026  and 
+
+December 31, 2025, respectively. 
+
+While our financial statements are presented in U.S. dollars, our business mainly operates in mainland China with a significant portion 
+
+of  our  transactions  settled  in  RMB,  and  as  such,  we  do  not  believe  that  we  currently  have  significant  direct  foreign  exchange  risk 
+
+and have not used derivative financial instruments to hedge our exposure to such risk. Although, in general, our exposure to foreign 
+
+exchange risk should be limited, the value of your investment in our ADSs and ordinary shares will be affected by the exchange rate 
+
+between  the  U.S.  dollar  and  the  RMB  and  between  the  HK  dollar  and  the  RMB,  respectively,  because  the  value  of  our  business  is 
+
+effectively denominated in RMB, while ADSs and ordinary shares are traded in U.S. dollars and HK dollars, respectively. 
+
+The  value  of  the  RMB  against  the  U.S.  dollar  and  other  currencies  may  fluctuate  and  is  affected  by,  among  other  things,  changes  in 
+
+Greater  China’s  political  and  economic  conditions.  The  conversion  of  RMB  into  foreign  currencies,  including  U.S.  dollars,  has  been 
+
+based on rates set by the People’s Bank of China. 
+
+23
+
+MANAGEMENT DISCUSSION AND ANALYSISThe  value  of  our  ADSs  and  our  ordinary  shares  will  be  affected  by  the  foreign  exchange  rates  between  U.S.  dollars,  HK  dollars,  and 
+
+the RMB. For example, to the extent that we need to convert U.S. dollars or HK dollars into RMB for our operations or if any of our 
+
+arrangements  with  other  parties  are  denominated  in  U.S.  dollars  or  HK  dollars  and  need  to  be  converted  into  RMB,  appreciation  of 
+
+the RMB against the U.S. dollar or the HK dollar would have an adverse effect on the RMB amount we receive from the conversion. 
+
+Conversely, if we decide to convert RMB into U.S. dollars or HK dollars for the purpose of making payments for dividends on ordinary 
+
+shares or ADSs or for other business purposes, appreciation of the U.S. dollar or the HK dollar against the RMB would have a negative 
+
+effect on the conversion amounts available to us. 
+
+Since 1983, the HKMA has pegged the HK dollar to the U.S. dollar at the rate of approximately HK$7.80 to US$1.00. However, there 
+
+is  no  assurance  that  the  HK  dollar  will  continue  to  be  pegged  to  the  U.S.  dollar  or  that  the  HK  dollar  conversion  rate  will  remain  at 
+
+HK$7.80 to US$1.00. If the HK dollar conversion rate against the U.S. dollar changes and the value of the HK dollar depreciates against 
+
+the U.S. dollar, our assets denominated in HK dollars will be adversely affected. Additionally, if the HKMA were to repeg the HK dollar 
+
+to, for example, the RMB rather than the U.S. dollar, or otherwise restrict the conversion of HK dollars into other currencies, then our 
+
+assets denominated in HK dollars will be adversely affected. 
+
+Credit Risk 
+
+Financial  instruments  that  are  potentially  subject  to  significant  concentration  of  credit  risk  consist  of  cash  and  cash  equivalents, 
+
+restricted cash, short-term investments, accounts receivable, and notes receivable. 
+
+The  carrying  amounts  of  cash  and  cash  equivalents,  short-term  investments,  and  restricted  cash  represent  the  maximum  amount 
+
+of  losses  due  to  credit  risk.  As  of  June  30,  2026  and  December  31,  2025,  we  had  cash  and  cash  equivalents  of  $607.5  million  and 
+
+$679.6  million,  respectively,  restricted  cash  of  $101.1  million,  and  short-term  investments  of  $10.0  million.  As  of  June  30,  2026  and 
+
+December  31,  2025,  all  of  our  cash  and  cash  equivalents,  restricted  cash,  and  short-term  investments  were  held  by  major  financial 
+
+institutions located in mainland China and international financial institutions outside of mainland China which we believe are of high 
+
+credit quality and for which we monitor continued credit worthiness. 
+
+Accounts  receivable  are  typically  unsecured  and  are  derived  from  product  revenue.  We  manage  credit  risk  related  to  our 
+
+accounts  receivable  through  ongoing  monitoring  of  outstanding  balances  and  limiting  the  amount  of  credit  extended  based  upon 
+
+payment  history  and  credit  worthiness.  Historically,  we  have  collected  receivables  from  customers  within  the  credit  terms  with  no 
+
+significant  credit  losses  incurred.  As  of  June  30,  2026,  our  largest  customer  accounted  for  approximately  18%  of  our  total  accounts 
+
+receivable collectively. 
+
+Certain accounts receivable balances are settled in the form of notes receivable. As of June 30, 2026, such notes receivable included 
+
+bank  acceptance  promissory  notes  that  are  non-interest  bearing  and  due  within  six  months.  These  notes  receivable  were  used  to 
+
+collect the receivables based on an administrative convenience, given these notes are readily convertible to known amounts of cash. 
+
+In accordance with the sales agreements, whether to use cash or bank acceptance promissory notes to settle the receivables is at our 
+
+discretion, and this selection does not impact the agreed contractual purchase prices. 
+
+24
+
+MANAGEMENT DISCUSSION AND ANALYSISInterest Rate Risk
+
+We  are  exposed  to  risks  related  to  changes  in  interest  rates  on  our  cash  and  cash  equivalents,  restricted  cash,  and  short-term 
+
+investments.  As  of  June  30,  2026  and  December  31,  2025,  we  had  cash  and  cash  equivalents  of  $607.5  million  and  $679.6  million, 
+
+respectively, restricted cash of $101.1 million, and short-term investments of $10.0 million. Our investment portfolio, which relates to 
+
+cash equivalents and short-term investments, primarily consists of time deposits. The primary objectives of our investment activities 
+
+are  to  preserve  principal,  provide  liquidity,  and  maximize  income  without  significantly  increasing  risk.  Given  the  short-term  nature 
+
+of our deposits and investments, we believe that a sudden change in market interest rates would not be expected to have a material 
+
+impact on our financial condition and/or results of operation. For example, a hypothetical 10% relative change in interest rates during 
+
+any of the periods presented would not have a material impact on future interest income.
+
+We are also exposed to risks related to changes in interest rates on our short-term debt, which is currently subject to a mix of fixed 
+
+and floating interest rates. As of June 30, 2026 and December 31, 2025, we had short-term debt of $238.1 million and $204.5 million, 
+
+respectively.  A  100-basis  point  increase  in  interest  rates  would  not  materially  increase  our  interest  expense.  Our  interest  rate 
+
+exposure  from  short-term  debt  is  also  offset  by  our  exposure  in  cash  and  cash  equivalents,  restricted  cash,  and  short-term 
+
+investments, as discussed above. For more information on our short-term debt, see Note 10.
+
+Gearing Ratio
+
+The gearing ratio of the Company, which was calculated by dividing total interest-bearing loans by total shareholders’ equity as of the 
+
+end of the period, was 39% and 29% as of June 30, 2026 and December 31, 2025, respectively.
+
+Significant Investments Held
+
+We did not hold any significant investments as of June 30, 2026 and December 31, 2025.
+
+Future Plans for Material Investments and Capital Assets
+
+We did not have any future plans for material investments or capital assets as of June 30, 2026.
+
+Material Acquisitions and Disposals of Subsidiaries, Associates and Joint Ventures 
+
+During the first half of 2026, we did not have any material acquisitions or disposals of subsidiaries, associates, or joint ventures.
+
+25
+
+MANAGEMENT DISCUSSION AND ANALYSISEmployee and Remuneration Policy
+
+As  of  June  30,  2026,  we  had  a  global  team  of  1,871  full-time  employees,  which  increased  from  1,797  full-time  employees  as  of 
+
+December 31, 2025. 
+
+The  remuneration  policy  for  our  employees  is  periodically  reviewed  by  the  Compensation  Committee.  Employee  remuneration 
+
+packages  are  determined  in  consideration  of  a  variety  of  factors,  including  our  pay-for-performance  compensation  model  and 
+
+market data for companies in similar industries and with similar complexity and size. In addition to cash compensation and benefits, 
+
+we  may  issue  share  options,  share  appreciation  rights,  restricted  shares,  unrestricted  shares,  share  units  including  restricted  share 
+
+units,  performance  awards,  and  other  types  of  awards  to  our  employees  in  accordance  with  our  equity  incentive  plans.  For  more 
+
+details  about  share-based  compensation,  please  refer  to  the  section  headed  “Equity  Incentive  Plans”  and Note 13  to  the  unaudited 
+
+condensed consolidated financial statements contained in this report. 
+
+The  total  remuneration  cost  incurred  by  the  Company  was  $127.0  million  and  $131.4  million  for  the  first  half  of  2026  and  2025, 
+
+respectively. 
+
+Charges on Group Assets 
+
+As of June 30, 2026 and December 31, 2025, we had a charge over deposit of $100.0 million in restricted cash with BOC HK to secure 
+
+the standby letters of credit.
+
+Contingent Liabilities
+
+As  of  June  30,  2026  and  December  31,  2025,  we  did  not  have  any  material  contingent  liabilities.  See Note 14  to  the  unaudited 
+
+condensed consolidated financial statements for contractual obligations under licenses and collaborative agreements.
+
+Interim Dividend
+
+The Board did not recommend any interim dividend for the first half of 2026 and 2025. 
+
+Recent Accounting Pronouncements
+
+See  Note  2  to  the  unaudited  condensed  consolidated  financial  statements  included  in  this  report  for  recent  accounting 
+
+pronouncements.
+
+26
+
+MANAGEMENT DISCUSSION AND ANALYSIS

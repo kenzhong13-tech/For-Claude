@@ -1,0 +1,703 @@
+<title>三生制药财务分析报告</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="三生制药（1530.HK）中文财务分析：财务表现、债务与偿债能力、市场增长敏感性、未来规划、创新药同业对比、以恒生指数和创新药板块为基准的波动率与事件研究。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap">
+<style>
+/*__BASE_CSS__*/
+/* 3SBio edition: clinical teal accent for headings and navigation; chart palette unchanged. */
+:root { --accent: #0f766e; --accent-ink: #0b5e58; --info-bg: #e9f5f3; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #5ccfc0; --accent-ink: #86ddd2; --info-bg: #13241f; } }
+:root[data-theme="dark"] { --accent: #5ccfc0; --accent-ink: #86ddd2; --info-bg: #13241f; }
+.chart .vlab-in.dark { fill: #121722; }
+.tt-k.f3 { background: var(--s3); } .tt-k.f4 { background: var(--s4); } .tt-k.c7, .tt-k.f7 { background: var(--s7); } .tt-k.fmid { background: var(--mid); }
+.ticker { letter-spacing: .04em; }
+.tbl-val { min-width: 600px; }
+.tbl tr.me td { background: color-mix(in srgb, var(--accent) 9%, transparent); font-weight: 500; }
+@media print {
+  #tbl-peer-growth, #tbl-peer-vol, #tbl-peer-val, #tbl-risk { font-size: 10.5px; }
+  #tbl-peer-growth th, #tbl-peer-growth td, #tbl-peer-vol th, #tbl-peer-vol td, #tbl-peer-val th, #tbl-peer-val td, #tbl-risk th, #tbl-risk td { padding: 4px 5px; }
+  #tbl-risk td.n { white-space: normal; }
+  .tbl-wrap:has(#tbl-pd1) { break-inside: avoid; }
+}
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="kicker"><span class="ticker">HKEX: 1530</span><span>生物制药 · 创新药 · 辉瑞合作伙伴</span><span>中文研究报告</span></div>
+    <h1>三生制药财务分析报告</h1>
+    <p class="sub">覆盖财务表现、债务与偿债能力、对市场增长的敏感性、未来规划、与港股创新药同业的对比，以及以恒生指数和创新药板块为基准的波动率分析与股价事件研究。</p>
+    <div class="stamp">股价截至 2026 年 10 月 22 日收盘（指数与波动率分析截至 10 月 21 日，22 日恒指数据尚不完整）· 财务数据截至 2026 年中期业绩（2026 年 8 月 20 日公告）· 报告日期 2026 年 10 月 23 日 · 仅供研究学习，不构成投资建议</div>
+  </div>
+</header>
+
+<nav class="rail" aria-label="章节导航">
+  <div class="wrap">
+    <a href="#summary">摘要</a>
+    <a href="#company">公司与产品</a>
+    <a href="#financials">财务表现</a>
+    <a href="#debt">债务与偿债</a>
+    <a href="#sensitivity">增长敏感性</a>
+    <a href="#outlook">未来规划</a>
+    <a href="#peers">同业对比</a>
+    <a href="#valuation">估值</a>
+    <a href="#volatility">波动率</a>
+    <a href="#events">事件研究</a>
+    <a href="#risks">风险</a>
+    <a href="#conclusion">结论</a>
+    <a href="#appendix">方法与来源</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- ============ SUMMARY ============ -->
+<section id="summary">
+  <h2><span class="no">00</span>核心结论</h2>
+  <div class="tiles" role="list">
+    <div class="tile" role="listitem"><div class="lab">收盘价（10/22）</div><div class="val">HK$13.63</div><div class="dl">较 2025/09/09 收盘高点 35.90 港元下跌 62%；已低于辉瑞授权公告前一日（5/19）的 14.50 港元</div></div>
+    <div class="tile" role="listitem"><div class="lab">市值 / 净现金</div><div class="val">HK$346<small>亿</small> / ¥163<small>亿</small></div><div class="dl">净现金（含理财产品）约占市值 55%，折合每股约 7.5 港元</div></div>
+    <div class="tile" role="listitem"><div class="lab">2026 上半年</div><div class="val">+3.9%<small> 收入</small></div><div class="dl">产品销售 −19.3%；收入靠 8.5 亿元辉瑞里程碑款支撑；经调整净利润 +26.5%</div></div>
+    <div class="tile" role="listitem"><div class="lab">β（对恒指 / 对创新药板块）</div><div class="val">0.97 / 0.77</div><div class="dl">2019 年以来日度；2025 年以来对板块 β 升至 1.2 以上</div></div>
+    <div class="tile" role="listitem"><div class="lab">年化波动率</div><div class="val">52%</div><div class="dl">创新药板块 40%，恒指 23%；近一年 58%</div></div>
+    <div class="tile" role="listitem"><div class="lab">分析师目标价（11 位）</div><div class="val">HK$29.3</div><div class="dl">中位 30.5，区间 17.0–37.5；较现价高 115%，在同业中差距最大</div></div>
+  </div>
+  <ol class="keypoints">
+    <li><b>2025 年是“授权年”，主业在收缩。</b>2025 年收入 177.0 亿元（+94.3%），其中辉瑞 707 授权收入 94.3 亿元；归母净利润 84.8 亿元（+305.8%）。但产品销售 80.1 亿元，同比 −10.3%；2026 年上半年产品销售再降 19.3% 至 34.4 亿元（公司归因于医保政策、集采和增值税政策调整），收入靠 8.5 亿元里程碑款才实现 +3.9%。</li>
+    <li><b>偿债能力不是问题。</b>2026 年 6 月末现金及存款 124.7 亿元，另有理财产品 51.9 亿元，银行借款仅 13.2 亿元（上半年净还款约 12 亿元），资本负债比率 5.7%，流动比率 6.1。净现金约 163 亿元，相当于市值的 55%。</li>
+    <li><b>股价已经“还原”到授权之前。</b>2025 年 +302%（同业指数 +96%），2026 年至 10/21 −40%（同业 +4%），自 2025/9 高点下跌 62%。剔除恒指和板块影响后，2026 年累计异常收益约 −46%，下跌几乎全部来自公司自身。</li>
+    <li><b>市场几乎没有给 707 定价。</b>13.63 港元中约 7.5 港元是净现金；基础业务按 8–12 倍利润估值后，707 的隐含价值在每股 −1.8 至 +0.8 港元之间。而 707 剩余里程碑最高约 46.7 亿美元，另有两位数比例的销售分成；在示意情景下（海外峰值销售 60 亿美元、分成 15%、成功概率 60%），分成价值约每股 5.9 港元。分歧在于 707 能否在全球 III 期中胜出，以及主业下滑多快。</li>
+    <li><b>与同业相比：增速靠后、估值最低。</b>2026 上半年收入增速（+3.9%）在 12 家可比公司中排第 10，远低于信达（+44.8%）、百济（+32.3%）、康方（+27.9%）和翰森（+11.7%）；研发费用率 15.1%，低于恒瑞（22.6%）和信达（19.5%）。但扣除授权收入后的市销率约 3.9 倍，低于恒瑞（8.6 倍）、信达（7.7 倍）和翰森（10.4 倍）。</li>
+    <li><b>股价越来越像“板块股”。</b>2019 年以来，恒指只能解释其日收益方差的 19%，加入创新药同业因子后升至 35%；2025 年以来从 16% 升至 55%。下跌日对恒指的 β（1.17）高于上涨日（0.75）。近一年波动率 58%，在 16 家港股创新药公司中处于较高水平。</li>
+    <li><b>事件反应：授权是最大的单一事件，此后“分拆、摊薄、业绩”多为负面。</b>辉瑞授权当天 +32.3%（异常收益 +29.4%，t = 11.0），公告前后 4 个交易日累计 +82%。此后蔓迪分拆 −9.4%、2025 年报 −6.8%、大摩下调 −9.6%；辉瑞登记两项全球 III 期 +11.3%、2026 中报 +8.1%。</li>
+  </ol>
+</section>
+
+<!-- ============ COMPANY ============ -->
+<section id="company">
+  <h2><span class="no">01</span>公司概况与产品</h2>
+  <p class="lede">三生制药是中国最早一批生物药企业，过去依靠特比澳、促红素和蔓迪等成熟产品稳定盈利；2025 年凭借自主研发的 PD-1/VEGF 双抗 707 与辉瑞达成授权，开始向“创新药 + 全球合作”转型。</p>
+  <div class="grid2">
+    <div class="card"><h4>基本信息</h4><ul>
+      <li>总部位于沈阳，2015 年在港交所上市；A 股上市子公司三生国健（688336.SH）是 707 的研发方之一。</li>
+      <li>2026 年 6 月末员工 6,068 人；业务包括生物药、小分子药（蔓迪）和 CDMO（合同研发生产）。</li>
+      <li>2025 年 12 月以每股 29.62 港元配售 1.05 亿股（集资约 31.2 亿港元）；辉瑞 2025 年 8 月以每股 25.20 港元认购约 1 亿美元新股。</li>
+      <li>蔓迪（脱发药与消费医疗）正筹备分拆，以实物分派方式分给股东并在港交所独立上市，完成后不再并表。</li>
+    </ul></div>
+    <div class="card"><h4>核心产品（市场份额为 IQVIA 2025 年数据）</h4><ul>
+      <li><b>特比澳</b>（重组人血小板生成素）：全球唯一上市的 rhTPO，2024 年收入 50.6 亿元，占集团收入 55.6%；2025 年按销售额计份额 60.4%（−6.2 个百分点），受口服 TPO 受体激动剂及集采冲击。</li>
+      <li><b>益比奥、赛博尔</b>（促红素）：中国市场份额 39.6%；长效促红素新比澳 2026 年获批。</li>
+      <li><b>蔓迪</b>（米诺地尔）：脱发药市场主导品牌，2024 年收入 13.4 亿元。</li>
+      <li><b>益赛普、赛普汀</b>：益赛普是国内首个上市的 TNF-α 抑制剂，赛普汀是国产创新 HER2 单抗。</li>
+    </ul></div>
+  </div>
+  <h3>2026 年的新产品与管线</h3>
+  <ul>
+    <li><b>2026 年获批上市：</b>益赛拓（608，安沐奇塔单抗，IL-17A，银屑病，2 月）、艾曲泊帕（SSS20，3 月）、新比澳（SSS06，长效促红素，双周给药）和 613（IL-1β 单抗，急性痛风性关节炎，8 月）。</li>
+    <li><b>在审：</b>611（IL-4Rα，特应性皮炎，2026 年 2 月受理）、601A（VEGF，视网膜静脉阻塞，2025 年 10 月受理）。公司称管线中有 6 个 III 期项目、4 个已提交或获批上市申请。</li>
+    <li><b>707（PD-1/VEGF 双抗，基于自有 CLF2 平台）：</b>2025 年 4 月获国家药监局突破性治疗认定；海外权利授予辉瑞（PF-08634404），中国内地权利由公司保留，但辉瑞拥有中国商业化选择权。</li>
+  </ul>
+  <figure>
+    <figcaption>主要产品收入（2022–2024）<span class="cap-sub">人民币百万元；公司自 2025 年起只披露生物药合计</span></figcaption>
+    <div class="legend"><span class="leg-c1"><i class="box"></i>特比澳</span><span class="leg-c2"><i class="box"></i>促红素（益比奥 + 赛博尔）</span><span class="leg-c3"><i class="box"></i>蔓迪</span></div>
+    <div class="chart-box" id="ch-prod"></div>
+  </figure>
+</section>
+
+<!-- ============ FINANCIALS ============ -->
+<section id="financials">
+  <h2><span class="no">02</span>财务表现分析</h2>
+  <p class="lede">2019–2024 年收入稳定增长 5%–17%；2025 年的跃升几乎全部来自一次性授权收入。剔除授权后，产品销售 2025 年和 2026 上半年连续下滑。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-annual">
+    <caption>年度利润表摘要（人民币百万元）</caption>
+    <thead><tr><th>年度</th><th class="n">收入</th><th class="n">同比</th><th class="n">毛利率</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">研发费用</th><th class="n">研发 / 收入</th><th class="n">销售费用 / 收入</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>收入与归母净利润<span class="cap-sub">人民币百万元</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>收入</span><span class="leg-c2"><i class="box"></i>归母净利润</span></div>
+      <div class="chart-box" id="ch-rev"></div>
+    </figure>
+    <figure>
+      <figcaption>收入构成<span class="cap-sub">产品销售、对外授权、CDMO；悬停查看金额</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>产品销售</span><span class="leg-c4"><i class="box"></i>对外授权</span><span class="leg-c3"><i class="box"></i>CDMO</span></div>
+      <div class="chart-box" id="ch-mix"></div>
+    </figure>
+  </div>
+  <ul>
+    <li><b>授权收入：</b>2025 年确认 94.3 亿元（辉瑞首付款及中国选择权的期权费），2026 上半年确认 8.5 亿元里程碑款。公司称，含辉瑞认购股份在内的前期款项合计 15 亿美元，首付款占交易总额的比例约 24%，是中国创新药单笔授权的最高纪录。</li>
+    <li><b>产品销售：</b>2025 年 80.1 亿元（−10.3%），2026 上半年 34.4 亿元（−19.3%）。公司把下滑归因于集采降价、医保支付政策和增值税政策调整；特比澳还面临口服 TPO 受体激动剂的替代。</li>
+    <li><b>CDMO：</b>2026 上半年 2.3 亿元（+160.9%），规模尚小但增长快。</li>
+    <li><b>费用：</b>2026 上半年销售费用下降 25.3%（占收入从 37.1% 降至 26.7%），研发费用增长 24.9% 至 6.8 亿元（占收入 15.1%）。汇兑损失使其他收入由去年同期的 +4.1 亿元变为 −0.7 亿元，这是归母净利润下降 15.6% 的主要原因；剔除汇兑与公允价值等非经营项目后，经调整净利润 14.4 亿元（+26.5%）。</li>
+  </ul>
+  <figure>
+    <figcaption>利润率与费用率（年度）<span class="cap-sub">毛利率、归母净利率、研发费用率、销售费用率</span></figcaption>
+    <div class="legend"><span class="leg-c1"><i></i>毛利率</span><span class="leg-c2"><i></i>归母净利率</span><span class="leg-c3"><i></i>研发 / 收入</span><span class="leg-c4"><i></i>销售费用 / 收入</span></div>
+    <div class="chart-box" id="ch-margin"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-half">
+    <caption>半年度（人民币百万元）</caption>
+    <thead><tr><th>期间</th><th class="n">收入</th><th class="n">其中：产品销售</th><th class="n">对外授权</th><th class="n">CDMO</th><th class="n">归母净利润</th><th class="n">研发费用</th><th class="n">销售费用</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+</section>
+
+<!-- ============ DEBT ============ -->
+<section id="debt">
+  <h2><span class="no">03</span>债务结构与偿债能力</h2>
+  <p class="lede">辉瑞的首付款让三生从“适度负债”变成“大额净现金”。偿债没有压力，值得关注的是现金的用途和外币资产的汇率风险。</p>
+  <div class="two">
+    <figure>
+      <figcaption>现金及存款与银行借款<span class="cap-sub">人民币百万元；不含理财产品</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>现金及存款</span><span class="leg-c2"><i class="box"></i>银行借款</span></div>
+      <div class="chart-box" id="ch-liq"></div>
+    </figure>
+    <div class="tbl-wrap" style="margin:0"><table class="tbl">
+      <thead><tr><th>偿债指标（2026-06-30）</th><th class="n">数值</th></tr></thead>
+      <tbody>
+        <tr><td>现金、定期存款及抵押存款</td><td class="n">¥124.7 亿</td></tr>
+        <tr><td>理财产品及衍生工具（以公允价值计量）</td><td class="n">¥51.9 亿</td></tr>
+        <tr><td>银行借款</td><td class="n">¥13.2 亿</td></tr>
+        <tr><td>净现金（含理财）</td><td class="n">¥163.3 亿</td></tr>
+        <tr><td>资本负债比率（借款+租赁+金融负债）/ 权益</td><td class="n">5.7%</td></tr>
+        <tr><td>流动比率</td><td class="n">6.1</td></tr>
+        <tr><td>经营利润 / 财务费用（上半年）</td><td class="n">≈ 48 倍</td></tr>
+        <tr><td>上半年经营现金流</td><td class="n">¥9.0 亿（−7.2%）</td></tr>
+        <tr><td>资产负债率（2025 年末）</td><td class="n">16.0%</td></tr>
+      </tbody>
+    </table></div>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-liq">
+    <caption>流动性历史（人民币百万元；现金口径以各期公告为准）</caption>
+    <thead><tr><th>期末</th><th class="n">现金及存款</th><th class="n">银行借款</th><th class="n">净现金（不含理财）</th><th class="n">资本负债比率</th><th class="n">流动比率</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <ul>
+    <li><b>借款持续下降：</b>银行借款从 2023 年末的 35.7 亿元降至 2026 年 6 月末的 13.2 亿元；2026 上半年偿还 15.3 亿元、新增 3.0 亿元。可转债已于 2023 年 8 月全部赎回，财务费用降至半年 3,090 万元。</li>
+    <li><b>现金的来源与去向：</b>2025 年经营现金流 96.7 亿元（主要是授权首付款）；之后的去向包括偿还借款、派发末期股息（每股 0.25 港元）、研发投入，以及未来三年 10–12 亿元的资本开支。</li>
+    <li><b>汇率风险：</b>2026 年 6 月末持有约 10.1 亿美元、14.7 亿港元和 1.82 亿瑞士法郎存款；人民币升值使上半年产生较大汇兑损失。</li>
+  </ul>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>维度</th><th>评估</th><th>依据</th></tr></thead>
+    <tbody>
+      <tr><td>短期流动性</td><td><span class="pill good"><i></i>非常强</span></td><td>流动比率 6.1；现金及存款 124.7 亿元，远超银行借款 13.2 亿元</td></tr>
+      <tr><td>长期偿债</td><td><span class="pill good"><i></i>非常强</span></td><td>资本负债比率 5.7%，净现金约 163 亿元</td></tr>
+      <tr><td>利息覆盖</td><td><span class="pill good"><i></i>非常强</span></td><td>上半年经营利润 14.7 亿元，财务费用 0.3 亿元</td></tr>
+      <tr><td>主业现金生成</td><td><span class="pill warn"><i></i>需关注</span></td><td>产品销售下滑，上半年经营现金流 9.0 亿元，同比 −7.2%</td></tr>
+      <tr><td>汇率</td><td><span class="pill warn"><i></i>需关注</span></td><td>美元、瑞士法郎存款规模大，人民币升值带来汇兑损失</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ============ SENSITIVITY ============ -->
+<section id="sensitivity">
+  <h2><span class="no">04</span>对市场增长的敏感性</h2>
+  <p class="lede">三生对“市场增长”的敏感性体现在三个层面：主业对医保、集采的敏感性；股价对创新药板块景气的敏感性；以及估值对 707 全球成败的敏感性。</p>
+
+  <h3>4.1 主业的经营杠杆（剔除授权收入）</h3>
+  <p>以 2026 上半年为基准（产品销售与 CDMO 收入 36.7 亿元，毛利率约 80%），假设销售费用 70% 在短期内固定、管理费用和研发费用固定：</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-lev">
+    <thead><tr><th>产品收入变动</th><th class="n">半年收入</th><th class="n">毛利</th><th class="n">经营利润（剔除授权）</th><th class="n">经营利润变动</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p>剔除授权收入后的经营杠杆约 3.3 倍：产品收入每下降 10%，主业经营利润下降约 33%；若下降 30%，主业基本不再盈利。原因是研发投入（半年 6.8 亿元）基本刚性，而主业利润的基数不大。<b>这意味着如果特比澳等老产品继续下滑，三生的利润将越来越依赖 707 的里程碑款和未来分成。</b></p>
+
+  <h3>4.2 股价对创新药板块的敏感性</h3>
+  <div class="two">
+    <figure>
+      <figcaption>可解释的风险占比（R²）<span class="cap-sub">日收益；恒指单因子 vs 恒指 + 创新药板块因子</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>模型可解释部分</span><span class="leg-mid"><i class="box"></i>公司特有部分</span></div>
+      <div class="chart-box" id="ch-risk"></div>
+    </figure>
+    <figure>
+      <figcaption>对创新药板块的 β（按年）<span class="cap-sub">日收益回归；板块为 15 家港股创新药公司等权指数</span></figcaption>
+      <div class="chart-box" id="ch-secbeta"></div>
+    </figure>
+  </div>
+  <p>2019–2024 年，三生对创新药板块的 β 在 0.46–0.94 之间，是一只偏防御的“老药企”。授权辉瑞后，它被市场重新归类为“创新药/出海”标的：2025 年和 2026 年对板块的 β 分别为 1.23 和 1.21，板块因子解释了 50%–67% 的日收益方差。<b>板块景气（BD 交易、医保政策、美国政策）现在会被放大传导到三生的股价上。</b></p>
+
+  <h3>4.3 707 的价值敏感性（示意）</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-roy">
+    <caption>707 海外销售分成的风险调整价值（港元/股，税后）</caption>
+    <thead><tr><th>海外峰值销售</th><th class="n">分成 10%</th><th class="n">分成 15%</th><th class="n">分成 20%</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">假设：2029 年上市，5 年线性爬坡至峰值，维持至 2038 年后每年下降 30%；折现率 10%，成功概率 60%，税率 15%；约 25.4 亿股，美元兑港元 7.80。分成比例按合同“两位数梯度”取 10%–20%。仅为示意计算，不是对 707 销售的预测。作为参照，帕博利珠单抗（Keytruda）2025 年销售额 317 亿美元，专利预计 2028 年起到期。</p>
+  <p>按协议，三生剩余可获得的里程碑款最高约 46.7 亿美元（约合每股 14.4 港元），但需要逐项达成开发、注册和销售目标，不能简单加总。上表显示，在“海外峰值 60 亿美元、分成 15%”的中性情景下，分成价值约每股 5.9 港元；若 707 失败，这部分价值为零。</p>
+</section>
+
+<!-- ============ OUTLOOK ============ -->
+<section id="outlook">
+  <h2><span class="no">05</span>未来规划与公司议程</h2>
+  <p class="lede">公司的路线是“自主研发 + 全球合作”双轨：707 交给辉瑞做全球开发，国内加快新产品上市，同时分拆蔓迪、回购股份，并寻找授权引进和并购机会。</p>
+  <ul class="tl">
+    <li><div class="when">2026 年 10 月 23–27 日 · ESMO 大会</div>多家中国创新药企业将披露临床数据，板块情绪的短期催化。</li>
+    <li><div class="when">2026 年 11 月 14 日 · 竞品监管节点</div>康方/Summit 的依沃西单抗（同为 PD-1/VEGF 双抗）美国上市申请的审评目标日期；结果会影响市场对整个 PD-1/VEGF 赛道的定价。</li>
+    <li><div class="when">2026 年 · 医保谈判与新品放量</div>益赛拓、新比澳、艾曲泊帕、613 等新品开始商业化，能否进入医保并放量、对冲特比澳下滑是关键。</li>
+    <li><div class="when">蔓迪分拆上市（时间待定）</div>以实物分派方式把蔓迪股份分给股东，并进行全球发售；完成后蔓迪的收入与利润不再并表。</li>
+    <li><div class="when">2029 年前后 · 707 全球 III 期主要数据</div>辉瑞 2025 年 10 月登记的肺癌头对头 III 期（联合化疗对比 Keytruda 联合化疗，计划入组约 1,500 人）预计 2029 年 2 月初步完成。</li>
+  </ul>
+  <div class="grid2">
+    <div class="card"><h4>① 707：辉瑞主导全球开发</h4><p>辉瑞负责海外全部开发费用。2025 年 10 月，辉瑞在 ClinicalTrials.gov 登记两项全球 III 期：一线非小细胞肺癌（联合化疗，头对头 Keytruda）和转移性结直肠癌。国内另有一项对比帕博利珠单抗的 III 期（主要终点 PFS）。ASCO 2026 更新显示，707 单药一线 PD-L1 阳性非小细胞肺癌的确认 ORR 为 67.6%，中位 PFS 12.4 个月（中位随访 15.2 个月）。</p></div>
+    <div class="card"><h4>② 国内商业化：新品接力</h4><p>2026 年已有 4 款产品获批（IL-17A、长效促红素、艾曲泊帕、IL-1β），另有 IL-4Rα 和 VEGF 单抗在审。新品集中在自身免疫、肾科和血液科，与公司现有的医院渠道重合，但都处于竞争激烈的赛道，放量速度存在不确定性。</p></div>
+    <div class="card"><h4>③ 资本运作：分拆与回购</h4><p>蔓迪分拆后，三生将更聚焦处方药与创新药。2025 年配售集资约 31.2 亿港元，80% 计划用于研发；2026 年 10 月 12 日公司以 14.7–14.9 港元场内回购 100 万股。2025 年末期股息每股 0.25 港元。</p></div>
+    <div class="card"><h4>④ 研发与产能</h4><p>2026 上半年研发费用 6.8 亿元（+24.9%）。公司计划未来三年资本开支 10–12 亿元，主要用于现有设施维护和产能扩张；并按临床供货协议为辉瑞的 707 临床试验供货；CDMO 收入快速增长。</p></div>
+  </div>
+</section>
+
+<!-- ============ PEERS ============ -->
+<section id="peers">
+  <h2><span class="no">06</span>同业对比：增长、行业规模、股价波动与产品预期</h2>
+  <p class="lede">对比对象是港股主要的创新药与制药公司。核心发现：三生的收入增速在同业中靠后、估值最低、2026 年跌幅居前；它的投资逻辑高度集中在 707 一个资产上。</p>
+
+  <h3>6.1 行业规模与景气</h3>
+  <div class="two">
+    <figure>
+      <figcaption>中国创新药对外授权（License-out）交易额<span class="cap-sub">十亿美元；2024 年按 2025 年同比 +161% 倒推</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>交易总额</span><span class="leg-c4"><i class="box"></i>首付款</span></div>
+      <div class="chart-box" id="ch-bd"></div>
+    </figure>
+    <figure>
+      <figcaption>国家药监局批准上市的 1 类创新药<span class="cap-sub">个；2026 年为上半年“全球新”创新药</span></figcaption>
+      <div class="chart-box" id="ch-appr"></div>
+    </figure>
+  </div>
+  <ul>
+    <li><b>出海交易：</b>据医药魔方统计，2025 年中国创新药对外授权总额 1,356.6 亿美元，首付款 70 亿美元，共 157 笔，交易额约占全球授权交易的 49%。2026 年上半年交易总额约 976–1,100 亿美元（不同机构口径），首付款约 50 亿美元（单一来源）。三生与辉瑞的交易是 2025 年首付款最高的单笔交易之一。</li>
+    <li><b>新药审批：</b>1 类创新药获批数从 2024 年的 48 个增至 2025 年的 76 个；2026 年上半年批准“全球新”创新药 38 个，其中 11 个是新靶点、新机制药物，全部为国产。</li>
+    <li><b>市场规模：</b>不同机构对中国医药市场的估计在 1.6–1.8 万亿元之间（口径差异较大）；UBS 估计 2026–2030 年创新药销售年均增速约 20%。本文对比的 16 家港股创新药公司合计市值约 1.54 万亿港元。</li>
+  </ul>
+
+  <h3>6.2 增长与盈利对比</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-peer-growth">
+    <caption>收入、利润与研发（人民币百万元；美元报表公司按东方财富折算口径）</caption>
+    <thead><tr><th>公司</th><th class="n">2025 年收入</th><th class="n">同比</th><th class="n">2026 上半年收入</th><th class="n">同比</th><th class="n">上半年归母净利润</th><th class="n">同比</th><th class="n">研发 / 收入</th><th>说明</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>2026 上半年收入同比增速<span class="cap-sub">橙色为三生制药；荣昌（+436%，含授权收入）未显示</span></figcaption>
+      <div class="chart-box" id="ch-peer-growth"></div>
+    </figure>
+    <figure>
+      <figcaption>2026 上半年研发费用 / 收入<span class="cap-sub">科伦博泰收入基数小、荣昌含大额授权收入</span></figcaption>
+      <div class="chart-box" id="ch-peer-rd"></div>
+    </figure>
+  </div>
+  <p>同业的增长主要来自两条路径：一是新产品放量（信达的玛仕度肽与肿瘤产品、百济的泽布替尼、康方的两款双抗），二是对外授权的一次性收入（石药、荣昌、恒瑞、科伦博泰）。三生 2025 年的高增长属于第二类，而 2026 年产品收入下滑，说明它在第一条路径上明显落后。<b>恒瑞的收入同样受授权收入波动拖累（上半年 −1.9%），但创新药销售 +16.4%、占药品销售 63.2%，主业结构在改善；三生的主业结构则在恶化。</b></p>
+
+  <h3>6.3 估值对比</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-peer-val">
+    <caption>估值（股价为 2026-10-22 收盘；市值来自 Yahoo Finance，三生按公司股本计算）</caption>
+    <thead><tr><th>公司</th><th class="n">市值（亿港元）</th><th class="n">市销率 TTM</th><th class="n">市盈率 TTM</th><th class="n">分析师目标价均值</th><th class="n">隐含空间</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">三生的 TTM 收入和利润包含 102.8 亿元授权收入，市销率 1.7 倍、市盈率 3.6 倍都夸大了它的“便宜程度”。扣除授权收入后市销率约 3.9 倍，与石药（2.6 倍）、先声（2.6 倍）、中国生物制药（2.2 倍）等以仿制药和成熟产品为主的公司同属一档，明显低于恒瑞、信达、翰森等创新药占比高的公司。</p>
+
+  <h3>6.4 股价在创新药板块中的波动</h3>
+  <figure>
+    <figcaption>2025 年以来的表现（2024 年末 = 100）<span class="cap-sub">三生制药、创新药同业指数（15 家等权）、恒生指数与部分同业</span></figcaption>
+    <div class="legend"><span class="leg-c2"><i></i>三生制药</span><span class="leg-c3"><i></i>创新药同业指数</span><span class="leg-c1"><i></i>恒生指数</span><span class="leg-c7"><i></i>康方生物</span><span class="leg-c4"><i></i>信达生物</span></div>
+    <div class="chart-box" id="ch-rebased"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-peer-vol">
+    <caption>股价表现与风险（2025 年收益、2026 年至 10/21 收益；波动率为最近 252 个交易日；β 与相关系数为 2023 年以来或上市以来日收益）</caption>
+    <thead><tr><th>公司</th><th class="n">2025 年</th><th class="n">2026 年至今</th><th class="n">近一年波动率</th><th class="n">对恒指 β</th><th class="n">对板块 β</th><th class="n">与板块相关系数</th><th class="n">2025 年以来最大回撤</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>近一年年化波动率<span class="cap-sub">16 家港股创新药公司</span></figcaption>
+      <div class="chart-box" id="ch-peer-vol"></div>
+    </figure>
+    <figure>
+      <figcaption>2026 年至今收益<span class="cap-sub">截至 10/21</span></figcaption>
+      <div class="chart-box" id="ch-peer-ytd"></div>
+    </figure>
+  </div>
+  <ul>
+    <li><b>大起大落：</b>2025 年三生上涨 302%，在同业中仅次于荣昌生物（+402%）；2026 年至今下跌 40%，跌幅仅次于映恩生物（−43%）。同期同业指数 +4%，百济（+29%）、科伦博泰（+20%）、信达（+17%）仍在上涨。</li>
+    <li><b>波动率处于高位：</b>近一年 58%，高于信达（46%）、恒瑞（41%）、翰森（41%）和百济（38%），接近康方（61%）和荣昌（62%）等估值高度依赖少数核心品种的公司。</li>
+    <li><b>β 偏高且在上升：</b>2023 年以来对板块的 β 约 0.92，最近一年约 1.27。板块下跌时，三生往往跌得更多。</li>
+    <li><b>10 月 22 日：</b>港股创新药普跌（15 家同业平均 −6.3%，康方 −9.6%、信达 −8.4%），三生跌 4.6% 至 13.63 港元，创 52 周新低。</li>
+  </ul>
+
+  <h3>6.5 产品预期对比</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-pd1">
+    <caption>PD-1（L1）/VEGF 双抗赛道（707 的直接竞争格局）</caption>
+    <thead><tr><th>药物</th><th>原研 / 合作方</th><th>交易条款</th><th>进展与关键节点</th></tr></thead>
+    <tbody>
+      <tr><td>依沃西单抗（ivonescimab）</td><td>康方生物 / Summit</td><td>Summit 获海外权益</td><td>国内已获批 3 项适应症（2026 年 8 月新增一线鳞状非小细胞肺癌）；美国针对 EGFR 突变非小细胞肺癌的上市申请审评目标日期为 2026 年 11 月 14 日；全球 III 期 HARMONi-3 头对头帕博利珠单抗</td></tr>
+      <tr class="me"><td>707（PF-08634404）</td><td>三生制药 / 辉瑞</td><td>首付款 12.5 亿美元 + 期权费，里程碑最高 48 亿美元，两位数梯度分成</td><td>两项全球 III 期（肺癌头对头 Keytruda 联合化疗、结直肠癌）；国内 III 期对比帕博利珠单抗；ASCO 2026 单药一线 NSCLC 确认 ORR 67.6%</td></tr>
+      <tr><td>BNT327（PD-L1/VEGF）</td><td>普米斯（已被 BioNTech 收购）/ BMS</td><td>据报道 BMS 支付 15 亿美元前期款，另有至 2028 年的 20 亿美元无条件付款</td><td>全球 III 期：一线小细胞肺癌、非小细胞肺癌</td></tr>
+      <tr><td>LM-299（MK-2010）</td><td>礼新医药（已被中国生物制药收购）/ 默沙东</td><td>首付款 5.88 亿美元，里程碑最高 27 亿美元</td><td>早期临床；默沙东同时拥有 Keytruda，被视为其专利到期后的接替策略之一</td></tr>
+    </tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl">
+    <caption>主要同业的增长来源与近期看点</caption>
+    <thead><tr><th>公司</th><th>当前增长来源</th><th>市场关注的产品预期</th></tr></thead>
+    <tbody>
+      <tr><td>恒瑞医药</td><td>创新药销售（上半年 88.1 亿元，+16.4%，占药品销售 63.2%）；对 GSK 等的授权收入</td><td>创新药占比继续提升、BD 收入的确认节奏；拟 10–20 亿元回购 A 股</td></tr>
+      <tr><td>百济神州</td><td>泽布替尼全球销售（二季度 12 亿美元，+31%）</td><td>2026 年收入指引上调至 66–68 亿美元；血液瘤管线</td></tr>
+      <tr><td>信达生物</td><td>产品收入上半年 82.0 亿元（+56.7%），玛仕度肽（GCG/GLP-1）放量</td><td>IBI363（PD-1/IL-2）等三个分子推进全球 III 期</td></tr>
+      <tr><td>康方生物</td><td>依沃西与卡度尼利两款双抗放量，商业收入上半年 +28.7%</td><td>依沃西美国审批（11/14）与 HARMONi-3 数据；仍未盈利</td></tr>
+      <tr><td>翰森制药</td><td>创新药收入占 85.4%；上半年利润 +35.8%</td><td>国际化授权与新品上市</td></tr>
+      <tr><td>石药集团</td><td>上半年确认阿斯利康授权首付款，归母净利润 +139%；成药业务剔除授权约增 10%</td><td>授权交易的持续性；仿制药集采压力</td></tr>
+      <tr><td>中国生物制药</td><td>创新药及授权收入 87.9 亿元，占比升至 45.2%</td><td>礼新医药并入后的 BD 管线（含 LM-299）</td></tr>
+      <tr><td>科伦博泰</td><td>芦康沙妥珠单抗（TROP2 ADC）进入医保后快速放量，产品收入 +112%</td><td>与默沙东合作的全球开发</td></tr>
+      <tr class="me"><td>三生制药</td><td>授权里程碑；老产品下滑，新品刚获批</td><td>707 全球 III 期；新品能否对冲特比澳下滑；蔓迪分拆</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ============ VALUATION ============ -->
+<section id="valuation">
+  <h2><span class="no">07</span>估值</h2>
+  <div class="tbl-wrap"><table class="tbl tbl-val">
+    <thead><tr><th>指标</th><th class="n">数值</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>股价（2026-10-22）</td><td class="n">HK$13.63</td><td>52 周区间 13.63–34.38 港元（收盘价）</td></tr>
+      <tr><td>市值</td><td class="n">HK$346 亿（≈¥296 亿）</td><td>约 25.4 亿股（2026 上半年加权平均股数）；人民币兑港元 0.855</td></tr>
+      <tr><td>净现金（含理财）</td><td class="n">≈¥163 亿</td><td>约占市值 55%，每股约 7.5 港元</td></tr>
+      <tr><td>企业价值</td><td class="n">≈¥132 亿</td><td>市值减净现金</td></tr>
+      <tr><td>TTM 收入</td><td class="n">¥178.7 亿</td><td>其中产品销售 71.8 亿元、授权 102.8 亿元、CDMO 4.1 亿元</td></tr>
+      <tr><td>市盈率（TTM）</td><td class="n">3.6x</td><td>含一次性授权收入，参考意义有限</td></tr>
+      <tr><td>市销率（扣除授权）</td><td class="n">3.9x</td><td>市值 ÷（产品销售 + CDMO）</td></tr>
+      <tr><td>股息率</td><td class="n">1.8%</td><td>2025 年末期股息每股 0.25 港元</td></tr>
+      <tr><td>分析师目标价（11 位）</td><td class="n">均值 HK$29.3 / 中位 HK$30.5</td><td>区间 17.0–37.5 港元；大摩 2026 年 4 月下调至 34 港元，申万宏源 9 月给出 30.4 港元</td></tr>
+    </tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-sotp">
+    <caption>分部估值：市值扣除净现金和基础业务后，留给 707 的隐含价值</caption>
+    <thead><tr><th>基础业务市盈率</th><th class="n">基础业务价值（亿元）</th><th class="n">707 隐含价值（亿元）</th><th class="n">折合每股（港元）</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p>基础业务利润按 2026 上半年经调整净利润 14.4 亿元减去税后里程碑收入（约 7.2 亿元）后年化，约 14.2 亿元。结果显示，在 8–12 倍的常见区间内，市场给 707 的隐含价值接近零，甚至为负。这有三种可能的解释：一是市场认为主业会继续快速萎缩，不值 10 倍；二是对 707 的成功概率极度悲观；三是净现金中有一部分会被研发、资本开支和少数股东权益“消耗”。按 4.3 节的示意计算，只要 707 的成功概率不是很低，当前价格隐含的预期偏悲观。</p>
+</section>
+
+<!-- ============ VOLATILITY ============ -->
+<section id="volatility">
+  <h2><span class="no">08</span>波动率分析（以恒生指数和创新药板块为基准）</h2>
+  <p class="lede">样本：2019 年 1 月 2 日至 2026 年 10 月 21 日，共 1,918 个日收益观测值；价格为复权收盘价（港元）。</p>
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">基准选择</span>恒生指数作为“市场组合”；“创新药板块”使用 15 家港股创新药公司（恒瑞、百济、信达、康方、翰森、石药、中国生物制药、科伦博泰、君实、荣昌、先声、和黄、再鼎、映恩、康诺亚）的等权日收益，不含三生自身，公司上市后才纳入。该指数与华夏恒生香港生物科技指数 ETF（3069.HK）日收益的相关系数为 0.92。无风险利率使用 13 周美国国债收益率。</div>
+  </div>
+
+  <h3>8.1 价格走势对比</h3>
+  <figure>
+    <figcaption>累计表现（2019-01-02 = 100，对数坐标）</figcaption>
+    <div class="legend"><span class="leg-c2"><i></i>三生制药</span><span class="leg-c3"><i></i>创新药同业指数</span><span class="leg-c1"><i></i>恒生指数</span></div>
+    <div class="chart-box" id="ch-price"></div>
+  </figure>
+
+  <h3>8.2 风险统计总表</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-risk">
+    <thead><tr><th>指标（2019/01/02 – 2026/10/21）</th><th class="n">三生制药</th><th class="n">创新药同业</th><th class="n">恒生指数</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-year">
+    <caption>分年度表现与风险</caption>
+    <thead><tr><th>年份</th><th class="n">三生</th><th class="n">同业指数</th><th class="n">恒指</th><th class="n">三生波动率</th><th class="n">对恒指 β</th><th class="n">对板块 β</th><th class="n">板块 R²</th><th class="n">年内最大回撤</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+
+  <h3>8.3 滚动波动率与波动聚集</h3>
+  <figure>
+    <figcaption>63 日滚动年化波动率与 GARCH(1,1) 条件波动率</figcaption>
+    <div class="legend"><span class="leg-c2"><i></i>三生 63 日</span><span class="leg-c7"><i></i>三生 GARCH</span><span class="leg-c3"><i></i>同业指数 63 日</span><span class="leg-c1"><i></i>恒指 63 日</span></div>
+    <div class="chart-box" id="ch-vol"></div>
+  </figure>
+  <p>GARCH(1,1)（学生 t 分布）估计：α = 0.077，β = 0.897，持续性 0.974，波动冲击的半衰期约 26 个交易日（同业指数约 34 天，恒指约 17 天），长期均值约 53%。2025 年 5 月授权公告前后，条件波动率一度超过 150%；当前约 43%，仍高于长期的板块水平。</p>
+
+  <h3>8.4 单指数模型与两因子模型</h3>
+  <div class="formula">R<sub>1530</sub> − R<sub>f</sub> = α + β<sub>M</sub>(R<sub>HSI</sub> − R<sub>f</sub>) + β<sub>S</sub>·F<sub>板块⊥恒指</sub> + e　　F 为同业指数对恒指回归的残差</div>
+  <div class="two">
+    <figure>
+      <figcaption>日超额收益散点（对创新药板块）<span class="cap-sub">横轴：同业指数；纵轴：三生制药</span></figcaption>
+      <div class="chart-box" id="ch-scatter"></div>
+    </figure>
+    <div class="tbl-wrap" style="margin:0"><table class="tbl" id="tbl-sim">
+      <thead><tr><th>模型估计（日度，全样本）</th><th class="n">对恒指</th><th class="n">对板块</th></tr></thead>
+      <tbody></tbody>
+    </table></div>
+  </div>
+
+  <h3>8.5 β 与相关性的变化</h3>
+  <div class="two">
+    <figure>
+      <figcaption>252 日滚动 β</figcaption>
+      <div class="legend"><span class="leg-c1"><i></i>对恒指</span><span class="leg-c3"><i></i>对创新药板块</span></div>
+      <div class="chart-box" id="ch-beta"></div>
+    </figure>
+    <figure>
+      <figcaption>63 日滚动相关系数</figcaption>
+      <div class="legend"><span class="leg-c3"><i></i>与创新药板块</span><span class="leg-c1"><i></i>与恒指</span></div>
+      <div class="chart-box" id="ch-corr"></div>
+    </figure>
+  </div>
+  <ul>
+    <li><b>全样本：</b>对恒指 β 0.97（95% 区间 0.88–1.06），R² 18.6%；对板块 β 0.77，R² 34.0%。两因子模型 R² 34.9%，约三分之二的波动仍是公司特有的。</li>
+    <li><b>非对称：</b>恒指下跌日 β 1.17，上涨日只有 0.75。市场下跌时三生往往跌得更多，这对风险管理更重要。</li>
+    <li><b>结构变化：</b>2025 年以来，加入板块因子后 R² 从 15.7% 升至 55.1%；最近的 252 日 β 对恒指约 1.24、对板块约 1.27。三生已经从“与创新药板块弱相关的老药企”变成“高 β 的创新药股”。</li>
+  </ul>
+
+  <h3>8.6 收益分布与回撤</h3>
+  <div class="two">
+    <figure>
+      <figcaption>日收益分布<span class="cap-sub">各区间交易日占比（2 个百分点一档；±30% 截尾）</span></figcaption>
+      <div class="legend"><span class="leg-c2"><i class="box"></i>三生制药</span><span class="leg-c3"><i class="box"></i>创新药同业</span></div>
+      <div class="chart-box" id="ch-hist"></div>
+    </figure>
+    <figure>
+      <figcaption>回撤（相对样本内最高点）</figcaption>
+      <div class="legend"><span class="leg-c2"><i></i>三生制药</span><span class="leg-c3"><i></i>创新药同业</span><span class="leg-c1"><i></i>恒生指数</span></div>
+      <div class="chart-box" id="ch-dd"></div>
+    </figure>
+  </div>
+</section>
+
+<!-- ============ EVENTS ============ -->
+<section id="events">
+  <h2><span class="no">09</span>股价与事件：事件研究</h2>
+  <p class="lede">用“恒指 + 创新药板块”两因子模型剔除大盘与行业的影响，计算每个事件反应日的异常收益（AR），并用残差标准差检验显著性。</p>
+  <div class="formula">AR<sub>t</sub> = R<sub>1530,t</sub> − (α̂ + β̂<sub>M</sub> R<sub>HSI,t</sub> + β̂<sub>S</sub> F<sub>t</sub>)　　t = AR / σ(e)，σ(e) = 2.68%（日残差标准差）；|t| &gt; 1.96 视为在 5% 水平显著</div>
+  <figure>
+    <figcaption>股价走势与 23 个关键事件（2024–2026）<span class="cap-sub">编号对应下表；蓝点为正异常收益，红点为负异常收益；悬停或聚焦查看详情</span></figcaption>
+    <div class="legend"><span class="leg-pos"><i class="box"></i>正异常收益</span><span class="leg-neg"><i class="box"></i>负异常收益</span><span class="leg-c2"><i></i>收盘价（港元，复权）</span></div>
+    <div class="chart-box" id="ch-events"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-events">
+    <thead><tr><th>#</th><th>反应日</th><th>事件</th><th>类别</th><th class="n">1530</th><th class="n">板块</th><th class="n">异常收益AR</th><th class="n">t 值</th><th class="n">CAR[0,+5]</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">反应日为市场首次能够交易该信息的交易日：港交所公告在收市后发布的，以次一交易日为反应日；早间公告以当天为反应日。t 值加粗表示 |t| &gt; 1.96。CAR[0,+5] 为反应日起 6 个交易日的累计异常收益。“板块”为当日创新药同业指数收益。</p>
+  <div class="two">
+    <figure>
+      <figcaption>各事件的异常收益<span class="cap-sub">按时间排序</span></figcaption>
+      <div class="chart-box" id="ch-ar"></div>
+    </figure>
+    <figure>
+      <figcaption>按年度的累计异常收益<span class="cap-sub">两因子模型残差之和</span></figcaption>
+      <div class="chart-box" id="ch-car"></div>
+      <div class="src">2025 年累计异常收益 +107%，2026 年至 10/21 为 −46%：股价的大起大落主要是公司自身因素，而非行业或大盘。</div>
+    </figure>
+  </div>
+
+  <h3>9.1 规律总结</h3>
+  <ol>
+    <li><b>BD 授权是最大的价值事件，且信息提前反映。</b>辉瑞授权公告当天股价 +32.3%（AR +29.4%，t = 11.0），但公告前两个交易日已分别上涨 11.4% 和 13.8%；5/16–5/21 四个交易日累计上涨 82%，累计异常收益 +59%。</li>
+    <li><b>“兑现期”的事件以负面为主。</b>授权生效当天公告辉瑞以 25.20 港元认购新股（低于市价），次日 −6.4%；蔓迪分拆（−9.4%，AR −6.1%）、配售新股（−4.6%）、2025 年报（−6.8%，AR −6.8%）都被市场解读为“摊薄”或“主业变差”。</li>
+    <li><b>临床与开发进展仍能带来正面反应。</b>辉瑞登记两项全球 III 期当天 +11.3%（AR +8.8%，t = 3.3）；ASCO 2026 数据公布当天 +7.2%（AR +4.0%），但随后几天回吐。</li>
+    <li><b>政策事件主要通过板块传导。</b>2026 年 6 月 29 日医保目录初审、7 月 15 日基药目录纳入创新药，三生分别上涨 8.6% 和 4.4%，但异常收益只有 +2.6% 和 +1.2%，基本由板块解释；2025 年 4 月 7 日关税冲击当天下跌 23.3%，其中约 17 个百分点由恒指和板块下跌解释。</li>
+    <li><b>业绩日的波动明显放大。</b>2024–2026 年 6 次业绩公告反应日的平均绝对涨跌幅约 6.6%，是普通交易日（2.3%）的近 3 倍。2024 年中报（−10.6%）和 2025 年报（−6.8%，产品销售下滑）后下跌，2024 年报（+10.1%）和 2026 年中报（+8.1%，经调整利润增长、费用下降）后上涨。</li>
+  </ol>
+  <h3>9.2 典型案例</h3>
+  <div class="grid2">
+    <div class="card"><h4>案例 A：辉瑞授权（2025/05/20）</h4><p>早间公告 12.5 亿美元首付款、最高 48 亿美元里程碑。当天收涨 32.3%，恒指 +1.5%，板块 +3.6%，异常收益 +29.4%。<b>启示：</b>首付款占比高、买方是头部药企的交易，市场会立即给予大幅重估。</p></div>
+    <div class="card"><h4>案例 B：2025 年报（2026/03/31）</h4><p>收入 +94.3%、利润 +305.8%，但产品销售 −10.3%。公告次日下跌 6.8%，而板块持平，异常收益 −6.8%（t = −2.5）。<b>启示：</b>市场把一次性授权收入与主业分开定价。</p></div>
+    <div class="card"><h4>案例 C：辉瑞登记全球 III 期（2025/10/31）</h4><p>肺癌头对头 Keytruda 的全球 III 期登记后，股价当天上涨 11.3%，恒指 −1.4%，异常收益 +8.8%。<b>启示：</b>合作方投入真金白银推进开发，是比数据本身更强的信号。</p></div>
+    <div class="card"><h4>案例 D：大摩下调预测（2026/04/23）</h4><p>大摩下调特比澳销售和里程碑预期，目标价 38→34 港元。当天下跌 9.6%，板块 −4.6%，异常收益 −6.3%。<b>启示：</b>在高 β 的板块中，单一卖方观点也能造成显著的个股异动。</p></div>
+  </div>
+</section>
+
+<!-- ============ RISKS ============ -->
+<section id="risks">
+  <h2><span class="no">10</span>主要风险因素</h2>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>风险</th><th>严重度</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>707 临床与竞争风险</td><td><span class="pill crit"><i></i>高</span></td><td>全球 III 期结果要到 2029 年前后；依沃西、BNT327 等竞品进度更快或数据更好，都会压低 707 的价值</td></tr>
+      <tr><td>依赖单一合作方</td><td><span class="pill crit"><i></i>高</span></td><td>里程碑与分成取决于辉瑞的开发优先级和商业化投入</td></tr>
+      <tr><td>主业下滑</td><td><span class="pill crit"><i></i>高</span></td><td>特比澳面临口服 TPO 受体激动剂及集采；2026 上半年产品销售 −19.3%，主业经营杠杆约 3.3 倍</td></tr>
+      <tr><td>蔓迪分拆</td><td><span class="pill warn"><i></i>中</span></td><td>分拆后蔓迪利润不再并表，三生的利润和现金流基数下降（股东以实物分派获得蔓迪股份）</td></tr>
+      <tr><td>新品放量不及预期</td><td><span class="pill warn"><i></i>中</span></td><td>IL-17A、IL-4Rα 等赛道竞争激烈，医保谈判价格存在不确定性</td></tr>
+      <tr><td>汇率</td><td><span class="pill warn"><i></i>中</span></td><td>大额美元与瑞士法郎存款，人民币升值带来汇兑损失（2026 上半年已发生）</td></tr>
+      <tr><td>美国政策与板块情绪</td><td><span class="pill warn"><i></i>中</span></td><td>2025 年 9 月美国拟限制从中国引进新药的传闻曾引发板块下跌；三生对板块 β 已超过 1</td></tr>
+      <tr><td>股本摊薄</td><td><span class="pill warn"><i></i>中低</span></td><td>2025 年辉瑞认购与配售合计新增约 1.36 亿股；但净现金充足，进一步融资的必要性较低</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ============ CONCLUSION ============ -->
+<section id="conclusion">
+  <h2><span class="no">11</span>结论</h2>
+  <p>三生制药在 2025 年完成了一次“价值兑现”：把 707 的海外权益以创纪录的首付款授权给辉瑞，收入和利润翻倍，资产负债表从负债转为大额净现金。但在同一时期，作为利润基础的老产品在集采、医保和竞争的压力下加速下滑，2026 年上半年产品销售下降 19.3%。</p>
+  <p>从偿债能力看，三生没有任何实质性的债务风险。从市场敏感性看，它对恒指的 β 约 1，但已越来越像一只“创新药板块股”，2025 年以来板块因子解释了一半以上的波动。从同业对比看，它的收入增速靠后、估值最低、2026 年跌幅居前：股价已跌回授权公告前的水平，市值中一半以上是现金，按常见倍数给主业估值后，市场几乎没有为 707 支付溢价。</p>
+  <p><b>接下来最值得关注的五个信号：</b>① 辉瑞对 707 的投入强度（新增 III 期、入组进度、里程碑付款）；② 依沃西单抗 11 月 14 日的美国审批结果与 HARMONi-3 数据；③ 新品（IL-17A、长效促红素等）医保谈判与放量能否对冲特比澳下滑；④ 蔓迪分拆的时间与估值；⑤ 回购力度与净现金的使用方向（研发、并购还是分红）。</p>
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">与前两份报告的对比</span>CoreWeave 的风险在资产负债表（高杠杆），泡泡玛特的风险在增长的可持续性（IP 周期）。三生的风险则集中在单一资产的二元结果上：707 成功，当前估值显得很便宜；707 失败，股价主要由净现金和逐渐萎缩的主业支撑。</div>
+  </div>
+</section>
+
+<!-- ============ APPENDIX ============ -->
+<section id="appendix">
+  <h2><span class="no">12</span>方法说明与数据来源</h2>
+  <h3>方法</h3>
+  <ul class="small">
+    <li><b>收益率：</b>使用 Yahoo Finance 的复权收盘价。波动率使用对数收益，回归与事件研究使用扣除无风险利率后的简单超额收益。年化按 252 个交易日计算。样本截至 2026/10/21（10/22 恒指日线不完整）；估值使用 10/22 收盘价。</li>
+    <li><b>创新药同业指数：</b>15 家公司日收益的等权平均（至少 4 家有数据的交易日才计入），不含三生自身；同业表中每家公司的板块 β 使用剔除该公司后的指数。</li>
+    <li><b>两因子模型：</b>板块因子为同业指数对恒指回归的残差，以分离大盘与行业的影响；事件研究的异常收益基于该模型的全样本参数。</li>
+    <li><b>GARCH：</b>GARCH(1,1)，常数均值，学生 t 分布，使用 Python arch 包估计。</li>
+    <li><b>同业财务数据：</b>来自东方财富港股财务指标与利润表（通过 akshare 获取），美元报表公司按其折算口径；市值、目标价来自 Yahoo Finance。TTM = 2025 年 + 2026 上半年 − 2025 上半年。</li>
+    <li><b>707 分成与分部估值：</b>示意性计算，关键假设已在表下列出，并非盈利预测或投资建议。</li>
+  </ul>
+  <h3>数据来源</h3>
+  <ol class="foot">
+    <li>三生制药公告（港交所披露易）：<a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082001637.pdf">2026 年中期业绩</a>、<a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033002398.pdf">2025 年年度业绩</a>、<a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0520/2025052000021.pdf">辉瑞授权（内幕消息）</a>、<a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0724/2025072401558.pdf">授权生效与辉瑞认购</a>、<a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1120/2025112001394.pdf">蔓迪分拆</a>；其余见事件表链接。</li>
+    <li>行情与公司概况：Yahoo Finance（1530.HK、15 家同业、^HSI、^IRX、3069.HK 等）；同业财务：东方财富（akshare）及各公司业绩公告。</li>
+    <li>行业数据：<a href="https://www.cls.cn/detail/2327942">财联社：2025 年创新药出海交易</a>；<a href="https://news.10jqka.com.cn/20260710/c678090906.shtml">同花顺：2026 上半年交易额</a>；<a href="https://www.news.cn/fortune/20260720/d8c347dae7a34eff8fa032aaf889a3ed/c.html">新华网：上半年对外授权</a>；<a href="https://www.news.cn/fortune/20260713/bf179565b24745daa346b00f9caf17fa/c.html">新华网：上半年批准创新药</a>；<a href="https://www.news.cn/20260513/75dec2a696e14c25941e5f6db08f8860/c.html">新华网：2025 年药品审批</a></li>
+    <li>竞争格局：<a href="https://businesswire.com/news/home/20260129109846/en/Summit-Therapeutics-Announces-U.S.-FDA-Acceptance-of-Biologics-License-Application-BLA-Seeking-Approval-for-Ivonescimab-in-Combination-with-Chemotherapy-in-Treatment-of-Patients-with-EGFRm-NSCLC-Post-TKI-Therapy">Summit：依沃西 BLA 受理</a>；<a href="https://www.biospace.com/press-releases/biontech-and-bristol-myers-squibb-announce-global-strategic-partnership-to-co-develop-and-co-commercialize-next-generation-bispecific-antibody-candidate-bnt327-broadly-for-multiple-solid-tumor-types">BioNTech/BMS：BNT327 合作</a>；<a href="https://dailypharm.com/eng/user/news/579">Dailypharm：BMS 付款条款</a>；<a href="https://www.biospectrumasia.com/news/26/25208/merck-inks-deal-worth-up-to-2-7-b-with-chinese-biotech-startup-lanova-medicines.html">默沙东/礼新：LM-299</a>；<a href="https://pharmaphorum.com/news/msd-az-partner-lanova-bought-sino-biopharm-951m">中国生物制药收购礼新</a>；<a href="https://chemxplore.com/news/merck-2025-financial-results">默沙东 2025 年业绩（Keytruda）</a></li>
+    <li>707 临床：<a href="https://clinicaltrials.gov/study/NCT06980272">NCT06980272（国内 III 期）</a>；<a href="https://www.pfizeroncologydevelopment.com/sites/default/files/scientific_presentation/SITC%202025_SSGJ%20707%20NSCLC_Poster_finall.pdf">SITC 2025 海报</a>；<a href="https://www.itiger.com/hant/news/1185000236">辉瑞登记两项全球 III 期</a>；<a href="https://www.itiger.com/news/1152411285">ASCO 2026</a></li>
+    <li>同业业绩：<a href="https://www.yicai.com/news/103325457.html">第一财经：恒瑞半年报</a>；<a href="https://finance.eastmoney.com/a/202608253853404049.html">东方财富：信达半年报</a>；<a href="https://wap.eastmoney.com/a/202608283857048234.html">东方财富：康方半年报</a>；<a href="https://www.businesswire.com/news/home/20260805570642/en/">百济神州二季度业绩</a>；<a href="https://m.gelonghui.com/news/5308433">格隆汇：翰森中报</a>；<a href="https://cj.sina.com.cn/articles/view/1644983660/620c756c02001ui2u">新浪：中国生物制药中期收入</a>；<a href="https://stock.10jqka.com.cn/20260818/c679040266.shtml">同花顺：科伦博泰中期</a></li>
+    <li>三生股价事件：<a href="https://www.itiger.com/news/1159027598">大摩下调</a>；<a href="https://stock.10jqka.com.cn/20260430/c676408929.shtml">SSS68 获批临床</a>；<a href="https://www.caiwennews.com/article/1647184.shtml">回购</a>；<a href="https://www.itiger.com/news/1114321450">授权当日</a>；<a href="https://thebambooworks.com/?p=60524">Bamboo Works：2025 年报解读</a>；<a href="https://stockpage.10jqka.com.cn/HK1530">同花顺：评级汇总</a></li>
+  </ol>
+  <div class="disclaimer">本报告基于公开信息和作者的计算，用于研究与学习目的，不构成任何投资建议。部分数据（行业交易统计、分析师目标价、竞品交易条款）来自媒体与第三方数据库；707 分成、分部估值等结果依赖假设，实际结果可能显著不同。</div>
+</section>
+</main>
+
+<script>
+const DATA = __DATA_JSON__;
+/*__CHARTS_JS__*/
+
+/* ---------- data prep ---------- */
+const S = DATA.series, F = DATA.fund;
+const CAT = { earnings: '业绩', deal: '授权/BD', capital: '资本运作', clinical: '临床/注册', analyst: '卖方观点', macro: '宏观/政策' };
+const EV = DATA.events.map((e, i) => ({ ...e, n: i + 1 }));
+const idxOf = d => S.date.indexOf(d);
+const ME = '1530';
+
+function fillRows(tbody, rows) {
+  rows.forEach(cells => {
+    const tr = document.createElement('tr');
+    if (cells.me) tr.className = 'me';
+    (cells.cells || cells).forEach(c => {
+      const td = document.createElement('td');
+      if (typeof c === 'object' && c !== null) {
+        if (c.n) td.className = 'n';
+        if (c.cls) td.className = (td.className + ' ' + c.cls).trim();
+        if (c.href) { const a = document.createElement('a'); a.href = c.href; a.textContent = c.text; a.target = '_blank'; a.rel = 'noopener'; td.appendChild(a); }
+        else td.textContent = c.text;
+      } else td.textContent = c;
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+  return tbody;
+}
+const tone = v => v === null || v === undefined ? '' : (v < 0 ? 'neg-t' : 'pos-t');
+const yi = v => num(v / 100, 1);
+
+/* ---------- tables ---------- */
+fillRows(document.querySelector('#tbl-annual tbody'), F.annual.map(a => [a.y + ' 年', { n: 1, text: num(a.revenue) }, { n: 1, text: spct(a.yoy, 1), cls: tone(a.yoy) }, { n: 1, text: pct(a.gm, 1) }, { n: 1, text: num(a.np) }, { n: 1, text: spct(a.np_yoy, 1), cls: tone(a.np_yoy) }, { n: 1, text: num(a.rd) }, { n: 1, text: pct(a.rd_ratio, 1) }, { n: 1, text: pct(a.sell_ratio, 1) }]));
+(() => {
+  const mixBy = Object.fromEntries(F.mix.map(m => [m.p, m]));
+  fillRows(document.querySelector('#tbl-half tbody'), F.halves.map(h => { const m = mixBy[h.p] || {}; const lab = h.p.replace('H1', ' 上半年').replace('H2', ' 下半年'); return [lab, { n: 1, text: num(h.revenue) }, { n: 1, text: m.product === undefined ? '—' : num(m.product) }, { n: 1, text: m.license === undefined ? '—' : num(m.license) }, { n: 1, text: m.cdmo === undefined ? '—' : num(m.cdmo) }, { n: 1, text: num(h.np) }, { n: 1, text: num(h.rd) }, { n: 1, text: num(h.selling) }]; }));
+})();
+fillRows(document.querySelector('#tbl-liq tbody'), F.liquidity.map(l => [l.p.replace('H1', ' 年 6 月'), { n: 1, text: num(l.cash) }, { n: 1, text: num(l.borrow) }, { n: 1, text: num(l.net_cash) }, { n: 1, text: pct(l.gearing, 1) }, { n: 1, text: l.current_ratio ? l.current_ratio.toFixed(1) : '—' }]));
+fillRows(document.querySelector('#tbl-lev tbody'), F.leverage_table.map(l => [{ text: l.chg === 0 ? '基准（2026 上半年）' : spct(l.chg, 0) }, { n: 1, text: num(l.revenue) }, { n: 1, text: num(l.gp) }, { n: 1, text: num(l.op) }, { n: 1, text: l.chg === 0 ? '—' : spct(l.op_chg, 1), cls: tone(l.op_chg) }]));
+fillRows(document.querySelector('#tbl-roy tbody'), F.royalty.grid.map(g => [num(g.peak_usd_bn * 10) + ' 亿美元', ...g.cells.map(c => ({ n: 1, text: 'HK$' + c.hkd_per_share.toFixed(1) }))]));
+fillRows(document.querySelector('#tbl-sotp tbody'), F.valuation.sotp.map(s => [s.pe + ' 倍', { n: 1, text: yi(s.base_value) }, { n: 1, text: yi(s.implied_707_rmb), cls: tone(s.implied_707_rmb) }, { n: 1, text: (s.implied_707_hkd_per_share >= 0 ? '+' : '−') + Math.abs(s.implied_707_hkd_per_share).toFixed(1), cls: tone(s.implied_707_hkd_per_share) }]));
+(() => {
+  const P = F.peers;
+  fillRows(document.querySelector('#tbl-peer-growth tbody'), P.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.rev_2025) }, { n: 1, text: spct(p.rev_2025_yoy, 1), cls: tone(p.rev_2025_yoy) }, { n: 1, text: num(p.rev_h1_2026) }, { n: 1, text: spct(p.rev_h1_2026_yoy, 1), cls: tone(p.rev_h1_2026_yoy) }, { n: 1, text: num(p.np_h1_2026) }, { n: 1, text: p.np_h1_2026 < 0 || p.np_h1_2026_yoy === null ? '—' : spct(p.np_h1_2026_yoy, 1), cls: p.np_h1_2026 < 0 ? '' : tone(p.np_h1_2026_yoy) }, { n: 1, text: pct(p.rd_ratio_h1_2026, 1) }, { text: p.license_note || '', cls: 'small' }] })));
+  fillRows(document.querySelector('#tbl-peer-val tbody'), P.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap_hkd_bn * 10) }, { n: 1, text: p.ps_ttm ? p.ps_ttm.toFixed(1) + 'x' + (p.code === ME ? '（扣除授权 ' + p.ps_ex_license.toFixed(1) + 'x）' : '') : '—' }, { n: 1, text: p.pe_ttm ? p.pe_ttm.toFixed(1) + 'x' : '亏损' }, { n: 1, text: p.target_mean ? 'HK$' + p.target_mean.toFixed(1) : '—' }, { n: 1, text: spct(p.upside, 0), cls: tone(p.upside) }] })));
+  const MP = Object.fromEntries(DATA.peers.map(p => [p.code, p]));
+  const order = ['1530', '1276', '6160', '1801', '9926', '3692', '1093', '1177', '6990', '1877', '9995', '2096', '0013', '9688', '9606', '2162'];
+  fillRows(document.querySelector('#tbl-peer-vol tbody'), order.filter(c => MP[c]).map(c => { const p = MP[c]; const f = P.find(x => x.code === c) || {}; const r25 = p.ret_2025 !== null ? p.ret_2025 : f.ret_2025; return { me: c === ME, cells: [p.name, { n: 1, text: r25 === null || r25 === undefined ? '—' : spct(r25, 0) + (f.ret_2025_note ? '（A股）' : ''), cls: tone(r25) }, { n: 1, text: spct(p.ret_2026ytd, 0), cls: tone(p.ret_2026ytd) }, { n: 1, text: pct(p.vol_1y, 0) }, { n: 1, text: p.beta_hsi === null ? '—' : p.beta_hsi.toFixed(2) }, { n: 1, text: p.beta_sec === null ? '—' : p.beta_sec.toFixed(2) }, { n: 1, text: p.corr_sec === null ? '—' : p.corr_sec.toFixed(2) }, { n: 1, text: pct(p.mdd_since2025, 0), cls: 'neg-t' }] }; }));
+})();
+(() => {
+  const st = DATA.stats, k = ['sb', 'sec', 'hsi'];
+  const row = (lab, f, cls) => [lab, ...k.map(x => ({ n: 1, text: f(st[x]), cls: cls ? cls(st[x]) : '' }))];
+  fillRows(document.querySelector('#tbl-risk tbody'), [
+    row('累计收益 / 年化收益', s => spct(s.total_return, 1) + ' / ' + spct(s.ann_return_geo, 1)),
+    row('年化波动率（对数收益）', s => pct(s.ann_vol, 1)),
+    row('年化下行偏差', s => pct(s.downside_dev_ann, 1)),
+    row('日 VaR 95% / CVaR 95%', s => pct(s.var95_hist, 1) + ' / ' + pct(s.cvar95_hist, 1)),
+    row('日 VaR 99% / CVaR 99%', s => pct(s.var99_hist, 1) + ' / ' + pct(s.cvar99_hist, 1)),
+    row('偏度 / 超额峰度', s => s.skew.toFixed(2) + ' / ' + s.excess_kurtosis.toFixed(2)),
+    row('单日涨跌幅 >5% / >10% 的天数', s => s.days_abs_gt_5pct + ' / ' + s.days_abs_gt_10pct),
+    row('最大回撤', s => pct(s.max_drawdown, 1) + '（' + s.mdd_peak.slice(2).replace(/-/g, '/') + '→' + s.mdd_trough.slice(2).replace(/-/g, '/') + '）', () => 'neg-t'),
+    row('当前回撤（相对样本内最高点）', s => pct(s.current_drawdown, 1), () => 'neg-t'),
+    row('夏普比率 / 索提诺比率', s => s.sharpe.toFixed(2) + ' / ' + s.sortino.toFixed(2)),
+  ]);
+  fillRows(document.querySelector('#tbl-year tbody'), DATA.by_year.map(y => [y.year === 2026 ? '2026（至10/21）' : String(y.year), { n: 1, text: spct(y.ret_sb, 1), cls: tone(y.ret_sb) }, { n: 1, text: spct(y.ret_sec, 1), cls: tone(y.ret_sec) }, { n: 1, text: spct(y.ret_hsi, 1), cls: tone(y.ret_hsi) }, { n: 1, text: pct(y.vol_sb, 1) }, { n: 1, text: y.beta_hsi.toFixed(2) }, { n: 1, text: y.beta_sec.toFixed(2) }, { n: 1, text: pct(y.r2_sec, 1) }, { n: 1, text: pct(y.mdd_sb, 1), cls: 'neg-t' }]));
+  const a = DATA.sim_hsi, b = DATA.sim_sec;
+  fillRows(document.querySelector('#tbl-sim tbody'), [
+    ['β（OLS）', { n: 1, text: a.beta.toFixed(2) }, { n: 1, text: b.beta.toFixed(2) }],
+    ['95% 置信区间', { n: 1, text: a.beta_ci95.map(v => v.toFixed(2)).join('–') }, { n: 1, text: b.beta_ci95.map(v => v.toFixed(2)).join('–') }],
+    ['HAC 稳健标准误', { n: 1, text: a.beta_se_hac.toFixed(3) }, { n: 1, text: b.beta_se_hac.toFixed(3) }],
+    ['R² / 相关系数', { n: 1, text: a.r2.toFixed(3) + ' / ' + a.corr.toFixed(2) }, { n: 1, text: b.r2.toFixed(3) + ' / ' + b.corr.toFixed(2) }],
+    ['α（年化）', { n: 1, text: pct(a.alpha_ann, 1) + '（t=' + a.alpha_t.toFixed(2) + '）' }, { n: 1, text: pct(b.alpha_ann, 1) + '（t=' + b.alpha_t.toFixed(2) + '）' }],
+    ['残差波动率 σ(e)', { n: 1, text: pct(a.resid_vol_ann, 1) }, { n: 1, text: pct(b.resid_vol_ann, 1) }],
+    ['周度 β', { n: 1, text: DATA.sim_hsi_weekly.beta.toFixed(2) }, { n: 1, text: DATA.sim_sec_weekly.beta.toFixed(2) }],
+    ['上涨日 β / 下跌日 β', { n: 1, text: DATA.up_beta_hsi.toFixed(2) + ' / ' + DATA.down_beta_hsi.toFixed(2) }, { n: 1, text: DATA.up_beta_sec.toFixed(2) + ' / ' + DATA.down_beta_sec.toFixed(2) }],
+    ['两因子模型 R²（全样本 / 2025 年以来）', { n: 1, text: pct(DATA.two_factor.r2_two, 1) + ' / ' + pct(DATA.two_factor_2025.r2_two, 1), cls: '' }, { n: 1, text: '板块因子 t = ' + DATA.two_factor.t_sec_o.toFixed(1) }],
+    ['CAPM 要求回报（Rf ' + pct(DATA.capm.rf_latest, 2) + ' + β×6%）', { n: 1, text: pct(DATA.capm.required_return_6pct_erp, 1) }, { n: 1, text: '—' }],
+  ]);
+})();
+fillRows(document.querySelector('#tbl-events tbody'), EV.map(e => [
+  { text: String(e.n) }, { text: e.day0, cls: 'num nw' }, { text: e.title, href: e.source, cls: 'w' }, { text: CAT[e.category], cls: 'nw' },
+  { n: 1, text: spct(e.ret_sb), cls: tone(e.ret_sb) }, { n: 1, text: spct(e.ret_sec) },
+  { n: 1, text: spct(e.ar), cls: tone(e.ar) + (Math.abs(e.ar_t) > 1.96 ? ' sig' : '') },
+  { n: 1, text: e.ar_t.toFixed(1), cls: Math.abs(e.ar_t) > 1.96 ? 'sig' : '' }, { n: 1, text: spct(e.car_0_p5), cls: tone(e.car_0_p5) }]));
+
+/* ---------- charts ---------- */
+const A = F.annual;
+const PP = F.peers.slice().sort((x, y) => (y.rev_h1_2026_yoy ?? -9) - (x.rev_h1_2026_yoy ?? -9));
+const MP = DATA.peers.slice();
+const meCls = (code, base) => code === ME ? 'f2' : base;
+const RB = DATA.rebased_2025;
+const charts = {
+  'ch-prod': el => barChart(el, { labels: F.products.years, series: [{ label: '特比澳', values: F.products['TPIAO 特比澳'], cls: 'f1' }, { label: '促红素', values: F.products['EPO 益比奥+赛博尔'], cls: 'f2' }, { label: '蔓迪', values: F.products['蔓迪'], cls: 'f3' }], yfmt: v => num(v), tfmt: v => '¥' + num(v) + 'M', height: 230, aria: '主要产品收入' }),
+  'ch-rev': el => barChart(el, { labels: A.map(a => a.y), series: [{ label: '收入', values: A.map(a => a.revenue), cls: 'f1' }, { label: '归母净利润', values: A.map(a => a.np), cls: 'f2' }], yfmt: v => num(v), tfmt: v => '¥' + num(v) + 'M', height: 240, aria: '收入与净利润' }),
+  'ch-mix': el => stackMulti(el, { rows: F.mix.map(m => ({ label: m.p.replace('H1', ' H1').replace('H2', ' H2'), parts: [{ name: '产品销售', v: m.product, cls: 'f1' }, { name: '对外授权', v: m.license, cls: 'f4' }, { name: 'CDMO', v: m.cdmo, cls: 'f3' }] })), vfmt: v => '¥' + num(v) + 'M', labelWidth: 64, aria: '收入构成' }),
+  'ch-margin': el => lineChart(el, { x: A.map(a => a.y), labels: A.map(a => a.y), series: [{ label: '毛利率', values: A.map(a => a.gm), cls: 'c1' }, { label: '归母净利率', values: A.map(a => a.npm), cls: 'c2' }, { label: '研发 / 收入', values: A.map(a => a.rd_ratio), cls: 'c3' }, { label: '销售费用 / 收入', values: A.map(a => a.sell_ratio), cls: 'c4' }], yfmt: v => pct(v, 0), points: true, yMin: 0, height: 260, aria: '利润率与费用率' }),
+  'ch-liq': el => barChart(el, { labels: F.liquidity.map(l => l.p.replace('20', '').replace('H1', 'H1')), series: [{ label: '现金及存款', values: F.liquidity.map(l => l.cash), cls: 'f1' }, { label: '银行借款', values: F.liquidity.map(l => l.borrow), cls: 'f2' }], yfmt: v => num(v), tfmt: v => '¥' + num(v) + 'M', height: 250, aria: '现金与借款' }),
+  'ch-risk': el => stackChart(el, { items: [{ label: '恒指（全样本）', share: DATA.two_factor.r2_hsi }, { label: '+板块（全样本）', share: DATA.two_factor.r2_two }, { label: '恒指（2025 起）', share: DATA.two_factor_2025.r2_hsi }, { label: '+板块（2025 起）', share: DATA.two_factor_2025.r2_two }], aria: '模型可解释风险占比' }),
+  'ch-secbeta': el => barChart(el, { labels: DATA.by_year.map(y => String(y.year)), series: [{ label: '对板块 β', values: DATA.by_year.map(y => y.beta_sec), cls: 'f3' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), vfmt: v => v.toFixed(2), valueLabels: true, height: 230, aria: '对板块的年度贝塔' }),
+  'ch-bd': el => barChart(el, { labels: F.industry.bd.map(b => b.y.replace('H1', ' 上半年')), series: [{ label: '交易总额', values: F.industry.bd.map(b => b.total), cls: 'f1' }, { label: '首付款', values: F.industry.bd.map(b => b.upfront), cls: 'f4' }], yfmt: v => '$' + num(v), tfmt: v => '$' + num(v, 1) + 'bn', vfmt: v => num(v, 0), valueLabels: true, height: 240, aria: '对外授权交易额' }),
+  'ch-appr': el => barChart(el, { labels: F.industry.approvals.map(a => a.y.replace('H1', ' 上半年')), series: [{ label: '获批数量', values: F.industry.approvals.map(a => a.n), cls: 'f3' }], yfmt: v => num(v), tfmt: v => num(v) + ' 个', vfmt: v => num(v), valueLabels: true, height: 240, aria: '创新药获批数量' }),
+  'ch-peer-growth': el => hbarChart(el, { items: PP.map(p => ({ label: p.name, v: p.rev_h1_2026_yoy, cls: meCls(p.code, p.rev_h1_2026_yoy >= 0 ? 'f1' : 'fneg'), sub: '2026 上半年收入 ' + num(p.rev_h1_2026) + 'M', title: p.name })).filter(d => d.v !== null && Math.abs(d.v) < 2), fmt: v => spct(v, 0), tfmt: d => spct(d.v, 1), labelWidth: 96, row: 24, aria: '同业收入增速' }),
+  'ch-peer-rd': el => hbarChart(el, { items: F.peers.filter(p => p.rd_ratio_h1_2026 !== null).sort((x, y) => y.rd_ratio_h1_2026 - x.rd_ratio_h1_2026).map(p => ({ label: p.name, v: p.rd_ratio_h1_2026, cls: meCls(p.code, 'f1'), sub: '研发费用 ' + num(p.rd_h1_2026) + 'M', title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 96, row: 24, aria: '研发强度' }),
+  'ch-rebased': el => lineChart(el, { x: RB.date, series: [{ label: '三生制药', values: RB['1530'], cls: 'c2', endLabel: true }, { label: '同业指数', values: RB.sec, cls: 'c3', endLabel: true }, { label: '恒生指数', values: RB.hsi, cls: 'c1', endLabel: true }, { label: '康方生物', values: RB['9926'], cls: 'c7', thin: true }, { label: '信达生物', values: RB['1801'], cls: 'c4', thin: true }], yfmt: v => num(v), tfmt: v => num(v, 0), refs: [{ y: 100, label: '' }], height: 300, aria: '2025 年以来表现' }),
+  'ch-peer-vol': el => hbarChart(el, { items: MP.slice().sort((x, y) => y.vol_1y - x.vol_1y).map(p => ({ label: p.name, v: p.vol_1y, cls: meCls(p.code, 'f1'), sub: '对板块 β（近一年）' + p.beta_sec_1y.toFixed(2), title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 96, row: 22, aria: '同业波动率' }),
+  'ch-peer-ytd': el => hbarChart(el, { items: MP.slice().sort((x, y) => y.ret_2026ytd - x.ret_2026ytd).map(p => ({ label: p.name, v: p.ret_2026ytd, cls: p.code === ME ? 'f2' : (p.ret_2026ytd >= 0 ? 'fpos' : 'fneg'), sub: '距 2025 年以来高点 ' + pct(p.dd_from_high, 0), title: p.name })), fmt: v => spct(v, 0), tfmt: d => spct(d.v, 1), labelWidth: 96, row: 22, aria: '同业年内收益' }),
+  'ch-price': el => lineChart(el, { x: S.date, series: [{ label: '三生制药', values: S.sb_idx, cls: 'c2', endLabel: true }, { label: '同业指数', values: S.sec_idx, cls: 'c3', endLabel: true }, { label: '恒生指数', values: S.hsi_idx, cls: 'c1', endLabel: true }], yfmt: v => num(v), ylog: true, logTicks: [25, 50, 75, 100, 200, 300, 500], refs: [{ y: 100, label: '' }], height: 300, aria: '累计表现对比' }),
+  'ch-vol': el => lineChart(el, { x: S.date, series: [{ label: '三生 63日', values: S.vol63_sb, cls: 'c2' }, { label: '三生 GARCH', values: S.garch_sb, cls: 'c7', thin: true }, { label: '同业 63日', values: S.vol63_sec, cls: 'c3' }, { label: '恒指 63日', values: S.vol63_hsi, cls: 'c1' }], yfmt: v => pct(v, 0), height: 280, aria: '滚动波动率' }),
+  'ch-scatter': el => scatterChart(el, { x: DATA.scatter.x, y: DATA.scatter.y, dates: DATA.scatter.dates, a: DATA.sim_sec.alpha_daily, b: DATA.sim_sec.beta, yName: '三生超额收益', xName: '同业指数超额收益', height: 300, aria: '超额收益散点图' }),
+  'ch-beta': el => lineChart(el, { x: S.date, series: [{ label: '对恒指', values: S.beta252_hsi, cls: 'c1' }, { label: '对板块', values: S.beta252_sec, cls: 'c3' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), refs: [{ y: 1, label: 'β = 1', side: 'left' }], height: 240, aria: '滚动贝塔' }),
+  'ch-corr': el => lineChart(el, { x: S.date, series: [{ label: '与板块', values: S.corr63_sec, cls: 'c3' }, { label: '与恒指', values: S.corr63_hsi, cls: 'c1' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), yMin: -0.2, yMax: 1, height: 240, aria: '滚动相关系数' }),
+  'ch-hist': el => { const Hh = DATA.hist; const tot = Hh.sb.reduce((a, b) => a + b, 0); const sg = v => (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(Math.round(v * 100)) + '%'; const labs = Hh.bins.slice(0, -1).map((b, i) => sg(b) + ' 至 ' + sg(Hh.bins[i + 1])); const ax = Hh.bins.slice(0, -1).map(b => Math.abs(Math.round(b * 100)) % 10 === 0 ? sg(b) : ''); barChart(el, { labels: labs, axisLabels: ax, series: [{ label: '三生制药', values: Hh.sb.map(v => v / tot), cls: 'f2' }, { label: '创新药同业', values: Hh.sec.map(v => v / tot), cls: 'f3' }], yfmt: v => pct(v, 0), tfmt: v => pct(v, 1) + ' 的交易日', height: 250, aria: '日收益分布' }); },
+  'ch-dd': el => lineChart(el, { x: S.date, series: [{ label: '三生制药', values: S.dd_sb, cls: 'c2' }, { label: '同业指数', values: S.dd_sec, cls: 'c3' }, { label: '恒生指数', values: S.dd_hsi, cls: 'c1', thin: true }], yfmt: v => pct(v, 0), yMax: 0, height: 250, aria: '回撤' }),
+  'ch-events': el => {
+    const markers = EV.map(e => { const i = idxOf(e.day0); return { i, n: e.n, up: e.ar >= 0, cls: e.ar >= 0 ? 'fpos' : 'fneg', title: `#${e.n} ${e.day0} · ${CAT[e.category]}`, aria: `事件${e.n} ${e.title}`, desc: e.title, rows: [{ cls: e.ret_sb >= 0 ? 'fpos' : 'fneg', value: spct(e.ret_sb), label: '1530 当日' }, { cls: 'f3', value: spct(e.ret_sec), label: '创新药板块' }, { cls: e.ar >= 0 ? 'fpos' : 'fneg', value: spct(e.ar), label: `异常收益（t=${e.ar_t.toFixed(1)}）` }] }; }).filter(mk => mk.i >= 0);
+    const from = S.date.findIndex(d => d >= '2024-01-02');
+    const sl = arr => arr.slice(from);
+    const mk = markers.map(m => ({ ...m, i: m.i - from })).filter(m => m.i >= 0);
+    lineChart(el, { x: sl(S.date), series: [{ label: '收盘价（复权）', values: sl(S.sb), cls: 'c2' }], yfmt: v => num(v), tfmt: v => 'HK$' + v.toFixed(2), ylog: true, logTicks: [4, 6, 10, 15, 20, 30, 40], markers: mk, height: 380, aria: '股价与事件' });
+  },
+  'ch-ar': el => hbarChart(el, { items: EV.map(e => ({ label: `${e.n}. ${e.short}`, v: e.ar, title: `#${e.n} ${e.day0}`, sub: `t = ${e.ar_t.toFixed(1)}`, desc: e.title })), fmt: v => spct(v, 0), tfmt: d => spct(d.v, 1), labelWidth: 140, row: 21, aria: '各事件异常收益' }),
+  'ch-car': el => barChart(el, { labels: Object.keys(DATA.car_by_year), series: [{ label: '累计异常收益', values: Object.values(DATA.car_by_year), cls: v => v >= 0 ? 'fpos' : 'fneg' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), vfmt: v => spct(v, 0), valueLabels: true, height: 250, aria: '按年度累计异常收益' }),
+};
+function renderAll() {
+  for (const id in charts) { const el = document.getElementById(id); if (!el) continue; try { charts[id](el); } catch (err) { console.error(id, err); } }
+}
+renderAll();
+let lastW = window.innerWidth, rt;
+window.addEventListener('resize', () => { if (Math.abs(window.innerWidth - lastW) < 8) return; lastW = window.innerWidth; clearTimeout(rt); rt = setTimeout(renderAll, 150); });
+document.addEventListener('pointerdown', ev => { if (!ev.target.closest('.chart-box')) document.querySelectorAll('.tt').forEach(t => t.hidden = true); });
+(() => {
+  const links = [...document.querySelectorAll('.rail a')];
+  const secs = links.map(a => document.querySelector(a.getAttribute('href')));
+  const io = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting) { links.forEach(l => l.classList.toggle('on', l.getAttribute('href') === '#' + e.target.id)); const on = links.find(l => l.classList.contains('on')); const bar = document.querySelector('.rail .wrap'); if (on && bar) bar.scrollLeft = on.offsetLeft - bar.clientWidth / 2 + on.offsetWidth / 2; } });
+  }, { rootMargin: '-45% 0px -50% 0px' });
+  secs.forEach(s => s && io.observe(s));
+  const h = location.hash && document.querySelector(location.hash);
+  if (h) setTimeout(() => h.scrollIntoView(), 60);
+})();
+</script>

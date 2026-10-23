@@ -1,0 +1,1802 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility 
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly 
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the 
+contents of this announcement.
+
+Keymed Biosciences Inc.
+康 諾 亞 生 物 醫 藥 科 技 有 限 公 司
+(Incorporated in the Cayman Islands with limited liability)
+(Stock Code: 2162)
+
+ANNUAL RESULTS ANNOUNCEMENT
+FOR THE YEAR ENDED DECEMBER 31, 2025
+
+FINANCIAL HIGHLIGHTS
+
+2025
+
+Changes
+RMB’000 RMB’000 RMB’000
+
+2024
+
+Revenue
+Cost of sales
+Gross profit
+Research and development expenses
+Loss for the year
+
+716,313
+(88,048)
+628,265
+(723,529)
+(522,597)
+
+428,124
+(12,200)
+415,924
+(735,192)
+(514,907)
+
+288,189
+(75,848)
+212,341
+11,663
+(7,690)
+
+Year-
+on-year 
+changes
+%
+
+67%
+622%
+51%
+(2%)
+1%
+
+Adjusted loss for the year (as illustrated 
+  under “Non-IFRSs Measures”)
+
+(494,834)
+
+(480,561)
+
+(14,273)
+
+3%
+
+December
+31, 2025
+
+December
+Changes
+31, 2024
+RMB’000 RMB’000 RMB’000
+
+Year-
+on-year 
+changes
+%
+
+1,963,337
+
+2,155,612
+
+(192,275)
+
+(9%)
+
+Cash and cash equivalents, time deposits, 
+
+restricted cash and bank wealth 
+
+  management products
+
+Non-IFRSs Measures:
+
+Adjusted  loss  for  the  year  represents  the  loss  for  the  year  excluding  the  share-based  payment 
+expenses,  amounting  to  RMB27,763,000  (2024:  RMB34,346,000).  The  term  adjusted  loss  for 
+the  year  is  not  defined  under  IFRSs.  The  use  of  this  non-IFRSs  measure  has  limitations  as  an 
+analytical  tool,  and  you  should  not  consider  it  in  isolation  from,  or  as  substitute  for  analysis 
+of,  our  results  of  operations  or  financial  condition  as  reported  under  IFRSs.  Our  presentation 
+of  this  adjusted  figure  may  not  be  comparable  to  similarly  titled  measures  presented  by  other 
+companies.  However,  we  believe  that  this  non-IFRSs  measure  reflects  our  core  operating 
+results  by  eliminating  potential  impacts  of  items  that  our  management  do  not  consider  to  be 
+indicative  of  our  core  operating  performance,  and  thus,  facilitate  comparisons  of  core  operating 
+performance from period to period and company to company to the extent applicable.
+
+1
+
+ 
+BUSINESS HIGHLIGHTS
+
+During  the  Reporting  Period,  we  have  accelerated  the  commercialization  of  our  first  marketed 
+product,  Kangyueda  (康悅達®)  and  vigorously  proceeded  with  the  R&D  of  our  products  and 
+made the following milestones and progress with respect to our pipeline under development and 
+business operation:
+
+• 
+
+The progress of core pipeline products:
+
+Kangyueda (康悅達®) (Stapokibart) (CM310) (IL-4Rα antibody)
+
+As of the date of this announcement, the new drug applications of Kangyueda (康悅達®) for the 
+treatment  of  moderate-to-severe  atopic  dermatitis  (AD)  in  adults,  chronic  rhinosinusitis  with 
+nasal polyps (CRSwNP) and seasonal allergic rhinitis (SAR) have been approved by the National 
+Medical  Products  Administration  (NMPA).  Since  January  2026,  all  launched  indications  of 
+Kangyueda  (康悅達®)  and  both  of  its  packaging  forms  (vials  and  pre-filled  auto-injector  pens) 
+have  been  included  in  the  National  Reimbursement  Drug  List  of  China,  significantly  enhancing 
+affordability  and  accessibility  for  Chinese  patients.  During  the  Reporting  Period,  revenue  for 
+sales of Kangyueda (康悅達®) amounted to approximately RMB315 million.
+
+In September 2025, Phase III clinical data for Stapokibart in adolescents with moderate-to-severe 
+AD  were  presented  at  the  34th  European  Academy  of  Dermatology  and  Venereology  (EADV) 
+Congress.  In  January  2026,  the  new  drug  application  for  Stapokibart  for  the  treatment  of 
+adolescents  with  moderate-to-severe  AD  was  accepted  by  the  NMPA.  Simultaneously,  we  are 
+advancing  a  randomized,  double-blinded,  placebo-controlled  Phase  III  clinical  study  to  evaluate 
+the  efficacy  and  safety  of  Stapokibart  in  child  subjects  with  moderate-to-severe  AD,  and  as  of 
+the date of this announcement, patient enrollment is in progress.
+
+Additionally,  in  2025,  we  continuously  proceeded  with  a  randomized,  double-blinded, 
+placebo-controlled  Phase  III  clinical  study  to  evaluate  the  efficacy  and  safety  of  Stapokibart 
+injection  in  patients  with  prurigo  nodularis  (PN).  This  clinical  study  has  completed  the  patient 
+enrollment in April 2025.
+
+CMG901/AZD0901 (Sonesitatug vedotin, Claudin 18.2 antibody drug conjugate)
+
+In February 2023, AstraZeneca AB (“AstraZeneca”, AZ) was granted an exclusive global license 
+for  research,  development,  registration,  manufacturing,  and  commercialization  of  CMG901/
+AZD0901.  As  of  the  date  of  this  announcement,  AZ  has  conducted  multiple  clinical  studies 
+regarding  CMG901/AZD0901  for  treatments  of  advanced  solid  tumors,  of  which  the  indications 
+include  gastric  cancer,  pancreatic  cancer  and  biliary  tract  cancer  (for  the  same  indication,  only 
+the highest clinical phase trial is listed):
+
+①  A  multicenter,  open-label,  sponsor-blind,  randomized  Phase  III  clinical  study  (CLARITY-
+Gastric  01)  comparing  CMG901/AZD0901  monotherapy  versus  investigator’s  choice 
+in  adult  subjects  with  Claudin18.2-expressing  advanced  or  metastatic  gastric  cancer  or 
+gastroesophageal  junction  adenocarcinoma  who  previously  have  received  second-line  or 
+later-line treatment. 
+
+2
+
+②  A  multicenter,  randomized,  controlled,  Phase  III  clinical  study  (CLARITY-Gastric  02)  of 
+CMG901/AZD0901  in  combination  with  Capecitabine,  with  or  without  Rilvegostomig,  as 
+first-line treatment for Claudin18.2-positive, HER2-negative advanced or metastatic gastric 
+cancer, gastroesophageal junction cancer, or esophageal adenocarcinoma. In February 2026, 
+the  first  subject  was  dosed  in  this  clinical  trial,  triggering  a  milestone  payment  subject  to 
+the terms and conditions of the license agreement. In early March 2026, KYM Biosciences 
+Inc.  (a  70%  non-wholly-owned  subsidiary  of  the  Group)  received  the  relevant  milestone 
+payment totaling US$45 million.
+
+③  An  open-label,  multi-drug,  multi-center  Phase  II  study  to  evaluate  the  safety,  tolerability, 
+pharmacokinetics,  and  preliminary  anti-tumor  activity  of  novel  drugs  or  combination 
+regimens  as  perioperative  treatment  in  subjects  with  locally  advanced  resectable 
+gastroesophageal adenocarcinoma (GEMINI PeriOp GC).
+
+④  A  Phase  II,  open-label,  multicenter  clinical  study  (CLARITY  PanTumour01)  to  evaluate 
+the  safety,  tolerability,  efficacy,  pharmacokinetics,  and  immunogenicity  of  CMG901/
+AZD0901  as  monotherapy  and  in  combination  with  anti-tumor  drugs  in  subjects  with 
+Claudin  18.2-expressing  advanced  solid  tumors  (including  gastric  cancer/gastroesophageal 
+junction adenocarcinoma, pancreatic cancer and biliary tract cancer).
+
+CM512 (TSLP x IL-13 bispecific antibody)
+
+In  November  2025,  a  randomized,  double-blinded,  single/multiple  dose-escalation, 
+placebo-controlled  Phase  I  clinical  study  to  evaluate  the  safety,  tolerability,  pharmacokinetics, 
+pharmacodynamics  and  immunogenicity  of  CM512  in  healthy  subjects  and  patients  with 
+moderate-to-severe  AD  met  all  research  endpoints.  40  healthy  subjects  were  enrolled  in  the 
+single dose-escalation phase. A total of 70 subjects were enrolled in the multiple dose-escalation 
+phase,  including  24  healthy  subjects  and  46  patients  with  moderate-to-severe  AD.  The  results 
+showed:  safety  and  tolerability  profiles  are  good;  it  possesses  excellent  PK  characteristics 
+with  a  half-life  of  approximately  70  days,  potentially  allowing  for  longer  dosing  intervals  as 
+compared  to  available  therapy;  type  2  inflammatory  markers  continued  to  decrease,  effectively 
+controlling  the  inflammatory  response;  it  demonstrated  rapid  disease  control  in  patients  with 
+moderate-to-severe AD.
+
+We  successively  initiated  and  proceeded  with  multiple  Phase  II  clinical  studies  for  CM512  in 
+2025  with  indications  covering  CRSwNP,  moderate-to-severe  AD  in  adults,  moderate-to-severe 
+asthma,  moderate-to-severe  chronic  obstructive  pulmonary  disease  (COPD),  and  chronic 
+spontaneous  urticaria.  As  of  the  date  of  this  announcement,  a  randomized,  double-blinded, 
+placebo-parallel  Phase  II  clinical  study  to  evaluate  the  safety  and  efficacy  of  CM512  injection 
+in subjects with CRSwNP has completed the enrollment of 120 targeted subjects. Other Phase II 
+clinical studies are in the patient enrollment phase.
+
+CM518D1 (CDH17 ADC)
+
+CM518D1 is an innovative antibody drug conjugate (ADC) drug independently developed based 
+on  an  ADC  discovery  platform  of  the  Company  with  full  independent  intellectual  property 
+rights  that  is  formed  by  a  novel  sequence  of  recombinant  humanized  anti-cadherin  17  (CDH17) 
+monoclonal  antibody  coupled  with  a  novel  cleavable  linker  and  a  proprietary  topoisomerase  I 
+inhibitor,  to  be  administered  by  intravenous  infusion  for  subjects  with  advanced  solid  tumors 
+without  standard  treatment  or  with  standard  treatment  failure.  CM518D1  achieves  precise 
+killing of tumor cell by targeting CDH17, which has the potential advantages of good anti-tumor 
+efficacy and large safety window.
+
+3
+
+We  initiated  a  multi-center,  open-label  Phase  I/II  clinical  trial  to  evaluate  CM518D1  for 
+the  treatment  of  patients  with  advanced  solid  tumors  in  June  2025.  As  of  the  date  of  this 
+announcement,  this  study  is  in  the  dose-escalation  phase  and  dose-expansion  phase  of  Phase  I 
+clinical trial.
+
+CM336 (BCMA x CD3 bispecific antibody)
+
+In  2025,  we  continuously  proceeded  with  a  multi-center,  open-label  Phase  I/II  clinical  study 
+to  assess  CM336  injection  for  the  treatment  of  patients  with  relapsed  or  refractory  multiple 
+myeloma  (RRMM).  As  of  July  2025,  in  the  Phase  II  dose-expansion  stage,  only  4.7%  of 
+subjects experienced Grade 2 cytokine release syndrome (CRS) events, with no immune effector 
+cell-associated  neurotoxicity  syndrome  (ICANS)  events  occurring.  The  objective  response 
+rate  (ORR)  in  the  target  dose  group  was  95.2%,  the  rate  of  complete  response  (CR)  or  better 
+was  76.2%,  the  minimal  residual  disease  (MRD)  negativity  rate  was  100%,  and  the  12-month 
+progression-free survival rate was 95.2%. Concurrently, in the second half of 2025, we initiated 
+a  randomized,  open-label,  multicenter  Phase  III  clinical  study  to  evaluate  CM336  monotherapy 
+versus  investigator’s  choice  (standard  of  care,  SOC)  in  RRMM  patients  who  previously  have 
+received at least second-line treatment. As of the date of this announcement, this study is in the 
+patient enrollment phase.
+
+Furthermore,  we  conducted  an  open-label,  multi-center  Phase  II  clinical  study  to  evaluate  the 
+efficacy  and  safety  of  CM336  injection  for  the  treatment  of  relapsed  or  refractory  primary 
+light-chain  amyloidosis  in  2025,  and  as  of  the  date  of  this  announcement,  this  study  is  in  the 
+patient enrollment phase.
+
+CM336  also  has  great  potential  in  the  field  of  autoimmune  diseases.  On  June  11,  2025,  the 
+team  led  by  Professor  Jun  SHI  (施均)  from  the  Institute  of  Hematology  and  Blood  Diseases 
+Hospital,  Chinese  Academy  of  Medical  Sciences  (Institute  of  Hematology,  Chinese  Academy 
+of  Medical  Sciences)  published  research  results  titled  “BCMA-Targeted  T-Cell  Engager  for 
+Autoimmune  Hemolytic  Anemia  after  CD19  CAR  T-Cell  Therapy”  online  in  the New England 
+Journal of Medicine (IF=96.3).  This  study  first  reported  the  successful  salvage  treatment  with 
+CM336 of 2 patients with autoimmune hemolytic anemia (AIHA) who relapsed after autologous 
+CD19 CAR-T cell therapy and failed multiple lines of treatment. In the second half of 2025, we 
+also  initiated  a  Phase  I/II  clinical  study  to  evaluate  the  safety  and  efficacy  of  CM336  injection 
+for  the  treatment  of  subjects  with  relapsed  or  refractory  autoimmune  cytopenias.  In  November 
+2025,  the  first  subject  was  enrolled.  As  of  the  date  of  this  announcement,  patient  enrollment  is 
+underway for this study.
+
+Overseas  clinical  progress:  Ouro  Medicines  is  conducting  an  open-label,  multinational  basket 
+study  in  the  United  States  and  Australia  to  evaluate  the  efficacy  of  CM336/OM336  in  adult 
+patients with autoimmune cytopenias. Enrolled patients include those with relapsed or refractory 
+autoimmune  hemolytic  anemia  (AIHA),  primary  immune  thrombocytopenia  (ITP),  or  patients 
+with both conditions. On January 23, 2026, CM336/OM336 was granted Fast Track Designation 
+(FTD)  by  the  Food  and  Drug  Administration  of  the  United  States  (FDA)  for  the  treatment  of 
+AIHA  and  ITP.  In  addition,  Ouro  Medicines  is  advancing  another  open-label,  multinational 
+basket study to evaluate the therapeutic potential of CM336/OM336 in adult patients with active, 
+autoantibody-positive,  relapsed  or  refractory  Sjögren’s  syndrome  or  idiopathic  inflammatory 
+myopathy.
+
+4
+
+Significant  commercial  progress  of  overseas  partner:  On  March  23,  2026,  our  partner,  Ouro 
+Medicines,  entered  into  a  merger  agreement  with  Gilead  Sciences  (NASDAQ:  GILD).  Gilead 
+Sciences  will  acquire  Ouro  Medicines  by  way  of  a  merger,  with  a  transaction  amount  including 
+an  upfront  payment  of  US$1,675  million  and  a  milestone  payment  of  up  to  US$500  million, 
+bringing a maximum total transaction of US$2,175 million. The Company, through iBridge HK, 
+also disposed of its approximately 15% minority interest in Ouro Medicines as part of its merger 
+agreement  with  Gilead  Sciences,  Inc.  We  will  receive  an  initial  payment  of  approximately 
+US$250  million  after  completion  of  the  transaction,  as  well  as  a  milestone  payment  of  up  to 
+approximately US$70 million, bringing the total revenue amount to up to approximately US$320 
+million.  Simultaneously,  our  milestone  payments  and  tiered  royalties  on  net  sales  of  up  to 
+US$610  million  for  CM336/OM336  will  continue  to  be  fulfilled  by  Gilead.  After  completion  of 
+the transaction, we will no longer hold equity interest in Ouro Medicines. As of the date of this 
+announcement, this transaction has not yet closed.
+
+CM313 (CD38 antibody)
+
+In 2025, we completed a randomized, double-blinded, placebo-controlled Phase II clinical study 
+to  evaluate  the  safety,  tolerability,  pharmacokinetics,  pharmacodynamics,  immunogenicity, 
+and  preliminary  efficacy  of  CM313  (subcutaneous  formulation,  SC)  injection  in  subjects  with 
+primary  immune  thrombocytopenia.  Additionally,  we  initiated  a  randomized,  double-blinded, 
+placebo-controlled  Phase  II  clinical  study  to  evaluate  the  safety  and  efficacy  of  CM313  (SC) 
+injection  in  subjects  with  IgA  nephropathy  in  2025.  As  of  the  date  of  this  announcement,  this 
+study is in the patient enrollment phase.
+
+CM383 (Aβ protofibrils antibody)
+
+In  2025,  we  continuously  proceeded  with  a  randomized,  double-blinded,  placebo-controlled 
+Phase Ib clinical study to evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics 
+and  immunogenicity  of  multiple  dose-escalation  administration  of  CM383  in  patients  with  mild 
+cognitive  impairment  due  to  Alzheimer’s  Disease  and  mild  Alzheimer’s  Disease.  As  of  the  date 
+of  this  announcement,  patient  enrollment  is  underway  for  this  clinical  trial.  As  of  December 
+2025, this study has completed the patient enrollment.
+
+CM559 (N3pG Aβ antibody)
+
+In  September  2025,  we  proceeded  with  a  randomized,  double-blinded,  placebo-controlled  Phase 
+I  clinical  study  to  evaluate  the  safety,  tolerability,  pharmacodynamics  and  immunogenicity  of 
+single  dose-escalation  administration  of  CM559  in  healthy  male  subjects.  As  of  the  date  of  this 
+announcement, patient enrollment is underway for this study.
+
+• 
+
+The progress of other pipeline products:
+
+CM350 (GPC3 x CD3 bispecific antibody)
+
+In February 2025, we proceeded with a Phase I/II clinical study to assess the safety, tolerability, 
+pharmacokinetics, and preliminary efficacy of CM350 in patients with advanced solid tumors. As 
+of  the  date  of  this  announcement,  the  product  is  currently  in  the  dose-escalation  phase  of  Phase 
+I/II clinical study.
+
+5
+
+CM326 (TSLP antibody)
+
+JMT-Bio,  a  wholly-owned  subsidiary  of  CSPC,  was  granted  the  exclusive  rights  to  develop, 
+commercialize  and  manufacture  CM326  in  China  (excluding  Hong  Kong,  Macau,  and  Taiwan) 
+for  all  diseases.  As  of  the  date  of  this  announcement,  CSPC  is  continuously  advancing  multiple 
+indications  for  CM326,  all  of  which  are  currently  in  the  patient  enrollment  phase,  including: 
+①  a  randomized,  double-blinded,  placebo-controlled  Phase  III  clinical  study  to  evaluate  the 
+efficacy  and  safety  of  CM326  in  subjects  with  moderate-to-severe  asthma,  which  completed  the 
+first subject enrollment in March 2026; ② a multi-center, randomized, double-blinded, placebo-
+parallel  Phase  III  clinical  trial  to  evaluate  the  efficacy  and  safety  of  CM326  in  patients  with 
+chronic rhinosinusitis with nasal polyps, which was initiated in February 2026; ③ a randomized, 
+double-blinded,  placebo-controlled  Phase  II  clinical  study  to  evaluate  the  efficacy  and  safety 
+of  CM326  in  subjects  with  moderate-to-very  severe  COPD,  which  completed  the  first  subject 
+enrollment  in  December  2025;  ④  a  Phase  I  study  to  evaluate  the  pharmacokinetics,  safety, 
+tolerability  and  immunogenicity  of  single  subcutaneous  administration  of  CM326  in  adolescent 
+subjects with asthma, which was initiated in June 2025.
+
+CM355/ICP-B02/PRO-203 (CD20 x CD3 bispecific antibody)
+
+In  2025,  InnoCare  continuously  proceeded  with  the  clinical  development  of  relapsed/refractory 
+B-cell  non-Hodgkin’s  lymphoma  (r/r  B-NHL)  in  this  project,  among  patients  reaching  the 
+therapeutic dose level, the overall response rate (ORR) was 82%, and the complete response (CR) 
+rate  was  59%.  As  of  the  date  of  this  announcement,  Prolium  announced  the  initiation  of  dosing 
+in healthy subjects in a single dose-escalation study of CM355/PRO-203, and expects to initiate 
+an international multi-center Phase I/II clinical study for the treatment of systemic sclerosis (SSc) 
+in  the  second  quarter  of  2026,  and  will  also  initiate  therapeutic  studies  for  other  B-cell-driven 
+severe  autoimmune  diseases  within  2026.  Additionally,  in  an  investigator-initiated  exploratory 
+study, 5 patients with refractory advanced systemic lupus erythematosus (SLE) (all accompanied 
+by lupus nephritis) are undergoing treatment evaluation.
+
+CM369/ICP-B05 (CCR8 antibody)
+
+CM369  is  an  anti-C-C  motif  chemokine  receptor  8  (CCR8)  monoclonal  antibody,  a  potential 
+first-in-class  drug  co-developed  by  the  Company  and  InnoCare.  As  of  the  date  of  this 
+announcement,  the  Phase  I  dose-escalation  trial  of  CM369  in  patients  with  advanced  solid 
+tumors and r/r NHL is continuing to progress.
+
+• 
+
+Rapid expansion of workforce and production facilities
+
+As  of  December  31,  2025,  we  had  1,625  full-time  employees  in  total,  including  over  407 
+employees  engaging  in  commercialization  and  nearly  432  employees  engaging  in  drug 
+discovery  and  clinical  operations.  We  will  continue  to  recruit  talents  to  meet  the  growing  needs 
+of  commercialization,  research  and  development,  clinical,  production  and  operation  of  the 
+Company.
+
+As  of  the  date  of  this  announcement,  the  production  base  has  3  pilot  production  lines  and  3 
+commercial  production  lines  with  the  production  capacity  of  21,800  litres  in  total.  A  stainless 
+steel  production  line  with  an  additional  production  capacity  of  24,000  litres  has  been  fully 
+installed and commissioned, and is ready for operation. All the designs thereof are in compliance 
+with the requirements of cGMP of the NMPA and FDA.
+
+6
+
+MANAGEMENT DISCUSSION AND ANALYSIS 
+
+OVERVIEW
+
+We  are  a  biotechnology  company  based  in  China  with  a  global  outlook,  focused  on  the  in-house 
+discovery,  development,  production  and  sales  of  innovative  drugs  in  the  chronic  diseases-
+primarily  autoimmune  diseases  as  well  as  oncology  therapeutic  areas.  We  have  multiple 
+commercialization-stage and various clinical-stage drug candidates, each of them being the leading 
+contender  within  its  respective  competitive  landscape.  As  of  the  date  of  this  announcement,  we 
+have  one  product  at  commercialization  stage  and  12  drug  candidates  with  more  than  30  clinical 
+trials underway in China and globally.
+
+To  accelerate  the  efficiency  of  our  research  and  development,  we  have  established  a 
+fully-integrated platform encompassing all of the key functions in the innovative drug development.  
+These  include  target  validation,  lead  molecule  discovery  and  optimization,  preclinical  evaluation, 
+process  development,  translational  research,  clinical  development  and  manufacturing.  This 
+integrated  platform  has  enabled  us  to  rapidly  and  cost-effectively  identify,  build,  expand  and 
+advance  our  diversified  pipeline  of  differentiated  innovative  therapies,  including  monoclonal 
+antibodies,  bispecific  antibodies,  antibody  drug  conjugates  (ADCs)  and  oligonucleotide  drugs.  At 
+the  same  time,  we  have  established  and  are  continuously  refining  our  commercial  capabilities,  to 
+support the market launch of our first commercial product,  Kangyueda (康悅達®).
+
+Product Pipeline
+
+Our  proprietary  product  pipelines  integrate  cutting-edge  scientific  discoveries  and  reflect  our 
+market  insight.  To  complement  our  in-house  R&D  efforts,  we  also  collaborate  with  third  parties 
+on  the  development  and  commercialization  of  our  drug  candidates  through  joint  ventures  or 
+out-licensing arrangements.
+
+The  following  chart  illustrates  our  pipeline  launched  and  under  development  and  summarizes  the 
+development  status  of  our  clinical-stage  drug  candidates  and  selected  IND-enabling  stage  drug 
+candidates as of the end of the Reporting Period and up to the date of this announcement:
+
+7
+
+Abbreviations: ADC=antibody drug conjugate; CDE=Center for Drug Evaluation of the NMPA; FDA=Food and Drug 
+Administration of the United States
+
+BUSINESS REVIEW
+
+• 
+
+Kangyueda (康悅達®)（Stapokibart） (CM310) (IL-4Rα antibody)
+
+Kangyueda  (康悅達®),  our  core  product  as  defined  under  Chapter  18A  of  the  Listing  Rules, 
+is a humanized and highly potent antibody against interleukin-4 receptor α-subunit (IL-4Rα). 
+It  is  the  first  domestically-developed  IL-4Rα  antibody  that  received  new  drug  application 
+approval  from  the  NMPA  and  is  also  the  world’s  first  IL-4Rα  antibody  approved  for  the 
+treatment  of  SAR  indications.  By  targeting  IL-4Rα,  Kangyueda  (康悅達 ®)  can  lead  to 
+dual-blockade of interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling. IL-4 and IL-13 are 
+two critical cytokines for initiating type 2 inflammation.
+
+As of the date of this announcement, the new drug applications of Kangyueda (康悅達®)  for 
+the  treatment  of  moderate-to-severe  AD  in  adults,  CRSwNP  and  SAR  have  been  approved 
+by  the  NMPA.  Since  January  2026,  all  launched  indications  of  Kangyueda  (康悅達®)  and 
+both  of  its  packaging  forms  (vials  and  pre-filled  auto-injector  pens)  have  been  included  in 
+the  National  Reimbursement  Drug  List  of  China,  significantly  enhancing  affordability  and 
+accessibility for Chinese patients.
+
+During  the  Reporting  Period,  revenue  for  sales  of  Kangyueda  (康悅達 ®)  amounted  to 
+approximately  RMB315  million,  representing  an  increase  of  775%  from  the  sales  revenue  of 
+RMB36 million for the year ended December 31, 2024.
+
+On  April  4,  2025,  the  team  led  by  Professor  Luo  ZHANG  (張羅)  from  Beijing  Tongren 
+Hospital,  Capital  Medical  University  published  a  breakthrough  research  result  titled 
+“Stapokibart  for  moderate-to-severe  seasonal  allergic  rhinitis:  a  randomized  phase  3  trial” 
+in  Nature Medicine,  a  top  international  journal.  This  is  the  first  research  result  reported 
+globally  based  on  IL-4Rα-targeted  biologics  for  the  treatment  of  seasonal  allergic  rhinitis 
+(SAR),  and  also  represents  a  groundbreaking  new  achievement  by  Chinese  scientists  in 
+the  field  of  allergic  rhinitis.  This  study  found  that  for  patients  with  moderate-to-severe 
+SAR  who  remained  uncontrolled  after  receiving  conventional  treatment,  the  novel  biologic 
+Stapokibart  can  significantly  improve  their  clinical  symptoms  and  quality  of  life.  The  study 
+results  indicated  that  72%  of  patients  cumulatively  achieved  nasal  ventilation  within  7 
+days;  86%  and  94%  of  patients  cumulatively  achieved  nasal  ventilation  within  2  weeks  and 
+4  weeks,  respectively.  After  4  days  of  treatment,  the  daily  retrospective  nasal  symptoms 
+
+8
+
+score (rTNSS) of patients in the Stapokibart group decreased by 2.7 points from baseline, of 
+which  improvement  was  significantly  better  than  that  of  the  placebo  group;  after  2  weeks  of 
+treatment,  the  daily  rTNSS  of  patients  decreased  by  3.6  points  from  baseline,  significantly 
+lower  by  1.3  points  compared  to  the  placebo  group,  with  62%  of  patients  cumulatively 
+achieving mild or no nasal symptoms (rTNSS of each symptom is ≤1 point); after 4 weeks of 
+treatment,  the  daily  rTNSS  of  patients  decreased  by  4.9  points  from  baseline,  significantly 
+lower  by  1.7  points  compared  to  the  placebo  group,  with  84%  of  patients  cumulatively 
+achieving  mild  or  no  nasal  symptoms.  After  2  weeks  and  4  weeks  of  treatment,  the  daily 
+retrospective  total  ocular  symptom  score  (rTOSS)  in  the  Stapokibart  group  decreased  by  2.6 
+points  and  3.7  points  from  baseline,  respectively,  both  significantly  better  than  the  placebo 
+group,  with  62%  and  94%  of  patients  cumulatively  achieving  mild  or  no  ocular  symptoms 
+(rTOSS of each symptom is ≤1 point), respectively.
+
+In  September  2025,  Phase  III  clinical  data  for  Stapokibart  in  adolescents  with  AD  were 
+presented  at  the  34th  European  Academy  of  Dermatology  and  Venereology  (EADV) 
+Congress.  The  Phase  III  study  enrolled  a  total  of  180  adolescent  patients  aged  12  years  or 
+older but younger than 18 years, who were randomized in a 2:1 ratio to the Stapokibart group 
+(n=120)  or  the  placebo  group  (n=60).  The  double-blind  treatment  period  was  18  weeks,  and 
+the dosing regimen was determined based on patient weight. The two primary endpoints were 
+set  by  achieving  an  improvement  of  ≥75%  from  baseline  in  the  Eczema  Area  and  Severity 
+Index  (EASI)  score  at  Week  18  (EASI-75),  and  an  Investigator  Global  Assessment  (IGA) 
+score of 0 or 1 with a reduction of ≥2 points from baseline (IGA response). 
+
+The  Phase  III  study  has  found  that  Stapokibart  can  also  achieve  potent  improvement  in 
+skin  lesions  and  relief  of  pruritus  in  adolescent  patients  with  moderate-to-severe  AD.  The 
+study  results  indicated  that,  at  Week  18  of  treatment,  up  to  73.9%  of  patients  achieved  an 
+EASI-75  response,  significantly  higher  than  the  placebo  group  (43.3%,  P<0.0001).  Up  to 
+57.1% of patients achieved IGA response, significantly superior to the placebo group (25.0%, 
+P<0.0001).  In  addition,  the  PP-NRS  of  patients  in  the  Stapokibart  group  improved  by  up 
+to  49.5%  from  baseline.  In  terms  of  safety,  the  incidence  rates  of  treatment-related  adverse 
+events  (TEAEs)  in  the  Stapokibart  group  and  the  placebo  group  were  comparable,  and  most 
+were  mild  to  moderate  in  severity.  The  most  common  adverse  event  was  upper  respiratory 
+tract infection. No adverse events of conjunctivitis were observed in the study.
+
+In  January  2026,  the  new  drug  application  for  Stapokibart  for  the  treatment  of  adolescents 
+with moderate-to-severe AD was accepted by the NMPA.
+
+As  of  the  date  of  this  announcement,  we  are  advancing  a  randomized,  double-blinded, 
+placebo-controlled  Phase  III  clinical  study  to  evaluate  the  efficacy  and  safety  of  Stapokibart 
+in  child  subjects  with  moderate-to-severe  AD,  and  patient  enrollment  is  in  progress. 
+Additionally, we are proceeding with a randomized, double-blinded, placebo-controlled Phase 
+III  clinical  study  to  evaluate  the  efficacy  and  safety  of  Stapokibart  injection  in  subjects  with 
+prurigo  nodularis  (PN).  This  clinical  study  has  completed  the  patient  enrollment  in  April 
+2025.
+
+9
+
+• 
+
+CMG901/AZD0901 (Sonesitatug vedotin, Claudin 18.2 ADC)
+
+CMG901/AZD0901  is  a  Claudin  18.2-targeting  ADC  comprising  a  Claudin  18.2-specific 
+antibody,  a  cleavable  linker  and  a  toxic  payload,  monomethyl  auristatin  E  (MMAE). 
+It  is  the  first  Claudin  18.2  ADC  to  have  received  IND  approval  in  China  and  the  U.S.. 
+Previously,  CMG901/AZD0901  was  granted  the  Fast  Track  Designation  and  the  Orphan 
+Drug Designation by the FDA for the treatment of relapsed/refractory gastric cancer and GEJ 
+adenocarcinoma,  and  was  granted  breakthrough  therapy  designation  by  the  China  CDE  for 
+the  treatment  of  Claudin  18.2-positive  advanced  gastric  cancer  that  has  failed  or  cannot  be 
+tolerated by first-line treatment or above.
+
+In  February  2023,  AstraZeneca  AB  (“AstraZeneca”,  AZ)  was  granted  an  exclusive  global 
+license  for  research,  development,  registration,  manufacturing,  and  commercialization  of 
+CMG901/AZD0901. As of the date of this announcement, AZ has conducted multiple clinical 
+studies  regarding  CMG901/AZD0901  for  treatments  of  advanced  solid  tumors,  of  which  the 
+indications  include  gastric  cancer,  pancreatic  cancer  and  biliary  tract  cancer  (for  the  same 
+indication, only the highest clinical phase trial is listed):
+
+①  A  multicenter,  open-label,  sponsor-blind,  randomized  Phase  III  clinical  study 
+(CLARITY  Gastric  01)  comparing  CMG901/AZD0901  monotherapy  versus 
+investigator’s  choice  in  adult  subjects  with  Claudin18.2-expressing  advanced  or 
+metastatic  gastric  cancer  or  gastroesophageal  junction  adenocarcinoma  who  previously 
+have received second-line or later-line treatment. 
+
+②  A  multicenter,  randomized,  controlled,  Phase  III  clinical  study  (CLARITY-Gastric 
+02)  of  CMG901/AZD0901  in  combination  with  Capecitabine,  with  or  without 
+Rilvegostomig,  as  first-line  treatment  for  Claudin18.2-positive,  HER2-negative 
+advanced  or  metastatic  gastric  cancer,  gastroesophageal  junction  cancer,  or  esophageal 
+adenocarcinoma.  In  February  2026,  the  first  subject  was  dosed  in  this  clinical  trial, 
+triggering  a  milestone  payment  subject  to  the  terms  and  conditions  of  the  license 
+agreement.  In  early  March  2026,  KYM  Biosciences  Inc.  (a  70%  non-wholly-owned 
+subsidiary  of  the  Group)  received  the  relevant  milestone  payment  totaling  US$45 
+million.
+
+③  AZ initiated an open-label, multi-drug, multi-center Phase II study in the second half of 
+2025  to  evaluate  the  safety,  tolerability,  pharmacokinetics,  and  preliminary  anti-tumor 
+activity  of  novel  drugs  or  combination  regimens  as  perioperative  treatment  in  subjects 
+with  locally  advanced  resectable  gastroesophageal  adenocarcinoma  (GEMINI  PeriOp 
+GC).
+
+④  A  Phase  II,  open-label,  multicenter  clinical  study  (CLARITY  PanTumour01)  to 
+evaluate  the  safety,  tolerability,  efficacy,  pharmacokinetics,  and  immunogenicity  of 
+CMG901/AZD0901  as  monotherapy  and  in  combination  with  anti-tumor  drugs  in 
+subjects  with  Claudin  18.2-expressing  advanced  solid  tumors  (including  gastric  cancer/
+gastroesophageal junction adenocarcinoma, pancreatic cancer and biliary tract cancer).
+
+10
+
+• 
+
+CM512 (TSLP x IL-13 bispecific antibody)
+
+CM512  is  a  recombinant  anti-thymic  stromal  lymphopoietin  (TSLP)  and  anti-interleukin-13 
+(IL-13)  bispecific  antibody  and  the  world’s  first  IgG-like  long-acting  dual  blocker  targeting 
+TSLPxIL-13. Mechanism of action and in vitro drug efficacy studies have shown that CM512 
+has  high  affinity  for  TSLP  and  IL-13,  blocking  the  binding  of  TSLP  to  thymic  stromal 
+lymphopoietin  receptor  (TSLPR),  and  blocking  the  binding  of  IL-13  to  IL-13Rα1/IL-4Rα 
+complex,  and  synergistically  inhibiting  the  downstream  signaling  pathways  and  effector 
+cell  activation  induced  by  TSLP  and  IL-13. In vivo efficacy  tests  have  shown  that  CM512 
+can  effectively  inhibit  allergic  inflammatory  responses.  In  addition,  CM512  is  characterized 
+by  low  immunogenicity  and  long  half-life,  which  is  expected  to  achieve  better  therapeutic 
+efficacy in the clinical setting compared to the existing therapies and further improve patient 
+compliance.
+
+CM512-100001  is  a  single/multiple  dose-escalation,  Phase  I  clinical  study  in  healthy 
+subjects  and  adult  patients  with  moderate-to-severe  AD  to  evaluate  the  safety,  tolerability, 
+PK  (pharmacokinetics),  PD  (pharmacodynamics),  and  immunogenicity  of  CM512,  and  to 
+preliminarily  explore  its  efficacy  in  patients  with  moderate-to-severe  AD.  Approximately  40 
+healthy subjects were enrolled in the single dose-escalation phase. A total of 70 subjects were 
+enrolled  in  the  multiple  dose-escalation  phase,  including  24  healthy  subjects  and  46  patients 
+with moderate-to-severe AD.
+
+In November 2025, the clinical trial met all research endpoints. The results showed:
+
+In  healthy  subjects,  single  dose  administrations  of  CM512  ranging  from  150mg  to  1,200mg  and 
+multiple  dose  administrations  of  150mg  Q2W  and  600mg  Q2W  had  good  safety  and  tolerability. 
+No treatment-emergent adverse events (TEAEs) meeting the criteria for dose-escalation termination 
+occurred  during  the  dose-escalation  period,  and  no  serious  adverse  events  (SAEs)  were  reported. 
+In  patients  with  moderate-to-severe  AD,  the  CM512  300mg  Q2W  and  600mg  Q2W  groups 
+demonstrated a good safety and tolerability profile, with the overall incidence of TEAEs and SAEs 
+being comparable to the placebo group. Most of the TEAEs reported during the study were Grade 
+1 or 2, with no TEAEs leading to delayed dosing, early termination of treatment, early withdrawal 
+from the study, or death reported.
+
+After  single  dose  administration  in  healthy  subjects,  within  the  dose  range  of  150  to  1,200  mg, 
+the  systemic  exposure  increased  proportionally  with  the  dose,  demonstrating  basically  linear 
+pharmacokinetic  characteristics,  and  the  half-life  could  reach  70  days.  After  multiple  dose 
+administration  in  healthy  subjects,  the  mean  plasma  concentrations  at  the  last  dose  in  the  150  mg 
+Q2W  group  and  the  600  mg  Q2W  group  were  both  higher  than  those  at  the  first  dose,  and  the 
+systemic exposure of CM512 after the first and last doses basically multiplied proportionally with 
+the  dose.  The  PK  characteristics  of  CM512  were  similar  in  healthy  subjects  and  patients  with 
+moderate-to-severe atopic dermatitis.
+
+11
+
+After  single  or  multiple  dose  administration  of  CM512,  various  type  II  inflammation  biomarkers 
+in AD patients significantly decreased from baseline. Both serum free TSLP and free IL-13 rapidly 
+declined  and  remained  below  the  lower  limit  of  detection.  Multiple  inflammation-related  factors, 
+including  blood  eosinophil  count,  serum  IgE,  serum  TARC,  IL-5,  Eotaxin-3,  chemokine  13,  and 
+chemokine  26,  all  showed  significant  decreases  from  baseline  and  were  maintained  at  low  levels 
+during the study period.
+
+CM512  demonstrated  rapid  disease  control  in  patients  with  moderate-to-severe  AD.  At  Week  6 
+after the first dose, 50% of patients in the 300mg group (the proposed recommended clinical dose) 
+achieved  EASI-75  (Eczema  Area  and  Severity  Index  score  reduction  of  ≥75%  from  baseline), 
+compared to only 7% in the placebo group. At Week 12, the EASI-75 and EASI-90 (Eczema Area 
+and Severity Index score reduction of ≥90% from baseline) response rates in the 300mg dose group 
+reached 58.3% and 41.7%, respectively, compared to 21.4% and 0% in the placebo group. At Week 
+24,  various  indicators  showed  stable  responses,  and  were  all  significantly  superior  to  the  placebo 
+group.
+
+We successively initiated and proceeded with multiple Phase II clinical studies for CM512 in 2025 
+with  indications  covering  CRSwNP,  moderate-to-severe  AD  in  adults,  moderate-to-severe  asthma, 
+moderate-to-severe COPD, and chronic spontaneous urticaria. As of the date of this announcement, 
+a  randomized,  double-blinded,  placebo-parallel  Phase  II  clinical  study  to  evaluate  the  safety  and 
+efficacy  of  CM512  injection  in  subjects  with  CRSwNP  has  completed  the  enrollment  of  120 
+targeted subjects. Other Phase II clinical studies are in the patient enrollment phase.
+
+In  July  2024,  Chengdu  Keymed  entered  into  a  license  agreement  with  Belenos  Biosciences, 
+Inc.  The  license  agreement  granted  Belenos  the  exclusive  rights  to  develop,  manufacture,  and 
+commercialize  the  Group’s  drug  candidates  CM512  (TSLP/IL-13  bispecific  antibody)  and  CM536 
+(OX40L/IL-13  bispecific  antibody)  globally  (excluding  the  Greater  China  region).  In  the  first  half 
+of 2025, Belenos conducted a Phase I/II clinical trial in the U.S. to evaluate the safety and efficacy 
+of  CM512  in  healthy  subjects  and  asthma  patients.  As  of  the  date  of  this  announcement,  this 
+clinical study is currently in the asthma patient enrollment phase.
+
+• 
+
+CM518D1 (CDH17 ADC)
+
+CM518D1  is  an  innovative  antibody  drug  conjugate  (ADC)  drug  independently  developed 
+based  on  an  ADC  discovery  platform  that  is  formed  by  a  novel  sequence  of  recombinant 
+humanized  anti-cadherin  17  (CDH17)  monoclonal  antibody  coupled  with  a  novel  cleavable 
+linker – proprietary topoisomerase I inhibitor, to be administered by intravenous infusion for 
+subjects  with  advanced  solid  tumors  without  standard  treatment  or  with  standard  treatment 
+failure.  CDH17  membrane  protein  localization  is  well-defined:  located  on  the  cell  surface, 
+readily  recognized,  bound  and  endocytosed  by  antibodies.  CDH17  exhibits  high  specificity: 
+it  is  highly  expressed  in  various  solid  tumors  such  as  colorectal  cancer,  gastric  cancer  and 
+pancreatic  cancer,  while  showing  high  expression  in  normal  tissues,  resulting  in  minimal 
+off-target toxicity. CM518D1 achieves tumor cell killing by targeting CDH17, which has the 
+potential advantages of good anti-tumor efficacy and large safety window.
+
+We  initiated  a  multi-center,  open-label  Phase  I/II  clinical  trial  to  evaluate  CM518D1  for 
+the  treatment  of  patients  with  advanced  solid  tumors  in  June  2025.  As  of  the  date  of  this 
+announcement, this study is in the dose-escalation phase and dose-expansion phase of Phase I 
+clinical trial.
+
+12
+
+• 
+
+CM336 (BCMA x CD3 bispecific antibody)
+
+CM336  is  a  BCMA  x  CD3  bispecific  antibody  that  can  simultaneously  target  and  identify 
+and  specifically  bind  both  BCMA  on  the  surface  of  target  cells  and  the  CD3  receptors  on 
+the  surface  of  T  cells  to  recruit  immune  T  cells  to  the  vicinity  of  the  target  cells,  thereby 
+inducing  T-cell  dependent  cellular  cytotoxicity  (TDCC)  to  eliminate  the  target  cells.  In 
+2025,  we  continuously  proceeded  with  a  multi-center,  open-label  Phase  I/II  clinical  study 
+to  assess  CM336  injection  for  the  treatment  of  patients  with  relapsed  or  refractory  multiple 
+myeloma  (RRMM).  As  of  July  2025,  in  the  Phase  II  dose-expansion  stage,  only  4.7%  of 
+subjects  experienced  Grade  2  cytokine  release  syndrome  (CRS)  events,  with  no  immune 
+effector  cell-associated  neurotoxicity  syndrome  (ICANS)  events  occurring.  The  objective 
+response rate (ORR) in the target dose group was 95.2%, the rate of complete response (CR) 
+or  better  was  76.2%,  the  minimal  residual  disease  (MRD)  negativity  rate  was  100%,  and  the 
+12-month progression-free survival rate was 95.2%. Concurrently, in the second half of 2025, 
+we initiated a randomized, open-label, multicenter Phase III clinical study to evaluate CM336 
+monotherapy  versus  investigator’s  choice  (standard  of  care,  SOC)  in  RRMM  patients  who 
+previously have received at least second-line treatment. As of the date of this announcement, 
+this study is in the patient enrollment phase.
+
+Furthermore, we conducted an open-label, multi-center Phase II clinical study to evaluate the 
+efficacy  and  safety  of  CM336  injection  for  the  treatment  of  relapsed  or  refractory  primary 
+light-chain amyloidosis in 2025, and this study is currently in the patient enrollment phase. 
+
+Based  on  the  clinical  effects  observed  in  multiple  myeloma  indications,  we  believe  that 
+CM336  could  represent  a  promising  new  therapeutic  option  for  autoimmune  diseases  by 
+eliminating  plasma  cells  that  secrete  pathogenic  antibodies.  On  June  11,  2025,  the  team 
+led  by  Professor  Jun  SHI  (施均)  from  the  Institute  of  Hematology  and  Blood  Diseases 
+Hospital, Chinese Academy of Medical Sciences (Institute of Hematology, Chinese Academy 
+of  Medical  Sciences)  published  research  results  titled  “BCMA-Targeted  T-Cell  Engager 
+for  Autoimmune  Hemolytic  Anemia  after  CD19  CAR  T-Cell  Therapy”  online  in  the New 
+England Journal of Medicine  (IF=96.3).  This  study  first  reported  the  successful  salvage 
+treatment  with  CM336  of  2  patients  with  autoimmune  hemolytic  anemia  (AIHA)  who 
+relapsed  after  autologous  CD19  CAR-T  cell  therapy  and  failed  multiple  lines  of  treatment. 
+In this study, the 2 AIHA patients had received multiple therapies including glucocorticoids, 
+splenectomy,  anti-CD20  antibodies,  BTK  inhibitors,  and  CD19  CAR-T  cell  therapies  before 
+receiving  CM336  treatment,  but  their  disease  still  eventually  recurred  or  progressed  to 
+refractory status.
+
+The  study  results  showed  that  hemolysis  improved  significantly  in  2  patients  after  receiving 
+CM336  treatment:  Patient  1  achieved  partial  response  on  day  13  and  hemoglobin  levels 
+returned  to  normal  on  day  17;  Patient  2  achieved  partial  response  on  day  19  and  complete 
+response  on  day  21,  without  receiving  any  other  drug  treatment  during  the  treatment  period. 
+Hemolysis  indicators  (reticulocyte  percentage,  lactate  dehydrogenase,  indirect  bilirubin) 
+in  both  patients  significantly  decreased  and  were  maintained  in  continuous  treatment-free 
+remission  during  6-month  follow-up.  Adverse  reactions  were  only  observed  as  Grade  1 
+skin  induration  and  hypogammaglobulinemia,  and  no  other  serious  adverse  reactions  were 
+observed. No cytokine release syndrome (CRS), immune effector cell-associated neurotoxicity 
+syndrome (ICANS) or infection events occurred, with overall good safety.
+
+13
+
+In the second half of 2025, we also initiated a Phase I/II clinical study to evaluate the safety 
+and  efficacy  of  CM336  injection  for  the  treatment  of  subjects  with  relapsed  or  refractory 
+autoimmune  cytopenias.  In  November  2025,  the  first  subject  was  enrolled.  As  of  the  date  of 
+this announcement, patient enrollment is underway for this study.
+
+In  November  2024,  Chengdu  Keymed  and  Ouro  Medicines  Ltd  (formerly  known  as  Platina 
+Medicines  Ltd)  entered  into  an  exclusive  license  agreement.  The  license  agreement  granted 
+Ouro  Medicines  Ltd  the  exclusive  right  to  develop,  manufacture  and  commercialize  CM336/
+OM336  globally  excluding  Mainland  China,  Hong  Kong,  Macau  and  Taiwan.  Currently, 
+Ouro  Medicines  is  conducting  an  open-label,  multinational  basket  study  in  the  United  States 
+and  Australia  to  evaluate  the  efficacy  of  CM336/OM336  in  adult  patients  with  autoimmune 
+cytopenias.  Enrolled  patients  include  those  with  relapsed  or  refractory  autoimmune 
+hemolytic  anemia  (AIHA),  primary  immune  thrombocytopenia  (ITP),  or  patients  with  both 
+conditions.  As  of  the  date  of  this  announcement,  dosing  for  the  first  cohort  of  patients  has 
+been  completed,  and  recruitment  for  subsequent  cohorts  is  actively  progressing.  On  January 
+23,  2026,  CM336/OM336  was  granted  Fast  Track  Designation  (FTD)  by  the  FDA  for  the 
+treatment  of  AIHA  and  ITP.  In  addition,  Ouro  Medicines  is  advancing  another  open-label, 
+multinational  basket  study  to  evaluate  the  therapeutic  potential  of  CM336/OM336  in  adult 
+patients  with  active,  autoantibody-positive,  relapsed  or  refractory  Sjögren’s  syndrome  or 
+idiopathic inflammatory myopathy.
+
+On  March  23,  2026,  our  partner,  Ouro  Medicines,  entered  into  a  merger  agreement  with 
+Gilead  Sciences  (NASDAQ:  GILD).  Gilead  Sciences  will  acquire  Ouro  Medicines  by  way 
+of  a  merger,  with  a  transaction  amount  including  an  upfront  payment  of  US$1,675  million 
+and  a  milestone  payment  of  up  to  US$500  million,  bringing  a  maximum  total  transaction  of 
+US$2,175  million.  The  Company,  through  iBridge  HK,  also  disposed  of  its  approximately 
+15%  minority  interest  in  Ouro  Medicines  as  part  of  its  merger  agreement  with  Gilead 
+Sciences,  Inc.  We  will  receive  an  initial  payment  of  approximately  US$250  million  after 
+completion  of  the  transaction,  as  well  as  a  milestone  payment  of  up  to  approximately 
+US$70  million,  bringing  the  total  revenue  amount  to  up  to  approximately  US$320  million. 
+Simultaneously,  our  milestone  payments  and  tiered  royalties  on  net  sales  of  up  to  US$610 
+million  for  CM336/OM336  will  continue  to  be  fulfilled  by  Gilead.  After  completion  of  the 
+transaction,  we  will  no  longer  hold  equity  interest  in  Ouro  Medicines.  As  of  the  date  of  this 
+announcement,  this  transaction  has  not  yet  closed.  For  further  details,  please  refer  to  the 
+Company’s announcement dated March 24, 2026.
+
+• 
+
+CM313 (CD38 antibody)
+
+CM313  is  a  humanized  monoclonal  antibody  that  targets  CD38.  It  can  induce  target 
+cell  apoptosis  through  antibody-dependent  cell-mediated  cytotoxicity  (ADCC), 
+complement-dependent  cytotoxicity  (CDC),  and  antibody-dependent  cell-mediated 
+phagocytosis  (ADCP),  as  well  as  under  Fc  cross-linking  conditions.  Given  the  observed 
+outstanding  clearance  effect  of  CM313  on  plasma  cells  in  multiple  myeloma  (MM),  we 
+believe  that  CM313  may  bring  new  breakthroughs  in  the  field  of  autoimmune  disease 
+treatment.
+
+In  2025,  we  completed  a  randomized,  double-blinded,  placebo-controlled  Phase  II 
+clinical  study  to  evaluate  the  safety,  tolerability,  pharmacokinetics,  pharmacodynamics, 
+immunogenicity,  and  preliminary  efficacy  of  CM313  (subcutaneous  formulation,  SC) 
+injection  in  subjects  with  primary  immune  thrombocytopenia.  Additionally,  we  initiated  a 
+
+14
+
+randomized,  double-blinded,  placebo-controlled Phase II clinical study to evaluate the safety 
+and  efficacy  of  CM313  (SC)  injection  in  subjects  with  IgA  nephropathy  in  2025.  As  of  the 
+date of this announcement, this study is in the patient enrollment phase.
+
+In  January  2025,  Chengdu  Keymed  entered  into  an  exclusive  out-license  agreement  with 
+Timberlyne  Therapeutics,  Inc.  (“Timberlyne”).  The  license  agreement  granted  Timberlyne 
+the  exclusive  right  to  develop,  manufacture  and  commercialize  CM313  globally  (excluding 
+Mainland  China,  Hong  Kong,  Macau  and  Taiwan).  Subject  to  terms  and  conditions  of 
+the  license  agreement,  Timberlyne  was  granted  an  exclusive  license  for  the  development, 
+manufacturing  and  commercialization  of  CM313  in  the  licensed  region.  In  return,  the  Group 
+shall  be  entitled  to  receive  an  upfront  and  near-term  payment  of  US$30  million  and  equity 
+interest of Timberlyne, being its largest shareholder. The Group might also receive additional 
+payments  up  to  US$337.5  million  subject  to  achievement  of  certain  sales  and  development 
+milestones.  The  Group  was  also  entitled  to  receive  tiered  royalties  on  net  sales  from 
+Timberlyne.  For  further  details,  please  refer  to  the  Company’s  announcement  dated  January 
+10, 2025.
+
+• 
+
+CM383 (Aβ protofibrils antibody)
+
+CM383  is  a  humanized  monoclonal  antibody  for  the  treatment  of  early  Alzheimer’s  Disease. 
+The amyloid cascade hypothesis postulates that excessive β-amyloid protein (Aβ) in the brain 
+is  a  trigger  of  Alzheimer’s  Disease.  In  addition,  Aβ  protofibrils  are  considered  to  be  more 
+toxic  which  are  associated  with  the  Alzheimer’s  Disease  progression  in  patients.  CM383 
+selectively  binds  to  soluble  Aβ  protofibrils  and  plaque.  On  one  hand,  CM383  reduces  the 
+deposition of Aβ. On the other hand, CM383 promotes the clearance of Aβ plaque.
+
+Preclinical  studies  indicated  that  CM383  demonstrated  a  favorable  safety  profile.  In  2025, 
+we  continuously  proceeded  with  a  randomized,  double-blinded,  placebo-controlled  Phase 
+Ib  clinical  study  to  evaluate  the  safety,  tolerability,  pharmacokinetics,  pharmacodynamics 
+and  immunogenicity  of  multiple  dose-escalation  administration  of  CM383  in  patients  with 
+mild  cognitive  impairment  due  to  Alzheimer’s  Disease  and  mild  Alzheimer’s  Disease.  In 
+December 2025, this study has completed the patient enrollment.
+
+• 
+
+CM559 (N3pG Aβ antibody)
+
+CM559  is  also  a  humanized  monoclonal  antibody  for  the  treatment  of  early  Alzheimer’s 
+Disease.  By  specifically  recognizing  and  binding  to  the  N-terminal  pyroglutamate-modified 
+Aβ  at  position  3  in  the  brains  of  patients  with  Alzheimer’s  Disease,  it  efficiently  clears 
+formed  amyloid  plaques  in  the  brains,  thereby  delaying  disease  progression.  In  2025,  we 
+initiated  a  randomized,  double-blinded,  placebo-controlled  Phase  I  clinical  study  to  evaluate 
+the  safety,  tolerability,  pharmacokinetics,  pharmacodynamics,  and  immunogenicity  of  single 
+dose-escalation  administration  of  CM559  in  healthy  male  subjects.  The  study  is  expected  to 
+enroll 40 subjects, and the first subject enrollment was completed in September 2025.
+
+• 
+
+CM350 (GPC3 x CD3 bispecific antibody)
+
+CM350 is a GPC3 x CD3 bispecific antibody for the treatment of solid tumors, especially for 
+hepatocellular carcinoma (HCC). CM350 can simultaneously bind GPC3-positive tumor cells 
+and T cells, thereby activating T cells to eliminate tumor cells.
+
+15
+
+In  2025,  we  continuously  proceeded  with  a  Phase  I/II  clinical  study  to  assess  the  safety, 
+tolerability,  pharmacokinetics,  and  preliminary  efficacy  of  CM350  in  patients  with 
+advanced  solid  tumors.  As  of  the  date  of  this  announcement,  the  product  is  currently  in  the 
+dose-escalation phase of Phase I/II clinical study.
+
+• 
+
+CM326 (TSLP antibody)
+
+CM326  is  a  recombinant  humanized  monoclonal  antibody  targeting  anti-thymic  stromal 
+lymphopoietin (TSLP). TSLP plays a critical role as an upstream cytokine mediating multiple 
+inflammatory  pathways.  CM326  can  effectively  inhibit  TSLP-induced  proliferation  of 
+immune  cells  and  inflammatory  factor  release,  and  is  expected  to  be  a  new  option  for  the 
+treatment of chronic obstructive pulmonary disease (COPD) and moderate-to-severe asthma.
+
+JMT-Bio,  a  wholly-owned  subsidiary  of  CSPC,  was  granted  the  exclusive  rights  to  develop, 
+commercialize and manufacture CM326 in China (excluding Hong Kong, Macau, and Taiwan) 
+for  all  diseases.  As  of  the  date  of  this  announcement,  CSPC  is  continuously  advancing 
+multiple  indications  for  CM326,  all  of  which  are  currently  in  the  patient  enrollment  phase, 
+including:  ①  a  randomized,  double-blinded,  placebo-controlled  Phase  III  clinical  study  to 
+evaluate the efficacy and safety of CM326 in subjects with moderate-to-severe asthma, which 
+completed the first subject enrollment in March 2026; ② a multi-center, randomized, double-
+blinded, placebo-parallel Phase III clinical trial to evaluate the efficacy and safety of CM326 
+in  patients  with  chronic  rhinosinusitis  with  nasal  polyps,  which  was  initiated  in  February 
+2026; ③ a randomized, double-blinded, placebo-controlled Phase II clinical study to evaluate 
+the  efficacy  and  safety  of  CM326  in  subjects  with  moderate-to-very  severe  COPD,  which 
+completed  the  first  subject  enrollment  in  December  2025;  ④  a  Phase  I  study  to  evaluate 
+the  pharmacokinetics,  safety,  tolerability  and  immunogenicity  of  single  subcutaneous 
+administration  of  CM326  in  adolescent  subjects  with  asthma,  which  was  initiated  in  June 
+2025.
+
+• 
+
+CM355/ICP-B02/PRO-203 (CD20 x CD3 bispecific antibody)
+
+CM355  is  a  CD20  x  CD3  bispecific  antibody  co-developed  by  us  and  InnoCare.  CM355  is 
+designed  to  bind  both  CD20  on  tumor  cells  and  CD3  on  T-cells,  redirecting  and  activating 
+T-cells  to  eliminate  tumor  cells  through  T-cell-dependent  cellular  cytotoxicity  (TDCC).  This 
+bispecific  antibody  has  demonstrated  strong  potential  in  both  oncology  and  non-oncology 
+fields.  In  2025,  we  continuously  proceeded  with  the  clinical  development  of  relapsed/
+refractory  B-cell  non-Hodgkin’s  lymphoma  (r/r  B-NHL)  in  this  project,  among  patients 
+reaching  the  therapeutic  dose  level,  the  overall  response  rate  (ORR)  was  82%,  and  the 
+complete  response  (CR)  rate  was  59%.  As  of  the  date  of  this  announcement,  Prolium 
+announced  the  initiation  of  dosing  in  healthy  subjects  in  a  single  dose-escalation  study  of 
+CM355/PRO-203,  and  expects  to  initiate  an  international  multi-center  Phase  I/II  clinical 
+study  for  the  treatment  of  systemic  sclerosis  (SSc)  in  the  second  quarter  of  2026,  and  will 
+also  initiate  therapeutic  studies  for  other  B-cell-driven  severe  autoimmune  diseases  within 
+2026.  Additionally,  in  an  investigator-initiated  exploratory  study,  5  patients  with  refractory 
+advanced  systemic  lupus  erythematosus  (SLE)  (all  accompanied  by  lupus  nephritis)  are 
+undergoing treatment evaluation.
+
+16
+
+In  January  2025,  Chengdu  Keymed,  InnoCare  and  Beijing  Tiannuojiancheng  Pharma 
+Tech  Co.,  Ltd.  (北京天諾健成醫藥科技有限公司)  (“Tiannuo  Pharma”)  have  entered  into 
+an  exclusive  out-license  agreement  with  Prolium  Biosciences,  Inc.  (“Prolium”)  for  the 
+development  and  commercialization  of  CM355.  Under  the  terms  of  the  license  agreement, 
+Prolium would have the exclusive right to develop, register, manufacture, and commercialize 
+CM355  globally  in  non-oncology  indications  and  in  oncology  indications  outside  of  Asia. 
+Prolium,  a  company  incorporated  in  Delaware,  the  United  States,  on  August  21,  2024,  is 
+founded  and  backed  by  RTW  Investments.  Payment  under  the  license  agreement  would  be 
+shared  equally  between  Chengdu  Keymed  and  InnoCare.  Chengdu  Keymed  and  InnoCare 
+would  collectively  be  entitled  to  receive  an  upfront  and  near-term  payment  of  US$17.5 
+million,  additional  payments  up  to  US$502.5  million  and  tiered  royalties  on  net  sales  from 
+Prolium  based  on  their  respective  50%  interest  in  Tiannuo  Pharma.  The  payments  would 
+be  subject  to  the  achievement  of  certain  commercial,  clinical  development  and  regulatory 
+milestones.  The  Group  and  InnoCare  Pharma  Limited  (諾誠健華醫藥有限公司)’s  group 
+would also receive a minority equity stake in Prolium. For further details, please refer to the 
+Company’s announcement dated January 20, 2025.
+
+• 
+
+CM369/ICP-B05 (CCR8 antibody)
+
+CM369  is  an  anti-C-C  motif  chemokine  receptor  8  (CCR8)  monoclonal  antibody,  a  potential 
+first-in-class  drug  co-developed  by  the  Company  and  InnoCare  as  a  monotherapy  or  in 
+combination  with  other  therapies  for  the  treatment  of  various  cancers.  Research  has  found 
+that  CM369,  as  a  chemokine  receptor  highly  expressed  specifically  on  tumor-infiltrating 
+regulatory  T  cells  (Treg),  binds  to  CCR8  positive  Tregs  and  eradicates  immunosuppressive 
+Tregs  through  antibody-dependent  cell-mediated  cytotoxicity  (ADCC)  to  augment  the 
+anti-tumor  immunity  in  tumor  microenvironment  (TME)  while  preserving  peripheral 
+homeostasis.  CM369  has  the  potential  to  deliver  optimal  tumor-targeted  Treg  depletion  and 
+be more specific in anti-tumor activity than other immunotherapies and enhance our strength 
+in the field of solid tumors by synergizing with our existing pipelines.
+
+As  of  the  date  of  this  announcement,  the  Phase  I  dose-escalation  trial  of  CM369  in  patients 
+with  advanced  solid  tumors  and  r/r  NHL  is  ongoing.  Early  data  showed  that  some  patients 
+achieved  partial  response  (PR)  with  high  progression-free  survival  (PFS)  rate,  supporting 
+continued  clinical  evaluation  and  future  exploration  of  combination  therapy  regimens  in 
+various cancer indications.
+
+Cautionary  Statement  required  by  Rule  18A.08(3)  of  the  Listing  Rules:  The  Company  may  not  be 
+able  to  ultimately  develop  and  market  CM310,  CMG901,  CM512,  CM518D1,  CM336,  CM313, 
+CM383,  CM559,  CM350,  CM326,  CM355,  CM369  or  any  other  product  candidates  successfully. 
+As of the date of this announcement, no material adverse changes had occurred with respect to the 
+regulatory approvals we had received in relation to our drug candidates.
+
+17
+
+OUR R&D AND MANUFACTURING
+
+Leveraging  our  deep  understanding  of  disease  areas  and  related  drug  targets,  we  are  able  to 
+accurately  analyze  the  pain  points  in  unmet  clinical  needs.  Combined  with  the  various  innovative 
+R&D  platforms  we  have  established  with  independent  intellectual  property  rights,  we  select  the 
+optimal  molecular  modalities  and  strive  to  become  the  best-in-class  therapies  in  the  field,  with  a 
+view to truly resolving illness and benefiting patients worldwide.
+
+R&D PLATFORMS
+
+We  have  built  fully-integrated  platforms  to  enable  our  in-depth  R&D  in  the  areas  of  immunology 
+and  oncology.  Our  platforms  are  integrated  seamlessly  to  support  key  drug  development 
+functionalities,  including  antibody  screening,  small  molecule  lead  compound  discovery,  antibody 
+conjugation, functional evaluation, in vivo preclinical studies and biomarker identification. We have 
+the  expertise  and  capability  to  independently  complete  the  entire  drug  development  process  from 
+drug  discovery  to  preclinical  research  to  clinical  development  and  to  NDA/BLA  application.  Our 
+core platforms are as follows:
+
+• 
+
+Antibodies Discovery Platform
+
+An  innovative  antibody  discovery  platform  is  utilized  for  the  identification  and  evaluation 
+of  antibody  drug  candidates.  By  integrating  hybridoma  technology,  phage  display  library 
+technology,  and  the  latest  artificial  intelligence  approaches  such  as  machine  learning,  the 
+platform  enables  high-throughput  antibody  screening,  activity  evaluation,  developability 
+assessment,  and  molecular  engineering  and  optimization.  This  platform  can  rapidly  screen 
+candidate  antibodies  with  high  specificity  and  high  affinity.  The  core  strengths  are  its 
+integrated  R&D  process  and  independent  innovation  capability,  which  can  accelerate  the 
+development and translation of antibody drugs to address significant unmet clinical needs.
+
+• 
+
+KeyMedSTAR™ (Keymed Superior Topo1i ADC Reagents) ADC Platform
+
+We  are  dedicated  to  building  a  novel  Antibody-Drug  Conjugate  (ADC)  platform  with 
+comprehensive,  full-spectrum  R&D  capabilities.  The  platform  is  based  on  first-in-class 
+target  discovery  and  develops  various  highly  specific  antibody  formats,  including  bispecific 
+antibodies.  These  are  precisely  conjugated  via  our  proprietary  linker-payload  system.  We 
+utilize  AI/computer-aided  drug  design  to  optimize  payload  activity  and  safety,  and  our 
+self-developed  topoisomerase  I  inhibitor-based  payloads  and  linkers  already  demonstrate 
+excellent performance and possess independent intellectual property rights.
+
+The  platform  employs  a  controlled  site-specific  conjugation  process  to  achieve  high 
+homogeneity and robust DAR control. It is supported by our proprietary GMP manufacturing 
+facility, which can sustain the entire workflow from candidate molecule screening through to 
+drug  supply  for  Phase  I/II  clinical  trials,  thereby  efficiently  advancing  the  development  and 
+translation of innovative ADC therapeutics.
+
+18
+
+• 
+
+TCE Bispecific Antibodies Platform
+
+The TCE Bispecific Antibodies Platform focuses on tumors and autoimmune diseases, aiming 
+to  achieve  profound  depletion  of  pathogenic  cells  through  precisely  targeted  design.  The 
+platform  features  strong  technological  innovation.  Its  core  pipelines  demonstrate  outstanding 
+clinical  efficacy.  Pipelines  have  shown  potential  for  high  response  rates  (ORR>90%)  and 
+durable clinical remission, with related research findings published in authoritative academic 
+journals. Leveraging high-specificity binding and a highly effective mechanism of action, the 
+platform possesses versatile potential for expansion, offering innovative solutions for relevant 
+therapeutic areas.
+
+• 
+
+VESIR™ (VEhicle for siRNA Delivery) Oligonucleotide Platform
+
+We  have  established  an  integrated  oligonucleotide  platform  with  independent  intellectual 
+property  rights,  covering  the  entire  spectrum  from  drug  design  and  efficient  delivery  to 
+process  development,  thereby  accelerating  the  R&D  and  translation  of  next-generation 
+targeted  therapeutics.  The  oligonucleotide  platform  includes  AI-based  siRNA  design, 
+high-throughput  synthesis  and  screening,  and  proprietary  chemical  modifications,  such 
+as  5’  cap  analog  modification,  siRNA  fine-tuning  modification  strategies  and  seed  region 
+modification  to  reduce  off-target  activity,  which  can  significantly  enhance  stability  and 
+minimize  off-target  effects.  The  VESIR™  platform  supports  both  hepatic  and  extrahepatic 
+delivery. Leveraging our proprietary GalNAc-based hepatic delivery system and the modular 
+extrahepatic delivery platform XOC, it enables tissue-specific drug delivery.
+
+• 
+
+Small Molecule Platform
+
+We  are  dedicated  to  developing  PROTAC  molecules  with  novel  chemical  structures  and 
+potent  degradation  activity,  targeting  multiple  undruggable  proteins.  By  combining  novel  E3 
+ligase  binders,  linkers,  and  POI  (Protein  of  Interest)  ligands,  we  aim  to  identify  candidate 
+molecules  with  high  efficiency,  good  stability,  favorable  pharmacokinetic  properties,  and 
+promising bioavailability, thereby advancing innovative therapeutic approaches.
+
+• 
+
+K e y C N D ™   ( K e y m e d   C e n t r a l   N e r v o u s   S y s t e m   D e l i v e r y )   –   B l o o d - B r a i n 
+Barrier-Penetrating Antibody Delivery Platform
+
+Aimed  at  addressing  neurological  disorders  such  as  Alzheimer’s  disease,  this  platform  is 
+dedicated  to  developing  macromolecular  delivery  systems  capable  of  efficiently  crossing  the 
+blood-brain  barrier  (BBB).  Utilizing  proprietary  technologies,  such  as  BBB-XOC,  it  enables 
+targeted delivery of antibodies, nucleic acids, small molecules, and other drugs to the central 
+nervous system, providing novel pathways for the treatment of neurological diseases.
+
+MANUFACTURING CAPABILITIES
+
+To  ensure  production  and  supply  of  high-quality  and  affordable  antibody  drugs,  we  have  always 
+been  committed  to  enhancing  our  in-house  manufacturing  capabilities.  We  have  internally 
+developed  high-expressing  cell  lines  to  ensure  high  yield  and  low  costs  for  our  antibody  drugs 
+manufacturing.  As  of  the  date  of  this  announcement,  the  production  base  in  Chengdu  has  3  pilot 
+production  lines  and  3  commercial  production  lines,  with  a  total  production  capacity  of  21,800 
+litres.  The  stainless  steel  production  lines  with  an  additional  production  capacity  of  24,000  litres 
+have  completed  installation  and  commissioning  and  will  soon  be  put  into  use.  All  the  designs 
+thereof are in compliance with the requirements of cGMP of the NMPA and FDA.
+
+19
+
+FUTURE DEVELOPMENT
+
+We  will  continue  to  focus  on  our  core  strategy  and  make  every  effort  to  advance  the 
+commercialization  of  Kangyueda  (康悅達®),  and  rapidly  advance  both  ongoing  and  planned 
+clinical programs for our pipeline products both in China and globally, including in the U.S.. In the 
+meantime, to expedite the commercialization of our drug candidates and maximize the commercial 
+value,  we  will  actively  explore  value-accretive  strategic  partnerships  such  as  co-development, 
+collaboration, and licensing both in China and globally.
+
+In anticipation of increased production demands for our drug candidates, we plan to further expand 
+our  cGMP-compliant  manufacturing  capacity  to  improve  the  cost-effectiveness  of  our  production. 
+We are very pleased to see the rapid progress we achieved so far and the detailed development plan 
+ahead  of  us.  In  line  with  our  Company’s  vision,  we  are  committed  to  developing,  manufacturing 
+and commercializing competitive innovative drugs for patients worldwide.
+
+FINANCIAL REVIEW
+
+Revenue
+Cost of sales
+
+GROSS PROFIT
+
+Other income and gains
+Research and development expenses
+Administrative expenses
+Selling and distribution expenses
+Other expenses
+Finance costs
+Share of loss of a joint venture
+
+LOSS BEFORE TAX
+
+Income tax expense
+
+LOSS FOR THE YEAR
+
+Attributable to:
+  Owners of the parent
+  Non-controlling interests
+
+20
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+716,313
+(88,048)
+
+428,124
+(12,200)
+
+628,265
+
+415,924
+
+159,224
+(723,529)
+(182,209)
+(321,987)
+(62,905)
+(16,908)
+(674)
+
+141,154
+(735,192)
+(187,933)
+(110,897)
+(7,987)
+(18,460)
+(5,256)
+
+(520,723)
+
+(508,647)
+
+(1,874)
+
+(6,260)
+
+(522,597)
+
+(514,907)
+
+(522,641)
+44
+
+(515,241)
+334
+
+(522,597)
+
+(514,907)
+
+1.  Revenue and Cost of Sales
+
+During  the  Reporting  Period,  the  Group’s  revenue  consisted  of  collaboration  revenue  and 
+sales  of  Kangyueda  (康悅達®,  Stapolibart).  The  collaboration  revenue  amounted  to  RMB402 
+million.  The  sales  of  Kangyueda  (康悅達®)  amounted  to  RMB315  million.  Cost  of  sales 
+consisted  of  manufacture  costs  of  Kangyueda  (康悅達 ®)  and  costs  incurred  under  the 
+out-licensing collaboration arrangements.
+
+2.  Other Income and Gains
+
+During  the  Reporting  Period,  the  Group’s  other  income  and  gains  primarily  consisted  of 
+interest  income  of  RMB67  million,  government  grants  income  of  RMB52  million  and  fair 
+value gain on financial assets at FVTPL of RMB31 million.
+
+3.  R&D Expenses
+
+During  the  Reporting  Period,  the  Group’s  R&D  expenses  primarily  consisted  of  (i)  expenses 
+incurred in connection with pre-clinical and clinical studies, including third-party contracting 
+costs with respect to the engagement of CROs, clinical trial sites and other service providers 
+in connection with our R&D activities; (ii) staff costs for our R&D employees; (iii) expenses 
+for  procuring  raw  materials  and  consumables  used  in  the  R&D  of  our  drug  candidates;  and 
+(iv)  depreciation  and  amortization  of  property,  plant  and  equipment  and  other  intangible 
+assets related to R&D activities.
+
+4.  Administrative Expenses
+
+During  the  Reporting  Period,  the  Group’s  administrative  expenses  primarily  consisted  of  (i) 
+staff  costs  for  our  administrative  employees;  (ii)  depreciation  and  amortization  of  property, 
+plant  and  equipment  and  other  intangible  assets  related  to  administrative  activities;  (iii) 
+professional  services  fees  paid  to  legal  counsel,  agents,  auditor,  and  other  professional 
+service  providers;  and  (iv)  travelling  expenses.  For  the  year  ended  December  31,  2025,  the 
+administrative  expenses  of  the  Group  decreased  by  RMB6  million  to  RMB182  million,  from 
+RMB188 million for the year ended December 31, 2024.
+
+5.  Selling and Distribution Expenses
+
+During  the  Reporting  Period,  the  Group’s  selling  and  distribution  expenses  primarily 
+consisted of (i) staff costs for our commercialization function; (ii) expenditure for marketing 
+and  promotion  activities;  and  (iii)  travelling  expenses.  For  the  year  ended  December  31, 
+2025,  the  selling  and  distribution  expenses  of  the  Group  increased  by  RMB211  million  to 
+RMB322 million, from RMB111 million for the year ended December 31, 2024. The increase 
+was consistent with the increased sales of Kangyueda (康悅達®) during the Reporting Period.
+
+6.  Other Expenses
+
+During  the  Reporting  Period,  the  Group’s  other  expenses  primarily  consisted  of  foreign 
+exchange losses.
+
+21
+
+7.  Finance Costs
+
+During  the  Reporting  Period,  the  Group’s  finance  costs  primarily  consisted  of  interest 
+expenses  on  bank  borrowings  of  RMB19  million,  netted  off  capitalized  interests  of  RMB3 
+million.
+
+8.  Selected Data from Consolidated Statement of Financial Position
+
+Total current assets
+Total non-current assets
+
+Total assets
+
+Total current liabilities
+Total non-current liabilities
+
+Total liabilities
+
+Net current assets
+
+9.  Liquidity and Capital Resources
+
+As at 
+December 
+31, 2025
+RMB’000
+
+As at 
+December 
+31, 2024
+RMB’000
+
+2,422,842
+1,794,691
+
+2,466,026
+1,300,540
+
+4,217,533
+
+3,766,566
+
+836,294
+606,316
+
+747,726
+543,628
+
+1,442,610
+
+1,291,354
+
+1,586,548
+
+1,718,300
+
+As  at  December  31,  2025,  our  time  deposits,  cash  and  bank  balances,    restricted  cash  and 
+bank wealth management products decreased by RMB193 million to RMB1,963 million from 
+RMB2,156 million as at December 31, 2024. The decrease was primarily attributable to cash 
+used in our daily business operation.
+
+As at December 31, 2025, the current assets of the Group were RMB2,423 million, including 
+cash and bank balances of RMB503 million,  restricted cash of RMB40 million, time deposits 
+of  RMB1,100  million,  bank  wealth  management  products  of  RMB320  million  and  other 
+current  assets  of  RMB460  million.  As  at  December  31,  2025,  the  current  liabilities  of  the 
+Group  were  RMB836  million,  including  trade  payables  of  RMB28  million,  other  payables 
+and accruals of RMB286 million, interest-bearing bank borrowings of RMB509 million, lease 
+liabilities  of  RMB10  million  and  other  current  liabilities  of  RMB3  million.  As  at  December 
+31, 2025, the Group had available unutilized bank loan facilities of RMB273 million.
+
+For  the  year  ended  December  31,  2025,  our  net  cash  flows  used  in  operating  activities 
+decreased  by  RMB78  million  to  RMB712  million  from  RMB790  million  for  the  year  ended 
+December 31, 2024.
+
+For the year ended December 31, 2025, our net cash flows from investing activities decreased 
+by  RMB29  million  to  RMB39  million  from  RMB68  million  for  the  year  ended  December 
+31,  2024.  The  decrease  was  primarily  attributable  to  the  increase  in  investment  in  plant  and 
+equipment during the Reporting Period.
+
+22
+
+For the year ended December 31, 2025, our net cash flows from financing activities increased 
+by RMB505 million to RMB789 million from RMB284 million for the year ended December 
+31,  2024.  The  increase  was  primarily  attributable  to  proceeds  received  from  placing  of  new 
+Shares in June 2025.
+
+As  part  of  our  treasury  management,  we  invest  in  certain  wealth  management  products  to 
+better  utilize  excess  cash  when  our  cash  sufficiently  covers  our  ordinary  course  of  business. 
+We  have  implemented  a  series  of  internal  control  policies  and  rules  setting  forth  overall 
+principles  as  well  as  detailed  approval  process  of  our  investment  activities.  Under  our 
+investment  policy,  we  generally  limit  our  purchases  to  low-risk,  short-term  products  from 
+reputable  commercial  banks  which  must  not  interfere  with  our  daily  operation  and  business 
+prospects.
+
+We  recorded  these  investments  as  financial  assets  at  FVTPL  of  RMB320  million  as  of 
+December 31, 2025. We manage and evaluate the performance of these investments on a fair 
+value basis in accordance with our risk management and investment strategy. Therefore, these 
+investments in wealth management products were designated as financial assets at FVTPL as 
+of December 31, 2025.
+
+10.  Gearing Ratio
+
+The  gearing  ratio  (calculated  by  total  liabilities  divided  by  total  assets)  of  the  Group  as  of 
+December 31, 2025 was 34% (as of December 31, 2024: 34%).
+
+11.  Indebtedness
+
+As  at  December  31,  2025,  our  interest-bearing  bank  borrowings  amounted  to  RMB767 
+million (of which RMB344 million are borrowed at fixed interest rates) and unutilized credit 
+facilities amounted to RMB273 million. The repayment terms of bank borrowings range from 
+one to five years.
+
+12.  Significant Investments, Material Acquisitions and Disposals
+
+The  Group  did  not  have  material  acquisitions  or  disposals  of  subsidiaries,  associates  and 
+joint  ventures  for  the  year  ended  December  31,  2025,  and  the  Group  also  did  not  hold 
+any  significant  investments  as  of  December  31,  2025.  The  Group  did  not  have  plans  for 
+significant investments or capital assets as at the date of the announcement.
+
+13.  Contingent Liabilities
+
+As of December 31, 2025, the Group did not have any contingent liabilities.
+
+14.  Capital Commitments
+
+As  of  December  31,  2025,  the  Group  had  capital  commitments  contracted,  but  not  yet 
+provided,  of  RMB346  million,  which  were  related  to  the  purchase  of  property,  plant  and 
+equipment for the manufacture plant.
+
+23
+
+15.  Pledge of Assets
+
+As  of  December  31,  2025,  the  Group  pledged  machinery  equipment  with  costs  of  RMB441 
+million,  construction  in  progress,  buildings  and  land  use  right  with  a  total  net  carrying 
+amount of RMB352 million to secure its bank borrowings.
+
+16.  Foreign Exchange Exposure
+
+During  the  Reporting  Period,  the  Group  mainly  operated  in  China  and  a  majority  of  its 
+transactions  were  settled  in  Renminbi,  the  functional  currency  of  the  Company’s  primary 
+subsidiaries. The Group’s borrowings are made in Renminbi, while cash and cash equivalents 
+are  primarily  held  in  Renminbi,  Hong  Kong  dollars,  U.S.  dollars  and  Euros.  The  Group  is 
+exposed to foreign currency risk as a result of certain cash and bank balances, time deposits, 
+and  financial  assets  at  FVTPL  denominated  in  non-functional  currency.  Therefore,  the 
+fluctuations in the exchange rate of functional currency against non-functional currency could 
+affect the Group’s results of operations. We currently do not have a foreign currency hedging 
+policy.  However,  our  management  monitors  foreign  exchange  exposure  and  will  consider 
+hedging significant foreign currency exposure should the need arise.
+
+HUMAN RESOURCES
+
+As  of  December  31,  2025,  we  had  1,625  full-time  employees  in  total,  including  6  employees 
+who  were  employed  overseas  and  the  remaining  in  Mainland  China.  In  strict  compliance  with  the 
+relevant  labor  laws,  we  enter  into  individual  employment  contracts  with  our  employees  covering 
+matters  such  as  terms,  wages,  bonuses,  employee  benefits,  workplace  safety,  confidentiality 
+obligations and grounds for termination.
+
+To  remain  competitive  in  the  labor  market,  we  provide  various  incentives  and  benefits  to  our 
+employees.  We  invest  in  continuing  education  and  training  programs,  including  internal  and 
+external  training,  for  our  management  staff  and  other  employees  to  upgrade  their  skills  and 
+knowledge. We also provide competitive salaries and opportunities to participate in share incentive 
+schemes  to  our  employees.  We  believe  our  benefits,  working  environment  and  development 
+opportunities  for  our  employees  have  contributed  to  good  employment  relations  and  employee 
+retention.
+
+Our  Company  has  adopted  the  2021  RSU  Scheme  on  April  5,  2021  (for  further  details,  please 
+refer to our Prospectus) and the 2022 RSU Scheme on January 21, 2022 (for further details, please 
+refer to the Company’s announcements dated January 21, 2022 and January 28, 2022). During the 
+Reporting  Period,  restricted  share  units  underlying  819,256  Shares  and  0  Share  had  been  awarded 
+under the 2021 RSU Scheme and 2022 RSU Scheme, respectively.
+
+FINANCING ACTIVITIES
+
+In  June  2025,  the  Company  placed  an  aggregate  of  19,000,000  new  Shares  at  the  placing  price  of 
+HK$45.48 per Share through a top-up subscription arrangement, details of which are set out in the 
+announcements of the Company dated June 11, 2025 and June 19, 2025.
+
+24
+
+SIGNIFICANT EVENTS AFTER THE END OF THE REPORTING PERIOD
+
+A milestone payment received from AstraZeneca for its core product CMG901/AZD0901
+
+In February 2026, AstraZeneca announced that it has initiated a multi-center, randomized, controlled 
+Phase  III  clinical  study  of  CMG901/AZD0901  in  combination  with  capecitabine,  with  or  without 
+Rilvegostomig  for  the  first-line  treatment  of  Claudin  18.2-positive  and  HER2-negative  advanced/
+metastatic  gastric  cancer,  gastroesophageal  junction  cancer  or  esophageal  adenocarcinoma 
+(CLARITY-Gastric  02),and  has  administered  the  dose  to  the  first  subject.  Subject  to  the  terms 
+and  conditions  of  the  agreement,  the  administration  of  the  dose  to  the  first  subject  in  the  above 
+clinical  trial  has  triggered  a  milestone  payment  of  USD45,000,000  in  total.  In  March  2026,  KYM 
+Biosciences  Inc.（“KYM”,  a  70%  non-wholly-owned  subsidiary  of  the  Group)  has  received  the 
+payment from AstraZeneca, 70% of which was attributable to the Group and the remaining 30% to 
+Lepu  Biopharma  Co.,  Ltd.  For  further  details,  please  refer  to  the  Company’s  announcement  dated 
+March 10, 2026.
+
+A merger agreement entered into between our partner, Ouro Medicines and Gilead Sciences
+
+On  March  23,  2026,  our  partner,  Ouro  Medicines,  entered  into  a  merger  agreement  with  Gilead 
+Sciences  (NASDAQ:  GILD).  Gilead  Sciences  will  acquire  Ouro  Medicines  by  way  of  a  merger, 
+with  a  transaction  amount  including  an  upfront  payment  of  US$1,675  million  and  a  milestone 
+payment  of  up  to  US$500  million,  bringing  a  maximum  total  transaction  of  US$2,175  million. 
+The  Company,  through  iBridge  HK,  also  disposed  of  its  approximately  15%  minority  interest  in 
+Ouro  Medicines  as  part  of  its  merger  agreement  with  Gilead  Sciences,  Inc.  We  will  receive  an 
+initial  payment  of  approximately  US$250  million  after  completion  of  the  transaction,  as  well  as  a 
+milestone payment of up to approximately US$70 million, bringing the total revenue amount to up 
+to approximately US$320 million. Simultaneously, our milestone payments and tiered royalties on 
+net sales of up to US$610 million for CM336/OM336 will continue to be fulfilled by Gilead. After 
+completion of the transaction, we will no longer hold equity interest in Ouro Medicines. As of the 
+date  of  this  announcement,  this  transaction  has  not  yet  closed.  For  further  details,  please  refer  to 
+the Company’s announcement dated March 24, 2026.
+
+Save as disclosed in this announcement, there is no significant subsequent event undertaken by the 
+Company or by the Group after the Reporting Period and up to the date of this announcement.
+
+FINAL DIVIDEND
+
+The Board has resolved not to recommend a final dividend for the year ended December 31, 2025.
+
+ANNUAL GENERAL MEETING
+
+The AGM will be held on June 26, 2026. Notice of the AGM and all other relevant documents will 
+be published and despatched to the Shareholders in due course.
+
+25
+
+CLOSURE OF REGISTER OF MEMBERS
+
+In order to determine the entitlement to attend and vote at the AGM, the register of members of the 
+Company  will  be  closed  from  June  23,  2026  to  June  26,  2026,  both  days  inclusive,  during  which 
+period no transfer of shares will be registered. Shareholders whose names appear on the register of 
+Shareholders of the Company on June 26, 2026 will be entitled to attend and vote at the AGM. All 
+transfer documents of the Company accompanied by the relevant share certificates must be lodged 
+with the branch share registrar of the Company in Hong Kong, Computershare Hong Kong Investor 
+Services  Limited  at  1712-1716,  17th  Floor,  Hopewell  Centre,  183  Queen’s  Road  East,  Wan  Chai, 
+Hong Kong, for registration not later than 4:30 p.m. on June 22, 2026.
+
+CORPORATE GOVERNANCE PRACTICES
+
+The  Group  is  committed  to  maintaining  high  standards  of  corporate  governance  to  safeguard  the 
+interests  of  the  Shareholders  of  the  Company  and  to  enhance  corporate  value  and  accountability. 
+The Company has adopted the CG Code contained in Appendix C1 to the Listing Rules as its own 
+code of corporate governance.
+
+Under  code  provision  C.2.1  of  part  2  of  the  CG  Code,  the  roles  of  chairman  and  chief  executive 
+should be separate and should not be performed by the same individual. Dr. Chen is the chairman 
+of  the  Board  and  the  chief  executive  officer  of  the  Company.  With  extensive  experience  in  the 
+pharmaceutical industry and having served in the Company since its establishment, Dr. Chen is in 
+charge of overall strategic planning, business direction and operational management of the Group. 
+The  Board  considers  that  vesting  the  roles  of  the  chairman  of  the  Board  and  the  chief  executive 
+officer in the same person is beneficial to the management of the Group. The balance of power and 
+authority  is  ensured  by  the  operation  of  the  Board  and  our  senior  management,  which  comprises 
+experienced  and  diverse  individuals.  The  Board  currently  comprises  three  executive  Directors 
+(including Dr. Chen), three non-executive Directors and three independent non-executive Directors, 
+and therefore has a strong independence element in its composition.
+
+Save  as  disclosed  above,  in  the  opinion  of  the  Directors,  the  Company  has  complied  with  the 
+relevant code provisions contained in the CG Code during the Reporting Period.
+
+Code provision F.2.2 (currently F.1.3) of part 2 of the CG Code provides that the chairman of the 
+Board  should  attend  the  annual  general  meeting  and  that  the  chairmen  of  the  audit,  remuneration, 
+nomination  and  any  other  committees  should  be  invited  to  attend  the  annual  general  meeting  and, 
+in their absence, the chairman of the Board should invite other members of the committee or other 
+duly appointed delegate to attend. Dr. Chen (being the chairman of the Board and chairman of the 
+nomination  committee),  Dr.  Changyu  WANG  (being  a  member  of  the  remuneration  committee) 
+and Dr. Gang XU (for the purpose of code provision F.2.2 (currently F.1.3) of the CG Code, as the 
+duly appointed delegate of Mr. Qi CHEN, a member of the Audit Committee) attended the annual 
+general meeting of the Company held on June 26, 2025.
+
+The  Board  will  continue  to  review  and  monitor  the  practices  of  the  Company  with  an  aim  of 
+maintaining a high standard of corporate governance.
+
+26
+
+MODEL CODE FOR SECURITIES TRANSACTIONS
+
+The  Company  has  adopted  the  Model  Code  as  its  own  code  of  conduct  regarding  dealings  in  the 
+securities of the Company by the Directors and the Company’s senior management who, because of 
+his/her  office  or  employment,  is  likely  to  possess  inside  information  in  relation  to  the  Company’s 
+securities.
+
+Upon  specific  enquiry,  all  Directors  confirmed  that  they  have  complied  with  the  Model  Code 
+during  the  Reporting  Period.  In  addition,  the  Company  is  not  aware  of  any  non-compliance  of  the 
+Model Code by the senior management of the Group during the Reporting Period.
+
+REVIEW OF ANNUAL RESULTS BY THE AUDIT COMMITTEE
+
+The  Board  has  established  the  Audit  Committee  which  comprises  one  non-executive  Director  and 
+two  independent  non-executive  Directors,  namely  Mr.  Qi  CHEN,  Mr.  Cheuk  Kin  Stephen  LAW 
+(chairman)  and  Prof.  Yang  KE.  The  primary  duties  of  the  Audit  Committee  are  to  review  and 
+supervise the Company’s financial reporting process and internal controls.
+
+The  Audit  Committee  has  reviewed  this  announcement  and  the  Group’s  audited  consolidated 
+financial statements for the year ended December 31, 2025 and confirmed that it has complied with 
+all  applicable  accounting  principles,  standards  and  requirements,  and  made  sufficient  disclosures. 
+The Audit Committee has also discussed the matters of audit and financial reporting.
+
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S LISTED SECURITIES
+
+Neither  the  Company  nor  any  of  its  subsidiaries  have  purchased,  sold  or  redeemed  any  of  the 
+Company’s  listed  securities  (including  sale  of  treasury  shares  if  any)  during  the  Reporting  Period 
+and up to the date of this announcement.
+
+USE OF PROCEEDS FROM GLOBAL OFFERING
+
+In  connection  with  the  Global  Offering,  67,004,000  Shares  were  issued  at  a  price  of  HK$53.3 
+per  Share  for  a  total  cash  consideration,  after  deduction  of  the  underwriting  fees  and  expenses,  of 
+approximately  RMB2,841  million.  Dealings  in  the  Shares  on  the  Stock  Exchange  commenced  on 
+July 8, 2021. The Group has applied such proceeds in a manner consistent with the intended use of 
+proceeds  as  set  out  in  the  Prospectus.  All  proceeds  from  the  Global  Offering  has  been  utilized  by 
+December 31, 2025.
+
+27
+
+The  table  below  sets  forth  the  utilisation  of  the  net  proceeds  from  the  Global  Offering  and  the 
+unused amount as at December 31, 2025:
+
+Business objective as 
+stated in the Prospectus
+
+R&D and commercialization of the 
+
+Company’s Core Product and key  
+drug candidates
+
+Preclinical evaluation and clinical 
+development of the Company’s  
+other pipeline products
+
+Payment of lease for the Company’s  
+new manufacturing and R&D  
+facilities and procurement of  
+machinery and equipment
+General corporate and working  
+
+capital purposes
+
+Balance 
+As at 
+Planned 
+December 
+applications
+31, 2025
+RMB million RMB million RMB million RMB million
+
+Balance 
+as at 
+December 
+31, 2024
+
+Actual 
+utilisation 
+during the 
+Reporting 
+Period
+
+1,705
+
+448
+
+448
+
+426
+
+426
+
+284
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+Expected 
+timeline for 
+unutilized 
+amount
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+Total
+
+2,841
+
+448
+
+448
+
+USE OF PROCEEDS FROM TOP-UP PLACING
+
+Reference  is  made  to  the  announcements  of  the  Company  dated  June  11,  2025  and  June  19,  2025 
+(the  “Announcements”).  Capitalised  terms  used  in  this  section  shall  have  the  same  meanings  as 
+those defined in the Announcements.
+
+On  June  13,  2025,  a  total  of  21,600,000  Subscription  Shares  held  by  Moonshot  Holdings  Limited 
+as  the  top-up  vendor  have  been  placed  at  the  Placing  Price  of  HK$45.48  per  Share  to  not  less 
+than  six  professional,  institutional,  corporate  and/or  other  investors,  together  with  their  respective 
+ultimate beneficial owners, are Independent Third Parties. On June 19, 2025, a total of 19,000,000 
+Subscription  Shares have been issued to the Moonshot Holdings Limited at  the  Subscription Price 
+of HK$45.48 per Share. For further details, please refer to the Announcements.
+
+The gross proceeds to the Company from the Subscription are approximately HK$864 million, and 
+the net proceeds (after deducting the commissions and estimated costs, fees and expenses) from the 
+Subscription are approximately HK$854 million approximately (RMB782 million) in aggregate.
+
+28
+
+The table below sets forth the utilisation of the net proceeds from the Subscription and the unused 
+amount as at December 31, 2025:
+
+Business objective as stated
+in the Announcements
+
+R&D expenses of the CM512, CM518D1  
+
+and other pipelines
+
+Commercialization of Stapokibart
+Capital expenditure of manufacturing and R&D 
+
+facilities
+
+General corporate and working capital purposes
+
+Total
+
+Actual 
+utilisation 
+during the 
+Reporting 
+Period
+
+Planned 
+Balance 
+use of 
+As at 
+actual 
+December 
+net proceeds
+31, 2025
+RMB million RMB million RMB million
+
+Expected 
+timeline for 
+unutilized 
+amount
+
+274
+
+235
+
+195
+
+78
+
+782
+
+274
+
+21
+
+195
+
+49
+
+539
+
+–
+By the end 
+of 2026
+
+–
+By the end 
+of 2026
+
+–
+
+214
+
+–
+
+29
+
+243
+
+PUBLICATION OF RESULTS ANNOUNCEMENT AND ANNUAL REPORT
+
+This announcement is published on the website of the Stock Exchange (www.hkexnews.hk) and the 
+Company’s website (www.keymedbio.com).
+
+The annual report of the Company for the Reporting Period containing all the information required 
+by the Listing Rules will be dispatched to Shareholders and published on the above websites in due 
+course.
+
+29
+
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+Year ended December 31, 2025
+
+Revenue
+Cost of sales
+
+GROSS PROFIT
+
+Other income and gains
+Research and development expenses
+Administrative expenses
+Selling and distribution expenses
+Other expenses
+Finance costs
+Share of loss of a joint venture
+
+LOSS BEFORE TAX
+
+Income tax expense
+
+LOSS FOR THE YEAR
+
+Attributable to:
+  Owners of the parent
+  Non-controlling interests
+
+Notes
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+4
+
+5
+
+6
+7
+
+8
+
+9
+
+716,313
+(88,048)
+
+428,124
+(12,200)
+
+628,265
+
+415,924
+
+159,224
+(723,529)
+(182,209)
+(321,987)
+(62,905)
+(16,908)
+(674)
+
+141,154
+(735,192)
+(187,933)
+(110,897)
+(7,987)
+(18,460)
+(5,256)
+
+(520,723)
+
+(508,647)
+
+(1,874)
+
+(6,260)
+
+(522,597)
+
+(514,907)
+
+(522,641)
+44
+
+(515,241)
+334
+
+(522,597)
+
+(514,907)
+
+LOSS PER SHARE ATTRIBUTABLE 
+  TO ORDINARY EQUITY HOLDERS
+  OF THE PARENT
+
+Basic and diluted
+
+(RMB1.91)
+
+(RMB1.97)
+
+30
+
+
