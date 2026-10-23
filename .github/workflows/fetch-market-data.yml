@@ -1,32 +1,39 @@
 name: fetch-market-data
-# Refresh of the raw data behind coreweave_analysis/ and popmart_analysis/ (Yahoo Finance, SEC, HKEXnews).
+# Refresh of the raw data behind coreweave_analysis/, popmart_analysis/ and 3sbio_analysis/ (Yahoo Finance, SEC,
+# HKEXnews, Eastmoney via akshare, FRED).
 # Runs on a GitHub-hosted runner and commits the downloaded files back to the branch it was started on.
 on:
+  push:
+    branches: [claude/ecstatic-pasteur-xjywhs]
+    paths:
+      - 3sbio_analysis/scripts/fetch_data.py
   workflow_dispatch:
     inputs:
       script:
         description: "Fetch script to run"
-        default: popmart_analysis/scripts/fetch_data.py
+        default: 3sbio_analysis/scripts/fetch_data.py
         type: choice
-        options: [coreweave_analysis/scripts/fetch_data.py, coreweave_analysis/scripts/fetch_extra.py, popmart_analysis/scripts/fetch_data.py]
+        options: [coreweave_analysis/scripts/fetch_data.py, coreweave_analysis/scripts/fetch_extra.py, popmart_analysis/scripts/fetch_data.py,
+                  3sbio_analysis/scripts/fetch_data.py]
 permissions:
   contents: write
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install yfinance pandas beautifulsoup4 lxml pdfminer.six
-      - run: python ${{ inputs.script }}
+      - run: pip install yfinance pandas beautifulsoup4 lxml pdfminer.six akshare
+      - run: python ${{ inputs.script || '3sbio_analysis/scripts/fetch_data.py' }}
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add coreweave_analysis/data || true
           git add popmart_analysis/data || true
-          git commit -m "Refresh raw data (${{ inputs.script }})" || echo "nothing to commit"
+          git add 3sbio_analysis/data || true
+          git commit -m "Refresh raw data (${{ inputs.script || '3sbio_analysis/scripts/fetch_data.py' }})" || echo "nothing to commit"
           git push
