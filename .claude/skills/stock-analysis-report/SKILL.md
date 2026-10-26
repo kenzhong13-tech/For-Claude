@@ -34,6 +34,7 @@ and the user follows along from the app.
 |---|---|---|
 | `scripts/marketlib.py` | Volatility, betas, factor models, GARCH, peers (leave-one-out), event study, ex-dividend study, yield spread, CDS/Merton helpers | `report_kit/` |
 | `scripts/fetchlib.py` | Yahoo, akshare, cninfo, HKEXnews, SEC and FRED download helpers with the endpoints that work | `report_kit/` |
+| `scripts/finlib.py` | US and HK fundamentals: SEC XBRL quarters and years, Eastmoney HK indicators, Yahoo-based peer rows (P/E and P/B computed with FX) | `report_kit/` |
 | `scripts/build_report.py` | Inlines CSS, JS and data into the template; counts leftover 【…】 placeholders | `report_kit/` |
 | `scripts/base.css`, `scripts/charts.js` | Page design (light and dark) and the SVG chart library | `report_kit/` |
 | `scripts/shot.mjs`, `scripts/make_pdf.mjs`, `scripts/pdf_pages.py` | Screenshots with layout diagnostics, A4 PDF export, PDF contact sheet | `report_kit/` |
@@ -41,9 +42,11 @@ and the user follows along from the app.
 | `assets/fetch-market-data.yml` | GitHub Actions workflow that fetches data on a runner with open internet | `.github/workflows/` |
 | `assets/fetch_template.py` | Per-market fetch script (A / HK / US) | `<slug>_analysis/scripts/fetch_data.py` |
 | `assets/analyze_market_template.py` | Config-driven market analysis; reproduces the 粤高速 numbers exactly | `<slug>_analysis/scripts/analyze_market.py` |
-| `assets/analyze_fundamentals_template.py` | Standard fundamentals and peer table (automatic for A-shares) | `<slug>_analysis/scripts/analyze_fundamentals.py` |
+| `assets/analyze_fundamentals_template.py` | Standard fundamentals and peer table for A / HK / US (`MARKET` switch) | `<slug>_analysis/scripts/analyze_fundamentals.py` |
 | `assets/report_skeleton.html` | Report page with all 13 sections; market, peer and event parts already wired to the data | `<slug>_analysis/report/template.html` |
 | `assets/events.example.json`, `assets/fundamentals.example.json` | Shapes of the two hand-built inputs | reference |
+| `assets/README_template.md` | The report folder's Chinese README | `<slug>_analysis/README.md` |
+| `assets/example/` | The approved 粤高速A report: page, fundamentals script, events, README (see `EXAMPLE.md`) | reference for style and company-specific blocks |
 | `references/data-sources.md` | Data access route, sources by market, pitfalls, the "ask the user" template | read in phase 2 |
 | `references/methods.md` | What to compute, why, and how to interpret it | read in phase 3 |
 | `references/report-spec.md` | Section plan, writing rules (Chinese), units, chart roles | read in phase 4 |
@@ -70,8 +73,9 @@ sensible defaults and state them in the report.
 
 ```bash
 mkdir -p report_kit <slug>_analysis/{scripts,report,data/processed} .github/workflows
-cp -n SKILL_DIR/scripts/{marketlib.py,fetchlib.py,build_report.py,base.css,charts.js,shot.mjs,make_pdf.mjs,pdf_pages.py} report_kit/
+cp -n SKILL_DIR/scripts/{marketlib.py,fetchlib.py,finlib.py,build_report.py,base.css,charts.js,shot.mjs,make_pdf.mjs,pdf_pages.py} report_kit/
 bash SKILL_DIR/scripts/setup_env.sh <scratchpad>/fonts      # prints PLAYWRIGHT=… FONT_DIR=…
+grep -qx '__pycache__/' .gitignore 2>/dev/null || printf '__pycache__/\n*.pyc\n' >> .gitignore
 ```
 
 `cp -n` keeps an existing `report_kit/`. If the repository's copy differs from the skill's, diff the two and keep
@@ -83,7 +87,9 @@ merge, don't overwrite blindly.
 1. Probe access to the finance hosts. Cloud sessions are usually blocked, so plan on GitHub Actions.
 2. Write `<slug>_analysis/scripts/fetch_data.py` from `assets/fetch_template.py` (set MARKET, TARGET, PEERS,
    dates and filters). Commit it and push. The push starts the workflow.
-3. **Don't push again until the bot's data commit lands.** Wait with the background `git ls-remote` loop.
+3. **Until the bot's data commit lands, push only code** (no files under `<slug>_analysis/data/`). The workflow
+   rebases its data commit onto newer commits, so code-only pushes are safe. Wait for the data with the
+   background loop in `references/data-sources.md` §2.
    Meanwhile, research in parallel with WebSearch and WebFetch:
    - events and their sources (`data/events.json`, see `assets/events.example.json`);
    - industry size;
@@ -98,11 +104,18 @@ merge, don't overwrite blindly.
    - Read the top abnormal days.
    - Look up any big unexplained day, and add real events to `events.json`.
    - Re-run until the event list explains the large moves.
-2. Copy `assets/analyze_fundamentals_template.py`.
-   - For A-shares it builds the annual table, the balance sheet, solvency, valuation and the full peer table from
-     Eastmoney data.
-   - For HK/US companies, transcribe the figures from the filings text, with a comment citing each document.
+2. Copy `assets/analyze_fundamentals_template.py` and set `MARKET`.
+   - **A-shares:** it builds the annual table, the balance sheet, solvency, valuation and the full peer table
+     from Eastmoney data.
+   - **HK:** growth, margins, ROE and BPS come from Eastmoney HK indicators, which are in RMB for every company.
+     Market cap, debt, cash and EBITDA come from Yahoo. P/E and P/B are recomputed with CNY per HKD, because
+     Yahoo's P/E differed by 5–17%.
+   - **US:** quarters and years come from SEC XBRL; peers come from Yahoo, whose growth fields are
+     latest-quarter year-on-year.
+   - Transcribe whatever the data files lack (cash and debt for HK, segments, operating KPIs) from the filings
+     text, with a comment citing each document.
    - Then add the company-specific blocks: segments, assets or pipeline, debt stack, scenarios, debt path.
+     `assets/example/` shows how the 粤高速 report did these.
    - Fix restated comparatives and separate out one-offs.
 3. Compute every rank and median you intend to quote (`rank_of`, `peer_ranks`, `peer_medians`).
 4. Before writing, print a compact "fact sheet" of the 30–50 numbers the narrative will use. Write from that
@@ -110,7 +123,8 @@ merge, don't overwrite blindly.
 
 ### Phase 4: Write (read `references/report-spec.md`)
 
-Copy `assets/report_skeleton.html` to `report/template.html` and set:
+Copy `assets/report_skeleton.html` to `report/template.html`. Skim `assets/example/gdexpressway_template.html` for
+the tone and density the user approved. Then set:
 - the title, kicker, stamp and an accent colour;
 - the narrative in every 【…】 placeholder;
 - the company-specific charts and tables (register them in `charts`).
@@ -130,7 +144,7 @@ label third-party and illustrative content, and write 3–6 worked event example
 
 ### Phase 6: Deliver (read `references/delivery.md`)
 
-1. Write the README.
+1. Write the README from `assets/README_template.md`.
 2. Publish the Artifact.
 3. Commit and push, then create or update the draft PR.
 4. Reply in Chinese with links, conclusions, the peer table, volatility, event examples, caveats and sources.
@@ -145,7 +159,8 @@ label third-party and illustrative content, and write 3–6 worked event example
   partial last row.
 - **Mark illustrative calculations** (scenarios, debt paths, valuation grids) with 示意 and list their
   assumptions. **Label third-party data** (broker targets, consensus, industry statistics) with source and date.
-- **Never push while the fetch workflow is running** on the branch. The bot's data commit and your push collide.
+- **While the fetch workflow runs, push code only.** The bot rebases its data commit onto your pushes, but changes
+  under `*_analysis/data/` would conflict with it. Never push the old manual-only workflow over the new one.
 - **Keep the colour roles:** the company is always orange (c2/f2), the market blue, the sector green, style amber.
   Captions must name colours correctly.
 - **Use defaults instead of asking:** benchmark, sample length, peers. State them in the report. Ask the user

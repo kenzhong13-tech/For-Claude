@@ -43,12 +43,13 @@ Setup, once per repository:
 Each run:
 1. Commit the fetch script and push. The push starts the run. The commit should not contain other changes you
    still need to iterate on.
-2. **Never push again while the run is in progress.** The bot commits data to the same branch, and pushing in
-   between makes one of the two pushes fail. Wait in the background until the branch head moves, without polling
-   in the foreground:
+2. **While the run is in progress, push code only.** The bot commits data to the same branch and rebases onto
+   anything pushed in the meantime (`git pull --rebase` in the workflow). Code-only pushes are therefore safe, but
+   don't push files under `*_analysis/data/`. Wait for the data commit in the background, without polling in the
+   foreground:
    ```bash
-   B=$(git rev-parse --abbrev-ref HEAD); H=$(git rev-parse HEAD)
-   until [ "$(git ls-remote origin refs/heads/$B | cut -f1)" != "$H" ]; do sleep 30; done; echo moved
+   B=$(git rev-parse --abbrev-ref HEAD)
+   until git fetch -q origin "$B" && git log -1 --format=%s "origin/$B" | grep -q '^Refresh raw data'; do sleep 30; done; echo data landed
    ```
    Run this with `run_in_background` and a timeout of about 70 minutes. Meanwhile do web research, write
    `events.json`, or draft the report text.
@@ -77,6 +78,11 @@ Benchmarks: use total-return indices where they exist, so that dividends are on 
 | Research / news lists | Yahoo news; company IR | AAStocks / company IR via WebSearch | `ak.stock_research_report_em(symbol)` (broker, rating, EPS forecasts), `ak.stock_news_em(symbol)` |
 
 `scripts/fetchlib.py` wraps all of these, and `assets/fetch_template.py` calls them for one market at a time.
+For HK and US peers, the fetch template also saves Yahoo `info` per peer (`yahoo/<ticker>_info.json`).
+`scripts/finlib.py` turns these files into the standard fundamentals keys:
+- US: the company's quarters and fiscal years come from XBRL;
+- HK: growth, margins and ROE come from Eastmoney HK indicators;
+- both: peer rows come from Yahoo info.
 Convert filings to text on the runner: `pdftotext -layout` keeps table columns aligned. Then grep them locally
 (`grep -n "营业收入\|通行费" data/raw/filings/*.txt`) and transcribe the figures you need into
 `analyze_fundamentals.py`, with a comment naming the document and page or section.
@@ -116,6 +122,14 @@ Convert filings to text on the runner: `pdftotext -layout` keeps table columns a
 - **Units and currencies.** HK-listed Chinese companies report in RMB but trade in HKD; convert before computing
   P/E or market cap. Yahoo `marketCap` is in the trading currency. Eastmoney amounts are in yuan; divide by 1e6
   for RMB million.
+- **HK figures from Eastmoney are in RMB** for every company, even when the `CURRENCY` column says 美元. BeOne's,
+  HUTCHMED's and Zai Lab's revenue there is about 7× Yahoo's USD figure. Convert HKD prices and market caps with
+  CNY per HKD for every HK name.
+- **Yahoo's P/E for HK-listed names** differed by 5–17% from P/E on TTM attributable profit across the 3SBio peers
+  (3SBio: 3.7 vs 3.5). Compute P/E and P/B from Eastmoney profit and BPS (`finlib.hk_peer_row`), and say how in the
+  table note.
+- **Yahoo growth and yield fields.** `revenueGrowth` and `earningsGrowth` are the latest quarter year-on-year.
+  `dividendYield` is in percent in recent yfinance; `trailingAnnualDividendYield` is a fraction.
 - **Calendars.** Align on the stock's exchange calendar and forward-fill benchmarks for at most 5 days. For
   A-shares, build the calendar from CSI 300 volume above 0, so that suspensions show up as flat days, not
   missing ones.

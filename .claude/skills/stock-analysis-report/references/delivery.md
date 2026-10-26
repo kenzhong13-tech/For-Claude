@@ -14,8 +14,8 @@ report_kit/                      # shared kit, copied from the skill's scripts/ 
 .github/workflows/fetch-market-data.yml
 ```
 
-Use a short English slug (`coreweave`, `popmart`, `3sbio`, `gdexpressway`). The README follows the earlier
-reports: a one-paragraph scope that says when prices and financials end, a list of report files, a data table,
+Use a short English slug (`coreweave`, `popmart`, `3sbio`, `gdexpressway`). Start the README from
+`assets/README_template.md`; it follows the earlier reports: a one-paragraph scope that says when prices and financials end, a list of report files, a data table,
 a note on how data was fetched (and which sources failed), the commands to reproduce, and a disclaimer.
 
 ## 2. Publish the Artifact

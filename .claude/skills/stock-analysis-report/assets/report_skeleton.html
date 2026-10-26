@@ -147,7 +147,7 @@
   <h3>6.2 增长与盈利</h3>
   <div class="two" data-need="fpeers">
     <figure>
-      <figcaption>收入增速（最近一个完整年度）</figcaption>
+      <figcaption id="cap-peer-growth">收入增速（最近一个完整年度）</figcaption>
       <div class="chart-box" id="ch-peer-growth"></div>
     </figure>
     <figure>
@@ -156,7 +156,7 @@
     </figure>
   </div>
   <div class="tbl-wrap" data-need="fpeers"><table class="tbl" id="tbl-peer-fin">
-    <caption>同业财务与估值（按市值排序）</caption>
+    <caption id="cap-peer-fin">同业财务与估值（按市值排序）</caption>
     <thead><tr><th>公司</th><th class="n">市值</th><th class="n">收入</th><th class="n">收入同比</th><th class="n">净利润</th><th class="n">净利润同比</th><th class="n">ROE</th><th class="n">市盈率</th><th class="n">市净率</th><th class="n">股息率</th><th class="n">净负债/EBITDA</th></tr></thead>
     <tbody></tbody>
   </table></div>
@@ -376,7 +376,9 @@ const HAS = { sec: !!M.has_sec, sty: !!M.has_sty, rate: !!M.has_rate, spread: !!
   targets: !!(F.valuation && F.valuation.broker_targets && F.valuation.broker_targets.length),
   annual: !!(F.annual && F.annual.length), balance: !!(F.balance && F.balance.length), fpeers: !!(F.peers && F.peers.length) };
 document.querySelectorAll('[data-need]').forEach(el => { if (!HAS[el.dataset.need]) el.hidden = true; });
-const CUR = { CNY: '¥', RMB: '¥', HKD: 'HK$', USD: '$' }[F.currency || ''] || '';
+const CUR = { CNY: '¥', RMB: '¥', HKD: 'HK$', USD: '$' }[F.currency || ''] || '';  // reporting currency (statements)
+const TCUR = { A: '¥', HK: 'HK$', US: '$' }[M.market] || CUR;                       // trading currency (prices, targets)
+const TCUR_NAME = { A: '元', HK: '港元', US: '美元' }[M.market] || '元';
 const UNIT = F.unit_label || '';
 const CAT = { earnings: '业绩', guidance: '指引', deal: '交易/并购', mna: '并购', capital: '资本/股东', financing: '融资', dividend: '分红/除息', product: '产品/研发', contract: '合同/订单', strategic: '战略/合作', operations: '经营', supply: '供给/解禁', sector: '行业', policy: '政策/监管', macro: '宏观/市场', credit: '信用/债务', management: '管理层', legal: '诉讼/合规' };
 const EV = (DATA.events || []).map((e, i) => ({ ...e, n: i + 1 }));
@@ -493,11 +495,11 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
 (() => {
   const s = DATA.stats.tgt, V = F.valuation || {};
   tiles('tiles', [
-    [`收盘价（${M.end.slice(5).replace('-', '/')}）`, CUR + M.last_raw_close.toFixed(2), '', V.mcap ? `市值 ${num(V.mcap / 100, 0)} 亿${F.currency === 'USD' ? '美元' : F.currency === 'HKD' ? '港元' : '元'}；较样本内高点 ${pct(s.current_drawdown, 0)}` : `较样本内高点 ${pct(s.current_drawdown, 0)}`],
+    [`收盘价（${M.end.slice(5).replace('-', '/')}）`, TCUR + M.last_raw_close.toFixed(2), '', V.mcap ? `市值 ${num(V.mcap / 100, 0)} 亿${TCUR_NAME}；较样本内高点 ${fmt0(s.current_drawdown)}` : `较样本内高点 ${fmt0(s.current_drawdown)}`],
     V.pe_ttm ? ['市盈率 / 市净率', V.pe_ttm.toFixed(1) + 'x', '/ ' + (V.pb ? V.pb.toFixed(2) + 'x' : '—'), V.dy ? `股息率 ${pct(V.dy, 1)}` : ''] : null,
     ['年化波动率', pct(s.ann_vol, 0), '', `${N.mkt} ${pct(DATA.stats.mkt.ann_vol, 0)}` + (HAS.sec ? `，${N.sec} ${pct(DATA.stats.sec.ann_vol, 0)}` : '')],
     ['β（对市场' + (HAS.sec ? ' / 对板块）' : '）'), DATA.sim_mkt.beta.toFixed(2), HAS.sec ? '/ ' + DATA.sim_sec.beta.toFixed(2) : '', `R² ${pct(DATA.sim_mkt.r2, 0)}；下跌日 β ${DATA.down_beta_mkt.toFixed(2)}`],
-    ['最大回撤', pct(s.max_drawdown, 0), '', `${dt(s.mdd_peak)} → ${dt(s.mdd_trough)}`],
+    ['最大回撤', spct(s.max_drawdown, 0), '', `${dt(s.mdd_peak)} → ${dt(s.mdd_trough)}`],
     ['累计回报（含分红）', spct(s.total_return, 0), '', `年化 ${spct(s.ann_return_geo, 1)}；${N.mkt} ${spct(DATA.stats.mkt.total_return, 0)}`],
   ]);
   // three tiles fill one row of the grid (use 3 or 6)
@@ -521,8 +523,8 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
     row('日 VaR 99% / CVaR 99%', s => pct(s.var99_hist, 1) + ' / ' + pct(s.cvar99_hist, 1)),
     row('偏度 / 超额峰度', s => sgn(s.skew) + ' / ' + sgn(s.excess_kurtosis)),
     row('单日涨跌幅 >3% / >5% 的天数', s => s.days_abs_gt_3pct + ' / ' + s.days_abs_gt_5pct),
-    row('最大回撤', s => pct(s.max_drawdown, 1) + '（' + dt(s.mdd_peak) + '→' + dt(s.mdd_trough) + '）', () => 'neg-t'),
-    row('当前回撤', s => pct(s.current_drawdown, 1), () => 'neg-t'),
+    row('最大回撤', s => spct(s.max_drawdown, 1) + '（' + dt(s.mdd_peak) + '→' + dt(s.mdd_trough) + '）', () => 'neg-t'),
+    row('当前回撤', s => spct(s.current_drawdown, 1), () => 'neg-t'),
     row('夏普比率 / 索提诺比率', s => sgn(s.sharpe) + ' / ' + sgn(s.sortino)),
   ]);
   const yk = keys;
@@ -531,7 +533,7 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
     ...yk.map(k => ({ n: 1, text: spct(y['ret_' + k], 1), cls: tone(y['ret_' + k]) })), { n: 1, text: pct(y.vol_tgt, 1) }, { n: 1, text: x2(y.beta_mkt) },
     ...(HAS.sec ? [{ n: 1, text: x2(y.beta_sec) }] : []),
     ...(HAS.rate ? [{ n: 1, text: (y.y10_chg >= 0 ? '+' : '−') + Math.abs(Math.round(y.y10_chg * 100)) + 'bp', cls: tone(-y.y10_chg) }] : []),
-    { n: 1, text: pct(y.mdd, 1), cls: 'neg-t' }]));
+    { n: 1, text: spct(y.mdd, 1), cls: 'neg-t' }]));
   const sims = [['对' + N.mkt, DATA.sim_mkt], HAS.sec ? ['对' + N.sec, DATA.sim_sec] : null, HAS.sty ? ['对' + N.sty, DATA.sim_sty] : null].filter(Boolean);
   head('thead-sim', ['模型估计（日度）', ...sims.map(s => s[0])]);
   const r = (lab, f) => [lab, ...sims.map(([, s]) => ({ n: 1, text: f(s) }))];
@@ -556,7 +558,7 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
     const P = DATA.peers, pk = Object.keys(P[0]).filter(k => /^ret_/.test(k));
     const lab = k => k === 'ret_ytd' ? '今年以来' : k === 'ret_3y' ? '近三年' : k.replace('ret_', '') + ' 年';
     head('thead-peer-vol', ['公司', ...pk.map(lab), '近一年波动率', '对市场 β', '对板块 β', ...(HAS.rate ? ['利率 +10bp'] : []), '距高点']);
-    fillRows(tb('tbl-peer-vol'), P.slice().sort((a, b) => (b.ret_3y ?? -9) - (a.ret_3y ?? -9)).map(p => ({ me: p.code === ME, cells: [p.name, ...pk.map(k => ({ n: 1, text: spct(p[k], 0), cls: tone(p[k]) })), { n: 1, text: pct(p.vol_1y, 0) }, { n: 1, text: x2(p.beta_mkt) }, { n: 1, text: x2(p.beta_sec) }, ...(HAS.rate ? [{ n: 1, text: spct(p.rate_10bp, 2), cls: tone(p.rate_10bp) }] : []), { n: 1, text: pct(p.dd_from_high, 0), cls: 'neg-t' }] })));
+    fillRows(tb('tbl-peer-vol'), P.slice().sort((a, b) => (b.ret_3y ?? -9) - (a.ret_3y ?? -9)).map(p => ({ me: p.code === ME, cells: [p.name, ...pk.map(k => ({ n: 1, text: spct(p[k], 0), cls: tone(p[k]) })), { n: 1, text: pct(p.vol_1y, 0) }, { n: 1, text: x2(p.beta_mkt) }, { n: 1, text: x2(p.beta_sec) }, ...(HAS.rate ? [{ n: 1, text: spct(p.rate_10bp, 2), cls: tone(p.rate_10bp) }] : []), { n: 1, text: fmt0(p.dd_from_high), cls: 'neg-t' }] })));
   }
   const A = F.annual || [];
   fillRows(tb('tbl-annual'), A.map(a => [a.y + ' 年', { n: 1, text: num(a.revenue) }, { n: 1, text: spct(a.revenue_yoy, 1), cls: tone(a.revenue_yoy) }, { n: 1, text: pct(a.gross_margin, 1) }, { n: 1, text: num(a.np) }, { n: 1, text: spct(a.np_yoy, 1), cls: tone(a.np_yoy) }, { n: 1, text: num(a.np_adj) }, { n: 1, text: spct(a.np_adj_yoy, 1), cls: tone(a.np_adj_yoy) }, { n: 1, text: pct(a.roe, 1) }, { n: 1, text: num(a.ocf) }, { n: 1, text: num(a.capex) }, { n: 1, text: a.dps === null || a.dps === undefined ? '—' : a.dps.toFixed(3) }]));
@@ -570,7 +572,7 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
   const FP = (F.peers || []).slice().sort((a, b) => b.mcap - a.mcap);
   fillRows(tb('tbl-peer-fin'), FP.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap / 100) }, { n: 1, text: num(p.revenue) }, { n: 1, text: spct(p.revenue_yoy, 1), cls: tone(p.revenue_yoy) }, { n: 1, text: num(p.np) }, { n: 1, text: spct(p.np_yoy, 1), cls: tone(p.np_yoy) }, { n: 1, text: pct(p.roe, 1) }, { n: 1, text: p.pe_ttm > 0 ? p.pe_ttm.toFixed(1) + 'x' : '—' }, { n: 1, text: p.pb ? p.pb.toFixed(2) + 'x' : '—' }, { n: 1, text: pct(p.dy, 1) }, { n: 1, text: p.nd_ebitda === null || p.nd_ebitda === undefined ? '—' : p.nd_ebitda < 0 ? '净现金' : p.nd_ebitda.toFixed(1) + 'x' }] })));
   const V = F.valuation || {};
-  fillRows(tb('tbl-targets'), (V.broker_targets || []).map(t => [t.broker, t.rating || '—', { n: 1, text: CUR + t.target.toFixed(2) }, { n: 1, text: spct(t.target / M.last_raw_close - 1, 0), cls: tone(t.target / M.last_raw_close - 1) }, t.url ? { text: t.date || '来源', href: t.url } : (t.date || '—')]));
+  fillRows(tb('tbl-targets'), (V.broker_targets || []).map(t => [t.broker, t.rating || '—', { n: 1, text: TCUR + t.target.toFixed(2) }, { n: 1, text: spct(t.target / M.last_raw_close - 1, 0), cls: tone(t.target / M.last_raw_close - 1) }, t.url ? { text: t.date || '来源', href: t.url } : (t.date || '—')]));
   const il = el('industry-list');
   (F.industry || []).forEach(i => { const li = document.createElement('li'); const b = document.createElement('b'); b.textContent = i.label + '：'; li.appendChild(b); li.appendChild(document.createTextNode(i.value + ' ')); if (i.url) { const a = document.createElement('a'); a.href = i.url; a.textContent = '来源'; a.target = '_blank'; a.rel = 'noopener'; li.appendChild(a); } il.appendChild(li); });
 })();
@@ -578,9 +580,11 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
 /* ---------- charts ---------- */
 const meCls = (code, base) => code === ME ? 'f2' : base;
 const RB = DATA.rebased;
-el('unit-rev').textContent = UNIT ? `（${CUR ? CUR + ' ' : ''}${UNIT}）` : '';
+el('unit-rev').textContent = UNIT ? `（${UNIT}）` : '';
 el('unit-bal').textContent = UNIT ? `（${UNIT}）` : '';
-el('cap-rebased').textContent = RB ? `相对表现（${RB.base_date} = 100，含分红）` : '';
+el('cap-rebased').textContent = RB ? `相对表现（${RB.base_date} 收盘 = 100，含分红）` : '';
+if ((F.peers || []).some(p => p.growth_basis)) el('cap-peer-growth').textContent = '收入增速（最近一个季度同比，Yahoo）';
+if ((F.peers || []).length) el('cap-peer-fin').textContent = `同业财务与估值（按市值排序；市值单位：亿${TCUR_NAME}` + (UNIT ? `，收入与净利润单位：${UNIT}` : '') + '）';
 legend('leg-price', keys.map(k => [KC[k], N[k]]));
 legend('leg-vol', [['c2', N.tgt + ' 63 日'], ['c7', N.tgt + ' GARCH'], HAS.sec ? ['c3', N.sec + ' 63 日'] : null, ['c1', N.mkt + ' 63 日']]);
 legend('leg-beta', [['c1', '对' + N.mkt], HAS.sec ? ['c3', '对' + N.sec] : null]);
@@ -606,7 +610,7 @@ const charts = {
   'ch-dd': e => lineChart(e, { x: S.date, series: [{ label: N.tgt, values: S.dd_tgt, cls: 'c2' }, ...(HAS.sec ? [{ label: N.sec, values: S.dd_sec, cls: 'c3' }] : []), { label: N.mkt, values: S.dd_mkt, cls: 'c1', thin: true }], yfmt: v => pct(v, 0), yMax: 0, height: 250, aria: '回撤' }),
   'ch-rate': e => HAS.rate && lineChart(e, { x: S.date, series: [{ label: '利率敏感性', values: S.rate252.map(v => v === null ? null : v * 100), cls: 'c2' }], yfmt: v => v.toFixed(1) + '%', tfmt: v => (v >= 0 ? '+' : '−') + Math.abs(v).toFixed(2) + '% / +10bp', refs: [{ y: 0, label: '' }], height: 260, aria: '滚动利率敏感性' }),
   'ch-gap': e => HAS.spread && lineChart(e, { x: S.date, series: [{ label: N.tgt + '股息率', values: S.dy_ttm.map(v => v === null ? null : v * 100), cls: 'c2', endLabel: true }, { label: '10 年期国债', values: S.y10, cls: 'c1', endLabel: true }, { label: '利差', values: S.spread, cls: 'c3', endLabel: true }], yfmt: v => v.toFixed(0) + '%', tfmt: v => v.toFixed(2) + '%', height: 270, aria: '股息率与国债收益率' }),
-  'ch-events': e => { if (!EV.length) return; const idx = d => S.date.indexOf(d); const markers = EV.map(ev => ({ i: idx(ev.day0), n: ev.n, up: ev.ar >= 0, cls: ev.ar >= 0 ? 'fpos' : 'fneg', title: `#${ev.n} ${ev.day0} · ${CAT[ev.category] || ''}`, aria: `事件${ev.n} ${ev.title}`, desc: ev.title, rows: [{ cls: ev.ret_tgt >= 0 ? 'fpos' : 'fneg', value: spct(ev.ret_tgt), label: '当日' }, { cls: 'f1', value: spct(ev.ret_mkt), label: N.mkt }, { cls: ev.ar >= 0 ? 'fpos' : 'fneg', value: spct(ev.ar), label: `异常收益（t=${ev.ar_t.toFixed(1)}）` }] })).filter(m => m.i >= 0); lineChart(e, { x: S.date, series: [{ label: '收盘价', values: S.tgt_px, cls: 'c2' }], yfmt: v => Number.isInteger(v) ? num(v) : num(v, 1), tfmt: v => CUR + v.toFixed(2), ylog: true, logTicks: logTicksFor(S.tgt_px), markers, height: 380, aria: '股价与事件' }); },
+  'ch-events': e => { if (!EV.length) return; const idx = d => S.date.indexOf(d); const markers = EV.map(ev => ({ i: idx(ev.day0), n: ev.n, up: ev.ar >= 0, cls: ev.ar >= 0 ? 'fpos' : 'fneg', title: `#${ev.n} ${ev.day0} · ${CAT[ev.category] || ''}`, aria: `事件${ev.n} ${ev.title}`, desc: ev.title, rows: [{ cls: ev.ret_tgt >= 0 ? 'fpos' : 'fneg', value: spct(ev.ret_tgt), label: '当日' }, { cls: 'f1', value: spct(ev.ret_mkt), label: N.mkt }, { cls: ev.ar >= 0 ? 'fpos' : 'fneg', value: spct(ev.ar), label: `异常收益（t=${ev.ar_t.toFixed(1)}）` }] })).filter(m => m.i >= 0); lineChart(e, { x: S.date, series: [{ label: '收盘价', values: S.tgt_px, cls: 'c2' }], yfmt: v => Number.isInteger(v) ? num(v) : num(v, 1), tfmt: v => TCUR + v.toFixed(2), ylog: true, logTicks: logTicksFor(S.tgt_px), markers, height: 380, aria: '股价与事件' }); },
   'ch-ar': e => EV.length && hbarChart(e, { items: EV.map(ev => ({ label: `${ev.n}. ${ev.short || ev.title}`, v: ev.ar, title: `#${ev.n} ${ev.day0}`, sub: `t = ${ev.ar_t.toFixed(1)}`, desc: ev.title })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 140, row: 21, aria: '各事件异常收益' }),
   'ch-car': e => barChart(e, { labels: Object.keys(DATA.car_by_year), series: [{ label: '累计异常收益', values: Object.values(DATA.car_by_year), cls: v => v >= 0 ? 'fpos' : 'fneg' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), vfmt: v => spct(v, 0), valueLabels: true, height: 250, aria: '按年度累计异常收益' }),
   'ch-exdiv': e => HAS.exdiv && barChart(e, { labels: DATA.ex_dividend.map(x => x.ex_date.slice(0, 4)), series: [{ label: '股权登记日', values: DATA.ex_dividend.map(x => x.ret_record), cls: 'f1' }, { label: '除息日', values: DATA.ex_dividend.map(x => x.ret_ex), cls: 'f2' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), height: 250, aria: '除息日效应' }),
@@ -615,8 +619,8 @@ const charts = {
   'ch-peer-ytd': e => HAS.peers && hbarChart(e, { items: DATA.peers.slice().sort((a, b) => (b.ret_ytd ?? -9) - (a.ret_ytd ?? -9)).map(p => ({ label: p.name, v: p.ret_ytd, cls: p.code === ME ? 'f2' : (p.ret_ytd >= 0 ? 'f1' : 'fneg'), sub: '近三年 ' + spct(p.ret_3y, 0), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '今年以来收益' }),
   'ch-peer-growth': e => (F.peers || []).length && hbarChart(e, { items: F.peers.filter(p => p.revenue_yoy !== null && p.revenue_yoy !== undefined).sort((a, b) => b.revenue_yoy - a.revenue_yoy).map(p => ({ label: p.name, v: p.revenue_yoy, cls: p.code === ME ? 'f2' : (p.revenue_yoy >= 0 ? 'f1' : 'fneg'), sub: '净利润 ' + spct(p.np_yoy, 1), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '收入增速' }),
   'ch-peer-roe': e => (F.peers || []).length && hbarChart(e, { items: F.peers.filter(p => p.roe !== null && p.roe !== undefined).sort((a, b) => b.roe - a.roe).map(p => ({ label: p.name, v: p.roe, cls: meCls(p.code, 'f1'), sub: '市净率 ' + (p.pb ? p.pb.toFixed(2) + 'x' : '—'), title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 80, row: 21, aria: 'ROE' }),
-  'ch-rev': e => (F.annual || []).length && barChart(e, { labels: F.annual.map(a => String(a.y)), series: [{ label: '收入', values: F.annual.map(a => a.revenue), cls: 'f1' }, { label: '归母净利润', values: F.annual.map(a => a.np), cls: 'f2' }, { label: '扣非/经调整', values: F.annual.map(a => a.np_adj ?? null), cls: 'f3' }], yfmt: v => num(v), tfmt: v => CUR + num(v) + (UNIT ? ' ' + UNIT : ''), height: 250, aria: '收入与利润' }),
-  'ch-bal': e => (F.balance || []).length && barChart(e, { labels: F.balance.map(b => b.p), series: [{ label: '货币资金', values: F.balance.map(b => b.cash), cls: 'f1' }, { label: '有息负债', values: F.balance.map(b => b.debt), cls: 'f2' }], yfmt: v => num(v), tfmt: v => CUR + num(v) + (UNIT ? ' ' + UNIT : ''), rotateNarrow: true, height: 250, aria: '现金与负债' }),
+  'ch-rev': e => (F.annual || []).length && barChart(e, { labels: F.annual.map(a => String(a.y)), series: [{ label: '收入', values: F.annual.map(a => a.revenue), cls: 'f1' }, { label: '归母净利润', values: F.annual.map(a => a.np), cls: 'f2' }, { label: '扣非/经调整', values: F.annual.map(a => a.np_adj ?? null), cls: 'f3' }], yfmt: v => num(v), tfmt: v => num(v) + (UNIT ? ' ' + UNIT : ''), height: 250, aria: '收入与利润' }),
+  'ch-bal': e => (F.balance || []).length && barChart(e, { labels: F.balance.map(b => b.p), series: [{ label: '货币资金', values: F.balance.map(b => b.cash), cls: 'f1' }, { label: '有息负债', values: F.balance.map(b => b.debt), cls: 'f2' }], yfmt: v => num(v), tfmt: v => num(v) + (UNIT ? ' ' + UNIT : ''), rotateNarrow: true, height: 250, aria: '现金与负债' }),
   // company-specific charts go here, e.g. 'ch-segments': e => stackMulti(e, {...}),
 };
 function renderAll() {

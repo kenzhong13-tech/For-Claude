@@ -57,11 +57,12 @@ def fred(series_id):
 
 
 tkr = lambda c: ml.yahoo_ticker(c, MARKET)  # noqa: E731
+have = lambda f: os.path.exists(os.path.join(RAW, f))  # noqa: E731
 tgt_adj, tgt_raw = yahoo(tkr(TARGET)), yahoo(tkr(TARGET), "Close")
 y10 = None
 if MARKET == "A":
     mkt = csindex("H00300")                       # CSI 300 total return
-    sty = csindex("H00922")                       # CSI Dividend total return (None if not useful)
+    sty = csindex("H00922") if have("idx/csindex_H00922.csv") else None  # CSI Dividend TR as the style benchmark
     vol = csindex("000300", "成交量")
     calendar = vol.index[vol > 0]                 # exchange trading days
     bond = pd.read_csv(os.path.join(RAW, "rates", "bond_zh_us_rate.csv"))
@@ -75,7 +76,6 @@ elif MARKET == "HK":
     calendar = mkt.index
     rf_annual = yahoo("^IRX", "Close") / 100      # 13-week US T-bill, a proxy under the HKD peg
 else:
-    have = lambda f: os.path.exists(os.path.join(RAW, f))  # noqa: E731
     mkt = yahoo("^SP500TR") if have(os.path.join("yahoo", ml.yahoo_file("^SP500TR"))) else yahoo("^GSPC")
     sty = None                                    # e.g. a sector ETF such as yahoo("SMH")
     calendar = mkt.index
@@ -136,7 +136,11 @@ res["active"] = ml.capture_and_active(ret["tgt"], ret["mkt"])
 rf_last = float(rf_annual.dropna().iloc[-1]) if isinstance(rf_annual, pd.Series) else float(rf_annual)
 res["capm"] = {"rf_latest": rf_last, "erp": ERP, "required_return": rf_last + res["sim_mkt"]["beta"] * ERP}
 model_full, res["factors"] = ml.factor_model(ex, "tgt", "mkt", SEC, dy)
-res["factors_periods"] = [{"label": lab, **ml.factor_model(ex, "tgt", "mkt", SEC, dy, a, b)[1]} for lab, a, b in SUBPERIODS]
+res["factors_periods"] = []
+for lab, a, b in SUBPERIODS:  # sub-periods with less than about 3 months of data inside the sample are skipped
+    span = ex[(ex.index >= pd.Timestamp(a or START)) & (ex.index <= pd.Timestamp(b or END))]
+    if len(span) >= 60:
+        res["factors_periods"].append({"label": lab, **ml.factor_model(ex, "tgt", "mkt", SEC, dy, a, b)[1]})
 if dy is not None:
     b10, c10 = ml.monthly_rate_link(px["tgt"], y10)
     res["monthly_rate"] = {"beta_10bp": b10, "corr": c10}

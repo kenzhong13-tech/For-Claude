@@ -113,6 +113,14 @@ the 粤高速 numbers to the last digit.
 **Business (01):** what it sells, to whom and how it gets paid; revenue mix by segment, product, region or asset;
 key operating KPIs (volumes, prices, traffic, users, GMV, utilisation, pipeline); ownership and control.
 
+**Where fundamentals come from:**
+- A-shares: Eastmoney statements, for the company and for every peer.
+- US: SEC XBRL (`finlib.sec_periods`). It converts year-to-date 10-Q values into quarters (Q4 = FY − 9M). The
+  debt total uses LongTermDebt (+ short borrowings), or the non-current and current parts; check it against the
+  debt note.
+- HK: Eastmoney HK indicators for growth, margins, ROE and BPS; the results announcement for cash, debt and cash
+  flows.
+
 **Financials (02):** annual statements for 5–7 years, plus the latest halves or quarters. Cover revenue, gross
 margin, operating profit, reported and core profit, ROE, operating cash flow, capex, free cash flow and
 dividends. Explain the drivers of growth and margin changes. Call out one-offs and restatements explicitly. A
