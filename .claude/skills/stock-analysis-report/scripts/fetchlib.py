@@ -125,14 +125,17 @@ def yahoo_infos(tickers, outdir):
 
 
 # ---------------------------------------------------------------- FRED / Stooq (US rates and fallbacks)
-def fred(series_ids, outdir):
+def fred(series_ids, outdir, timeout=20):
+    """FRED series as CSV. FRED timed out from GitHub runners in two runs in October 2026, so the first failure stops the
+    loop; analyze_market_template.py falls back to Yahoo ^IRX / ^TNX."""
     os.makedirs(outdir, exist_ok=True)
     for sid in series_ids:
         try:
-            open(os.path.join(outdir, f"fred_{sid}.csv"), "wb").write(http(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={sid}"))
+            open(os.path.join(outdir, f"fred_{sid}.csv"), "wb").write(http(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={sid}", timeout=timeout))
             log("fred", sid)
         except Exception as e:  # noqa: BLE001
-            log("fred ERR", sid, repr(e)[:200])
+            log("fred ERR", sid, repr(e)[:200], "- skipping the remaining FRED series")
+            break
 
 
 # ---------------------------------------------------------------- SEC EDGAR
@@ -142,7 +145,9 @@ def sec_headers(contact):
 
 def sec_company(cik, outdir, contact="research@example.com", n10q=6, n10k=2, since8k="2024-01-01"):
     """companyfacts (XBRL), submissions, and text of recent 10-K / 10-Q / 8-K exhibit 99 press releases."""
-    from bs4 import BeautifulSoup
+    import warnings
+    from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)  # inline-XBRL filings parse fine as HTML
     os.makedirs(outdir, exist_ok=True)
     H = sec_headers(contact)
     cik10 = f"{int(cik):010d}"
@@ -252,6 +257,13 @@ def cninfo_save_text(it, folder, prefix="", last_page=0):
 
 
 # ---------------------------------------------------------------- HKEXnews (Hong Kong filings)
+def by_priority(items, title_key, pattern):
+    """Stable sort that puts items whose title matches `pattern` (periodic reports, results) first, so a cap on the
+    number of documents keeps the important ones."""
+    import re as _re
+    return sorted(items, key=lambda it: 0 if _re.search(pattern, str(it.get(title_key) or ""), _re.I) else 1)
+
+
 def hkex_list(code, ranges):
     """Announcements for an HK code over [(YYYYMMDD, YYYYMMDD)] ranges (keep each range under ~1000 items)."""
     raw = http(f"https://www1.hkexnews.hk/search/prefix.do?&callback=callback&lang=EN&type=A&name={int(code):05d}&market=SEHK").decode()

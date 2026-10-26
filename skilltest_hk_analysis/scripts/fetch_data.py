@@ -90,6 +90,7 @@ if MARKET == "A":
         json.dump(items, open(os.path.join(OUT, "filings", "announcements.json"), "w"), ensure_ascii=False, indent=1)
         picked = [it for it in items if re.search(KEEP_CN, it["announcementTitle"]) and not re.search(SKIP_CN, it["announcementTitle"])
                   and it["url"].upper().endswith(".PDF")]
+        picked = fl.by_priority(picked, "announcementTitle", r"年度报告|季度报告|业绩预告|业绩快报")  # periodic reports first
         fl.log("cninfo items", len(items), "picked", len(picked))
         for it in picked[:MAX_FILINGS]:
             try:
@@ -124,7 +125,7 @@ elif MARKET == "HK":
         items = fl.hkex_list(TARGET, ranges)
         json.dump(items, open(os.path.join(OUT, "filings", "announcements.json"), "w"), ensure_ascii=False, indent=1)
         n_saved = 0
-        for it in items:
+        for it in fl.by_priority(items, "TITLE", r"RESULTS|ANNUAL REPORT|INTERIM REPORT|PROFIT ALERT|PROFIT WARNING"):
             title = " ".join(str(it.get(k) or "") for k in ("TITLE", "SHORT_TEXT", "LONG_TEXT"))
             if n_saved >= MAX_FILINGS:
                 break
