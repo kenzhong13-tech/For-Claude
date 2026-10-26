@@ -110,6 +110,20 @@ def yahoo_extras(ticker, outdir, options=False):
             log("options ERR", repr(e)[:200])
 
 
+def yahoo_infos(tickers, outdir):
+    """Yahoo `info` (market cap, P/E, P/B, margins, growth, debt, cash, EBITDA, dividend yield ...) for each ticker,
+    saved as <ticker file>_info.json. Used for HK / US peer tables."""
+    import yfinance as yf
+    os.makedirs(outdir, exist_ok=True)
+    for t in tickers:
+        try:
+            json.dump(yf.Ticker(t).info, open(os.path.join(outdir, yahoo_file(t)[:-4] + "_info.json"), "w"), default=str, indent=1)
+            log("info", t)
+        except Exception as e:  # noqa: BLE001
+            log("info ERR", t, repr(e)[:200])
+        time.sleep(1.0)
+
+
 # ---------------------------------------------------------------- FRED / Stooq (US rates and fallbacks)
 def fred(series_ids, outdir):
     os.makedirs(outdir, exist_ok=True)

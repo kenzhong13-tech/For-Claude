@@ -27,8 +27,10 @@ MARKET = "A"                                            # "A", "HK" or "US"
 TARGET = "000429"
 PEERS = {"600377": "宁沪高速", "001965": "招商公路"}      # 10-15 listed peers in the same market
 START, END = "2014-01-01", "2026-10-24"                 # END exclusive for Yahoo; use tomorrow's date
-SEC_CIK, SEC_CONTACT = "", "research@example.com"       # US only
+SEC_CIK, SEC_CONTACT = "", "research@example.com"       # US only; SEC wants a descriptive User-Agent (never the user's own email)
+SEC_FORMS = {"n10q": 6, "n10k": 2, "since8k": "2024-01-01"}  # how many 10-Q / 10-K and which 8-K press releases to convert
 FILINGS_SINCE = "2019-01-01"
+MAX_FILINGS, MAX_PEER_DOCS = 160, 2                     # caps on PDFs converted to text (they dominate run time)
 EXTRA_YAHOO = []                                        # e.g. sector ETFs, ADRs, H-shares, commodity proxies
 CSINDEX = ["000300", "H00300", "000922", "H00922"]      # A-share: CSI 300 / CSI Dividend, price and total return
 # keep / skip patterns for which filings to convert to text (titles)
@@ -46,6 +48,8 @@ INDICES = {"A": [], "HK": ["^HSI", "^HSCE", "^IRX", "CNY=X", "HKDCNY=X"], "US": 
 fl.yahoo_prices([tk(TARGET)] + [tk(c) for c in PEERS] + INDICES + EXTRA_YAHOO + (["CNY=X", "HKDCNY=X"] if MARKET == "A" else []),
                 START, END, os.path.join(OUT, "yahoo"))
 fl.yahoo_extras(tk(TARGET), os.path.join(OUT, "yahoo"), options=(MARKET == "US"))
+if MARKET in ("HK", "US"):  # peer valuation / profitability snapshot for the peer table (A-shares use Eastmoney instead)
+    fl.yahoo_infos([tk(c) for c in PEERS], os.path.join(OUT, "yahoo"))
 
 # ============================================================ market-specific sources
 if MARKET == "A":
@@ -87,7 +91,7 @@ if MARKET == "A":
         picked = [it for it in items if re.search(KEEP_CN, it["announcementTitle"]) and not re.search(SKIP_CN, it["announcementTitle"])
                   and it["url"].upper().endswith(".PDF")]
         fl.log("cninfo items", len(items), "picked", len(picked))
-        for it in picked[:160]:
+        for it in picked[:MAX_FILINGS]:
             try:
                 fl.cninfo_save_text(it, os.path.join(OUT, "filings"))
             except Exception as ex:  # noqa: BLE001
@@ -97,7 +101,7 @@ if MARKET == "A":
             try:
                 docs = [it for it in fl.cninfo_list(code, orgs[code], f"{int(END[:4]) - 1}-01-01", END, "category_ndbg_szsh;category_bndbg_szsh")
                         if not re.search("摘要|英文|English|更正|补充", it["announcementTitle"])]
-                for it in docs[:2]:
+                for it in docs[:MAX_PEER_DOCS]:
                     fl.cninfo_save_text(it, os.path.join(OUT, "peers_filings"), prefix=f"{code}_", last_page=45)
             except Exception as ex:  # noqa: BLE001
                 fl.log("peer cninfo ERR", code, repr(ex)[:200])
@@ -116,12 +120,16 @@ elif MARKET == "HK":
         fl.log("akshare HK ERR", repr(ex)[:200])
     try:
         yr = int(END[:4])
-        ranges = [(f"{y}0101", f"{y + 2}1231") for y in range(int(FILINGS_SINCE[:4]), yr, 3)]
+        ranges = [(f"{y}0101", f"{min(y + 2, yr)}1231") for y in range(int(FILINGS_SINCE[:4]), yr + 1, 3)]
         items = fl.hkex_list(TARGET, ranges)
         json.dump(items, open(os.path.join(OUT, "filings", "announcements.json"), "w"), ensure_ascii=False, indent=1)
+        n_saved = 0
         for it in items:
             title = " ".join(str(it.get(k) or "") for k in ("TITLE", "SHORT_TEXT", "LONG_TEXT"))
+            if n_saved >= MAX_FILINGS:
+                break
             if it["url"].lower().endswith(".pdf") and re.search(KEEP_HK, title, re.I) and not re.search(SKIP_HK, title, re.I):
+                n_saved += 1
                 try:
                     fl.hkex_save_text(it, os.path.join(OUT, "filings"))
                 except Exception as ex:  # noqa: BLE001
@@ -131,7 +139,7 @@ elif MARKET == "HK":
             try:
                 res = [it for it in fl.hkex_list(code, [(f"{yr - 1}0101", END.replace("-", ""))])
                        if re.search(r"(ANNUAL|INTERIM) RESULTS", it.get("TITLE") or "", re.I) and it["url"].lower().endswith(".pdf")]
-                for it in res[:3]:
+                for it in res[:MAX_PEER_DOCS]:
                     fl.hkex_save_text(it, os.path.join(OUT, "peers_filings"), prefix=f"{int(code):04d}_", last_page=30)
             except Exception as ex:  # noqa: BLE001
                 fl.log("peer HKEX ERR", code, repr(ex)[:200])
@@ -141,5 +149,5 @@ elif MARKET == "HK":
 else:  # US
     fl.fred(["DGS3MO", "DGS10", "BAMLH0A0HYM2"], os.path.join(OUT, "rates"))
     if SEC_CIK:
-        fl.sec_company(SEC_CIK, os.path.join(OUT, "filings"), SEC_CONTACT)
+        fl.sec_company(SEC_CIK, os.path.join(OUT, "filings"), SEC_CONTACT, **SEC_FORMS)
 fl.log("done")
