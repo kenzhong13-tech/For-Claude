@@ -57,7 +57,7 @@ def fred(series_id):
 
 
 tkr = lambda c: ml.yahoo_ticker(c, MARKET)  # noqa: E731
-have = lambda f: os.path.exists(os.path.join(RAW, f))  # noqa: E731
+have = lambda f: os.path.exists(os.path.join(RAW, f)) and os.path.getsize(os.path.join(RAW, f)) > 0  # noqa: E731
 tgt_adj, tgt_raw = yahoo(tkr(TARGET)), yahoo(tkr(TARGET), "Close")
 y10 = None
 if MARKET == "A":

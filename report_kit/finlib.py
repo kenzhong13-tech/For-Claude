@@ -30,18 +30,21 @@ M = 1e6
 # ---------------------------------------------------------------- SEC XBRL (US filers)
 FLOW = {
     "revenue": ["RevenueFromContractWithCustomerExcludingAssessedTax", "Revenues", "SalesRevenueNet"],
-    "cost_of_revenue": ["CostOfRevenue", "CostOfGoodsAndServicesSold", "CostOfServices"],
+    "cost_of_revenue": ["CostOfRevenue", "CostOfGoodsAndServicesSold", "CostOfServices", "CostOfGoodsSold"],
+    "gross_profit": ["GrossProfit"],
     "rnd": ["ResearchAndDevelopmentExpense"],
     "sm": ["SellingAndMarketingExpense"],
     "ga": ["GeneralAndAdministrativeExpense"],
     "op_income": ["OperatingIncomeLoss"],
-    "interest_exp_debt": ["InterestExpenseDebt", "InterestExpense"],
+    "interest_exp_debt": ["InterestExpenseDebt", "InterestExpense", "InterestExpenseNonoperating"],
     "interest_net": ["InterestIncomeExpenseNonoperatingNet", "InterestExpenseNonoperating", "InterestIncomeExpenseNet"],
     "pretax": ["IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
                "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments"],
     "tax": ["IncomeTaxExpenseBenefit"],
     "net_income": ["NetIncomeLoss"],
     "dna": ["DepreciationDepletionAndAmortization", "DepreciationAmortizationAndAccretionNet", "DepreciationAndAmortization"],
+    "depreciation": ["Depreciation"],                      # used when no combined D&A tag exists (e.g. Microsoft)
+    "amort_intangibles": ["AmortizationOfIntangibleAssets"],
     "sbc": ["ShareBasedCompensation", "AllocatedShareBasedCompensationExpense"],
     "cfo": ["NetCashProvidedByUsedInOperatingActivities"],
     "cfi": ["NetCashProvidedByUsedInInvestingActivities"],
@@ -77,32 +80,40 @@ def _days(a, b):
 def sec_periods(companyfacts_path, flow=None, stock=None, unit="USD"):
     """({quarter_end: {key: value}}, {fiscal_year_end: {key: value}}) in units of `unit` from companyfacts.json.
 
-    For each key the first tag (in list order) that has data is used. Duration facts of about 3 months are taken as
-    quarters; 6- and 9-month year-to-date values and fiscal years fill in missing quarters by differencing.
+    Tags change over time (Microsoft: CostOfRevenue until 2017, CostOfGoodsAndServicesSold since), so each period
+    takes its value from the first tag in the list that reports it, and later tags fill the gaps. Duration facts of
+    about 3 months are quarters; 6- and 9-month year-to-date values and fiscal years fill missing quarters by
+    differencing within the same tag.
     """
     facts_all = json.load(open(companyfacts_path))["facts"]
     facts = facts_all.get("us-gaap") or facts_all.get("ifrs-full") or {}
     flow, stock = flow or FLOW, stock or STOCK
 
     def flow_series(tags):
-        q3m, ytd, fy = {}, defaultdict(dict), {}
+        q_all, fy_all = {}, {}
         for tag in tags:
-            if tag not in facts:
+            if tag in facts:
+                q, fy = one_flow(tag)
+                for e, v in q.items():
+                    q_all.setdefault(e, v)
+                for e, v in fy.items():
+                    fy_all.setdefault(e, v)
+        return dict(sorted(q_all.items())), dict(sorted(fy_all.items()))
+
+    def one_flow(tag):
+        q3m, ytd, fy = {}, defaultdict(dict), {}
+        for v in facts[tag]["units"].get(unit, []):
+            if "start" not in v:
                 continue
-            for v in facts[tag]["units"].get(unit, []):
-                if "start" not in v:
-                    continue
-                d = _days(v["start"], v["end"])
-                key = v["end"]
-                if 80 <= d <= 100:
-                    q3m.setdefault(key, v["val"])
-                elif 170 <= d <= 190 or 260 <= d <= 280:
-                    ytd[key][d] = v["val"]
-                elif 350 <= d <= 380:
-                    fy.setdefault(key, v["val"])
-                    ytd[key][d] = v["val"]
-            if q3m or fy:
-                break
+            d = _days(v["start"], v["end"])
+            key = v["end"]
+            if 80 <= d <= 100:
+                q3m.setdefault(key, v["val"])
+            elif 170 <= d <= 190 or 260 <= d <= 280:
+                ytd[key][d] = v["val"]
+            elif 350 <= d <= 380:
+                fy.setdefault(key, v["val"])
+                ytd[key][d] = v["val"]
         ends = sorted(set(list(ytd.keys()) + list(q3m.keys())))
         for e in ends:
             if e in q3m:
@@ -126,13 +137,9 @@ def sec_periods(companyfacts_path, flow=None, stock=None, unit="USD"):
 
     def stock_series(tags):
         out = {}
-        for tag in tags:
-            if tag not in facts:
-                continue
-            for v in facts[tag]["units"].get(unit, []):
+        for tag in tags:  # per date, the first tag that reports it wins
+            for v in facts.get(tag, {}).get("units", {}).get(unit, []):
                 out.setdefault(v["end"], v["val"])
-            if out:
-                break
         return dict(sorted(out.items()))
 
     quarters, annual = defaultdict(dict), defaultdict(dict)
@@ -152,6 +159,14 @@ def sec_periods(companyfacts_path, flow=None, stock=None, unit="USD"):
             if e[5:] == fy_md:
                 annual[e][k] = v
     return dict(sorted(quarters.items())), dict(sorted(annual.items()))
+
+
+def da_of(v):
+    """Depreciation and amortisation of one period: the combined tag, else depreciation + intangible amortisation."""
+    if v.get("dna") is not None:
+        return v["dna"]
+    parts = [v.get("depreciation"), v.get("amort_intangibles")]
+    return sum(x for x in parts if x is not None) if any(x is not None for x in parts) else None
 
 
 def _debt(v):
@@ -175,7 +190,8 @@ def sec_annual_rows(annual, since=None):
         eq0, eq1 = (prev or {}).get("equity"), v.get("equity")
         row = {"y": int(e[:4]), "fy_end": e, "revenue": rev / M if rev is not None else None,
                "revenue_yoy": rev / prev["revenue"] - 1 if prev and prev.get("revenue") and rev is not None else None,
-               "gross_margin": 1 - v["cost_of_revenue"] / rev if rev and v.get("cost_of_revenue") is not None else None,
+               "gross_margin": (v["gross_profit"] / rev if v.get("gross_profit") is not None else 1 - v["cost_of_revenue"] / rev)
+               if rev and (v.get("gross_profit") is not None or v.get("cost_of_revenue") is not None) else None,
                "op_income": v.get("op_income") / M if v.get("op_income") is not None else None,
                "np": ni / M if ni is not None else None,
                "np_yoy": ni / prev["net_income"] - 1 if prev and prev.get("net_income") and ni is not None and prev["net_income"] > 0 else None,
@@ -188,11 +204,14 @@ def sec_annual_rows(annual, since=None):
     return rows
 
 
-def sec_balance_rows(quarters, since=None):
-    """Standard `balance` rows (USD million) at each quarter end from sec_periods()."""
+def sec_balance_rows(quarters, since=None, fy_md=None):
+    """Standard `balance` rows (USD million) from sec_periods(): every quarter end, or with fy_md (e.g. "06-30") only
+    fiscal year ends plus the latest quarter."""
     rows = []
-    for e, v in quarters.items():
-        if (since and e < since) or v.get("assets") is None:
+    ends = [e for e, v in quarters.items() if v.get("assets") is not None and not (since and e < since)]
+    for e in ends:
+        v = quarters[e]
+        if fy_md and e[5:] != fy_md and e != ends[-1]:
             continue
         debt = _debt(v)
         cash = (v.get("cash") or 0) + (v.get("short_investments") or 0)

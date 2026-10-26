@@ -40,7 +40,7 @@ jobs:
           else
             # scripts changed by this push (a new branch has no "before" commit: compare with the parent)
             if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then BEFORE=HEAD~1; fi
-            scripts=$(git diff --name-only "$BEFORE" HEAD -- '*_analysis/scripts/fetch*.py' | grep -v '/fetch_template' || true)
+            scripts=$(git diff --name-only --diff-filter=AMR "$BEFORE" HEAD -- '*_analysis/scripts/fetch*.py' || true)
           fi
           for s in $scripts; do
             if [ -f "$s" ]; then echo "::group::$s"; python "$s" || echo "::warning::$s exited with an error"; echo "::endgroup::"; fi

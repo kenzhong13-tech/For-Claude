@@ -131,7 +131,8 @@ def fred(series_ids, outdir, timeout=20):
     os.makedirs(outdir, exist_ok=True)
     for sid in series_ids:
         try:
-            open(os.path.join(outdir, f"fred_{sid}.csv"), "wb").write(http(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={sid}", timeout=timeout))
+            data = http(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={sid}", timeout=timeout)  # fetch before creating the file
+            open(os.path.join(outdir, f"fred_{sid}.csv"), "wb").write(data)
             log("fred", sid)
         except Exception as e:  # noqa: BLE001
             log("fred ERR", sid, repr(e)[:200], "- skipping the remaining FRED series")
@@ -152,7 +153,8 @@ def sec_company(cik, outdir, contact="research@example.com", n10q=6, n10k=2, sin
     H = sec_headers(contact)
     cik10 = f"{int(cik):010d}"
     try:
-        open(os.path.join(outdir, "companyfacts.json"), "wb").write(http(f"https://data.sec.gov/api/xbrl/companyfacts/CIK{cik10}.json", headers=H))
+        data = http(f"https://data.sec.gov/api/xbrl/companyfacts/CIK{cik10}.json", headers=H)
+        open(os.path.join(outdir, "companyfacts.json"), "wb").write(data)
         log("companyfacts ok")
     except Exception as e:  # noqa: BLE001
         log("companyfacts ERR", repr(e)[:200])

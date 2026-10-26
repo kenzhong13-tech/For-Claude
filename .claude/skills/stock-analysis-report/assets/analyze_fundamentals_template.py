@@ -199,24 +199,27 @@ def build_us():
     import finlib as fl
     q, a = fl.sec_periods(os.path.join(RAW, "filings", "companyfacts.json"))
     annual = fl.sec_annual_rows(a, SEC_SINCE)
-    balance = fl.sec_balance_rows(q, SEC_SINCE)
+    balance = fl.sec_balance_rows(q, SEC_SINCE, fy_md=max(a)[5:])  # fiscal year ends + the latest quarter
     info = fl.load_info(os.path.join(RAW, "yahoo", f"{TARGET}_info.json"))
     peers = [fl.yahoo_peer_row(c, n, fl.load_info(os.path.join(RAW, "yahoo", f"{c}_info.json"))) for c, n in NAMES.items()]
     last_q = q[max(e for e, v in q.items() if v.get("assets") is not None)]
-    ttm = [v for v in q.values() if v.get("revenue") is not None][-4:]  # last four reported quarters
-    ebitda_ttm = sum((v.get("op_income") or 0) + (v.get("dna") or 0) for v in ttm) / M
+    fy_end = max(a)
+    fy = a[fy_end]  # the latest fiscal year: its tags are more complete than quarterly ones (D&A, interest)
+    da = fl.da_of(fy)
+    ebitda = ((fy.get("op_income") or 0) + (da or 0)) / M
     debt = fl._debt(last_q)
     cash = (last_q.get("cash") or 0) + (last_q.get("short_investments") or 0)
     net_debt = (debt - cash) / M if debt is not None else None
-    interest_ttm = sum(abs(v.get("interest_exp_debt") or 0) for v in ttm) / M
-    solvency = {"date": max(e for e, v in q.items() if v.get("assets") is not None), "net_debt": net_debt, "ebitda_ttm": ebitda_ttm,
-                "nd_ebitda": net_debt / ebitda_ttm if net_debt is not None and ebitda_ttm > 0 else None,
-                "interest_cover": sum((v.get("op_income") or 0) for v in ttm) / M / interest_ttm if interest_ttm else None}
+    interest = abs(fy.get("interest_exp_debt") or 0) / M
+    solvency = {"date": max(e for e, v in q.items() if v.get("assets") is not None), "net_debt": net_debt,
+                "ebitda_fy": ebitda, "fy_end": fy_end, "da_missing": da is None,
+                "nd_ebitda": net_debt / ebitda if net_debt is not None and ebitda > 0 else None,
+                "interest_cover": (fy.get("op_income") or 0) / M / interest if interest else None}
     mcap = info.get("marketCap", 0) / M if info.get("marketCap") else None
     valuation = {"date": solvency["date"], "price": info.get("currentPrice"), "mcap": mcap, "pe_ttm": info.get("trailingPE"),
                  "pe_fwd": info.get("forwardPE"), "pb": info.get("priceToBook"), "dy": info.get("trailingAnnualDividendYield") or 0.0,
                  "ev": mcap + net_debt if mcap is not None and net_debt is not None else None,
-                 "ev_ebitda": (mcap + net_debt) / ebitda_ttm if mcap is not None and net_debt is not None and ebitda_ttm > 0 else None,
+                 "ev_ebitda": (mcap + net_debt) / ebitda if mcap is not None and net_debt is not None and ebitda > 0 else None,
                  "consensus_target": info.get("targetMeanPrice"), "n_analysts": info.get("numberOfAnalystOpinions")}
     return {"currency": "USD", "unit_label": "百万美元", "annual": annual, "balance": balance, "solvency": solvency,
             "valuation": valuation, "peers": peers, "quarterly": {e: {k: (x / M if isinstance(x, (int, float)) else x) for k, x in v.items()} for e, v in q.items() if e >= SEC_SINCE}}
