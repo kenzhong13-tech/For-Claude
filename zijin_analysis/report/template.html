@@ -29,6 +29,8 @@
   #tbl-win th, #tbl-win td, #tbl-gmodel th, #tbl-gmodel td, #tbl-global th, #tbl-global td, #tbl-grid th, #tbl-grid td,
   #tbl-gdd th, #tbl-gdd td, #tbl-bigdays th, #tbl-bigdays td, #tbl-targets th, #tbl-targets td, #tbl-cash th, #tbl-cash td { padding: 4px 4px; }
   #tbl-risk td.n { white-space: normal; }
+  /* small tables move to the next page whole instead of leaving a caption or header behind */
+  .tbl-wrap.keep { break-inside: avoid; }
   #tbl-year th, #tbl-risk th, #tbl-peer-vol th, #tbl-peer-fin th, #tbl-annual th, #tbl-factors th, #tbl-prod th, #tbl-unit th, #tbl-win th,
   #tbl-gmodel th, #tbl-global th, #tbl-grid th, #tbl-gdd th, #tbl-bigdays th, #tbl-cash th { white-space: normal; }
 }
@@ -39,7 +41,7 @@
     <div class="kicker"><span class="ticker">上交所: 601899 · 港交所: 2899</span><span>金、铜、锌、银、锂 · 全球化矿业公司</span><span>中文研究报告</span></div>
     <h1>紫金矿业财务分析报告</h1>
     <p class="sub">业务与财务、债务与偿债能力、对金价铜价与市场的敏感性、与金价走势的比较、未来规划、同业对比，以及以沪深 300 为基准的波动率分析和股价事件研究。</p>
-    <div class="stamp" id="stamp">【stamp】</div>
+    <div class="stamp" id="stamp">股价、金价与指数截至 2026-10-27 收盘 · 财务数据截至 2026 年三季报（2026-10-23 晚公告）· 报告日期 2026-10-27 · 仅供研究学习，不构成投资建议</div>
   </div>
 </header>
 
@@ -69,15 +71,28 @@
   <h2><span class="no">00</span>核心结论</h2>
   <div class="tiles" role="list" id="tiles"></div>
   <ol class="keypoints">
-    【keypoints】
+    <li><b>紫金已是“金铜双主业”的全球矿企，金和铜贡献约八成毛利。</b>2025 年矿产金 89.5 吨（+22.8%）、矿产铜 108.5 万吨（+1.6%）；2026 年前三季度毛利中矿产金占 41%、矿产铜占 38%，锂开始贡献约 4%。三年规划提出 2028 年矿产金 130–140 吨、铜 150–160 万吨，较 2025 年分别增长约 50% 和 40%。</li>
+    <li><b>利润创新高，但增速随金价回落而放缓。</b>2025 年归母净利润 517.8 亿元（+61.5%）；2026 年前三季度 575.3 亿元（+51.9%），扣非 558.4 亿元（+63.6%）。第三季度 183.6 亿元，同比 +26%、环比 −4%，营业收入同比仅 +3%：金锭售价从二季度的 982 元/克降到 916 元/克，单位成本则继续上升。</li>
+    <li><b>债务压力很小，现金流充沛。</b>2026 年 9 月末资产负债率 49.9%（2022 年末 59.3%），净负债 793 亿元，为 2025 年 EBITDA 的 0.78 倍，利息保障倍数约 17 倍。前三季度经营现金流 843 亿元，资本开支只有 190 亿元。</li>
+    <li><b>利润对金价、铜价的弹性相近。</b>示意测算：金价每变动 10%，年化归母净利润约变动 48 亿元（6.6%）；铜价每变动 10%，约 54 亿元（7.3%）；两者同向变动约 14%。按当前现货价（上海金 860 元/克、沪铜 10.84 万元/吨）测算，年化利润约 707 亿元，比三季度年化水平低约 4%。</li>
+    <li><b>与金价比较：十年大幅跑赢，2026 年跟着金价回撤。</b>2016 年以来紫金（含分红）上涨 953%，同期人民币金价 +283%、铜价 +201%、沪深 300 全收益 +50%。金价 1 月 29 日见顶后，紫金下跌 34%，略多于人民币金价（−31%），但少于 A 股黄金同业（−48%）和铜同业（−41%）。</li>
+    <li><b>股价同时跟随金价和铜价，铜的影响在变大。</b>日度三因子模型中，控制大盘后金价每涨 1%，紫金平均涨 0.79%，铜价每涨 1% 对应 0.62%，三个因子合计解释 44% 的日波动。2016–2019 年金价 β 1.12、铜价 β 0.23；2025 年以来分别为 0.53 和 0.76（周度 0.60 和 1.30）。紫金的金价 β 只有 A 股黄金同业（1.35）的约六成。</li>
+    <li><b>同业中盈利最强、估值最低之一、波动最小。</b>在 14 家 A 股金铜公司中，紫金 2025 年 ROE 33.0% 排第 1，市盈率（TTM）10.4 倍为第 3 低（中位数 15.6 倍），近一年波动率 46% 为最低。当前市盈率处于 2018 年以来的 1% 分位，A 股较 H 股溢价 18%。</li>
+    <li><b>事件反应：融资和资产风险是最大的负面冲击，战略扩张被奖励。</b>31 个事件中 8 个的当日异常收益在 5% 水平显著。2019 年 80 亿元增发预案（异常收益 −8.5%）和 2020 年波格拉金矿停产（−8.7%）冲击最大；2021 年五年规划（+6.0%）和收购新锂公司（+6.0%）最受奖励。业绩发布日平均绝对涨跌 2.3%，平常交易日 1.7%。</li>
   </ol>
 </section>
 
 <!-- ============ 01 COMPANY ============ -->
 <section id="company">
   <h2><span class="no">01</span>公司概况与业务</h2>
-  <p class="lede">【company-lede】</p>
-  【company-body】
+  <p class="lede">紫金矿业是以金、铜为核心，兼营锌（铅）、银、锂、钼的全球化矿业公司，在海外 17 个国家和中国 17 个省（区）拥有 30 多座大型矿产资源基地（2025 年年报）。2025 年矿产金 89.5 吨、矿产铜 108.5 万吨；按公司口径，矿产金位居上市矿企全球前五，矿产铜位居全球前四。</p>
+  <p>公司的模式可以概括为“收购资源 + 自主工程建设 + 规模化开采”。2018 年以来，它先后收购塞尔维亚 Timok 铜金矿（Nevsun）、哥伦比亚武里蒂卡金矿（大陆黄金）、西藏巨龙铜矿、阿根廷 3Q 锂盐湖（新锂公司），以及苏里南罗斯贝尔、加纳阿基姆、哈萨克斯坦瑞果多等金矿；2025 年控股藏格矿业，2026 年控股赤峰黄金。收入中有大量低毛利的冶炼加工和贸易，利润几乎全部来自自有矿山：2025 年综合毛利率 27.7%，矿山企业毛利率 61.6%。</p>
+  <ul>
+    <li><b>股权：</b>第一大股东闽西兴杭国有资产投资经营有限公司持股 22.88%，实际控制人为上杭县财政局；H 股登记持股 22.48%，沪股通持股 6.10%；股东约 109 万户（2026 年三季报）。总股本约 266 亿股，其中 A 股约 206 亿股、H 股约 60 亿股。</li>
+    <li><b>管理层：</b>创始人陈景河 2025 年 11 月卸任董事长，邹来昌自 2026 年 1 月 1 日起任董事长。</li>
+    <li><b>资源：</b>2025 年末保有金资源量约 4,610 吨、铜约 1.1 亿吨、当量碳酸锂超过 1,800 万吨。</li>
+    <li><b>上市子公司：</b>紫金黄金国际（2259.HK，持股约 85%，2025 年 9 月上市，持有大部分海外金矿）、藏格矿业、龙净环保，以及 2026 年 10 月取得控制权的赤峰黄金（持股 25.85%）。</li>
+  </ul>
   <div class="tbl-wrap"><table class="tbl" id="tbl-prod">
     <caption>主要矿产品产量</caption>
     <thead><tr><th>期间</th><th class="n">矿产金（吨）</th><th class="n">矿产铜（万吨）</th><th class="n">矿产锌（铅）（万吨）</th><th class="n">矿产银（吨）</th><th class="n">当量碳酸锂（万吨）</th></tr></thead>
@@ -86,11 +101,11 @@
   <p class="note" id="note-prod"></p>
   <div class="two">
     <figure>
-      <figcaption>矿产金与矿产铜产量<span class="cap-sub">柱：矿产金（吨）；2026 为公司指引，2028 为规划区间中值</span></figcaption>
+      <figcaption>矿产金产量<span class="cap-sub">吨；26E 为 2026 年公司指引，28E 为 2028 年规划区间中值</span></figcaption>
       <div class="chart-box" id="ch-prod-au"></div>
     </figure>
     <figure>
-      <figcaption>矿产铜产量<span class="cap-sub">万吨；2026 为公司指引，2028 为规划区间中值</span></figcaption>
+      <figcaption>矿产铜产量<span class="cap-sub">万吨；26E 为 2026 年公司指引，28E 为 2028 年规划区间中值</span></figcaption>
       <div class="chart-box" id="ch-prod-cu"></div>
     </figure>
   </div>
@@ -99,13 +114,13 @@
     <div class="legend" id="leg-gpmix"></div>
     <div class="chart-box" id="ch-gpmix"></div>
   </figure>
-  【company-after】
+  <p>两点值得注意。第一，<b>黄金的利润占比在上升</b>：矿产金毛利占比从 2023 年的 26% 升到 2025 年的 43%，矿产铜从 49% 降到 36%，因为金价涨得更多（2023→2025 年公司矿产金售价 +92%，矿产铜售价 +28%）。第二，<b>锂开始贡献利润</b>：2026 年前三季度当量碳酸锂产量 7.9 万吨（上年同期 1.2 万吨），锂业务毛利约 42 亿元，占集团毛利的 4%。</p>
 </section>
 
 <!-- ============ 02 FINANCIALS ============ -->
 <section id="financials">
   <h2><span class="no">02</span>财务表现分析</h2>
-  <p class="lede">【fin-lede】</p>
+  <p class="lede">2016 至 2025 年，收入从 789 亿元增至 3,491 亿元（4.4 倍），归母净利润从 18.4 亿元增至 517.8 亿元（28 倍），毛利率从 11.5% 升到 27.7%，ROE 从 6.7% 升到 33.0%。驱动力先是产量扩张，2024 年起金属价格的作用越来越大。扣非净利润与归母净利润基本一致，一次性项目影响很小。</p>
   <figure data-need="annual">
     <figcaption>收入与利润<span class="cap-sub" id="unit-rev"></span></figcaption>
     <div class="legend" id="leg-rev"></div>
@@ -116,25 +131,26 @@
     <thead><tr><th>年度</th><th class="n">收入</th><th class="n">同比</th><th class="n">毛利率</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">扣非净利润</th><th class="n">同比</th><th class="n">ROE</th><th class="n">经营现金流</th><th class="n">资本开支</th><th class="n">每股分红</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-unit">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-unit">
     <caption>金、铜的售价、单位成本与毛利率</caption>
     <thead><tr><th>年度</th><th class="n">矿产金售价（元/克）</th><th class="n">单位销售成本</th><th class="n">毛利率</th><th class="n">矿产铜售价（元/吨）</th><th class="n">单位销售成本</th><th class="n">毛利率</th></tr></thead>
     <tbody></tbody>
   </table></div>
   <p class="note" id="note-unit"></p>
-  【fin-body】
-  <div class="tbl-wrap"><table class="tbl" id="tbl-quarter">
+  <p><b>利润率的来源是金价。</b>2022–2025 年，公司矿产金售价从 369 元/克涨到 778 元/克（+111%），单位销售成本从 192 元/克升到 275 元/克（+44%），毛利率从 48.0% 升到 64.6%；矿产铜售价 +33%、成本 +28%，毛利率稳定在 60% 左右。年报列出的成本上升原因包括品位下降和剥采比上升、薪酬上涨、按金价计算的权益金同步上涨，以及新并购矿山过渡期成本偏高。2026 年三季度，矿产金单位成本升到 313 元/克（金锭从二季度的 363 元/克升到 377 元/克），售价同时回落，矿产金毛利率从前三季度平均的 68.9% 降到三季度的 63.9%。</p>
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-quarter">
     <caption>最近八个季度（单季，亿元）</caption>
     <thead><tr><th>季度</th><th class="n">营业收入</th><th class="n">同比</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">金价均价（元/克）</th><th class="n">铜价均价（元/吨）</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  【fin-after】
+  <p><b>季度节奏：</b>单季归母净利润在 2026 年一季度达到 200.8 亿元的高点后连续两个季度小幅回落（190.9 亿元、183.6 亿元）。同期上海金季度均价从 1,089 元/克降到 925 元/克，沪铜均价从 10.08 万元/吨升到 10.70 万元/吨，铜价上涨抵消了一部分金价下跌，这也是三季度利润同比仍增长 26% 的原因。</p>
+  <p><b>盈利质量：</b>2026 年前三季度扣非归母净利润 558.4 亿元，比归母净利润少约 17 亿元，主要是公允价值变动收益（24.3 亿元）。经营现金流 842.8 亿元，是归母净利润的 1.5 倍。</p>
 </section>
 
 <!-- ============ 03 DEBT ============ -->
 <section id="debt">
   <h2><span class="no">03</span>债务结构与偿债能力</h2>
-  <p class="lede">【debt-lede】</p>
+  <p class="lede">2019–2023 年大规模并购和建设期间，紫金的资产负债率在 54%–60% 之间；随着利润和现金流大增，2026 年 9 月末已降到 49.9%，净负债 793 亿元，约为 2025 年 EBITDA 的 0.78 倍。现在能还、还得很轻松；需要留意的是新的并购（10 月 22 日交割的赤峰黄金约 182.6 亿元）会让负债阶段性回升。</p>
   <figure data-need="balance">
     <figcaption>现金与有息负债<span class="cap-sub" id="unit-bal"></span></figcaption>
     <div class="legend" id="leg-bal"></div>
@@ -146,25 +162,47 @@
     <tbody></tbody>
   </table></div>
   <ul id="solvency-points"></ul>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-cash">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-cash">
     <caption>现金从哪里来、用到哪里（百万元）</caption>
     <thead><tr><th>年度</th><th class="n">经营现金流</th><th class="n">资本开支</th><th class="n">自由现金流</th><th class="n">分红与付息</th><th class="n">资本开支 / 经营现金流</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  【debt-body】
+  <div class="tbl-wrap keep"><table class="tbl">
+    <caption>有息负债结构（2026-09-30，亿元）</caption>
+    <thead><tr><th>项目</th><th class="n">金额</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>短期借款</td><td class="n">352.1</td><td>—</td></tr>
+      <tr><td>一年内到期的非流动负债</td><td class="n">279.4</td><td>长期借款和债券中一年内到期的部分</td></tr>
+      <tr><td>长期借款</td><td class="n">419.0</td><td>2024 年末为 614.5 亿元，持续下降</td></tr>
+      <tr><td>应付债券</td><td class="n">646.3</td><td>含 2024 年 20 亿美元可转债、2026 年 15 亿美元零息可转债（2031 年到期，转股价 63.30 港元）</td></tr>
+      <tr class="tot"><td>有息负债合计</td><td class="n">1,696.9</td><td>另有交易性金融资产 131.4 亿元未计入现金</td></tr>
+      <tr><td>货币资金</td><td class="n">903.9</td><td>2024 年末为 316.9 亿元</td></tr>
+    </tbody>
+  </table></div>
+  <div class="tbl-wrap keep"><table class="tbl">
+    <thead><tr><th>维度</th><th>评估</th><th>依据</th></tr></thead>
+    <tbody>
+      <tr><td>短期流动性</td><td><span class="pill good"><i></i>强</span></td><td>货币资金 904 亿元，短期借款与一年内到期负债合计 632 亿元；流动比率 1.29</td></tr>
+      <tr><td>当前杠杆</td><td><span class="pill good"><i></i>低</span></td><td>净负债 / EBITDA 0.78 倍，14 家同业中第 7 低（中位数 1.16 倍）；资产负债率 49.9%</td></tr>
+      <tr><td>融资能力</td><td><span class="pill good"><i></i>强</span></td><td>境内主体评级 AAA；标普 BBB，2026 年 5 月展望调为正面；能以零息发行美元可转债</td></tr>
+      <tr><td>现金流</td><td><span class="pill good"><i></i>充沛</span></td><td>2025 年自由现金流 444 亿元，2026 年前三季度 653 亿元；资本开支 / 经营现金流从 2019 年的 112% 降到 23%</td></tr>
+      <tr><td>未来压力</td><td><span class="pill warn"><i></i>可控</span></td><td>赤峰黄金 182.6 亿元已交割；产量规划仍需持续投入（巨龙三期、朱诺、雄村、马诺诺、塞尔维亚技改）；分红比例提高到不低于 35%</td></tr>
+    </tbody>
+  </table></div>
+  <p><b>结论：</b>按 2025 年 EBITDA 1,014 亿元计算，即使再增加 500 亿元并购负债，净负债 / EBITDA 也只有约 1.3 倍。2026 年前三季度分红与付息支出 355 亿元（其中子公司向少数股东分红 119 亿元），经营现金流足以同时覆盖资本开支、分红和中等规模的并购。偿债风险主要取决于金属价格：如果金价、铜价同时下跌 30%，按 4.1 节的弹性估算，年化归母净利润将减少约 300 亿元，但仍远高于利息支出（2025 年费用化利息约 39 亿元）。</p>
 </section>
 
 <!-- ============ 04 SENSITIVITY ============ -->
 <section id="sensitivity">
   <h2><span class="no">04</span>对金价、铜价与市场增长的敏感性</h2>
-  <p class="lede">【sens-lede】</p>
+  <p class="lede">紫金的利润由两组变量决定：产量（公司可以规划）和金属价格（不可控）。按 2026 年三季度的规模，金价、铜价各变动 10% 对利润的影响相近，都在 50 亿元左右；股价层面，紫金对金价和铜价的 β 也大致相当。</p>
   <h3>4.1 利润对金属价格的敏感性（示意测算）</h3>
-  【sens-body】
-  <div class="tbl-wrap"><table class="tbl" id="tbl-sens">
-    <thead><tr><th>价格变动 10%</th><th class="n">年化产量</th><th class="n">现价</th><th class="n">税前利润变动</th><th class="n">归母净利润变动</th><th class="n">占年化归母净利润</th></tr></thead>
+  <p>测算方法：把控股矿山 2026 年三季度的金、铜销量和不含税售价年化（金约 90 吨、785 亿元；铜约 98 万吨、878 亿元），假设价格变动全部转化为利润，再按前三季度实际所得税率（21.5%）和归母占比（78.3%）折算。基数是三季度归母净利润的年化值 734 亿元。</p>
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-sens">
+    <thead><tr><th>价格变动 10%</th><th class="n">年化销量（控股矿山）</th><th class="n">现价</th><th class="n">税前利润变动</th><th class="n">归母净利润变动</th><th class="n">占年化归母净利润</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-grid">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-grid">
     <caption id="cap-grid">年化归母净利润情景（亿元，示意）</caption>
     <thead id="thead-grid"></thead>
     <tbody></tbody>
@@ -172,52 +210,55 @@
   <p class="note" id="note-sens"></p>
   <h3>4.2 市场层面：对大盘、板块和金价的 β</h3>
   <ul id="beta-summary"></ul>
-  【sens-after】
+  <p><b>怎么读这两张表：</b>①金价的利润弹性约 0.66（价格变动 10%，利润变动 6.6%），铜价约 0.73；②当前上海金价（860 元/克）比三季度均价低 7%，沪铜（10.84 万元/吨）高 1.3%，按现价测算的年化利润约 707 亿元；③按三季度的产量和成本结构，即使金价回到 800 元/克（接近 2025 年均价）、铜价回到 9.5 万元/吨，年化利润也约为 608 亿元，高于 2025 年全年的 517.8 亿元。</p>
+  <p><b>经营杠杆的另一面：</b>单位成本并不会随金价下跌而下降，部分成本（如按金价计算的权益金）反而与金价同向，所以价格下跌时利润降幅可能略小于表中数字；但如果成本继续以 2022–2025 年的速度上涨（矿产金单位成本年均约 13%），同样的金价下利润会逐年被侵蚀。</p>
 </section>
 
 <!-- ============ 05 GOLD ============ -->
 <section id="gold">
   <h2><span class="no">05</span>与金价走势的比较</h2>
-  <p class="lede">【gold-lede】</p>
+  <p class="lede">这一节回答三个问题：过去十年紫金和金价谁涨得多；两者的联动有多强、是否稳定；金价大跌时紫金怎么走。结论：紫金像是“放大版的金价 + 铜价”，长期靠产量增长大幅跑赢金价；短期涨跌同时受金价、铜价和 A 股大盘影响，金价单独只能解释约 17% 的日波动。</p>
   <h3>5.1 十年走势：紫金、金价、铜价与大盘</h3>
   <figure>
     <figcaption id="cap-glong">累计表现（起点 = 100，紫金含分红，对数坐标，周度）</figcaption>
     <div class="legend" id="leg-glong"></div>
     <div class="chart-box" id="ch-glong"></div>
   </figure>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-win">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-win">
     <caption>分区间涨跌幅（紫金与同业含分红；金价、铜价为价格变动）</caption>
     <thead id="thead-win"></thead>
     <tbody></tbody>
   </table></div>
-  【gold-51】
+  <p class="note">金价（元）为上海黄金交易所 Au99.99 现货收盘价，金价（美元）为 COMEX 黄金主力合约；铜价（元）为上期所沪铜主力连续合约；黄金同业、铜同业为 7 家、6 家 A 股公司的等权指数（含分红）。</p>
+  <p>2016 年初以来，紫金（含分红）累计上涨 953%，年化 25.4%；同期人民币金价上涨 283%（年化 13.8%），铜价 201%，沪深 300 全收益 50%。<b>紫金跑赢金价的部分主要来自产量增长</b>：2017–2025 年矿产金从 37.5 吨增到 89.5 吨（2.4 倍），矿产铜从 20.8 万吨增到 108.5 万吨（5.2 倍）。分年度看，10 个完整年度中紫金有 6 年跑赢人民币金价（2017、2019、2020、2021、2023、2025 年），4 年跑输（2016、2018、2022、2024 年）；2026 年至今也跑输（−17% 对 −12%）。</p>
+  <p>人民币金价和美元金价的差别在 2026 年变得明显：人民币兑美元从年初的 7.00 升到 6.66，所以今年人民币金价跌 12%，美元金价只跌 6%；紫金的利润按人民币计算，人民币升值本身就是一个负面因素。</p>
   <h3>5.2 2025 年以来：金价见顶前后</h3>
   <figure>
     <figcaption id="cap-grecent">2024 年末 = 100（日度）</figcaption>
     <div class="legend" id="leg-grecent"></div>
     <div class="chart-box" id="ch-grecent"></div>
   </figure>
-  【gold-52】
+  <p>2025 年人民币金价上涨 59%，紫金上涨 133%，涨幅约为金价的 2.3 倍。2026 年 1 月金价冲高，1 月 29 日上海金收于 1,243 元/克的历史高点，紫金同日见顶；随后市场对美联储的预期转鹰（9 月加息至 3.75%–4.00%），金价两次单日暴跌超过 11%（2 月 2 日、3 月 23 日）。截至 10 月 27 日，上海金较高点回落 31%，紫金回落 34%；同期铜价基本持平（人民币计 −1%，美元计 +8%），A 股铜同业却下跌 41%。这说明 2026 年的下跌是金属股整体降温，而不只是金价本身。</p>
   <h3>5.3 相对金价的强弱</h3>
   <figure>
     <figcaption>紫金相对金价、铜价的强弱<span class="cap-sub">紫金（含分红）÷ 金属价格，起点 = 100；上升表示跑赢</span></figcaption>
     <div class="legend" id="leg-rs"></div>
     <div class="chart-box" id="ch-rs"></div>
   </figure>
-  【gold-53】
+  <p>以 2016 年初为 100，“紫金 ÷ 金价”在 2016–2019 年于 80–115 之间波动，2020 年升到 174，2025 年末 269，2026 年 8 月一度达到 310，目前约 270；“紫金 ÷ 铜价”在 2025 年末达到 420，目前约 326。相比之下，A 股黄金同业相对金价十年来没有走强（目前约 84）。<b>紫金的超额表现不是“黄金股”的共性，而是公司自身产量和资源扩张的结果。</b></p>
   <h3>5.4 联动有多强：多因子模型</h3>
   <div class="formula">R<sub>紫金</sub> − R<sub>f</sub> = α + β<sub>M</sub>(R<sub>沪深300</sub> − R<sub>f</sub>) + β<sub>G</sub>·R<sub>金价</sub> + β<sub>C</sub>·R<sub>铜价</sub> + e　　金价为上金所 Au99.99，铜价为上期所主力连续，均为人民币价格的变动</div>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-gmodel">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-gmodel">
     <caption>三因子模型（日度；括号内为 HAC t 值）</caption>
     <thead><tr><th>样本期</th><th class="n">对大盘 β</th><th class="n">对金价 β</th><th class="n">对铜价 β</th><th class="n">R²：仅大盘</th><th class="n">+ 金价</th><th class="n">+ 铜价</th><th class="n">仅金价 R²</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-gcomp">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-gcomp">
     <caption>同一模型下的对照（全样本与 2025 年以来；日度与周度）</caption>
     <thead><tr><th>对象</th><th class="n">金价 β（日）</th><th class="n">铜价 β（日）</th><th class="n">R²（日）</th><th class="n">金价 β（周）</th><th class="n">铜价 β（周）</th><th class="n">R²（周）</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  【gold-54】
+  <p><b>控制大盘之后，金价和铜价各自都显著。</b>全样本中，金价每涨 1%，紫金当日平均多涨 0.79%（t = 10.2）；铜价每涨 1%，多涨 0.62%（t = 10.1）。只用大盘能解释 23% 的日波动，加入金价升到 37%，再加入铜价升到 44%。<b>金、铜的权重在变：</b>2016–2019 年金价 β 1.12、铜价 β 0.23，紫金更像黄金股；2023 年以来铜价 β 超过金价 β，2025 年以来的周度模型中铜价 β 为 1.30，是金价 β（0.60）的两倍多。对照组很清楚：A 股黄金同业的金价 β 为 1.35，几乎不受铜价影响；铜同业的铜价 β 为 0.79，金价 β 只有 0.26。紫金介于两者之间，是一只“金铜混合股”。</p>
   <div class="two">
     <figure>
       <figcaption>252 日滚动 β<span class="cap-sub">紫金日超额收益对金价、铜价的单因子 β</span></figcaption>
@@ -230,7 +271,7 @@
       <div class="chart-box" id="ch-gcorr"></div>
     </figure>
   </div>
-  【gold-54b】
+  <p>滚动窗口显示了同样的变化：最近 252 个交易日，紫金对金价的单因子 β 为 0.94，对铜价为 1.51，与两者的 126 日相关系数都是 0.57。金价与铜价本身的相关性在 2026 年明显上升（126 日相关系数年均 0.63，2016–2023 年在 −0.06 到 0.24 之间），金铜同涨同跌时，“金铜股”的波动会被放大。</p>
   <h3>5.5 金价涨跌月、大涨大跌日与回撤期</h3>
   <div class="two">
     <figure>
@@ -241,7 +282,7 @@
       <ul id="gold-monthly"></ul>
     </div>
   </div>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-gdd">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-gdd">
     <caption>金价回撤 8% 以上的阶段（人民币金价，峰 → 谷）</caption>
     <thead><tr><th>金价高点</th><th>低点</th><th class="n">金价</th><th class="n">紫金</th><th class="n">黄金同业</th><th class="n">铜同业</th><th class="n">铜价</th><th class="n">沪深 300</th></tr></thead>
     <tbody></tbody>
@@ -251,39 +292,53 @@
     <thead><tr><th>日期</th><th class="n">金价</th><th class="n">紫金</th><th class="n">黄金同业</th><th class="n">铜价</th><th class="n">沪深 300</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  【gold-55】
+  <p><b>月度：</b>129 个月中，金价上涨的 73 个月里紫金平均上涨 5.0%（金价 +3.6%）；金价下跌的 55 个月里紫金平均只跌 0.6%（金价 −2.2%）。上涨月捕获率 139%，下跌月只有 27%。这种不对称主要来自紫金自身的增长（单指数模型的年化 α 约 24%）：金价下跌的月份，产量增长和铜价往往抵消了金价的拖累。<b>领先滞后：</b>周收益中，紫金与金价同周相关系数 0.43，前后 1–4 周的相关系数都在 ±0.08 以内，金价对股价没有可利用的领先性，反之亦然。</p>
+  <p><b>大涨大跌日：</b>在金价涨幅最大的 20 天，紫金平均上涨 4.6%（金价 4.2%）；在跌幅最大的 20 天，紫金平均下跌 4.1%（金价 4.6%），黄金同业分别为 +5.9% 和 −4.5%。<b>回撤期：</b>2016 年以来人民币金价有 7 次回撤超过 8%，紫金在其中 5 次跌得比金价少；2020 年 8 月至 2021 年 3 月金价回撤 20%，紫金反而上涨 66%（同期铜价 +28%）。例外是 2020 年 2–3 月的疫情冲击（紫金 −26%，金价 −12%）和 2026 年这一轮（−34% 对 −31%）。</p>
   <h3>5.6 利润与金价、铜价</h3>
   <figure>
-    <figcaption>单季归母净利润与金价、铜价<span class="cap-sub">柱：归母净利润（亿元，左）；线：季度均价，2016Q1 = 100（右侧另读）</span></figcaption>
+    <figcaption>单季归母净利润<span class="cap-sub">亿元；按累计报表差分得到单季值</span></figcaption>
     <div class="legend" id="leg-gq"></div>
     <div class="chart-box" id="ch-gq"></div>
   </figure>
   <figure>
-    <figcaption>季度均价（2016Q1 = 100）</figcaption>
+    <figcaption>上海金与沪铜的季度均价<span class="cap-sub">2016Q1 = 100</span></figcaption>
     <div class="legend" id="leg-gq2"></div>
     <div class="chart-box" id="ch-gq2"></div>
   </figure>
-  【gold-56】
+  <p>2016 年一季度到 2026 年三季度，上海金季度均价从 246 元/克升到 925 元/克（3.8 倍），沪铜从 3.64 万元/吨升到 10.70 万元/吨（2.9 倍），紫金单季归母净利润从 0.64 亿元增至 183.6 亿元。利润的弹性远大于金属价格：产量增长了一倍以上，而矿产金单位成本的涨幅（2022–2025 年 +44%）远小于售价涨幅（+111%），价格上涨的大部分变成了利润。反过来，金价从高点回落 31%，三季度利润只比二季度少 4%，因为季度均价的跌幅（−7%）远小于现价的跌幅，铜价也在上涨。如果当前价格维持，四季度利润仍会承压（见 4.1 节示意测算）。</p>
   <div class="callout info" role="note">
     <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
-    <div><span class="tag">小结</span>【gold-summary】</div>
+    <div><span class="tag">小结</span>紫金和金价的关系可以概括为三句话：①长期看，紫金的涨幅是金价的 3 倍以上（2016 年以来 +953% 对 +283%），超额部分来自产量和资源扩张；②短期看，金价只是三个驱动因素之一，控制大盘后金价 β 约 0.8，2025 年以来铜价 β 已超过金价，紫金更像“铜金股”；③金价大跌时紫金通常跌得比金价少（7 次回撤中 5 次），但在 2026 年这一轮金属股集体降温中，紫金的回撤（−34%）略大于人民币金价（−31%），好于 A 股金、铜同业（−48%、−41%）。</div>
   </div>
 </section>
 
 <!-- ============ 06 OUTLOOK ============ -->
 <section id="outlook">
   <h2><span class="no">06</span>未来规划与公司议程</h2>
-  <p class="lede">【outlook-lede】</p>
-  【outlook-body】
+  <p class="lede">路线图是 2026 年 2 月发布的三年（2026–2028）规划：2028 年矿产金 130–140 吨、矿产铜 150–160 万吨、矿产银 600–700 吨、当量碳酸锂 27–32 万吨，铜、金产量力争进入全球前三；2035 年部分指标力争全球第一。黄金目标较原规划（100–110 吨）上调约三成。增量主要来自已投产和在建的大项目，并购仍是重要补充。</p>
+  <ul class="tl">
+    <li><div class="when">2026 年 1 月 · 巨龙铜矿二期投产</div>采选规模提升至 35 万吨/日（年 1.05 亿吨），达产后年产铜 30–35 万吨（2025 年 19.4 万吨），将成为中国最大铜矿；三期若获批，规划年产铜约 60 万吨。</li>
+    <li><div class="when">2026 年 · 产量指引</div>矿产金 105 吨、铜 120 万吨、银 520 吨、当量碳酸锂 12 万吨。前三季度完成金 70.1 吨（67%）、铜 81.6 万吨（68%）。卡莫阿铜矿受淹井影响，2026 年计划由 38–42 万吨下调至 29–33 万吨（2026 年半年报），金、铜全年目标都有不及预期的风险。</li>
+    <li><div class="when">2026 年 10 月 · 赤峰黄金并表</div>以约 182.6 亿元取得 25.85% 股权和控制权，获得一批在产金矿，四季度起并表。</li>
+    <li><div class="when">2026 年底 · 朱诺铜矿投产</div>西藏朱诺铜矿累计查明铜金属量 569 万吨，达产后年产铜约 7.6 万吨。</li>
+    <li><div class="when">2027 年下半年 · 马诺诺锂矿外运通道</div>刚果（金）马诺诺锂矿 2026 年 7 月完成浮选系统投料试车；基戈马港口升级改造预计 2027 年下半年建成，打通东非运输通道。</li>
+    <li><div class="when">2028 年底 · 雄村铜矿投产</div>达产后年产铜约 4.6 万吨；塞尔维亚两座铜矿推进年产 45 万吨技改扩建，届时有望成为欧洲第一大矿产铜企业。</li>
+  </ul>
+  <div class="grid2">
+    <div class="card"><h4>① 股东回报</h4><p>2026–2028 年累计现金分红不低于累计可供分配利润的 35%（此前为 30%）。2025 年度每股分红 0.60 元（合计约 159.5 亿元），2026 年中期每股 0.42 元（约 111 亿元）。2026 年 3–4 月以 25 亿元回购 7,747 万股 A 股（均价 32.27 元），用于员工持股计划。</p></div>
+    <div class="card"><h4>② 并购节奏</h4><p>2026 年 1 月，紫金黄金国际拟以约 55 亿加元收购联合黄金，7 月因交割先决条件难以满足而终止，改为以 4.17 亿加元认购其 9.2% 股权；3 月以 182.6 亿元收购赤峰黄金控制权，10 月完成。并购仍是补充金矿储量的主要手段，但交易条件更谨慎。</p></div>
+    <div class="card"><h4>③ 资本运作</h4><p>紫金黄金国际 2025 年 9 月在港上市，目前市值约 3,222 亿港元（股价较发行价 +68%），为海外金矿的并购提供独立的融资平台。2024 年、2026 年分别发行 20 亿、15 亿美元可转债（后者零息）。</p></div>
+    <div class="card"><h4>④ 管理层交接</h4><p>陈景河 2025 年 11 月卸任董事长，邹来昌 2026 年起接任。公司称要从“创始人驱动”转向“制度驱动”；新的三年规划和分红规划都在交接后发布。</p></div>
+  </div>
 </section>
 
 <!-- ============ 07 PEERS ============ -->
 <section id="peers">
   <h2><span class="no">07</span>同业对比：增长、行业规模、股价波动与经营预期</h2>
-  <p class="lede">【peers-lede】</p>
+  <p class="lede">对比对象是 13 家 A 股金、铜上市公司：黄金 7 家（山东黄金、中金黄金、山金国际、湖南黄金、西部黄金、恒邦股份、四川黄金），铜 6 家（江西铜业、铜陵有色、洛阳钼业、西部矿业、云南铜业、金诚信）。赤峰黄金（2026 年 10 月起为紫金控股子公司）和藏格矿业（2025 年起为子公司）未纳入。紫金的市值约占 14 家合计的 43%。</p>
   <h3>7.1 行业规模</h3>
   <ul id="industry-list"></ul>
-  【peers-71】
+  
   <h3>7.2 增长与盈利</h3>
   <div class="two" data-need="fpeers">
     <figure>
@@ -297,10 +352,10 @@
   </div>
   <div class="tbl-wrap" data-need="fpeers"><table class="tbl" id="tbl-peer-fin">
     <caption id="cap-peer-fin">同业财务与估值（按市值排序）</caption>
-    <thead><tr><th>公司</th><th class="n">市值</th><th class="n">收入</th><th class="n">收入同比</th><th class="n">净利润</th><th class="n">净利润同比</th><th class="n">前三季度净利润同比</th><th class="n">ROE</th><th class="n">市盈率</th><th class="n">市净率</th><th class="n">股息率</th><th class="n">净负债/EBITDA</th></tr></thead>
+    <thead><tr><th>公司</th><th class="n">市值</th><th class="n">收入</th><th class="n">收入同比</th><th class="n">净利润</th><th class="n">净利润同比</th><th class="n">2026 最近一期净利润同比</th><th class="n">ROE</th><th class="n">市盈率</th><th class="n">市净率</th><th class="n">股息率</th><th class="n">净负债/EBITDA</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  【peers-72】
+  <p><b>盈利能力第一，增长居中。</b>2025 年紫金 ROE 33.0%，在 14 家中最高（中位数 18.1%）；归母净利润增长 61.5% 排第 4，收入增长 15.0% 排第 11（中位数 24.6%），因为大量低毛利的冶炼和贸易收入拉低了收入增速。<b>估值最便宜之一：</b>市盈率（TTM）10.4 倍，为第 3 低（中位数 15.6 倍）；股息率 2.2% 排第 3（中位数 1.6%）；市净率 3.55 倍排第 4 高，与高 ROE 相匹配。<b>杠杆中等：</b>净负债 / EBITDA 0.78 倍，排第 7 低（中位数 1.16 倍）。规模上，紫金 2026 年前三季度归母净利润 575 亿元，已超过另外 13 家 2025 年全年利润之和（529 亿元）。</p>
   <h3>7.3 股价表现与板块内的波动</h3>
   <figure>
     <figcaption id="cap-rebased">相对表现（起点 = 100，含分红）</figcaption>
@@ -322,25 +377,30 @@
     <thead id="thead-peer-vol"></thead>
     <tbody></tbody>
   </table></div>
-  【peers-73】
-  <div class="tbl-wrap"><table class="tbl" id="tbl-global">
+  <p><b>板块内波动最小。</b>紫金近一年波动率 46%，是 14 家中最低（其他公司 52%–67%）；对金铜板块的 β 为 0.88，为第二低。近三年累计上涨 149%，排第 3；2025 年上涨 133%，排第 4；今年以来 −17%，排第 9。规模大、业务分散，使紫金在板块里更像“指数型”的稳健选择。</p>
+  <p><b>全球对照：</b>美国上市的纯金矿公司（纽蒙特、伊格尔、巴里克）2024 年以来对金价的 β 在 1.1–1.3 之间，几乎不受铜价影响；铜矿公司（自由港、南方铜业）对金价和铜价的 β 都约 0.5，对美股大盘的 β 超过 1。紫金 2025 年以来的日度金价 β 0.53、铜价 β 0.76，同样介于两类之间。估值上，紫金 10.4 倍的市盈率低于纽蒙特（13.0 倍）和伊格尔（15.2 倍），与巴里克（10.1 倍）接近，远低于自由港（32.3 倍）和南方铜业（25.5 倍）。2026 年以来海外铜矿股表现更好（自由港 +30%、南方铜业 +40%），金矿股分化（纽蒙特 +13%、巴里克 −9%），紫金 −17%。</p>
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-global">
     <caption>全球金铜矿企对照（美元计；2024 年以来日收益的三因子模型）</caption>
     <thead><tr><th>公司</th><th class="n">对金价 β</th><th class="n">对铜价 β</th><th class="n">对标普 β</th><th class="n">R²</th><th class="n">年化波动率</th><th class="n">2025 年</th><th class="n">2026 年以来</th><th class="n">市盈率</th></tr></thead>
     <tbody></tbody>
   </table></div>
   <p class="note" id="note-global"></p>
   <h3>7.4 经营预期</h3>
-  【peers-74】
+  <ul>
+    <li><b>黄金同业：</b>山东黄金、中金黄金以国内矿山为主，产量增长有限；山金国际和四川黄金规模较小，但毛利率高、净现金。A 股黄金同业对金价的 β（1.35）高于紫金，金价回落时跌得更多：金价高点以来平均下跌 48%。</li>
+    <li><b>铜同业：</b>洛阳钼业（刚果（金）铜钴）和金诚信（矿服 + 铜矿）是增长较快的矿山型公司，ROE 分别为 26.6% 和 23.3%；江西铜业、铜陵有色、云南铜业以冶炼为主，ROE 只有 6.6%–9.0%。</li>
+    <li><b>紫金的差异：</b>同时拥有增长中的金（2028 年 130–140 吨）、铜（150–160 万吨）和锂（27–32 万吨），规模远大于同业；一致预期与规划对应的是 2026–2028 年利润继续增长（东方财富收录的近 4 个月 3 家券商 EPS 预测中位数 3.06、3.38、3.64 元），而多数同业的增长取决于单一金属价格。</li>
+  </ul>
 </section>
 
 <!-- ============ 08 VALUATION ============ -->
 <section id="valuation">
   <h2><span class="no">08</span>估值</h2>
-  <p class="lede">【val-lede】</p>
+  <p class="lede">按任何口径，紫金现在的市盈率都处于自身历史低位：TTM 10.4 倍（2018 年以来 1% 分位），按三季度年化利润约 10.1 倍，按当前金、铜现价测算约 10.5 倍；券商预测（东方财富收录的近 4 个月 3 家）对应 2026–2028 年 9.1、8.2、7.7 倍。低估值反映的是市场对金价和利润见顶的担忧，而不是当前盈利。</p>
   <div class="tiles" role="list" id="val-tiles"></div>
   <div class="two">
     <figure>
-      <figcaption>市盈率（TTM）与金价<span class="cap-sub">周度；金价为上金所 Au99.99（元/克）</span></figcaption>
+      <figcaption>市盈率（TTM）历史<span class="cap-sub">周度，东方财富口径，2018 年起</span></figcaption>
       <div class="legend" id="leg-pe"></div>
       <div class="chart-box" id="ch-pe"></div>
     </figure>
@@ -349,13 +409,14 @@
       <div class="chart-box" id="ch-ah"></div>
     </figure>
   </div>
-  【val-body】
-  <div class="tbl-wrap"><table class="tbl" id="tbl-targets">
+  <p><b>市盈率与股价的“剪刀差”。</b>2021 年 2 月紫金市盈率一度达到 64 倍（利润尚低、股价大涨），之后随利润快速增长回落到 2022 年末的 12.5 倍。2025 年股价涨幅（133%）超过利润增幅（62%），市盈率从 13.7 倍升到 20.1 倍，2026 年 1 月 29 日达到 25.4 倍；此后股价下跌 34%、利润继续增长，市盈率降到 10.4 倍，为 2018 年以来最低。</p>
+  <p><b>A/H 溢价收窄。</b>A 股较 H 股的溢价从 2016 年平均 58% 降到 2025 年平均 5%，目前为 18%（H 股 27.68 港元）。<b>紫金黄金国际的价值：</b>按 10 月 27 日收盘价 120.40 港元，紫金所持约 85% 股权的市值约 2,327 亿元，相当于紫金总市值（按 A 股股价计 7,406 亿元）的 31%；也就是说，市场对紫金其余的铜、锂、锌和国内金矿资产只给了约 5,080 亿元。</p>
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-targets">
     <caption>券商评级与目标价（第三方，按日期）</caption>
     <thead><tr><th>机构</th><th>市场</th><th>评级</th><th class="n">目标价</th><th class="n">相对现价</th><th>日期 / 出处</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  【val-after】
+  <p>券商目标价多在金价回落前设定，相对现价有 40%–117% 的空间，参考意义有限；摩根士丹利 10 月 26 日三季报后维持“增持”和 H 股 60 港元目标价，美银证券 7 月指出紫金约 8 倍的 2027 年预测市盈率低于全球铜同业（12 倍）和金同业（11 倍）（均为第三方观点）。<b>估值结论：</b>10 倍左右的市盈率隐含的是“金价继续回落、铜价不再上涨”的假设。按 4.1 节的示意表，若金价回到 800 元/克、铜价回到 9.5 万元/吨，年化利润约 608 亿元，对应约 12 倍市盈率；若金价回到三季度均价 925 元/克、铜价维持，利润约 734 亿元，对应约 10 倍。</p>
 </section>
 
 <!-- ============ 09 VOLATILITY ============ -->
@@ -384,7 +445,7 @@
     <thead id="thead-year"></thead>
     <tbody></tbody>
   </table></div>
-  【vol-92】
+  <p>十年来紫金年化波动率 38.3%，是沪深 300 的 2.0 倍、金价的 2.5 倍，比金铜同业等权指数（31.2%，分散后较低）高 7 个百分点；但在个股层面，紫金是 14 家金铜公司中波动最小的（见 7.3 节）。2026 年至今的年化波动率 48%，是 2020 年（51%）以来最高。风险调整后回报很高：夏普比率 0.73，与金价（0.76）接近，远高于沪深 300（0.21）。</p>
 
   <h3>9.3 滚动波动率与波动聚集</h3>
   <figure>
@@ -407,11 +468,11 @@
       <div class="chart-box" id="ch-r2"></div>
     </figure>
   </div>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-sim">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-sim">
     <thead id="thead-sim"></thead>
     <tbody></tbody>
   </table></div>
-  <div class="tbl-wrap"><table class="tbl" id="tbl-factors">
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-factors">
     <caption>市场 + 板块两因子模型：分时期估计</caption>
     <thead id="thead-factors"></thead>
     <tbody></tbody>
@@ -445,7 +506,7 @@
       <div class="chart-box" id="ch-dd"></div>
     </figure>
   </div>
-  【vol-summary】
+  <p><b>小结：</b>紫金的波动主要来自行业（加入金铜板块因子后 R² 从 23% 升到 64%），而不是公司特有事件：最大的 10 个交易日只贡献 6.5% 的方差。β 有“下跌时更大”的特征（市场下跌日 1.05、上涨日 0.86）。2025 年以来紫金对大盘的 β 升到 1.43，对板块的 β 降到 0.83，市场越来越把它当作“大盘权重 + 金属”来交易。GARCH 持续性 0.993、半衰期约 96 个交易日，说明高波动一旦出现会持续较久；当前条件波动率 43%，处于高位。</p>
 </section>
 
 <!-- ============ 10 EVENTS ============ -->
@@ -474,25 +535,37 @@
   <p id="car-note"></p>
   <h3>10.1 案例</h3>
   <ol class="keypoints">
-    【cases】
+    <li><b>2019-01-02 · 80 亿元公开增发预案：A 股跌停。</b>当天 −9.9%，沪深 300 −1.4%，金铜板块 −1.2%；异常收益 −8.5%（t = −5.9），含当日的 6 日累计异常收益 −9.7%，没有修复。预案拟发行不超过 34 亿股（约为当时总股本的 15%），募资不超过 80 亿元用于收购 Nevsun。<b>启示：</b>市场对大规模股权融资的稀释非常敏感，即使用途是收购优质资产——Timok 铜金矿后来成为公司主力铜矿之一。</li>
+    <li><b>2020-04-27 · 波格拉金矿停产：单日 −9.2%，次日部分修复。</b>巴新政府拒绝采矿权延期，按权益计这是当时公司最大的金矿。当天异常收益 −8.7%（t = −6.0），是样本内最大的负面异常收益；次日反弹 3.4%（异常收益 +5.7%），6 日累计 −5.5%。矿山于 2023 年 12 月复产。<b>启示：</b>海外资源国政策风险会被一次性重新定价，但单一矿山对紫金整体价值的影响有限，市场第二天就修正了一部分。</li>
+    <li><b>2021-10-11 · 收购新锂公司、进入锂行业：+7.6%。</b>以约 9.6 亿加元收购阿根廷 3Q 锂盐湖；当天大盘 +0.1%、板块 +1.7%，异常收益 +6.0%（t = 4.1），6 日累计 +6.9%。<b>启示：</b>新能源金属热潮中，锂被市场视为新的增长曲线；到 2026 年前三季度，锂已贡献约 4% 的毛利。</li>
+    <li><b>2026-02-02 · 沃什提名引发金价暴跌：紫金跟跌，但没有额外惩罚。</b>上海金价 −11.5%（1 月 30 日已跌 6.4%），紫金 −8.8%，金铜板块 −9.9%，沪深 300 −2.1%；异常收益只有 +0.7%（t = 0.5）。之后 6 日累计异常收益 +9.8%，股价在 2 月 9 日三年规划发布前后反弹。<b>启示：</b>金价冲击会通过“板块因子”完整传导到紫金，模型的异常收益接近零；真正的超额信息来自公司自身（规划、并购）。</li>
+    <li><b>2026-03-23 · 年报 + 收购赤峰黄金 + 回购，叠加金价 −11%：跑赢板块。</b>当天上海金价下跌 11.2%，A 股黄金同业 −8.3%、金铜板块 −6.9%、沪深 300 −3.3%，紫金只跌 3.4%，异常收益 +3.6%（t = 2.5）。同日披露的是 2025 年归母净利润 517.8 亿元（+61.5%）、182.6 亿元收购赤峰黄金控制权和 15–25 亿元 A 股回购（当天开始实施）。<b>启示：</b>在金价大跌日，扎实的业绩、增储并购和回购起到了缓冲作用。</li>
+    <li><b>2026-10-26 · 三季报：同比 +26% 但环比下降，股价 −4.6%。</b>当天沪深 300 持平，金铜板块 −2.8%，异常收益 −2.0%（t = −1.4，不显著），截至 10 月 27 日的累计异常收益 −0.1%。<b>启示：</b>市场看的是利润的边际变化：三季度金价均价环比 −7%、金铜单位成本上升，利润环比 −4%，“利润随金价见顶”的担忧压过了同比增长。</li>
   </ol>
   <h3>10.2 规律总结</h3>
   <ul id="event-points"></ul>
-  【event-summary】
+  <p>显著事件多集中在 2019–2021 年公司规模较小、单个事件影响较大的时期。2024 年以来，只有 2024 年 10 月 9 日（A 股暴跌日，紫金跌得比板块少，异常收益 +3.3%）和 2026 年 3 月 23 日（+3.6%）在 5% 水平显著，2025 年 8 月 27 日半年报（+2.8%，t = 1.96）接近显著。按年度累计的异常收益中，2020 年最高（+48%），2026 年至今为 −15%：今年紫金跌得比“大盘 + 金铜板块”模型预期的更多，与市场对金价、利润见顶的担忧一致。宏观冲击（关税、金价暴跌、美联储加息）基本都通过板块因子传导，异常收益不显著。另外，样本内异常收益最大的 20 个交易日中有 7 个在 2016–2018 年（如 2016-06-16、2017-12-28 两次涨停），没有找到对应的公司公告，因此没有列入事件表。</p>
 </section>
 
 <!-- ============ 11 RISKS ============ -->
 <section id="risks">
   <h2><span class="no">11</span>主要风险因素</h2>
   <ol class="keypoints">
-    【risks】
+    <li><b>金价继续回落。</b>金价每下跌 10%，年化归母净利润约减少 48 亿元（6.6%），股价按约 0.8 的金价 β 同步下跌。2026 年美联储已加息至 3.75%–4.00%，点阵图显示年内可能再加息一次。观察：美国实际利率与美元、央行购金（世界黄金协会预计 2026 年约 850 吨）、黄金 ETF 流向。</li>
+    <li><b>铜价从纪录高位回落。</b>LME 铜价 2026 年 1 月创 14,527.5 美元/吨纪录，目前约 14,480 美元/吨；铜价每下跌 10%，年化利润约减少 54 亿元（7.3%）。2025 年以来股价对铜的敏感度已超过金价。观察：中国需求、全球铜矿供给恢复（Grasberg、卡莫阿）、关税政策。</li>
+    <li><b>产量不及指引。</b>卡莫阿 2026 年产量计划已下调至 29–33 万吨；前三季度金、铜分别只完成全年指引的 67% 和 68%，四季度需要明显提速。观察：年度产量公告、巨龙二期爬坡、卡莫阿复产进度。</li>
+    <li><b>成本上升。</b>2022–2025 年矿产金单位成本年均上涨约 13%，2026 年三季度继续上升（金锭 377 元/克）；权益金随金价联动，新并购矿山的过渡期成本偏高。</li>
+    <li><b>海外资源国风险。</b>海外资产分布在 17 个国家，2020 年波格拉金矿停产当天股价下跌 9.2%；非洲、拉美、中亚的税费、许可和社区风险可能再次出现。</li>
+    <li><b>并购与融资。</b>赤峰黄金刚刚交割，联合黄金收购曾因先决条件无法满足而终止；大规模并购可能推高负债或稀释股本（2019 年增发预案当天跌停）。</li>
   </ol>
 </section>
 
 <!-- ============ 12 CONCLUSION ============ -->
 <section id="conclusion">
   <h2><span class="no">12</span>结论</h2>
-  【conclusion】
+  <p>紫金矿业已经从“中国的金矿公司”变成“全球前五的金铜矿企”：金和铜各贡献约四成毛利，锂开始放量，2028 年金、铜产量计划再增长约 50% 和 40%。资产负债表经过 2019–2023 年的扩张期后已明显修复，资产负债率降到 50% 以下，经营现金流足以同时覆盖资本开支、并购和不低于 35% 的分红。</p>
+  <p>和金价相比，紫金过去十年上涨 953%，人民币金价上涨 283%，超额来自产量增长而不是金价本身；短期涨跌则同时由金价、铜价和 A 股大盘决定，2025 年以来铜的影响已经超过金。2026 年 1 月金价见顶后，紫金跟随回撤 34%，市盈率降到 10 倍左右，市场在为“金价、利润双双见顶”定价。如果金价稳定在当前水平（上海金约 860 元/克，约合 4,020 美元/盎司）、铜价维持高位，按示意测算年化利润约 707 亿元，对应约 10.5 倍市盈率。</p>
+  <p><b>接下来最值得关注的信号：</b>①金价能否稳定在 4,000 美元/盎司附近，以及美元与美国实际利率的走向；②美联储年内是否再次加息（9 月点阵图显示还有一次）；③全年产量：金 105 吨、铜 120 万吨的指引能否完成，卡莫阿复产进度；④赤峰黄金并表后的产量与成本，以及是否有新的大型并购；⑤2026 年年报的分红（规划不低于 35%）和 2027 年产量指引。</p>
 </section>
 
 <!-- ============ 13 APPENDIX ============ -->
@@ -628,7 +701,7 @@ const yi = v => v === null || v === undefined ? '—' : num(v / 100, 0);  // 百
     ]);
   }
   const methods = [
-    `行情：${M.start} 至 ${M.end} 的日度数据；个股用分红复权价，沪深 300 用全收益指数，金价用上海黄金交易所 Au99.99 现货收盘价，铜价用上期所沪铜主力连续合约收盘价（换月处拼接）。年化按 252 个交易日，波动率用对数收益，β 与事件研究用超额简单收益（减无风险利率）。`,
+    `行情：${M.start} 至 ${M.end} 的日度数据；个股用分红复权价，沪深 300 用全收益指数，金价用上海黄金交易所 Au99.99 现货收盘价（该数据源始于 2016-12-19，此前用上期所黄金主力合约按比例衔接），铜价用上期所沪铜主力连续合约收盘价（换月处拼接）；美元金价、铜价用 COMEX 主力合约。年化按 252 个交易日，波动率用对数收益，β 与事件研究用超额简单收益（减无风险利率）。`,
     `模型：单指数模型（OLS，HAC 稳健标准误）` + (HAS.sec ? '，板块因子为同业等权指数对市场回归的残差' : '') + '；与金价的比较用“大盘 + 金价 + 铜价”三因子模型（日度与周度），金属价格直接以价格变动进入模型；GARCH(1,1) 学生 t 分布；滚动窗口 63 / 126 / 252 日。',
     `同业：13 家 A 股金、铜上市公司（黄金 7 家、铜 6 家）。赤峰黄金已于 2026-10-22 成为紫金控股子公司，藏格矿业自 2025-04-30 起为紫金控股子公司，均未纳入。每家公司的板块 β 用不含其自身的等权指数计算（留一法）；排名由程序计算。`,
     `事件研究：事件日为市场首次能够反应的交易日（盘后或周末公告取下一交易日）；AR 用全样本模型估计，t = AR/σ(e)；CAR 为事件日起 6 个交易日的累计。`,
@@ -718,7 +791,7 @@ const yi = v => v === null || v === undefined ? '—' : num(v / 100, 0);  // 百
     ...(sv.extra || []),
   ]);
   const FP = (F.peers || []).slice().sort((a, b) => b.mcap - a.mcap);
-  fillRows(tb('tbl-peer-fin'), FP.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap / 100) }, { n: 1, text: num(p.revenue) }, { n: 1, text: spct(p.revenue_yoy, 1), cls: tone(p.revenue_yoy) }, { n: 1, text: num(p.np) }, { n: 1, text: spct(p.np_yoy, 1), cls: tone(p.np_yoy) }, { n: 1, text: spct(p.np_h_yoy, 0), cls: tone(p.np_h_yoy) }, { n: 1, text: pct(p.roe, 1) }, { n: 1, text: p.pe_ttm > 0 ? p.pe_ttm.toFixed(1) + 'x' : '—' }, { n: 1, text: p.pb ? p.pb.toFixed(2) + 'x' : '—' }, { n: 1, text: pct(p.dy, 1) }, { n: 1, text: p.nd_ebitda === null || p.nd_ebitda === undefined ? '—' : p.nd_ebitda < 0 ? '净现金' : p.nd_ebitda.toFixed(1) + 'x' }] })));
+  fillRows(tb('tbl-peer-fin'), FP.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap / 100) }, { n: 1, text: num(p.revenue) }, { n: 1, text: spct(p.revenue_yoy, 1), cls: tone(p.revenue_yoy) }, { n: 1, text: num(p.np) }, { n: 1, text: spct(p.np_yoy, 1), cls: tone(p.np_yoy) }, { n: 1, text: spct(p.np_h_yoy, 0) + (p.h_basis === 'H1' ? '（H1）' : ''), cls: tone(p.np_h_yoy) }, { n: 1, text: pct(p.roe, 1) }, { n: 1, text: p.pe_ttm > 0 ? p.pe_ttm.toFixed(1) + 'x' : '—' }, { n: 1, text: p.pb ? p.pb.toFixed(2) + 'x' : '—' }, { n: 1, text: pct(p.dy, 1) }, { n: 1, text: p.nd_ebitda === null || p.nd_ebitda === undefined ? '—' : p.nd_ebitda < 0 ? '净现金' : p.nd_ebitda.toFixed(1) + 'x' }] })));
   const V = F.valuation || {};
   const cur = { A: '¥', H: 'HK$' };
   const hk = G.meta && G.meta.hkdcny ? G.meta.hkdcny : null;
@@ -733,7 +806,8 @@ const yi = v => v === null || v === undefined ? '—' : num(v / 100, 0);  // 百
   /* company-specific tables */
   const PR = F.production || [];
   const f1 = (v, d = 1) => v === null || v === undefined ? '—' : num(v, d);
-  fillRows(tb('tbl-prod'), PR.map(p => ({ grp: !!p.plan, cells: [p.p, { n: 1, text: f1(p.gold, 1) }, { n: 1, text: f1(p.copper, 1) }, { n: 1, text: f1(p.zinc, 1) }, { n: 1, text: f1(p.silver, 0) }, { n: 1, text: f1(p.lce, 1) }] })));
+  const pv = (v, d) => typeof v === 'string' ? v : f1(v, d);
+  fillRows(tb('tbl-prod'), PR.map(p => ({ grp: !!p.plan, cells: [p.p, { n: 1, text: pv(p.gold, p.plan ? 0 : 1) }, { n: 1, text: pv(p.copper, p.plan ? 0 : 1) }, { n: 1, text: pv(p.zinc, p.plan ? 0 : 1) }, { n: 1, text: pv(p.silver, 0) }, { n: 1, text: pv(p.lce, p.plan ? 0 : 1) }] })));
   if (F.production_note) el('note-prod').textContent = F.production_note;
   const U = F.unit_econ || [];
   fillRows(tb('tbl-unit'), U.map(u => [u.y, { n: 1, text: f1(u.au_price, 0) }, { n: 1, text: f1(u.au_cost, 0) }, { n: 1, text: pct(u.au_gm, 1) }, { n: 1, text: f1(u.cu_price, 0) }, { n: 1, text: f1(u.cu_cost, 0) }, { n: 1, text: pct(u.cu_gm, 1) }]));
@@ -814,7 +888,7 @@ legend('leg-gbeta', [['c4', '对金价'], ['c8', '对铜价'], ['c3', '黄金同
 legend('leg-gcorr', [['c4', '与金价'], ['c8', '与铜价'], ['c1', '与沪深 300']]);
 legend('leg-gq', [['c2', '归母净利润（亿元）', true]]);
 legend('leg-gq2', [['c4', '金价'], ['c8', '铜价']]);
-legend('leg-pe', [['c2', '市盈率（TTM，左）']]);
+legend('leg-pe', [['c2', '市盈率（TTM）']]);
 const GP = F.gp_mix || {};
 if (GP.parts) { legend('leg-gpmix', GP.parts.map(p => [p.cls.replace('f', 'c'), p.name, true])); el('cap-gpmix').textContent = GP.caption || ''; }
 const charts = {

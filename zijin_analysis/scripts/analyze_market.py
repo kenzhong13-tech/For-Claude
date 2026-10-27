@@ -61,14 +61,14 @@ def csindex(code, col="收盘"):
 
 
 def gold_cny():
-    """Gold in RMB per gram: SGE Au99.99 spot close; fallbacks SHFE main contract, then COMEX x USD/CNY."""
-    if have("commod/sge_Au99.99.csv"):
-        df = pd.read_csv(os.path.join(RAW, "commod", "sge_Au99.99.csv"))
-        return ml.read_series(os.path.join(RAW, "commod", "sge_Au99.99.csv"), df.columns[0], "close")
-    if have("commod/main_AU0.csv"):
-        return ml.read_series(os.path.join(RAW, "commod", "main_AU0.csv"), "日期", "收盘价")
-    gc, cny = yahoo("GC=F", "Close"), yahoo("CNY=X", "Close")
-    return (gc * cny.reindex(gc.index).ffill()).dropna() / 31.1035
+    """Gold in RMB per gram: SGE Au99.99 spot close, which starts on 2016-12-19 in this source; earlier days use the SHFE
+    gold main contract scaled to the spot price on that date (the futures series jumps at each contract roll, so it is
+    used only where spot is missing)."""
+    spot = ml.read_series(os.path.join(RAW, "commod", "sge_Au99.99.csv"), "date", "close")
+    fut = ml.read_series(os.path.join(RAW, "commod", "main_AU0.csv"), "日期", "收盘价")
+    d0 = spot.index[0]
+    early = fut[fut.index < d0] * spot.iloc[0] / fut[fut.index <= d0].iloc[-1]
+    return pd.concat([early, spot]).sort_index()
 
 
 def fred(series_id):

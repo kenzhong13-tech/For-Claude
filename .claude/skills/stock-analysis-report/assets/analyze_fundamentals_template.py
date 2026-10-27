@@ -17,6 +17,7 @@ Every hand-typed number gets a comment naming the document.
 import json
 import os
 import sys
+import warnings
 
 import numpy as np
 import pandas as pd
@@ -26,6 +27,7 @@ RAW = os.path.join(ROOT, "data", "raw")
 FIN = os.path.join(RAW, "fin")
 OUT = os.path.join(ROOT, "data", "processed")
 sys.path.insert(0, os.path.join(ROOT, "..", "report_kit"))
+warnings.simplefilter("ignore", pd.errors.PerformanceWarning)  # wide Eastmoney statement files
 M = 1e6
 
 # ============================================================ CONFIG (edit)

@@ -13,6 +13,7 @@ HAC t-values; the R² that each factor adds; the same model for the gold-peer an
 import json
 import os
 import sys
+import warnings
 
 import numpy as np
 import pandas as pd
@@ -22,6 +23,7 @@ RAW = os.path.join(ROOT, "data", "raw")
 OUT = os.path.join(ROOT, "data", "processed")
 sys.path.insert(0, os.path.join(ROOT, "..", "report_kit"))
 import marketlib as ml  # noqa: E402
+warnings.simplefilter("ignore", pd.errors.PerformanceWarning)  # wide Eastmoney statement files
 
 START = "2016-01-04"
 MIN_PEERS_GOLD, MIN_PEERS_COPPER = 4, 3
@@ -58,9 +60,11 @@ def commod(name, date_col=None, col=None):
 
 
 def gold_cny():
-    if have("commod/sge_Au99.99.csv"):
-        return commod("sge_Au99.99"), "上海黄金交易所 Au99.99 现货收盘价（元/克）"
-    return commod("main_AU0"), "上期所黄金主力连续合约收盘价（元/克）"
+    """SGE Au99.99 spot close (starts 2016-12-19 here); earlier days use the SHFE gold main contract scaled to spot."""
+    spot, fut = commod("sge_Au99.99"), commod("main_AU0")
+    d0 = spot.index[0]
+    early = fut[fut.index < d0] * spot.iloc[0] / fut[fut.index <= d0].iloc[-1]
+    return pd.concat([early, spot]).sort_index(), f"上海黄金交易所 Au99.99 现货收盘价（元/克；{d0.date()} 之前用上期所黄金主力合约衔接）"
 
 
 def copper_cny():
