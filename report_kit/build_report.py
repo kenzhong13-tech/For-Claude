@@ -4,7 +4,8 @@ usage (from the repository root):
     python report_kit/build_report.py <slug>_analysis [--out <name>.html] [--kit report_kit] [--digits 5]
 
 Reads  <dir>/report/template.html, <dir>/data/processed/market_analysis.json and, if present, fundamentals.json
-Writes <dir>/report/<out> (default <slug>_report.html). DATA in the page = market_analysis plus {"fund": fundamentals}.
+Writes <dir>/report/<out> (default <slug>_report.html). DATA in the page = market_analysis plus {"fund": fundamentals};
+any other JSON file in data/processed is added under its file name (gold_analysis.json -> DATA.gold_analysis).
 Placeholders in the template: /*__BASE_CSS__*/, /*__CHARTS_JS__*/ and __DATA_JSON__.
 """
 import argparse
@@ -40,6 +41,10 @@ def main():
     fpath = os.path.join(proc, "fundamentals.json")
     if os.path.exists(fpath):
         data["fund"] = json.load(open(fpath, encoding="utf-8"))
+    for name in sorted(os.listdir(proc)):  # company-specific analyses, e.g. a commodity comparison
+        stem, ext = os.path.splitext(name)
+        if ext == ".json" and stem not in ("market_analysis", "fundamentals") and stem not in data:
+            data[stem] = json.load(open(os.path.join(proc, name), encoding="utf-8"))
     data = rnd(data, a.digits)
     html = open(os.path.join(d, "report", "template.html"), encoding="utf-8").read()
     for ph in ("/*__BASE_CSS__*/", "/*__CHARTS_JS__*/", "__DATA_JSON__"):

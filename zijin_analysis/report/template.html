@@ -1,0 +1,871 @@
+<title>紫金矿业财务分析报告</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="紫金矿业（601899.SH / 2899.HK）中文财务分析：金铜锌锂业务与财务表现、债务与偿债能力、对金价铜价与市场的敏感性、与金价走势的比较、未来规划、同业对比，以及以沪深 300 为基准的波动率分析与股价事件研究。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap">
+<style>
+/*__BASE_CSS__*/
+/* Edition accent: a deep gold for a gold and copper miner. The chart palette keeps its fixed roles (company orange,
+   market blue, sector green, gold amber); copper gets one extra token, --s8, in a copper brown. */
+:root { --accent: #8f6410; --accent-ink: #78530b; --info-bg: #f8f1e1; --s8: #9a6a4f; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #e0b04d; --accent-ink: #ecc56f; --info-bg: #221b0c; --s8: #c4917a; } }
+:root[data-theme="dark"] { --accent: #e0b04d; --accent-ink: #ecc56f; --info-bg: #221b0c; --s8: #c4917a; }
+.chart .c8 { stroke: var(--s8); } .chart .f8 { fill: var(--s8); } .chart .dot.c8 { fill: var(--s8); }
+.leg-c8 { color: var(--s8); } .tt-k.c8, .tt-k.f8 { background: var(--s8); }
+.chart .vlab-in.dark { fill: #121722; }
+.tt-k.f3 { background: var(--s3); } .tt-k.f4 { background: var(--s4); } .tt-k.c7, .tt-k.f7 { background: var(--s7); } .tt-k.fmid { background: var(--mid); }
+.ticker { letter-spacing: .04em; }
+.tbl tr.me td { background: color-mix(in srgb, var(--accent) 9%, transparent); font-weight: 500; }
+.tbl tr.grp td { background: color-mix(in srgb, var(--chip) 60%, transparent); color: var(--ink2); font-size: 12.5px; font-weight: 500; }
+.tbl td.hl { background: color-mix(in srgb, var(--s4) 16%, transparent); font-weight: 700; }
+.note { font-size: 13px; color: var(--muted); margin-top: -6px; }
+@media print {
+  /* wide tables: shrink font and padding so they fit the 703px printable width (check make_pdf's overflow list) */
+  #tbl-peer-vol, #tbl-peer-fin, #tbl-annual, #tbl-factors, #tbl-prod, #tbl-unit, #tbl-win, #tbl-gmodel, #tbl-global, #tbl-grid, #tbl-gdd, #tbl-bigdays, #tbl-targets, #tbl-cash { font-size: 10.5px; }
+  #tbl-risk, #tbl-year { font-size: 10px; }
+  #tbl-risk th, #tbl-risk td, #tbl-year th, #tbl-year td, #tbl-peer-vol th, #tbl-peer-vol td, #tbl-peer-fin th, #tbl-peer-fin td,
+  #tbl-annual th, #tbl-annual td, #tbl-factors th, #tbl-factors td, #tbl-prod th, #tbl-prod td, #tbl-unit th, #tbl-unit td,
+  #tbl-win th, #tbl-win td, #tbl-gmodel th, #tbl-gmodel td, #tbl-global th, #tbl-global td, #tbl-grid th, #tbl-grid td,
+  #tbl-gdd th, #tbl-gdd td, #tbl-bigdays th, #tbl-bigdays td, #tbl-targets th, #tbl-targets td, #tbl-cash th, #tbl-cash td { padding: 4px 4px; }
+  #tbl-risk td.n { white-space: normal; }
+  #tbl-year th, #tbl-risk th, #tbl-peer-vol th, #tbl-peer-fin th, #tbl-annual th, #tbl-factors th, #tbl-prod th, #tbl-unit th, #tbl-win th,
+  #tbl-gmodel th, #tbl-global th, #tbl-grid th, #tbl-gdd th, #tbl-bigdays th, #tbl-cash th { white-space: normal; }
+}
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="kicker"><span class="ticker">上交所: 601899 · 港交所: 2899</span><span>金、铜、锌、银、锂 · 全球化矿业公司</span><span>中文研究报告</span></div>
+    <h1>紫金矿业财务分析报告</h1>
+    <p class="sub">业务与财务、债务与偿债能力、对金价铜价与市场的敏感性、与金价走势的比较、未来规划、同业对比，以及以沪深 300 为基准的波动率分析和股价事件研究。</p>
+    <div class="stamp" id="stamp">【stamp】</div>
+  </div>
+</header>
+
+<nav class="rail" aria-label="章节导航">
+  <div class="wrap">
+    <a href="#summary">摘要</a>
+    <a href="#company">公司与业务</a>
+    <a href="#financials">财务表现</a>
+    <a href="#debt">债务与偿债</a>
+    <a href="#sensitivity">敏感性</a>
+    <a href="#gold">与金价比较</a>
+    <a href="#outlook">未来规划</a>
+    <a href="#peers">同业对比</a>
+    <a href="#valuation">估值</a>
+    <a href="#volatility">波动率</a>
+    <a href="#events">事件研究</a>
+    <a href="#risks">风险</a>
+    <a href="#conclusion">结论</a>
+    <a href="#appendix">方法与来源</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- ============ 00 SUMMARY ============ -->
+<section id="summary">
+  <h2><span class="no">00</span>核心结论</h2>
+  <div class="tiles" role="list" id="tiles"></div>
+  <ol class="keypoints">
+    【keypoints】
+  </ol>
+</section>
+
+<!-- ============ 01 COMPANY ============ -->
+<section id="company">
+  <h2><span class="no">01</span>公司概况与业务</h2>
+  <p class="lede">【company-lede】</p>
+  【company-body】
+  <div class="tbl-wrap"><table class="tbl" id="tbl-prod">
+    <caption>主要矿产品产量</caption>
+    <thead><tr><th>期间</th><th class="n">矿产金（吨）</th><th class="n">矿产铜（万吨）</th><th class="n">矿产锌（铅）（万吨）</th><th class="n">矿产银（吨）</th><th class="n">当量碳酸锂（万吨）</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="note" id="note-prod"></p>
+  <div class="two">
+    <figure>
+      <figcaption>矿产金与矿产铜产量<span class="cap-sub">柱：矿产金（吨）；2026 为公司指引，2028 为规划区间中值</span></figcaption>
+      <div class="chart-box" id="ch-prod-au"></div>
+    </figure>
+    <figure>
+      <figcaption>矿产铜产量<span class="cap-sub">万吨；2026 为公司指引，2028 为规划区间中值</span></figcaption>
+      <div class="chart-box" id="ch-prod-cu"></div>
+    </figure>
+  </div>
+  <figure>
+    <figcaption>毛利构成<span class="cap-sub" id="cap-gpmix"></span></figcaption>
+    <div class="legend" id="leg-gpmix"></div>
+    <div class="chart-box" id="ch-gpmix"></div>
+  </figure>
+  【company-after】
+</section>
+
+<!-- ============ 02 FINANCIALS ============ -->
+<section id="financials">
+  <h2><span class="no">02</span>财务表现分析</h2>
+  <p class="lede">【fin-lede】</p>
+  <figure data-need="annual">
+    <figcaption>收入与利润<span class="cap-sub" id="unit-rev"></span></figcaption>
+    <div class="legend" id="leg-rev"></div>
+    <div class="chart-box" id="ch-rev"></div>
+  </figure>
+  <div class="tbl-wrap" data-need="annual"><table class="tbl" id="tbl-annual">
+    <caption>年度财务摘要（百万元）</caption>
+    <thead><tr><th>年度</th><th class="n">收入</th><th class="n">同比</th><th class="n">毛利率</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">扣非净利润</th><th class="n">同比</th><th class="n">ROE</th><th class="n">经营现金流</th><th class="n">资本开支</th><th class="n">每股分红</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-unit">
+    <caption>金、铜的售价、单位成本与毛利率</caption>
+    <thead><tr><th>年度</th><th class="n">矿产金售价（元/克）</th><th class="n">单位销售成本</th><th class="n">毛利率</th><th class="n">矿产铜售价（元/吨）</th><th class="n">单位销售成本</th><th class="n">毛利率</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="note" id="note-unit"></p>
+  【fin-body】
+  <div class="tbl-wrap"><table class="tbl" id="tbl-quarter">
+    <caption>最近八个季度（单季，亿元）</caption>
+    <thead><tr><th>季度</th><th class="n">营业收入</th><th class="n">同比</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">金价均价（元/克）</th><th class="n">铜价均价（元/吨）</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  【fin-after】
+</section>
+
+<!-- ============ 03 DEBT ============ -->
+<section id="debt">
+  <h2><span class="no">03</span>债务结构与偿债能力</h2>
+  <p class="lede">【debt-lede】</p>
+  <figure data-need="balance">
+    <figcaption>现金与有息负债<span class="cap-sub" id="unit-bal"></span></figcaption>
+    <div class="legend" id="leg-bal"></div>
+    <div class="chart-box" id="ch-bal"></div>
+  </figure>
+  <div class="tbl-wrap" data-need="balance"><table class="tbl" id="tbl-bal">
+    <caption>资产负债与流动性（百万元）</caption>
+    <thead><tr><th>时点</th><th class="n">货币资金</th><th class="n">有息负债</th><th class="n">净负债</th><th class="n">资产负债率</th><th class="n">流动比率</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <ul id="solvency-points"></ul>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-cash">
+    <caption>现金从哪里来、用到哪里（百万元）</caption>
+    <thead><tr><th>年度</th><th class="n">经营现金流</th><th class="n">资本开支</th><th class="n">自由现金流</th><th class="n">分红与付息</th><th class="n">资本开支 / 经营现金流</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  【debt-body】
+</section>
+
+<!-- ============ 04 SENSITIVITY ============ -->
+<section id="sensitivity">
+  <h2><span class="no">04</span>对金价、铜价与市场增长的敏感性</h2>
+  <p class="lede">【sens-lede】</p>
+  <h3>4.1 利润对金属价格的敏感性（示意测算）</h3>
+  【sens-body】
+  <div class="tbl-wrap"><table class="tbl" id="tbl-sens">
+    <thead><tr><th>价格变动 10%</th><th class="n">年化产量</th><th class="n">现价</th><th class="n">税前利润变动</th><th class="n">归母净利润变动</th><th class="n">占年化归母净利润</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-grid">
+    <caption id="cap-grid">年化归母净利润情景（亿元，示意）</caption>
+    <thead id="thead-grid"></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="note" id="note-sens"></p>
+  <h3>4.2 市场层面：对大盘、板块和金价的 β</h3>
+  <ul id="beta-summary"></ul>
+  【sens-after】
+</section>
+
+<!-- ============ 05 GOLD ============ -->
+<section id="gold">
+  <h2><span class="no">05</span>与金价走势的比较</h2>
+  <p class="lede">【gold-lede】</p>
+  <h3>5.1 十年走势：紫金、金价、铜价与大盘</h3>
+  <figure>
+    <figcaption id="cap-glong">累计表现（起点 = 100，紫金含分红，对数坐标，周度）</figcaption>
+    <div class="legend" id="leg-glong"></div>
+    <div class="chart-box" id="ch-glong"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-win">
+    <caption>分区间涨跌幅（紫金与同业含分红；金价、铜价为价格变动）</caption>
+    <thead id="thead-win"></thead>
+    <tbody></tbody>
+  </table></div>
+  【gold-51】
+  <h3>5.2 2025 年以来：金价见顶前后</h3>
+  <figure>
+    <figcaption id="cap-grecent">2024 年末 = 100（日度）</figcaption>
+    <div class="legend" id="leg-grecent"></div>
+    <div class="chart-box" id="ch-grecent"></div>
+  </figure>
+  【gold-52】
+  <h3>5.3 相对金价的强弱</h3>
+  <figure>
+    <figcaption>紫金相对金价、铜价的强弱<span class="cap-sub">紫金（含分红）÷ 金属价格，起点 = 100；上升表示跑赢</span></figcaption>
+    <div class="legend" id="leg-rs"></div>
+    <div class="chart-box" id="ch-rs"></div>
+  </figure>
+  【gold-53】
+  <h3>5.4 联动有多强：多因子模型</h3>
+  <div class="formula">R<sub>紫金</sub> − R<sub>f</sub> = α + β<sub>M</sub>(R<sub>沪深300</sub> − R<sub>f</sub>) + β<sub>G</sub>·R<sub>金价</sub> + β<sub>C</sub>·R<sub>铜价</sub> + e　　金价为上金所 Au99.99，铜价为上期所主力连续，均为人民币价格的变动</div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-gmodel">
+    <caption>三因子模型（日度；括号内为 HAC t 值）</caption>
+    <thead><tr><th>样本期</th><th class="n">对大盘 β</th><th class="n">对金价 β</th><th class="n">对铜价 β</th><th class="n">R²：仅大盘</th><th class="n">+ 金价</th><th class="n">+ 铜价</th><th class="n">仅金价 R²</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-gcomp">
+    <caption>同一模型下的对照（全样本与 2025 年以来；日度与周度）</caption>
+    <thead><tr><th>对象</th><th class="n">金价 β（日）</th><th class="n">铜价 β（日）</th><th class="n">R²（日）</th><th class="n">金价 β（周）</th><th class="n">铜价 β（周）</th><th class="n">R²（周）</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  【gold-54】
+  <div class="two">
+    <figure>
+      <figcaption>252 日滚动 β<span class="cap-sub">紫金日超额收益对金价、铜价的单因子 β</span></figcaption>
+      <div class="legend" id="leg-gbeta"></div>
+      <div class="chart-box" id="ch-gbeta"></div>
+    </figure>
+    <figure>
+      <figcaption>126 日滚动相关系数</figcaption>
+      <div class="legend" id="leg-gcorr"></div>
+      <div class="chart-box" id="ch-gcorr"></div>
+    </figure>
+  </div>
+  【gold-54b】
+  <h3>5.5 金价涨跌月、大涨大跌日与回撤期</h3>
+  <div class="two">
+    <figure>
+      <figcaption>月度收益：紫金 vs 金价<span class="cap-sub" id="cap-gscatter"></span></figcaption>
+      <div class="chart-box" id="ch-gscatter"></div>
+    </figure>
+    <div>
+      <ul id="gold-monthly"></ul>
+    </div>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-gdd">
+    <caption>金价回撤 8% 以上的阶段（人民币金价，峰 → 谷）</caption>
+    <thead><tr><th>金价高点</th><th>低点</th><th class="n">金价</th><th class="n">紫金</th><th class="n">黄金同业</th><th class="n">铜同业</th><th class="n">铜价</th><th class="n">沪深 300</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-bigdays">
+    <caption>金价单日跌幅最大的 8 天与涨幅最大的 8 天</caption>
+    <thead><tr><th>日期</th><th class="n">金价</th><th class="n">紫金</th><th class="n">黄金同业</th><th class="n">铜价</th><th class="n">沪深 300</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  【gold-55】
+  <h3>5.6 利润与金价、铜价</h3>
+  <figure>
+    <figcaption>单季归母净利润与金价、铜价<span class="cap-sub">柱：归母净利润（亿元，左）；线：季度均价，2016Q1 = 100（右侧另读）</span></figcaption>
+    <div class="legend" id="leg-gq"></div>
+    <div class="chart-box" id="ch-gq"></div>
+  </figure>
+  <figure>
+    <figcaption>季度均价（2016Q1 = 100）</figcaption>
+    <div class="legend" id="leg-gq2"></div>
+    <div class="chart-box" id="ch-gq2"></div>
+  </figure>
+  【gold-56】
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">小结</span>【gold-summary】</div>
+  </div>
+</section>
+
+<!-- ============ 06 OUTLOOK ============ -->
+<section id="outlook">
+  <h2><span class="no">06</span>未来规划与公司议程</h2>
+  <p class="lede">【outlook-lede】</p>
+  【outlook-body】
+</section>
+
+<!-- ============ 07 PEERS ============ -->
+<section id="peers">
+  <h2><span class="no">07</span>同业对比：增长、行业规模、股价波动与经营预期</h2>
+  <p class="lede">【peers-lede】</p>
+  <h3>7.1 行业规模</h3>
+  <ul id="industry-list"></ul>
+  【peers-71】
+  <h3>7.2 增长与盈利</h3>
+  <div class="two" data-need="fpeers">
+    <figure>
+      <figcaption id="cap-peer-growth">收入增速（2025 年）</figcaption>
+      <div class="chart-box" id="ch-peer-growth"></div>
+    </figure>
+    <figure>
+      <figcaption>ROE（2025 年）</figcaption>
+      <div class="chart-box" id="ch-peer-roe"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap" data-need="fpeers"><table class="tbl" id="tbl-peer-fin">
+    <caption id="cap-peer-fin">同业财务与估值（按市值排序）</caption>
+    <thead><tr><th>公司</th><th class="n">市值</th><th class="n">收入</th><th class="n">收入同比</th><th class="n">净利润</th><th class="n">净利润同比</th><th class="n">前三季度净利润同比</th><th class="n">ROE</th><th class="n">市盈率</th><th class="n">市净率</th><th class="n">股息率</th><th class="n">净负债/EBITDA</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  【peers-72】
+  <h3>7.3 股价表现与板块内的波动</h3>
+  <figure>
+    <figcaption id="cap-rebased">相对表现（起点 = 100，含分红）</figcaption>
+    <div class="legend" id="leg-rebased"></div>
+    <div class="chart-box" id="ch-rebased"></div>
+  </figure>
+  <div class="two" data-need="peers">
+    <figure>
+      <figcaption>近一年波动率</figcaption>
+      <div class="chart-box" id="ch-peer-vol"></div>
+    </figure>
+    <figure>
+      <figcaption>今年以来收益</figcaption>
+      <div class="chart-box" id="ch-peer-ytd"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap" data-need="peers"><table class="tbl" id="tbl-peer-vol">
+    <caption id="cap-peer-vol">同业股价表现与风险（含分红）</caption>
+    <thead id="thead-peer-vol"></thead>
+    <tbody></tbody>
+  </table></div>
+  【peers-73】
+  <div class="tbl-wrap"><table class="tbl" id="tbl-global">
+    <caption>全球金铜矿企对照（美元计；2024 年以来日收益的三因子模型）</caption>
+    <thead><tr><th>公司</th><th class="n">对金价 β</th><th class="n">对铜价 β</th><th class="n">对标普 β</th><th class="n">R²</th><th class="n">年化波动率</th><th class="n">2025 年</th><th class="n">2026 年以来</th><th class="n">市盈率</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="note" id="note-global"></p>
+  <h3>7.4 经营预期</h3>
+  【peers-74】
+</section>
+
+<!-- ============ 08 VALUATION ============ -->
+<section id="valuation">
+  <h2><span class="no">08</span>估值</h2>
+  <p class="lede">【val-lede】</p>
+  <div class="tiles" role="list" id="val-tiles"></div>
+  <div class="two">
+    <figure>
+      <figcaption>市盈率（TTM）与金价<span class="cap-sub">周度；金价为上金所 Au99.99（元/克）</span></figcaption>
+      <div class="legend" id="leg-pe"></div>
+      <div class="chart-box" id="ch-pe"></div>
+    </figure>
+    <figure>
+      <figcaption>A 股相对 H 股的溢价<span class="cap-sub">A 股收盘价 ÷（H 股收盘价 × 港元兑人民币）− 1，周度</span></figcaption>
+      <div class="chart-box" id="ch-ah"></div>
+    </figure>
+  </div>
+  【val-body】
+  <div class="tbl-wrap"><table class="tbl" id="tbl-targets">
+    <caption>券商评级与目标价（第三方，按日期）</caption>
+    <thead><tr><th>机构</th><th>市场</th><th>评级</th><th class="n">目标价</th><th class="n">相对现价</th><th>日期 / 出处</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  【val-after】
+</section>
+
+<!-- ============ 09 VOLATILITY ============ -->
+<section id="volatility">
+  <h2><span class="no">09</span>波动率分析</h2>
+  <p class="lede" id="vol-lede"></p>
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">基准选择</span><span id="bench-note"></span></div>
+  </div>
+
+  <h3>9.1 价格走势对比</h3>
+  <figure>
+    <figcaption id="cap-price">累计表现（起点 = 100，含分红，对数坐标）</figcaption>
+    <div class="legend" id="leg-price"></div>
+    <div class="chart-box" id="ch-price"></div>
+  </figure>
+
+  <h3>9.2 风险统计总表</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-risk">
+    <thead id="thead-risk"></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-year">
+    <caption>分年度表现与风险</caption>
+    <thead id="thead-year"></thead>
+    <tbody></tbody>
+  </table></div>
+  【vol-92】
+
+  <h3>9.3 滚动波动率与波动聚集</h3>
+  <figure>
+    <figcaption>63 日滚动年化波动率与 GARCH(1,1) 条件波动率</figcaption>
+    <div class="legend" id="leg-vol"></div>
+    <div class="chart-box" id="ch-vol"></div>
+  </figure>
+  <p id="garch-text"></p>
+
+  <h3>9.4 单指数模型与多因子模型</h3>
+  <div class="formula" id="formula-factors"></div>
+  <div class="two">
+    <figure>
+      <figcaption>日超额收益散点<span class="cap-sub" id="cap-scatter"></span></figcaption>
+      <div class="chart-box" id="ch-scatter"></div>
+    </figure>
+    <figure>
+      <figcaption>模型能解释的日收益方差（R²）<span class="cap-sub">其余为公司特有波动</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>模型可解释</span><span class="leg-mid"><i class="box"></i>公司特有</span></div>
+      <div class="chart-box" id="ch-r2"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-sim">
+    <thead id="thead-sim"></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-factors">
+    <caption>市场 + 板块两因子模型：分时期估计</caption>
+    <thead id="thead-factors"></thead>
+    <tbody></tbody>
+  </table></div>
+
+  <h3>9.5 β 与相关性的变化</h3>
+  <div class="two">
+    <figure>
+      <figcaption>252 日滚动 β</figcaption>
+      <div class="legend" id="leg-beta"></div>
+      <div class="chart-box" id="ch-beta"></div>
+    </figure>
+    <figure>
+      <figcaption>126 日滚动相关系数</figcaption>
+      <div class="legend" id="leg-corr"></div>
+      <div class="chart-box" id="ch-corr"></div>
+    </figure>
+  </div>
+  <ul id="beta-points"></ul>
+
+  <h3>9.6 收益分布与回撤</h3>
+  <div class="two">
+    <figure>
+      <figcaption>日收益分布<span class="cap-sub">各区间交易日占比</span></figcaption>
+      <div class="legend" id="leg-hist"></div>
+      <div class="chart-box" id="ch-hist"></div>
+    </figure>
+    <figure>
+      <figcaption>回撤（相对样本内最高点）</figcaption>
+      <div class="legend" id="leg-dd"></div>
+      <div class="chart-box" id="ch-dd"></div>
+    </figure>
+  </div>
+  【vol-summary】
+</section>
+
+<!-- ============ 10 EVENTS ============ -->
+<section id="events">
+  <h2><span class="no">10</span>股价与事件：事件研究</h2>
+  <p class="lede" id="events-lede"></p>
+  <div class="formula" id="ar-formula"></div>
+  <figure>
+    <figcaption>股价与关键事件<span class="cap-sub">悬停或聚焦圆点查看事件；圆点颜色为异常收益方向</span></figcaption>
+    <div class="chart-box" id="ch-events"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-events">
+    <thead id="thead-events"></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>各事件当日异常收益</figcaption>
+      <div class="chart-box" id="ch-ar"></div>
+    </figure>
+    <figure>
+      <figcaption>按年度累计异常收益</figcaption>
+      <div class="chart-box" id="ch-car"></div>
+    </figure>
+  </div>
+  <p id="car-note"></p>
+  <h3>10.1 案例</h3>
+  <ol class="keypoints">
+    【cases】
+  </ol>
+  <h3>10.2 规律总结</h3>
+  <ul id="event-points"></ul>
+  【event-summary】
+</section>
+
+<!-- ============ 11 RISKS ============ -->
+<section id="risks">
+  <h2><span class="no">11</span>主要风险因素</h2>
+  <ol class="keypoints">
+    【risks】
+  </ol>
+</section>
+
+<!-- ============ 12 CONCLUSION ============ -->
+<section id="conclusion">
+  <h2><span class="no">12</span>结论</h2>
+  【conclusion】
+</section>
+
+<!-- ============ 13 APPENDIX ============ -->
+<section id="appendix">
+  <h2><span class="no">13</span>方法说明与数据来源</h2>
+  <ul id="method-list"></ul>
+  <h3>数据来源</h3>
+  <ul id="source-list" class="small"></ul>
+  <p class="small muted">本报告仅供研究学习，不构成投资建议。情景、示意测算与估值区间依赖文中假设；第三方数据（券商目标价、一致预期、行业统计）已注明出处，未经独立核实。</p>
+</section>
+
+</main>
+
+<script>
+const DATA = __DATA_JSON__;
+/*__CHARTS_JS__*/
+
+/* ---------- data and helpers ---------- */
+const S = DATA.series, M = DATA.meta, N = M.names, F = DATA.fund || {}, G = DATA.gold_analysis || {};
+const ME = M.target_code;
+const HAS = { sec: !!M.has_sec, sty: !!M.has_sty, rate: !!M.has_rate, spread: !!(S && S.spread), exdiv: !!(DATA.ex_dividend && DATA.ex_dividend.length), peers: !!(DATA.peers && DATA.peers.length),
+  targets: !!(F.valuation && F.valuation.broker_targets && F.valuation.broker_targets.length),
+  annual: !!(F.annual && F.annual.length), balance: !!(F.balance && F.balance.length), fpeers: !!(F.peers && F.peers.length) };
+document.querySelectorAll('[data-need]').forEach(el => { if (!HAS[el.dataset.need]) el.hidden = true; });
+const CUR = { CNY: '¥', RMB: '¥', HKD: 'HK$', USD: '$' }[F.currency || ''] || '';  // reporting currency (statements)
+const TCUR = { A: '¥', HK: 'HK$', US: '$' }[M.market] || CUR;                       // trading currency (prices, targets)
+const TCUR_NAME = { A: '元', HK: '港元', US: '美元' }[M.market] || '元';
+const UNIT = F.unit_label || '';
+const CAT = { earnings: '业绩', guidance: '指引', deal: '交易/并购', mna: '并购', capital: '资本/股东', financing: '融资', dividend: '分红/除息', product: '产品/研发', contract: '合同/订单', strategic: '战略/合作', operations: '经营', supply: '供给/解禁', sector: '行业', policy: '政策/监管', macro: '宏观/市场', credit: '信用/债务', management: '管理层', legal: '诉讼/合规', commodity: '金属价格' };
+const EV = (DATA.events || []).map((e, i) => ({ ...e, n: i + 1 }));
+const x2 = v => v === null || v === undefined ? '—' : v.toFixed(2);
+const sgn = (v, d = 2) => v === null || v === undefined ? '—' : (v < 0 ? '−' : '') + Math.abs(v).toFixed(d);
+const fmt0 = v => Math.abs(v) < 0.005 ? '0%' : spct(v, 0);
+const tone = v => v === null || v === undefined ? '' : (v < 0 ? 'neg-t' : 'pos-t');
+const tb = id => document.querySelector(`#${id} tbody`);
+const dt = s => s ? s.slice(2, 7).replace('-', '/') : '—';
+const el = id => document.getElementById(id);
+function fillRows(tbody, rows) {
+  if (!tbody) return;
+  rows.forEach(cells => {
+    const tr = document.createElement('tr');
+    if (cells.me) tr.className = 'me';
+    if (cells.grp) tr.className = 'grp';
+    (cells.cells || cells).forEach(c => {
+      const td = document.createElement('td');
+      if (typeof c === 'object' && c !== null) {
+        if (c.n) td.className = 'n';
+        if (c.cls) td.className = (td.className + ' ' + c.cls).trim();
+        if (c.span) td.colSpan = c.span;
+        if (c.href) { const a = document.createElement('a'); a.href = c.href; a.textContent = c.text; a.target = '_blank'; a.rel = 'noopener'; td.appendChild(a); }
+        else td.textContent = c.text;
+      } else td.textContent = c;
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+function head(id, cells, textCols = 1) {
+  const h = el(id); if (!h) return;
+  const tr = document.createElement('tr');
+  cells.forEach((c, i) => { const th = document.createElement('th'); th.textContent = c; if (i >= textCols) th.className = 'n'; tr.appendChild(th); });
+  h.replaceChildren(tr);
+}
+function legend(id, items) {
+  const box = el(id); if (!box) return;
+  box.replaceChildren(...items.filter(Boolean).map(([cls, label, box2]) => { const s = document.createElement('span'); s.className = 'leg-' + cls; const i = document.createElement('i'); if (box2) i.className = 'box'; s.append(i, label); return s; }));
+}
+function bullets(id, items) {
+  const ul = el(id); if (!ul) return;
+  items.filter(Boolean).forEach(([b, t]) => { const li = document.createElement('li'); if (b) { const bb = document.createElement('b'); bb.textContent = b; li.appendChild(bb); } li.appendChild(document.createTextNode(t)); ul.appendChild(li); });
+}
+function tiles(id, items) {
+  const box = el(id); if (!box) return;
+  items.filter(Boolean).forEach(([lab, val, small, dl]) => {
+    const t = document.createElement('div'); t.className = 'tile'; t.setAttribute('role', 'listitem');
+    const a = document.createElement('div'); a.className = 'lab'; a.textContent = lab;
+    const v = document.createElement('div'); v.className = 'val'; v.textContent = val;
+    if (small) { const s = document.createElement('small'); s.textContent = ' ' + small; v.appendChild(s); }
+    const d = document.createElement('div'); d.className = 'dl'; d.textContent = dl || '';
+    t.append(a, v, d); box.appendChild(t);
+  });
+}
+function logTicksFor(vals) {
+  const v = vals.filter(x => x !== null && isFinite(x)), lo = Math.min(...v), hi = Math.max(...v);
+  const cand = [1, 2, 3, 5, 10, 15, 20, 30, 40, 50, 60, 80, 100, 120, 150, 200, 300, 400, 500, 600, 800, 1000, 1500, 2000, 3000, 5000, 10000];
+  let t = cand.filter(c => c >= lo * 0.92 && c <= hi * 1.06);
+  while (t.length > 7) t = t.filter((_, i) => i % 2 === 0);
+  return t.length >= 2 ? t : [lo, hi];
+}
+const keys = ['tgt', 'sec', 'sty', 'mkt'].filter(k => k === 'tgt' || k === 'mkt' || HAS[k]);
+const KC = { tgt: 'c2', mkt: 'c1', sec: 'c3', sty: 'c4' };  // one colour per series in every chart
+const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
+// gold-section series: 紫金 orange, gold amber, copper copper-brown, CSI 300 blue, gold peers green, copper peers purple
+const GC = { zj: 'c2', gold: 'c4', cu: 'c8', mkt: 'c1', gp: 'c3', cp: 'c7' };
+const GN = G.meta ? G.meta.names : {};
+const yi = v => v === null || v === undefined ? '—' : num(v / 100, 0);  // 百万元 -> 亿元
+
+/* ---------- auto text ---------- */
+(() => {
+  const st = DATA.stats, s = st.tgt, sm = DATA.sim_mkt;
+  const bn = [`“市场”为${N.mkt}`, HAS.sec ? `“板块”为 ${M.sector.names.length} 家 A 股金、铜同业的等权日收益（不含本公司）` : '', HAS.sty ? `“金价”为上海黄金交易所 Au99.99 现货收盘价（元/克）` : '', HAS.rate ? '利率因子为 10 年期国债收益率的日变动' : ''].filter(Boolean).join('；');
+  el('bench-note').textContent = bn + '。股价按分红复权（含分红再投资），金价为价格变动。';
+  el('vol-lede').textContent = `样本：${M.start} 至 ${M.end}，共 ${M.n_days.toLocaleString('en-US')} 个日收益观测值。`;
+  el('cap-price').textContent = `累计表现（${M.start} = 100，紫金含分红，对数坐标）`;
+  el('formula-factors').innerHTML = `R<sub>${ME}</sub> − R<sub>f</sub> = α + β<sub>M</sub>(R<sub>M</sub> − R<sub>f</sub>)` + (HAS.sec ? ` + β<sub>S</sub>·F<sub>板块⊥市场</sub>` : '') + (HAS.rate ? ` + β<sub>Y</sub>·Δy<sub>10Y</sub>` : '') + ' + e' + (HAS.sec ? '　　F 为板块指数对市场回归的残差' : '');
+  el('cap-scatter').textContent = `相对${N.mkt}，β = ${sm.beta.toFixed(2)}，R² = ${sm.r2.toFixed(2)}`;
+  const g = DATA.garch.tgt;
+  el('garch-text').textContent = `GARCH(1,1)（学生 t 分布）估计：α = ${g.alpha.toFixed(3)}，β = ${g.beta.toFixed(3)}，持续性 ${g.persistence.toFixed(3)}` + (g.half_life_days ? `，波动冲击的半衰期约 ${Math.round(g.half_life_days)} 个交易日` : '') + (g.long_run_vol_ann ? `，长期均值约 ${pct(g.long_run_vol_ann, 0)}` : '') + `，当前条件波动率约 ${pct(g.current_cond_vol_ann, 0)}。` + `最大的 10 个交易日贡献了 ${pct(DATA.top10_days_var_share, 0)} 的方差。`;
+  const f = DATA.factors;
+  bullets('beta-points', [
+    ['全样本：', `对${N.mkt} β ${sm.beta.toFixed(2)}（R² ${pct(sm.r2, 1)}）` + (HAS.sec ? `，对${N.sec} β ${DATA.sim_sec.beta.toFixed(2)}（R² ${pct(DATA.sim_sec.r2, 1)}）；加入板块因子后 R² 为 ${pct(f.r2_two, 1)}` : '') + '。'],
+    ['非对称：', `市场下跌日 β ${DATA.down_beta_mkt.toFixed(2)}，上涨日 ${DATA.up_beta_mkt.toFixed(2)}；周度 β ${DATA.sim_mkt_weekly.beta.toFixed(2)}，Dimson β ${DATA.dimson_beta_mkt.toFixed(2)}。`],
+    HAS.rate ? ['利率：', `10 年期国债收益率每上行 10bp，股价平均变动 ${spct(f.rate_beta_10bp, 2)}（t = ${f.rate_t.toFixed(1)}）。`] : null,
+  ]);
+  const gz = G.models ? G.models.zj.daily[0] : null, gz25 = G.models ? G.models.zj.daily.find(p => p.label.startsWith('2025')) : null;
+  bullets('beta-summary', [
+    ['市场 β：', `${sm.beta.toFixed(2)}（95% 区间 ${sm.beta_ci95.map(v => v.toFixed(2)).join('–')}），系统性风险占总方差 ${pct(sm.systematic_share, 0)}。`],
+    HAS.sec ? ['板块 β：', `${DATA.sim_sec.beta.toFixed(2)}；板块本身对市场的 β 为 ${DATA.sec_on_mkt.beta.toFixed(2)}。`] : null,
+    gz ? ['金价与铜价 β：', `控制大盘后，金价每涨 1%，紫金当日平均涨 ${gz.b_gold.toFixed(2)}%，铜价每涨 1% 对应 ${gz.b_cu.toFixed(2)}%（全样本）；2025 年以来分别为 ${gz25.b_gold.toFixed(2)}% 和 ${gz25.b_cu.toFixed(2)}%。详见第 05 节。`] : null,
+    HAS.rate ? ['利率：', `每 +10bp ${spct(f.rate_beta_10bp, 2)}（t = ${f.rate_t.toFixed(1)}）` + (DATA.monthly_rate ? `；月度相关系数 ${DATA.monthly_rate.corr.toFixed(2)}` : '') + '。'] : null,
+    ['CAPM 必要回报：', `${pct(DATA.capm.required_return, 1)}（无风险利率 ${pct(DATA.capm.rf_latest, 2)}，股权风险溢价 ${pct(DATA.capm.erp, 0)}）。`],
+  ]);
+  el('events-lede').textContent = `用“${N.mkt}` + (HAS.sec ? ` + ${N.sec}”两因子模型` : '”市场模型') + `剔除大盘与行业（含金属价格）的影响，计算事件反应日的异常收益（AR），并用残差标准差检验显著性。`;
+  el('ar-formula').innerHTML = `AR<sub>t</sub> = R<sub>t</sub> − (α̂ + β̂<sub>M</sub> R<sub>M,t</sub>` + (HAS.sec ? ` + β̂<sub>S</sub> F<sub>t</sub>` : '') + `)　　t = AR / σ(e)，σ(e) = ${(DATA.resid_sd_daily * 100).toFixed(2)}%；|t| &gt; 1.96 视为在 5% 水平显著`;
+  const cy = DATA.car_by_year, yrs = Object.keys(cy);
+  el('car-note').textContent = `按年度累计异常收益：` + yrs.slice(-4).map(y => `${y} 年 ${spct(cy[y], 0)}`).join('，') + '。';
+  if (EV.length) {
+    const earn = DATA.earnings_abs_move_avg;
+    const sig = EV.filter(e => Math.abs(e.ar_t) > 1.96).length;
+    bullets('event-points', [
+      ['显著事件：', `${EV.length} 个事件中 ${sig} 个的当日异常收益在 5% 水平显著。`],
+      earn ? ['业绩日：', `业绩发布后首个交易日平均绝对涨跌 ${pct(earn, 1)}，其他交易日平均 ${pct(DATA.normal_abs_move_avg, 1)}。`] : null,
+    ]);
+  }
+  const methods = [
+    `行情：${M.start} 至 ${M.end} 的日度数据；个股用分红复权价，沪深 300 用全收益指数，金价用上海黄金交易所 Au99.99 现货收盘价，铜价用上期所沪铜主力连续合约收盘价（换月处拼接）。年化按 252 个交易日，波动率用对数收益，β 与事件研究用超额简单收益（减无风险利率）。`,
+    `模型：单指数模型（OLS，HAC 稳健标准误）` + (HAS.sec ? '，板块因子为同业等权指数对市场回归的残差' : '') + '；与金价的比较用“大盘 + 金价 + 铜价”三因子模型（日度与周度），金属价格直接以价格变动进入模型；GARCH(1,1) 学生 t 分布；滚动窗口 63 / 126 / 252 日。',
+    `同业：13 家 A 股金、铜上市公司（黄金 7 家、铜 6 家）。赤峰黄金已于 2026-10-22 成为紫金控股子公司，藏格矿业自 2025-04-30 起为紫金控股子公司，均未纳入。每家公司的板块 β 用不含其自身的等权指数计算（留一法）；排名由程序计算。`,
+    `事件研究：事件日为市场首次能够反应的交易日（盘后或周末公告取下一交易日）；AR 用全样本模型估计，t = AR/σ(e)；CAR 为事件日起 6 个交易日的累计。`,
+    `示意测算：金属价格敏感性和利润情景按 2026 年第三季度的年化产量、税率和少数股东占比推算，不是盈利预测。`,
+  ].filter(Boolean);
+  bullets('method-list', methods.map(t => [null, t]));
+  const src = (F.sources || []).map(s => [s.label, s.url]).concat(EV.filter(e => e.source).map(e => [`${e.day0} ${e.short || e.title}`, e.source]));
+  const ul = el('source-list');
+  src.forEach(([lab, url]) => { const li = document.createElement('li'); const a = document.createElement('a'); a.href = url; a.textContent = lab; a.target = '_blank'; a.rel = 'noopener'; li.appendChild(a); ul.appendChild(li); });
+})();
+
+/* ---------- tiles ---------- */
+(() => {
+  const s = DATA.stats.tgt, V = F.valuation || {}, w0 = (G.windows || [])[0] || {}, gz = G.models ? G.models.zj.daily[0] : null;
+  tiles('tiles', [
+    [`收盘价（${M.end.slice(5).replace('-', '/')}）`, TCUR + M.last_raw_close.toFixed(2), '', V.mcap ? `总市值 ${num(V.mcap / 100, 0)} 亿元；较高点 ${fmt0(s.current_drawdown)}` : `较样本内高点 ${fmt0(s.current_drawdown)}`],
+    V.pe_ttm ? ['市盈率 / 市净率', V.pe_ttm.toFixed(1) + 'x', '/ ' + (V.pb ? V.pb.toFixed(2) + 'x' : '—'), V.dy ? `股息率 ${pct(V.dy, 1)}（2025 年度分红）` : ''] : null,
+    [`${M.start.slice(0, 4)} 年以来累计（含分红）`, spct(s.total_return, 0), '', `金价 ${spct(w0.gold, 0)}，铜价 ${spct(w0.cu, 0)}，${N.mkt} ${spct(DATA.stats.mkt.total_return, 0)}`],
+    gz ? ['对金价 β（控制大盘与铜价）', gz.b_gold.toFixed(2), '/ 铜 ' + gz.b_cu.toFixed(2), `日度，${M.start.slice(0, 4)} 年以来；R² ${pct(gz.r2_all, 0)}`] : null,
+    ['年化波动率', pct(s.ann_vol, 0), '', `金价 ${pct(DATA.stats.sty.ann_vol, 0)}，${N.mkt} ${pct(DATA.stats.mkt.ann_vol, 0)}` + (HAS.sec ? `，${N.sec} ${pct(DATA.stats.sec.ann_vol, 0)}` : '')],
+    ['最大回撤', spct(s.max_drawdown, 0), '', `${dt(s.mdd_peak)} → ${dt(s.mdd_trough)}；当前较高点 ${fmt0(s.current_drawdown)}`],
+  ]);
+  if (V.price) tiles('val-tiles', [
+    ['市盈率 / 市净率', V.pe_ttm ? V.pe_ttm.toFixed(1) + 'x' : '—', '/ ' + (V.pb ? V.pb.toFixed(2) + 'x' : '—'), [V.pe_pct ? `市盈率历史 ${pct(V.pe_pct, 0)} 分位` : '', V.pb_pct ? `市净率 ${pct(V.pb_pct, 0)} 分位` : ''].filter(Boolean).join('，')],
+    ['EV/EBITDA', V.ev_ebitda ? V.ev_ebitda.toFixed(1) + 'x' : '—', '', V.ev ? `企业价值 ${num(V.ev / 100, 0)} 亿元（2025 年 EBITDA）` : ''],
+    ['股息率', V.dy ? pct(V.dy, 1) : '—', '', V.dps ? `2025 年度每股 ${CUR}${V.dps.toFixed(2)}` : ''],
+  ]);
+})();
+
+/* ---------- tables ---------- */
+(() => {
+  const st = DATA.stats;
+  head('thead-risk', [`指标（${dt(M.start)} – ${dt(M.end)}）`, ...keys.map(k => N[k])]);
+  const row = (lab, f, cls) => [lab, ...keys.map(k => ({ n: 1, text: f(st[k]), cls: cls ? cls(st[k]) : '' }))];
+  fillRows(tb('tbl-risk'), [
+    row('累计收益 / 年化收益', s => spct(s.total_return, 0) + ' / ' + spct(s.ann_return_geo, 1)),
+    row('年化波动率（对数收益）', s => pct(s.ann_vol, 1)),
+    row('年化下行偏差', s => pct(s.downside_dev_ann, 1)),
+    row('日 VaR 95% / CVaR 95%', s => pct(s.var95_hist, 1) + ' / ' + pct(s.cvar95_hist, 1)),
+    row('日 VaR 99% / CVaR 99%', s => pct(s.var99_hist, 1) + ' / ' + pct(s.cvar99_hist, 1)),
+    row('偏度 / 超额峰度', s => sgn(s.skew) + ' / ' + sgn(s.excess_kurtosis)),
+    row('单日涨跌幅 >3% / >5% 的天数', s => s.days_abs_gt_3pct + ' / ' + s.days_abs_gt_5pct),
+    row('最大回撤', s => spct(s.max_drawdown, 1) + '（' + dt(s.mdd_peak) + '→' + dt(s.mdd_trough) + '）', () => 'neg-t'),
+    row('当前回撤', s => spct(s.current_drawdown, 1), () => 'neg-t'),
+    row('夏普比率 / 索提诺比率', s => sgn(s.sharpe) + ' / ' + sgn(s.sortino)),
+  ]);
+  const yk = keys;
+  head('thead-year', ['年份', ...yk.map(k => N[k]), `${N.tgt}波动率`, '对市场 β', ...(HAS.sec ? ['对板块 β'] : []), ...(HAS.rate ? ['10 年国债变动'] : []), '年内最大回撤']);
+  fillRows(tb('tbl-year'), DATA.by_year.map(y => [y.year === +M.end.slice(0, 4) ? `${y.year}（至${M.end.slice(5).replace('-', '/')}）` : String(y.year),
+    ...yk.map(k => ({ n: 1, text: spct(y['ret_' + k], 1), cls: tone(y['ret_' + k]) })), { n: 1, text: pct(y.vol_tgt, 1) }, { n: 1, text: x2(y.beta_mkt) },
+    ...(HAS.sec ? [{ n: 1, text: x2(y.beta_sec) }] : []),
+    ...(HAS.rate ? [{ n: 1, text: (y.y10_chg >= 0 ? '+' : '−') + Math.abs(Math.round(y.y10_chg * 100)) + 'bp', cls: tone(-y.y10_chg) }] : []),
+    { n: 1, text: spct(y.mdd, 1), cls: 'neg-t' }]));
+  const sims = [['对' + N.mkt, DATA.sim_mkt], HAS.sec ? ['对' + N.sec, DATA.sim_sec] : null, HAS.sty ? ['对' + N.sty, DATA.sim_sty] : null].filter(Boolean);
+  head('thead-sim', ['单因子模型（日度）', ...sims.map(s => s[0])]);
+  const r = (lab, f) => [lab, ...sims.map(([, s]) => ({ n: 1, text: f(s) }))];
+  fillRows(tb('tbl-sim'), [
+    r('β（OLS）', s => s.beta.toFixed(2)), r('95% 置信区间', s => s.beta_ci95.map(v => v.toFixed(2)).join('–')),
+    r('HAC 稳健标准误', s => s.beta_se_hac.toFixed(3)), r('R² / 相关系数', s => s.r2.toFixed(3) + ' / ' + s.corr.toFixed(2)),
+    r('α（年化）', s => pct(s.alpha_ann, 1) + '（t=' + s.alpha_t.toFixed(2) + '）'), r('残差波动率 σ(e)', s => pct(s.resid_vol_ann, 1)),
+  ]);
+  head('thead-factors', ['样本期', '市场单因子 R²', ...(HAS.sec ? ['加入板块后 R²', '板块因子 β'] : []), '对市场 β', ...(HAS.rate ? ['利率 +10bp', '利率 t 值'] : [])]);
+  const fr = (lab, f) => [lab, { n: 1, text: pct(f.r2_mkt, 1) }, ...(HAS.sec ? [{ n: 1, text: pct(f.r2_two, 1) }, { n: 1, text: f.beta_sec_o.toFixed(2) }] : []), { n: 1, text: f.beta_mkt.toFixed(2) },
+    ...(HAS.rate ? [{ n: 1, text: spct(f.rate_beta_10bp, 2), cls: tone(f.rate_beta_10bp) }, { n: 1, text: f.rate_t.toFixed(1), cls: Math.abs(f.rate_t) > 1.96 ? 'sig' : '' }] : [])];
+  fillRows(tb('tbl-factors'), [fr(`全样本 ${M.start.slice(0, 4)}–${M.end.slice(0, 4)}`, DATA.factors), ...(DATA.factors_periods || []).map(p => fr(p.label, p))]);
+  if (EV.length) {
+    head('thead-events', ['#', '反应日', '事件', '类别', '当日涨跌', ...(HAS.sec ? ['板块'] : [N.mkt]), '异常收益', 't 值', '6 日 CAR'], 4);
+    fillRows(tb('tbl-events'), EV.map(e => [{ text: String(e.n) }, { text: e.day0, cls: 'num nw' }, { text: e.title, href: e.source, cls: 'w' }, { text: CAT[e.category] || e.category || '', cls: 'nw' },
+      { n: 1, text: spct(e.ret_tgt), cls: tone(e.ret_tgt) }, { n: 1, text: spct(HAS.sec ? e.ret_sec : e.ret_mkt) },
+      { n: 1, text: spct(e.ar), cls: tone(e.ar) + (Math.abs(e.ar_t) > 1.96 ? ' sig' : '') }, { n: 1, text: e.ar_t.toFixed(1), cls: Math.abs(e.ar_t) > 1.96 ? 'sig' : '' },
+      { n: 1, text: spct(e.car_0_p5), cls: tone(e.car_0_p5) }]));
+  }
+  if (HAS.peers) {
+    const P = DATA.peers, pk = Object.keys(P[0]).filter(k => /^ret_/.test(k));
+    const lab = k => k === 'ret_ytd' ? '今年以来' : k === 'ret_3y' ? '近三年' : k.replace('ret_', '') + ' 年';
+    head('thead-peer-vol', ['公司', ...pk.map(lab), '近一年波动率', '对市场 β', '对板块 β', ...(HAS.rate ? ['利率 +10bp'] : []), '距高点']);
+    fillRows(tb('tbl-peer-vol'), P.slice().sort((a, b) => (b.ret_3y ?? -9) - (a.ret_3y ?? -9)).map(p => ({ me: p.code === ME, cells: [p.name, ...pk.map(k => ({ n: 1, text: spct(p[k], 0), cls: tone(p[k]) })), { n: 1, text: pct(p.vol_1y, 0) }, { n: 1, text: x2(p.beta_mkt) }, { n: 1, text: x2(p.beta_sec) }, ...(HAS.rate ? [{ n: 1, text: spct(p.rate_10bp, 2), cls: tone(p.rate_10bp) }] : []), { n: 1, text: fmt0(p.dd_from_high), cls: 'neg-t' }] })));
+  }
+  const A = F.annual || [];
+  fillRows(tb('tbl-annual'), A.map(a => [a.y + ' 年', { n: 1, text: num(a.revenue) }, { n: 1, text: spct(a.revenue_yoy, 1), cls: tone(a.revenue_yoy) }, { n: 1, text: pct(a.gross_margin, 1) }, { n: 1, text: num(a.np) }, { n: 1, text: spct(a.np_yoy, 1), cls: tone(a.np_yoy) }, { n: 1, text: num(a.np_adj) }, { n: 1, text: spct(a.np_adj_yoy, 1), cls: tone(a.np_adj_yoy) }, { n: 1, text: pct(a.roe, 1) }, { n: 1, text: num(a.ocf) }, { n: 1, text: num(a.capex) }, { n: 1, text: a.dps === null || a.dps === undefined ? '—' : a.dps.toFixed(3) }]));
+  fillRows(tb('tbl-bal'), (F.balance || []).map(b => [b.p, { n: 1, text: num(b.cash) }, { n: 1, text: num(b.debt) }, { n: 1, text: num(b.net_debt) }, { n: 1, text: pct(b.debt_asset, 1) }, { n: 1, text: b.current_ratio ? b.current_ratio.toFixed(2) : '—' }]));
+  const sv = F.solvency || {};
+  bullets('solvency-points', [
+    sv.nd_ebitda !== undefined ? ['净负债 / EBITDA：', `${sv.nd_ebitda < 0 ? '净现金' : sv.nd_ebitda.toFixed(2) + ' 倍'}` + (sv.date ? `（${sv.date} 净负债 ÷ 2025 年 EBITDA）` : '') + '。'] : null,
+    sv.interest_cover !== undefined ? ['利息保障倍数：', `${sv.interest_cover.toFixed(1)} 倍（2025 年 EBIT ÷ 费用化与资本化利息）。`] : null,
+    sv.loan_rate_range ? ['借款利率：', `${pct(sv.loan_rate_range[0], 2)}–${pct(sv.loan_rate_range[1], 2)}。`] : null,
+    ...(sv.extra || []),
+  ]);
+  const FP = (F.peers || []).slice().sort((a, b) => b.mcap - a.mcap);
+  fillRows(tb('tbl-peer-fin'), FP.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap / 100) }, { n: 1, text: num(p.revenue) }, { n: 1, text: spct(p.revenue_yoy, 1), cls: tone(p.revenue_yoy) }, { n: 1, text: num(p.np) }, { n: 1, text: spct(p.np_yoy, 1), cls: tone(p.np_yoy) }, { n: 1, text: spct(p.np_h_yoy, 0), cls: tone(p.np_h_yoy) }, { n: 1, text: pct(p.roe, 1) }, { n: 1, text: p.pe_ttm > 0 ? p.pe_ttm.toFixed(1) + 'x' : '—' }, { n: 1, text: p.pb ? p.pb.toFixed(2) + 'x' : '—' }, { n: 1, text: pct(p.dy, 1) }, { n: 1, text: p.nd_ebitda === null || p.nd_ebitda === undefined ? '—' : p.nd_ebitda < 0 ? '净现金' : p.nd_ebitda.toFixed(1) + 'x' }] })));
+  const V = F.valuation || {};
+  const cur = { A: '¥', H: 'HK$' };
+  const hk = G.meta && G.meta.hkdcny ? G.meta.hkdcny : null;
+  fillRows(tb('tbl-targets'), (V.broker_targets || []).map(t => {
+    const px = t.market === 'H' ? V.h_price_hkd : M.last_raw_close;
+    const up = px ? t.target / px - 1 : null;
+    return [t.broker, t.market === 'H' ? 'H 股' : 'A 股', t.rating || '—', { n: 1, text: (cur[t.market] || TCUR) + t.target.toFixed(2) }, { n: 1, text: up === null ? '—' : spct(up, 0), cls: tone(up) }, t.url ? { text: t.date || '来源', href: t.url } : (t.date || '—')];
+  }));
+  const il = el('industry-list');
+  (F.industry || []).forEach(i => { const li = document.createElement('li'); const b = document.createElement('b'); b.textContent = i.label + '：'; li.appendChild(b); li.appendChild(document.createTextNode(i.value + ' ')); if (i.url) { const a = document.createElement('a'); a.href = i.url; a.textContent = '来源'; a.target = '_blank'; a.rel = 'noopener'; li.appendChild(a); } il.appendChild(li); });
+
+  /* company-specific tables */
+  const PR = F.production || [];
+  const f1 = (v, d = 1) => v === null || v === undefined ? '—' : num(v, d);
+  fillRows(tb('tbl-prod'), PR.map(p => ({ grp: !!p.plan, cells: [p.p, { n: 1, text: f1(p.gold, 1) }, { n: 1, text: f1(p.copper, 1) }, { n: 1, text: f1(p.zinc, 1) }, { n: 1, text: f1(p.silver, 0) }, { n: 1, text: f1(p.lce, 1) }] })));
+  if (F.production_note) el('note-prod').textContent = F.production_note;
+  const U = F.unit_econ || [];
+  fillRows(tb('tbl-unit'), U.map(u => [u.y, { n: 1, text: f1(u.au_price, 0) }, { n: 1, text: f1(u.au_cost, 0) }, { n: 1, text: pct(u.au_gm, 1) }, { n: 1, text: f1(u.cu_price, 0) }, { n: 1, text: f1(u.cu_cost, 0) }, { n: 1, text: pct(u.cu_gm, 1) }]));
+  if (F.unit_note) el('note-unit').textContent = F.unit_note;
+  const QT = F.quarters || [];
+  fillRows(tb('tbl-quarter'), QT.map(q => [q.q, { n: 1, text: f1(q.rev, 0) }, { n: 1, text: spct(q.rev_yoy, 0), cls: tone(q.rev_yoy) }, { n: 1, text: f1(q.np, 1) }, { n: 1, text: spct(q.np_yoy, 0), cls: tone(q.np_yoy) }, { n: 1, text: f1(q.gold, 0) }, { n: 1, text: f1(q.cu, 0) }]));
+  const CF = F.cash_uses || [];
+  fillRows(tb('tbl-cash'), CF.map(c => [c.y, { n: 1, text: num(c.ocf) }, { n: 1, text: num(c.capex) }, { n: 1, text: num(c.fcf), cls: tone(c.fcf) }, { n: 1, text: num(c.div_int) }, { n: 1, text: pct(c.capex / c.ocf, 0) }]));
+  const SE = F.sensitivity || {};
+  fillRows(tb('tbl-sens'), (SE.rows || []).map(s => [s.label, { n: 1, text: s.volume }, { n: 1, text: s.price }, { n: 1, text: '±' + num(s.d_pretax, 0) + ' 亿元' }, { n: 1, text: '±' + num(s.d_np, 0) + ' 亿元' }, { n: 1, text: '±' + pct(s.share, 1) }]));
+  if (SE.grid) {
+    el('cap-grid').textContent = SE.grid.caption;
+    head('thead-grid', [SE.grid.corner, ...SE.grid.cols], 1);
+    fillRows(tb('tbl-grid'), SE.grid.rows.map(r => [r.label, ...r.values.map((v, j) => ({ n: 1, text: num(v, 0), cls: (r.base && SE.grid.base_col === j) ? 'hl' : '' }))]));
+  }
+  if (SE.note) el('note-sens').textContent = SE.note;
+  const GL = G.global || [];
+  fillRows(tb('tbl-global'), GL.map(g => [`${g.name}（${g.ticker}）`, { n: 1, text: x2(g.b_gold) }, { n: 1, text: x2(g.b_cu) }, { n: 1, text: x2(g.b_mkt) }, { n: 1, text: pct(g.r2, 0) }, { n: 1, text: pct(g.vol, 0) }, { n: 1, text: spct(g.ret_2025, 0), cls: tone(g.ret_2025) }, { n: 1, text: spct(g.ret_ytd, 0), cls: tone(g.ret_ytd) }, { n: 1, text: g.pe ? g.pe.toFixed(1) + 'x' : '—' }]));
+  if (F.global_note) el('note-global').textContent = F.global_note;
+})();
+
+/* ---------- gold section: tables and text ---------- */
+(() => {
+  if (!G.meta) return;
+  const W = G.windows || [];
+  const cols = [['zj', '紫金'], ['gold', '金价（元）'], ['gold_usd', '金价（美元）'], ['cu', '铜价（元）'], ['mkt', '沪深 300'], ['gp', '黄金同业'], ['cp', '铜同业']];
+  head('thead-win', ['区间', ...cols.map(c => c[1])]);
+  fillRows(tb('tbl-win'), W.map(w => [w.label, ...cols.map(([k]) => ({ n: 1, text: w[k] === null || w[k] === undefined ? '—' : spct(w[k], 0), cls: tone(w[k]) + (k === 'zj' ? ' sig' : '') }))]));
+  const tv = (b, t) => `${b.toFixed(2)}（${t.toFixed(1)}）`;
+  fillRows(tb('tbl-gmodel'), G.models.zj.daily.map(p => [p.label === '全样本' ? `全样本 ${G.meta.start.slice(0, 4)}–${G.meta.end.slice(0, 4)}` : p.label, { n: 1, text: tv(p.b_mkt, p.t_mkt) }, { n: 1, text: tv(p.b_gold, p.t_gold), cls: 'sig' }, { n: 1, text: tv(p.b_cu, p.t_cu) }, { n: 1, text: pct(p.r2_mkt, 0) }, { n: 1, text: pct(p.r2_mkt_gold, 0) }, { n: 1, text: pct(p.r2_all, 0) }, { n: 1, text: pct(p.r2_gold_only, 0) }]));
+  const pick = (who, lab) => { const m = G.models[who]; const d = m.daily.find(p => p.label === lab), w = m.weekly.find(p => p.label === lab); return [d, w]; };
+  const rows = [];
+  [['全样本', `全样本 ${G.meta.start.slice(0, 4)}–${G.meta.end.slice(0, 4)}`], ['2025 年以来', '2025 年以来']].forEach(([lab, title]) => {
+    rows.push({ grp: true, cells: [{ text: title, span: 7 }] });
+    [['zj', '紫金矿业'], ['gp', '黄金同业（7 家等权）'], ['cp', '铜同业（6 家等权）']].forEach(([k, name]) => {
+      const [d, w] = pick(k, lab);
+      rows.push({ me: k === 'zj', cells: [name, { n: 1, text: d.b_gold.toFixed(2) }, { n: 1, text: d.b_cu.toFixed(2) }, { n: 1, text: pct(d.r2_all, 0) }, { n: 1, text: w.b_gold.toFixed(2) }, { n: 1, text: w.b_cu.toFixed(2) }, { n: 1, text: pct(w.r2_all, 0) }] });
+    });
+  });
+  fillRows(tb('tbl-gcomp'), rows);
+  const mo = G.monthly;
+  el('cap-gscatter').textContent = `${mo.n} 个月；β = ${mo.beta.toFixed(2)}，相关系数 ${mo.corr.toFixed(2)}`;
+  bullets('gold-monthly', [
+    ['金价上涨的月份：', `${mo.n_up} 个月，金价平均 ${spct(mo.avg_gold_up, 1)}，紫金平均 ${spct(mo.avg_zj_gold_up, 1)}，其中 ${pct(mo.hit_up, 0)} 的月份紫金也上涨。`],
+    ['金价下跌的月份：', `${mo.n_down} 个月，金价平均 ${spct(mo.avg_gold_down, 1)}，紫金平均 ${spct(mo.avg_zj_gold_down, 1)}，其中 ${pct(mo.hit_down, 0)} 的月份紫金也下跌。`],
+    ['捕获率：', `上涨月捕获金价涨幅的 ${pct(mo.up_capture, 0)}，下跌月捕获跌幅的 ${pct(mo.down_capture, 0)}。`],
+    ['领先滞后：', (() => { const L = G.leadlag; const c0 = L.find(l => l.lag === 0), c1 = L.find(l => l.lag === 1), cm1 = L.find(l => l.lag === -1); return `周收益的同期相关系数 ${c0.corr_gold.toFixed(2)}；金价领先一周 ${c1.corr_gold.toFixed(2)}，紫金领先一周 ${cm1.corr_gold.toFixed(2)}。`; })()],
+  ]);
+  fillRows(tb('tbl-gdd'), (G.gold_drawdowns || []).map(d => [d.peak, d.ongoing ? d.trough + '（未收复）' : d.trough, ...['gold', 'zj', 'gp', 'cp', 'cu', 'mkt'].map(k => ({ n: 1, text: spct(d[k], 0), cls: tone(d[k]) + (k === 'zj' ? ' sig' : '') }))]));
+  const B = G.big_gold_days;
+  const brow = d => [d.date, ...['gold', 'zj', 'gp', 'cu', 'mkt'].map(k => ({ n: 1, text: spct(d[k], 1), cls: tone(d[k]) }))];
+  fillRows(tb('tbl-bigdays'), [{ grp: true, cells: [{ text: '金价跌幅最大的 8 天', span: 6 }] }, ...B.down.slice(0, 8).map(brow), { grp: true, cells: [{ text: '金价涨幅最大的 8 天', span: 6 }] }, ...B.up.slice(0, 8).map(brow)]);
+})();
+
+/* ---------- charts ---------- */
+const meCls = (code, base) => code === ME ? 'f2' : base;
+const RB = DATA.rebased;
+el('unit-rev').textContent = UNIT ? `（${UNIT}）` : '';
+el('unit-bal').textContent = UNIT ? `（${UNIT}）` : '';
+el('cap-rebased').textContent = RB ? `相对表现（${RB.base_date} 收盘 = 100，含分红；金价为价格）` : '';
+if ((F.peers || []).length) el('cap-peer-fin').textContent = `同业财务与估值（按市值排序；市值单位：亿${TCUR_NAME}` + (UNIT ? `，收入与净利润单位：${UNIT}` : '') + '；2025 年报口径，前三季度为 2026 年同比）';
+legend('leg-price', keys.map(k => [KC[k], N[k]]));
+legend('leg-vol', [['c2', N.tgt + ' 63 日'], ['c7', N.tgt + ' GARCH'], HAS.sec ? ['c3', N.sec + ' 63 日'] : null, ['c1', N.mkt + ' 63 日']]);
+legend('leg-beta', [['c1', '对' + N.mkt], HAS.sec ? ['c3', '对' + N.sec] : null]);
+legend('leg-corr', [HAS.sec ? ['c3', '与' + N.sec] : null, ['c1', '与' + N.mkt]]);
+legend('leg-hist', [['c2', N.tgt, true], HAS.sec ? ['c3', N.sec, true] : ['c1', N.mkt, true]]);
+legend('leg-dd', [['c2', N.tgt], HAS.sec ? ['c3', N.sec] : null, ['c1', N.mkt]]);
+legend('leg-rev', [['c1', '收入', true], ['c2', '归母净利润', true], ['c3', '扣非净利润', true]]);
+legend('leg-bal', [['c1', '货币资金', true], ['c2', '有息负债', true]]);
+const RB_PEER = RB ? Object.keys(RB).find(k => /^\d|^[A-Z]/.test(k) && k !== ME) : null;
+const peerName = k => (DATA.peers || []).find(p => p.code === k)?.name || k;
+if (RB) legend('leg-rebased', [['c2', N.tgt], HAS.sec ? ['c3', N.sec] : null, ['c1', N.mkt], HAS.sty ? ['c4', N.sty] : null, RB_PEER ? ['c7', peerName(RB_PEER)] : null]);
+const gl = ks => ks.map(k => [GC[k], GN[k]]);
+legend('leg-glong', gl(['zj', 'gold', 'cu', 'mkt']));
+legend('leg-grecent', gl(['zj', 'gold', 'cu', 'gp', 'cp', 'mkt']));
+legend('leg-rs', [['c4', '紫金 ÷ 金价'], ['c8', '紫金 ÷ 铜价'], ['c3', '黄金同业 ÷ 金价']]);
+legend('leg-gbeta', [['c4', '对金价'], ['c8', '对铜价'], ['c3', '黄金同业对金价']]);
+legend('leg-gcorr', [['c4', '与金价'], ['c8', '与铜价'], ['c1', '与沪深 300']]);
+legend('leg-gq', [['c2', '归母净利润（亿元）', true]]);
+legend('leg-gq2', [['c4', '金价'], ['c8', '铜价']]);
+legend('leg-pe', [['c2', '市盈率（TTM，左）']]);
+const GP = F.gp_mix || {};
+if (GP.parts) { legend('leg-gpmix', GP.parts.map(p => [p.cls.replace('f', 'c'), p.name, true])); el('cap-gpmix').textContent = GP.caption || ''; }
+const charts = {
+  'ch-price': e => lineChart(e, { x: S.date, series: keys.map(k => ({ label: N[k], values: S[k + '_idx'], cls: KC[k], endLabel: true })), yfmt: v => num(v), ylog: true, logTicks: logTicksFor(keys.flatMap(k => S[k + '_idx'])), refs: [{ y: 100, label: '' }], height: 300, aria: '累计表现对比' }),
+  'ch-vol': e => lineChart(e, { x: S.date, series: [{ label: N.tgt + ' 63日', values: S.vol63_tgt, cls: 'c2' }, { label: N.tgt + ' GARCH', values: S.garch_tgt, cls: 'c7', thin: true }, ...(HAS.sec ? [{ label: N.sec + ' 63日', values: S.vol63_sec, cls: 'c3' }] : []), { label: N.mkt + ' 63日', values: S.vol63_mkt, cls: 'c1' }], yfmt: v => pct(v, 0), height: 280, aria: '滚动波动率' }),
+  'ch-beta': e => lineChart(e, { x: S.date, series: [{ label: '对' + N.mkt, values: S.beta252_mkt, cls: 'c1' }, ...(HAS.sec ? [{ label: '对' + N.sec, values: S.beta252_sec, cls: 'c3' }] : [])], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), refs: [{ y: 1, label: 'β = 1', side: 'left' }], height: 240, aria: '滚动贝塔' }),
+  'ch-corr': e => lineChart(e, { x: S.date, series: [...(HAS.sec ? [{ label: '与' + N.sec, values: S.corr126_sec, cls: 'c3' }] : []), { label: '与' + N.mkt, values: S.corr126_mkt, cls: 'c1' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), yMax: 1, height: 240, aria: '滚动相关系数' }),
+  'ch-r2': e => stackChart(e, { items: [{ label: '市场', share: DATA.factors.r2_mkt }, ...(HAS.sec ? [{ label: '市场 + 板块', share: DATA.factors.r2_two }] : []), ...(G.models ? [{ label: '市场 + 金价 + 铜价', share: G.models.zj.daily[0].r2_all }] : [])], aria: '可解释方差占比' }),
+  'ch-scatter': e => scatterChart(e, { x: DATA.scatter.x, y: DATA.scatter.y, dates: DATA.scatter.dates, a: DATA.scatter.a, b: DATA.scatter.b, height: 280, xName: N.mkt + '超额收益', yName: N.tgt + '超额收益', aria: '超额收益散点' }),
+  'ch-hist': e => { const H = DATA.hist, other = HAS.sec ? 'sec' : 'mkt'; const tot = H.tgt.reduce((a, b) => a + b, 0); const sg = v => (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(Math.round(v * 100)) + '%'; const step = H.bins[1] - H.bins[0]; const labs = H.bins.slice(0, -1).map((b, i) => sg(b) + ' 至 ' + sg(H.bins[i + 1])); const ax = H.bins.slice(0, -1).map(b => Math.abs(Math.round(b / step)) % 5 === 0 ? sg(b) : ''); barChart(e, { labels: labs, axisLabels: ax, series: [{ label: N.tgt, values: H.tgt.map(v => v / tot), cls: 'f2' }, { label: N[other], values: H[other].map(v => v / tot), cls: KF[other] }], yfmt: v => pct(v, 0), tfmt: v => pct(v, 1) + ' 的交易日', height: 250, aria: '日收益分布' }); },
+  'ch-dd': e => lineChart(e, { x: S.date, series: [{ label: N.tgt, values: S.dd_tgt, cls: 'c2' }, ...(HAS.sec ? [{ label: N.sec, values: S.dd_sec, cls: 'c3' }] : []), { label: N.mkt, values: S.dd_mkt, cls: 'c1', thin: true }], yfmt: v => pct(v, 0), yMax: 0, height: 250, aria: '回撤' }),
+  'ch-events': e => { if (!EV.length) return; const idx = d => S.date.indexOf(d); const markers = EV.map(ev => ({ i: idx(ev.day0), n: ev.n, up: ev.ar >= 0, cls: ev.ar >= 0 ? 'fpos' : 'fneg', title: `#${ev.n} ${ev.day0} · ${CAT[ev.category] || ''}`, aria: `事件${ev.n} ${ev.title}`, desc: ev.title, rows: [{ cls: ev.ret_tgt >= 0 ? 'fpos' : 'fneg', value: spct(ev.ret_tgt), label: '当日' }, { cls: 'f1', value: spct(ev.ret_mkt), label: N.mkt }, { cls: ev.ar >= 0 ? 'fpos' : 'fneg', value: spct(ev.ar), label: `异常收益（t=${ev.ar_t.toFixed(1)}）` }] })).filter(m => m.i >= 0); lineChart(e, { x: S.date, series: [{ label: '收盘价', values: S.tgt_px, cls: 'c2' }], yfmt: v => Number.isInteger(v) ? num(v) : num(v, 1), tfmt: v => TCUR + v.toFixed(2), ylog: true, logTicks: logTicksFor(S.tgt_px), markers, height: 380, aria: '股价与事件' }); },
+  'ch-ar': e => EV.length && hbarChart(e, { items: EV.map(ev => ({ label: `${ev.n}. ${ev.short || ev.title}`, v: ev.ar, title: `#${ev.n} ${ev.day0}`, sub: `t = ${ev.ar_t.toFixed(1)}`, desc: ev.title })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 140, row: 21, aria: '各事件异常收益' }),
+  'ch-car': e => barChart(e, { labels: Object.keys(DATA.car_by_year), series: [{ label: '累计异常收益', values: Object.values(DATA.car_by_year), cls: v => v >= 0 ? 'fpos' : 'fneg' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), vfmt: v => spct(v, 0), valueLabels: true, height: 250, aria: '按年度累计异常收益' }),
+  'ch-rebased': e => RB && lineChart(e, { x: RB.date, series: [{ label: N.tgt, values: RB[ME], cls: 'c2', endLabel: true }, ...(HAS.sec ? [{ label: N.sec, values: RB.sec, cls: 'c3', endLabel: true }] : []), { label: N.mkt, values: RB.mkt, cls: 'c1', endLabel: true }, ...(HAS.sty ? [{ label: N.sty, values: RB.sty, cls: 'c4', thin: true }] : []), ...(RB_PEER ? [{ label: peerName(RB_PEER), values: RB[RB_PEER], cls: 'c7', thin: true }] : [])], yfmt: v => num(v), tfmt: v => num(v, 0), refs: [{ y: 100, label: '' }], height: 300, aria: '相对表现' }),
+  'ch-peer-vol': e => HAS.peers && hbarChart(e, { items: DATA.peers.slice().sort((a, b) => b.vol_1y - a.vol_1y).map(p => ({ label: p.name, v: p.vol_1y, cls: meCls(p.code, 'f1'), sub: '对板块 β ' + p.beta_sec.toFixed(2), title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 80, row: 21, aria: '近一年波动率' }),
+  'ch-peer-ytd': e => HAS.peers && hbarChart(e, { items: DATA.peers.slice().sort((a, b) => (b.ret_ytd ?? -9) - (a.ret_ytd ?? -9)).map(p => ({ label: p.name, v: p.ret_ytd, cls: p.code === ME ? 'f2' : (p.ret_ytd >= 0 ? 'f1' : 'fneg'), sub: '近三年 ' + spct(p.ret_3y, 0), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '今年以来收益' }),
+  'ch-peer-growth': e => (F.peers || []).length && hbarChart(e, { items: F.peers.filter(p => p.revenue_yoy !== null && p.revenue_yoy !== undefined).sort((a, b) => b.revenue_yoy - a.revenue_yoy).map(p => ({ label: p.name, v: p.revenue_yoy, cls: p.code === ME ? 'f2' : (p.revenue_yoy >= 0 ? 'f1' : 'fneg'), sub: '净利润 ' + spct(p.np_yoy, 1), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '收入增速' }),
+  'ch-peer-roe': e => (F.peers || []).length && hbarChart(e, { items: F.peers.filter(p => p.roe !== null && p.roe !== undefined).sort((a, b) => b.roe - a.roe).map(p => ({ label: p.name, v: p.roe, cls: meCls(p.code, 'f1'), sub: '市净率 ' + (p.pb ? p.pb.toFixed(2) + 'x' : '—'), title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 80, row: 21, aria: 'ROE' }),
+  'ch-rev': e => (F.annual || []).length && barChart(e, { labels: F.annual.map(a => String(a.y)), series: [{ label: '收入', values: F.annual.map(a => a.revenue), cls: 'f1' }, { label: '归母净利润', values: F.annual.map(a => a.np), cls: 'f2' }, { label: '扣非净利润', values: F.annual.map(a => a.np_adj ?? null), cls: 'f3' }], yfmt: v => num(v), tfmt: v => num(v) + (UNIT ? ' ' + UNIT : ''), height: 250, aria: '收入与利润' }),
+  'ch-bal': e => (F.balance || []).length && barChart(e, { labels: F.balance.map(b => b.p), series: [{ label: '货币资金', values: F.balance.map(b => b.cash), cls: 'f1' }, { label: '有息负债', values: F.balance.map(b => b.debt), cls: 'f2' }], yfmt: v => num(v), tfmt: v => num(v) + (UNIT ? ' ' + UNIT : ''), rotateNarrow: true, height: 250, aria: '现金与负债' }),
+  /* company-specific */
+  'ch-prod-au': e => (F.production || []).length && barChart(e, { labels: F.production.filter(p => p.chart).map(p => p.chart), series: [{ label: '矿产金', values: F.production.filter(p => p.chart).map(p => p.gold_chart ?? p.gold), cls: (v, i) => F.production.filter(p => p.chart)[i].plan ? 'fmid' : 'f4' }], yfmt: v => num(v), tfmt: v => num(v, 1) + ' 吨', vfmt: v => num(v, 0), valueLabels: true, height: 230, aria: '矿产金产量' }),
+  'ch-prod-cu': e => (F.production || []).length && barChart(e, { labels: F.production.filter(p => p.chart).map(p => p.chart), series: [{ label: '矿产铜', values: F.production.filter(p => p.chart).map(p => p.copper_chart ?? p.copper), cls: (v, i) => F.production.filter(p => p.chart)[i].plan ? 'fmid' : 'f8' }], yfmt: v => num(v), tfmt: v => num(v, 1) + ' 万吨', vfmt: v => num(v, 0), valueLabels: true, height: 230, aria: '矿产铜产量' }),
+  'ch-gpmix': e => GP.rows && stackMulti(e, { rows: GP.rows.map(r => ({ label: r.label, parts: GP.parts.map((p, k) => ({ name: p.name, v: r.v[k], cls: p.cls })) })), vfmt: v => num(v, 0) + ' 亿元', labelWidth: 70, aria: '毛利构成' }),
+  'ch-glong': e => G.long && lineChart(e, { x: G.long.date, series: ['zj', 'gold', 'cu', 'mkt'].map(k => ({ label: GN[k], values: G.long[k], cls: GC[k], endLabel: true, thin: k === 'mkt' })), yfmt: v => num(v), tfmt: v => num(v, 0), ylog: true, logTicks: logTicksFor(['zj', 'gold', 'cu', 'mkt'].flatMap(k => G.long[k])), refs: [{ y: 100, label: '' }], height: 320, aria: '十年累计表现：紫金、金价、铜价、沪深300' }),
+  'ch-grecent': e => G.recent && lineChart(e, { x: G.recent.date, series: ['zj', 'gold', 'cu', 'gp', 'cp', 'mkt'].map(k => ({ label: GN[k], values: G.recent[k], cls: GC[k], endLabel: true, thin: !['zj', 'gold'].includes(k) })), yfmt: v => num(v), tfmt: v => num(v, 0), refs: [{ y: 100, label: '' }], height: 320, aria: '2025年以来表现' }),
+  'ch-rs': e => G.rel_strength && lineChart(e, { x: G.rel_strength.date, series: [{ label: '紫金 ÷ 金价', values: G.rel_strength.zj_gold, cls: 'c4', endLabel: true }, { label: '紫金 ÷ 铜价', values: G.rel_strength.zj_cu, cls: 'c8', endLabel: true }, { label: '黄金同业 ÷ 金价', values: G.rel_strength.gp_gold, cls: 'c3', thin: true }], yfmt: v => num(v), tfmt: v => num(v, 0), ylog: true, logTicks: logTicksFor([...G.rel_strength.zj_gold, ...G.rel_strength.zj_cu, ...G.rel_strength.gp_gold]), refs: [{ y: 100, label: '' }], height: 280, aria: '相对强弱' }),
+  'ch-gbeta': e => G.rolling && lineChart(e, { x: G.rolling.date, series: [{ label: '对金价', values: G.rolling.beta_gold, cls: 'c4' }, { label: '对铜价', values: G.rolling.beta_cu, cls: 'c8' }, { label: '黄金同业对金价', values: G.rolling.gp_beta_gold, cls: 'c3', thin: true }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), refs: [{ y: 1, label: 'β = 1', side: 'left' }], height: 240, aria: '滚动金价铜价贝塔' }),
+  'ch-gcorr': e => G.rolling && lineChart(e, { x: G.rolling.date, series: [{ label: '与金价', values: G.rolling.corr_gold, cls: 'c4' }, { label: '与铜价', values: G.rolling.corr_cu, cls: 'c8' }, { label: '与沪深 300', values: G.rolling.corr_mkt, cls: 'c1', thin: true }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), yMax: 1, height: 240, aria: '滚动相关系数' }),
+  'ch-gscatter': e => G.monthly && scatterChart(e, { x: G.monthly.scatter.x, y: G.monthly.scatter.y, dates: G.monthly.scatter.dates, a: G.monthly.scatter.a, b: G.monthly.scatter.b, height: 280, xName: '金价月度涨跌', yName: '紫金月度收益', aria: '月度收益散点' }),
+  'ch-gq': e => G.quarterly && barChart(e, { labels: G.quarterly.q, series: [{ label: '归母净利润', values: G.quarterly.np, cls: v => v >= 0 ? 'f2' : 'fneg' }], yfmt: v => num(v), tfmt: v => num(v, 1) + ' 亿元', height: 250, aria: '单季归母净利润' }),
+  'ch-gq2': e => G.quarterly && lineChart(e, { x: G.quarterly.q, labels: G.quarterly.q, series: [{ label: '金价', values: G.quarterly.gold.map(v => v / G.quarterly.gold[0] * 100), cls: 'c4', endLabel: true }, { label: '铜价', values: G.quarterly.cu.map(v => v / G.quarterly.cu[0] * 100), cls: 'c8', endLabel: true }], yfmt: v => num(v), tfmt: v => num(v, 0), refs: [{ y: 100, label: '' }], height: 220, aria: '季度均价' }),
+  'ch-pe': e => G.pe_gold && lineChart(e, { x: G.pe_gold.date, series: [{ label: '市盈率（TTM）', values: G.pe_gold.pe, cls: 'c2' }], yfmt: v => num(v) + 'x', tfmt: v => num(v, 1) + 'x', height: 250, aria: '市盈率历史' }),
+  'ch-ah': e => G.ah_premium && lineChart(e, { x: G.ah_premium.date, series: [{ label: 'A/H 溢价', values: G.ah_premium.prem, cls: 'c2' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), refs: [{ y: 0, label: '' }], height: 250, aria: 'A股相对H股溢价' }),
+};
+function renderAll() {
+  for (const id in charts) { const box = el(id); if (!box || box.closest('[hidden]')) continue; try { charts[id](box); } catch (err) { console.error(id, err); } }
+}
+renderAll();
+let lastW = window.innerWidth, rt;
+window.addEventListener('resize', () => { if (Math.abs(window.innerWidth - lastW) < 8) return; lastW = window.innerWidth; clearTimeout(rt); rt = setTimeout(renderAll, 150); });
+document.addEventListener('pointerdown', ev => { if (!ev.target.closest('.chart-box')) document.querySelectorAll('.tt').forEach(t => t.hidden = true); });
+(() => {
+  const links = [...document.querySelectorAll('.rail a')];
+  const secs = links.map(a => document.querySelector(a.getAttribute('href')));
+  const io = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting) { links.forEach(l => l.classList.toggle('on', l.getAttribute('href') === '#' + e.target.id)); const on = links.find(l => l.classList.contains('on')); const bar = document.querySelector('.rail .wrap'); if (on && bar) bar.scrollLeft = on.offsetLeft - bar.clientWidth / 2 + on.offsetWidth / 2; } });
+  }, { rootMargin: '-45% 0px -50% 0px' });
+  secs.forEach(s => s && io.observe(s));
+  const h = location.hash && document.querySelector(location.hash);
+  if (h) setTimeout(() => h.scrollIntoView(), 60);
+})();
+</script>

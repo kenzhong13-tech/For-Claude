@@ -16,7 +16,9 @@
   - `/*__BASE_CSS__*/` ← `base.css`, which has the design tokens, light and dark themes, layout, tables, tiles,
     callouts and print basics;
   - `/*__CHARTS_JS__*/` ← `charts.js`;
-  - `__DATA_JSON__` ← `market_analysis.json`, plus `fund` = `fundamentals.json`.
+  - `__DATA_JSON__` ← `market_analysis.json`, plus `fund` = `fundamentals.json`, plus every other JSON file in
+    `data/processed/` under its file name (a company-specific analysis such as `gold_analysis.json` becomes
+    `DATA.gold_analysis`).
 - **Edition CSS** goes right after the base CSS:
   - an accent colour that fits the company (`--accent`, `--accent-ink`, `--info-bg`, each with dark variants);
   - `.tbl tr.me` for the highlighted row;
