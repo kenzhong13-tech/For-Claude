@@ -1,0 +1,3995 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility 
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly 
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the 
+contents of this announcement.
+
+POP MART INTERNATIONAL GROUP LIMITED
+泡泡瑪特國際集團有限公司
+(Incorporated in the Cayman Islands with limited liability)
+(Stock Code: 9992)
+
+INTERIM RESULTS ANNOUNCEMENT
+FOR THE SIX MONTHS ENDED 30 JUNE 2026
+AND SUPPLEMENTAL ANNOUNCEMENT ON GRANT OF AWARDS
+
+INTERIM RESULTS HIGHLIGHTS
+
+Revenue
+Gross profit
+Operating profit
+Profit before income tax
+Profit for the period
+Profit attributable to owners of 
+
+the Company
+
+Non-IFRS adjusted net profit
+Basic earnings per share (RMB)
+Diluted earnings per share (RMB)
+
+Six months ended 30 June
+(Unaudited)
+2026
+RMB’000
+
+(Unaudited)
+2025
+RMB’000
+
+17,172,921
+11,965,740
+6,724,746
+6,766,858
+5,100,310
+
+5,038,384
+5,155,777
+3.80
+3.79
+
+13,876,276
+9,761,064
+6,043,741
+6,156,872
+4,681,713
+
+4,574,368
+4,709,630
+3.44
+3.43
+
+Change
+(%)
+
+23.8%
+22.6%
+11.3%
+9.9%
+8.9%
+
+10.1%
+9.5%
+10.5%
+10.5%
+
+The  board  (the  “Board”)  of  directors  (the  “Directors”)  of  Pop  Mart  International  Group  Limited 
+(the  “Company”)  is  pleased  to  announce  the  unaudited  consolidated  results  of  the  Company,  its 
+subsidiaries  and  consolidated  affiliated  entities  (the  “Group”)  for  the  six  months  ended  30  June 
+2026  (the  “Reporting  Period”).  The  contents  of  this  interim  results  announcement  have  been 
+prepared  in  accordance  with  applicable  disclosure  requirements  under  the  Rules  Governing  the 
+Listing  of  Securities  on  The  Stock  Exchange  of  Hong  Kong  Limited  (the  “Listing  Rules”)  in 
+relation to preliminary announcements of interim results.
+
+1
+
+ 
+INTERIM  CONDENSED  CONSOLIDATED  STATEMENT  OF  PROFIT  OR  LOSS  AND 
+OTHER COMPREHENSIVE INCOME
+
+Revenue
+Cost of sales
+
+Gross profit
+
+Distribution and selling expenses
+General and administrative expenses
+Reversal/(provision) of expected credit loss allowance 
+
+for financial assets, net
+
+Other income
+Other (losses)/gains-net
+
+Operating profit
+
+Finance income
+Finance expenses
+
+Finance income-net
+
+Note
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+3
+4
+
+4
+4
+
+5
+6
+
+7
+7
+
+7
+
+17,172,921
+(5,207,181)
+
+13,876,276
+(4,115,212)
+
+11,965,740
+
+9,761,064
+
+(3,931,123)
+(926,526)
+
+(3,192,590)
+(770,405)
+
+2,651
+302,837
+(688,833)
+
+(746)
+67,232
+179,186
+
+6,724,746
+
+6,043,741
+
+92,652
+(81,173)
+
+93,870
+(28,364)
+
+11,479
+
+65,506
+
+Share of profit of investments accounted for 
+  using the equity method
+
+12
+
+30,633
+
+47,625
+
+Profit before income tax
+
+6,766,858
+
+6,156,872
+
+Income tax expense
+
+Profit for the period
+
+Profit for the period attributable to:
+Owners of the Company
+Non-controlling interests
+
+8
+
+(1,666,548)
+
+(1,475,159)
+
+5,100,310
+
+4,681,713
+
+5,038,384
+61,926
+
+4,574,368
+107,345
+
+5,100,310
+
+4,681,713
+
+2
+
+ 
+Other comprehensive income/(loss) for the period
+Items that may be reclassified to profit or loss
+  – Currency translation differences
+
+Items that will not be reclassified to profit or loss
+  – Currency translation differences
+
+Other comprehensive income/(loss) 
+
+for the period, net of tax
+
+Note
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+347,266
+
+31,511
+
+12,441
+
+(54,847)
+
+359,707
+
+(23,336)
+
+Total comprehensive income for the period
+
+5,460,017
+
+4,658,377
+
+Total comprehensive income for the period 
+  attributable to:
+  – Owners of the Company
+  – Non-controlling interests
+
+5,420,889
+39,128
+
+4,545,123
+113,254
+
+5,460,017
+
+4,658,377
+
+Earnings per share for profit attributable to 
+  owners of the Company
+Basic (expressed in RMB per share)
+Diluted (expressed in RMB per share)
+
+10
+10
+
+3.80
+3.79
+
+3.44
+3.43
+
+3
+
+ 
+INTERIM CONDENSED CONSOLIDATED BALANCE SHEET
+
+Assets
+Non-current assets
+Property, plant and equipment
+Intangible assets
+Right-of-use assets
+Restricted cash
+Investments accounted for using the equity method
+Financial assets at fair value through profit or loss
+Prepayments and other receivables
+Term deposits with initial term over one year
+Deferred income tax assets
+
+Total non-current assets
+
+Current assets
+Trade receivables
+Inventories
+Prepayments and other receivables
+Financial assets at fair value through profit or loss
+Restricted cash
+Term deposits with initial term over three months and 
+  within one year
+Cash and cash equivalents
+
+Total current assets
+
+Total assets
+
+Note
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+11
+
+12
+
+13
+14
+
+1,770,206
+236,368
+3,602,656
+224,018
+159,359
+620,762
+306,974
+201,773
+1,813,681
+
+1,417,556
+208,665
+2,791,171
+256,265
+128,124
+356,906
+274,473
+–
+1,753,551
+
+8,935,797
+
+7,186,711
+
+627,306
+6,101,530
+1,388,205
+9,662
+3,384
+
+921,240
+5,472,839
+1,283,154
+9,743
+2,658
+
+1,520,187
+12,442,065
+
+3,449,922
+13,775,087
+
+22,092,339
+
+24,914,643
+
+31,028,136
+
+32,101,354
+
+4
+
+Equity
+Share capital
+Shares held for share award scheme
+Other reserves
+Retained earnings
+
+Equity attributable to owners of the Company
+Non-controlling interests in equity
+
+Total equity
+
+Liabilities
+Non-current liabilities
+License fees payables
+Lease liabilities
+
+Total non-current liabilities
+
+Current liabilities
+Trade payables
+License fees payables
+Other payables
+Contract liabilities
+Lease liabilities
+Current income tax liabilities
+
+Total current liabilities
+
+Total liabilities
+
+Note
+
+15
+
+17
+11
+
+16
+17
+
+11
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+875
+(6)
+(1,131,526)
+24,189,681
+
+882
+(7)
+3,123,058
+19,153,802
+
+23,059,024
+229,451
+
+22,277,735
+374,632
+
+23,288,475
+
+22,652,367
+
+5,275
+3,061,836
+
+5,525
+2,275,301
+
+3,067,111
+
+2,280,826
+
+905,150
+513,583
+1,451,670
+513,419
+665,736
+622,992
+
+1,858,216
+437,247
+1,777,317
+393,119
+586,274
+2,115,988
+
+4,672,550
+
+7,168,161
+
+7,739,661
+
+9,448,987
+
+Total equity and liabilities
+
+31,028,136
+
+32,101,354
+
+5
+
+NOTES TO THE INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+
+1 
+
+GENERAL INFORMATION
+
+Pop  Mart  International  Group  Limited  (the  “Company”)  was  incorporated  in  the  Cayman  Islands  on  9  May 
+2019  as  an  exempted  company  with  limited  liability  under  the  Companies  Law  (Cap.  22,  Law  3  of  1961  as 
+consolidated  and  revised)  of  the  Cayman  Islands.  The  address  of  the  Company’s  registered  office  is  P.O.  Box 
+309, Ugland House, Grand Cayman, KY1-1104, Cayman Islands.
+
+The  Company  is  an  investment  holding  company.  The  Company  and  its  subsidiaries  (together,  the  “Group”) 
+are principally engaged in the product design and development and sale of pop toys in the People’s Republic of 
+China, including the regions of Hong Kong, Macau and Taiwan of the People’s Republic of China (the “PRC”) 
+and  certain  overseas  countries  and  regions.  The  ultimate  holding  company  of  the  Company  is  GWF  Holding 
+Limited  (formerly  known  as  Grant  Wang  Holding  Limited),  which  is  controlled  by  Mr.  Wang  Ning  and  his 
+spouse, Ms. Yang Tao.
+
+The  Company’s  shares  have  been  listed  on  the  Main  Board  of  The  Stock  Exchange  of  Hong  Kong  Limited 
+(“Hong Kong Stock Exchange”) since 11 December 2020 (the “Listing date”).
+
+This interim condensed consolidated financial information is presented in Renminbi (“RMB”), unless otherwise 
+stated.  This  interim  condensed  consolidated  financial  information  was  approved  for  issue  by  the  board  of 
+directors of the Company on 20 August 2026.
+
+This interim condensed consolidated financial information for the six months ended 30 June 2026 has not been 
+audited.
+
+2 
+
+BASIS OF PREPARATION
+
+This  interim  condensed  consolidated  financial  information  for  the  six  months  ended  30  June  2026  has  been 
+prepared in accordance with International Accounting Standard 34 “Interim Financial Reporting” (“IAS 34”).
+
+The interim condensed consolidated financial information does not include all of the notes normally included in 
+annual consolidated financial statements. Accordingly, this interim condensed consolidated financial information 
+is  to  be  read  in  conjunction  with  the  Group’s  annual  consolidated  financial  statements  for  the  year  ended  31 
+December 2025, which have been prepared in accordance with IFRS Accounting Standards.
+
+2.1  Accounting policies
+
+The  accounting  policies  applied  to  the  preparation  of  the  interim  condensed  consolidated  financial 
+information are consistent with those applied in the Group’s annual consolidated financial statements for 
+the year ended 31 December 2025, except for the adoption of amended standards as set out below:
+
+Amended standards adopted by the Group
+
+The Group has applied the following amended standards and annual improvements for the first time from 
+1 January 2026:
+
+Amendments to IFRS 9 and IFRS 7
+
+Amendments to IFRS 9 and IFRS 7
+
+Annual improvements
+
+Amendments to the Classification and Measurement of 
+  Financial Instruments
+Amendments to the Contracts Referencing 
+  Nature-dependent Electricity
+Annual improvements to IFRS Accounting 
+  Standards – Volume 11
+
+6
+
+The  amended  standards  and  annual  improvements  listed  above  did  not  have  any  impact  on  the  amounts 
+recognised in prior periods and are not expected to significantly affect the current or future periods.
+
+New or amended standards not yet adopted
+
+The  following  new  or  amended  accounting  standards  have  been  published  which  are  not  mandatory  for 
+reporting periods commencing 1 January 2026 and have not been early adopted by the Group:
+
+IFRS 18
+
+IFRS 19 and Amendment to 
+
+IFRS 19
+
+Amendment to IAS 21
+
+Amendments to IAS 28
+
+IFRS 20
+Amendments to IAS 28 and 
+
+IFRS 10
+
+Presentation and Disclosure in Financial 
+  Statements
+Subsidiaries without Public Accountability: 
+  Disclosures
+Translation to a Hyperinflationary Presentation 
+  Currency
+Fair Value Option for Investments in Associates 
+  and Joint Ventures
+Regulatory Assets and Regulatory Liabilities
+Sale or Contribution of Assets between 
+  an Investor and its Associate or Joint Venture
+
+Effective date
+
+1 January 2027
+
+1 January 2027
+
+1 January 2027
+
+1 January 2027
+
+1 January 2029
+To be determined
+
+These new or amended accounting standards are not expected to have a material impact on the Group in 
+the  current  or  future  reporting  periods  and  on  foreseeable  future  transactions,  except  that  the  adoption 
+of  IFRS  18  upon  its  effective  date  is  expected  to  have  certain  pervasive  impact  on  the  presentation  and 
+disclosures of the Group’s consolidated financial statements which were described in the Group’s annual 
+consolidated financial statements for the year ended 31 December 2025.
+
+3 
+
+SEGMENT AND REVENUE INFORMATION
+
+The  Group  is  principally  engaged  in  brand  development,  design  and  sales  of  toys  in  the  PRC  and  certain 
+overseas  countries  and  regions.  The  chief  operating  decision  makers  (“CODM”,  being  the  executive  directors 
+of  the  Company)  reviews  the  Group’s  internal  reporting  in  order  to  assess  performance  and  allocate  resources. 
+Management has determined the operating segments based on these reports.
+
+As at 30 June 2026 and for the period then ended, the Group had two reportable segments:
+
+• 
+
+• 
+
+The PRC operations; and
+
+The  Overseas  operations,  which  refers  to  countries  and  regions  other  than  the  Chinese  mainland,  Hong 
+Kong, Macau and Taiwan.
+
+The  CODM  assesses  the  performance  of  the  operating  segments  mainly  based  on  revenue  and  segment  results. 
+The revenue from external customers reported to CODM is measured as segment revenue, which is the revenue 
+derived from customers in each segment. Segment results represent the operating profit (excluding other income 
+and  other  (losses)/gains)  earned  by  each  segment,  except  that  certain  unallocated  items  are  not  allocated  to 
+each  segment,  which  mainly  include  certain  expenses  attributable  to  certain  corporate  functional  centres  and 
+backoffice functions of the Group.
+
+There  were  no  separate  segment  assets  and  segment  liabilities  information  provided  to  the  CODM  as  CODM 
+does not use this information to allocate resources to or evaluate the performance of the operating segments.
+
+7
+
+ 
+ 
+The  segment  results  and  other  items  included  in  the  interim  condensed  consolidated  statement  of  profit  or  loss 
+and  other  comprehensive  income  provided  to  the  CODM  for  the  reportable  segments  for  the  period  ended  30 
+June 2026 and 2025, respectively are as follows:
+
+Six months ended 30 June
+
+2026
+
+2025
+
+The PRC 
+operations
+(Unaudited)
+RMB’000
+
+The Overseas 
+operations
+(Unaudited)
+RMB’000
+
+Unallocated 
+items *
+(Unaudited)
+RMB’000
+
+Total
+(Unaudited)
+RMB’000
+
+The PRC 
+operations
+(Unaudited)
+RMB’000
+
+The Overseas 
+operations
+(Unaudited)
+RMB’000
+
+Unallocated 
+items *
+(Unaudited)
+RMB’000
+
+Total
+(Unaudited)
+RMB’000
+
+Revenue from external customers
+Cost of sales, operating expenses 
+  and unallocated items
+
+12,200,509
+
+4,972,412
+
+–
+
+17,172,921
+
+8,282,812
+
+5,593,464
+
+–
+
+13,876,276
+
+(5,729,187)
+
+(3,463,920)
+
+(869,072)
+
+(10,062,179)
+
+(4,295,893)
+
+(3,128,954)
+
+(654,106)
+
+(8,078,953)
+
+Segment results
+
+6,471,322
+
+1,508,492
+
+(869,072)
+
+7,110,742
+
+3,986,919 
+
+2,464,510 
+
+(654,106)
+
+5,797,323
+
+Other income
+Other (losses)/gains
+Finance income – net
+Share of profit of investments 
+  accounted for using the 
+  equity method
+
+Profit before income tax
+
+Income tax expense
+
+Profit for the period
+
+Significant non-cash expenses
+Depreciation on property, 
+  plant and equipment
+Depreciation of right-of-use assets
+Amortisation of intangible assets
+
+302,837
+(688,833)
+11,479
+
+30,633
+
+6,766,858
+
+(1,666,548)
+
+5,100,310
+
+67,232
+179,186
+65,506
+
+47,625
+
+6,156,872
+
+(1,475,159)
+
+4,681,713
+
+203,940
+211,286
+38,933
+
+88,377
+210,028
+23,638
+
+9,674
+30,620
+4,765
+
+301,991
+451,934
+67,336
+
+137,147
+160,348
+62,323
+
+33,979
+74,969
+11,102
+
+6,445
+18,867
+4,212
+
+177,571
+254,184
+77,637
+
+* 
+
+Unallocated items mainly include certain expenses attributable to certain corporate functional centres and 
+backoffice functions of the Group.
+
+As  at  30  June  2026  and  31  December  2025,  information  about  the  Group’s  non-current  assets  (other  than 
+financial  instruments  and  deferred  income  tax  assets)  which  is  presented  based  on  geographical  location  of  the 
+assets, is as follow:
+
+The PRC operations
+The Overseas operations
+
+As at 
+30 June
+2026
+RMB’000
+
+2,361,470
+3,714,093
+
+As at 
+31 December
+2025
+RMB’000
+
+2,147,156
+2,672,833
+
+8
+
+Breakdown of revenue by business lines is as follows:
+
+Revenue from the PRC operations
+Revenue from retail store sales
+Revenue from online sales
+Revenue from roboshop sales
+Revenue from wholesales and others
+
+Subtotal
+
+Revenue from the Overseas operations
+Revenue from retail store sales
+Revenue from online sales
+Revenue from roboshop sales
+Revenue from wholesales and others
+
+Subtotal
+
+Total
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+6,089,686
+4,778,746
+778,953
+553,124
+
+4,405,948
+2,937,255
+678,298
+261,311
+
+12,200,509
+
+8,282,812
+
+3,022,301
+1,433,325
+171,572
+345,214
+
+2,502,062
+2,560,742
+142,443
+388,217
+
+4,972,412
+
+5,593,464
+
+17,172,921
+
+13,876,276
+
+During  the  six  months  ended  30  June  2026  and  2025,  no  revenue  derived  from  transactions  with  a  single 
+customer represent 10% or more of the Group’s total revenue.
+
+9
+
+4 
+
+EXPENSES BY NATURE
+
+Cost of inventories included in cost of sales
+Employee benefit expenses
+Transportation and logistics expenses
+Expenses relating to short-term leases and variable leases 
+  not included in lease liabilities (Note 11)
+Commissions and E-commerce platform service charges
+Depreciation of right-of-use assets (Note 11)
+Advertising and marketing expenses
+License fees
+Depreciation on property, plant and equipment
+Taxes and surcharges
+Bank charges
+Amortisation of intangible assets
+Impairment of inventories (Note 14)
+Auditor’s remuneration
+Others
+
+Total
+
+5 
+
+OTHER INCOME
+
+Government grants (i)
+Income from license fee and other services
+Others
+
+Total
+
+(i) 
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+4,303,215
+1,405,025
+754,346
+
+2025
+RMB’000
+(Unaudited)
+
+3,272,871
+992,685
+784,667
+
+673,120
+561,961
+451,934
+444,073
+376,247
+301,991
+206,207
+149,496
+67,336
+22,806
+1,800
+345,273
+
+513,331
+642,451
+254,184
+400,899
+451,171
+177,571
+142,314
+141,094
+77,637
+4,302
+1,700
+221,330
+
+10,064,830
+
+8,078,207
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+239,476
+60,599
+2,762
+
+302,837
+
+37,810
+25,769
+3,653
+
+67,232
+
+The amounts represent government grants related to income which are received from the local government 
+for  the  contribution  to  the  local  economic  growth.  There  are  no  unfulfilled  conditions  or  contingencies 
+relating to these grants.
+
+10
+
+6 
+
+OTHER (LOSSES)/GAINS – NET
+
+Gains on change in fair value of financial instruments at fair value 
+
+through profit or loss
+Exchange (losses)/gains
+Gain on remeasuring existing 50% interests in a former joint 
+  venture upon business combination
+Donation
+Others
+
+Total
+
+7 
+
+FINANCE INCOME – NET
+
+Finance income
+– Interest income on cash and bank deposits
+
+Finance expenses
+– Interest expenses on lease liabilities (Note 11)
+– Others
+
+Finance income – net
+
+8 
+
+INCOME TAX EXPENSE
+
+Current income tax
+Deferred income tax credit
+
+Income tax expense
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+37,382
+(720,270)
+
+–
+(3,387)
+(2,558)
+
+23,697
+120,130
+
+42,165
+(3,351)
+(3,455)
+
+(688,833)
+
+179,186
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+92,652
+
+93,870
+
+(81,056)
+(117)
+
+(28,275)
+(89)
+
+(81,173)
+
+(28,364)
+
+11,479
+
+65,506
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+1,726,678
+(60,130)
+
+2025
+RMB’000
+(Unaudited)
+
+1,661,562
+(186,403)
+
+1,666,548
+
+1,475,159
+
+Income  tax  expense  is  recognised  based  on  management’s  estimate  of  the  weighted  average  effective  annual 
+income  tax  rate  expected  for  the  full  financial  year.  The  estimated  average  annual  tax  rate  used  for  the  six 
+months ended 30 June 2026 is approximately 24.6% (six months ended 30 June 2025: 24.0%).
+
+11
+
+ 
+9 
+
+DIVIDENDS
+
+During  the  six  months  ended  30  June  2026,  the  total  dividends  paid  amounted  to  RMB3,149,378,000  or 
+RMB2.3817  per  share  (six  months  ended  30  June  2025:  RMB1,083,288,000  or  RMB81.46  cents  per  share), 
+which are net of the dividend of RMB23,318,000 (six months ended 30 June 2025: RMB10,834,000) attributable 
+to the shares held for the Post-IPO share award scheme (the “Share Award Scheme”).
+
+The Board did not recommend the payment of an interim dividend for the six months ended 30 June 2026.
+
+10 
+
+EARNINGS PER SHARE
+
+(a) 
+
+Basic earnings per share
+
+Basic earnings per share is calculated by dividing the profit attributable to owners of the Company by the 
+weighted average number of ordinary shares in issue less shares held for Share Award Scheme and shares 
+repurchased by the Company for cancellation during the six months ended 30 June 2026 and 2025.
+
+Profit attributable to owners of the Company (RMB’000)
+Weighted average number of ordinary shares in issue less shares 
+  held for Share Award Scheme and shares repurchased by the 
+  Company for cancellation (in thousands)
+
+Six months ended 30 June
+
+2026
+(Unaudited)
+
+2025
+(Unaudited)
+
+5,038,384
+
+4,574,368
+
+1,325,990
+
+1,329,096
+
+Basic earnings per share (expressed in RMB per share)
+
+3.80
+
+3.44
+
+(b)  Diluted earnings per share
+
+The calculation of diluted earnings per share for the six months ended 30 June 2026 is set out below:
+
+Six months ended 30 June
+
+2026
+(Unaudited)
+
+2025
+(Unaudited)
+
+Profit attributable to owners of the Company (RMB’000)
+
+5,038,384
+
+4,574,368
+
+Profit used to determine diluted earnings per share (RMB’000)
+
+5,038,384
+
+4,574,368
+
+Weighted average number of ordinary shares in issue less shares 
+  held for Share Award Scheme and shares repurchased by the 
+  Company for cancellation (in thousands)
+Adjustment for
+  – Restricted Shares granted and assumed vested (in thousands)
+
+1,325,990
+
+1,329,096
+
+1,876
+
+4,721
+
+Weighted average number of shares for diluted earnings 
+  per share (in thousands)
+
+1,327,866
+
+1,333,817
+
+Diluted earnings per share (expressed in RMB per share)
+
+3.79
+
+3.43
+
+For the six months ended 30 June 2026 and 2025, diluted earnings per share is calculated by adjusting the 
+weighted  average  number  of  ordinary  shares  outstanding  to  assume  conversion  of  all  dilutive  potential 
+ordinary  shares.  The  Company’s  potentially  dilutive  ordinary  shares  comprised  shares  which  may  be 
+granted  and  assumed  vested  under  the  Share  Award  Scheme.  A  calculation  is  done  to  determine  the 
+number  of  shares  that  could  have  been  acquired  at  fair  value  (determined  as  the  average  market  price 
+of  the  Company’s  ordinary  shares  during  the  reporting  period)  based  on  the  monetary  value  of  the 
+subscription  rights  attached  to  the  outstanding  shares  granted  under  the  Share  Award  Scheme  (defined 
+as  the  “Restricted  Shares”).  The  number  of  shares  calculated  as  above  is  compared  with  the  number  of 
+shares that would have been issued assuming the exercise of the Restricted Shares.
+
+12
+
+11 
+
+LEASES
+
+The note provides information for leases where the Group is a lessee.
+
+(a)  Amounts recognised in balance sheet relating to leases:
+
+Right-of-use assets
+Offices and warehouses
+Retail stores
+POP LAND
+
+Lease liabilities
+Current
+Non-current
+
+Movements on the Group’s right-of-use assets are as follows:
+
+At 1 January
+Cost
+Accumulated depreciation and impairment
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+224,464
+3,312,197
+65,995
+
+237,223
+2,483,182
+70,766
+
+3,602,656
+
+2,791,171
+
+665,736
+3,061,836
+
+586,274
+2,275,301
+
+3,727,572
+
+2,861,575
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+3,682,378
+(891,207)
+
+1,491,115
+(563,557)
+
+Opening net book amount
+
+2,791,171
+
+927,558
+
+Six months ended 30 June
+Opening net book amount
+Acquisition of a subsidiary
+Additions
+Depreciation charge
+Lease termination
+Currency translation difference
+
+2,791,171
+–
+1,373,884
+(451,934)
+(28,213)
+(82,252)
+
+927,558
+33,628
+649,899
+(254,184)
+(4,715)
+14,587
+
+Closing net book amount
+
+3,602,656
+
+1,366,773
+
+13
+
+At 30 June
+Cost
+Accumulated depreciation and impairment
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+4,725,162
+(1,122,506)
+
+2,076,501
+(709,728)
+
+Closing net book amount
+
+3,602,656
+
+1,366,773
+
+(b)  Amounts recognised in profit or loss relating to leases:
+
+Depreciation charge of right-of-use assets
+Offices and warehouses
+Retail stores
+POP LAND
+
+Interest expenses (Note 7)
+Expense relating to short-term leases and variable lease not 
+included in lease liabilities (included in distribution and 
+
+  selling expenses) (Note 4)
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+69,344
+377,819
+4,771
+
+26,831
+222,582
+4,771
+
+451,934
+
+254,184
+
+81,056
+
+28,275
+
+673,120
+
+513,331
+
+12 
+
+INVESTMENTS ACCOUNTED FOR USING THE EQUITY METHOD
+
+The  carrying  amount  of  equity-accounted  investments  has  changed  as  follows  in  the  six  months  ended  30  June 
+2026 and 2025:
+
+Opening balance
+Share of profit for the period
+Transfer to a subsidiary
+Currency translation difference
+
+Ending balance
+
+As at 30 June
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+128,124
+30,633
+–
+602
+
+136,783
+47,625
+(74,527)
+(2,857)
+
+159,359
+
+107,024
+
+14
+
+ 
+13 
+
+TRADE RECEIVABLES
+
+Trade receivables (a)
+– Third parties
+– Related parties
+
+Subtotal
+
+Less: provision for impairment (b)
+
+Total trade receivables
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+628,719
+13,344
+
+920,339
+19,729
+
+642,063
+
+940,068
+
+(14,757)
+
+(18,828)
+
+627,306
+
+921,240
+
+(a) 
+
+For  trade  receivables  from  retail  store  sales,  roboshop  sales  and  online  sales,  the  amounts  are  usually 
+settled  in  cash,  by  credit/debit  cards  or  through  online  payment  platforms.  For  wholesale  transactions, 
+trade  receivables  are  settled  within  the  credit  terms  as  agreed  in  sales  contracts.  The  majority  of  these 
+wholesalers  are  with  credit  terms  of  30  to  90  days.  Certain  customers  with  good  history  and  long-term 
+relationship are extended preferential credit terms of up to 180 days.
+
+An aging analysis of the trade receivables based on invoice date is as follows:
+
+Within 3 months
+3 months to 6 months
+Over 6 months
+
+Total
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+522,732
+72,394
+46,937
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+726,257
+206,148
+7,663
+
+642,063
+
+940,068
+
+(b) 
+
+The Group applies the IFRS 9 simplified approach to measure expected credit losses which use a lifetime 
+expected loss allowance for all trade receivables.
+
+Movements in expected credit loss allowance for trade receivables is as follows:
+
+Six months ended 30 June
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+18,828
+
+(4,071)
+
+8,915
+
+1,919
+
+14,757
+
+10,834
+
+As at 1 January
+(Reversal)/provision of expected credit loss allowance for 
+
+trade receivables, net
+
+As at 30 June
+
+15
+
+ 
+14 
+
+INVENTORIES
+
+Merchandise (a)
+
+Less: provision for impairment (b)
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+6,177,039
+
+5,525,542
+
+(75,509)
+
+(52,703)
+
+6,101,530
+
+5,472,839
+
+Total
+
+(a) 
+
+(b) 
+
+The  cost  of  goods  recognised  as  cost  of  sales  amounted  to  approximately  RMB4,303,215,000  and 
+RMB3,272,871,000, for the period ended 30 June 2026 and 2025, respectively.
+
+Provision  for  impairment  was  recognised  for  the  amount  by  which  the  carrying  amount  of  inventories 
+exceeds its net realisable value and was recorded in “cost of sales” in the interim condensed consolidated 
+statement  of  profit  or  loss  and  other  comprehensive  income.  The  provision  for  impairment  of  inventory 
+amounted  to  RMB22,806,000  and  RMB4,302,000  for  the  period  ended  30  June  2026  and  2025, 
+respectively.
+
+15 
+
+SHARE CAPITAL AND TREASURY SHARES
+
+Authorised:
+
+Number of 
+ordinary shares
+
+Nominal value of 
+ordinary shares
+USD’000
+
+Ordinary shares of US$0.0001 each
+On 1 January 2025, 30 June 2025, 31 December 2025 and 30 June 2026
+
+5,000,000,000
+
+500
+
+Issued and fully paid ordinary shares:
+
+Number of 
+ordinary 
+shares
+
+1,342,943,150
+–
+(11,220,000)
+
+1,331,723,150
+
+Nominal 
+value of 
+ordinary 
+shares
+USD’000
+
+Nominal 
+value of 
+ordinary 
+shares
+RMB’000
+
+135
+–
+(1)
+
+134
+
+882
+–
+(7)
+
+875
+
+Number of 
+treasury 
+shares
+
+–
+(11,220,000)
+11,220,000
+
+–
+
+Carrying 
+value of 
+treasury 
+shares
+RMB’000
+
+–
+–
+–
+
+–
+
+At 1 January 2025, 30 June 2025 and 1 January 2026
+Purchase of own shares (a)
+Cancellation of repurchased shares (b)
+
+At 30 June 2026
+
+16
+
+(a)  During  the  six  months  ended  30  June  2026,  the  Company  acquired  11,220,000  ordinary  shares  of  the 
+Company  through  purchases  on  the  open  market.  The  total  amount  paid  to  acquire  the  shares  during  the 
+period was HKD1,744,493,320 (equivalent to approximately RMB1,545,689,000). The repurchased shares 
+were subsequently cancelled (see (b) below). Particulars of the shares repurchased are as follows:
+
+Month of Repurchase
+January
+March
+April
+
+Total
+
+Number 
+of shares 
+repurchased
+
+Highest price 
+paid per share 
+(HK$)
+
+Lowest price 
+paid per share 
+(HK$)
+
+Aggregate 
+price paid 
+HK$
+
+1,900,000
+7,950,000
+1,370,000
+
+11,220,000
+
+194.9
+157.8
+150.2
+
+177.7
+141.4
+140.9
+
+347,927,000
+1,197,961,120
+198,605,200
+
+1,744,493,320
+
+(b)  During  the  six  months  ended  30  June  2026,  the  Company  cancelled  11,220,000  repurchased  shares.  As 
+a  result,  the  Company  recognised  a  debit  to  share  capital  of  USD1,122  (equivalent  to  approximately 
+RMB7,000),  a  debit  to  share  premium  of  RMB1,545,682,000  and  a  credit  to  treasury  shares  of 
+RMB1,545,689,000.
+
+16 
+
+TRADE PAYABLES
+
+Merchandise payables
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+905,150
+
+1,858,216
+
+The  credit  terms  of  merchandise  payables  granted  by  the  suppliers  are  usually  current  to  180  days.  As  at  30 
+June 2026 and 31 December 2025, the aging analysis of the merchandise payables based on invoice date was as 
+follows:
+
+Within 30 days
+30 to 90 days
+90 to 180 days
+Over 180 days
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+780,940
+45,172
+24,053
+54,985
+
+1,002,320
+790,562
+21,683
+43,651
+
+905,150
+
+1,858,216
+
+17
+
+17 
+
+LICENSE FEES PAYABLES
+
+License fees payables
+
+Less: non-current portion
+
+Current portion
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+518,858
+
+442,772
+
+(5,275)
+
+(5,525)
+
+513,583
+
+437,247
+
+The  Group  entered  into  various  license  agreements  with  artists  to  obtain  exclusive  and  non-exclusive  Licensed 
+IPs. Pursuant to the license agreements, fixed minimum payments are payable in tranches during the contracted 
+term while variable payments that depend on sales are payable in the period in which the condition that triggers 
+those payments occurs.
+
+Analysis of license fees payables:
+
+1-2 year
+2-5 year
+More than 5 years
+
+Non-current
+
+Current
+
+As at 
+30 June
+2026
+RMB’000
+(Unaudited)
+
+As at 
+31 December
+2025
+RMB’000
+(Audited)
+
+2,026
+1,421
+1,828
+
+5,275
+
+1,141
+1,582
+2,802
+
+5,525
+
+513,583
+
+437,247
+
+18
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+BUSINESS REVIEW
+
+In the first half of 2026, the Group focused its development priorities on organisational capability 
+building  and  management  system  enhancement,  continued  to  optimize  its  organisational  structure 
+and  functional  arrangements,  strengthened  middle-office  enablement  and  global  synergy, 
+and  continuously  enhanced  its  organisational  operational  efficiency  and  global  management 
+capabilities,  laying  a  solid  foundation  for  long-term  sound  development.  During  the  Reporting 
+Period,  the  Group  recorded  a  revenue  of  RMB17,172.9  million,  with  a  year-on-year  growth  of 
+23.8%.
+
+IP Incubation and Operation
+
+IP  operation  and  creative  design  are  the  core  drivers  to  promote  the  Group’s  sustainable  and 
+healthy  growth.  As  a  world-leading  IP  platform,  the  Group  continuously  identifies  artists  and 
+designers  with  high  potential  and,  leveraging  its  mature  full-chain  operation  system,  constantly 
+enhances  its  capabilities  in  IP  incubation,  creative  design,  product  development,  and  global 
+operations.  The  Group  had  created  a  number  of  IP  characters  widely  loved  by  consumers, 
+delivering beauty and joy to consumers worldwide.
+
+Based  on  the  unique  connotations  and  artistic  expressions  of  different  IPs,  the  Group  adopts 
+differentiated  operating  strategies  to  continuously  enrich  product  categories  and  consumption 
+scenarios,  deepen  the  emotional  connection  between  the  IPs  and  their  fan  bases,  and  constantly 
+enhance the global influence and long-term viability of its IP portfolio. In the first half of 2026, a 
+total of 11 artist IPs recorded a revenue of over RMB100 million. Among them, THE MONSTERS, 
+Twinkle  Twinkle,  CRYBABY,  DIMOO,  SKULLPANDA,  HIRONO  and  MOLLY  generated 
+revenues of RMB4,454.4 million, RMB2,650.0 million, RMB1,632.6 million, RMB1,619.2 million, 
+RMB1,551.2  million,  RMB1,008.9  million  and  RMB900.6  million,  respectively,  during  the 
+Reporting Period.
+
+Represented  by  LABUBU,  THE  MONSTERS  continued  to  expand  its  diversified  content 
+expression  and  global  collaborative  partnerships,  continuously  enhancing  the  global  influence  of 
+the IP. In April 2026, the Group officially launched THE MONSTERS  × FIFA World Cup 26 co-
+branded  products,  initiating  LABUBU’s  partnership  with  top-tier  global  sporting  events.  In  May, 
+LABUBU  participated  in  the  production  of  the  official  music  video  for  “Goals”,  a  track  featured 
+on the official 2026 FIFA World Cup album. In June, LABUBU appeared as an invited guest at the 
+FIFA  World  Cup  opening  ceremony,  becoming  the  first  Chinese  original  IP  invited  in  the  history 
+of  the  FIFA  World  Cup.  At  the  date  of  the  FIFA  World  Cup  final,  LABUBU  appeared  at  the 
+closing ceremony to witness the crowning of the champion together with football fans worldwide. 
+In addition to in-stadium activities, the Group has also extended LABUBU’s World Cup journey to 
+diverse  scenarios  including  fan  interactions,  urban  culture  and  offline  retail,  engaging  extensively 
+with  global  consumers  through  events  such  as  the  FIFA  Fan  Festival,  themed  pop-ups  and  local 
+cultural  experiences  in  Mexico  City.  Furthermore,  designer  Kasing  Lung  (龍家昇),  along  with 
+LABUBU and the Brazilian football legend Ronaldo, jointly participated in brand events. Through 
+a series of in-stadium and off-site activities, the Group continued to expand the global reach of the 
+IP, and deepen THE MONSTERS’ emotional connection with global sports culture and consumers 
+worldwide.
+
+19
+
+THE MONSTERS  “Hair Salon” series provides consumers with more interactive and personalised 
+product  experience  through  various  product  formats  such  as  figure  toys  and  vinyl  plush  pendants, 
+incorporating combable and styleable hair designs. Meanwhile, the “MONSTERS BY MONSTERS: 
+NOW  AND  THEN”  10th-anniversary  global  tour,  has  successively  debuted  in  Paris  and  Tokyo, 
+continuously  showcasing  the  creative  journey  and  IP  stories  of  THE  MONSTERS  to  global  fans, 
+thereby further enriching the cultural connotation of the IP and enhancing its long-term vitality.
+
+Twinkle  Twinkle,  the  fastest-growing  IP  of  the  Group,  touches  hearts  with  stories  of  courage, 
+longing,  and  love.  Launched  in  the  first  half  of  2026,  the  “Crush  On  You”  series  draws  creative 
+inspiration  from  myriad  forms  of  love,  transforms  tales  of  love  that  transcend  time  and  space  into 
+twinkling  starlights  to  record  sparkling  moments,  and  has  gained  widespread  popularity  among 
+consumers.  Through  continuous  refined  operations,  Twinkle  Twinkle  has  become  one  of  the  most 
+popular IPs of the Group. Going forward, the Group will continue to enrich the content expression 
+of  Twinkle  Twinkle,  deepen  its  emotional  resonance  with  consumers,  and  further  expand  its  
+influence.
+
+With its iconic visual identity, CRYBABY conveys the concept of “set yourself free in an ocean of 
+emotions”  to  the  world  through  the  “Cry  Me  An  Ocean”  series.  The  thematic  exhibition  “Letting 
+Go...Holding  On...”  served  as  a  sanctuary  for  all  emotions  of  its  fans,  accommodating  both 
+tears  and  laughter,  enabling  visitors  to  regain  a  sense  of  protection,  courage,  and  freedom  at  the 
+exhibition and complete a dialogue with themselves.
+
+DIMOO  continued  to  accompany  consumers  with  warmth  and  healing.  The  “Moments  in 
+Bloom”  series  takes  the  spring  breeze,  flowers,  and  light  and  shadow  as  inspiration  to  record  the 
+unexpected  beauty  in  life.  “The  Secret  Theatre  Club”  series  is  themed  around  fascinating  stage 
+performances, depicting unique and novel stories to unlock unexpected surprises and gain courage.
+
+SKULLPANDA  continued  to  push  the  boundaries  of  artistic  styling  and  expressive  presentation 
+and  launched  a  co-branded  series  with  “My  Little  Pony”.  Such  series  mixes  the  differentiated 
+visual  styles  and  creative  concepts  of  both  IPs,  presents  the  infinite  possibilities  of  friendship 
+and  creativity  with  vibrant  colours,  and  has  garnered  widespread  popularity  among  global  fans. 
+The  “Petals  in  Four  Acts”  series  embodies  both  aesthetic  tension  and  philosophical  depth. 
+Utilising  flowers  and  plants  as  creative  carriers,  and  drawing  inspiration  from  four  classic  plays 
+by Shakespeare, this series illustrates the passage of time, the vicissitudes of fate and the cycle of 
+life  through  the  natural  cycle  of  flowers  from  budding  and  blooming  to  withering,  thereby  further 
+enriching the artistic expression and narrative connotation of the IP.
+
+HIRONO cultivates a distinctive spiritual universe through its iconically soothing design language. 
+The  HIRONO  stores  have  entered  the  markets  in  the  United  Kingdom  and  South  Korea,  and  it 
+continues  to  present  the  exclusive  HIRONO  World  across  diversified  product  categories,  thereby 
+driving the brand’s extension into broader lifestyle sectors.
+
+In  2026,  MOLLY  celebrated  the  20th  anniversary  of  its  birth.  The  thematic  exhibition  “The  Little 
+Galaxy” was successively held in Hong Kong, Shanghai and Beijing, comprehensively and vividly 
+presenting  the  growth  trajectory  of  MOLLY,  the  creative  contexts  across  different  stages,  and 
+the  more  diversified  possibilities  in  the  future,  thereby  evoking  the  emotional  memories  of  fans 
+growing  up  together  with  MOLLY  through  an  immersive  exhibition  experience.  Going  forward, 
+“The Little Galaxy” will continue its touring exhibition in other countries, embarking on a journey 
+of memories with fans worldwide.
+
+20
+
+We  continued  to  expand  the  scope  of  licensed  IPs.  Through  cooperation  with  various  copyright 
+owners of anime, games, movies and celebrity IPs we launched a series of pop toys and co-branded 
+products  in  different  types  and  diversified  styles  to  meet  the  interests  and  needs  of  different 
+consumers. Meanwhile, we continued to expand the territories of IP licensing, and already obtained 
+global  licenses  for  most  of  our  licensed  IPs,  providing  global  consumers  with  richer  and  more 
+unique pop toy culture experience.
+
+In  the  first  half  of  2026,  plush  products  achieved  a  revenue  of  RMB9,824.9  million,  representing 
+a  year-on-year  increase  of  60%,  maintaining  strong  growth  momentum.  With  a  focus  on  IP  as  the 
+core,  we  tailor  plush  products  that  are  style-consistent  and  significantly  differentiated  by  deeply 
+exploring  characteristics  of  each  IP.  This  has  positioned  our  products  as  a  crucial  medium  for 
+IP  storytelling  and  emotional  expression.  During  the  Reporting  Period,  several  IPs,  including 
+Nyota,  Zsiga,  and  Peach  Riot,  launched  their  first  plush  pendants,  which  were  widely  favored  by 
+consumers.  PUCKY’s  “Tap  Tap  Babies”  series  of  vinyl  plush  pendants  launched  at  the  beginning 
+of the year, garnered extensive attention on social platforms by virtue of its entertaining interactive 
+design,  and  were  affectionately  nicknamed  the  “electronic  wooden  fish”  by  fans,  becoming  one 
+of  the  representative  popular  products  during  the  Reporting  Period.  Benefiting  from  the  accurate 
+interpretation  of  the  IP  spirit,  along  with  continuous  innovations  in  aspects  such  as  material  and 
+craftsmanship,  interactive  features,  and  usage  scenarios,  our  plush  products  have  further  enriched 
+the  consumer  experience.  This  has  not  only  deepened  the  emotional  connection  with  existing  fans 
+but also helped our brand reach more new consumers globally.
+
+Consumer Access
+
+－  Offline channels
+
+As  of  30  June  2026,  the  Group  operated  a  total  of  676  stores  and  2,827  roboshops  globally, 
+representing a net increase of 46 stores and 190 roboshops, respectively, during the Reporting 
+Period.
+
+In  the  PRC  market,  we  focus  on  comprehensive  innovation  in  customer  experience.  By 
+enhancing  store  service  quality  and  launching  diversified  and  immersive  interactive 
+marketing,  we  continuously  strengthened  emotional  connections  between  consumers  and  the 
+brand,  thereby  driving  the  business  to  achieve  steady  and  high-quality  growth.  During  the 
+Reporting  Period,  there  was  a  net  increase  of  10  physical  stores,  increasing  the  number  of 
+stores from 445 as of 31 December 2025 to 455 as of 30 June 2026.
+
+In  the  Asia-Pacific1  market,  the  Group  continued  to  optimize  local  operations  and  promote 
+the  synergistic  development  of  local  retail  and  travel  retail,  further  enhancing  the  local 
+retail  network.  During  the  Reporting  Period,  there  was  a  net  increase  of  5  physical  stores, 
+increasing the number of stores from 85 as of 31 December 2025 to 90 as of 30 June 2026.
+
+In the Americas market, we continuously advanced the strategic layout with the United States 
+as the core market. We continued to steadily expand our offline channels, broaden our brand 
+coverage  and  enhance  the  awareness  and  influence  of  our  IPs.  During  the  Reporting  Period, 
+there was a net increase of 22 physical stores, increasing the number of stores from 64 as of 
+31 December 2025 to 86 as of 30 June 2026.
+
+1. 
+
+Refers to other countries and regions in Asia and Oceania other than the PRC
+
+21
+
+In  the  European  market,  we  continuously  deepened  brand  building  with  a  focus  on  core 
+regions in key countries, enhancing brand exposure by opening landmark stores in core cities 
+globally,  and  deepening  consumers’  awareness  of  the  brand  and  its  IPs  through  immersive 
+IP  experiences.  During  the  Reporting  Period,  there  was  a  net  increase  of  9  physical  stores, 
+increasing the number of stores from 36 as of 31 December 2025 to 45 as of 30 June 2026.
+
+–  Online channels
+
+In  the  first  half  of  2026,  the  Group  continued  to  enhance  its  global  online  channel  system 
+centered on self-developed APP and official website with coverage across major e-commerce 
+platforms.  This  strengthened  our  brand’s  direct  consumer  reach,  continuously  improved 
+operational efficiency, and optimized consumer experience.
+
+Our  self-developed  APP  and  official  website  serve  as  the  Group’s  digital  infrastructure 
+connecting  global  consumers.  During  the  Reporting  Period,  the  Group  continued  to  enhance 
+its global online operational capabilities, and optimized the presentation of IPs and products, 
+interactive  features,  local  payment,  logistics  and  delivery,  and  customer  service  systems,  to 
+bring  more  convenient,  consistent,  and  unique  brand  experience.  Meanwhile,  we  rolled  out 
+online-to-offline (O2O) functions, such as in-store pickup and in-store lottery, as well as the 
+“Pop  Now”  feature  to  more  countries  and  regions,  bringing  consumers  a  more  entertaining 
+shopping  experience.  In  the  PRC  market,  we  further  leveraged  the  unique  advantages  of  the 
+interactive  consumer  experience  of  “Pop  Draw”  feature  to  continuously  optimize  the  cross-
+channel  experience  for  offline  members,  improve  purchase  conversion,  and  enhance  member 
+stickiness.
+
+The  Group  reached  consumers  with  diverse  shopping  habits  and  preferences  through 
+e-commerce  platforms.  In  content-related  e-commerce,  we  continuously  strengthened  our 
+live-streaming  operational  capabilities.  Focusing  on  “content  interaction  and  emotional 
+connection”,  we  continuously  upgraded  the  immersive  brand  experience  to  effectively 
+enhance  traffic  conversion  efficiency.  In  shelf-based  e-commerce,  we  adhered  to 
+implementing  region-specific  operational  strategies.  In  the  PRC  market,  we  continued  to 
+enhance the refined operational capabilities of our flagship stores on platforms such as Tmall 
+and  JD.com,  further  strengthened  the  connection  between  third-party  platforms  and  our 
+own  channels,  and  continuously  enhanced  member  penetration  and  stickiness.  In  the  Asia-
+Pacific  market,  we  continuously  improved  our  localized  operational  system,  serving  local 
+consumers  through  major  e-commerce  platforms  such  as  Shopee  and  Lazada  to  expand  our 
+brand  influence.  In  the  European  and  American  markets,  we  fully  leveraged  the  channel 
+advantages  of  platforms  such  as  Amazon  to  extensively  reach  users  and  further  enhance  our 
+brand awareness.
+
+–  Member operation
+
+With  the  steady  expansion  of  the  Group’s  global  business  footprint,  the  brand  awareness 
+of  the  Group  and  the  influence  of  its  IPs  have  continued  to  increase,  while  its  membership 
+base  has  continued  to  grow.  As  of  30  June  2026,  the  cumulative  number  of  registered 
+members  globally  exceeded  100  million.  In  the  Chinese  Mainland  market,  as  our  omni-
+channel  operations  developed  in  an  increasingly  sound  and  orderly  manner,  we  continued  to 
+satisfy members’ diversified IP and product demands and kept upgrading member experience 
+and  operational  mechanisms,  driving  the  steady  growth  of  both  new  and  existing  members, 
+facilitating  cross-category  and  cross-channel  consumption  conversion,  and  further  enhancing 
+member  stickiness  to  our  brand.  As  of  30  June  2026,  the  cumulative  number  of  registered 
+members  in  the  Chinese  Mainland  increased  from  72.58  million  as  of  31  December  2025 
+to  82.44  million,  representing  an  increase  of  9.86  million  newly  registered  members.  In  the 
+first half of 2026, the sales contributed by our members in the Chinese Mainland represented 
+92.9% of revenue from the Chinese Mainland, with the repeat purchase rate of such member 
+group being 51.6%2.
+
+2. 
+
+Represents the proportion of the number of members who purchased our products twice or more in the first half 
+of 2026 to the total number of purchasing members during the same period
+
+22
+
+Theme Park and IP Experience and Innovative Business Incubation
+
+POP LAND is a significant extension of the Group’s IP-centric commercial ecosystem. Following a 
+year-long upgrades and renovation, the areas were officially opened to visitors. With more diverse 
+themed  park  settings,  interactive  rides,  performing  arts  offerings  and  event  series,  and  continuous 
+improvement in service quality and immersive on-site visitor experience, it enabled visitors to fully 
+appreciate the unique charm of Pop Mart’s proprietary IPs.
+
+While  retaining  all  original  classic  themed  zones,  the  park  has  developed  and  opened  four  brand-
+new  themed  areas  centred  around  the  two  major  IPs,  THE  MONSTERS  and  DIMOO,  namely 
+DIMOO  WORLD  CLOUDLAKE,  The  Monsterland  Marketplace,  LABUBU  Adventure  Fjord  and 
+LABUBU  Tribal  Hideaway,  integrating  the  character  settings  and  artistic  features  of  the  IPs  into 
+the  design  of  rides  and  themed  environments  to  create  a  highly  immersive  IP  experience  space 
+for visitors. Concurrently with the opening of the new areas, the park has upgraded its performing 
+arts  offerings.  Besides  classic  programmes,  additional  performance  stations  have  been  deployed, 
+with  more  “POP  MART  Friends”  arranged  to  deliver  a  more  engaging  interactive  experience. 
+Meanwhile,  the  park  has  launched  the  “Starry  Night  Adventure”  night  tour  programme,  which 
+expands  the  night-time  touring  scenarios  through  diverse  performing  arts  programmes  and  themed 
+activities, providing visitors with an enriched summer evening park experience.
+
+In  the  first  half  of  2026,  THE  MONSTERS’  “POP  MART  Friends”  set  off  from  POP  LAND  and 
+extended  their  presence  to  multiple  cities  and  international  sports  and  cultural  settings  across  the 
+globe.  During  the  Milan  Winter  Olympics,  LABUBU  made  an  appearance  in  Milan,  participating 
+in  the  opening  event  of  the  ISU  Home  of  Skating  and  interacting  with  athletes  and  volunteers.  In 
+parallel,  in  connection  with  the  FIFA  World  Cup  26,  the  Group  continuously  enriched  the  content 
+expressions  and  modes  of  interaction  of  THE  MONSTERS  through  various  forms,  including 
+content  co-creation,  offline  activities,  and  local  cultural  experiences,  thereby  deepening  the 
+emotional  connections  with  global  consumers  and  further  enhancing  the  global  awareness  and 
+influence of its IPs.
+
+In  the  first  half  of  2026,  we  hosted  multiple  large-scale  offline  themed  exhibitions  in  key 
+cities  around  the  world,  continuously  deepening  IP  operations  and  global  presence.  Themed 
+exhibitions  including  Twinkle  Twinkle’s  “Crush  On  You”  and  THE  MONSTERS’  “Hair  Salon” 
+were  successively  rolled  out  in  multiple  cities,  bringing  consumers  highly  engaging  interactive 
+IP  experiences  through  IP-specific  experiential  scene  design.  CRYBABY’s  “Cry  Me  An  Ocean” 
+event was held at the Singapore Oceanarium. Large-scale themed inflatable installations were also 
+successively presented in Beijing, Pattaya Beach, Thailand, and Losari Beach, Makassar, Indonesia. 
+By integrating local characteristics into the experiential settings, these events vividly conveyed the 
+narrative connotations and personality traits of the IPs, fostered closer emotional connections with 
+fans, and inspired further imagination and connection with the IPs.
+
+The  dessert  brand  “POP  BAKERY”  has  been  continuously  expanding  its  market  coverage.  It 
+has  rolled  out  pop-up  locations  in  multiple  core  cities  across  China,  and  opened  its  first  store 
+in  Aranya.  With  Twinkle  Twinkle  as  the  core  thematic  design,  the  store  integrates  the  IP  visual 
+identity  with  bakery  products,  spatial  design  and  consumer  experience,  thereby  further  enriching 
+the  scenario-based  manifestation  of  the  IP,  and  offering  consumers  an  experience  that  embodies 
+both emotional warmth and distinctive brand attributes.
+
+In the future, the Group will continue to center on IPs, actively explore diverse business expansion 
+paths,  continuously  expand  the  scope  of  content  expression  and  value  boundaries  of  its  IPs, 
+establish longer-lasting connections with fans, and bring more wonderful experiences to consumers.
+
+23
+
+FINANCIAL REVIEW
+
+Sales Revenue
+
+Revenue  of  the  Company  increased  from  RMB13,876.3  million  for  the  first  half  of  2025  to 
+RMB17,172.9 million for the first half of 2026, representing a year-on-year increase of 23.8%.
+
+Revenue by regions
+
+The  revenue  of  the  Company  is  broken  down  by  region  into:  (1)  the  PRC,  (2)  Asia  Pacific,  (3) 
+Americas,  and  (4)  Europe  and  other  regions.  The  following  table  sets  forth  the  revenue  of  the 
+Company by region for the first half of 2026 and the first half of 2025:
+
+For the six months ended 
+30 June 2026
+
+For the six months ended 
+30 June 2025
+
+Revenue
+RMB’000
+
+12,200,509
+2,575,045
+1,891,637
+505,730
+
+Proportion 
+of revenue
+
+71.0%
+15.0%
+11.0%
+3.0%
+
+Revenue
+RMB’000
+
+8,282,812
+2,850,902
+2,264,882
+477,680
+
+Proportion 
+of revenue
+
+Change in 
+revenue
+
+59.7%
+20.6%
+16.3%
+3.4%
+
+47.3%
+-9.7%
+-16.5%
+5.9%
+
+The PRC
+Asia Pacific
+Americas
+Europe and other regions
+
+Total
+
+17,172,921
+
+100.0% 13,876,276
+
+100.0%
+
+23.8%
+
+24
+
+(1)  The PRC
+
+Revenue  from  the  PRC  increased  by  47.3%  year-on-year  from  RMB8,282.8  million  for  the 
+first  half  of  2025  to  RMB12,200.5  million  for  the  first  half  of  2026.  The  table  below  sets 
+forth a breakdown of revenue by channels:
+
+For the six months ended 
+30 June 2026
+
+For the six months ended 
+30 June 2025
+
+Revenue
+RMB’000
+
+6,868,639
+6,089,686
+778,953
+
+4,778,746
+2,062,871
+976,376
+901,303
+838,196
+
+Proportion 
+of revenue
+
+56.3%
+49.9%
+6.4%
+
+39.2%
+16.9%
+8.0%
+7.4%
+6.9%
+
+Revenue
+RMB’000
+
+5,084,246
+4,405,948
+678,298
+
+2,937,255
+1,125,227
+561,138
+657,503
+593,387
+
+Proportion 
+of revenue
+
+Change in 
+revenue
+
+61.4%
+53.2%
+8.2%
+
+35.5%
+13.6%
+6.8%
+7.9%
+7.2%
+
+35.1%
+38.2%
+14.8%
+
+62.7%
+83.3%
+74.0%
+37.1%
+41.3%
+
+Offline channels
+Retail stores
+Roboshops
+
+Online channels
+Pop Draw
+DouYin platform
+Tmall flagship store
+Other online channels
+
+Wholesales and others
+
+553,124
+
+4.5%
+
+261,311
+
+3.1%
+
+111.7%
+
+Total
+
+12,200,509
+
+100.0%
+
+8,282,812
+
+100.0%
+
+47.3%
+
+Offline channels in the PRC. Revenue increased by 35.1% from RMB5,084.2 million for the 
+first half of 2025 to RMB6,868.6 million for the first half of 2026. The PRC offline channels 
+are divided into retail stores and roboshops.
+
+By region
+
+Retail stores
+For the six months ended 30 June
+2025
+2026
+
+Roboshops
+For the six months ended 30 June
+2025
+2026
+
+Number
+
+Revenue
+(RMB’000)
+
+Number
+
+Revenue
+(RMB’000)
+
+Number
+
+Revenue
+(RMB’000)
+
+Number
+
+Revenue
+(RMB’000)
+
+Chinese mainland
+Hong Kong, Macao and Taiwan
+
+419
+36
+
+5,427,444
+662,242
+
+409
+34
+
+3,648,359
+757,589
+
+2,436
+46
+
+757,958
+20,995
+
+2,396
+41
+
+643,440
+34,858
+
+Total
+
+– 
+
+455
+
+6,089,686
+
+443
+
+4,405,948
+
+2,482
+
+778,953
+
+2,437
+
+678,298
+
+Retail  stores.  Revenue  from  retail  store  sales  increased  by  38.2%  year-on-year  from 
+RMB4,405.9  million  for  the  first  half  of  2025  to  RMB6,089.7  million  for  the  first  half 
+of 2026. This growth was attributable to, on one hand, the increase in new members as 
+stores paid more attention to operational services and improved the customer experience 
+through  store  renovations  and  upgrades.  On  the  other  hand,  it  was  attributable  to  the 
+increase in the number of stores, with the number of stores increasing by 12 in the first 
+half of 2026 as compared to the same period last year.
+
+25
+
+– 
+
+Roboshops.  Revenue  from  roboshop  sales  increased  by  14.8%  year-on-year  from 
+RMB678.3  million  for  the  first  half  of  2025  to  RMB779.0  million  for  the  first  half  of 
+2026.  This  growth  was  driven,  on  one  hand,  by  our  focus  on  the  operational  efficiency 
+of each machine under refined operation, and timely business adjustments. On the other 
+hand,  it  benefited  from  the  increase  in  number  of  roboshops,  which  increased  by  45  in 
+the first half of 2026 as compared to the same period last year.
+
+Online  channels  in  the  PRC.  Revenue  from  online  sales  increased  by  62.7%  from 
+RMB2,937.3  million  for  the  first  half  of  2025  to  RMB4,778.7  million  for  the  first  half  of 
+2026.  Revenue  from  online  channels  in  the  PRC  includes  those  generated  from  Pop  Draw, 
+DouYin platform, Tmall flagship store and other online channels. By continuously introducing 
+new  interactive  gameplay  to  improve  customer  conversion  rates  and  provide  consumers  with 
+a more interesting consumption experience, revenue from Pop Draw increased by 83.3% year-
+on-year  to  RMB2,062.9  million  for  the  first  half  of  2026.  Other  online  platforms  operated 
+in  a  differentiated  manner,  precisely  aligning  platform  offerings  with  user  needs  to  improve 
+operational efficiency and drive revenue growth.
+
+Wholesales  and  others  in  the  PRC.  Revenue  increased  by  111.7%  from  RMB261.3  million 
+for  the  first  half  of  2025  to  RMB553.1  million  for  the  first  half  of  2026.  The  increase  was 
+mainly  attributable  to  the  growth  in  revenue  from  POP  LAND,  the  dessert  business  of  POP 
+BAKERY and the accessory business of POPOP.
+
+26
+
+(2)  Asia Pacific
+
+Revenue  from  Asia  Pacific  decreased  by  9.7%  from  RMB2,850.9  million  for  the  first  half 
+of  2025  to  RMB2,575.0  million  for  the  first  half  of  2026.  The  table  below  sets  forth  a 
+breakdown of revenue by channels:
+
+For the six months ended 
+30 June 2026
+
+For the six months ended 
+30 June 2025
+
+Revenue
+RMB’000
+
+1,772,694
+1,716,171
+56,523
+
+Proportion 
+of revenue
+
+68.8%
+66.6%
+2.2%
+
+Revenue
+RMB’000
+
+1,525,588
+1,492,991
+32,597
+
+643,551
+
+25.0%
+
+1,069,214
+
+338,397
+106,528
+198,626
+
+13.1%
+4.1%
+7.8%
+
+312,968
+280,778
+475,468
+
+Proportion 
+of revenue
+
+Change 
+in revenue
+
+53.5%
+52.4%
+1.1%
+
+37.5%
+
+11.0%
+9.8%
+16.7%
+
+16.2%
+14.9%
+73.4%
+
+-39.8%
+
+8.1%
+-62.1%
+-58.2%
+
+Offline channels
+Retail stores
+Roboshops
+
+Online channels
+Self-developed APP and 
+  official website
+Shopee
+Other online channels
+
+Wholesales and others
+
+158,800
+
+6.2%
+
+256,100
+
+9.0%
+
+-38.0%
+
+Total
+
+2,575,045
+
+100.0%
+
+2,850,902
+
+100.0%
+
+-9.7%
+
+Offline  channels  in  Asia  Pacific.  Revenue  increased  by  16.2%  from  RMB1,525.6  million 
+for  the  first  half  of  2025  to  RMB1,772.7  million  for  the  first  half  of  2026.  Revenue  from 
+retail  stores  accounted  for  66.6%  of  revenue  from  Asia  Pacific  and  the  number  of  retail 
+stores  increased  from  69  for  the  first  half  of  2025  to  90  for  the  first  half  of  2026.  We  will 
+continuously  strengthen  localized  refined  operation,  and  continue  to  enhance  the  shopping 
+experience  of  consumers  by  catering  to  the  differentiated  consumer  segments  across  various 
+countries in Asia Pacific.
+
+Online  channels  in  Asia  Pacific.  Revenue  from  online  sales  decreased  by  39.8%  from 
+RMB1,069.2  million  for  the  first  half  of  2025  to  RMB643.6  million  for  the  first  half  of 
+2026.  Revenue  from  online  channels  in  Asia  Pacific  includes  the  revenue  generated  from 
+self-developed  APP  and  official  website,  Shopee  and  other  online  channels.  As  the  benefits 
+from  external  traffic  for  online  channels  was  gradually  diminishing,  we  shifted  our  business 
+from  “scale  expansion”  to  “refined  operations”,  with  platform  integration  focusing  on  more 
+core channels.
+
+Wholesales  and  others  in  Asia  Pacific.  Revenue  decreased  by  38.0%  from  RMB256.1 
+million for the first half of 2025 to RMB158.8 million for the first half of 2026.
+
+27
+
+(3)  Americas
+
+Revenue  from  Americas  decreased  by  16.5%  from  RMB2,264.9  million  for  the  first  half 
+of  2025  to  RMB1,891.6  million  for  the  first  half  of  2026.  The  table  below  sets  forth  a 
+breakdown of revenue by channels:
+
+For the six months ended 
+30 June 2026
+
+For the six months ended 
+30 June 2025
+
+Revenue
+RMB’000
+
+1,007,007
+903,063
+103,944
+
+Proportion 
+of revenue
+
+53.2%
+47.7%
+5.5%
+
+Revenue
+RMB’000
+
+842,390
+736,961
+105,429
+
+722,144
+
+38.2%
+
+1,326,565
+
+491,235
+168,318
+62,591
+
+26.0%
+8.9%
+3.3%
+
+886,501
+125,039
+315,025
+
+Proportion 
+of revenue
+
+Change 
+in revenue
+
+37.2%
+32.5%
+4.7%
+
+58.6%
+
+39.2%
+5.5%
+13.9%
+
+19.5%
+22.5%
+-1.4%
+
+-45.6%
+
+-44.6%
+34.6%
+-80.1%
+
+Offline channels
+Retail stores
+Roboshops
+
+Online channels
+Self-developed APP and 
+  official website
+Amazon
+Other online channels
+
+Wholesales and others
+
+162,486
+
+8.6%
+
+95,927
+
+4.2%
+
+69.4%
+
+Total
+
+1,891,637
+
+100.0%
+
+2,264,882
+
+100.0%
+
+-16.5%
+
+Offline  channels  in  Americas.  Offline  revenue  increased  by  19.5%  from  RMB842.4 
+million  for  the  first  half  of  2025  to  RMB1,007.0  million  for  the  first  half  of  2026.  Revenue 
+growth was primarily driven by business expansion. The number of retail stores in Americas 
+increased from 41 in the first half of 2025 to 86 in the first half of 2026.
+
+Online  channels  in  Americas.  Online  revenue  decreased  by  45.6%  from  RMB1,326.6 
+million  in  the  first  half  of  2025  to  RMB722.1  million  in  the  first  half  of  2026.  Revenue 
+from  online  channels  in  the  Americas  includes  self-developed  APP  and  official  website, 
+Amazon  and  other  online  channels.  The  popularity  of  the  core  IPs  returns  to  normal  levels 
+and the general traffic and customer acquisition capabilities of online channels remain under 
+development.  Going  forward,  we  will  enhance  user  operations  to  restore  traffic  growth  and 
+conversion rates.
+
+Wholesales and others in Americas. Revenue increased by 69.4% from RMB95.9 million in 
+the first half of 2025 to RMB162.5 million in the first half of 2026.
+
+28
+
+(4)  Europe and other regions
+
+Revenue  from  Europe  and  other  regions  increased  by  5.9%  from  RMB477.7  million  for  the 
+first half of 2025 to RMB505.7 million for the first half of 2026. The table below sets forth a 
+breakdown of revenue by channels:
+
+For the six months ended 
+30 June 2026
+
+For the six months ended 
+30 June 2025
+
+Offline channels
+Retail stores
+Roboshops
+
+Online channels
+Self-developed APP and 
+  official website
+Other online channels
+
+414,172
+403,066
+11,106
+
+67,631
+
+52,991
+14,640
+
+Proportion 
+of revenue
+
+Revenue
+RMB’000
+
+Revenue
+RMB’000
+
+276,527
+272,110
+4,417
+
+81.9%
+79.7%
+2.2%
+
+13.4%
+
+164,963
+
+10.5%
+2.9%
+
+84,694
+80,269
+
+Proportion 
+of revenue
+
+Change 
+in revenue
+
+57.9%
+57.0%
+0.9%
+
+34.5%
+
+17.7%
+16.8%
+
+49.8%
+48.1%
+151.4%
+
+-59.0%
+
+-37.4%
+-81.8%
+
+Wholesales and others
+
+23,927
+
+4.7%
+
+36,190
+
+7.6%
+
+-33.9%
+
+Total
+
+505,730
+
+100.0%
+
+477,680
+
+100.0%
+
+5.9%
+
+Offline channels in Europe and other regions. Revenue increased from RMB276.5 million 
+in the first half of 2025 to RMB414.2 million in the first half of 2026, representing a growth 
+of  49.8%.  The  number  of  retail  stores  in  Europe  and  other  regions  increased  from  18  in  the 
+first half of 2025 to 45 in the first half of 2026.
+
+Online  channels  in  Europe  and  other  regions.  Revenue  decreased  by  59.0%  from 
+RMB165.0 million in the first half of 2025 to RMB67.6 million in the first half of 2026. We 
+are  further  developing  our  online  channels  in  Europe,  advancing  localized  operations  and 
+strengthening the local warehousing and logistics capabilities to better serve our consumers.
+
+29
+
+Revenue by IPs
+
+Pop  Mart  proprietary  products  are  our  major  product  type.  In  the  first  half  of  2026,  revenue  from 
+proprietary  products  contributed  99.3%  of  our  total  revenue.  Revenue  from  proprietary  products 
+increased by 24.0% from RMB13,753.4 million for the first half of 2025 to RMB17,060.7 million 
+for the first half of 2026.
+
+Proprietary  products  of  Pop  Mart  are  mainly  divided  into:  artist  IPs  and  licensed  IPs.  The  table 
+below sets forth a breakdown of revenue by IPs:
+
+For the six months ended 30 June
+2025
+2026
+
+Revenue
+RMB’000
+
+17,060,668
+15,289,469
+4,454,361
+2,649,969
+1,632,570
+1,619,217
+1,551,211
+1,008,855
+900,631
+298,341
+1,174,314
+
+Proportion 
+of revenue
+
+99.3%
+89.0%
+26.0%
+15.4%
+9.5%
+9.4%
+9.0%
+5.9%
+5.3%
+1.7%
+6.8%
+
+Revenue
+RMB’000
+
+13,753,405
+12,228,565
+4,814,017
+389,363
+1,218,170
+1,105,135
+1,220,504
+728,420
+1,357,248
+211,256
+1,184,452
+
+Proprietary products
+Artist IPs
+  THE MONSTERS
+  Twinkle Twinkle
+  CRYBABY
+  DIMOO
+  SKULLPANDA
+  HIRONO
+  MOLLY
+  Zsiga
+  Other artist IPs
+
+Licensed IP
+
+1,771,199
+
+10.3%
+
+1,524,840
+
+Proportion 
+of revenue
+
+99.1%
+88.1%
+34.7%
+2.8%
+8.8%
+8.0%
+8.8%
+5.2%
+9.8%
+1.5%
+8.5%
+
+11.0%
+
+External procurement and 
+
+others
+
+Total
+
+112,253
+
+0.7%
+
+122,871
+
+0.9%
+
+17,172,921
+
+100.0%
+
+13,876,276
+
+100.0%
+
+30
+
+– 
+
+– 
+
+Artist  IPs.  Artist  IPs  are  the  major  product  type  of  the  Company,  primarily  including  THE 
+MONSTERS,  Twinkle  Twinkle,  CRYBABY  and  DIMOO.  The  proportion  of  revenue  from 
+artist IPs increased from 88.1% for the first half of 2025 to 89.0% for the first  half of 2026. 
+Revenue  from  artist  IPs  increased  by  25.0%  from  RMB12,228.6  million  for  the  first  half  of 
+2025 to RMB15,289.5 million for the first half of 2026, of which Twinkle Twinkle generated 
+revenue of RMB2,650.0 million in the first half of 2026, representing a year-on-year increase 
+of  580.6%.  We  continuously  enhanced  the  innovative  design  of  our  products,  and  used  a 
+diverse range of products as vehicles for conveying the artistic expression of our IPs.
+
+Licensed  IPs.  Revenue  from  licensed  IPs  increased  by  16.2%  from  RMB1,524.8  million  for 
+the  first  half  of  2025  to  RMB1,771.2  million  for  the  first  half  of  2026,  mainly  because  we 
+continued  to  expand  the  scope  of  IP  licensing  and  introduced  more  products  with  different 
+styles and categories.
+
+Revenue by product category
+
+The  Company’s  products  are  mainly  categorized  into  plush  toys,  figure  toys  and  other  IP-related 
+products and others. The table below sets forth a breakdown of revenue by product category:
+
+For the six months ended 
+30 June 2026
+
+For the six months ended 
+30 June 2025
+
+Revenue
+RMB’000
+
+9,824,944
+5,192,493
+2,155,484
+
+Proportion 
+of revenue
+
+57.2%
+30.2%
+12.6%
+
+Revenue
+RMB’000
+
+6,139,236
+5,175,875
+2,561,165
+
+Proportion 
+of revenue
+
+Change
+in revenue
+
+44.2%
+37.3%
+18.5%
+
+60.0%
+0.3%
+-15.8%
+
+Plush toys
+Figure toys
+Other IP-related products and others
+
+Total
+
+17,172,921
+
+100.0%
+
+13,876,276
+
+100.0%
+
+23.8%
+
+At the product level, we kept introducing new products, enriching product offerings and enhancing 
+product design capability. Revenue from plush toys increased by 60.0% from RMB6,139.2 million 
+for the first half of 2025 to RMB9,824.9 million for the first half of 2026, accounting for 57.2% of 
+total revenue. Such increase benefited from the excellent presentation and unique soft touch of the 
+plush  material  as  well  as  our  continuous  innovation  in  craftsmanship  and  interactive  experiences, 
+which kept our plush toys highly popular among consumers.
+
+31
+
+Cost of Sales
+
+Our  cost  of  sales  increased  by  26.5%  from  RMB4,115.2  million  for  the  first  half  of  2025  to 
+RMB5,207.2  million  for  the  first  half  of  2026.  The  increase  was  primarily  due  to  the  increase  in 
+costs of inventories from RMB3,272.9 million for the first half of 2025 to RMB4,303.2 million for 
+the first half of 2026, which was mainly due to the increase in sales.
+
+Gross Profit
+
+The  Company’s  gross  profit  increased  by  22.6%  from  RMB9,761.1  million  for  the  first  half  of 
+2025  to  RMB11,965.7  million  for  the  first  half  of  2026,  primarily  due  to  the  increase  in  revenue. 
+Our gross profit margin decreased from 70.3% for the first half of 2025 to 69.7% for the first half 
+of 2026, primarily due to (1) the decrease in the proportion of overseas sales, leading to the decline 
+in  gross  profit  margin,  as  overseas  markets  are  sales  regions  with  high  gross  profit  margins;  and 
+(2) a rise in the procurement cost of goods as a result of the increase in the price of raw materials, 
+which in turn led to a decline in gross profit margin.
+
+Distribution and Selling Expenses
+
+Our  distribution  and  selling  expenses  increased  by  23.1%  from  RMB3,192.6  million  for  the  first 
+half  of  2025  to  RMB3,931.1  million  for  the  first  half  of  2026,  of  which,  lease-related  expenses, 
+employee  benefit  expenses  and  transportation  and  logistics  expenses  accounted  for  a  significant 
+part.
+
+– 
+
+– 
+
+– 
+
+Lease-related  expenses.  Lease-related  expenses,  which  included  depreciation  of  right-of-
+use  assets  and  expenses  relating  to  short-term  leases  and  variable  leases  not  included  in 
+lease  liabilities,  increased  by  43.3%  from  RMB728.4  million  for  the  first  half  of  2025  to 
+RMB1,044.1 million for the first half of 2026, which was mainly due to a net increase in the 
+number of offline retail stores by 105 compared with that of the first half of 2025.
+
+Employee benefit expenses. Employee benefit expenses increased by 45.7% from RMB560.8 
+million  for  the  first  half  of  2025  to  RMB817.1  million  for  the  first  half  of  2026,  which  was 
+mainly because the number of sales personnel increased from 6,219 for the first half of 2025 
+to  9,734  for  the  first  half  of  2026  to  meet  the  needs  of  business  expansion  arising  from  the  
+increase of number of stores globally.
+
+Transportation  and  logistics  expenses.  Transportation  and  logistics  expenses  decreased  by 
+4.8%  from  RMB677.1  million  for  the  first  half  of  2025  to  RMB644.7  million  for  the  first 
+half  of  2026,  mainly  due  to  the  relatively  high  international  logistics  costs  and  a  decrease 
+in  revenue  from  overseas,  resulting  in  a  decrease  in  overall  transportation  and  logistics 
+expenses.
+
+32
+
+General and Administrative Expenses
+
+Our  general  and  administrative  expenses  increased  by  20.3%  from  RMB770.4  million  for  the  first 
+half of 2025 to RMB926.5 million for the first half of 2026, of which, employee benefit expenses 
+accounted for a significant part, and the number of our administrative and design and development 
+personnel increased from 1,830 for the first half of 2025 to 2,322 for the first half of 2026.
+
+Other Income
+
+Other  income  of  the  Company  increased  by  350.4%  from  RMB67.2  million  for  the  first  half 
+of  2025  to  RMB302.8  million  for  the  first  half  of  2026,  among  which,  (1)  government  grants 
+increased  from  RMB37.8  million  for  the  first  half  of  2025  to  RMB239.5  million  for  the  first  half 
+of 2026; and (2) income from IP license fee and other services increased from RMB25.8 million in 
+the first half of 2025 to RMB60.6 million in the first half of 2026.
+
+Other (Losses)/Gains – Net
+
+Other  gains  of  the  Company  decreased  from  net  gains  of  RMB179.2  million  for  the  first  half 
+of  2025  to  net  losses  of  RMB688.8  million  for  the  first  half  of  2026,  among  which,  (1)  due  to 
+fluctuations  in  exchange  rates,  exchange  losses  of  RMB720.3  million  were  recorded  for  the  first 
+half of 2026, while exchange gains of RMB120.1 million were recorded for the first half of 2025; 
+and  (2)  gains  on  change  in  fair  value  of  financial  instruments  at  fair  value  through  profit  or  loss 
+increased from RMB23.7 million for the first half of 2025 to RMB37.4 million for the first half of 
+2026.
+
+Operating Profit
+
+In  light  of  the  above,  the  Company’s  operating  profit  increased  by  11.3%  from  RMB6,043.7 
+million for the first half of 2025 to RMB6,724.7 million for the first half of 2026.
+
+Finance Income – Net
+
+Our  finance  income,  net,  decreased  from  net  gains  of  RMB65.5  million  for  the  first  half  of  2025 
+to net gains of RMB11.5 million for the first half of 2026, primarily due to the increase in interest 
+expenses on lease liabilities.
+
+Income Tax Expense
+
+Our  income  tax  expense  increased  from  RMB1,475.2  million  for  the  first  half  of  2025  to 
+RMB1,666.5  million  for  the  first  half  of  2026  as  a  result  of  the  increase  in  profit  before  income 
+tax.  Our  effective  tax  rate  increased  from  24.0%  for  the  first  half  of  2025  to  24.6%  for  the  first 
+half of 2026.
+
+33
+
+Profit for the Period
+
+As a result of the above, our profit for the period increased from RMB4,681.7 million for the first 
+half of 2025 to RMB5,100.3 million for the Reporting Period, representing an increase of 8.9%.
+
+Non-IFRS Adjusted Net Profit
+
+The non-IFRS adjusted net profit has not been calculated in accordance with the IFRS Accounting 
+Standards,  thus  it  is  deemed  as  a  non-IFRS  financial  indicator.  The  non-IFRS  adjusted  net  profit 
+refers to the net profit after excluding share-based payment expenses, while the non-IFRS adjusted 
+net profit margin refers to the non-IFRS adjusted net profit divided by revenue. We are of the view 
+that such information is useful for investors to compare the results of the Group, provided that the 
+results  of  operation  or  cash  flows  of  the  Group  are  not  being  affected,  and  enables  investors  to 
+take into consideration of the indicators used by the management when assessing the results of the 
+Group.  Investors  shall  not  treat  non-IFRS  financial  indicator  as  an  alternative  or  better  version  of 
+the results of the Group prepared in accordance with IFRS Accounting Standards. In addition, not 
+all  companies  will  adopt  the  same  way  in  calculating  such  non-IFRS  financial  indicators.  Hence, 
+similar measurements made by other companies may not be comparable.
+
+The following table sets out the reconciliation of non-IFRS financial indicators of the Company for 
+the respective periods.
+
+Profit for the period
+Adjustments
+Share-based payment
+
+For the six
+months ended
+30 June 2026
+RMB’000
+
+For the six
+months ended
+30 June 2025
+RMB’000
+
+5,100,310
+
+4,681,713
+
+55,467
+
+27,917
+
+Non-IFRS adjusted net profit
+
+5,155,777
+
+4,709,630
+
+Non-IFRS adjusted net profit margin
+
+30.0%
+
+33.9%
+
+Share-based  payment  expenses  are  non-cash  items,  which  do  not  directly  reflect  our  business 
+operation.  Hence,  through  eliminating  the  effects  of  such  items  on  calculation  of  non-IFRS 
+adjusted  net  profit,  relevant  operating  performance  can  be  better  reflected,  and  it  would  be  more 
+convenient to compare operating performance in different periods.
+
+Current Assets, Financial Resources and Capital Expenditures
+
+For  the  six  months  ended  30  June  2026,  the  Company  and  its  subsidiaries  adopted  conservative 
+and stable fund management and financial policies in their overall business operations. The Group 
+maintained the following resources to meet its working capital requirements:
+
+34
+
+Current assets and current liabilities
+
+Our  net  current  assets  decreased  from  RMB17,746.5  million  as  of  31  December  2025  to 
+RMB17,419.8 million as of 30 June 2026.
+
+Trade receivables
+
+Trade  receivables  represent  outstanding  amounts  receivable  by  us  from  our  customers  in  the 
+ordinary  course  of  business.  Our  trade  receivables  decreased  from  RMB921.2  million  as  of 
+31  December  2025  to  RMB627.3  million  as  of  30  June  2026,  primarily  due  to  the  decrease  in 
+revenue  from  certain  online  platforms,  which  in  turn  led  to  a  decrease  in  trade  receivables.  Trade 
+receivables  turnover  days  increased  from  7  days  in  2025  to  8  days  for  the  six  months  ended  30 
+June 2026.
+
+Inventories
+
+Our  inventories  comprise  finished  goods.  Our  inventories  increased  from  RMB5,472.8  million 
+as  of  31  December  2025  to  RMB6,101.5  million  as  of  30  June  2026.  This  was  mainly  due  to  the 
+inventory  prepared  in  advance  for  overseas  market  expansion.  Inventory  turnover  days  increased 
+from 123 days in 2025 to 201 days for the six months ended 30 June 2026.
+
+Cash and cash equivalents
+
+Our  cash  and  cash  equivalents  primarily  comprise  cash  at  bank.  Cash  and  cash  equivalents 
+decreased  from  RMB13,775.1  million  as  of  31  December  2025  to  RMB12,442.1  million  as  of 
+30  June  2026,  primarily  due  to  (1)  net  cash  inflows  from  operating  activities  of  RMB3,637.3 
+million,  (2)  net  cash  inflows  from  investing  activities  of  RMB673.1  million,  primarily  due  to  the 
+redemption  of  time  deposits,  partially  offset  by  the  purchases  of  fixed  assets  and  financial  assets, 
+and  (3)  net  cash  outflows  from  financing  activities  of  RMB5,382.3  million,  primarily  for  the 
+payment of dividends and the repurchase of shares.
+
+Trade payables
+
+Trade  payables  primarily  represent  our  obligation  to  pay  for  merchandise  from  suppliers  in 
+the  ordinary  course  of  business.  Trade  payables  decreased  from  RMB1,858.2  million  as  of  31 
+December 2025 to RMB905.2 million as of 30 June 2026, primarily due to the substantial amount 
+of  centralised  procurement  of  goods  at  the  end  of  2025  to  build  up  inventory  reserves  to  meet 
+sales demand. Trade payables turnover days decreased from 51 days in 2025 to 48 days for the six 
+months ended 30 June 2026.
+
+35
+
+Bank borrowings
+
+The Group did not have any bank borrowings as of 30 June 2026.
+
+Pledge of Assets
+
+The Group did not have any pledged assets as of 30 June 2026.
+
+Gearing Ratio
+
+The  gearing  ratio  is  calculated  by  dividing  total  liabilities  by  total  assets  and  then  multiplying  by 
+100%. As at 30 June 2026, the gearing ratio of the Group was 24.9% as compared with the gearing 
+ratio of 29.4% as at 31 December 2025.
+
+Contingency
+
+We are not currently involved in any material legal proceedings, nor are we aware of any pending 
+or  potential  material  legal  proceedings  involving  us.  If  we  are  involved  in  such  material  legal 
+proceedings,  we  would  record  any  loss  or  contingent  liabilities  when,  based  on  information  then 
+available,  it  is  likely  that  a  loss  has  been  incurred  and  the  amount  of  the  loss  can  be  reasonably 
+estimated.
+
+Foreign Exchange Risk Management
+
+As  the  Company’s  subsidiaries  operate  in  the  PRC,  Asia  Pacific,  Americas  and  Europe  and  other 
+regions, they are exposed to foreign exchange risk arising from certain currency exposure (mainly 
+related  to  US  dollar,  Thai  Baht,  Singapore  dollar  and  Hong  Kong  dollar).  Our  management 
+considers that the business is not exposed to any significant foreign exchange risk as the financial 
+assets  and  liabilities  of  our  Group  denominated  in  currencies  other  than  the  respective  functional 
+currencies  of  our  operating  entities  are  insignificant.  Although  the  Group  does  not  hedge  against 
+foreign currency fluctuation, we will keep a close eye on relevant developments and take measures 
+when it is necessary to ensure the foreign exchange risk is under control.
+
+Capital Expenditures
+
+The  Company’s  capital  expenditures  consist  of  purchases  of  property,  plant  and  equipment  and 
+purchases of intangible assets. The table below sets out the Company’s capital expenditures for the 
+first half of 2025 and the first half of 2026:
+
+For the six
+months ended
+30 June 2026
+RMB’000
+
+For the six
+months ended
+30 June 2025
+RMB’000
+
+673,560
+50,579
+
+353,623
+20,900
+
+724,139
+
+374,523
+
+Purchases of property, plant and equipment
+Purchases of intangible assets
+
+Total
+
+36
+
+Human Resources
+
+As of 30 June 2026, we had a total of 12,056 employees, including 9,734 sales personnel and 2,322 
+administrative and design and development personnel. For the six months ended 30 June 2026, we 
+incurred  staff  costs  (including  remuneration,  payrolls,  allowances  and  benefits)  of  RMB1,405.0 
+million in total.
+
+Future Plans on Significant Investments
+
+As of 30 June 2026, we did not hold any significant investment.
+
+We  will  continue  to  seek  for  potential  strategic  investment  opportunities,  as  well  as  potential 
+quality target operations and assets that can create synergy effect to the Group.
+
+Material Acquisitions and Disposals
+
+For the six months ended 30 June 2026, we had not conducted any material acquisition or disposal 
+of subsidiaries, associates and joint ventures.
+
+SUBSEQUENT EVENT AFTER REPORTING PERIOD
+
+As  at  the  date  of  this  announcement,  the  Group  has  no  significant  events  occurred  after  the 
+Reporting Period which require additional disclosures or adjustments.
+
+37
+
+OUTLOOK
+
+IPs  have  always  been  the  core  of  the  Group’s  business  development.  Looking  ahead,  we  will 
+continue  to  deliver  joy  and  beauty  to  global  consumers  through  high-quality  design,  creative 
+products  and  premium  services,  making  IP  an  emotional  bond  that  transcends  national  borders, 
+languages  and  cultures.  At  the  same  time,  the  Group  will  continue  to  enhance  its  brand  value, 
+expand its product categories and innovate its forms of interaction, thereby continuously deepening 
+its  emotional  connection  with  consumers  and  further  strengthening  the  global  influence  and  long-
+term competitiveness of its brand and IP portfolio.
+
+The  Group  will  also  continue  to  diversify  IP  categories,  optimise  its  IP  matrix,  and  collaborate 
+with  outstanding  artists  and  designers  worldwide  to  constantly  enhance  its  design  innovation  and 
+product  R&D  capabilities,  rolling  out  more  high-quality  products  for  consumers.  We  will  adhere 
+to a long-term and systematic approach to the incubation and operation of IPs, explore in depth the 
+underlying  spirit  and  essence  of  IPs,  and  continuously  strengthen  content  development.  Through 
+richer  narrative  presentation  and  diversified  content  formats,  we  will  imbue  our  IPs  with  greater 
+emotional warmth, foster closer connections with fans and generate deeper emotional resonance.
+
+38
+
+The  Group  will  continue  to  advance  innovation  on  manufacturing  process  and  craftsmanship  and 
+technological  upgrades,  actively  explore  the  application  of  new  materials,  new  manufacturing 
+processes  and  new  visual  effects,  and  continuously  improve  the  full-chain  management  spanning 
+R&D  and  design,  manufacturing,  product  launch,  stock  replenishment  and  global  inventory 
+allocation  by  improving  the  automation  and  digitalisation  of  its  supply  chain.  We  will  continue 
+to  select  high-quality  and  high-efficiency  manufacturing  and  supply  chain  partners  to  further 
+establish  an  agile,  resilient  and  high-standard  global  production  and  supply  system  that  can  better 
+respond  to  demand  across  different  markets.  In  parallel,  we  will  continue  to  enhance  our  regional 
+warehousing  and  supply  chain  networks  to  improve  the  efficiency  of  global  inventory  allocation, 
+logistics  fulfilment  and  services.  The  Group  took  the  lead  in  initiating  the  formulation  of  the 
+first  national  standard  for  the  pop  toy  industry,  and  will  continue  to  advance  the  development  of 
+industry standardization in the future to facilitate the formulation, adoption and implementation of 
+relevant standards. The Group will also continue to uphold its sustainable development philosophy 
+and  progressively  expand  the  adoption  of  environmentally  friendly  materials  in  its  products  and 
+packaging, to provide safer and more sustainable product choices for consumers worldwide.
+
+The  Group  will  pursue  steady  expansion  of  its  global  business  footprint  and,  having  regard  to 
+the  development  stage  and  demand  profile  of  respective  markets,  continue  to  enhance  its  global 
+channel network. The Group will establish flagship stores at landmark locations in more core cities 
+and,  in  light  of  local  circumstances,  expand  retail  stores  and  roboshops,  to  enhance  consumer 
+experience  and  brand  awareness  through  immersive  IP-themed  settings  and  diversified  interactive 
+formats.  Concurrently,  the  Group  will  continue  to  increase  its  investment  in  self-developed  APP 
+and  official  website,  and  promote  the  iteration,  optimisation  and  integration  of  global  online 
+functions,  providing  convenient,  high-quality  and  engaging  shopping  experience  for  consumers  in 
+more countries and regions.
+
+The  Group  has  always  placed  consumer  experience  enhancement  at  its  core.  Going  forward,  the 
+Group  will  continuously  strengthen  the  differentiated  positioning  across  relevant  channels  and 
+its  merchandise  operating  capabilities,  to  meet  consumers’  diversified  needs  across  different 
+consumption scenarios and steadily enhance its omni-channel operating efficiency. We will further 
+advance the refined operation of our membership programme, constantly enrich content, interaction 
+and experience, and improve service quality, thereby deepening the emotional connection between 
+members  and  our  brand,  and  driving  the  gradual  transformation  of  consumers’  affection  for  our 
+products into long-term recognition of our brand and IPs.
+
+Going  forward,  while  further  developing  its  core  pop  toy  business  and  continuously  unlocking 
+value  of  existing  product  categories,  the  Group  will  proactively  explore  diversified  content 
+expressions and commercialisation paths for its IPs, incubate new products and product categories 
+with  growth  potential,  and  embed  IPs  into  more  scenarios  of  fans’  daily  lives.  We  will  also 
+steadily  advance  the  development  of  new  businesses,  including  POP  LAND  and  POP  BAKERY, 
+continuously explore synergies among different business formats, and build a more comprehensive 
+and diversified commercial ecosystem centred on IPs.
+
+Science  and  technology  help  us  survive,  but  art  and  culture  keep  us  alive.  As  a  pop  culture  and 
+entertainment  group  centred  on  IPs,  we  will  remain  committed  to  constructing  a  world-class 
+platform for artists, pursue diversified and long-term development trajectories for IPs, and advance 
+all IP-led businesses, delivering products and services with higher-quality, richer content and more 
+immersive  entertainment  experiences  to  global  fans.  Upholding  firmly  our  original  aspiration  of 
+“To  light  up  passion  and  bring  joy”,  we  will  continue  to  expand  the  connections  between  IP  and 
+emotions, lifestyles and experiences, and jointly explore more possibilities with our global fans in 
+terms of IPs.
+
+39
+
+USE OF NET PROCEEDS FROM LISTING
+
+The shares  of the  Company were listed on the Main Board of The Stock Exchange of  Hong Kong 
+Limited (the “Stock Exchange”) on 11 December 2020 by way of global offering, and the total net 
+proceeds  (the  “Net  Proceeds”)  received  by  the  Company  from  the  global  offering  (including  the 
+full  exercise  of  the  over-allotment  option)  amounted  to  approximately  HK$5,781.7  million  after 
+deducting  professional  fees,  underwriting  commissions  and  other  related  listing  expenses.  As  of 
+30  June  2026,  the  Company  had  utilized  approximately  HK$5,541.7  million  of  the  Net  Proceeds, 
+representing approximately 95.8% of the Net Proceeds.
+
+As  stated  in  the  prospectus  of  the  Company  dated  1  December  2020  (the  “Prospectus”)  and 
+the  announcement  of  the  Company  dated  25  March  2026  with  respect  to  changes  in  use  of  Net 
+Proceeds  (“Changes  in  Use  of  Net  Proceeds”),  the  intended  uses  and  the  balance  of  the  Net 
+Proceeds are set out below:
+
+Intended use of Net Proceeds
+
+(i)
+
+(ii)
+
+(iii)
+
+To finance part of our expansion 
+plans of consumer access 
+channels and overseas markets
+for opening new retail 
+(a) 
+stores
+for opening new roboshops
+for expanding our business 
+into overseas markets
+
+(b) 
+(c) 
+
+To fund our potential 
+investments in, acquisitions 
+of and strategic alliance with 
+companies along the value 
+chain of our industry, and 
+establishment and expansion of 
+IP commercialization platforms, 
+such as theme park, showcase 
+events, etc.
+To invest in technology 
+initiatives to strengthen our 
+marketing and fan engagement 
+efforts, and to enhance the 
+digitalization of our business
+for talent recruitment
+(a) 
+
+Allocation of 
+unutilized Net 
+Proceeds after 
+Changes in Use of 
+Net Proceeds
+
+Percentage of 
+unutilized Net 
+Proceeds after 
+Changes in 
+Use of 
+Net Proceeds
+
+Amount of 
+Net Proceeds 
+unutilized up to 
+31 December 2025
+
+Amount of 
+Net Proceeds 
+utilized during 
+6 months ended 
+30 June 2026
+
+Amount of 
+Net Proceeds 
+utilized up to 
+30 June 2026
+
+Balance of 
+Net Proceeds 
+unutilized as at 
+30 June 2026
+
+Intended timetable 
+for use of the 
+unutilized Net 
+Proceeds
+
+HK$773.6 million
+
+40.0%
+
+HK$773.6 million
+
+HK$773.6 million
+
+HK$773.6 million
+
+－
+
+－
+
+－
+
+－
+
+－
+
+－
+HK$773.6 million
+
+－
+40.0%
+
+－
+HK$773.6 million
+
+－
+HK$773.6 million
+
+－
+HK$773.6 million
+
+－ －
+
+－ －
+
+－ －
+－ －
+
+HK$386.9 million
+
+20.0%
+
+HK$386.9 million
+
+HK$146.9 million
+
+HK$146.9 million
+
+HK$240.0 million
+
+Before 31 December 
+  2026
+
+－
+
+－
+
+－
+
+－
+
+－ －
+
+－ －
+
+－
+
+－
+
+－
+
+－
+
+－
+
+－
+
+40
+
+Allocation of 
+unutilized Net 
+Proceeds after 
+Changes in Use of 
+Net Proceeds
+
+Percentage of 
+unutilized Net 
+Proceeds after 
+Changes in 
+Use of 
+Net Proceeds
+
+Amount of 
+Net Proceeds 
+unutilized up to 
+31 December 2025
+
+Amount of 
+Net Proceeds 
+utilized during 
+6 months ended 
+30 June 2026
+
+Amount of 
+Net Proceeds 
+utilized up to 
+30 June 2026
+
+Balance of 
+Net Proceeds 
+unutilized as at 
+30 June 2026
+
+Intended timetable 
+for use of the 
+unutilized Net 
+Proceeds
+
+－
+
+－
+
+－
+
+－
+
+－
+
+－ －
+
+－
+
+－
+
+－
+－
+
+－
+
+－
+－
+
+－
+
+－
+
+－
+
+－
+
+－
+－
+
+－
+
+－
+
+－
+
+－
+－
+
+－
+
+－
+
+－
+
+－
+－
+
+－
+
+－
+
+HK$773.6 million
+
+40.0%
+
+HK$773.6 million
+
+HK$773.6 million
+
+HK$773.6 million
+
+－ －
+
+－
+－ －
+
+－ －
+
+－ －
+
+－ －
+
+Intended use of Net Proceeds
+
+(c) 
+
+(b) 
+
+for acquiring relevant 
+software and hardware 
+to enhance digitalization 
+and establish information 
+systems for digital 
+marketing, customer 
+services, logistics, 
+products, supply chain, 
+warehousing, membership, 
+transactions and store 
+management and marketing
+for optimizing our 
+online marketing efforts, 
+which primarily consist 
+of strategically placed 
+advertisement, icons, 
+links and news feeds on 
+third party promotional 
+platforms
+To expand our IP pool
+(a) 
+
+for enhancing our ability to 
+identify outstanding artists
+for recruiting talented 
+designers to join our in-
+house design team to 
+enhance our in-house 
+original IP development 
+capability by providing 
+competitive salary
+for acquisitions of popular 
+IPs to expand our IP pool
+Working capital and general 
+corporate purposes
+
+(b) 
+
+(c) 
+
+(iv)
+
+(v)
+
+The  reasons  for  the  Changes  in  Use  of  Net  Proceeds  were  based  on  the  Board’s  careful 
+consideration  and  comprehensive  review  of  the  Group’s  operational  needs  and  long-term 
+development strategy, details of which were set out in the announcement of the Company dated 25 
+March 2026. The Group will utilise the Net Proceeds in accordance with the intended purposes as 
+set out in the Prospectus and the announcement of the Company dated 25 March 2026 on, amongst 
+others, Changes in Use of Net Proceeds.
+
+41
+
+INTERIM DIVIDEND
+
+The  Board  did  not  recommend  the  payment  of  an  interim  dividend  for  the  six  months  ended  30 
+June 2026.
+
+CORPORATE GOVERNANCE
+
+The  Group  is  committed  to  maintaining  high  standards  of  corporate  governance  to  safeguard  the 
+interests  of  the  shareholders  of  the  Company  and  to  enhance  corporate  value  and  accountability. 
+The  Company  has  adopted  the  Corporate  Governance  Code  (the  “CG  Code”)  as  set  out  in 
+Appendix  C1  to  the  Listing  Rules  as  its  own  code  of  corporate  governance.  The  Company  has 
+complied with all applicable code provisions of the CG Code during the six months ended 30 June 
+2026,  except  for  deviation  from  code  provision  C.2.1  of  Part  2  as  explained  under  the  paragraph 
+headed “Chairman and Chief Executive Officer” below.
+
+Chairman and Chief Executive Officer
+
+Code  provision  C.2.1  of  Part  2  of  the  CG  Code  stipulates  that  the  roles  of  Chairman  and  Chief 
+Executive  should  be  segregated  and  should  not  be  performed  by  the  same  individual.  According 
+to the current structure of the Board, the positions of the Chairman and Chief Executive Officer of 
+the Company are held by Mr. Wang Ning.
+
+The  Board  believes  that  this  structure  will  not  impair  the  balance  of  power  and  authority  between 
+the  Board  and  the  management  of  the  Company,  given  that:  (i)  decision  to  be  made  by  the 
+Board  requires  approval  by  at  least  a  majority  of  the  Directors  and  that  the  Board  comprises 
+three  independent  non-executive  Directors  out  of  nine  Directors,  and  the  Board  believes  there  is 
+sufficient  check  and  balance  on  the  Board;  (ii)  Mr.  Wang  Ning  and  other  Directors  are  aware  of 
+and  undertake  to  fulfil  their  fiduciary  duties  as  Directors,  which  require,  among  other  things,  that 
+they  act  for  the  benefit  and  in  the  best  interests  of  the  Company  and  will  make  decisions  of  the 
+Group accordingly; and (iii) the balance of power and authority is ensured by the operations of the 
+Board  which  comprises  experienced  and  high  caliber  individuals  who  meet  regularly  to  discuss 
+issues affecting the operations of the Group. Moreover, the overall strategic and other key business, 
+financial  and  operational  policies  of  the  Group  are  made  collectively  after  thorough  discussion  at 
+both the Board and senior management levels. Finally, as Mr. Wang Ning is our principal founder, 
+the  Board  believes  that  vesting  the  roles  of  both  chairman  and  Chief  Executive  Officer  in  the 
+same  person  has  the  benefit  of  ensuring  consistent  leadership  within  the  Group  and  enables  more 
+effective and efficient overall strategic planning for the Group. The Board will continue to review 
+the  effectiveness  of  the  corporate  governance  structure  of  the  Group  in  order  to  assess  whether 
+separation of the roles of chairman and chief executive officer is necessary.
+
+42
+
+MODEL CODE FOR SECURITIES TRANSACTIONS
+
+The  Company  has  adopted  the  Model  Code  for  Securities  Transactions  by  Directors  of  Listed 
+Issuers  (the  “Model  Code”)  as  set  out  in  Appendix  C3  to  the  Listing  Rules  as  its  own  code 
+of  conduct  regarding  directors’  securities  transactions.  Having  made  specific  enquiries  of  all 
+Directors, each of the Directors has confirmed that he/she has complied with the required standards 
+as set out in the Model Code during the six months ended 30 June 2026.
+
+PURCHASE,  SALE  OR  REDEMPTION  OF  LISTED  SECURITIES  OR  SALE  OF 
+TREASURY SHARES
+
+During  the  six  months  ended  30  June  2026,  the  Company  repurchased  a  total  of  11,220,000 
+shares  of  the  Company  on  the  Stock  Exchange  at  an  aggregate  consideration  of  approximately 
+HK$1,744,493,320.  The  repurchase  was  effected  for  the  enhancement  of  shareholder  value  in 
+the  long  term.  The  repurchased  shares  were  subsequently  cancelled.  Particulars  of  the  shares 
+repurchased are as follows:
+
+Month of Repurchase
+
+January
+March
+April
+Total
+
+No. of Shares 
+Repurchase
+
+1,900,000
+7,950,000
+1,370,000
+11,220,000
+
+Price Paid per Share
+Highest 
+(HK$)
+
+Lowest 
+(HK$)
+
+Aggregate 
+Consideration 
+(HK$)
+
+194.90
+157.80
+150.20
+
+177.70
+141.40
+140.90
+
+347,927,000
+1,197,961,120
+198,605,200
+1,744,493,320
+
+Save as disclosed above, during the six months ended 30 June 2026, neither the Company nor any 
+of  its  subsidiaries  has  purchased,  sold  or  redeemed  any  of  the  Company’s  listed  securities  or  sold 
+any treasury Shares (as defined under the Listing Rules). As at 30 June 2026, the Company did not 
+hold any treasury Shares (as defined under the Listing Rules).
+
+AUDIT COMMITTEE
+
+The audit committee of the Board (“Audit Committee”) comprises two independent non-executive 
+Directors  and  one  non-executive  Director,  namely,  Mr.  Wu  Liansheng,  Mr.  Ngan  King  Leung 
+Gary  and  Mr.  Tu  Zheng.  The  chairman  of  the  Audit  Committee  is  Mr.  Wu  Liansheng,  and  Mr. 
+Ngan  King  Leung  Gary,  a  member  of  the  Audit  Committee,  has  a  professional  qualification  in 
+accountancy.
+
+The  Audit  Committee  has  reviewed  with  management  the  accounting  principles  and  practices 
+adopted  by  the  Group,  and  discussed  internal  controls  and  financial  reporting  matters,  including  a 
+review of the interim financial information for the six months ended 30 June 2026.
+
+43
+
+The Company’s external auditor, PricewaterhouseCoopers, has performed a review of the Group’s 
+interim  financial  information  for  the  six  months  ended  30  June  2026  in  accordance  with  the 
+International  Standard  on  Review  Engagements  2410  “Review  of  Interim  Financial  Information 
+Performed  by  the  Independent  Auditor  of  the  Entity”.  Based  on  their  review,  nothing  has  come  to 
+their attention that causes them to believe that the interim financial information is not prepared, in 
+all  material  respects,  in  accordance  with  International  Accounting  Standard  34  “Interim  Financial 
+Reporting”.
+
+PUBLICATION  OF  THE  INTERIM  RESULTS  AND  2026  INTERIM  REPORT  ON  THE 
+WEBSITES OF THE STOCK EXCHANGE AND THE COMPANY
+
+This  interim  results  announcement  is  published  on  the  websites  of  the  Stock  Exchange  
+(www.hkexnews.hk) and the Company (www.popmart.com), and the interim report of the Company 
+for  the  six  months  ended  30  June  2026  containing  all  the  information  required  by  the  Listing 
+Rules will be published on the respective websites of the Stock Exchange and the Company in due 
+course.
+
+SUPPLEMENTAL ANNOUNCEMENT ON GRANT OF AWARDS
+
+Reference is made to the announcement of the Company dated 8 July 2026, in relation to the grant 
+of  Awards  pursuant  to  the  Post-IPO  Share  Award  Scheme  (the  “Announcement”).  The  Company 
+would  like  to  supplement  that  the  Service  Provider  Grantee  (as  defined  in  the  Announcement)  is 
+a  supplier  providing  IP  design  services  to  the  Group.  The  above  supplemental  information  does 
+not  affect  other  information  contained  in  the  Announcement.  Save  as  disclosed  above,  all  other 
+information in the Announcement remains unchanged.
+
+By order of the Board
+POP MART INTERNATIONAL GROUP LIMITED
+Wang Ning
+Executive Director, Chairman of the Board and Chief Executive Officer
+
+Hong Kong, 20 August 2026
+
+As at the date of this announcement, the executive Directors are Mr. Wang Ning, Ms. Liu Ran, Mr. 
+Si De and Mr. Moon Duk Il, the non-executive Directors are Mr. Tu Zheng and Mr. Wu Andrew 
+Yue, and the independent non-executive Directors are Mr. Zhang Jianjun, Mr. Wu Liansheng and 
+Mr. Ngan King Leung Gary.
+
+44
+
+

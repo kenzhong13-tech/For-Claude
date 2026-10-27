@@ -1,0 +1,7183 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility 
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly 
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the 
+contents of this announcement.
+
+This announcement contains forward-looking statements that involve risks and uncertainties. All statements other 
+than statements of historical fact are forward-looking statements. These statements involve known and unknown risks, 
+uncertainties and other factors, some of which are beyond the Company’s control that may cause the actual results, 
+performance or achievements to be materially different from those expressed or implied by the forward-looking 
+statements. You should not rely upon forward-looking statements as predictions of future events. The Company 
+undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, 
+future events or otherwise.
+
+Duality Biotherapeutics, Inc.
+映恩生物
+(Incorporated under the laws of the Cayman Islands with limited liability)
+(Stock Code: 9606)
+
+INTERIM RESULTS ANNOUNCEMENT
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+The  Board  is  pleased  to  announce  the  unaudited  condensed  consolidated  results  of  our  Group  for 
+the  six  months  ended  June  30,  2026,  together  with  the  comparative  figures  for  the  same  period  of 
+2025.
+
+In this announcement, “we”, “us” and “our” refer to the Company and where the context otherwise 
+requires,  the  Group.  Certain  amounts  and  percentage  figures  included  in  this  announcement  have 
+been  subject  to  rounding  adjustments,  or  have  been  rounded  to  one  or  two  decimal  places.  Any 
+discrepancies  in  any  table,  chart  or  elsewhere  between  totals  and  sums  of  amounts  listed  therein 
+are due to rounding.
+
+FINANCIAL HIGHLIGHTS
+
+Revenue
+
+Adjusted revenue for the period1
+Research and development expenses
+Loss for the period
+Adjusted (loss)/profit for the period2
+
+Cash and Bank Balances3
+
+1
+
+For the six months 
+ended June 30,
+
+2026 
+RMB’000 
+(unaudited)
+
+2025 
+RMB’000 
+(unaudited)
+
+219,330
+
+1,228,934
+
+510,000
+(606,667)
+(917,545)
+(626,875)
+
+1,228,934
+(349,387)
+(2,073,865)
+145,920
+
+As at 
+June 30,
+2026
+(unaudited)
+
+As at 
+December 31,
+2025
+(audited)
+
+3,006,458
+
+3,324,529
+
+1.  Calculated by adding back the one-off impact of revenue deduction arising from the exercise of the exclusive 
+cost and profit/loss sharing option for DB-1311/BNT324 in the U.S. market. For the six months ended June 
+30, 2026 and June 30, 2025, the portion of historical development costs attributable to the U.S. market was 
+recognized as deduction from revenue in the interim condensed consolidated statement of comprehensive loss, 
+amounting to RMB290.7 million and nil, respectively.
+
+2.  Calculated by deducting fair value change of financial liabilities at fair value through profit or loss from loss for 
+the period, and adding back deduction of revenue due to exercise of the exclusive cost and profit/loss sharing 
+option for DB-1311/BNT324 for the U.S. market. The revenue deduction arising from the exercise of the 
+exclusive cost and profit/loss sharing option for DB-1311/BNT324 in the U.S. market reflects the one-off impact 
+of the option exercise. For the six months ended June 30, 2026 and June 30, 2025, the portion of historical 
+development costs attributable to the U.S. market was recognized as deduction from revenue in the interim 
+condensed consolidated statement of comprehensive loss, amounting to RMB290.7 million and nil, respectively. 
+The fair value change of financial liabilities at fair value through profit or loss primarily arose from our 
+preferred shares issued in connection with previous equity financings prior to the Global Offering. Such fair 
+value changes were recognized up until April 15, 2025, the date of completion of our Global Offering. From 
+this date onward, these preferred shares ceased to exist, and there will be no further profit or loss impact of this 
+nature in subsequent financial periods. For the six months ended June 30, 2026 and June 30, 2025, the fair value 
+change of financial liabilities at fair value through profit or loss amounted to nil and a loss of RMB2,219.8 
+million, respectively. Please refer to the section headed “Financial Review — Non-HKFRS Measure” in this 
+announcement for further details.
+
+3.  Comprises cash and cash equivalents, restricted cash and term deposits with initial term over three months.
+
+BUSINESS HIGHLIGHTS
+
+The first half of 2026 marked a step-change in the maturity of our portfolio: we received our first 
+BLA  acceptance  of  HER2  ADC,  trastuzumab  pamirtecan,  initiated  the  first  Phase  3  clinical  trial 
+of  our  B7-H3  ADC,  elfetabart  drozuntecan,  generated  frontline  clinical  data  validating  our  ADC 
++  next-generation  immunotherapy  (“IO”)  combination  strategy,  and  moved  to  expand  our  U.S. 
+economic  interest  in  the  B7-H3  ADC  program.  Subsequent  to  the  period  end,  we  entered  into  a 
+new  collaboration  and  license  agreement  with  Genentech.  As  of  June  30,  2026,  more  than  3,500 
+patients have been enrolled across our clinical trials conducted in approximately 20 countries, with 
+around 50% located in the U.S., European Union, Australia and other regions outside China.
+
+Our progress in the first half of 2026 centered on four areas: advancing our Core Products toward 
+pivotal stage and registration; executing our ADC + next-generation IO combination strategy with 
+BioNTech;  sustaining  our  platform-driven  innovation  across  oncology  and  autoimmune  disease; 
+and expanding our global partnership franchise in value and reach. Alongside these achievements, 
+we  executed  Share  repurchases,  demonstrating  our  strong  confidence  in  the  Company’s  long-term 
+value.
+
+2
+
+Advancing Our Core Products Toward Pivotal Stage and Registration
+
+Elfetabart drozuntecan (DB-1311/BNT324)
+
+Elfetabart  drozuntecan  has  now  been  studied  in  more  than  1,000  patients  across  more  than  ten 
+tumor  types,  including  over  500  treated  in  combination  with  pumitamig  (PD-L1xVEGF  bsAb).  In 
+the  first  half  of  2026,  the  program  advanced  across  pivotal  execution,  regulatory  recognition  and 
+indication expansion, as we progress from monotherapy into next-generation IO combinations.
+
+• 
+
+• 
+
+• 
+
+• 
+
+Encouraging  Data  Update:  In  February  2026,  updated  data  from  the  ongoing  global  Phase 
+1/2  clinical  trial  (NCT05914116)  were  presented  at  the  ASCO  Genitourinary  Cancers 
+Symposium.  As  of  the  December  29,  2025  data  cutoff,  elfetabart  drozuntecan  demonstrated 
+a median rPFS of 11.3 months and a mOS of 22.5 months in patients with heavily pretreated 
+mCRPC  (n=129  evaluable,  including  patients  with  prior  Lu-177  treatment),  with  safety 
+findings consistent with prior reports and no new safety signals reported.
+
+First  Phase  3  Trial  Initiation:  Building  on  this  encouraging  clinical  activity,  in  May  2026, 
+the  first  patient  was  dosed  in  our  first  global,  randomized  Phase  3  clinical  trial  for  this 
+program (NCT07365995) versus docetaxel in taxane-naive mCRPC.
+
+Regulatory Recognition: In July 2026, the CDE granted elfetabart drozuntecan Breakthrough 
+Therapy Designation for the treatment of patients with mCRPC that has progressed following 
+an androgen receptor pathway inhibitor and taxane-based chemotherapy.
+
+Pan-Tumor  Potential:  The  program  continues  to  advance  beyond  prostate  cancer.  In 
+April  2026,  updated  data  from  the  same  trial  (NCT05914116)  were  presented  at  the  SGO 
+Annual  Meeting,  showing  encouraging  clinical  activity  in  previously  treated  cervical  cancer, 
+particularly in the second-line setting, as well as in PROC. The safety profile in gynecologic 
+malignancies was consistent with previous reports, and no new safety signals were observed.
+
+3
+
+Trastuzumab pamirtecan (DB-1303/BNT323)
+
+Trastuzumab  pamirtecan  continues  to  advance  toward  registration  across  breast  and  endometrial 
+cancers.  In  the  first  half  of  2026,  the  program  achieved  its  first  BLA  acceptance  in  China  in 
+HER2-positive  breast  cancer,  reported  potentially  registrational-cohort  data  in  HER2-expressing 
+endometrial cancer, and completed global Phase 3 enrollment in HER2-low breast cancer.
+
+• 
+
+• 
+
+• 
+
+First BLA Acceptance: In April 2026, the CDE accepted for review the BLA for trastuzumab 
+pamirtecan  for  the  treatment  of  adult  patients  with  unresectable  or  metastatic  HER2-positive 
+breast cancer.
+
+EC  Data  Update:  In  April  2026,  data  from  the  potentially  registrational  EC  cohort  of  the 
+global  Phase  1/2a  clinical  trial  (NCT05150691)  were  presented  at  the  SGO  Annual  Meeting. 
+Trastuzumab  pamirtecan  demonstrated  clinical  efficacy  across  all  HER2  expression  levels 
+(IHC 3+, 2+ and 1+) and regardless of prior IO treatment. The safety profile in patients with 
+pretreated  advanced  or  metastatic  EC  was  manageable  and  generally  consistent  with  that 
+of  HER2-targeted  biologics.  BioNTech  and  we  plan  to  file  a  BLA  in  2026.  The  companies 
+will  determine  the  optimal  regulatory  path  for  trastuzumab  pamirtecan  based  on  the  totality 
+of  clinical  data  in  endometrial  cancer  and  breast  cancer.  This  approach  is  in  line  with 
+companies’  value  optimization  strategy  for  the  asset  in  an  evolving  treatment  landscape  and 
+focuses on prioritizing opportunities where they can deliver significant benefit for patients.
+
+BC  Enrollment  Completion:  A  global  Phase  3  clinical  trial  (DYNASTY-Breast02, 
+NCT06018337)  in  HR-positive,  HER2-low  metastatic  BC  completed  enrollment  in  February 
+2026.  Based  on  current  event  accrual  projections,  interim  data  are  expected  in  the  fourth 
+quarter of 2026.
+
+Executing Our ADC + Next-Generation IO Combination Strategy with BioNTech
+
+Together  with  BioNTech,  we  are  advancing  an  ADC  +  next-generation  IO  combination  strategy 
+designed  to  move  our  ADCs  into  earlier  lines  of  treatment.  The  preliminary  frontline  efficacy 
+data  from  this  strategy,  reported  in  May  2026,  demonstrated  promising  clinical  activity  with  a 
+manageable  safety  profile,  supporting  both  the  therapeutic  rationale  and  the  combinability  of  our 
+ADCs  with  next-generation  IO.  Four  combination  trials  across  our  three  collaborative  assets  are 
+underway.
+
+• 
+
+• 
+
+Sacituzumab  drozuntecan  (DB-1305/BNT325):  In  May  2026,  at  the  2026  ESMO  Breast 
+Cancer  Congress,  data  from  the  Phase  2  expansion  cohort  of  the  global  Phase  1/2a  clinical 
+trial  (NCT05438329)  evaluating  sacituzumab  drozuntecan  in  combination  with  pumitamig  as 
+first-line treatment for unresectable, advanced or metastatic TNBC were presented. As of the 
+February 28, 2026 data cutoff, the combination achieved a uORR of 83.3%, a cORR of 76.7% 
+and a DCR of 96.7% (n=30). Responses were durable, with a six-month duration-of-response 
+rate of 95.2%, and the safety profile was manageable.
+
+Elfetabart  drozuntecan  (DB-1311/BNT324):  A  global  Phase  1/2  clinical  trial 
+(NCT06892548)  is  being  conducted  to  evaluate  elfetabart  drozuntecan  in  combination  with 
+pumitamig in advanced lung cancers. Data from this trial will be presented in a late-breaking 
+oral presentation at the 2026 WCLC.
+
+Additionally,  a  global  Phase  2  clinical  trial  (NCT06953089)  is  being  conducted  to  evaluate 
+elfetabart  drozuntecan  in  combination  with  pumitamig  or  with  sacituzumab  drozuntecan 
+(DB-1305/BNT325)  in  advanced  solid  tumors.  Data  from  this  trial  will  be  presented  in  a 
+proffered paper presentation at the 2026 ESMO Congress.
+
+4
+
+• 
+
+Trastuzumab  pamirtecan  (DB-1303/BNT323):  A  global  Phase  1/2  clinical  trial 
+(NCT06827236)  sponsored  by  BioNTech  is  being  conducted  to  evaluate  trastuzumab 
+pamirtecan  in  combination  with  pumitamig  in  HR+  or  HR-,  HER2-low,  ultralow,  or  null 
+advanced  metastatic  BC  or  TNBC.  Preliminary  data  from  this  trial  are  expected  to  be 
+presented at the 2026 ESMO Congress.
+
+Sustaining Our Platform-Driven Innovation Across Oncology and Autoimmune Disease
+
+Our four proprietary platforms (DITAC, DIBAC, DIMAC and DUPAC) continued to replenish and 
+diversify our pipeline across oncology and autoimmune disease:
+
+• 
+
+DITAC – Developing ADCs with a “validated platform + novel target” approach with a focus 
+on gastrointestinal cancers
+
+• 
+
+• 
+
+• 
+
+DB-1317 (ADAM9 ADC): In January 2026, DB-1317 received IND clearance from the 
+CDE,  enabling  its  clinical  development  in  China  alongside  the  ongoing  global  trial.  A 
+global  Phase  1a/1b  clinical  trial  (NCT07141706)  is  being  conducted  in  patients  with 
+selected  advanced/metastatic  solid  tumors  and  is  currently  enrolling  patients.  In  April 
+2026,  the  trial  design  of  this  study  was  presented  at  the  2026  AACR  Annual  Meeting.
+In  August  2026,  DB-1317  was  granted  Fast  Track  Designation  by  the  FDA  for  the 
+treatment of advanced/unresectable or metastatic pancreatic ductal adenocarcinoma.
+
+DB-1324  (CDH17  ADC):  A  global  Phase  1/2  clinical  trial  (NCT07263594)  in 
+advanced/metastatic gastrointestinal tumors is enrolling, advancing under our option and 
+license agreement with GSK. In April 2026, the trial design of this study was presented 
+at the 2026 AACR Annual Meeting.
+
+DB-1329  (CDCP1  ADC):  In  April  2026,  preclinical  data  for  DB-1329  were  presented 
+at  the  2026  AACR  Annual  Meeting,  demonstrating  strong  antitumor  activity  across 
+multiple  animal  models.  Notably,  its  discovery  was  supported  by  DBNexus™,  the 
+Company’s proprietary AI multi-omics platform.
+
+• 
+
+DIBAC – Advancing BsADCs with enhanced function over traditional ADCs
+
+• 
+
+DB-1418/AVZO-1418 (EGFR×HER3 BsADC): In May 2026, the first patient in China 
+was dosed in a global Phase 1/2 clinical trial (AVENTINE-1, NCT07038343) in patients 
+with  advanced  solid  tumors,  following  the  start  of  global  enrollment  by  our  partner 
+Avenzo  in  2025.  In  June  2026,  initial  Phase  1  results  from  this  trial  were  publicly 
+disclosed  in  Rallybio  Corporation’s  Form  8-K  filed  on  June  1,  2026  in  connection 
+with  the  proposed  Rallybio/Avenzo  reverse  merger  transaction,  with  additional  detail 
+provided  in  Rallybio’s  Form  S-4  filed  on  July  15,  2026.  As  of  the  May  13,  2026 
+data  cutoff,  responses  were  observed  in  five  of  18  efficacy-evaluable  patients  across 
+multiple tumor types and dose cohorts, and nine of 18 remained on treatment. DB-1418/
+AVZO-1418  was  generally  well  tolerated  at  doses  up  to  4.5  mg/kg  Q2W,  where  the 
+majority of TEAEs were Grade 1 or 2 (n=20). As disclosed in Rallybio’s Form S-4 filed 
+on  July  15,  2026,  Avenzo  plans  to  present  preliminary  updated  Phase  1  data  from  this 
+trial in the second half of 2026.
+
+5
+
+• 
+
+DIMAC  –  Building  potentially  global  first-in-class  ADCs  for  hard-to-treat  autoimmune 
+diseases
+
+• 
+
+DB-2304  (BDCA2  ADC):  The  Phase  2a  portion  in  patients  with  SLE/CLE  of  a  global 
+Phase  1/2a  clinical  trial  (NCT06625671)  is  actively  enrolling.  Enrollment  in  cohort  1 
+has  been  completed,  and  cohort  2  is  ongoing.  This  randomized,  double-blind  trial  is 
+designed to evaluate the safety, tolerability, PK/PD, and preliminary clinical activity of 
+DB-2304 in SLE/CLE patients.
+
+• 
+
+DUPAC  –  Comprising  multiple  novel-mechanism  payload  technologies,  including  DUP5, 
+DUP9 and DUP10, designed to address resistance to the payload classes underlying currently 
+approved ADCs.
+
+• 
+
+DB-1326 (dual-payload, TA-MUC1 ADC): In April 2026, preclinical data for DB-1326 
+were  presented  at  the  2026  AACR  Annual  Meeting,  demonstrating  superior  antitumor 
+efficacy over mono-payload ADCs in preclinical tumor models, along with encouraging 
+PK and safety profiles in monkeys.
+
+We are embedding AI across both drug discovery and translational development, through in-house 
+capabilities such as DBNexus™ as well as external collaborations. In May 2026, we partnered with 
+Tsinghua  University  Shenzhen  International  Graduate  School  (“Tsinghua  SIGS”)  to  co-develop 
+Patho3DMatrix-Vision-DualityBio,  a  dedicated  pathology  foundation  model  trained  on  our  own 
+clinical trial data. The model strengthens our in-house capabilities in biomarker discovery, patient 
+stratification and treatment-response prediction across our programs.
+
+Expanding Our Global Partnership Franchise in Value and Reach
+
+Our  partnership  strategy  continued  to  validate  our  scientific  achievement  and  extend  our  global 
+reach,  building  on  cumulative  deal  value  of  over  US$7.0  billion  across  partners  including 
+BioNTech, BeOne, GSK, Genentech, Avenzo and Adcendo.
+
+• 
+
+• 
+
+Exercise  of  our  Cost  and  Profit/Loss  Sharing  Option  for  elfetabart  drozuntecan  (DB-
+1311/BNT324)  in  the  U.S.  In  May  2026,  we  served  written  notice  on  BioNTech  to  exercise 
+the  exclusive  cost  and  profit/loss  sharing  option  for  elfetabart  drozuntecan  in  the  U.S. 
+market. Under the license and collaboration agreement, the option will become effective upon 
+payment of our share of the past development costs attributed to the United States.
+
+New  global  R&D  collaboration  with  Genentech.  In  August  2026,  we  entered  into  a 
+collaboration  and  license  agreement  with  Genentech,  a  member  of  the  Roche  Group,  to 
+develop  next-generation  ADCs  built  on  our  DUPAC  platform.  Under  the  agreement,  we 
+will  receive  an  upfront  payment  of  US$45  million  and  will  be  eligible  to  receive  potential 
+development,  regulatory  and  commercial  milestone  payments  of  up  to  an  aggregate  of  more 
+than  US$1  billion  across  all  collaboration  programs.  In  addition,  we  will  be  entitled  to 
+receive  tiered  royalty  payments  on  annual  net  sales  of  approved  products  arising  from  the 
+collaboration.
+
+Share Repurchases Demonstrate Confidence in Long-Term Value
+
+During  the  Reporting  Period,  we  repurchased  a  total  of  400,100  Shares  on  the  Stock  Exchange 
+for  a  total  consideration  of  approximately  HK$78.11  million.  This  proactive  repurchase  initiative 
+reflects our firm confidence in long-term business growth prospects and the realization of intrinsic 
+value.  Furthermore,  at  the  annual  general  meeting  held  on  June  26,  2026,  a  resolution  was  passed 
+to  grant  a  general  mandate  to  the  Directors  to  repurchase  Shares  of  the  Company  not  exceeding 
+10%  of  the  total  number  of  Shares  of  the  Company  in  issue  (excluding  treasury  shares)  as  at  the 
+date of passing of this resolution.
+
+6
+
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE LOSS
+
+Revenue
+Cost of revenue
+
+Gross (loss)/profit
+
+Research and development expenses
+Administrative expenses
+Other income
+Other losses, net
+
+Operating (loss)/profit
+
+Finance income
+Finance costs
+Fair value change of financial liabilities at fair value 
+
+through profit or loss
+
+For the six months 
+ended June 30,
+
+2026
+RMB’000
+(Unaudited)
+
+2025
+RMB’000
+(Unaudited)
+
+Notes
+
+4
+5
+
+5
+5
+7
+8
+
+9
+9
+
+219,330
+(452,689)
+
+1,228,934
+(639,534)
+
+(233,359)
+
+589,400
+
+(606,667)
+(81,549)
+3,225
+(48,546)
+
+(349,387)
+(125,548)
+1,092
+(8,529)
+
+(966,896)
+
+107,028
+
+51,894
+(2,543)
+
+39,465
+(573)
+
+–
+
+(2,219,785)
+
+Loss before income tax
+
+(917,545)
+
+(2,073,865)
+
+Income tax expense
+
+10
+
+–
+
+–
+
+Loss for the period attributable to the owners  
+
+of the Company
+
+Other comprehensive loss:
+Items that will not be reclassified to profit or loss
+Exchange differences on translation
+
+(917,545)
+
+(2,073,865)
+
+(38,738)
+
+(30,340)
+
+Other comprehensive loss for the period, net of tax
+
+(38,738)
+
+(30,340)
+
+Total comprehensive loss for the period attributable  
+
+to the owners of the Company
+
+(956,283)
+
+(2,104,205)
+
+Loss per share for the loss attributable to owners  
+
+of the Company
+
+Basic and diluted loss per share (in RMB)
+
+11
+
+(10.2)
+
+(49.7)
+
+7
+
+CONDENSED CONSOLIDATED BALANCE SHEET
+
+Notes
+
+June 30, December 31,
+2025
+RMB’000
+(Audited)
+
+2026
+RMB’000
+(Unaudited)
+
+ASSETS
+Non-current assets
+Property, plant and equipment
+Intangible assets
+Right-of-use assets
+Other non-current assets
+
+Total non-current assets
+
+Current assets
+Cash and cash equivalents
+Restricted cash
+Term deposits with initial term over three months
+Financial assets at fair value through profit or loss
+Contract fulfilment costs
+Trade receivables
+Prepayments and other receivables
+Other current assets
+
+12
+
+Total current assets
+
+Total assets
+
+EQUITY
+Share capital
+Treasury shares
+Other reserves
+Accumulated losses
+
+24,068
+3,073
+6,835
+8,390
+
+20,037
+3,771
+8,638
+26,280
+
+42,366
+
+58,726
+
+2,265,488
+67,823
+673,147
+97,796
+41,285
+147,877
+138,964
+32,055
+
+1,276,399
+49,709
+1,998,421
+99,140
+35,556
+277,916
+59,146
+37,861
+
+3,464,435
+
+3,834,148
+
+3,506,801
+
+3,892,874
+
+65
+(68,127)
+7,291,087
+(5,772,307)
+
+64
+–
+7,281,362
+(4,854,762)
+
+Equity attributable to the owners of the Company
+
+1,450,718
+
+2,426,664
+
+Total Equity
+
+1,450,718
+
+2,426,664
+
+8
+
+CONDENSED CONSOLIDATED BALANCE SHEET (CONTINUED)
+
+LIABILITIES
+Non-current liabilities
+Long term bank borrowings
+Contract liabilities
+Lease liabilities
+Deferred income
+Other non-current liabilities
+
+Notes
+
+June 30, December 31,
+2025
+RMB’000
+(Audited)
+
+2026
+RMB’000
+(Unaudited)
+
+133,646
+5,957
+2,756
+1,920
+169,526
+
+–
+238,517
+3,907
+2,400
+169,526
+
+Total non-current liabilities
+
+313,805
+
+414,350
+
+Current liabilities
+Trade and notes payables
+Other payables
+Contract liabilities
+Bank borrowings
+Lease liabilities
+Other current liabilities
+
+Total current liabilities
+
+Total liabilities
+
+Total equity and liabilities
+
+13
+
+1,023,941
+109,183
+347,432
+239,006
+4,052
+18,664
+
+761,938
+66,285
+77,769
+141,056
+4,812
+–
+
+1,742,278
+
+1,051,860
+
+2,056,083
+
+1,466,210
+
+3,506,801
+
+3,892,874
+
+9
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1 
+
+GENERAL INFORMATION
+
+Duality  Biotherapeutics,  Inc.  (the  “Company”)  was  incorporated  on  July  3,  2019  in  the  Cayman  Islands  with 
+limited liability under the Companies Law Cap.22 of the Cayman Islands.
+
+On April 15, 2025, the Company commenced listing on the Main Board of The Stock Exchange of Hong Kong 
+Limited  (“Hong  Kong  Stock  Exchange”).  The  Company  issued  7,535,800  Hong  Kong  Offer  Shares,  and 
+9,796,500  International  Offer  Shares  at  offer  price  of  HK$94.6  for  a  total  consideration  of  HK$1,639,636,000 
+(equivalent  to  RMB1,524,008,000).  On  May  9,  2025,  an  additional  of  2,599,800  shares  were  issued  for  a  total 
+consideration  of  HK$245,941,000  (equivalent  to  RMB228,145,000)  with  respect  to  the  over-allotment  option 
+exercised on May 6, 2025.
+
+The  address  of  the  Company’s  registered  office  is  at  Ascentium  (Cayman)  Limited,  4th  Floor,  Harbour  Place, 
+103 South Church Street, George Town, P.O. Box 10240, Grand Cayman KY1-1002, Cayman Islands.
+
+The  Company  is  an  investment  holding  company.  The  Company  and  its  subsidiaries  (hereinafter  collectively 
+referred to as the “Group”) are a global clinical-stage biopharmaceutical company discovering, developing next 
+generation  Antibody-Drug  Conjugate  therapeutics  in  the  People’s  Republic  of  China  (the  “PRC”)  and  United 
+States of America (the “US”).
+
+This  interim  condensed  consolidated  financial  information  is  presented  in  Renminbi  (“RMB”)  and  all  amounts 
+are  rounded  to  the  nearest  thousand,  unless  otherwise  stated.  This  interim  condensed  consolidated  financial 
+information has not been audited.
+
+2 
+
+BASIS OF PREPARATION
+
+The unaudited interim condensed consolidated financial statements for the six months ended June 30, 2026 have 
+been prepared in accordance with HKAS 34 Interim Financial Reporting and the Rules Governing the Listing of 
+Securities  on  the  Hong  Kong  Stock  Exchange.  The  interim  condensed  consolidated  financial  information  does 
+not include all the information and disclosures required in the annual financial statements, and should be read in 
+conjunction with the Group’s audited annual financial statements for the year ended December 31, 2025.
+
+3 
+
+CHANGE IN ACCOUNTING POLICIES
+
+The  accounting  policies  adopted  in  the  preparation  of  the  interim  condensed  consolidated  financial  information 
+are consistent with those applied in the preparation of the Group’s annual consolidated financial statements for 
+the year ended December 31, 2025.
+
+Standards,  amendments  and  interpretations  that  have  been  issued  but  not  yet  effective  and  not  been  early 
+adopted by the Group during the six months ended June 30, 2026 are as follows:
+
+Standards
+
+Key requirements
+
+Amendments to HKAS 21
+Hong Kong Interpretation 5 
+
+(Revised)
+
+Lack of Exchangeability
+Presentation of Financial Statements – Classification 
+by the Borrower of a Term Loan that Contains a 
+Repayment on Demand Clause
+
+Effective for
+annual periods 
+beginning 
+on or after
+
+January 1, 2027
+January 1, 2027
+
+HKFRS 18
+HKFRS 19
+HKFRS 20
+Amendments to HKFRS 10  
+
+Presentation and disclosure in financial statements
+Subsidiaries without public accountability: disclosures
+Regulatory Assets and Regulatory Liabilities
+Sale or contribution of assets between an investor and its 
+
+January 1, 2027
+January 1, 2027
+January 1, 2029
+To be determined
+
+and HKAS 28
+
+associate or joint venture
+
+10
+
+According to the assessment made by the directors of the Company, these new and amended standards are either 
+not  relevant  to  the  Group  or  not  significant  to  the  financial  performance  and  positions  of  the  Group  when  they 
+become effective, except for HKFRS 18 which will mainly impact the presentation of the consolidated statement 
+of comprehensive loss.
+
+HKFRS  18  will  replace  HKAS  1  Presentation  of  financial  statements,  introducing  new  requirements  that 
+will  help  to  achieve  comparability  of  the  financial  performance  of  similar  entities  and  provide  more  relevant 
+information and transparency to users. Even though HKFRS 18 will not impact the recognition or measurement 
+of  items  in  the  financial  statements,  its  impacts  on  presentation  and  disclosure  are  expected  to  be  pervasive, 
+in  particular  those  related  to  the  statement  of  financial  performance  and  providing  management-defined 
+performance measures within the financial statements.
+
+Management  is  currently  assessing  the  detailed  implications  of  applying  the  new  standard  on  the  Group’s 
+consolidated  financial  statements.  From  the  high-level  preliminary  assessment  performed,  the  following 
+potential impacts have been identified:
+
+Impact on consolidated statement of comprehensive loss:
+
+Although  the  adoption  of  HKFRS  18  will  have  no  impact  on  the  Group’s  net  loss,  the  Group  expects  that 
+grouping  items  of  income  and  expenses  in  the  statement  of  profit  or  loss  into  the  new  categories  will  impact 
+how  operating  profit  is  calculated  and  reported.  From  the  high-level  impact  assessment  that  the  Group  has 
+performed, the following items might potentially impact operating profit:
+
+Foreign exchange differences
+
+Foreign exchange differences currently aggregated in the line item other (losses)/gains – net in operating profit 
+might need to be disaggregated, with some foreign exchange gains or losses presented below operating profit.
+
+Gain or loss of investments measured at fair value through profit or loss
+
+The  gain  or  loss  of  investments  measured  at  fair  value  through  profit  or  loss  currently  aggregated  in  the  line 
+item other (losses)/gains – net in operating profit and will be presented below operating profit.
+
+Impact on consolidated balance sheet:
+
+The  line  items  presented  on  the  primary  financial  statements  might  change  as  a  result  of  the  application  of  the 
+concept of ‘useful structured summary’ and the enhanced principles on aggregation and disaggregation.
+
+Impact on consolidated statement of cash flows:
+
+From  a  cash  flow  statement  perspective,  there  will  be  changes  to  how  interest  received  is  presented.  Interest 
+received  will  be  presented  as  investing  cash  flows,  which  is  a  change  from  current  presentation  as  part  of 
+operating cash flows.
+
+Impact on disclosures:
+
+The Group does not expect there to be a significant change in the information that is currently disclosed in the 
+notes  because  the  requirement  to  disclose  material  information  remains  unchanged;  however,  the  way  in  which 
+the  information  is  grouped  might  change  as  a  result  of  the  aggregation/disaggregation  principles.  In  addition, 
+there will be significant new disclosures required for:
+
+– 
+
+for the first annual period of application of HKFRS 18, a reconciliation for each line item in the statement 
+of  profit  or  loss  between  the  restated  amounts  presented  by  applying  HKFRS  18  and  the  amounts 
+previously presented applying HKAS 1.
+
+The  Group  will  apply  the  new  standard  from  its  mandatory  effective  date  of  January  1,  2027.  Retrospective 
+application  is  required,  and  so  the  comparative  information  for  the  financial  year  ending  December  31,  2026 
+will be restated in accordance with HKFRS 18.
+
+11
+
+4 
+
+SEGMENT AND REVENUE INFORMATION
+
+Management  has  determined  the  operating  segments  based  on  the  reports  reviewed  by  the  chief  operating 
+decision-maker (“CODM”). The CODM, who is responsible for allocating resources and assessing performance 
+of the operating segment, has been identified as the Chief Executive Officer of the Group.
+
+(a)  Description of segments and principal activities
+
+The  Group  is  principally  engaged  in  the  research  and  development  of  new  drugs.  The  CODM  reviews 
+the  operating  results  of  the  business  as  one  operating  segment  to  make  decisions  about  resources  to  be 
+allocated.  Therefore,  the  CODM  regards  that  there  is  only  one  segment  which  is  used  to  make  strategic 
+decisions.
+
+(b)  License and collaboration agreements with customers
+
+The  Group  entered  into  a  number  of  license  and  collaboration  agreements  with  certain  customers.  Under 
+the  terms  of  these  agreements,  the  Group  agreed  to  grant  licenses  of  certain  intellectual  properties  and 
+to  provide  research  and  development  services  in  relation  to  certain  licensed  products  to  the  relevant 
+customers.  The  considerations  of  these  agreements  generally  consist  of  non-refundable  upfront  payment, 
+reimbursements  for  research  and  development  costs  incurred,  and  variable  considerations  including 
+milestone payments and royalties on net sales of the licensed products.
+
+(c)  Consideration of the Group’s discretionary option in certain collaboration agreement
+
+When  the  Group  has  a  full  discretionary  option  to  participate  in  the  future  research  and  development 
+activities  and  commercialization  stage  controlled  by  the  licensee  of  the  intellectual  properties  in  certain 
+licensed areas, the Group determines the probability and timing to exercise the right based on estimations 
+of future economic returns and relevant scientific study outcomes. Should the Group elect to exercise the 
+right,  it  would  be  required  for  the  Group  to  refund  certain  consideration  to  the  licensee  and  bear  agreed 
+future  research  and  development  expenditure  and  in  return  share  certain  percentage  of  the  economic 
+benefit and risk.
+
+The  Group  has,  on  May  12,  2026  (Hong  Kong  time)  (the  “Exercise  Date”),  served  written  notice  on 
+BioNTech  SE  (“BioNTech”)  to  exercise  the  exclusive  cost  and  profit/loss  sharing  option  for  DB-1311/
+BNT324  for  the  U.S.  market  (the  “DB-1311/BNT324  Cost  &  Profit/Loss  Sharing  Option”)  granted  to 
+the Group under a license and collaboration agreement entered into between the Group and BioNTech in 
+respect of DB-1311 on March 31, 2023 (the “Collaboration Agreement”).
+
+Pursuant  to  the  Collaboration  Agreement,  BioNTech  granted  the  Group  the  right  to  exercise  a  cost  and 
+profit/loss  sharing  option  for  DB-1311/BNT324  for  the  U.S.  market.  The  Group  is  entitled  to  exercise 
+this option at any time during a specified period following the successful completion of the first Phase 2 
+clinical  trial  of  the  first  DB-1311/BNT324  product.  If  Duality  elects  to  exercise  the  Cost  &  Profit/Loss 
+Sharing  Option,  BioNTech  and  the  Group  shall  promptly  thereafter  engage  in  good  faith  negotiations 
+and  enter  into  a  separate  Cost  &  Profit/Loss  Sharing  Agreement  (the  “Cost  &  Profit/Loss  Sharing 
+Agreement”).
+
+Under  the  terms  of  the  Collaboration  Agreement,  following  the  exercise  of  the  DB-1311/BNT324 
+Cost  &  Profit/Loss  Sharing  Option,  the  Group  shall  pay  BioNTech  its  share  of  past  development  costs 
+attributed to the U.S. market, and the DB-1311/BNT324 Cost & Profit/Loss Sharing Option shall become 
+effective  upon  the  Company’s  payment  of  such  costs.  The  Group’s  decision  to  exercise  the  DB-1311/
+BNT324  Cost  &  Profit/Loss  Sharing  Option  enables  the  Group  to  share  the  development  costs  and  the 
+commercialization  profits  and  losses  from  DB-1311/BNT324  product  in  the  U.S.  market  in  accordance 
+with the terms of the Collaboration Agreement.
+
+As of the date of this interim results announcement, the Group was still discussing the details of the Cost 
+& Profit/Loss Sharing Agreement with BioNTech and was yet to pay its share of past development costs 
+attributed  to  the  U.S.  market.  During  the  six  months  ended  June  30,  2026,  its  share  of  past  development 
+costs as of June 30, 2026 attributed to the U.S. market was recognised as deduction of revenue amounting 
+to RMB290,670,000 in the interim condensed consolidated statement of comprehensive loss.
+
+Due  to  the  substantive  change  of  right  and  obligation  as  well  as  risks  and  rewards  between  the  Group 
+and  BioNTech  upon  the  exercise  of  the  option,  from  May  12,  2026  onwards,  the  Group  has  ceased  to 
+recognize  research  and  development  service  revenue  for  DB-1311  and  started  recognizing  its  share 
+of  joint  development  costs  as  research  and  development  expenses.  The  settlement  of  research  and 
+development  expenditure  paid  on  behalf  of  each  other  between  the  Group  and  BioNTech  is  recognized 
+through  other  receivables  or  other  payables.  As  at  June  30,  2026,  other  receivables  due  from  BioNTech 
+in relation to the joint development of DB-1311/BNT324 in the U.S. market paid on behalf of BioNTech 
+amounted to RMB70,295,000.
+
+12
+
+For the six months ended June 30,
+2025
+RMB’000
+(Unaudited)
+
+2026
+RMB’000
+(Unaudited)
+
+218,751
+
+1,227,245
+
+509,421
+
+1,227,245
+
+(290,670)
+
+579
+
+–
+
+1,689
+
+219,330
+
+1,228,934
+
+For the six months ended June 30,
+2025
+RMB’000
+(Unaudited)
+
+2026
+RMB’000
+(Unaudited)
+
+896,167
+176,269
+21,563
+7,204
+675
+–
+39,027
+
+823,200
+198,968
+13,098
+5,672
+1,350
+35,958
+36,223
+
+1,140,905
+
+1,114,469
+
+For the six months ended June 30,
+2025
+RMB’000
+(Unaudited)
+
+2026
+RMB’000
+(Unaudited)
+
+118,353
+40,490
+16,056
+1,370
+
+98,602
+87,727
+12,080
+559
+
+176,269
+
+198,968
+
+(d)  Disaggregated revenue information is as follows:
+
+Type of revenue
+Revenue from the license and collaboration agreements
+
+Revenue from the license and collaboration agreements-before 
+
+exercise of option
+
+Revenue deduction due to adjustment of past service 
+
+consideration upon option exercise
+
+Others
+
+5 
+
+EXPENSES BY NATURE
+
+Technical services expenses
+Employee benefit expenses (Note 6)
+Professional services expenses
+Depreciation and amortization
+Auditors’ remuneration
+Listing expenses-H Share
+Other expenses
+
+6 
+
+EMPLOYEE BENEFIT EXPENSES
+
+Wages, salaries and bonus
+Share-based compensation expenses
+Social insurance (a)
+Other welfare for employees
+
+13
+
+(a) 
+
+Social insurance
+
+The  employees  of  the  Group’s  subsidiaries  participate  in  various  government-sponsored  defined 
+contribution  pension  plans  and  various  government  supervised  housing  funds,  medical  insurance  and 
+other  employee  social  insurance  plan  under  which  these  subsidiaries  are  required  to  make  monthly 
+contributions  to  these  plans  at  certain  percentages  of  the  employee’s  monthly  salaries  and  wages  subject 
+to  certain  ceilings.  During  the  six  months  ended  June  30,  2026  and  2025,  the  Group  had  no  forfeited 
+contributions  under  these  plans  which  may  be  utilized  by  the  Group  to  reduce  its  contributions  for  the 
+current period.
+
+The  Group  has  no  other  material  obligation  for  the  payment  of  retirement  benefit  associated  with  these 
+schemes beyond the annual contribution described above.
+
+7 
+
+OTHER INCOME
+
+Grants  from  the  government  are  recognized  at  their  fair  value  where  there  is  a  reasonable  assurance  that  the 
+subsidies will be received and the Group will comply with all attached conditions.
+
+Government grants
+Others
+
+8 
+
+OTHER LOSSES, NET
+
+Foreign exchange losses, net
+Others
+
+9 
+
+FINANCE INCOME
+
+Finance income
+Finance income from bank deposits
+
+Finance costs
+Interest expense on lease liabilities
+Interest expense on bank borrowings and note discounting
+
+Total finance costs
+
+Finance income – net
+
+14
+
+For the six months ended June 30,
+2025
+RMB’000
+(Unaudited)
+
+2026
+RMB’000
+(Unaudited)
+
+1,851
+1,374
+
+3,225
+
+713
+379
+
+1,092
+
+For the six months ended June 30,
+2025
+RMB’000
+(Unaudited)
+
+2026
+RMB’000
+(Unaudited)
+
+(51,337)
+2,791
+
+(48,546)
+
+(9,864)
+1,335
+
+(8,529)
+
+For the six months ended June 30,
+2025
+RMB’000
+(Unaudited)
+
+2026
+RMB’000
+(Unaudited)
+
+51,894
+
+39,465
+
+(139)
+(2,404)
+
+(2,543)
+
+(104)
+(469)
+
+(573)
+
+49,351
+
+38,892
+
+10 
+
+INCOME TAX EXPENSE
+
+The Group’s principal applicable taxes and tax rates are as follows:
+
+(a)  Cayman Islands
+
+Under  the  current  laws  of  the  Cayman  Islands,  the  Company  is  not  subject  to  tax  on  income  or  capital 
+gains.  Additionally,  the  Cayman  Islands  does  not  impose  a  withholding  tax  on  payments  of  dividends  to 
+shareholders.
+
+(b)  Hong Kong
+
+Under the current Hong Kong Inland Revenue Ordinance, the Group’s subsidiary in Hong Kong is subject 
+to  Hong  Kong  profit  tax  on  its  taxable  income  generated  from  operations  in  Hong  Kong  at  two-tiered 
+profits  tax  rates,  8.25%  for  first  HK$2  million  of  assessable  profits  and  16.5%  for  assessable  profits 
+above  HK$2  million.  Additionally,  payments  of  dividends  by  the  subsidiary  incorporated  in  Hong  Kong 
+to the Company are not subject to any Hong Kong withholding tax. No provision for Hong Kong profits 
+tax has been provided for at the rate of 16.5% as the Group’s subsidiary in Hong Kong has no estimated 
+assessable profit.
+
+(c)  United States
+
+DualityBio Inc. is incorporated in the United States and is subject to federal income tax at 21% and state 
+and local income tax (generally ranges from 1% to 12%) where it has operation.
+
+(d)  Chinese Mainland
+
+Duality Biologics (Suzhou) Co., Ltd. (“Duality Suzhou”) incorporated in the PRC is subject to Corporate 
+Income  Tax  at  a  rate  of  15%  as  the  “High  and  New  Technology  Enterprises”  certificate  was  obtained 
+on  November  19,  2024  with  a  valid  period  of  three  years.  Duality  Biologics  (Shanghai)  Co.,  Ltd. 
+incorporated  in  the  PRC  is  subject  to  Corporate  Income  Tax  at  a  rate  of  25%.  Beijing  Duality  Biologics 
+Co.,  Ltd.  incorporated  in  the  PRC,  as  a  small  and  micro  enterprise,  can  enjoy  a  20%  Corporate  Income 
+Tax rate on 25% of the taxable income amount for the proportion of taxable income not exceeding RMB3 
+million.
+
+According  to  the  Corporate  Income  Tax  Law  of  the  PRC  and  the  respective  regulations,  the  income 
+derived  by  a  resident  enterprise  in  China  from  the  transfer  of  technology  which  meets  certain  prescribed 
+criteria  could  be  eligible  for  income  tax  incentives.  The  part  of  the  annual  income  from  the  transfer  of 
+technology derived by a resident enterprise within RMB5 million shall be tax-exempt; and the remainder 
+shall  be  subject  to  a  50%  reduction  in  the  enterprise  income  tax  rate.  During  the  periods  ended  June  30, 
+2026 and 2025, Duality Biologics (Suzhou) Co., Ltd has incurred income of transfer of technology for the 
+above mentioned tax reduction and exemption incentives.
+
+(e)  Withholding tax
+
+According to the CIT rules and regulations, distribution of profits earned by PRC companies is generally 
+subject  to  a  withholding  tax  of  10%  upon  the  distribution  of  profits  to  overseas-incorporated  immediate 
+holding  companies.  Depending  on  the  tax  residency  of  the  foreign  shareholder,  the  withholding  tax  rate 
+may  be  adjusted  based  on  the  relevant  bilateral  tax  treaty.  During  the  periods  ended  June  30,  2026  and 
+2025, the Group does not have any profit distribution plan.
+
+15
+
+The  amount  of  income  tax  expense  charged  to  the  unaudited  condensed  consolidated  statement  of 
+comprehensive loss represents:
+
+For the six months ended June 30,
+2025
+RMB’000
+(Unaudited)
+
+2026
+RMB’000
+(Unaudited)
+
+Income tax expense
+
+–
+
+–
+
+No deferred tax asset has been recognized in respect of the tax losses and deductible temporary difference 
+due to the unpredictability of future profit streams.
+
+11 
+
+LOSS PER SHARE
+
+(a) 
+
+Basic loss per share
+
+Basic  loss  per  share  is  calculated  by  dividing  the  loss  of  the  Group  attributable  to  the  equity  holders  of 
+the Company by weighted average number of ordinary shares outstanding.
+
+For the six months ended June 30,
+2025
+(Unaudited)
+
+2026
+(Unaudited)
+
+Loss attributable to the ordinary equity holders of the Company 
+
+(RMB’000)
+
+Weighted average number of ordinary shares in issue (in thousands)
+Basic loss per share (RMB)
+
+(917,545)
+90,246
+(10.2)
+
+(2,073,865)
+41,704
+(49.7)
+
+(b)  Diluted loss per share
+
+Diluted  loss  per  share  is  calculated  by  adjusting  the  weighted  average  number  of  ordinary  shares 
+outstanding to assume conversion of all dilutive potential ordinary shares.
+
+For  the  six  months  ended  June  30,  2025,  the  Company  had  two  categories  of  potential  ordinary  shares, 
+namely the share options granted to employees and convertible preferred shares of the Company. For the 
+six months ended June 30, 2026, the Company had two categories of potential ordinary shares, which are 
+the share options and restricted share units granted to employees. As the Group incurred losses for the six 
+months ended June 30, 2026 and 2025, the potential ordinary shares were not included in the calculation 
+of diluted loss per share as their inclusion would be anti-dilutive.
+
+Therefore  diluted  loss  per  share  for  the  six  months  ended  June  30,  2026  and  2025  are  the  same  as  basic 
+loss per share.
+
+12 
+
+TRADE RECEIVABLES
+
+June 30,
+2026
+RMB’000
+(Unaudited)
+
+December 31,
+2025
+RMB’000
+(Audited)
+
+148,358
+(481)
+
+278,295
+(379)
+
+147,877
+
+277,916
+
+Trade receivables
+Less: provision for impairment of trade receivables
+
+Trade receivables – net
+
+Customers are generally granted with credit terms ranging from 30 to 90 days.
+
+16
+
+As at June 30, 2026 and December 31, 2025, the aging analysis of trade receivables based on invoices date is as 
+follows:
+
+Within 30 days
+31 days to 90 days
+
+June 30,
+2026
+RMB’000
+(Unaudited)
+
+December 31,
+2025
+RMB’000
+(Audited)
+
+147,424
+453
+
+277,916
+–
+
+147,877
+
+277,916
+
+13 
+
+TRADE AND NOTES PAYABLES
+
+As  at  June  30,  2026  and  December  31,  2025,  the  aging  analysis  of  trade  and  notes  payables  based  on  date  of 
+relevant invoice or demand note is as follows:
+
+Within 6 months
+6 months to 12 months
+Over 12 months
+
+14 
+
+DIVIDENDS
+
+June 30,
+2026
+RMB’000
+(Unaudited)
+
+December 31,
+2025
+RMB’000
+(Audited)
+
+993,520
+21,448
+8,973
+
+751,727
+3,168
+7,043
+
+1,023,941
+
+761,938
+
+No dividend has been paid or declared by the Company or the companies now comprising the Group during the 
+six months ended June 30, 2026 and 2025.
+
+15  MATERIAL SUBSEQUENT EVENTS
+
+Save as disclosed in this announcement, there are no material subsequent events undertaken by the Group after 
+the end of reporting period.
+
+17
+
+BUSINESS OVERVIEW
+
+Overview
+
+Incorporated  in  2019,  we  are  a  key  player  in  the  global  ADC  landscape,  dedicated  to  the 
+development  of  innovative  therapeutics  in  this  fast-growing  drug  modality  to  treat  cancer, 
+autoimmune diseases, and beyond.
+
+Since  our  inception,  we  have  focused  primarily  on  the  independent  discovery  and  development 
+of  ADC  assets.  We  have  assembled  a  highly  experienced  team  of  experts  in  all  facets  of  ADC 
+drug  development.  Leveraging  our  experienced  R&D  team,  insights  into  ADC  design,  and  strong 
+execution  capabilities,  we  have  established  four  cutting-edge  ADC  technology  platforms  to  push 
+the  boundaries  of  ADC  treatment  and  a  pipeline  of  13  internally  discovered  ADC  candidates 
+covering a diverse range of indications.
+
+PRODUCT PIPELINE
+
+We  have  self-discovered  two  Core  Products,  namely  trastuzumab  pamirtecan  (DB-1303/BNT323), 
+a  HER2  ADC  candidate  targeting  cancers  including  endometrial  cancer  (“EC”)  and  breast  cancer 
+(“BC”), and elfetabart drozuntecan (DB-1311/BNT324), a B7-H3 ADC candidate targeting cancers 
+including  prostate  cancer  (“PC”),  small-cell  lung  cancer  (“SCLC”),  non-small  cell  lung  cancer 
+(“NSCLC”), ovarian cancer (“OC”), cervical cancer (“CC”), melanoma, esophageal squamous cell 
+carcinoma (“ESCC”) and head and neck squamous cell carcinoma (“HNSCC”). In addition to our 
+Core  Products,  we  have  also  self-discovered  (i)  eight  other  clinical-stage  ADCs,  with  potential  in 
+a broad range of indications, each ranking among the most clinically advanced globally in terms of 
+overall or lead indication development progress, and (ii) multiple preclinical ADCs.
+
+18
+
+s
+r
+e
+n
+t
+r
+a
+P
+
+s
+t
+h
+g
+i
+R
+
+l
+a
+i
+c
+r
+e
+m
+m
+o
+C
+
+1
+r
+a
+e
+Y
+
+:
+s
+e
+n
+o
+t
+s
+e
+l
+i
+
+M
+d
+e
+t
+c
+e
+p
+x
+E
+
+r
+e
+b
+m
+u
+N
+T
+C
+N
+
+3
+
+e
+s
+a
+h
+P
+
+a
+2
+/
+1
+
+e
+s
+a
+h
+P
+
+2
+
+e
+s
+a
+h
+P
+
+1
+
+e
+s
+a
+h
+P
+
+/
+
+l
+a
+c
+i
+n
+
+i
+l
+c
+e
+r
+P
+
+g
+n
+
+i
+l
+
+b
+a
+n
+E
+D
+N
+I
+
+-
+
+/
+
+7
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+2
+4
+9
+3
+3
+2
+6
+0
+T
+C
+N
+
+l
+a
+b
+o
+l
+G
+
+b
+a
+m
+u
+z
+i
+l
+e
+l
+s
+i
+T
++
+
+/
+
+o
+n
+o
+M
+
+o
+t
+
+s
+t
+h
+g
+i
+r
+n
+i
+-
+t
+p
+o
+:
+.
+S
+U
+
+.
+
+(
+
+,
+a
+n
+i
+h
+C
+d
+n
+a
+l
+n
+i
+a
+M
+
+u
+a
+c
+a
+M
+
+,
+g
+n
+o
+K
+g
+n
+o
+H
+
+6
+2
+0
+2
+
+:
+n
+o
+i
+s
+s
+i
+m
+b
+u
+s
+A
+L
+B
+
+.
+t
+s
+E
+
+1
+9
+6
+0
+5
+1
+5
+0
+T
+C
+N
+
+8
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+8
+6
+5
+0
+4
+3
+6
+0
+T
+C
+N
+
+7
+2
+0
+2
+:
+l
+a
+v
+o
+r
+p
+p
+a
+A
+P
+M
+N
+
+.
+t
+s
+E
+
+8
+2
+4
+5
+6
+2
+6
+0
+T
+C
+N
+
+9
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+6
+3
+2
+7
+2
+8
+6
+0
+T
+C
+N
+
+1
+3
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+5
+9
+9
+5
+6
+3
+7
+0
+T
+C
+N
+
+6
+2
+0
+2
+:
+a
+t
+a
+d
+m
+
+i
+r
+e
+t
+n
+i
+
+.
+t
+s
+E
+
+7
+3
+3
+8
+1
+0
+6
+0
+T
+C
+N
+
+,
+a
+n
+i
+h
+C
+d
+n
+a
+l
+n
+i
+a
+M
+
+u
+a
+c
+a
+M
+,
+g
+n
+o
+K
+g
+n
+o
+H
+
+7
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+6
+1
+1
+4
+1
+9
+5
+0
+T
+C
+N
+
+s
+s
+o
+l
+
+/
+
+t
+fi
+o
+r
+p
+&
+
+t
+s
+o
+c
+
+d
+n
+a
+
+e
+r
+a
+h
+s
+
+)
+e
+t
+o
+m
+o
+r
+p
+-
+o
+c
+
+8
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+8
+4
+5
+2
+9
+8
+6
+0
+T
+C
+N
+
+0
+3
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+9
+8
+0
+3
+5
+9
+6
+0
+T
+C
+N
+
+l
+a
+b
+o
+l
+G
+
+7
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+1
+4
+7
+5
+8
+7
+5
+0
+T
+C
+N
+
+,
+a
+n
+i
+h
+C
+d
+n
+a
+l
+n
+i
+a
+M
+
+u
+a
+c
+a
+M
+
+,
+g
+n
+o
+K
+g
+n
+o
+H
+
+7
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+9
+2
+3
+8
+3
+4
+5
+0
+T
+C
+N
+
+,
+a
+n
+i
+h
+C
+d
+n
+a
+l
+n
+i
+a
+M
+
+u
+a
+c
+a
+M
+
+,
+g
+n
+o
+K
+g
+n
+o
+H
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+a
+n
+i
+h
+C
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+7
+2
+0
+2
+
+:
+n
+o
+i
+s
+s
+i
+m
+b
+u
+s
+D
+N
+
+I
+
+.
+t
+s
+E
+
+6
+2
+0
+2
+
+:
+n
+o
+i
+s
+s
+i
+m
+b
+u
+s
+D
+N
+
+I
+
+.
+t
+s
+E
+
+/
+
+8
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+4
+9
+5
+3
+6
+2
+7
+0
+T
+C
+N
+
+8
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+6
+0
+7
+1
+4
+1
+7
+0
+T
+C
+N
+
+0
+3
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+3
+4
+3
+8
+3
+0
+7
+0
+T
+C
+N
+
+7
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+5
+9
+7
+4
+5
+5
+6
+0
+T
+C
+N
+
+/
+
+/
+
+)
+y
+d
+u
+t
+S
+l
+a
+n
+o
+i
+t
+a
+r
+t
+s
+i
+g
+e
+R
+
+l
+a
+i
+t
+n
+e
+t
+o
+P
+
+,
+
+m
+r
+a
+-
+e
+l
+g
+n
+i
+S
+(
+
+l
+a
+b
+o
+l
+G
+
+)
+l
+a
+i
+r
+T
+y
+r
+o
+t
+a
+m
+r
+fi
+n
+o
+C
+3
+e
+s
+a
+h
+P
+(
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+a
+n
+i
+h
+C
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+3
+
+A
+-
+F
+G
+E
+V
+x
+1
+L
+-
+D
+P
+-
+i
+t
+n
+a
++
+
+l
+l
+u
+n
+-
+2
+R
+E
+H
+
+r
+o
+w
+o
+l
+a
+r
+t
+l
+u
+-
+2
+R
+E
+H
+
+,
+
+w
+o
+l
+-
+2
+R
+E
+H
+
+,
+
++
+2
+R
+E
+H
+
+,
+-
+
+R
+H
+
+r
+o
++
+R
+H
+
+,
+
+C
+B
+d
+e
+c
+n
+a
+v
+d
+A
+
+/
+o
+n
+o
+M
+
+o
+b
+m
+o
+C
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+)
++
+L
+2
+(
+
+C
+E
+g
+n
+i
+s
+s
+e
+r
+p
+x
+e
+-
+2
+R
+E
+H
+
+)
++
+L
+2
+(
+
+C
+B
++
+2
+R
+E
+H
+
+)
+e
+v
+ï
+a
+n
+
+o
+m
+e
+h
+c
+(
+
+C
+B
+w
+o
+l
+-
+2
+R
+E
+H
++
+R
+H
+
+/
+
+2
+R
+E
+H
+
+b
+a
+m
+u
+z
+u
+t
+s
+a
+r
+T
+
+n
+a
+c
+e
+t
+r
+i
+m
+a
+p
+
+3
+0
+3
+1
+-
+
+B
+D
+
+(
+
+)
+3
+2
+3
+T
+N
+B
+
+/
+
+s
+n
+o
+i
+t
+a
+c
+i
+d
+n
+I
+
+)
+t
+n
+e
+m
+t
+a
+e
+r
+T
+
+f
+o
+s
+e
+n
+i
+L
+
+(
+
+m
+r
+o
+f
+t
+a
+l
+P
+C
+D
+A
+
+i
+1
+P
+O
+T
+g
+n
+i
+d
+a
+e
+L
+
+-
+
+C
+A
+T
+I
+D
+
+t
+e
+g
+r
+a
+T
+
+m
+a
+r
+g
+o
+r
+P
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+l
+a
+b
+o
+l
+G
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+o
+n
+o
+M
+
+T
+H
+N
++
+
+/
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+3
+
+A
+-
+F
+G
+E
+V
+x
+1
+L
+-
+D
+P
+-
+i
+t
+n
+a
++
+
+3
+
+A
+-
+F
+G
+E
+V
+x
+1
+L
+-
+D
+P
+-
+i
+t
+n
+a
++
+
+3
+
+A
+-
+F
+G
+E
+V
+x
+1
+L
+-
+D
+P
+-
+i
+t
+n
+a
++
+
+5
+2
+3
+T
+N
+B
+/
+5
+0
+3
+1
+-
+
+B
+D
++
+
+/
+
+b
+i
+n
+i
+t
+r
+e
+m
+i
+s
+O
++
+
+/
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+b
+a
+m
+u
+z
+u
+t
+s
+a
+r
+T
++
+
+o
+n
+o
+M
+
+o
+n
+o
+M
+
+)
+L
+1
+(
+
+C
+P
+R
+C
+m
+
+r
+e
+c
+n
+a
+C
+e
+t
+a
+t
+s
+o
+r
+P
+
+C
+C
+S
+E
+
+C
+L
+C
+S
+
+C
+L
+C
+S
+N
+
+C
+L
+C
+S
+N
+m
+R
+F
+G
+E
+
+C
+B
+
+-
+2
+R
+E
+H
++
+R
+H
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+r
+e
+h
+t
+O
+
+)
++
+L
+2
+(
+
+C
+O
+
+)
+u
+t
+r
+e
+h
+n
+E
+-
+t
+s
+o
+p
+(
+
+C
+B
++
+2
+R
+E
+H
+
+)
+.
+c
+t
+e
+
+,
+a
+m
+o
+n
+a
+l
+e
+m
+
+,
+
+C
+C
+
+,
+
+C
+O
+R
+P
+
+,
+
+C
+C
+H
+
+,
+
+C
+C
+S
+N
+H
+
+(
+
+s
+r
+e
+h
+t
+O
+
+l
+a
+b
+o
+l
+G
+
+o
+n
+o
+M
+
+)
+.
+c
+t
+e
+
+,
+
+C
+C
+
+,
+
+C
+O
+
+,
+
+C
+L
+C
+S
+N
+
+,
+
+C
+B
+N
+T
+(
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+l
+a
+b
+o
+l
+G
+
+3
+
+A
+-
+F
+G
+E
+V
+x
+1
+L
+-
+D
+P
+-
+i
+t
+n
+a
++
+
+)
+.
+c
+t
+e
+
+,
+
+C
+C
+
+,
+
+C
+O
+
+,
+
+C
+L
+C
+S
+N
+
+,
+
+C
+B
+N
+T
+(
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+2
+P
+O
+R
+T
+
+3
+H
+-
+7
+B
+
+t
+r
+a
+b
+a
+t
+e
+f
+l
+
+E
+
+n
+a
+c
+e
+t
+n
+u
+z
+o
+r
+d
+
+1
+1
+3
+1
+-
+B
+D
+
+(
+
+)
+4
+2
+3
+T
+N
+B
+
+/
+
+3
+R
+E
+H
+
+0
+1
+3
+1
+-
+
+B
+D
+
+Oncology
+
+4
+H
+-
+7
+B
+
+7
+1
+H
+D
+C
+
+9
+M
+A
+D
+A
+
+1
+P
+C
+D
+C
+
+b
+a
+m
+u
+z
+u
+t
+i
+c
+a
+S
+
+n
+a
+c
+e
+t
+n
+u
+z
+o
+r
+d
+
+5
+0
+3
+1
+-
+B
+D
+
+(
+
+)
+5
+2
+3
+T
+N
+B
+
+/
+
+2
+1
+3
+1
+-
+
+B
+D
+
+4
+7
+0
+9
+C
+G
+B
+
+-
+
+/
+
+4
+2
+3
+1
+-
+
+B
+D
+
+7
+1
+3
+1
+-
+
+B
+D
+
+9
+2
+3
+1
+-
+
+B
+D
+
+m
+r
+o
+f
+t
+a
+l
+P
+C
+D
+A
+d
+a
+o
+l
+y
+a
+P
+A
+O
+M
+
+l
+e
+v
+o
+N
+e
+u
+q
+i
+n
+U
+
+-
+
+C
+A
+P
+U
+D
+
+m
+r
+o
+f
+t
+a
+l
+P
+C
+D
+A
+c
+fi
+i
+c
+e
+p
+s
+i
+B
+g
+n
+i
+d
+a
+e
+L
+
+-
+
+C
+A
+B
+I
+D
+
+3
+R
+E
+H
+x
+R
+F
+G
+E
+
+1
+L
+-
+D
+P
+x
+3
+H
+-
+7
+B
+
+8
+1
+4
+1
+-
+
+B
+D
+
+8
+1
+4
+1
+-
+O
+Z
+V
+A
+
+/
+
+9
+1
+4
+1
+-
+
+B
+D
+
+1
+C
+U
+M
+x
+R
+F
+G
+E
+
+1
+2
+4
+1
+-
+
+B
+D
+
+19
+
+)
+s
+(
+t
+n
+i
+o
+p
+d
+n
+E
+y
+r
+a
+m
+
+i
+r
+P
+
+n
+a
+h
+p
+r
+O
+A
+D
+F
+
+t
+s
+a
+F
+A
+D
+F
+
+d
+e
+v
+e
+i
+h
+c
+A
+
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+D
+g
+u
+r
+D
+
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+D
+k
+c
+a
+r
+T
+
+h
+g
+u
+o
+r
+h
+t
+k
+a
+e
+r
+B
+A
+P
+M
+N
+
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+D
+y
+p
+a
+r
+e
+h
+T
+
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+D
+y
+p
+a
+r
+e
+h
+T
+
+h
+g
+u
+o
+r
+h
+t
+k
+a
+e
+r
+B
+A
+D
+F
+
+s
+t
+c
+u
+d
+o
+r
+P
+y
+e
+K
+
+s
+t
+c
+u
+d
+o
+r
+P
+e
+r
+o
+C
+
+y
+l
+t
+n
+i
+o
+j
+
+g
+n
+i
+e
+b
+
+r
+o
+t
+a
+l
+u
+d
+o
+m
+o
+n
+u
+m
+m
+
+i
+c
+fi
+i
+c
+e
+p
+s
+i
+b
+
+l
+a
+n
+o
+i
+t
+a
+g
+i
+t
+s
+e
+v
+n
+i
+n
+a
+
+s
+i
+
+)
+5
+4
+5
+6
+8
+9
+S
+M
+B
+/
+7
+2
+3
+T
+N
+B
+
+(
+
+g
+i
+m
+a
+t
+i
+
+m
+u
+P
+)
+3
+(
+
+;
+
+C
+D
+A
+
+y
+r
+a
+m
+
+i
+r
+p
+
+e
+h
+t
+o
+t
+
+s
+r
+e
+f
+e
+r
+
+r
+a
+e
+y
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+d
+e
+t
+a
+m
+
+i
+t
+s
+E
+
+.
+s
+t
+s
+a
+c
+e
+r
+o
+f
+
+t
+n
+e
+r
+r
+u
+c
+
+s
+’
+y
+n
+a
+p
+m
+o
+C
+e
+h
+t
+n
+o
+
+d
+e
+s
+a
+B
+
+)
+1
+(
+
+:
+s
+e
+t
+o
+N
+
+-
+
+1
+C
+U
+M
+A
+T
+d
+a
+o
+l
+y
+a
+p
+-
+l
+a
+u
+d
+
+l
+e
+v
+o
+n
+
+a
+
+s
+i
+
+6
+2
+3
+1
+-
+B
+D
+
+)
+2
+(
+
+;
+v
+o
+g
+.
+s
+l
+a
+i
+r
+t
+l
+a
+c
+i
+n
+i
+l
+c
+n
+i
+
+d
+e
+s
+o
+l
+c
+s
+i
+d
+
+s
+a
+)
+d
+e
+t
+a
+m
+
+i
+t
+s
+e
+(
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+.
+b
+b
+i
+u
+q
+S
+s
+r
+e
+y
+M
+
+l
+o
+t
+s
+i
+r
+
+B
+d
+n
+a
+
+h
+c
+e
+T
+N
+o
+i
+B
+y
+b
+
+d
+e
+p
+o
+l
+e
+v
+e
+d
+
+l
+a
+b
+o
+l
+G
+
+7
+2
+0
+2
+
+:
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+
+l
+a
+i
+r
+t
+
+.
+t
+s
+E
+
+1
+7
+6
+5
+2
+6
+6
+0
+T
+C
+N
+
+l
+a
+b
+o
+l
+G
+
+o
+n
+o
+M
+
+E
+L
+C
+
+,
+
+E
+L
+S
+
+2
+A
+C
+D
+B
+
+4
+0
+3
+2
+-
+
+m
+r
+o
+f
+t
+a
+l
+P
+C
+D
+A
+g
+n
+i
+t
+a
+l
+u
+d
+o
+m
+-
+e
+n
+u
+m
+m
+
+I
+g
+n
+i
+d
+a
+e
+L
+
+-
+
+B
+D
+
+C
+A
+M
+I
+D
+immune
+Auto-
+
+=
+
+C
+D
+A
+
+,
+l
+a
+i
+r
+T
+
+l
+a
+c
+i
+n
+i
+l
+
+C
+
+l
+a
+n
+o
+i
+t
+a
+N
+
+=
+
+T
+C
+N
+
+,
+g
+u
+r
+
+D
+
+w
+e
+N
+
+l
+a
+n
+o
+i
+t
+a
+g
+i
+t
+s
+e
+v
+n
+I
+
+=
+D
+N
+
+I
+
+,
+y
+p
+a
+r
+e
+h
+T
+
+n
+o
+i
+t
+a
+n
+i
+b
+m
+o
+C
+
+=
+
+o
+b
+m
+o
+C
+
+,
+y
+p
+a
+r
+e
+h
+T
+
+l
+a
+n
+o
+m
+r
+o
+H
+
+l
+e
+v
+o
+N
+
+=
+
+T
+H
+N
+
+,
+y
+p
+a
+r
+e
+h
+t
+o
+n
+o
+M
+=
+
+o
+n
+o
+M
+
+C
+H
+
+I
+
+f
+o
+
+e
+r
+o
+c
+S
+
+t
+s
+e
+T
+
+a
+
+h
+t
+i
+
+w
+d
+e
+i
+f
+i
+t
+n
+e
+d
+I
+
+s
+l
+l
+e
+C
+
+r
+o
+m
+u
+T
+
+f
+o
+
+s
+u
+t
+a
+t
+
+S
+
+2
+R
+E
+H
+=
+
+g
+n
+i
+s
+s
+e
+r
+p
+x
+e
+-
+2
+R
+E
+H
+
+,
+2
+
+r
+o
+t
+p
+e
+c
+e
+R
+
+r
+o
+t
+c
+a
+F
+
+h
+t
+w
+o
+r
+
+G
+
+l
+a
+m
+r
+e
+d
+i
+p
+E
+
+n
+a
+m
+u
+H
+=
+
+2
+R
+E
+H
+
+,
+e
+t
+a
+g
+u
+j
+n
+o
+C
+
+g
+u
+r
+d
+-
+y
+d
+o
+b
+i
+t
+n
+A
+
+d
+e
+i
+f
+i
+t
+n
+e
+d
+I
+
+s
+l
+l
+e
+C
+
+r
+o
+m
+u
+T
+
+f
+o
+
+s
+u
+t
+a
+t
+S
+
+2
+R
+E
+H
+=
+w
+o
+l
+-
+2
+R
+E
+H
+
+,
+e
+v
+i
+t
+a
+g
+e
+N
+
+r
+o
+t
+p
+e
+c
+e
+R
+
+e
+n
+o
+m
+r
+o
+H
+
+=
+
+-
+
+R
+H
+
+,
+e
+v
+i
+t
+i
+s
+o
+P
+
+r
+o
+t
+p
+e
+c
+e
+R
+
+e
+n
+o
+m
+r
+o
+H
+
+=
+
++
+R
+H
+
+,
+r
+e
+c
+n
+a
+C
+
+l
+a
+i
+r
+t
+e
+m
+o
+d
+n
+E
+
+=
+
+C
+E
+
+,
+e
+v
+o
+b
+A
+
+r
+o
+
++
+1
+
+f
+o
+
+e
+r
+o
+c
+S
+
+t
+s
+e
+T
+
+a
+
+h
+t
+i
+
+w
+
+d
+e
+i
+f
+i
+t
+n
+e
+d
+I
+
+s
+l
+l
+e
+C
+
+r
+o
+m
+u
+T
+
+f
+o
+
+s
+u
+t
+a
+t
+S
+
+2
+R
+E
+H
+
+=
+
++
+2
+R
+E
+H
+
+,
+y
+p
+a
+r
+e
+h
+t
+o
+m
+e
+h
+C
+
+,
+r
+e
+c
+n
+a
+C
+
+l
+a
+t
+c
+e
+r
+o
+l
+o
+C
+
+=
+
+C
+R
+C
+
+,
+r
+e
+c
+n
+a
+C
+
+n
+a
+i
+r
+a
+v
+O
+
+=
+
+C
+O
+
+,
+r
+e
+c
+n
+a
+C
+
+n
+a
+i
+r
+a
+v
+O
+
+t
+n
+a
+t
+s
+i
+s
+e
+R
+m
+u
+n
+i
+t
+a
+l
+
+-
+
+P
+
+=
+
+=
+
+o
+m
+e
+h
+C
+
+,
+r
+e
+c
+n
+a
+C
+
+t
+s
+a
+e
+r
+
+B
+
+=
+
+C
+B
+
+,
+-
+
+H
+S
+I
+/
+
++
+2
+
+C
+H
+
+I
+
+r
+o
+
++
+1
+
+C
+H
+
+I
+
+f
+o
+
+e
+r
+o
+c
+S
+
+t
+s
+e
+T
+
+a
+
+h
+t
+i
+
+w
+
+C
+O
+R
+P
+
+,
+a
+m
+o
+n
+i
+c
+r
+a
+C
+
+r
+a
+l
+u
+l
+l
+e
+c
+o
+t
+a
+p
+e
+H
+
+=
+
+C
+C
+H
+
+,
+
++
+H
+S
+I
+/
+
++
+2
+
+C
+H
+
+I
+
+r
+o
+
++
+3
+
+C
+H
+
+I
+
+r
+e
+h
+t
+i
+
+E
+
+r
+o
+t
+c
+a
+F
+
+h
+t
+w
+o
+r
+
+G
+
+l
+a
+m
+r
+e
+d
+i
+p
+E
+
+n
+a
+m
+u
+H
+
+=
+
+3
+R
+E
+H
+
+a
+m
+o
+n
+i
+c
+r
+a
+c
+
+l
+l
+e
+c
+
+s
+u
+o
+m
+a
+u
+q
+s
+
+l
+a
+e
+g
+a
+h
+p
+o
+s
+e
+
+=
+
+C
+C
+S
+E
+
+,
+r
+e
+c
+n
+a
+C
+
+g
+n
+u
+L
+
+l
+l
+e
+C
+
+l
+l
+a
+m
+s
+-
+n
+o
+N
+
+=
+
+C
+L
+C
+S
+N
+
+,
+r
+e
+c
+n
+a
+C
+
+g
+n
+u
+L
+
+l
+l
+e
+C
+
+l
+l
+a
+m
+S
+
+=
+
+C
+L
+C
+S
+
+l
+l
+e
+C
+
+s
+u
+o
+m
+a
+u
+q
+S
+
+k
+c
+e
+N
+
+d
+n
+a
+
+d
+a
+e
+H
+
+=
+
+C
+C
+S
+N
+H
+
+,
+r
+e
+c
+n
+a
+C
+
+e
+t
+a
+t
+s
+o
+r
+P
+
+t
+n
+a
+t
+s
+i
+s
+e
+r
+-
+n
+o
+i
+t
+a
+r
+t
+s
+a
+C
+
+=
+
+C
+P
+R
+C
+
+,
+r
+o
+t
+i
+b
+i
+h
+n
+I
+
+e
+s
+a
+n
+i
+K
+
+e
+n
+i
+s
+o
+r
+y
+T
+
+=
+
+I
+
+K
+T
+
+,
+t
+n
+a
+t
+u
+M
+
+R
+F
+G
+E
+
+=
+
+m
+R
+F
+G
+E
+
+,
+3
+
+r
+o
+t
+p
+e
+c
+e
+R
+
+=
+
+1
+L
+-
+
+D
+P
+
+,
+r
+e
+c
+n
+a
+C
+
+t
+s
+a
+e
+r
+
+B
+
+e
+v
+i
+t
+a
+g
+e
+n
+-
+e
+l
+p
+i
+r
+T
+
+=
+
+C
+B
+N
+T
+
+,
+r
+e
+c
+n
+a
+C
+
+l
+a
+c
+i
+v
+r
+e
+C
+
+=
+
+C
+C
+
+,
+2
+
+n
+e
+g
+i
+t
+n
+A
+e
+c
+a
+f
+r
+u
+s
+-
+l
+l
+e
+C
+
+t
+s
+a
+l
+b
+o
+h
+p
+o
+r
+T
+
+n
+a
+m
+u
+H
+=
+2
+P
+O
+R
+T
+
+,
+r
+e
+c
+n
+a
+C
+
+t
+c
+a
+r
+T
+
+y
+r
+a
+i
+l
+i
+
+B
+
+=
+
+C
+T
+B
+
+,
+a
+m
+o
+n
+i
+c
+r
+a
+C
+
+l
+l
+e
+C
+c
+i
+t
+i
+r
+d
+n
+e
+D
+d
+o
+o
+l
+B
+=
+
+2
+A
+C
+D
+B
+
+,
+r
+o
+t
+p
+e
+c
+e
+R
+
+r
+o
+t
+c
+a
+F
+
+h
+t
+w
+o
+r
+
+G
+
+l
+a
+m
+r
+e
+d
+i
+p
+E
+
+=
+R
+F
+G
+E
+
+,
+y
+d
+o
+b
+i
+t
+n
+A
+c
+i
+f
+i
+c
+e
+p
+s
+i
+B
+=
+
+b
+A
+s
+b
+
+,
+r
+o
+t
+c
+a
+F
+
+h
+t
+w
+o
+r
+
+G
+
+l
+a
+i
+l
+e
+h
+t
+o
+d
+n
+E
+
+r
+a
+l
+u
+c
+s
+a
+V
+=
+
+F
+G
+E
+V
+
+,
+1
+
+d
+n
+a
+g
+i
+
+L
+
+1
+-
+
+D
+P
+
+n
+o
+i
+t
+a
+c
+i
+l
+p
+p
+A
+e
+s
+n
+e
+c
+i
+
+L
+s
+c
+i
+g
+o
+l
+o
+i
+B
+=
+A
+L
+B
+
+,
+s
+u
+s
+o
+t
+a
+m
+e
+h
+t
+y
+r
+E
+
+s
+u
+p
+u
+L
+
+s
+u
+o
+e
+n
+a
+t
+u
+C
+=
+
+E
+L
+C
+
+,
+s
+u
+s
+o
+t
+a
+m
+e
+h
+t
+y
+r
+E
+
+s
+u
+p
+u
+L
+
+c
+i
+m
+e
+t
+s
+y
+S
+
+=
+
+E
+L
+S
+
+,
+n
+o
+i
+t
+c
+A
+
+f
+o
+m
+
+s
+i
+n
+a
+h
+c
+e
+
+M
+=
+A
+O
+M
+
+,
+2
+
+n
+e
+g
+i
+t
+n
+A
+
+:
+s
+n
+o
+i
+t
+a
+i
+v
+e
+r
+b
+b
+A
+
+l
+a
+b
+o
+l
+G
+
+7
+2
+0
+2
+
+:
+n
+o
+i
+s
+s
+i
+m
+b
+u
+s
+D
+N
+
+I
+
+.
+t
+s
+E
+
+l
+a
+b
+o
+l
+G
+
+o
+n
+o
+M
+
+s
+r
+o
+m
+u
+T
+d
+i
+l
+o
+S
+
+1
+C
+U
+M
+A
+T
+
+-
+
+2
+6
+2
+3
+1
+-
+
+B
+D
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WE MAY NOT BE ABLE TO SUCCESSFULLY DEVELOP AND/OR MARKET OUR CORE 
+PRODUCTS, OR ANY OF OUR DRUG CANDIDATES.
+
+Our Core Products
+
+Trastuzumab Pamirtecan (DB-1303/BNT323)
+
+Trastuzumab  pamirtecan  (DB-1303/BNT323)  is  a  clinical-stage  HER2  ADC  candidate  that  is 
+being  evaluated  in  two  ongoing  global  registrational  Phase  3  trials  (in  BC  and  EC,  respectively) 
+with  one  potentially  registrational  EC  cohort  in  a  global  Phase  1/2a  clinical  trial,  and  an  ongoing 
+registrational  Phase  3  trial  in  China.  Trastuzumab  pamirtecan  is  designed  with  a  stable,  cleavable 
+linker  and  proprietary  topoisomerase-based  payload  that  aims  to  lower  off-target  toxicity  and 
+enhance  anti-tumor  activity,  including  bystander  killing  effects.  These  features  may  enable 
+trastuzumab pamirtecan to potentially serve as a new therapeutic option for patients with advanced/
+unresectable,  recurrent,  or  metastatic  HER2-expressing  solid  tumors,  including  patients  with  both 
+high and low expression levels of HER2.
+
+Trastuzumab pamirtecan has obtained Fast Track and Breakthrough Therapy Designations from the 
+FDA and Breakthrough Therapy Designation from the NMPA for the treatment of advanced EC in 
+patients  who  progressed  on  or  after  treatment  with  immune  checkpoint  inhibitors,  demonstrating 
+trastuzumab  pamirtecan’s  potential  to  treat  advanced  EC  patients  who  currently  have  low  survival 
+rates  and  an  unmet  medical  need  for  new  and  more  effective  treatments.  Moreover,  trastuzumab 
+pamirtecan’s  responses  have  been  observed  in  a  range  of  tumors,  including  BC,  OC,  colorectal 
+cancer  and  esophageal  cancer,  and  are  supported  by  clinical  data  from  patients  across  the  U.S., 
+China, Australia and other countries.
+
+To advance trastuzumab pamirtecan, we have formed a global strategic partnership with BioNTech 
+to accelerate its development and maximize its global value:
+
+BC
+
+• 
+
+A   r a n d o m i z e d ,   m u l t i - s i t e ,   o p e n - l a b e l ,   p i v o t a l   g l o b a l   P h a s e   3   c l i n i c a l   t r i a l 
+(DYNASTY-Breast02; NCT06018337) is being conducted to evaluate trastuzumab pamirtecan 
+compared  with  the  investigator’s  choice  of  chemotherapy  in  advanced  or  metastatic  HR+, 
+HER2-low  BC.  The  primary  endpoint  is  PFS.  In  February  2026,  this  trial  completed 
+enrollment.
+
+Based on current event accrual projections, we and our partner BioNTech expect interim data 
+from this trial in the fourth quarter of 2026.
+
+• 
+
+A  Phase  3  registrational  trial  (NCT06265428)  is  being  conducted  in  China  for  trastuzumab 
+pamirtecan  versus  T-DM1  in  patients  with  HER2+  unresectable  and/or  metastatic  BC 
+previously  treated  with  trastuzumab  and  taxane.  As  of  September  5,  2025,  the  IDMC  has 
+reviewed  the  trial’s  interim  data  and  confirmed  that  this  Phase  3  trial  has  achieved  the 
+primary endpoint of PFS as evaluated by BICR relative to the T-DM1 control arm.
+
+In  April  2026,  the  BLA  for  trastuzumab  pamirtecan  in  this  indication  has  been  accepted  for 
+review by the CDE.
+
+20
+
+• 
+
+EC
+
+• 
+
+A global Phase 1/2 clinical trial (NCT06827236) is being conducted to evaluate trastuzumab 
+pamirtecan  in  combination  with  pumitamig  (PD-L1xVEGF  bsAb)  in  patients  with  HR+  or 
+HR-,  HER2-low,  ultralow,  or  null  advanced  metastatic  BC  or  TNBC.  Preliminary  data  from 
+this trial are expected to be presented at the 2026 ESMO Congress.
+
+A  global,  multi-cohort  Phase  1/2a  clinical  trial  (NCT05150691)  is  being  conducted  to 
+evaluate  trastuzumab  pamirtecan  in  patients  with  advanced/unresectable,  recurrent,  or 
+metastatic HER2-expressing solid tumors.
+
+In  April  2026,  in  an  oral  session  at  the  2026  SGO  Annual  Meeting,  BioNTech  announced 
+positive  results  from  the  primary  analysis  of  a  Phase  2  cohort  evaluating  trastuzumab 
+pamirtecan  in  patients  with  HER2-expressing,  advanced/metastatic  EC  whose  disease 
+progressed  on  or  after  first-line  chemotherapy  with  or  without  prior  checkpoint  inhibitor 
+treatment.  This  cohort  is  part  of  the  global  Phase  1/2a  clinical  trial.  The  data  demonstrated 
+clinically  meaningful  efficacy  and  a  manageable  safety  profile  for  trastuzumab  pamirtecan 
+monotherapy  across  all  HER2  IHC  expression  levels  (IHC  3+,  2+,  1+).  Outcomes  were 
+consistent among patients regardless of prior immunotherapy treatment.
+
+In  June  2026,  additional  data  were  presented  from  Phase  2  portion  of  this  trial  in  an  oral 
+session  at  the  2026  ESMO  Gynaecological  Cancers  Congress.  Trastuzumab  pamirtecan  was 
+observed to result in encouraging and durable anti-tumor activity and meaningful survival in 
+patients with advanced HER2-expressing endometrial cancer. The safety profile was observed 
+to be manageable and generally consistent with the known class effects of anti-HER2 ADCs.
+
+BioNTech  and  we  plan  to  file  a  BLA  in  2026.  The  companies  will  determine  the  optimal 
+regulatory  path  for  trastuzumab  pamirtecan  based  on  the  totality  of  clinical  data  in 
+endometrial  cancer  and  breast  cancer.  This  approach  is  in  line  with  companies’  value 
+optimization  strategy  for  the  asset  in  an  evolving  treatment  landscape  and  focuses  on 
+prioritizing opportunities where they can deliver significant benefit for patients.
+
+• 
+
+A  global  Phase  3  trial  (NCT06340568)  is  being  conducted  by  BioNTech  to  evaluate 
+trastuzumab  pamirtecan  compared  to  investigator’s  choice  of  chemotherapy  in  previously 
+treated  patients  with  HER2-expressing,  recurrent  EC.  The  trial  aims  to  enroll  approximately 
+480 patients. The primary endpoints are PFS and ORR. In June 2026, the trial design of this 
+study was presented at the 2026 ASCO Annual Meeting.
+
+TRASTUZUMAB  PAMIRTECAN  (DB-1303/BNT323)  MAY  NOT  ULTIMATELY  BE 
+SUCCESSFULLY DEVELOPED AND COMMERCIALIZED.
+
+Elfetabart Drozuntecan (DB-1311/BNT324)
+
+Elfetabart  drozuntecan  (DB-1311/BNT324)  is  a  clinical-stage  B7-H3  ADC  candidate  under  global 
+development. B7-H3 is a prominent member of the B7 family that plays a critical role in promoting 
+tumor  progression  and  metastasis.  Elfetabart  drozuntecan  is  designed  to  harness  the  potential  of 
+B7-H3 as a therapeutic target, leveraging its widespread overexpression in a broad range of tumor 
+types,  including  PC,  SCLC,  NSCLC,  OC,  CC,  melanoma,  ESCC  and  HNSCC.  Notably,  elfetabart 
+drozuntecan demonstrates strong selectivity by targeting a specific isoform predominantly found on 
+B7-H3-overexpressing tumor cells, which, combined with its potent payload, stable linker-payload 
+and  fragment  crystallizable  region  silenced  (“Fc-silenced”)  mAb,  is  designed  to  translate  into  a 
+favorable safety profile and a wide therapeutic window.
+
+More  than  1,000  patients  have  been  treated  with  elfetabart  drozuntecan  in  clinical  trials  across 
+more than 10 tumor types, including more than 500 patients treated with elfetabart drozuntecan in 
+combination with pumitamig (PD-L1xVEGF bsAb).
+21
+
+Elfetabart  drozuntecan  has  been  granted  Fast  Track  Designation  from  the  FDA  for  the  treatment 
+of patients with advanced/unresectable, or metastatic CRPC and Orphan Drug Designations for the 
+treatment of ESCC and SCLC. In July 2026, elfetabart drozuntecan was also granted Breakthrough 
+Therapy  Designation  by  the  CDE  for  the  treatment  of  patients  with  mCRPC  whose  disease  has 
+progressed following prior treatment with ARPI and taxane-based chemotherapy.
+
+In  collaboration  with  BioNTech,  we  are  pursuing  a  comprehensive  clinical  development  plan  to 
+unlock the full potential of elfetabart drozuntecan:
+
+PC
+
+• 
+
+An open-label, global Phase 1/2 clinical trial (NCT05914116) is being conducted to evaluate 
+elfetabart drozuntecan in patients with advanced solid tumors.
+
+In  February  2026,  at  the  ASCO  Genitourinary  Cancers  Symposium,  updated  data  from 
+this  trial  were  presented.  As  of  the  December  29,  2025  data  cutoff,  elfetabart  drozuntecan 
+demonstrated  a  median  rPFS  of  11.3  months  and  a  mOS  of  22.5  months  in  patients  with 
+heavily  pretreated  mCRPC  (n=129  evaluable).  In  patients  with  no  prior  exposure  to  Lu-177, 
+the  median  rPFS  reached  13.6  months.  Among  52  patients  who  had  previously  received 
+Lu-177,  outcomes  were  comparable  to  the  overall  population,  with  a  median  rPFS  of  11.3 
+months  and  mOS  not  yet  reached  (n=45  evaluable).  Safety  findings  were  consistent  with 
+prior  reports,  with  nausea  and  hematologic  events  as  the  most  common  adverse  events, 
+mainly Grade 1-2. Among 110 patients treated with the 6 mg/kg regimen, 22 patients (20.0%) 
+experienced Grade 3 TRAEs.
+
+Building  on  this  encouraging  clinical  activity,  in  May  2026,  the  first  patient  was  dosed  in  a 
+global,  open-label,  randomized  Phase  3  clinical  trial  (NCT07365995)  evaluating  elfetabart 
+drozuntecan  versus  docetaxel  plus  prednisone/prednisolone  in  patients  with  taxane-naive 
+mCRPC. The trial plans to enroll approximately 736 patients, and its dual primary endpoints 
+are BICR-assessed rPFS and OS. In June 2026, the trial design of this study was presented at 
+the 2026 ASCO Annual Meeting.
+
+Other Solid Tumors
+
+• 
+
+In  this  same  global  Phase  1/2  clinical  trial  (NCT05914116),  elfetabart  drozuntecan  is  being 
+investigated  in  multiple  solid  tumors  besides  PC,  including  SCLC,  NSCLC,  HNSCC,  HCC, 
+OC, CC, and melanoma.
+
+In  April  2026,  in  a  rapid  oral  session  at  the  2026  SGO  Annual  Meeting,  updated  data  from 
+this  trial  were  presented.  As  of  December  29,  2025,  the  data  cut-off,  elfetabart  drozuntecan 
+demonstrated  a  uORR  of  42.4%,  a  DCR  of  81.8%,  and  a  7.0-month  mPFS  in  2L/3L  CC 
+(n=33), and a uORR of 53.3%, a DCR of 83.3%, and a 9.5-month mPFS in PROC (n=30). The 
+safety  profile  remained  consistent  with  no  new  signals  observed.  Both  the  treatment-related 
+discontinuation rate (2.7%) and the incidence of ILD remained low, supporting the favorable 
+benefit-risk profile of elfetabart drozuntecan in gynecologic cancers.
+
+Data  updates  from  this  trial  in  patients  with  PROC  are  expected  to  be  presented  at  the  2026 
+ESMO Congress.
+
+22
+
+• 
+
+Together  with  BioNTech,  we  are  actively  exploring  elfetabart  drozuntecan’s  combination 
+potential to expand into earlier treatment lines in various solid tumors.
+
+A  global  Phase  1/2  clinical  trial  (NCT06892548)  is  being  conducted  to  evaluate  elfetabart 
+drozuntecan  in  combination  with  pumitamig  in  patients  with  advanced  lung  cancers.  Data 
+from this trial will be presented in a late-breaking oral presentation at the 2026 WCLC.
+
+A  global  Phase  2  clinical  trial  (NCT06953089)  is  being  conducted  to  evaluate  elfetabart 
+drozuntecan  in  combination  with  pumitamig  or  with  sacituzumab  drozuntecan  (DB-1305/
+BNT325)  in  patients  with  advanced  solid  tumors.  Data  from  this  trial  will  be  presented  in  a 
+proffered paper presentation at the 2026 ESMO Congress.
+
+ELFETABART  DROZUNTECAN  (DB-1311/BNT324)  MAY  NOT  ULTIMATELY  BE 
+SUCCESSFULLY DEVELOPED AND COMMERCIALIZED.
+
+Our Key Products
+
+DB-1310
+
+DB-1310  is  one  of  the  world’s  most  clinically  advanced  HER3  ADC  candidates.  HER3  –  along 
+with  EGFR  and  HER2  –  is  a  key  driver  of  tumor  survival,  yet  has  remained  underexplored  due 
+to  two  decades  of  drug  development  challenges  around  signaling  inhibition  and  pathway  escape. 
+Leveraging deep in-house expertise in HER3 biology (dimerization patterns, cross-talk with EGFR/
+HER2, and resistance mechanisms), we designed DB-1310 with enhanced internalization to deliver 
+payloads directly into HER3-expressing cancer cells – enabling targeted tumor killing.
+
+DB-1310  has  received  two  Fast  Track  Designations  from  the  FDA:  one  for  adult  patients  with 
+advanced,  unresectable  or  metastatic  non-squamous  NSCLC  with  an  EGFR  exon  19  deletion 
+or  L858R  mutation  following  disease  progression  on  a  third-generation  EGFR  tyrosine  kinase 
+inhibitor (“TKI”) and platinum-based chemotherapy, and another for adult patients with advanced/
+unresectable  or  metastatic  HR-positive/HER2-negative  (IHC  0,  1+  or  2+/ISH-)  BC  who  received 
+prior  endocrine-based  therapy  and  a  CDK  4/6  inhibitor,  with  or  without  chemotherapy,  or  who 
+recurred within 6 months of completing adjuvant chemotherapy.
+
+• 
+
+A  global  Phase  1/2  clinical  trial  (NCT05785741)  is  being  conducted  to  evaluate  DB-1310 
+in  patients  with  advanced  solid  tumors  who  have  progressed  on  or  after  standard  therapies. 
+Following encouraging preliminary data presented at the 2025 ASCO Annual Meeting and the 
+2025  SABCS,  updated  efficacy,  safety  and  biomarker  data  from  the  pretreated  HR+/HER2-
+BC  cohort  of  this  trial  are  scheduled  for  poster  presentation  at  the  2026  ESMO  Congress  in 
+October 2026.
+
+DB-1310 MAY NOT ULTIMATELY BE SUCCESSFULLY DEVELOPED AND COMMERCIALIZED.
+
+Sacituzumab Drozuntecan (DB-1305/BNT325)
+
+Sacituzumab drozuntecan is a TROP2 ADC candidate with a global development strategy. TROP2, 
+a  validated  and  highly  expressed  ADC  target  across  a  wide  spectrum  of  cancers,  plays  a  pivotal 
+role  in  tumor  progression.  Sacituzumab  drozuntecan  has  been  granted  Fast  Track  Designation 
+by  the  FDA  for  patients  with  platinum-resistant  epithelial  ovarian,  fallopian  tube,  or  primary 
+peritoneal cancer.
+
+23
+
+In  collaboration  with  BioNTech,  we  are  advancing  sacituzumab  drozuntecan’s  global  clinical 
+development:
+
+• 
+
+A non-randomized, open-label, multiple-dose, global Phase 1/2a clinical trial (NCT05438329) 
+is  being  conducted  to  evaluate  sacituzumab  drozuntecan  in  patients  with  advanced  solid 
+tumors, with encouraging preliminary data presented at the 2025 AACR, 2025 SGO and 2025 
+ESMO  Congress.  As  part  of  this  clinical  trial,  sacituzumab  drozuntecan  is  being  studied  in 
+combination with pumitamig in various solid tumor indications.
+
+In  May  2026,  in  a  rapid  oral  presentation  at  the  2026  ESMO  Breast  Cancer  Congress,  data 
+from  the  Phase  2  expansion  cohort  evaluating  sacituzumab  drozuntecan  in  combination 
+with  pumitamig  as  first-line  treatment  for  unresectable,  advanced  or  metastatic  TNBC  were 
+presented.  As  of  February  28,  2026,  30  patients  had  been  enrolled.  The  uORR  was  83.3%, 
+the  cORR  was  76.7%,  and  the  DCR  was  96.7%.  Reduction  in  target  lesions  was  observed  in 
+all evaluable patients, and 95.2% of responders remained in response at six months. PFS data 
+was  not  mature  at  the  time  of  analysis.  The  combination  demonstrated  a  manageable  safety 
+profile.  Grade  3-4  TRAEs  occurred  in  43.3%  of  patients,  and  3.3%  discontinued  treatment 
+due  to  TRAEs.  The  most  common  TRAEs  (occurring  in  more  than  40%  of  patients)  were 
+stomatitis, weight decreased, alanine aminotransferase increased and alopecia, most of which 
+were Grade 1-2.
+
+SACITUZUMAB  DROZUNTECAN  (DB-1305/BNT325)  MAY  NOT  ULTIMATELY  BE 
+SUCCESSFULLY DEVELOPED AND COMMERCIALIZED.
+
+DB-2304
+
+DB-2304  is  an  innovative  BDCA2  ADC  candidate  for  SLE  and  CLE,  being  one  of  the  most 
+advanced BDCA2 ADCs in terms of development progress. DB-2304 offers a selective therapeutic 
+approach  specifically  targeting  the  upstream  signaling  pathways  of  SLE/CLE  pathogenesis, 
+differentiating  it  from  existing  lupus  treatments  that  often  have  broader  effects  on  the  immune 
+system. We believe DB-2304 holds promise to substantially improve upon the standard of care for 
+SLE and CLE, such as glucocorticoids and immunosuppressants, and represents a major step in the 
+innovation of autoimmune ADCs.
+
+• 
+
+A  global  Phase  1/2a  clinical  trial  (NCT06625671)  is  being  conducted  in  healthy  adults  and 
+SLE/CLE  patients.  In  November  2025,  at  the  53rd  AIC,  data  from  the  Phase  1  part  of  this 
+trial was presented. DB-2304 was well-tolerated in healthy volunteers, showed approximately 
+linear  PK,  and  effectively  engaged  its  target,  confirming  its  pharmacologic  mechanism. 
+The  Phase  2a  portion  of  this  trial  is  actively  enrolling  patients.  Enrollment  in  cohort  1  has 
+been  completed,  and  cohort  2  is  ongoing.  This  randomized,  double-blind  trial  is  designed 
+to  evaluate  the  safety,  tolerability,  PK/PD,  and  preliminary  clinical  activity  of  DB-2304  in 
+SLE/CLE patients.
+
+24
+
+DB-1418/AVZO-1418
+
+DB-1418/AVZO-1418  is  a  novel  EGFRxHER3  BsADC  candidate  with  differentiated  molecule 
+design.  We  entered  into  a  collaboration  and  license  agreement  with  Avenzo  which  was  publicly 
+announced in January 2025, pursuant to which we granted Avenzo an exclusive license to develop, 
+manufacture and commercialize DB-1418/AVZO-1418 globally excluding Greater China.
+
+DB-1418/AVZO-1418  has  received  Fast  Track  Designation  from  the  FDA  for  the  treatment  of 
+patients with unresectable, locally advanced, or metastatic NSCLC with an EGFR exon 19 deletion 
+or exon 21 L858R mutation, whose disease has progressed on or after therapy with an EGFR TKI.
+
+• 
+
+• 
+
+A  global  Phase  1/2  clinical  trial  (AVENTINE-1,  NCT07038343)  is  being  conducted  in 
+patients  with  advanced  solid  tumors  and  is  currently  enrolling  patients.  In  May  2026,  the 
+first  patient  in  China  was  dosed  in  this  trial,  following  the  start  of  global  enrollment  by  our 
+partner Avenzo in 2025.
+
+In  June  2026,  initial  Phase  1  results  from  this  trial  were  publicly  disclosed  in  Rallybio 
+Corporation’s  Form  8-K  filed  on  June  1,  2026  in  connection  with  the  proposed  Rallybio/
+Avenzo  reverse  merger  transaction,  with  additional  detail  provided  in  Rallybio’s  Form  S-4 
+filed  on  July  15,  2026.  As  of  the  May  13,  2026  data  cut-off  date,  32  patients  were  treated 
+with  DB-1418/AVZO-1418  monotherapy  across  five  dose  levels  ranging  from  2.0  mg/kg 
+Q2W to 6.0 mg/kg Q3W. Patients were heavily pretreated, with a median of two prior lines of 
+systemic therapy in the metastatic setting (range 0 to 5). Five responses (including confirmed 
+and  unconfirmed)  were  observed  across  multiple  tumor  types  and  multiple  dose  cohorts. 
+Responders  included  patients  with  NSCLC  and  UC.  Nine  of  18  efficacy-evaluable  patients 
+remained  on  treatment,  including  all  five  responders.  DB-1418/AVZO-1418  was  generally 
+well tolerated at doses up to 4.5 mg/kg Q2W, where the majority of TEAEs were Grade 1 or 
+2  (n=20).  No  Grade  3  or  higher  neutrophil  count  decreased  was  observed  at  doses  up  to  4.5 
+mg/kg Q2W.
+
+• 
+
+As disclosed in Rallybio’s Form S-4, Avenzo plans to present preliminary updated data from 
+this trial in the second half of 2026.
+
+DB-1419
+
+DB-1419  is  an  innovative  B7-H3xPD-L1  BsADC  candidate  with  a  DNA  topoisomerase  I 
+inhibitor  payload,  being  the  first  B7-H3xPD-L1  BsADC  under  clinical  development  globally.  The 
+simultaneous action of delivering the toxin to tumor cell and modulating T cell activation provides 
+potential  synergistic  anti-tumor  effect.  Combining  payload  mediated  cytotoxicity  with  antibody 
+mediated IO activity, DB-1419 provides an innovative approach for cancer treatment.
+
+• 
+
+A  global  Phase  1/2a  clinical  trial  (NCT06554795)  is  being  conducted  in  patients  with 
+advanced/metastatic solid tumors and is currently enrolling patients.
+
+25
+
+DB-1317
+
+DB-1317  is  a  next-generation  ADAM9  ADC  developed  based  on  DITAC  platform.  The  target, 
+ADAM9,  is  highly  expressed  in  various  gastrointestinal  cancers,  such  as  gastric,  colorectal, 
+and  pancreatic  cancers,  while  showing  low  expression  in  normal  tissues.  Preclinical  data  have 
+demonstrated  that  DB-1317  exhibits  significant  and  potent  anti-tumor  activity  in  multiple 
+gastrointestinal cancer models, indicating broad clinical translational potential.
+
+• 
+
+In  January  2026,  DB-1317  received  IND  clearance  from  the  CDE,  enabling  its  clinical 
+development  in  China  alongside  the  ongoing  global  trial.  A  global  Phase  1a/1b  clinical 
+trial  (NCT07141706)  is  being  conducted  in  patients  with  selected  advanced/metastatic  solid 
+tumors  and  is  currently  enrolling  patients.  In  April  2026,  the  trial  design  of  this  study  was 
+presented  at  the  2026  AACR  Annual  Meeting.  In  August  2026,  DB-1317  was  granted  Fast 
+Track  Designation  by  the  FDA  for  the  treatment  of  advanced/unresectable  or  metastatic 
+pancreatic ductal adenocarcinoma.
+
+DB-1324
+
+DB-1324  is  a  next-generation  CDH17  ADC  developed  based  on  DITAC  platform.  Preclinical 
+studies  showed  that  DB-1324  specifically  binds  to  the  CDH17  extracellular  domains,  with 
+no  binding  to  other  cadherin  family  proteins.  It  demonstrated  antitumor  activity  in  human 
+CDH17-positive  murine  cancer  models  and  a  tolerable  safety  profile.  In  2024,  we  entered  into 
+an  exclusive  option  and  license  agreement  with  GSK  for  DB-1324  and  agreed  to  grant  GSK  an 
+exclusive option to obtain a license to develop and commercialize worldwide, excluding Mainland 
+China, Hong Kong, and Macau.
+
+• 
+
+A  global  Phase  1/2,  open-label,  first-in-human  trial  (NCT07263594)  is  being  conducted  to 
+assess  the  safety,  tolerability,  PK,  and  preliminary  antitumor  activity  of  DB-1324  in  patients 
+with  advanced/metastatic  gastrointestinal  tumors  and  is  currently  enrolling  patients.  In  April 
+2026, the trial design of this study was presented at the 2026 AACR Annual Meeting.
+
+Other Preclinical Products
+
+DB-1329
+
+DB-1329  is  a  next-generation  CDCP1  ADC  developed  based  on  DITAC  platform.  CDCP1  is  a 
+cell-surface  protein  significantly  upregulated  across  a  broad  range  of  solid  tumors,  with  limited 
+expression in normal tissues.
+
+• 
+
+In  April  2026,  preclinical  data  for  DB-1329  were  presented  at  the  2026  AACR  Annual 
+Meeting,  demonstrating  strong  antitumor  activity  across  multiple  animal  models.  Notably, 
+its  discovery  was  supported  by  DBNexus™,  the  Company’s  proprietary  AI  multi-omics 
+platform.
+
+DB-1326
+
+DB-1326 is a novel dual-payload ADC developed using the DUPAC platform. It consists of a fully 
+human  immunoglobulin  G1  antibody  that  specifically  recognizes  TA-MUC1,  conjugated  with  a 
+topoisomerase  I  inhibitor  and  DUP9,  a  novel  lurbinectedin  derivative.  TA-MUC1  is  an  aberrantly 
+glycosylated glycoform of MUC1 that is highly specifically expressed on cancer cells.
+
+26
+
+• 
+
+In  April  2026,  preclinical  data  for  DB-1326  were  presented  at  the  2026  AACR  Annual 
+Meeting,  demonstrating  superior  antitumor  efficacy  over  mono-payload  ADCs  in  preclinical 
+tumor models, along with encouraging PK and safety profiles in monkeys.
+
+DB-2304,  DB-1418/AVZO-1418,  DB-1419,  DB-1317,  DB-1324,  DB-1326  AND  DB-1329  MAY 
+NOT ULTIMATELY BE SUCCESSFULLY DEVELOPED AND COMMERCIALIZED.
+
+Our In-House Developed ADC Platform
+
+Leveraging  our  experienced  R&D  team,  insights  into  ADC  design,  and  strong  execution 
+capabilities,  we  have  established  four  cutting-edge  ADC  technology  platforms:  DITAC,  DIBAC, 
+DIMAC,  and  DUPAC,  to  push  the  boundaries  of  ADC  treatment.  Our  technology  platforms  serve 
+as  the  foundation  for  continuous  and  sustained  innovation  and  value  creation,  whose  value  and 
+versatility  have  been  validated  by  our  pipeline  assets  and  recognized  by  global  multinational 
+corporation partners.
+
+DITAC
+Duality Immune Toxin Antibody Conjugate
+7 clinical assets
+1 preclinical asset
+
+(cid:31) Topoisomerase-based ADC platform
+
+(cid:31) Higher therapeutic window
+
+(cid:31) Good tolerability profile
+
+DIBAC
+Duality Innovative Bispecific  Antibody Conjugate
+2 clinical assets
+1 preclinical asset
+
+(cid:31) Enhanced tumor selectivity and payload delivery 
+
+(cid:31) Function synergy and pathway cross-talk 
+
+(cid:31) Potential best-in-class and frontline therapy
+
+DIMAC
+Duality Immune Modulating Antibody Conjugate
+1 clinical asset
+
+(cid:31) First-in-class ADC platform for autoimmune diseases 
+
+(cid:31) “Smart steroid” targeted delivery of steroid with limited exposure to normal tissue
+
+(cid:31) Superior to traditional antibody therapy in efficacy
+
+DUPAC
+D
+D
+Duality Unique Payload Antibody Conjugate
+3 payloads 
+3
+1 preclinical asset
+1
+
+(cid:31) Potential to overcome resistance to DXd (TOP1i)  
+
+(cid:31) Targeting hard-to-treat tumor types   
+
+(cid:31) Potential to reshape the ADC treatment paradigm
+
+•  DITAC,  our  proprietary  topoisomerase  inhibitor-based  ADC  platform,  has  been  validated 
+by  the  global  clinical  generated  data  across  the  U.S.,  China,  Europe,  Australia  and  other 
+major  markets.  Compared  to  non-topoisomerase  ADCs,  Topoisomerase-based  ADCs  have 
+demonstrated  a  broad  therapeutic  window  which  may  translate  into  improved  efficacy  and 
+safety  in  the  clinical  setting.  This  platform  was  developed  by  screening  and  optimizing  a 
+library of proprietary ADC components, including our proprietary payloads P1003 and P1021, 
+enabled  by  meaningful  technological  improvements.  Consequently,  DITAC  offers  critical 
+flexibility  in  ADC  design,  delivering  improved  systemic  stability,  tumor-specific  payload 
+release, bystander-killing effects, and rapid payload clearance.
+
+•  DIBAC,  one  of  the  few  BsADC  platforms  in  the  world,  is  leading  a  new  wave  of  ADC 
+innovation.  BsADCs  have  the  potential  to  offer  improved  efficacy  over  traditional 
+monospecific  ADCs  and  their  combination  therapies  by  integrating  two  distinct  binding 
+moieties  in  a  single  therapeutic  entity.  While  promising,  the  complexity  of  BsADCs 
+introduces  new  challenges  in  antibody  engineering,  stability  and  manufacturing,  establishing 
+a  high  entry  barrier.  Our  DIBAC  platform  leverages  our  deep  understanding  of  disease  and 
+target  biology,  extensive  experience  in  bispecific  antibody  engineering,  and  AI-powered 
+target selection and antibody design.
+
+27
+
+•  DIMAC,  supported  by  our  proprietary  immune-modulating  payload,  holds  the  potential  to 
+expand  the  ADC  modality  into  a  significant  white-space  market  in  autoimmune  and  other 
+therapeutic  areas.  DIMAC  is  one  of  the  very  few  ADC  platforms  in  the  world  specifically 
+designed  to  target  major  autoimmune  diseases.  Many  patients  with  chronic  autoimmune 
+diseases,  such  as  SLE  and  CLE,  are  currently  treated  with  therapies  that  often  carry  severe 
+side  effects.  For  instance,  long-term  use  of  glucocorticoids  is  commonly  associated  with 
+increased  risks  of  bone  fractures,  weight  gain,  diabetes,  immune  suppression,  and  other 
+chronic  conditions.  We  believe  ADCs  can  reshape  the  treatment  paradigm  of  autoimmune 
+diseases  by  offering  targeted  therapy  with  low  systemic  exposure,  enhanced  efficacy  and 
+reduced  side  effects.  Molecules  designed  under  our  DIMAC  platform  have  demonstrated 
+potent  and  broad  anti-inflammatory  activity,  long  duration  of  action,  sustained  stability,  and 
+low systemic exposure in preclinical studies.
+
+•  DUPAC,  reflects  our  foresight  into  the  future  of  ADC  innovation.  DUPAC  is  one  of  the 
+few  ADC  platforms  globally  dedicated  to  developing  linker-payload  complexes  with  novel 
+mechanisms  of  action  beyond  traditional  cytotoxic  agents,  with  the  goal  of  addressing 
+growing  drug  resistance  and  hard-to-treat  tumors.  Notably,  DUPAC  has  demonstrated  the 
+potential  to  overcome  resistance  to  DXd  and  other  topoisomerase  inhibitor-based  ADC. 
+We  have  made  promising  progress  across  a  range  of  unique  payload  mechanisms  and  have 
+obtained  prototypes  with  broad-spectrum  anti-tumor  activity  across  multiple  solid  tumors,  as 
+well as potent direct and bystander killing effects in preclinical studies.
+
+Collaboration and Licensing Arrangements
+
+In line with our global strategy, we have established an array of strategic partnerships to accelerate 
+the development of our pipeline across key global markets, expand our global clinical development 
+capabilities,  and  fuel  our  future  innovation  and  long-term  growth.  We  have  entered  into  multiple 
+out-licensing  and  collaboration  deals  with  leading  industry  players  worldwide  to  date,  including 
+BioNTech  (for  trastuzumab  pamirtecan  (DB-1303),  elfetabart  drozuntecan  (DB-1311)  and 
+sacituzumab  drozuntecan  (DB-1305)),  BeOne  (for  DB-1312),  Adcendo  (for  ADC  assets  using  our 
+proprietary  payload  linkers),  GSK  (for  DB-1324),  and  Avenzo  (for  DB-1418),  and  Genentech  (for 
+next-generation ADCs built on DUPAC), with over US$7.0 billion in total deal value.
+
+Strategic Partnership with BioNTech
+
+BioNTech  is  a  global  next  generation  biopharmaceutical  company  pioneering  novel  investigative 
+therapies  for  cancer  and  other  serious  diseases.  Our  partnership  with  BioNTech  is  driven  by  a 
+shared  strategy  to  develop  innovative  therapies  that  could  potentially  complement  or  replace 
+chemotherapy, addressing the needs of cancer patients across the entire disease continuum.
+
+28
+
+We  have  entered  into  three  licensing  and  collaboration  agreements  with  BioNTech,  each  of  which 
+relates to one of our in-house discovered ADC assets, namely trastuzumab pamirtecan (DB-1303), 
+elfetabart drozuntecan (DB-1311) and sacituzumab drozuntecan (DB-1305). Under each agreement, 
+(i)  we  granted  to  BioNTech  an  exclusive,  royalty-bearing  and  sublicensable  license  under 
+certain  patents  and  know-how  owned  or  otherwise  controlled  by  us  to  develop,  manufacture, 
+commercialize or otherwise exploit the respective licensed compounds and licensed products for all 
+uses  worldwide  except  Mainland  China,  Hong  Kong  and  Macau;  and  (ii)  we  retain  the  full  rights 
+to  develop,  manufacture,  commercialize  or  otherwise  exploit  the  respective  licensed  compounds 
+and  licensed  products  in  Mainland  China,  Hong  Kong  and  Macau.  For  elfetabart  drozuntecan, 
+BioNTech  granted  us  an  exclusive  option  to  share  the  costs  and  profits  and  losses  from  the 
+exploitation of the first elfetabart drozuntecan product in the United States, in accordance with the 
+terms  set  out  in  the  agreement.  In  May  2026,  we  served  written  notice  on  BioNTech  to  exercise 
+this  option.  Under  the  collaboration  agreement,  the  option  will  become  effective  upon  payment  of 
+our share of the past development costs attributed to the United States.
+
+Together  with  BioNTech,  we  are  actively  exploring  the  therapeutic  potential  of  trastuzumab 
+pamirtecan (DB-1303), elfetabart drozuntecan (DB-1311) and sacituzumab drozuntecan (DB-1305) 
+through a comprehensive global clinical development plan.
+
+Collaboration with BeOne
+
+BeOne  is  a  global  oncology  company  that  is  discovering  and  developing  innovative  treatments 
+that  are  more  affordable  and  accessible  to  cancer  patients  worldwide.  We  have  granted  to 
+BeOne  a  global  license  to  develop  and  commercialize  DB-1312,  our  in-house  discovered 
+B7-H4-targeted  ADC.  This  agreement  enables  BeOne  to  advance  DB-1312  globally,  leveraging 
+our  industry-leading  research  capabilities  and  BeOne’s  end-to-end  ADC  manufacturing  expertise 
+to create a synergistic approach to drug development. As of the date of this announcement, BeOne 
+is advancing dose-expansion phase of the Phase 1 trial of DB-1312/BG-C9074. In June 2026, data 
+presented  at  2026  ASCO  Annual  Meeting  from  the  Phase  1  dose-escalation  and  safety-expansion 
+cohorts  demonstrated  early  efficacy  signals  and  a  favorable  tolerability  profile.  BeOne  plans  to 
+initiate a Phase 3 clinical trial in ovarian cancer by the end of 2026.
+
+Collaboration with Adcendo
+
+Adcendo  was  founded  in  2017  as  a  spin-out  from  The  University  of  Copenhagen  and 
+Rigshospitalet,  dedicated  to  the  development  of  breakthrough  ADCs.  Our  strategic  partnership 
+with  Adcendo  was  established  in  2022,  which  reflects  the  mutual  recognition  of  each  party’s 
+unique  strengths  in  ADC  discovery  and  development.  This  collaboration  enables  Adcendo  to 
+utilize  our  proprietary  DITAC  platform  in  the  advancement  of  their  novel  programs,  including 
+uPARAP-directed  ADCs.  On  November  4,  2024,  Adcendo  entered  into  a  new  license  agreement 
+with  us  to  develop  ADC  products  directed  to  an  additional  target  using  our  proprietary  DITAC 
+platform, with terms similar to the existing agreement with Adcendo.
+
+29
+
+Collaboration with GSK
+
+In  December  2024,  we  entered  into  an  exclusive  option  agreement  with  GSK  for  DB-1324,  a 
+preclinical  ADC  asset  developed with our DITAC platform. Pursuant to the agreement,  we agreed 
+to  grant  GSK  an  exclusive  option  to  obtain  a  license  to  develop  and  commercialize  DB-1324 
+worldwide,  excluding  Mainland  China,  Hong  Kong  and  Macau.  GSK  paid  US$30  million  in 
+upfront payment and has agreed to pay additional pre-option milestone payments. If GSK exercises 
+the  option,  we  are  eligible  to  receive  an  option  exercise  fee  as  well  as  potential  development, 
+regulatory and commercial milestone payments, plus tiered royalties on DB-1324’s global net sales 
+outside  Mainland  China,  Hong  Kong,  and  Macau.  GSK  is  eligible  to  receive  potential  royalties 
+on  DB-1324’s  net  sales  in  Mainland  China,  Hong  Kong,  and  Macau.  As  of  the  date  of  this 
+announcement, GSK has not exercised the option.
+
+Collaboration with Avenzo
+
+In  January  2025,  we  announced  that  we  entered  into  a  collaboration  and  license  agreement 
+with  Avenzo,  a  clinical-stage  biotechnology  company  developing  next-generation  oncology 
+therapies,  pursuant  to  which  we  granted  Avenzo  an  exclusive  license  to  develop,  manufacture  and 
+commercialize  DB-1418,  our  EGFRxHER3  BsADC,  globally  excluding  Greater  China.  As  of  the 
+date  of  this  announcement,  a  global  Phase  1/2  clinical  trial  (AVENTINE-1,  NCT07038343)  is 
+being conducted in patients with advanced solid tumors and is currently enrolling patients.
+
+Collaboration with Genentech
+
+In August 2026, we entered into a collaboration and license agreement with Genentech, a member 
+of  the  Roche  Group,  to  develop  next-generation  ADCs  built  on  our  DUPAC  platform.  Under  the 
+agreement,  we  will  receive  an  upfront  payment  of  US$45  million  and  will  be  eligible  to  receive 
+potential  development,  regulatory  and  commercial  milestone  payments  of  up  to  an  aggregate 
+of  more  than  US$1  billion  across  all  collaboration  programs.  In  addition,  we  will  be  entitled 
+to  receive  tiered  royalty  payments  on  annual  net  sales  of  approved  products  arising  from  the 
+collaboration.
+
+PROPOSED ISSUE OF A SHARES
+
+In  April  2026,  the  Board  approved  the  proposed  issue  of  ordinary  shares  to  be  subscribed  for  in 
+RMB  and  listed  and  traded  on  the  Science  and  Technology  Innovation  Board  of  the  Shanghai 
+Stock  Exchange  (the  “A  Shares  Issue”).  The  A  Shares  Issue  will  be  subject  to  approvals  by  the 
+China  Securities  Regulatory  Commission  and  the  Shanghai  Stock  Exchange.  On  June  12,  2026, 
+the  Shanghai  Stock  Exchange  accepted  the  Company’s  application  materials  in  respect  of  the  A 
+Shares Issue. On July 3, 2026, the Company received inquiries from the Shanghai Stock Exchange 
+regarding  its  proposed  listing  on  the  STAR  Market.  For  further  details  on  the  progress  of  the  A 
+Shares  Issue,  please  refer  to  the  official  website  of  the  Science  and  Technology  Innovation  Board 
+of Shanghai Stock Exchange.
+
+Intellectual Properties
+
+We  are  committed  to  the  development  and  protection  of  our  intellectual  properties.  Our  future 
+success  depends  significantly  on  our  ability  to  obtain  and  maintain  strong  patent  coverage,  as 
+well  as  our  ability  to  secure  other  forms  of  intellectual  property  and  proprietary  rights  protection, 
+including  protection  of  key  technologies,  inventions,  and  trade  secrets  that  are  important  to  our 
+drug  pipeline  and  technology  platform.  Equally  important  is  our  capacity  to  defend  and  enforce 
+these  patents,  preserve  the  confidentiality  of  our  trade  secrets,  and  ensure  our  freedom  to  operate 
+without  infringing  upon,  misappropriating,  or  otherwise  violating  the  valid  and  enforceable 
+intellectual property rights held by third parties.
+
+30
+
+

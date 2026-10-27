@@ -1,0 +1,218 @@
+[
+ {
+  "date": "2025-04-03",
+  "category": "macro",
+  "title": "美国“解放日”对等关税冲击（4月3–4日）",
+  "desc": "标普500两日累计约-10.5%，市场系统性风险集中释放。",
+  "source": "https://www.cnbc.com/2025/04/03/stock-market-today-live-updates-trump-tariffs.html",
+  "short": "关税冲击"
+ },
+ {
+  "date": "2025-04-09",
+  "category": "macro",
+  "title": "关税暂停90天，美股单日暴涨",
+  "desc": "标普500单日+9.5%，为2008年以来最大涨幅之一。",
+  "source": "https://www.cnbc.com/2025/04/09/stock-market-today-live-updates.html",
+  "short": "关税暂停"
+ },
+ {
+  "date": "2025-05-15",
+  "category": "earnings",
+  "title": "上市后首份财报（2025年Q1）",
+  "desc": "收入9.82亿美元（同比+420%），积压订单259亿美元；全年资本开支指引200–230亿美元。",
+  "source": "https://finance.yahoo.com/news/nvidia-backed-coreweaves-stock-jumps-211534394.html",
+  "short": "Q1’25财报"
+ },
+ {
+  "date": "2025-05-16",
+  "category": "strategic",
+  "title": "英伟达13F披露持股（约7%）+ 分析师上调目标价",
+  "desc": "英伟达持股曝光强化“英伟达亲儿子”叙事。",
+  "source": "https://www.fool.com/investing/2025/05/16/why-coreweave-rocketed-as-high-as-26-today/",
+  "short": "英伟达持股曝光"
+ },
+ {
+  "date": "2025-05-21",
+  "category": "financing",
+  "title": "20亿美元9.25%高收益债（2030年到期，超额认购5倍）",
+  "desc": "发行规模由15亿上调至20亿美元，市场将其解读为融资渠道畅通。",
+  "source": "https://www.nbclosangeles.com/news/business/money-report/coreweave-shares-soar-17-after-2-billion-debt-offering/3706302/",
+  "short": "20亿高收益债"
+ },
+ {
+  "date": "2025-06-02",
+  "category": "contract",
+  "title": "Applied Digital签订15年、约70亿美元数据中心租约",
+  "desc": "锁定北达科他州250MW算力容量；6月2–3日两日累计大涨。",
+  "source": "https://www.fool.com/investing/2025/06/04/why-coreweave-rocketed-170-in-may/",
+  "short": "Applied Digital租约"
+ },
+ {
+  "date": "2025-07-07",
+  "category": "mna",
+  "title": "宣布以全股票方式收购Core Scientific（约90亿美元）",
+  "desc": "市场担忧稀释与整合风险，多家机构下调评级。",
+  "source": "https://www.barchart.com/story/news/34957026/coreweave-plunges-34-from-peak-is-crwv-stock-a-buy-now",
+  "short": "宣布收购Core Scientific"
+ },
+ {
+  "date": "2025-08-13",
+  "category": "earnings",
+  "title": "2025年Q2财报：亏损扩大+禁售期临近",
+  "desc": "收入12.1亿美元（+207%），利息支出2.67亿美元；IPO禁售期8月14日收盘到期。",
+  "source": "https://www.tipranks.com/news/coreweave-insider-sells-147m-in-shares-as-lock-up-period-expires",
+  "short": "Q2’25财报"
+ },
+ {
+  "date": "2025-08-14",
+  "category": "supply",
+  "title": "IPO禁售期到期（约83%的A类股可流通）",
+  "desc": "内部人与早期投资者大额减持（大宗交易超10亿美元）。",
+  "source": "https://seekingalpha.com/news/4486309-coreweave-insiders-sell-1b-stock-amid-lock-up-expiry",
+  "short": "禁售期到期"
+ },
+ {
+  "date": "2025-09-10",
+  "category": "sector",
+  "title": "甲骨文RPO暴增引爆AI基建板块（甲骨文单日+36%）",
+  "desc": "同行业正面信息外溢：CoreWeave单日+16.9%。",
+  "source": "https://www.fool.com/investing/2025/09/12/nebius-stock-made-a-big-move-this-ai-stock-is-next",
+  "short": "甲骨文RPO外溢"
+ },
+ {
+  "date": "2025-09-15",
+  "category": "contract",
+  "title": "与英伟达签订63亿美元产能兜底协议",
+  "desc": "英伟达承诺购买未售出的云算力至2032年。",
+  "source": "https://www.tipranks.com/news/coreweave-stock-crwv-jumps-on-6-3b-cloud-capacity-agreement-with-nvidia",
+  "short": "英伟达63亿兜底"
+ },
+ {
+  "date": "2025-09-30",
+  "category": "contract",
+  "title": "与Meta签订最高142亿美元合同（至2031年）",
+  "desc": "客户多元化取得突破，单日+11.7%。",
+  "source": "https://invezz.com/news/2025/09/30/coreweave-shares-surge-on-14-2-billion-meta-cloud-contract/",
+  "short": "Meta 142亿合同"
+ },
+ {
+  "date": "2025-10-30",
+  "category": "mna",
+  "title": "Core Scientific股东投票否决并购",
+  "desc": "并购终止，双方维持租赁合作关系。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1769628/000095010325014006/dp236631_ex9901.htm",
+  "short": "并购被否决"
+ },
+ {
+  "date": "2025-11-11",
+  "category": "earnings",
+  "title": "2025年Q3财报：因第三方数据中心延误下调全年指引",
+  "desc": "全年收入指引降至50.5–51.5亿美元，资本开支降至120–140亿美元。",
+  "source": "https://www.sherwood.news/markets/coreweave-q3-2025-earnings-ai-neocloud-data-center/",
+  "short": "Q3’25下调指引"
+ },
+ {
+  "date": "2025-12-08",
+  "category": "financing",
+  "title": "宣布20亿美元可转债（后增至22.5亿美元，1.75%，2031年到期）",
+  "desc": "盘中一度-7%，收盘-2.3%，稀释与杠杆担忧。",
+  "source": "https://www.bloomberg.com/news/articles/2025-12-08/coreweave-shares-fall-on-2-billion-convertible-notes-offering",
+  "short": "22.5亿可转债"
+ },
+ {
+  "date": "2025-12-19",
+  "category": "strategic",
+  "title": "加入美国能源部“创世纪任务”+花旗重申买入",
+  "desc": "同日Nebius亦+14.6%，叠加板块反弹。",
+  "source": "https://styles.finanzen.ch/nachrichten/aktien/why-coreweave-stock-skyrocketed-23percent-on-friday-15372455",
+  "short": "创世纪任务+花旗"
+ },
+ {
+  "date": "2026-01-26",
+  "category": "strategic",
+  "title": "英伟达追加20亿美元股权投资（87.20美元/股）",
+  "desc": "支持2030年前建成5GW以上“AI工厂”；次日继续大涨。",
+  "source": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute",
+  "short": "英伟达20亿入股"
+ },
+ {
+  "date": "2026-02-27",
+  "category": "earnings",
+  "title": "2025年Q4财报：Q1指引低于预期，2026资本开支300–350亿美元",
+  "desc": "Q1收入指引19–20亿美元，低于市场预期的22.9亿美元。",
+  "source": "https://www.cnbc.com/2026/02/26/coreweave-crwv-q4-earnings-report-2025.html",
+  "short": "Q4’25财报"
+ },
+ {
+  "date": "2026-04-09",
+  "category": "contract",
+  "title": "Meta扩约210亿美元（同日宣布30亿可转债+12.5亿票据）",
+  "desc": "利好合同与融资稀释同日出现，涨幅被对冲。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000154/ex991.htm",
+  "short": "Meta扩约210亿+融资"
+ },
+ {
+  "date": "2026-04-10",
+  "category": "contract",
+  "title": "与Anthropic签订多年算力合同",
+  "desc": "头部AI实验室客户再添一家。",
+  "source": "https://www.forbes.com/sites/aliciapark/2026/04/10/coreweave-stock-surges-13-on-anthropic-deal-a-day-after-21-billion-meta-partnership/",
+  "short": "Anthropic合同"
+ },
+ {
+  "date": "2026-04-15",
+  "category": "contract",
+  "title": "Jane Street签订约60亿美元合同并以109美元/股入股10亿美元",
+  "desc": "客户与股权投资“双绑定”。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000167/ex991.htm",
+  "short": "Jane Street 60亿"
+ },
+ {
+  "date": "2026-05-08",
+  "category": "earnings",
+  "title": "2026年Q1财报：零部件涨价致资本开支上调至310–350亿美元",
+  "desc": "收入20.8亿美元超预期，但净亏损7.4亿美元、利息支出翻倍。",
+  "source": "https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html",
+  "short": "Q1’26财报"
+ },
+ {
+  "date": "2026-08-12",
+  "category": "earnings",
+  "title": "2026年Q2财报：收入25.8亿美元，上调全年指引，积压订单1,042亿美元",
+  "desc": "全年收入指引上调至124–132亿美元；资本开支上调至350–390亿美元。",
+  "source": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+  "short": "Q2’26财报"
+ },
+ {
+  "date": "2026-09-17",
+  "category": "financing",
+  "title": "宣布30亿美元可转债（后增至37亿+5亿超额配售，2.875%，2033年到期）",
+  "desc": "转股价约97.85美元；当日标普+1.1%而CRWV-4.2%。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000429/ex9911.htm",
+  "short": "42亿可转债"
+ },
+ {
+  "date": "2026-10-08",
+  "category": "sector",
+  "title": "OpenAI年化收入数据低于预期（约500亿美元）",
+  "desc": "最大合同客户之一的增长放缓引发需求担忧。",
+  "source": "https://www.tikr.com/blog/coreweave-stock-fell-nearly-8-in-a-day-on-an-openai-revenue-report-heres-why-its-borrowing-model-raises-the-stakes",
+  "short": "OpenAI收入数据"
+ },
+ {
+  "date": "2026-10-14",
+  "category": "credit",
+  "title": "CPI超预期+AI信用压力：CDS突破1,000bp，债券收益率逼近15%",
+  "desc": "股价单日-15.5%，债券与股票同步下跌。",
+  "source": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+  "short": "CPI+信用压力"
+ },
+ {
+  "date": "2026-10-16",
+  "category": "credit",
+  "title": "5年期CDS创纪录（约1,195bp），2032年债券跌至约78美分",
+  "desc": "市场隐含5年违约概率超过60%。",
+  "source": "https://www.fool.com/investing/2026/10/16/why-is-coreweave-stock-falling-today/",
+  "short": "CDS创纪录"
+ }
+]

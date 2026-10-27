@@ -1,0 +1,250 @@
+[
+ {
+  "date": "2018-09-06",
+  "category": "deal",
+  "short": "收购Nevsun",
+  "title": "宣布以约 14 亿美元收购加拿大 Nevsun（塞尔维亚 Timok 铜金矿）",
+  "desc": "9/5（温哥华时间）双方宣布最终协议，每股 6 加元现金；A 股反应日为 9/6。",
+  "source": "https://www.sec.gov/Archives/edgar/data/0000919991/000147237518000108/exhibit99-1.htm"
+ },
+ {
+  "date": "2019-01-02",
+  "category": "financing",
+  "short": "80亿增发预案",
+  "title": "公开增发 A 股预案：募资不超过 80 亿元、发行不超过 34 亿股，用于收购 Nevsun，A 股跌停",
+  "desc": "1/1 晚披露；增发上限为 2012 年以来 A 股公开增发预案最大金额，公司事后称被市场“误读”。2019 年 11 月按 80 亿元实施。",
+  "source": "https://www.cs.com.cn/ssgs/gsxw/201901/t20190104_5911426.html"
+ },
+ {
+  "date": "2019-12-03",
+  "category": "deal",
+  "short": "收购大陆黄金",
+  "title": "以约 13.3 亿加元现金收购大陆黄金（哥伦比亚武里蒂卡金矿）",
+  "desc": "12/3 公告。",
+  "source": "https://static.cninfo.com.cn/finalpage/2019-12-03/1207130379.PDF"
+ },
+ {
+  "date": "2020-04-27",
+  "category": "operations",
+  "short": "波格拉停产",
+  "title": "巴新政府拒绝波格拉金矿采矿权延期（按权益计当时公司最大金矿），矿山停产",
+  "desc": "巴新政府 4/24 作出决定，公司 4/27 公告；次日股价反弹。该矿 2023 年 12 月复产。",
+  "source": "https://static.cninfo.com.cn/finalpage/2020-04-27/1207620780.PDF"
+ },
+ {
+  "date": "2020-06-08",
+  "category": "deal",
+  "short": "收购巨龙铜业",
+  "title": "收购西藏巨龙铜业 50.1% 股权（巨龙铜矿）",
+  "desc": "6/8 公告；巨龙铜矿二期 2026 年 1 月投产，达产后年产铜 30–35 万吨。",
+  "source": "https://static.cninfo.com.cn/finalpage/2020-06-08/1207904857.PDF"
+ },
+ {
+  "date": "2020-08-12",
+  "category": "commodity",
+  "short": "金价暴跌",
+  "title": "国际金价从 2,075 美元高点回落，8/11 单日下跌约 6%（7 年来最大），上海金价 −6%",
+  "desc": "美盘 8/11 暴跌，A 股与上海金反应日为 8/12。",
+  "source": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/081220-gold-price-slide-steepest-in-7-years-analysts"
+ },
+ {
+  "date": "2020-08-24",
+  "category": "earnings",
+  "short": "20中报",
+  "title": "2020 年半年报：归母净利润 24.2 亿元（+30.6%）；同期金价创 2,075 美元新高、A 股有色板块大涨",
+  "desc": "8/22（周六）公告，反应日为 8/24；8 月 6 日、24 日、31 日股价三次单日涨 8% 以上。",
+  "source": "https://static.cninfo.com.cn/finalpage/2020-08-22/1208226886.PDF"
+ },
+ {
+  "date": "2021-02-01",
+  "category": "guidance",
+  "short": "2+3规划",
+  "title": "五年（2+3）规划和 2030 年发展目标：2022 年矿产铜 80–85 万吨、2025 年 100–110 万吨",
+  "desc": "1/30（周六）公告，反应日为下一交易日 2/1。",
+  "source": "https://static.cninfo.com.cn/finalpage/2021-01-30/1209216324.PDF"
+ },
+ {
+  "date": "2021-10-11",
+  "category": "deal",
+  "short": "收购新锂公司",
+  "title": "以约 9.6 亿加元收购加拿大新锂公司（阿根廷 3Q 锂盐湖），进入锂行业",
+  "desc": "10/8（加拿大时间）宣布，A 股 10/11 公告并反应。",
+  "source": "https://static.cninfo.com.cn/finalpage/2021-10-11/1211229212.PDF"
+ },
+ {
+  "date": "2023-01-31",
+  "category": "guidance",
+  "short": "23–25规划",
+  "title": "三年（2023–2025 年）规划和 2030 年发展目标纲要",
+  "desc": "1/31 公告。",
+  "source": "https://static.cninfo.com.cn/finalpage/2023-01-31/1215725150.PDF"
+ },
+ {
+  "date": "2024-06-18",
+  "category": "financing",
+  "short": "可转债+配售",
+  "title": "发行 20 亿美元可转债并配售 39 亿港元新 H 股",
+  "desc": "6/18 开盘前公告。",
+  "source": "https://static.cninfo.com.cn/finalpage/2024-06-18/1220379972.PDF"
+ },
+ {
+  "date": "2024-10-09",
+  "category": "deal",
+  "short": "收购Akyem",
+  "title": "以最高 10 亿美元收购纽蒙特旗下加纳 Akyem 金矿",
+  "desc": "10/9 开盘前公告；2025 年 4 月交割，2026 年计划产金 8.5 吨。",
+  "source": "https://static.cninfo.com.cn/finalpage/2024-10-09/1221345068.PDF"
+ },
+ {
+  "date": "2025-01-17",
+  "category": "deal",
+  "short": "收购藏格矿业",
+  "title": "以约 137 亿元收购藏格矿业控制权（钾肥、锂，参股巨龙铜业）",
+  "desc": "1/17 公告；2025 年 4 月 30 日完成，并表。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-01-17/1222356166.PDF"
+ },
+ {
+  "date": "2025-03-24",
+  "category": "earnings",
+  "short": "24年报",
+  "title": "2024 年年报：归母净利润 320.5 亿元（+51.8%），全年每股分红 0.38 元",
+  "desc": "3/22（周六）公告，反应日为 3/24。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-03-22/1222870398.PDF"
+ },
+ {
+  "date": "2025-04-07",
+  "category": "macro",
+  "short": "关税冲击",
+  "title": "美国“对等关税”冲击：沪深 300 单日 −7%，铜价、有色板块大跌",
+  "desc": "清明假期后首个交易日；次日（4/8）公司公布 A 股回购方案。",
+  "source": "https://news.10jqka.com.cn/20250408/c667274545.shtml"
+ },
+ {
+  "date": "2025-06-30",
+  "category": "deal",
+  "short": "收购RG金矿",
+  "title": "以 12 亿美元收购哈萨克斯坦 Raygorodok 金矿",
+  "desc": "6/30 开盘前公告；2025 年 10 月交割。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-06-30/1224030369.PDF"
+ },
+ {
+  "date": "2025-08-27",
+  "category": "earnings",
+  "short": "25中报",
+  "title": "2025 年半年报：归母净利润 232.9 亿元，中期分红每股 0.22 元",
+  "desc": "8/26 晚公告。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-08-27/1224583059.PDF"
+ },
+ {
+  "date": "2025-09-30",
+  "category": "capital",
+  "short": "紫金黄金上市",
+  "title": "子公司紫金黄金国际在港交所上市（发行价 71.59 港元，募资约 250 亿港元）",
+  "desc": "超额配售后公司持股约 85%。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-09-30/1224694646.PDF"
+ },
+ {
+  "date": "2025-10-20",
+  "category": "earnings",
+  "short": "25三季报",
+  "title": "2025 年三季报：前三季度归母净利润 378.6 亿元",
+  "desc": "10/18（周六）公告，反应日为 10/20。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-10-18/1224719363.PDF"
+ },
+ {
+  "date": "2025-10-22",
+  "category": "commodity",
+  "short": "金价急跌",
+  "title": "国际金价 10/21 单日下跌约 6%（2013 年以来最大），上海金价 −3.9%",
+  "desc": "美盘 10/21 暴跌，A 股反应日为 10/22。",
+  "source": "https://www.montinvest.com/investor-insights/insights/golds-glitter-fades-biggest-one-day-drop-since-2013"
+ },
+ {
+  "date": "2026-01-27",
+  "category": "deal",
+  "short": "收购联合黄金",
+  "title": "紫金黄金国际拟以约 55 亿加元（每股 44 加元）收购 Allied Gold",
+  "desc": "1/26 签署安排协议；7 月终止，改为认购 9.2% 股权。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-01-27/1224951157.PDF"
+ },
+ {
+  "date": "2026-02-02",
+  "category": "commodity",
+  "short": "沃什冲击",
+  "title": "特朗普提名沃什任美联储主席后金价暴跌：1/30 美盘 −11%，上海金价 2/2 −11.5%",
+  "desc": "金价 1/29 见顶（约 5,600 美元/盎司）；1/30 上海金已跌 6.4%，2/2 再跌 11.5%。",
+  "source": "https://fortune.com/2026/01/31/what-happened-gold-silver-dollar-markets-kevin-warsh-fed-reaction/"
+ },
+ {
+  "date": "2026-02-09",
+  "category": "guidance",
+  "short": "26–28规划",
+  "title": "三年（2026–2028）产量规划：2026 年矿产金 105 吨、铜 120 万吨；2028 年金 130–140 吨、铜 150–160 万吨",
+  "desc": "2/9 公告；黄金目标较原规划上调约三成。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-02-09/1224972233.PDF"
+ },
+ {
+  "date": "2026-03-23",
+  "category": "deal",
+  "short": "收购赤峰黄金",
+  "title": "2025 年报（归母 517.8 亿元，+61.5%）+ 182.6 亿元收购赤峰黄金控制权 + 25 亿元回购；当日上海金价 −11%",
+  "desc": "年报与回购 3/21（周六）公告，赤峰交易 3/22 签署、3/23 公告；同日国际金价盘中跌超 6%。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-03-23/1225024230.PDF"
+ },
+ {
+  "date": "2026-04-22",
+  "category": "earnings",
+  "short": "26一季报",
+  "title": "2026 年一季报：归母净利润 200.8 亿元（+97.5%）；发布 2026–2028 年分红规划（不低于 35%）",
+  "desc": "4/21 晚公告。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-04-22/1225141507.PDF"
+ },
+ {
+  "date": "2026-07-10",
+  "category": "earnings",
+  "short": "中报预增",
+  "title": "2026 年半年度业绩预增：归母净利润约 391 亿元（+68%）；次日公布中期分红每股 0.42 元",
+  "desc": "7/9 晚公告业绩预增，7/10 晚公告中期分红方案。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225417751.PDF"
+ },
+ {
+  "date": "2026-07-30",
+  "category": "deal",
+  "short": "终止收购联合",
+  "title": "终止收购 Allied Gold，改为以 4.17 亿加元认购其 9.2% 股权",
+  "desc": "7/29 签署终止协议，双方均无需支付终止费。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-07-30/1225447292.PDF"
+ },
+ {
+  "date": "2026-08-24",
+  "category": "earnings",
+  "short": "26中报",
+  "title": "2026 年半年报：归母净利润 391.7 亿元（+68%）；卡莫阿 2026 年产量计划下调至 29–33 万吨",
+  "desc": "8/21 晚公告（8/22 见报），反应日为下一交易日 8/24。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225550244.PDF"
+ },
+ {
+  "date": "2026-09-17",
+  "category": "macro",
+  "short": "美联储加息",
+  "title": "美联储加息 25bp 至 3.75%–4.00%，点阵图显示年内再加息一次",
+  "desc": "美国时间 9/16 决议，A 股反应日为 9/17。",
+  "source": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"
+ },
+ {
+  "date": "2026-10-23",
+  "category": "deal",
+  "short": "赤峰交割",
+  "title": "完成赤峰黄金 A 股过户及 H 股认购，持股 25.85%，取得控制权",
+  "desc": "10/22 晚公告。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617035.PDF"
+ },
+ {
+  "date": "2026-10-26",
+  "category": "earnings",
+  "short": "26三季报",
+  "title": "2026 年三季报：Q3 归母净利润 183.6 亿元（同比 +26%，环比 −4%），金价回落、金铜毛利率环比下降",
+  "desc": "10/23（周五）晚公告，反应日为 10/26。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-10-24/1225620996.PDF"
+ }
+]
