@@ -254,7 +254,7 @@ qa = pd.DataFrame({"gold": gold, "cu": cu}).resample("QE").mean()
 qdf = pd.DataFrame({"np": single}).join(qa, how="left")
 res["quarterly"] = {"q": [f"{d.year}Q{(d.month - 1) // 3 + 1}" for d in qdf.index], "np": [round(float(v), 2) for v in qdf["np"]],
                     "gold": [round(float(v), 1) for v in qdf["gold"]], "cu": [round(float(v), 0) for v in qdf["cu"]]}
-lq = np.log(qdf[qdf["np"] > 0])
+lq = np.log(qdf[qdf["np"] > 0]).dropna()
 lreg = ml.ols(lq["np"], pd.DataFrame({"gold": lq["gold"], "cu": lq["cu"], "t": np.arange(len(lq)) / 4}, index=lq.index))
 res["quarterly"]["loglevel_fit"] = {"b_gold": float(lreg.params["gold"]), "b_cu": float(lreg.params["cu"]), "trend": float(lreg.params["t"]),
                                     "r2": float(lreg.rsquared), "n": int(len(lq)), "t_gold": float(lreg.tvalues["gold"]), "t_cu": float(lreg.tvalues["cu"])}
@@ -288,6 +288,8 @@ res["zgi"] = {"price_hkd": zgi_px, "shares": zgi.get("sharesOutstanding"), "mcap
 spx = yahoo("^GSPC", "Close")
 glob = []
 for t, name in GLOBAL.items():
+    if t == "B" and not have(os.path.join("yahoo", ml.yahoo_file(t))):
+        t = "GOLD"  # Barrick traded as GOLD until May 2025
     if not have(os.path.join("yahoo", ml.yahoo_file(t))):
         continue
     lv = yahoo(t)
