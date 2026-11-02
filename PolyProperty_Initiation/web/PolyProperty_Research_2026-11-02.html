@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>保利物业公司研究报告</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="保利物业（06049.HK）中文公司研究：中国物业管理行业现状、与海外成熟物业公司（FirstService、ISS、CBRE、日本公寓管理）的对比、公司业务与治理、竞争、市场空间与风险。数据截至 2026 年 10 月 22 日。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap">
+<style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style>
+<style>
+/* Layout: single reading column (research-note style) with full-column figures; sticky section rail on top. */
+:root {
+  --bg: #f4f5f7;
+  --surface: #ffffff;
+  --ink: #121722;
+  --ink2: #465063;
+  --muted: #747d8c;
+  --rule: #e2e5ea;
+  --rule2: #cdd2da;
+  --accent: #2a63d4;
+  --accent-ink: #1d4fb3;
+  --s1: #2a78d6;
+  --s2: #eb6834;
+  --s3: #1baf7a;
+  --s4: #eda100;
+  --s7: #6250d6;
+  --pos: #2a78d6;
+  --neg: #e34948;
+  --mid: #c3c2b7;
+  --grid: #e7e9ed;
+  --axis: #c3c7cf;
+  --good: #0ca30c;
+  --warn: #fab219;
+  --crit: #d03b3b;
+  --info-bg: #edf3fd;
+  --warn-bg: #fff6e3;
+  --crit-bg: #fdeeee;
+  --chip: #eef0f4;
+  --font-body: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Zen Hei", system-ui, sans-serif;
+  --font-display: "Noto Serif SC", "Songti SC", "STSong", "SimSun", "Noto Sans SC", serif;
+  --font-num: "Noto Sans SC", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1015; --surface: #161920; --ink: #eceef2; --ink2: #b9c0cc; --muted: #8a93a3;
+    --rule: #262a33; --rule2: #353b47; --accent: #79a2f2; --accent-ink: #9dbbf6;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s7: #9085e9;
+    --pos: #3987e5; --neg: #e66767; --mid: #4a4d55; --grid: #23272f; --axis: #3a3f4a;
+    --info-bg: #15213a; --warn-bg: #2a2310; --crit-bg: #2d1717; --chip: #222631;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1015; --surface: #161920; --ink: #eceef2; --ink2: #b9c0cc; --muted: #8a93a3;
+  --rule: #262a33; --rule2: #353b47; --accent: #79a2f2; --accent-ink: #9dbbf6;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s7: #9085e9;
+  --pos: #3987e5; --neg: #e66767; --mid: #4a4d55; --grid: #23272f; --axis: #3a3f4a;
+  --info-bg: #15213a; --warn-bg: #2a2310; --crit-bg: #2d1717; --chip: #222631;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.8; margin: 0; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+a { color: var(--accent-ink); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+.wrap { max-width: 1000px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+/* masthead */
+.mast { background: var(--surface); border-bottom: 1px solid var(--rule); }
+.mast .wrap { padding-block: 36px 28px; }
+.mast .kicker { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-size: 13px; color: var(--muted); letter-spacing: .04em; }
+.ticker { font-family: var(--font-num); font-weight: 700; color: var(--ink); background: var(--chip); border-radius: 4px; padding: 1px 8px; letter-spacing: .06em; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(26px, 4.2vw, 40px); line-height: 1.3; margin: 12px 0 8px; text-wrap: balance; }
+.mast .sub { color: var(--ink2); font-size: 15px; margin: 0; max-width: 70ch; }
+.stamp { margin-top: 14px; font-size: 13px; color: var(--muted); }
+
+/* section rail */
+.rail { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 9; background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--rule); }
+.rail .wrap { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; padding-block: 8px; }
+.rail .wrap::-webkit-scrollbar { display: none; }
+.rail a { flex: none; font-size: 13.5px; color: var(--ink2); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.rail a:hover { background: var(--chip); color: var(--ink); }
+.rail a.on { background: var(--ink); color: var(--surface); }
+
+main { padding-block: 8px 64px; }
+section { padding-top: 40px; scroll-margin-top: 56px; }
+h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(21px, 2.6vw, 27px); line-height: 1.4; margin: 0 0 6px; text-wrap: balance; display: flex; gap: 12px; align-items: baseline; }
+h2 .no { font-family: var(--font-num); font-size: 14px; font-weight: 700; color: var(--accent); letter-spacing: .05em; flex: none; }
+h3 { font-family: var(--font-display); font-weight: 600; font-size: 18.5px; line-height: 1.5; margin: 28px 0 6px; }
+.lede { color: var(--ink2); margin: 0 0 14px; }
+p { margin: 10px 0; max-width: 76ch; }
+ul, ol { padding-left: 1.3em; margin: 8px 0; max-width: 76ch; }
+li { margin: 5px 0; }
+.num, td.n, th.n { font-variant-numeric: tabular-nums; font-family: var(--font-num); }
+.neg-t { color: var(--neg); }
+.pos-t { color: var(--pos); }
+.muted { color: var(--muted); }
+.small { font-size: 13px; }
+hr.sep { border: 0; border-top: 1px solid var(--rule); margin: 28px 0; }
+
+/* stat tiles */
+.tiles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); border-radius: 10px; overflow: hidden; margin: 22px 0 6px; }
+.tile { background: var(--surface); padding: 14px 16px 12px; min-width: 0; }
+.tile .lab { font-size: 13px; color: var(--muted); }
+.tile .val { font-size: 26px; font-weight: 700; line-height: 1.25; margin-top: 2px; font-family: var(--font-num); }
+.tile .val small { font-size: 14px; font-weight: 500; color: var(--ink2); }
+.tile .dl { font-size: 12.5px; color: var(--ink2); margin-top: 2px; }
+@media (max-width: 760px) { .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 420px) { .tile .val { font-size: 22px; } }
+
+/* summary list */
+.keypoints { counter-reset: kp; list-style: none; padding: 0; margin: 14px 0 0; display: grid; gap: 10px; max-width: none; }
+.keypoints li { counter-increment: kp; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 12px 16px 12px 52px; position: relative; margin: 0; }
+.keypoints li::before { content: counter(kp); position: absolute; left: 16px; top: 12px; width: 24px; height: 24px; border-radius: 50%; background: var(--ink); color: var(--surface); font: 700 13px/24px var(--font-num); text-align: center; }
+.keypoints b { color: var(--ink); }
+
+/* callouts */
+.callout { display: flex; gap: 12px; align-items: flex-start; border-radius: 10px; padding: 12px 16px; margin: 16px 0; max-width: none; }
+.callout svg { flex: none; margin-top: 4px; }
+.callout > div { min-width: 0; }
+.callout .tag { font-weight: 700; margin-right: 6px; }
+.callout.info { background: var(--info-bg); }
+.callout.info svg { color: var(--accent); }
+.callout.warn { background: var(--warn-bg); }
+.callout.warn svg { color: #b97f00; }
+.callout.crit { background: var(--crit-bg); }
+.callout.crit svg { color: var(--crit); }
+:root[data-theme="dark"] .callout.warn svg { color: var(--warn); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .callout.warn svg { color: var(--warn); } }
+
+/* figures */
+figure { margin: 18px 0 22px; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 14px 16px 10px; min-width: 0; }
+figcaption { font-size: 14.5px; font-weight: 700; color: var(--ink); line-height: 1.5; }
+figcaption .cap-sub { display: block; font-weight: 400; font-size: 13px; color: var(--muted); margin-top: 2px; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 12.5px; color: var(--ink2); margin: 8px 0 2px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { display: inline-block; width: 16px; height: 2.5px; border-radius: 2px; background: currentColor; }
+.legend i.box { width: 10px; height: 10px; border-radius: 2px; }
+.chart-box { position: relative; width: 100%; min-width: 0; touch-action: pan-y; }
+.chart-box svg { display: block; overflow: visible; }
+.src { font-size: 12px; color: var(--muted); margin-top: 6px; line-height: 1.6; }
+.two { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; }
+.two figure { margin: 0; }
+@media (max-width: 760px) { .two { grid-template-columns: minmax(0, 1fr); } }
+.figrow { margin: 18px 0 22px; }
+
+/* chart marks */
+.chart .grid { stroke: var(--grid); stroke-width: 1; }
+.chart .axl { stroke: var(--axis); stroke-width: 1; }
+.chart .ax { fill: var(--muted); font-size: 11.5px; font-family: var(--font-num); }
+.chart .lbl { fill: var(--ink2); font-size: 12px; }
+.chart .vlab { fill: var(--ink2); font-size: 11.5px; font-family: var(--font-num); }
+.chart .vlab-in { fill: #fff; font-size: 11.5px; font-family: var(--font-num); font-weight: 700; }
+.chart .ln { fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart .ln.thin { stroke-width: 1.5; }
+.chart .ref { stroke: var(--ink2); stroke-width: 1; stroke-dasharray: 3 3; opacity: .55; }
+.chart .ref-t { fill: var(--ink2); }
+.chart .zero { stroke: var(--ink2); stroke-width: 1; opacity: .5; }
+.chart .xhair { stroke: var(--ink2); stroke-width: 1; opacity: .45; }
+.chart .ov { fill: transparent; cursor: crosshair; }
+.chart .dot { stroke: var(--surface); stroke-width: 2; }
+.chart .c1 { stroke: var(--s1); } .chart .f1 { fill: var(--s1); }
+.chart .c2 { stroke: var(--s2); } .chart .f2 { fill: var(--s2); }
+.chart .c3 { stroke: var(--s3); } .chart .f3 { fill: var(--s3); }
+.chart .c4 { stroke: var(--s4); } .chart .f4 { fill: var(--s4); }
+.chart .c7 { stroke: var(--s7); } .chart .f7 { fill: var(--s7); }
+.chart .fpos { fill: var(--pos); } .chart .fneg { fill: var(--neg); } .chart .fmid { fill: var(--mid); }
+.chart .dot.c1 { fill: var(--s1); } .chart .dot.c2 { fill: var(--s2); } .chart .dot.c3 { fill: var(--s3); } .chart .dot.c4 { fill: var(--s4); } .chart .dot.c7 { fill: var(--s7); }
+.chart .area1 { fill: var(--s1); opacity: .10; } .chart .area2 { fill: var(--s2); opacity: .10; }
+.chart .pt { fill: var(--s1); opacity: .5; }
+.chart .fit { stroke: var(--s2); stroke-width: 2; fill: none; }
+.chart .bar { cursor: default; }
+.chart .bar:hover, .chart .bar:focus { opacity: .82; outline: none; }
+.chart .mk { stroke: var(--surface); stroke-width: 2; cursor: pointer; }
+.chart .mk:hover, .chart .mk:focus { stroke: var(--ink); outline: none; }
+.chart .mk-t { fill: #fff; font-size: 9.5px; font-weight: 700; font-family: var(--font-num); pointer-events: none; }
+.leg-c1 { color: var(--s1); } .leg-c2 { color: var(--s2); } .leg-c3 { color: var(--s3); } .leg-c4 { color: var(--s4); } .leg-c7 { color: var(--s7); }
+.leg-pos { color: var(--pos); } .leg-neg { color: var(--neg); } .leg-mid { color: var(--mid); }
+.tt { position: absolute; z-index: 5; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--rule2); border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,.12); padding: 7px 10px; font-size: 12.5px; line-height: 1.5; min-width: 120px; max-width: 280px; }
+.tt-h { color: var(--muted); font-size: 12px; margin-bottom: 2px; }
+.tt-r { display: flex; align-items: center; gap: 7px; white-space: nowrap; }
+.tt-r b { font-family: var(--font-num); font-variant-numeric: tabular-nums; }
+.tt-l { color: var(--ink2); white-space: normal; }
+.tt-k { width: 12px; height: 2.5px; border-radius: 2px; flex: none; }
+.tt-k.c1 { background: var(--s1); } .tt-k.c2 { background: var(--s2); } .tt-k.c3 { background: var(--s3); } .tt-k.c4 { background: var(--s4); } .tt-k.c7 { background: var(--s7); }
+.tt-k.fpos { background: var(--pos); } .tt-k.fneg { background: var(--neg); } .tt-k.f1 { background: var(--s1); } .tt-k.f2 { background: var(--s2); } .tt-k.fmid { background: var(--mid); }
+.tt-desc { color: var(--ink2); white-space: normal; margin-top: 3px; }
+
+/* tables */
+.tbl-wrap { overflow-x: auto; margin: 14px 0 18px; border: 1px solid var(--rule); border-radius: 10px; background: var(--surface); }
+table.tbl { border-collapse: collapse; width: 100%; font-size: 13.5px; line-height: 1.55; }
+.tbl caption { caption-side: top; text-align: left; font-weight: 700; padding: 12px 14px 4px; font-size: 14.5px; }
+.tbl th, .tbl td { padding: 7px 12px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+.tbl thead th { color: var(--muted); font-weight: 500; font-size: 12.5px; background: color-mix(in srgb, var(--chip) 55%, var(--surface)); white-space: nowrap; }
+.tbl tbody tr:last-child td { border-bottom: 0; }
+.tbl td.n, .tbl th.n { text-align: right; white-space: nowrap; }
+.tbl tr.sub td { color: var(--ink2); }
+.tbl tr.tot td { font-weight: 700; border-top: 1px solid var(--rule2); }
+.tbl td.w { min-width: 220px; }
+.tbl td.nw { white-space: nowrap; }
+#tbl-scen td:first-child { min-width: 9.5em; }
+.tbl .tag { display: inline-block; font-size: 11.5px; padding: 0 7px; border-radius: 999px; background: var(--chip); color: var(--ink2); white-space: nowrap; }
+.tbl .sig { font-weight: 700; }
+.pill { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; padding: 1px 8px; border-radius: 999px; white-space: nowrap; font-weight: 500; }
+.pill.good { background: color-mix(in srgb, var(--good) 14%, transparent); color: var(--ink); }
+.pill.warn { background: color-mix(in srgb, var(--warn) 22%, transparent); color: var(--ink); }
+.pill.crit { background: color-mix(in srgb, var(--crit) 16%, transparent); color: var(--ink); }
+.pill i { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.pill.good i { background: var(--good); } .pill.warn i { background: var(--warn); } .pill.crit i { background: var(--crit); }
+
+/* flow diagram */
+.flow { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 22px; margin: 16px 0 6px; }
+.flow .st { position: relative; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 10px 12px; font-size: 13.5px; line-height: 1.6; min-width: 0; }
+.flow .st b { display: block; font-size: 13px; color: var(--accent); font-family: var(--font-num); }
+.flow .st:not(:last-child)::after { content: "→"; position: absolute; right: -18px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 16px; }
+@media (max-width: 760px) {
+  .flow { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  .flow .st:not(:last-child)::after { content: "↓"; right: auto; left: 50%; top: auto; bottom: -21px; transform: translateX(-50%); }
+}
+
+/* timeline */
+.tl { list-style: none; padding: 0; margin: 14px 0; max-width: none; border-left: 2px solid var(--rule2); }
+.tl li { position: relative; padding: 4px 0 12px 20px; margin: 0; }
+.tl li::before { content: ""; position: absolute; left: -7px; top: 12px; width: 12px; height: 12px; border-radius: 50%; background: var(--surface); border: 2px solid var(--accent); }
+.tl .when { font-family: var(--font-num); font-weight: 700; font-size: 13.5px; color: var(--accent-ink); }
+.grid2 { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px 16px; margin: 12px 0; }
+.card { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 12px 16px; min-width: 0; }
+.card h4 { margin: 0 0 4px; font-size: 15px; font-family: var(--font-display); }
+.card p, .card ul { font-size: 14.5px; margin: 4px 0; }
+@media (max-width: 760px) { .grid2 { grid-template-columns: minmax(0, 1fr); } }
+
+.formula { font-family: var(--font-num); background: var(--chip); border-radius: 8px; padding: 10px 14px; overflow-x: auto; font-size: 14px; margin: 10px 0; max-width: none; line-height: 1.7; }
+.foot { font-size: 12.5px; color: var(--muted); line-height: 1.7; }
+.foot ol { max-width: none; }
+.foot li { word-break: break-word; }
+.disclaimer { border-top: 1px solid var(--rule); margin-top: 36px; padding-top: 14px; font-size: 12.5px; color: var(--muted); }
+
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; } }
+@page { size: A4; margin: 12mm 11mm; }
+@media print {
+  body { background: #fff; font-size: 11.5pt; }
+  .chart-box svg { max-width: 100%; height: auto; }
+  .tbl-wrap { overflow: visible; }
+  table.tbl { font-size: 9pt; }
+  .tbl th, .tbl td { padding: 5px 6px; }
+  .tbl thead th { white-space: normal; }
+  .rail { display: none; }
+  .mast { border: 0; }
+  figure, .callout, .card, .keypoints li, .flow, .two { break-inside: avoid; }
+  .tbl tr, .tbl caption { break-inside: avoid; }
+  section { padding-top: 18px; }
+  h2, h3 { break-after: avoid; }
+  .tt { display: none !important; }
+}
+/* 保利物业 edition: olive headings and navigation; chart palette unchanged. */
+:root { --accent: #4f6a12; --accent-ink: #3e540e; --info-bg: #f1f5e6; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #b5cf6b; --accent-ink: #cadf92; --info-bg: #1a2210; } }
+:root[data-theme="dark"] { --accent: #b5cf6b; --accent-ink: #cadf92; --info-bg: #1a2210; }
+.tiles.t4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 760px) { .tiles.t4 { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.tile .val { font-variant-numeric: normal; }
+a.cite { font-size: 11px; color: var(--muted); text-decoration: none; font-family: var(--font-num); white-space: nowrap; }
+a.cite:hover, a.cite:focus-visible { color: var(--accent-ink); text-decoration: underline; }
+.chart .bar.hot { opacity: .78; }
+.chart .ov { cursor: default; }
+.chart .ov:focus { outline: none; }
+.chart .ov:focus-visible { fill: var(--chip); fill-opacity: .5; stroke: var(--accent); stroke-width: 1.5; }
+.chart .seg-t { font-size: 12.5px; font-weight: 700; font-family: var(--font-num); }
+.chart .seg-t.on-dark { fill: #fff; }
+.chart .seg-t.on-light { fill: var(--mid-ink); }
+:root { --mid-ink: #121722; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --mid-ink: #ffffff; } }
+:root[data-theme="dark"] { --mid-ink: #ffffff; }
+.legend span[class^="leg-"] { color: var(--ink2); }
+.legend .leg-c1 i { background: var(--s1); }
+.legend .leg-mid i { background: var(--mid); }
+.srcgroup { font-weight: 700; color: var(--ink2); margin: 20px 0 4px; font-size: 13.5px; max-width: none; }
+.foot li { margin: 6px 0; }
+.tbl td.w { min-width: 240px; }
+.tbl td:first-child:not(.n) { min-width: 6.5em; }
+.tl .small { margin-top: 2px; }
+.tl b { font-weight: 500; }
+code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .92em; background: var(--chip); border-radius: 4px; padding: 0 4px; overflow-wrap: anywhere; }
+section > p, section > ul, section > ol { overflow-wrap: anywhere; }
+</style>
+</head>
+<body>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="kicker"><span class="ticker">HKEX: 06049</span><span>物业管理服务 · 央企背景 · 大物业</span><span>首次覆盖 · 任务 1 公司研究</span></div>
+    <h1>保利物业公司研究报告</h1>
+    <p class="sub">重点回答两个问题：中国物业管理行业现在怎么样，以及与海外成熟物业公司相比差在哪里。同时覆盖公司业务、历史、管理层、国内竞争、市场空间与 12 项风险。</p>
+    <div class="stamp">行情数据截至 2026 年 10 月 22 日（可查到的最近收市价）· 财务数据截至 2026 年中期业绩（8 月 25 日发布）· 报告日期 2026 年 11 月 2 日 · 仅供研究学习，不构成投资建议</div>
+  </div>
+</header>
+
+<nav class="rail" aria-label="章节导航">
+  <div class="wrap">
+    <a href="#summary">摘要</a><a href="#overview">公司概况</a><a href="#history">历史</a><a href="#management">管理层</a><a href="#business">业务</a><a href="#expansion">拓展</a><a href="#industry">行业现状</a><a href="#competition">国内竞争</a><a href="#global">海外对比</a><a href="#tam">市场空间</a><a href="#risks">风险</a><a href="#agenda">议程</a><a href="#sources">来源</a>
+  </div>
+</nav>
+
+<main class="wrap">
+<div class="callout warn" role="note" style="margin-top:24px"><svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><path fill="currentColor" d="M10 1.5 19 18H1L10 1.5Zm-.9 6v5h1.8v-5H9.1Zm0 6.3v1.8h1.8v-1.8H9.1Z"/></svg><div><span class="tag">数据说明</span>本次运行环境无法直接打开港交所披露易和公司公告原文。数字来自财经媒体对公告的转载、券商研报和第三方数据平台，来源不一致处已在正文注明。港元与人民币按 1 港元约 0.92 元人民币示意换算；作者自己的测算标为“示意”。正文中的〔n〕可跳转到文末对应来源。</div></div>
+
+<section id="summary">
+<h2><span class="no">00</span>核心结论</h2>
+
+<div class="tiles t4" role="list">
+  <div class="tile" role="listitem"><div class="lab">收市价（10/22）</div><div class="val">HK$26.26</div><div class="dl">年内区间 25.60–35.49 港元</div></div>
+  <div class="tile" role="listitem"><div class="lab">总市值</div><div class="val">约 HK$145<small>亿</small></div><div class="dl">总股本约 5.53 亿股（示意）</div></div>
+  <div class="tile" role="listitem"><div class="lab">市盈率（TTM）</div><div class="val">约 8.4<small> 倍</small></div><div class="dl">港股物业板块约 17.9 倍（7 月）</div></div>
+  <div class="tile" role="listitem"><div class="lab">股息率</div><div class="val">约 5.8%</div><div class="dl">2025 年每股 1.401 元，派息率 50%（示意）</div></div>
+  <div class="tile" role="listitem"><div class="lab">2025 年收入</div><div class="val">¥171<small>亿</small></div><div class="dl">+4.8%；归母净利润 15.5 亿元（+5.1%）</div></div>
+  <div class="tile" role="listitem"><div class="lab">2026 上半年归母净利润</div><div class="val">¥9.33<small>亿</small></div><div class="dl">+4.8%；收入 88.29 亿元（+5.2%）</div></div>
+  <div class="tile" role="listitem"><div class="lab">在管面积</div><div class="val">8.96<small> 亿㎡</small></div><div class="dl">第三方占 66.9%；上市物企第二</div></div>
+  <div class="tile" role="listitem"><div class="lab">第三方物管收入</div><div class="val">¥32.9<small>亿</small></div><div class="dl">+18.4%，占物管收入 46.5%</div></div>
+</div>
+<ol class="keypoints"><li><b>行业已从“跑马圈地”进入“存量竞争”。</b> 2025 年全国物业管理面积约 327 亿平方米，行业收入约 1.83 万亿元，增速只有 4% 左右；百强企业在管面积增速从 2024 年的 7% 降到 3%<a class="cite" href="#src-8">〔8〕</a>。2026 年上半年 63 家上市物企收入合计仅增长 3.2%，一半企业收入下滑，超过一半企业净利润下降<a class="cite" href="#src-9">〔9〕</a>。</li><li><b>行业的主要矛盾是“价格下行 + 成本刚性 + 收缴变难”。</b> 多地出现物业费下调（广州增城 11 个小区降费，从 3 元以上降到 2.8 元/平方米·月），百强企业收缴率降到 87% 左右，2025 年退盘项目超过 500 个；2026 年一季度物业服务合同纠纷一审案件同比增长 37%<a class="cite" href="#src-8">〔8〕</a><a class="cite" href="#src-11">〔11〕</a>。</li><li><b>保利物业是“稳健的央企物企”，增长慢但质量好。</b> 收入和利润连续保持 5% 左右的增长，经营现金流覆盖净利润 1 倍以上，派息率 50%；在行业多数企业利润下滑的情况下，它是利润排名前三的上市物企之一<a class="cite" href="#src-2">〔2〕</a><a class="cite" href="#src-9">〔9〕</a>。</li><li><b>增长引擎已从母公司转向第三方和公共服务。</b> 第三方项目占在管面积的 67%、物管收入的 47%，第三方物管收入增长 18%；公共服务（政府、学校、医院、城镇景区等）已占物管收入约四分之一<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-3">〔3〕</a>。但母公司保利发展 2026 年前三季度签约额下降 10%，未来来自关联方的新增面积会继续减少<a class="cite" href="#src-7">〔7〕</a>。</li><li><b>增值服务在收缩，毛利率在下降。</b> 2026 年上半年非业主增值服务下降 17%、社区增值服务下降 14%；2025 年毛利率 17.4%，同比下降 0.8 个百分点<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-2">〔2〕</a>。这两项是与地产周期绑定最紧的业务。</li><li><b>海外成熟市场的经验：物业管理是“慢而稳”的服务生意。</b> 美国约 35% 的住房属于社区协会，FirstService 住宅社区管理业务收入增长 7%、EBITDA 利润率约 10%；日本公寓管理费市场 2024 年增长 2.3%，而随着楼龄老化，修缮工程市场已超过管理费市场；欧洲设施服务龙头 ISS 的经营利润率只有 5%<a class="cite" href="#src-15">〔15〕</a><a class="cite" href="#src-17">〔17〕</a><a class="cite" href="#src-18">〔18〕</a><a class="cite" href="#src-19">〔19〕</a>。海外龙头的利润率并不比保利物业高，但估值高得多（FirstService 约 39 倍、CBRE 约 35 倍市盈率），核心差别在于增长的可预期性、收费机制和关联方风险。</li><li><b>最需要盯住的五件事。</b> ① 第三方新签合同额与在管面积增速；② 毛利率能否企稳；③ 增值服务降幅是否收窄；④ 物业费政策与收缴率；⑤ 新任总经理王英男的战略与 2026 年度派息率。</li></ol>
+</section>
+<section id="overview">
+<h2><span class="no">01</span>公司概况</h2>
+<p class="lede">保利物业是央企中国保利集团旗下、保利发展控股的物业管理公司，在管面积行业第二，业务覆盖住宅、商业写字楼和公共服务三大类，是“大物业”模式的代表。</p>
+<h3>1.1 基本信息</h3>
+<ul><li><b>公司：</b> 保利物业服务股份有限公司，前身为 1996 年在广州成立的合利物业，2019 年 12 月在港交所主板上市，代码 06049<a class="cite" href="#src-5">〔5〕</a>。</li><li><b>股东背景：</b> 控股股东为保利发展（600048.SH），实际控制人为中国保利集团<a class="cite" href="#src-6">〔6〕</a>。</li><li><b>规模：</b> 2026 年 6 月末在管面积约 8.96 亿平方米，在上市物企中仅次于碧桂园服务；合同面积约 10.2 亿平方米（由第三方合同面积及占比推算）<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-10">〔10〕</a>。</li><li><b>业绩：</b> 2025 年收入 171 亿元，归母净利润 15.5 亿元；2026 年上半年收入 88.29 亿元，归母净利润 9.33 亿元<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-2">〔2〕</a>。</li><li><b>股东回报：</b> 2025 年度每股派息 1.401 元，派息率 50%<a class="cite" href="#src-2">〔2〕</a>。</li></ul>
+<h3>1.2 三块业务</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>业务</th><th class="n">2025 年收入（亿元）</th><th class="n">占比</th><th class="n">同比</th><th>2026 年上半年</th></tr></thead><tbody><tr><td>物业管理服务</td><td class="n">131.50</td><td class="n">76.8%</td><td class="n">+12.6%</td><td>70.80 亿元，+11.9%</td></tr><tr><td>非业主增值服务</td><td class="n">16.36</td><td class="n">9.6%</td><td class="n">−16.5%</td><td>7.19 亿元，−16.7%</td></tr><tr><td>社区增值服务</td><td class="n">23.40</td><td class="n">13.7%</td><td class="n">−13.6%</td><td>10.30 亿元，−14.4%</td></tr><tr class="tot"><td>合计</td><td class="n">171.26</td><td class="n">100%</td><td class="n">+4.8%</td><td>88.29 亿元，+5.2%</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-2">〔2〕</a>。</p>
+<ul><li><b>物业管理服务：</b> 按面积向业主或委托方收取物业费，提供保洁、安保、绿化、设备维护等基础服务。这是收入和利润的基本盘，也是唯一保持两位数增长的业务。</li><li><b>非业主增值服务：</b> 主要面向开发商（保利发展为主），包括案场服务、前期咨询、交付前清洁等。它随开发商的新开盘和交付量波动，是与地产周期绑定最紧的部分。</li><li><b>社区增值服务：</b> 面向业主的社区零售、房屋经纪、拎包入住、美居、车位等。它依赖新交付社区和二手房交易的活跃度。</li></ul>
+
+<figure>
+  <figcaption>2026 年上半年各项收入同比增速<span class="cap-sub">%；蓝色为增长，红色为下降</span></figcaption>
+  <div class="chart-box" id="ch-seg"></div>
+  <div class="src">第三方与关联方为物业管理服务收入的拆分。来源：公司中期业绩〔1〕。</div>
+</figure>
+<h3>1.3 业态结构：从住宅为主到“三分天下”</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>业态</th><th class="n">2019 年上半年收入占比</th><th>2025 年上半年物管收入</th><th>占比</th></tr></thead><tbody><tr><td>住宅</td><td class="n">74.9%</td><td>36 亿元</td><td>约 57%</td></tr><tr><td>商业及写字楼</td><td class="n">13.2%</td><td>11 亿元</td><td>约 17%</td></tr><tr><td>公共服务（政府、学校、医院、交通枢纽、城镇景区等）</td><td class="n">11.9%</td><td>16 亿元</td><td>约 25%</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-3">〔3〕</a><a class="cite" href="#src-5">〔5〕</a>。两个时点的口径不完全一致（2019 年为总收入，2025 年为物管收入），仅用于观察趋势。</p>
+<p>公共服务的比重从约 12% 升到约 25%，已经超过商业写字楼。这是保利物业与多数同行最大的区别：它较早切入“城镇公共服务”和“城市服务”，把物业管理从小区围墙内延伸到政府机关、学校、医院、机场、景区乃至整个镇域的公共空间。</p>
+<h3>1.4 规模与财务轨迹</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>期间</th><th class="n">收入（亿元）</th><th class="n">同比</th><th class="n">归母净利润（亿元）</th><th class="n">同比</th><th class="n">毛利率</th></tr></thead><tbody><tr><td class="nw">2025 年上半年</td><td class="n">约 83.9</td><td class="n">—</td><td class="n">约 8.90</td><td class="n">—</td><td class="n">19.38%</td></tr><tr><td class="nw">2025 年全年</td><td class="n">171</td><td class="n">+4.8%</td><td class="n">15.5</td><td class="n">+5.1%</td><td class="n">17.4%</td></tr><tr><td class="nw">2026 年上半年</td><td class="n">88.29</td><td class="n">+5.2%</td><td class="n">9.33</td><td class="n">+4.8%</td><td class="n">未查到</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-2">〔2〕</a><a class="cite" href="#src-3">〔3〕</a>。2025 年上半年收入和净利润由 2026 年上半年同比数推算。</p>
+<ul><li><b>费用控制：</b> 2025 年行政开支 9.9 亿元，同比下降 11.5%，部分抵消了毛利率下滑<a class="cite" href="#src-2">〔2〕</a>。</li><li><b>现金流：</b> 2025 年经营现金流 18.3 亿元，覆盖净利润 1 倍以上<a class="cite" href="#src-2">〔2〕</a>。</li><li><b>每股收益：</b> 2025 年每股基本盈利 2.810 元；2026 年上半年 1.691 元，同比增长 4.5%<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-2">〔2〕</a>。</li></ul>
+</section>
+<section id="history">
+<h2><span class="no">02</span>公司历史</h2>
+<p class="lede">从开发商的“售后服务部门”起步，借港股物业板块的上市潮完成独立，再在行业下行期凭央企背景稳住基本盘。</p>
+<h3>2.1 主要节点</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>时间</th><th>事件</th><th>意义</th></tr></thead><tbody><tr><td class="nw">1996 年 6 月</td><td class="w">前身广州合利物业发展有限公司成立</td><td>保利地产配套物业起步<a class="cite" href="#src-5">〔5〕</a></td></tr><tr><td class="nw">2016 年 10 月</td><td class="w">改制为股份公司，更名保利物业发展股份有限公司</td><td>为资本化做准备<a class="cite" href="#src-5">〔5〕</a></td></tr><tr><td class="nw">2017 年 8 月</td><td class="w">在新三板挂牌</td><td>—<a class="cite" href="#src-5">〔5〕</a></td></tr><tr><td class="nw">2019 年 2 月</td><td class="w">接管贵阳龙洞堡国际机场物业服务</td><td>公建业态拓展<a class="cite" href="#src-5">〔5〕</a></td></tr><tr><td class="nw">2019 年 4 月</td><td class="w">从新三板退市，启动港股上市</td><td>—<a class="cite" href="#src-5">〔5〕</a></td></tr><tr><td class="nw">2019 年 12 月 19 日</td><td class="w">港交所上市，发行价 35.10 港元，募资约 46.8 亿港元，为当时港股规模最大的物业服务 IPO；上市时合同面积 4.78 亿平方米、在管面积约 2.70 亿平方米</td><td>独立资本平台<a class="cite" href="#src-5">〔5〕</a></td></tr><tr><td class="nw">2023 年 1 月</td><td class="w">吴兰玉由总经理升任董事长，姚玉成任总经理</td><td>管理层交接<a class="cite" href="#src-6">〔6〕</a></td></tr><tr><td class="nw">2025 年</td><td class="w">收入 171 亿元，在管面积 8.55 亿平方米，第三方占 66%</td><td>第三方成为主力<a class="cite" href="#src-2">〔2〕</a></td></tr><tr><td class="nw">2026 年 1 月</td><td class="w">姚玉成辞任，王英男接任总经理；刘龙接任董事会秘书</td><td>强化与保利发展的协同<a class="cite" href="#src-6">〔6〕</a></td></tr></tbody></table></div>
+<h3>2.2 6 月 30 日之后的变化</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>日期</th><th>事件</th><th>影响</th></tr></thead><tbody><tr><td class="nw">7 月 28 日</td><td class="w">股价 28.42 港元，市盈率约 9.1 倍，股息率约 5.6%</td><td>—<a class="cite" href="#src-4">〔4〕</a></td></tr><tr><td class="nw">7 月下旬</td><td class="w">广州增城集中清理超标准物业费，11 个小区降费</td><td>行业降费压力<a class="cite" href="#src-11">〔11〕</a></td></tr><tr><td class="nw">8 月 25 日</td><td class="w">中期业绩：收入 +5.2%，归母净利润 +4.8%；第三方物管收入 +18.4%；股价当日涨约 4% 至 28.9 港元</td><td>业绩稳健<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-4">〔4〕</a></td></tr><tr><td class="nw">8 月底</td><td class="w">63 家上市物企中报：收入合计 +3.2%，八家头部贡献近七成利润</td><td>行业分化<a class="cite" href="#src-9">〔9〕</a></td></tr><tr><td class="nw">10 月 16 日</td><td class="w">保利发展公告 1–9 月签约 1,812.37 亿元（−10.16%），9 月单月 −21.13%</td><td>关联方新增面积将继续收缩<a class="cite" href="#src-7">〔7〕</a></td></tr><tr><td class="nw">10 月 22 日</td><td class="w">股价收于 26.26 港元，接近年内低点 25.60 港元</td><td>—<a class="cite" href="#src-4">〔4〕</a></td></tr></tbody></table></div>
+<h3>2.3 历史评价</h3>
+<p>保利物业的路径代表了中国物业行业的主流：先依附开发商获得面积，再借资本市场独立，最后在开发商收缩时转向第三方和公共服务。与民营开发商旗下的物企相比，它的优势在于母公司信用稳健，没有出现关联方大额坏账；短板在于母公司销售下滑同样会拖慢它的面积增长和增值服务收入。</p>
+</section>
+<section id="management">
+<h2><span class="no">03</span>管理层与公司治理</h2>
+<p class="lede">管理层主要来自保利发展体系，国企干部轮岗属性明显；2023 年和 2026 年两次更换总经理，最新一任来自地产运营条线，指向“地产与物业协同”。</p>
+<h3>3.1 核心管理层一览</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>姓名</th><th>职务</th><th>任职</th><th>背景</th></tr></thead><tbody><tr><td>吴兰玉</td><td>董事长、执行董事</td><td>2018 年任总经理，2023 年 1 月起任董事长</td><td>保利体系 20 年；据报道 2025 年 8 月起兼任保利发展副总经理</td></tr><tr><td>王英男</td><td>总经理（获提名执行董事）</td><td>2026 年 1 月起</td><td>47 岁，保利地产体系 15 年，曾任保利北京副总经理、保利发展运营管理中心负责人</td></tr><tr><td>姚玉成</td><td>前总经理</td><td>2023 年 1 月至 2026 年 1 月</td><td>同济大学学士、中山大学管理学博士，曾任保利发展人力资源中心总经理</td></tr><tr><td>刘龙</td><td>董事会秘书</td><td>2026 年 1 月起</td><td>接替尹超</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-6">〔6〕</a>。</p>
+<h3>3.2 吴兰玉｜董事长</h3>
+<p>吴兰玉 1979 年出生，先后在武汉理工大学获得管理学和法学双学士学位，在华中科技大学取得传播学硕士学位，具有中级经济师和中级工程师资格<a class="cite" href="#src-6">〔6〕</a>。她 2005 年加入保利发展，先后在控股业务、广州科学城保利房地产的市场营销部门任职；2008 年 2 月至 2018 年 4 月任保利（武汉）房地产开发有限公司助理总经理、副总经理，负责市场营销、客户服务和物业管理相关工作<a class="cite" href="#src-6">〔6〕</a>。2018 年 6 月起任保利物业总经理，2023 年 1 月升任董事长；据报道，她自 2025 年 8 月起兼任保利发展副总经理<a class="cite" href="#src-6">〔6〕</a>。</p>
+<p>在她担任总经理和董事长期间，保利物业完成了港股上市，在管面积从上市时的约 2.7 亿平方米增至约 9 亿平方米，第三方和公共服务成为主要增长来源<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-5">〔5〕</a>。</p>
+<p><b>评价：</b> 她兼具地产营销、客服与物业管理的经验，是保利物业“大物业”战略和外拓的主要推动者。兼任母公司副总经理有利于协同，但也意味着她在物业公司的精力分配和公司独立性值得关注。</p>
+<h3>3.3 王英男｜总经理</h3>
+<p>王英男 47 岁，在保利体系内深耕地产领域 15 年，历任地产顾问、保利北京副总经理、保利发展运营管理中心负责人；2026 年 1 月 27 日接任保利物业总经理，并被提名为执行董事候选人<a class="cite" href="#src-6">〔6〕</a>。市场普遍将这次任命解读为保利系强化地产与物业的协同<a class="cite" href="#src-6">〔6〕</a>。</p>
+<p>他上任后面临的任务很明确：在母公司销售下滑的背景下，稳住关联方交付带来的面积增长，同时提高第三方项目的盈利质量，扭转增值服务的下滑。他的地产运营背景有利于与保利发展在交付、案场、社区服务上的衔接，但缺少物业行业一线经营经验。</p>
+<p><b>评价：</b> 新总经理的第一份完整年报（2026 年度）将是检验其战略的第一个窗口，重点看第三方新签合同的利润率和增值服务能否止跌。</p>
+<h3>3.4 姚玉成｜前总经理</h3>
+<p>姚玉成拥有同济大学工学学士、暨南大学工商管理硕士和中山大学管理学博士学位，加入保利前曾在广州地铁集团、广东盈通网络投资有限公司和美泰公司任职；2019 年进入保利发展任人力资源中心总经理，2023 年 1 月起任保利物业总经理，2026 年 1 月辞任<a class="cite" href="#src-6">〔6〕</a>。他任内公司推进精益运营，行政开支在 2025 年下降 11.5%，第三方收入占比持续提升<a class="cite" href="#src-2">〔2〕</a>。</p>
+<p><b>评价：</b> 三年一换的总经理节奏说明，保利物业的高管任免主要服从集团整体安排。这有利于集团协同，但战略连续性需要观察。</p>
+<h3>3.5 董事会与股权结构</h3>
+<ul><li><b>控股结构：</b> 保利发展为控股股东，中国保利集团为实际控制人；具体持股比例以公司年报为准<a class="cite" href="#src-6">〔6〕</a>。</li><li><b>治理特点：</b> 作为央企控股的港股公司，保利物业治理相对规范，没有出现民营开发商旗下物企那样的关联方资金占用问题。作为对照，恒大物业曾有约 134 亿元存款被质押用于为集团关联方融资提供担保，后被银行划扣，公司对此全额计提拨备<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>关联交易：</b> 来自保利发展项目的物管收入仍占 53.5%（2026 年上半年），非业主增值服务也主要来自保利发展<a class="cite" href="#src-1">〔1〕</a>。关联方的稳健是保利物业的优势，但关联交易定价和应收款回收需要持续跟踪。</li></ul>
+</section>
+<section id="business">
+<h2><span class="no">04</span>业务与服务</h2>
+<p class="lede">基础物管是“压舱石”，公共服务是差异化，增值服务正在被地产周期拖累。</p>
+<h3>4.1 住宅物业</h3>
+<p>住宅是在管面积和收入的最大来源。保利发展交付的项目由保利物业承接，第三方住宅项目则通过招投标获取。住宅物业费由前期物业服务合同确定，部分城市受政府指导价约束；行业主流是“包干制”，即物业公司收取固定物业费、自负盈亏，收不到费或成本上涨都由物业公司承担。</p>
+<h3>4.2 商业与写字楼</h3>
+<p>商业写字楼项目物业费单价高、付费主体是企业，收缴率高于住宅，但对服务标准和专业设施管理能力要求更高。2025 年上半年商办物管收入约 11 亿元，占物管收入约 17%<a class="cite" href="#src-3">〔3〕</a>。</p>
+<h3>4.3 公共服务（差异化所在）</h3>
+<p>公共服务包括政府办公、学校、医院、交通枢纽（如贵阳龙洞堡机场）、产业园以及城镇和景区的公共空间管理<a class="cite" href="#src-5">〔5〕</a>。2025 年上半年公服物管收入约 16 亿元，占物管收入约 25%<a class="cite" href="#src-3">〔3〕</a>。这类业务的特点是：</p>
+<ul><li><b>付费方是政府或机构，</b> 单个合同金额大、期限相对稳定；</li><li><b>毛利率通常低于住宅，</b> 但现金流和续约稳定性较好；</li><li><b>门槛在于资质与信任，</b> 央企背景在获取政府项目时有明显优势。</li></ul>
+<h3>4.4 增值服务</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>类型</th><th>主要内容</th><th class="n">2026 年上半年变化</th><th>驱动因素</th></tr></thead><tbody><tr><td>非业主增值服务</td><td>案场服务、前期咨询、交付前清洁</td><td class="n">−16.7%</td><td>开发商新开盘和交付减少</td></tr><tr><td>社区增值服务</td><td>社区零售、房屋经纪、美居、车位</td><td class="n">−14.4%</td><td>新交付社区减少、二手房交易与装修需求偏弱</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a>。</p>
+<p>增值服务的毛利率高于基础物管，因此它的下滑是保利物业毛利率下降的主要原因之一。</p>
+</section>
+<section id="expansion">
+<h2><span class="no">05</span>客户与市场拓展</h2>
+<p class="lede">客户结构正在从“依赖母公司”转向“第三方与政府”，外拓质量比数量更重要。</p>
+<h3>5.1 关联方与第三方</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>指标</th><th>2026 年上半年</th><th>说明</th></tr></thead><tbody><tr><td>第三方物管收入</td><td>32.90 亿元，+18.4%</td><td>占物管收入 46.5%</td></tr><tr><td>保利发展项目物管收入</td><td>37.90 亿元，+6.9%</td><td>占物管收入 53.5%</td></tr><tr><td>第三方在管面积</td><td>5.98 亿平方米</td><td>占总在管面积 66.9%</td></tr><tr><td>第三方合同面积</td><td>6.53 亿平方米</td><td>占总合同面积 64.1%</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a>。</p>
+<p>第三方面积占比（67%）明显高于收入占比（47%），说明第三方项目的单价低于保利发展的自有项目：公共服务和部分住宅外拓项目按面积计价较低。</p>
+<h3>5.2 外拓质量</h3>
+<p>2026 年上半年，公司新拓第三方项目单年合同金额约 14.06 亿元，其中核心 50 城项目占 80.8%，单年合同额千万元以上项目占 55.1%<a class="cite" href="#src-1">〔1〕</a>。公司强调“核心城市、大项目”，目的是避免低价、低收缴率项目拖累利润。</p>
+<h3>5.3 母公司的销售趋势</h3>
+<p>保利发展 2026 年 1–9 月签约金额 1,812.37 亿元，同比下降 10.16%；签约面积 875.53 万平方米，同比下降 13.35%；9 月单月签约金额下降 21.13%<a class="cite" href="#src-7">〔7〕</a>。商品房从签约到交付通常需要 2–3 年，因此母公司销售下滑会在 2027–2028 年体现为交付面积减少。保利物业未来的面积增长将更依赖第三方。</p>
+</section>
+<section id="industry">
+<h2><span class="no">06</span>行业概览：中国物业管理行业现在怎么样</h2>
+<p class="lede">行业规模仍在缓慢增长，但已从“面积扩张”进入“存量竞争”：价格在下行，成本刚性，收缴变难，利润向少数国央企和头部公司集中。</p>
+<h3>6.1 规模与增速</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>指标</th><th>数值</th><th>来源</th></tr></thead><tbody><tr><td>全国物业管理面积（2025 年末）</td><td>约 327 亿平方米（另有口径超过 330 亿平方米），预计 2030 年接近 400 亿平方米</td><td><a class="cite" href="#src-8">〔8〕</a></td></tr><tr><td>行业营业收入（2025 年）</td><td>约 1.83 万亿元，同比 +4.06%（另有口径“逼近 2 万亿元、增速 3%–4%”）</td><td><a class="cite" href="#src-8">〔8〕</a></td></tr><tr><td>百强企业在管面积（2025 年）</td><td>122.87 亿平方米，同比 +3.01%（2024 年为 +7.06%）</td><td><a class="cite" href="#src-8">〔8〕</a></td></tr><tr><td>百强企业第三方面积占比</td><td>54.56%，小幅下降</td><td><a class="cite" href="#src-8">〔8〕</a></td></tr><tr><td>百强企业平均营收</td><td>16.60 亿元，同比 +3.44%；其中基础物业服务 14.13 亿元，+5.23%</td><td><a class="cite" href="#src-8">〔8〕</a></td></tr><tr><td>百强企业平均收缴率</td><td>87.32%，持续下降（另有统计称住宅收缴率降至 82.3%）</td><td><a class="cite" href="#src-8">〔8〕</a></td></tr><tr><td>2025 年退盘</td><td>超过 500 个项目，面积超过 1.5 亿平方米</td><td><a class="cite" href="#src-8">〔8〕</a></td></tr><tr><td>物业服务满意度</td><td>72.9 分，较上年微降</td><td><a class="cite" href="#src-8">〔8〕</a></td></tr></tbody></table></div>
+<p>几组数字放在一起看：面积还在增长，但增速已经降到 3% 左右；收入增长主要来自基础物管，增值服务在萎缩；收缴率和满意度同时下降，说明业主对“花钱买服务”的认可在减弱。</p>
+<h3>6.2 三个阶段</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>阶段</th><th>时间</th><th>特征</th></tr></thead><tbody><tr><td>扩张与上市潮</td><td>2019–2021 年</td><td>开发商分拆物企赴港上市，资本推动并购，估值高企；保利物业 2019 年 12 月上市，是当时规模最大的物业服务 IPO<a class="cite" href="#src-5">〔5〕</a></td></tr><tr><td>地产风险外溢</td><td>2021–2024 年</td><td>民营开发商债务危机，物企出现关联方应收坏账、商誉减值和资金被占用，例如恒大物业约 134 亿元存款被质押后划扣<a class="cite" href="#src-12">〔12〕</a>；板块估值大幅下降</td></tr><tr><td>存量竞争</td><td>2024 年至今</td><td>新交付面积减少，增长转向第三方外拓；物业费下调、退盘和纠纷增加；企业转向“回归服务本源”、控费和提高分红</td></tr></tbody></table></div>
+<h3>6.3 当前的五个压力</h3>
+<ol><li><b>物业费下行。</b> 房价下跌后，业主更看重性价比，降费从个别小区扩散到区域。广州增城 6 月起集中清理超标准收费，截至 7 月 22 日已有 11 个小区下调物业费、8 个项目撤销“超一级”收费，多从 3 元以上降至 2.8 元/平方米·月（当地普通住宅一级收费指导价上限）<a class="cite" href="#src-11">〔11〕</a>。也有小区通过更换物业实现降费：无锡一个小区换聘新物业后，物业费从 3.3 元降至 2.7 元，据称收缴率从 10% 升至 65%<a class="cite" href="#src-11">〔11〕</a>。</li><li><b>收缴率下降。</b> 百强企业平均收缴率降至 87% 左右，部分统计口径下住宅收缴率只有 82%<a class="cite" href="#src-8">〔8〕</a>。收缴率下滑容易形成“拒缴—服务下降—再拒缴”的循环，北京大兴有小区的原物业因亏损严重于 2026 年 7 月撤场<a class="cite" href="#src-11">〔11〕</a>。</li><li><b>退盘增加。</b> 2025 年退盘项目超过 500 个、面积超过 1.5 亿平方米<a class="cite" href="#src-8">〔8〕</a>。退盘既有业主主动更换物业，也有物企主动退出亏损项目。</li><li><b>纠纷激增。</b> 最高人民法院公布，2026 年一季度物业服务合同纠纷一审案件同比增长 37.28%<a class="cite" href="#src-11">〔11〕</a>。</li><li><b>成本刚性。</b> 物业是劳动密集型行业，人工成本占比高。2025 年百强企业员工数量均值同比下降 0.92%，员工成本均值却增长 2.26%<a class="cite" href="#src-8">〔8〕</a>：企业在减人，人均成本仍在上升。</li></ol>
+<h3>6.4 上市物企 2026 年中报：增收不增利，利润向头部集中</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>指标</th><th>数值</th></tr></thead><tbody><tr><td>披露中报的上市物企</td><td>63 家，合计营收 1,533.47 亿元，同比 +3.22%</td></tr><tr><td>收入增长 / 下滑的企业</td><td>32 家 / 31 家</td></tr><tr><td>利润集中度</td><td>8 家头部企业贡献约 68% 的净利润；其余 45 家中小企业净利润合计下降 10.41%</td></tr><tr><td>净利润</td><td>超过一半的企业同比下降；62 家口径下营收 +3.5%、净利润 −0.28%</td></tr><tr><td>毛利率均值</td><td>21.28%，同比下降 1.16 个百分点；39 家下降、23 家上升</td></tr><tr><td>贸易应收账款及票据</td><td>1,095.43 亿元，相当于上半年营收的 71.48%</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-9">〔9〕</a>。</p>
+
+<figure>
+  <figcaption>2026 年上半年上市物企净利润分布<span class="cap-sub">63 家上市物企净利润合计 = 100%</span></figcaption>
+  <div class="legend"><span class="leg-c1"><i class="box"></i>8 家头部企业</span><span class="leg-mid"><i class="box"></i>其余 55 家</span></div>
+  <div class="chart-box" id="ch-conc"></div>
+  <div class="src">其中 45 家中小企业净利润合计同比下降 10.41%。来源：中指研究院统计〔9〕。</div>
+</figure>
+<p>2025 年全年，62 家上市物企毛利总额 538.9 亿元，同比下降 1.6%，净利润总额约 144 亿元，同比增长 10.3%<a class="cite" href="#src-8">〔8〕</a>。毛利下降而净利润上升，说明利润改善主要来自减值减少和费用控制，而不是业务本身变好。</p>
+<h3>6.5 政策与监管</h3>
+<ul><li><b>收费机制：</b> 按《物业服务收费管理办法》，物业费可以采用包干制或酬金制，住宅以包干制为主；普通住宅前期物业服务收费多实行政府指导价，分等级设定上限（如广州一级收费上限 2.8 元/平方米·月）<a class="cite" href="#src-11">〔11〕</a>。部分城市对前期物业费实行分级限价，如武汉新洲区允许在基准价上浮不超过 20%<a class="cite" href="#src-11">〔11〕</a>。</li><li><b>业主自治：</b> 业主大会和业主委员会可以选聘或解聘物业公司，“业主用脚投票”成为常态，这也是退盘和降费增加的制度背景。</li><li><b>新的需求：</b> 城市服务、社区养老、老旧小区改造、“好房子”建设等政策方向，为物业企业提供了新的业务空间，但多以政府付费、竞争性招标为主，利润率不高。</li></ul>
+<h3>6.6 资本市场：估值低、股息高、分化大</h3>
+<p>据理杏仁的恒生“物业服务及管理”行业指数，2026 年 7 月下旬板块市盈率约 17.9 倍（市值加权）、市净率约 1.18 倍、股息率约 5.4%；市盈率处于历史约 40% 分位，低于历史中位数 19.4 倍<a class="cite" href="#src-13">〔13〕</a>。个股差异很大：华润万象生活约 20 倍（商业运营占比高），万物云约 27 倍，保利物业约 9 倍<a class="cite" href="#src-13">〔13〕</a>。市场给“商业运营”和“高增长”溢价，给“住宅物管 + 地产关联”折价。</p>
+<h3>6.7 国央企与民营物企的分化</h3>
+<p>开发商信用决定了物企这几年的命运。2026 年上半年，净利润最高的是央企背景的华润万象生活（约 23.02 亿元），保利物业也在前三之列<a class="cite" href="#src-9">〔9〕</a>；而民营开发商系的物企普遍背负关联方应收和历史减值：恒大物业约 134 亿元存款被划扣并全额计提，碧桂园服务虽然核心净利润止跌回升，但法定口径净利润仍下降 4.6%，贸易应收款半年增加约 27 亿元<a class="cite" href="#src-12">〔12〕</a><a class="cite" href="#src-14">〔14〕</a>。中小物企的处境更难，45 家中小上市物企净利润合计下降 10.41%<a class="cite" href="#src-9">〔9〕</a>。在第三方招投标中，政府和国企客户也更倾向于选择国央企背景的物企，这进一步强化了分化。</p>
+<h3>6.8 未来三年的判断</h3>
+<p>以下是作者基于上述数据的判断，不是预测：</p>
+<ul><li><b>面积：</b> 新房交付减少，行业在管面积增速大概率维持在 3% 左右，增量主要来自存量项目的换手和非住宅业态。</li><li><b>价格：</b> 住宅物业费在一二线核心区域大体稳定，在房价下跌较多的城市继续承压；整体单价难以上涨。</li><li><b>结构：</b> 增值服务继续收缩，基础物管和城市服务占比上升；毛利率在 20% 上下徘徊。</li><li><b>格局：</b> 退盘和招投标会把项目从中小物企转向头部，尤其是国央企；行业并购更多是小规模、低溢价的整合。</li><li><b>股东回报：</b> 资本开支少、现金充裕的头部物企会继续提高派息，股息成为股价的主要支撑。</li></ul>
+<h3>6.9 行业小结</h3>
+<p>中国物业行业正在经历“去地产化”：过去十年的增长来自开发商交付带来的面积扩张，现在这个来源在收缩，行业必须靠服务质量、定价机制和非住宅业务来增长。这个过程会持续数年，期间行业整体增速大概率维持在低个位数，利润向有信用背景、有外拓能力、有成本控制能力的头部企业集中。</p>
+</section>
+<section id="competition">
+<h2><span class="no">07</span>国内竞争格局</h2>
+<p class="lede">国内物企按背景分为“国央企系”“民营开发商系”“独立第三方”三类；保利物业属于第一类中的规模龙头。</p>
+<h3>7.1 主要上市物企 2026 年上半年表现</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>公司</th><th>背景</th><th>收入（亿元）</th><th>利润</th><th>备注</th></tr></thead><tbody><tr><td>碧桂园服务</td><td>民营开发商系</td><td>约 245（+5.7%）</td><td>归母核心净利润约 16.2 亿元（+3.2%）；法定口径约 9.5 亿元（−4.6%）</td><td>在管面积第一，约 11.86 亿平方米；贸易应收款半年增加约 27 亿元<a class="cite" href="#src-10">〔10〕</a><a class="cite" href="#src-14">〔14〕</a></td></tr><tr><td>万物云</td><td>万科系</td><td>191.1（+5.4%）</td><td>核心净利润（剔除开发商业务）+7.3%；整体净利润 −2.1%</td><td>中期派息 8.2 亿元<a class="cite" href="#src-14">〔14〕</a></td></tr><tr><td>绿城服务</td><td>独立第三方属性较强</td><td>98.71（+6.3%）</td><td>归母净利润 7.1 亿元（+15.2%）</td><td>在管面积约 5.8 亿平方米<a class="cite" href="#src-14">〔14〕</a></td></tr><tr><td>保利物业</td><td>央企系</td><td>88.29（+5.2%）</td><td>归母净利润 9.33 亿元（+4.8%）</td><td>在管面积约 8.96 亿平方米<a class="cite" href="#src-1">〔1〕</a></td></tr><tr><td>恒大物业</td><td>民营开发商系（出险）</td><td>69.43（+4.5%）</td><td>归母净利润 5.17 亿元（+9.5%）</td><td>已基本脱离恒大体系运营<a class="cite" href="#src-14">〔14〕</a></td></tr><tr><td>华润万象生活</td><td>央企系，商业运营为主</td><td>—</td><td>净利润约 23.02 亿元，行业第一</td><td>毛利率约 38%<a class="cite" href="#src-9">〔9〕</a><a class="cite" href="#src-14">〔14〕</a></td></tr><tr><td>建发物业</td><td>国企系</td><td>21.57（+18.3%）</td><td>2.4 亿元（+11.2%）</td><td>毛利率 23.4%<a class="cite" href="#src-14">〔14〕</a></td></tr></tbody></table></div>
+<h3>7.2 在管面积排名（2026 年 6 月末）</h3>
+
+<figure>
+  <figcaption>上市物企在管面积排名（2026 年 6 月末）<span class="cap-sub">亿平方米；蓝色为保利物业</span></figcaption>
+  <div class="chart-box" id="ch-gfa"></div>
+  <div class="src">来源〔10〕。</div>
+</figure>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th class="n">排名</th><th>公司</th><th class="n">在管面积（亿平方米）</th></tr></thead><tbody><tr><td class="n">1</td><td>碧桂园服务</td><td class="n">11.86</td></tr><tr><td class="n">2</td><td>保利物业</td><td class="n">8.96</td></tr><tr><td class="n">3</td><td>恒大物业</td><td class="n">6.03</td></tr><tr><td class="n">4</td><td>绿城服务</td><td class="n">5.80</td></tr><tr><td class="n">5</td><td>中海物业</td><td class="n">4.95</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-10">〔10〕</a>。</p>
+<h3>7.3 保利物业的位置</h3>
+<ul><li><b>优势：</b> 央企信用与稳健的关联方；公共服务先发优势；规模第二；现金流好、派息稳定；没有关联方大额坏账。</li><li><b>劣势：</b> 增长偏慢（5% 左右）；毛利率低于行业均值（2025 年上半年保利物业 19.4%，62 家上市物企均值 22.4%）<a class="cite" href="#src-3">〔3〕</a><a class="cite" href="#src-9">〔9〕</a>；商业运营能力不如华润万象生活；增值服务受地产拖累。</li><li><b>估值位置：</b> 约 8.4 倍市盈率，明显低于板块（约 17.9 倍）和华润万象生活（约 20 倍）<a class="cite" href="#src-13">〔13〕</a>。市场把它定价为“稳定、但没有增长的现金牛”。</li></ul>
+</section>
+<section id="global">
+<h2><span class="no">08</span>国际对比：海外成熟物业公司怎么做</h2>
+<p class="lede">海外成熟市场的物业服务是“慢而稳”的生意：增长靠价格随成本上调、靠楼龄带来的维修需求和小规模并购，利润率并不高，但收费机制清晰、风险由业主组织分担，因此享有高估值。</p>
+<h3>8.1 三种成熟模式</h3>
+<p><b>模式一：美国社区协会 + 专业管理公司（代表：FirstService）。</b></p>
+<p>美国约 37.3 万个社区协会（HOA 与公寓协会）覆盖 2,960 万套住房、7,810 万居民，约占全美住房的 35.2%；2025 年新竣工住宅中 65.7%、售出住宅中 81.0% 属于社区协会<a class="cite" href="#src-18">〔18〕</a>。社区协会由业主选出的董事会管理，向业主收取会费，用于日常维护、公共设施和储备金；协会再与专业管理公司签约，由后者提供日常管理、财务、维修协调等服务。管理公司收取的是“管理费”，而不是全部会费，维修储备金归协会所有。</p>
+<p>FirstService 是这一模式的代表，旗下 FirstService Residential 自称北美最大的住宅社区管理公司<a class="cite" href="#src-15">〔15〕</a>。2025 年 FirstService 合并收入约 55 亿美元（+5%），调整后 EBITDA 5.628 亿美元（+10%），利润率 10.2%；其中 FirstService Residential 收入 22.9 亿美元（+7%，内生增长 4%），调整后 EBITDA 2.25 亿美元（+13%），利润率约 9.8%<a class="cite" href="#src-15">〔15〕</a>。2026 年上半年住宅板块内生增长 5%<a class="cite" href="#src-15">〔15〕</a>。</p>
+<p><b>模式二：日本分售公寓 + 管理组合委托（代表：东急コミュニティー、日本ハウズイング、大京アステージ等）。</b></p>
+<p>2024 年末日本分售公寓存量约 713.1 万户，其中楼龄 40 年以上约 148 万户，国土交通省预计 10 年后增至约 293 万户、20 年后约 482 万户<a class="cite" href="#src-19">〔19〕</a>。每栋公寓的业主组成“管理组合”，收取管理费和修缮积立金（维修储备金），再委托管理公司提供服务；管理公司须登记，并由持证的“管理业务主任者”负责。矢野经济研究所估计，2024 年日本公寓管理费市场 8,605 亿日元（+2.3%），共用部分修缮工程市场 9,355 亿日元（+28.8%）<a class="cite" href="#src-19">〔19〕</a>。管理费随新房价格和人工成本上调，而楼龄老化带来的大规模修缮已经成为比管理费更大的市场。</p>
+<p><b>模式三：欧美综合设施服务（代表：ISS、CBRE、JLL）。</b></p>
+<p>这类公司主要服务企业、政府和机构客户，提供保洁、安保、餐饮、设备维护、空间管理等一体化服务。ISS 2025 年收入 847 亿丹麦克朗，内生增长 4.3%（主要来自提价），经营利润率 5.0%，自由现金流 27 亿丹麦克朗；2026 年指引内生增长 5% 以上、利润率 5% 以上<a class="cite" href="#src-17">〔17〕</a>。CBRE 2025 年收入约 406 亿美元（+13%），核心 EBITDA 约 33.1 亿美元（+22%），2026 年核心每股收益指引 7.30–7.60 美元；它把企业和本地设施管理与物业管理合并为新的“楼宇运营与体验”板块<a class="cite" href="#src-16">〔16〕</a>。</p>
+<h3>8.2 中美日三地的制度差异</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>维度</th><th>中国</th><th>美国</th><th>日本</th></tr></thead><tbody><tr><td>业主组织</td><td>业主大会、业主委员会，组建和运作仍不普遍</td><td>社区协会（HOA、公寓协会），由业主选出的董事会管理</td><td>每栋公寓的管理组合，由业主总会决策</td></tr><tr><td>业主缴费</td><td>物业费，住宅多为包干制，普通住宅前期收费多有政府指导价</td><td>会费，由协会按年度预算决定</td><td>管理费 + 修缮积立金</td></tr><tr><td>管理公司收入</td><td>包干制下为物业费全额，自负盈亏</td><td>与协会签订的管理合同费用</td><td>管理委托费</td></tr><tr><td>维修资金</td><td>住宅专项维修资金，使用须经业主表决，程序较复杂</td><td>协会储备金，由协会董事会按计划使用</td><td>修缮积立金，归管理组合所有</td></tr><tr><td>收缴风险</td><td>主要由物业公司承担</td><td>主要由协会承担</td><td>主要由管理组合承担</td></tr><tr><td>调价方式</td><td>难：需业主同意，受指导价约束</td><td>协会每年调整预算和会费</td><td>管理组合总会决议</td></tr></tbody></table></div>
+<p class="src">说明：本表为作者根据公开制度信息的概括<a class="cite" href="#src-18">〔18〕</a><a class="cite" href="#src-19">〔19〕</a>，各地实际做法存在差异。</p>
+<p>这张表说明了一个核心差别：在美国和日本，“收多少钱、花多少钱、留多少维修储备”由业主组织决定，管理公司只是专业服务商；在中国住宅的包干制下，物业公司既是服务商，又在事实上承担了预算和收缴的风险。所以，当房价下跌、业主缴费意愿下降时，中国物企首当其冲。</p>
+<h3>8.3 海外龙头怎样增长：以 FirstService 为例</h3>
+<p>FirstService 的增长由两部分组成：一是住宅社区管理的内生增长，每年 4%–5%，主要来自新签社区和合同价格上调；二是持续的小规模并购，买入区域性管理公司和家居服务企业<a class="cite" href="#src-15">〔15〕</a>。它的第二块业务 FirstService Brands 提供房屋修复、油漆、收纳等家居服务（旗下品牌如 Paul Davis、CertaPro Painters、California Closets 等），与住宅社区管理形成“管理 + 维修服务”的组合；不过 2026 年上半年该板块内生收入下降 3%，说明家居服务同样受住房市场周期影响<a class="cite" href="#src-15">〔15〕</a>。ISS 则在增长平稳的前提下，用稳定的自由现金流持续回购股票，2026 年启动了新一轮回购<a class="cite" href="#src-17">〔17〕</a>。</p>
+<h3>8.4 海内外龙头指标对比</h3>
+
+<figure>
+  <figcaption>海内外物业与设施服务公司市盈率<span class="cap-sub">倍（TTM）；取值日期不同：保利物业 10/22，FirstService 10/15，CBRE、JLL 8 月，其余 7 月下旬</span></figcaption>
+  <div class="chart-box" id="ch-pe"></div>
+  <div class="src">保利物业为作者按 TTM 每股收益与 0.92 汇率示意计算；港股物业板块为市值加权指数。来源〔4〕〔13〕〔15〕〔16〕。</div>
+</figure>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>公司</th><th>市场</th><th>主要业务</th><th>收入（最近财年）</th><th class="n">增速</th><th>利润率</th><th>市盈率</th><th>股息率</th></tr></thead><tbody><tr><td>保利物业</td><td>中国</td><td>住宅、公服、商办物管</td><td>171 亿元（2025）</td><td class="n">+4.8%</td><td>毛利率 17.4%，净利率 9.2%</td><td>约 8.4 倍（10/22）</td><td>约 5.8%</td></tr><tr><td>华润万象生活</td><td>中国</td><td>商业运营 + 物管</td><td>上半年净利润约 23 亿元</td><td class="n">—</td><td>毛利率约 38%</td><td>约 20 倍（7 月）</td><td>约 4.9%</td></tr><tr><td>万物云</td><td>中国</td><td>住宅物管 + 商企服务</td><td>上半年 191.1 亿元</td><td class="n">+5.4%</td><td>—</td><td>约 27 倍（7 月）</td><td>—</td></tr><tr><td>FirstService</td><td>北美</td><td>住宅社区管理 + 家居服务品牌</td><td>约 55 亿美元（2025）</td><td class="n">+5%（住宅 +7%）</td><td>调整后 EBITDA 10.2%</td><td>约 39 倍（10/15）</td><td>约 0.9%</td></tr><tr><td>CBRE</td><td>全球</td><td>商业地产服务（含设施管理）</td><td>约 406 亿美元（2025）</td><td class="n">+13%</td><td>核心 EBITDA 约 8%</td><td>约 35 倍（8 月）</td><td>不派息</td></tr><tr><td>ISS</td><td>欧洲为主</td><td>综合设施服务</td><td>847 亿丹麦克朗（2025）</td><td class="n">内生 +4.3%</td><td>经营利润率 5.0%</td><td>—</td><td>—</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-2">〔2〕</a><a class="cite" href="#src-13">〔13〕</a><a class="cite" href="#src-14">〔14〕</a><a class="cite" href="#src-15">〔15〕</a><a class="cite" href="#src-16">〔16〕</a><a class="cite" href="#src-17">〔17〕</a>。JLL 同期市盈率约 17 倍<a class="cite" href="#src-16">〔16〕</a>。各公司口径不同（净利率、EBITDA 利润率、经营利润率），只作量级比较；CBRE 利润率为作者按核心 EBITDA 与收入计算。</p>
+<h3>8.5 关键差异</h3>
+<ol><li><b>收费机制与风险承担。</b> 中国住宅以包干制为主，物业公司收取固定物业费、承担全部成本和收缴风险；美国和日本由业主组织（社区协会、管理组合）掌握预算，管理公司收取管理费，维修储备金归业主组织所有，收不到会费首先是业主组织的问题。结果是：海外管理公司单位收入更低，但利润和现金流更稳定；中国物企在收缴率下降、成本上升时直接受损。</li><li><b>业主组织的成熟度。</b> 美国社区协会和日本管理组合是成熟的制度安排，有董事会、预算、储备金和专业顾问；中国业主大会和业委会的组建与运作仍不普遍，矛盾往往以拒缴、诉讼、更换物业的方式爆发（一季度纠纷 +37%）<a class="cite" href="#src-11">〔11〕</a>。</li><li><b>增长来源。</b> 海外龙头的增长主要来自三方面：价格随人工成本上调（日本管理费 +2.3%、ISS 内生增长主要来自提价）、楼龄带来的维修与更新需求（日本修缮工程市场已超过管理费市场）、以及小规模并购<a class="cite" href="#src-17">〔17〕</a><a class="cite" href="#src-19">〔19〕</a>。中国物企过去的增长来自开发商交付带来的面积扩张；现在面积增速放缓，而价格在下行，增长模式需要切换。</li><li><b>利润率。</b> 海外龙头的利润率并不高：FirstService 住宅板块 EBITDA 利润率约 10%，ISS 经营利润率 5%<a class="cite" href="#src-15">〔15〕</a><a class="cite" href="#src-17">〔17〕</a>。保利物业净利率 9.2%，并不比它们差。差距不在利润率，而在增长的确定性和风险结构。</li><li><b>估值。</b> FirstService 约 39 倍、CBRE 约 35 倍市盈率，保利物业约 8.4 倍<a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-15">〔15〕</a><a class="cite" href="#src-16">〔16〕</a>。海外龙头的高估值来自：多年稳定的内生增长加并购；轻资产、现金转化透明；没有关联方风险；业主组织制度降低了收费不确定性。中国物企的折价来自：关联方依赖、应收账款高企（上市物企应收相当于半年营收的 71%）、物业费受管制且下行、以及部分企业的治理问题<a class="cite" href="#src-9">〔9〕</a>。</li></ol>
+<h3>8.6 对保利物业的启示</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>海外经验</th><th>保利物业的对应</th><th>可行性</th></tr></thead><tbody><tr><td>设施服务外包（ISS、CBRE）</td><td>公共服务已占物管收入约四分之一，政府、学校、医院、机场经验丰富</td><td>高：央企背景有利于获取政府和国企客户</td></tr><tr><td>楼龄老化带来的维修与更新（日本）</td><td>2000 年后建成的大量小区将进入大修期；可发展维修、改造、加装电梯等业务</td><td>中：受维修资金使用规则和业主决策效率约束</td></tr><tr><td>透明定价、按成本调价</td><td>推动酬金制或费用公开，用服务分级换取合理价格</td><td>中低：当前降费压力大，需要政策配合</td></tr><tr><td>小规模并购（FirstService）</td><td>账上现金充足，可收购区域性优质物企</td><td>中：行业过去的并购留下较多商誉问题，需谨慎定价</td></tr><tr><td>稳定且可增长的股东回报</td><td>当前派息率 50%，经营现金流覆盖净利润 1 倍以上</td><td>高：有提升派息率的空间</td></tr></tbody></table></div>
+<h3>8.7 小结</h3>
+<p>和海外比，中国物业行业的问题不是“利润率太低”，而是“增长靠面积、风险在物企”。保利物业的利润率、现金流和治理在国内属于上游，最接近海外“稳健服务公司”的形态；它要获得更高估值，关键是证明在母公司交付减少后，第三方和公共服务能带来持续、可预期的增长，以及在价格下行的环境下守住利润率。</p>
+</section>
+<section id="tam">
+<h2><span class="no">09</span>市场空间（TAM）</h2>
+<p class="lede">行业总量足够大，保利物业的份额仍很低；未来空间取决于“量”能否靠第三方维持、“价”能否企稳。</p>
+<h3>9.1 份额</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>口径</th><th>行业</th><th>保利物业</th><th>份额（示意）</th></tr></thead><tbody><tr><td>管理面积（2025 年末）</td><td>约 327 亿平方米</td><td>8.55 亿平方米</td><td>约 2.6%</td></tr><tr><td>营业收入（2025 年）</td><td>约 1.83 万亿元</td><td>171 亿元</td><td>约 0.9%</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-2">〔2〕</a><a class="cite" href="#src-8">〔8〕</a>。</p>
+<h3>9.2 增长情景（示意）</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>情景</th><th>物管收入增速</th><th class="n">增值服务增速</th><th>收入增速（年）</th></tr></thead><tbody><tr><td>悲观</td><td>+5%（面积增长放缓、降费扩散）</td><td class="n">−15%</td><td>约 +1%</td></tr><tr><td>基准</td><td>+9%</td><td class="n">−10%</td><td>约 +5%</td></tr><tr><td>乐观</td><td>+12%（维持 2025 年水平）</td><td class="n">持平</td><td>约 +10%</td></tr></tbody></table></div>
+<p><b>说明：</b> 按 2026 年上半年收入结构（物管约 80%、增值服务约 20%）粗略推算，不是预测。物管收入增速取决于在管面积增长、新项目单价和降费幅度。可以用实际数据验证这个框架：2025 年物管收入增长 12.6%、增值服务合计下降约 15%，加权后全年收入增长约 4.8%，与实际一致。也就是说，只要增值服务继续两位数下滑，即使物管收入保持 10% 以上的增长，整体增速也只有 5% 左右。</p>
+<h3>9.3 渗透方向</h3>
+<ol><li><b>第三方住宅：</b> 核心 50 城、大项目，避免低价竞标。</li><li><b>公共服务与城市服务：</b> 政府办公、学校、医院、交通枢纽、城镇景区。</li><li><b>商办与产业园：</b> 企业客户付费能力强、收缴率高。</li><li><b>维修与更新服务：</b> 面向老旧小区和楼龄较长的项目。</li></ol>
+</section>
+<section id="risks">
+<h2><span class="no">10</span>风险评估</h2>
+<h3>10.1 风险总表</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th class="n">#</th><th>风险</th><th>类别</th><th>严重度</th><th>可能性</th></tr></thead><tbody><tr><td class="n">1</td><td>关联方交付减少</td><td>公司特有</td><td><span class="pill warn"><i></i>中高</span></td><td><span class="pill crit"><i></i>高</span></td></tr><tr><td class="n">2</td><td>第三方外拓的盈利质量</td><td>公司特有</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">3</td><td>增值服务持续下滑</td><td>公司特有</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill crit"><i></i>高</span></td></tr><tr><td class="n">4</td><td>管理层更替与战略连续性</td><td>公司特有</td><td><span class="pill good"><i></i>低至中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">5</td><td>物业费下行与价格管制</td><td>行业与市场</td><td><span class="pill crit"><i></i>高</span></td><td><span class="pill warn"><i></i>中高</span></td></tr><tr><td class="n">6</td><td>收缴率下降与应收账款</td><td>行业与市场</td><td><span class="pill warn"><i></i>中高</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">7</td><td>竞争加剧与退盘</td><td>行业与市场</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">8</td><td>毛利率持续下降</td><td>财务</td><td><span class="pill warn"><i></i>中高</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">9</td><td>减值与资本配置</td><td>财务</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill good"><i></i>低至中</span></td></tr><tr><td class="n">10</td><td>人工成本上升</td><td>财务</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill crit"><i></i>高</span></td></tr><tr><td class="n">11</td><td>房地产周期与居民收入</td><td>宏观</td><td><span class="pill warn"><i></i>中高</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">12</td><td>汇率与港股流动性</td><td>宏观</td><td><span class="pill good"><i></i>低至中</span></td><td><span class="pill warn"><i></i>中</span></td></tr></tbody></table></div>
+<p>严重度与可能性为作者的定性判断。</p>
+<h3>10.2 公司特有风险</h3>
+<p><b>风险 1：关联方交付减少（中高）。</b> 来自保利发展项目的物管收入仍占 53.5%。保利发展 2026 年前三季度签约额下降 10%，9 月单月下降 21%<a class="cite" href="#src-7">〔7〕</a>，这会在 2027–2028 年体现为交付面积减少，进而拖累面积增长和非业主增值服务。缓释因素：央企母公司信用稳健，存量项目仍在持续交付；第三方已占在管面积的三分之二。</p>
+<p><b>风险 2：第三方外拓的盈利质量（中）。</b> 第三方面积占比 67%，收入占比只有 47%，说明外拓项目单价较低。若为追求规模而低价竞标，可能出现“面积增长、利润不增”。缓释因素：公司强调核心城市和千万元以上大项目<a class="cite" href="#src-1">〔1〕</a>。</p>
+<p><b>风险 3：增值服务持续下滑（中）。</b> 2026 年上半年非业主增值服务 −16.7%、社区增值服务 −14.4%<a class="cite" href="#src-1">〔1〕</a>。这两项毛利率较高，持续下滑会拖累整体利润率。缓释因素：两者合计占收入的比重已降至约 20%，对整体的拖累在减弱。</p>
+<p><b>风险 4：管理层更替与战略连续性（低至中）。</b> 三年两换总经理，新任总经理来自地产运营条线<a class="cite" href="#src-6">〔6〕</a>。若战略重心偏向服务母公司，可能影响第三方业务的独立性。</p>
+<h3>10.3 行业与市场风险</h3>
+<p><b>风险 5：物业费下行与价格管制（高）。</b> 降费正在从个别小区扩散到区域，政府指导价限制了提价空间<a class="cite" href="#src-11">〔11〕</a>。物业费每下降 1%，按 2025 年物管收入 131.5 亿元示意计算，收入减少约 1.3 亿元，而成本难以同步下降。</p>
+<p><b>风险 6：收缴率下降与应收账款（中高）。</b> 百强企业收缴率降至 87% 左右，上市物企应收账款相当于半年营收的 71%<a class="cite" href="#src-8">〔8〕</a><a class="cite" href="#src-9">〔9〕</a>。收缴率下降会推高应收账款和减值风险。缓释因素：保利物业的关联方应收风险低，经营现金流覆盖净利润 1 倍以上<a class="cite" href="#src-2">〔2〕</a>。</p>
+<p><b>风险 7：竞争加剧与退盘（中）。</b> 业主更换物业的门槛降低，2025 年退盘超过 500 个项目<a class="cite" href="#src-8">〔8〕</a>。第三方市场的招投标竞争也在加剧。</p>
+<h3>10.4 财务风险</h3>
+<p><b>风险 8：毛利率持续下降（中高）。</b> 2025 年毛利率 17.4%，同比下降 0.8 个百分点；2025 年上半年为 19.4%，低于同期 62 家上市物企均值 22.4%<a class="cite" href="#src-2">〔2〕</a><a class="cite" href="#src-3">〔3〕</a><a class="cite" href="#src-9">〔9〕</a>。若降费、人工成本上升和增值服务下滑同时发生，毛利率可能继续下行。</p>
+<p><b>风险 9：减值与资本配置（中）。</b> 公司账上现金充足，若用于高价并购，可能重蹈行业过去的商誉减值覆辙。缓释因素：上市以来公司并购相对克制。</p>
+<p><b>风险 10：人工成本上升（中）。</b> 物业是劳动密集型行业，最低工资和社保基数上调会直接推高成本；百强企业员工成本在人数下降的情况下仍上升 2.26%<a class="cite" href="#src-8">〔8〕</a>。</p>
+<h3>10.5 宏观风险</h3>
+<p><b>风险 11：房地产周期与居民收入（中高）。</b> 房价下行削弱业主的缴费意愿和增值服务需求，也拖累开发商交付。</p>
+<p><b>风险 12：汇率与港股流动性（低至中）。</b> 公司收入为人民币、股价为港元；港股物业板块流动性和估值受外资和南向资金影响较大。</p>
+</section>
+<section id="agenda">
+<h2><span class="no">11</span>未来规划与跟踪议程</h2>
+<ul class="tl"><li><div class="when">每月</div><b>保利发展销售简报</b><div class="small muted">关联方未来交付面积的领先指标<a class="cite" href="#src-7">〔7〕</a></div></li><li><div class="when">2026 年第四季度</div><b>第三方外拓与新签合同</b><div class="small muted">全年新签合同额能否超过 2025 年</div></li><li><div class="when">2027 年 3 月</div><b>2026 年度业绩</b><div class="small muted">收入与利润增速、毛利率、派息率（是否高于 50%）</div></li><li><div class="when">持续</div><b>物业费政策与降费</b><div class="small muted">一二线城市是否跟进降费</div></li><li><div class="when">持续</div><b>新任总经理的战略</b><div class="small muted">第三方与公共服务的定位、并购与分红政策</div></li></ul>
+<p><b>接下来最值得跟踪的五个指标：</b></p>
+<ol><li><b>第三方新签合同额与在管面积增速：</b> 判断增长能否摆脱关联方。</li><li><b>毛利率：</b> 判断降费和成本上升的影响是否可控。</li><li><b>增值服务降幅：</b> 判断地产拖累是否见底。</li><li><b>收缴率与应收账款：</b> 判断经营质量。</li><li><b>派息率：</b> 判断股东回报能否提升，这是当前估值的主要支撑。</li></ol>
+</section>
+<section id="sources">
+<h2><span class="no">附录</span>数据来源</h2>
+<p class="src">访问说明：港交所披露易和公司公告原文在本运行环境中无法直接打开，以下链接未能逐一打开核对，相关数字来自转载与摘要。检索日期均为 2026 年 11 月 2 日。</p>
+<p class="srcgroup">公司业绩与行情</p>
+<ol class="foot"><li id="src-1" value="1">2026 年中期业绩：每日经济新闻 <a href="https://www.mrjjxw.com/articles/2026-08-25/4555377.html" target="_blank" rel="noopener">mrjjxw.com</a> ；腾讯新闻 <a href="https://news.qq.com/rain/a/20260826A03XBG00" target="_blank" rel="noopener">news.qq.com</a> ；格隆汇（东方证券点评） <a href="https://m.gelonghui.com/news/5318014" target="_blank" rel="noopener">m.gelonghui.com</a> ；格隆汇 <a href="https://m.gelonghui.com/news/5301013" target="_blank" rel="noopener">m.gelonghui.com</a> ；GPLP <a href="https://www.gplp.cn/archives/155813" target="_blank" rel="noopener">gplp.cn</a></li><li id="src-2" value="2">2025 年度业绩与研报：东方财富研报 <a href="https://pdf.dfcfw.com/pdf/H3_AP202604031821008859_1.pdf" target="_blank" rel="noopener">pdf.dfcfw.com</a> ；<a href="https://pdf.dfcfw.com/pdf/H3_AP202604061821029447_1.pdf" target="_blank" rel="noopener">pdf.dfcfw.com</a> ；<a href="https://pdf.dfcfw.com/pdf/H3_AP202605111822149285_1.pdf" target="_blank" rel="noopener">pdf.dfcfw.com</a> ；格隆汇 <a href="https://m.gelonghui.com/news/5200382" target="_blank" rel="noopener">m.gelonghui.com</a></li><li id="src-3" value="3">2025 年中期与业态拆分：澎湃新闻 <a href="https://m.thepaper.cn/detail/31471687" target="_blank" rel="noopener">m.thepaper.cn</a> ；东方财富研报 <a href="https://pdf.dfcfw.com/pdf/H3_AP202508271735258678_1.pdf" target="_blank" rel="noopener">pdf.dfcfw.com</a> ；<a href="https://pdf.dfcfw.com/pdf/H3_AP202509021737934521_1.pdf" target="_blank" rel="noopener">pdf.dfcfw.com</a></li><li id="src-4" value="4">行情与目标价：理杏仁 <a href="https://www.lixinger.com/equity/company/detail/hk/06049/6049/announcement" target="_blank" rel="noopener">lixinger.com</a> ；明报财经 <a href="https://finance.mingpao.com/fin/stock1.php?code=6049" target="_blank" rel="noopener">finance.mingpao.com</a> ；Yahoo Finance <a href="https://finance.yahoo.com/quote/6049.HK/" target="_blank" rel="noopener">finance.yahoo.com</a> ；同花顺（里昂目标价 37.1 港元） <a href="https://stock.10jqka.com.cn/20260610/c677350692.shtml" target="_blank" rel="noopener">stock.10jqka.com.cn</a> ；同花顺（8 月 25 日股价） <a href="https://stock.10jqka.com.cn/20260825/c679260747.shtml" target="_blank" rel="noopener">stock.10jqka.com.cn</a></li><li id="src-5" value="5">历史与上市：华尔街见闻 <a href="https://wallstreetcn.com/articles/3512688" target="_blank" rel="noopener">wallstreetcn.com</a> ；中证网 <a href="https://cs.com.cn/ssgs/gsxw/201912/t20191220_6010187.html" target="_blank" rel="noopener">cs.com.cn</a> ；北京商报 <a href="https://www.bbtnews.com.cn/2019/0424/297379.shtml" target="_blank" rel="noopener">bbtnews.com.cn</a> ；赢商网 <a href="https://m.winshang.com/news656429.html" target="_blank" rel="noopener">m.winshang.com</a></li><li id="src-6" value="6">管理层：澎湃新闻（王英男） <a href="https://m.thepaper.cn/newsDetail_forward_32490285" target="_blank" rel="noopener">m.thepaper.cn</a> ；每日经济新闻 <a href="https://www.nbd.com.cn/articles/2026-01-30/4243650.html" target="_blank" rel="noopener">nbd.com.cn</a> ；界面新闻（吴兰玉） <a href="https://m.jiemian.com/article/13186460.html" target="_blank" rel="noopener">m.jiemian.com</a> ；蓝鲸新闻 <a href="https://www.lanjinger.com/d/200564" target="_blank" rel="noopener">lanjinger.com</a> ；瑞财经 <a href="https://m.rccaijing.com/news-7422583078650574678.html" target="_blank" rel="noopener">m.rccaijing.com</a> ；理杏仁 <a href="https://www.lixinger.com/equity/company/detail/hk/06049/6049/senior-executive/resume" target="_blank" rel="noopener">lixinger.com</a></li><li id="src-7" value="7">保利发展销售：东方财富 <a href="https://finance.eastmoney.com/a/202610163898416785.html" target="_blank" rel="noopener">finance.eastmoney.com</a> ；同花顺 <a href="https://news.10jqka.com.cn/20260828/c679380348.shtml" target="_blank" rel="noopener">news.10jqka.com.cn</a></li></ol>
+<p class="srcgroup">行业</p>
+<ol class="foot"><li id="src-8" value="8">行业规模与百强数据：东方财富 <a href="https://finance.eastmoney.com/a/202604243718397388.html" target="_blank" rel="noopener">finance.eastmoney.com</a> ；财联社 <a href="https://www.cls.cn/detail/2337976" target="_blank" rel="noopener">cls.cn</a> ；腾讯新闻 <a href="https://news.qq.com/rain/a/20260424A05JPM00" target="_blank" rel="noopener">news.qq.com</a> ；中华网 <a href="https://m.tech.china.com/redian/2026/0610/062026_1890102.html" target="_blank" rel="noopener">m.tech.china.com</a></li><li id="src-9" value="9">上市物企 2026 年中报：新浪财经（中指研究院） <a href="https://finance.sina.com.cn/stock/relnews/hk/2026-09-01/doc-iniqipiu1625425.shtml" target="_blank" rel="noopener">finance.sina.com.cn</a> ；搜狐 <a href="https://www.sohu.com/a/1084876835_655634" target="_blank" rel="noopener">sohu.com</a> ；腾讯新闻（毛利榜） <a href="https://news.qq.com/rain/a/20260908A0C90000" target="_blank" rel="noopener">news.qq.com</a> ；搜狐（净利榜） <a href="https://m.sohu.com/a/1073644575_100032554/" target="_blank" rel="noopener">m.sohu.com</a> ；房天下 <a href="https://fdc.fang.com/news/2026-09-04/55060075.htm" target="_blank" rel="noopener">fdc.fang.com</a> ；腾讯新闻 <a href="https://news.qq.com/rain/a/20260907A09KU300" target="_blank" rel="noopener">news.qq.com</a></li><li id="src-10" value="10">在管面积排名：新京报 <a href="https://www.bjnews.com.cn/detail/1756990815168697.html" target="_blank" rel="noopener">bjnews.com.cn</a> ；虎嗅 <a href="https://m.huxiu.com/article/4891165.html" target="_blank" rel="noopener">m.huxiu.com</a> ；界面新闻 <a href="https://m.jiemian.com/article/15058005.html" target="_blank" rel="noopener">m.jiemian.com</a></li><li id="src-11" value="11">降费、收缴与纠纷：同花顺（增城） <a href="https://news.10jqka.com.cn/20260725/c678428688.shtml" target="_blank" rel="noopener">news.10jqka.com.cn</a> ；36 氪 <a href="https://www.36kr.com/p/3918949744045702" target="_blank" rel="noopener">36kr.com</a> ；网易 <a href="https://www.163.com/dy/article/L3LAIOF805566SDU.html" target="_blank" rel="noopener">163.com</a> ；新浪财经 <a href="https://finance.sina.cn/2026-04-26/detail-inhvveai3259017.d.html" target="_blank" rel="noopener">finance.sina.cn</a> ；人民网 <a href="https://paper.people.com.cn/zgcsb/pc/content/202506/23/content_30081421.html" target="_blank" rel="noopener">paper.people.com.cn</a> ；新华网 <a href="https://www.news.cn/fortune/20250619/c42bebd610ae4ff9ab31caab08f199e5/c.html" target="_blank" rel="noopener">news.cn</a></li><li id="src-12" value="12">恒大物业存款质押：财联社 <a href="https://www.cls.cn/detail/1268262" target="_blank" rel="noopener">cls.cn</a> ；界面新闻 <a href="https://www.jiemian.com/article/7239587.html" target="_blank" rel="noopener">jiemian.com</a></li><li id="src-13" value="13">港股物业板块估值：理杏仁 <a href="https://www.lixinger.com/equity/industry/detail/hk/H601050/17601050/fundamental/valuation" target="_blank" rel="noopener">lixinger.com</a></li><li id="src-14" value="14">同业中报：碧桂园服务（财新） <a href="https://companies.caixin.com/2026-08-26/102478316.html" target="_blank" rel="noopener">companies.caixin.com</a> ；碧桂园服务（新京报） <a href="https://www.bjnews.com.cn/detail/1787752026129447.html" target="_blank" rel="noopener">bjnews.com.cn</a> ；万物云（新华网） <a href="https://www.news.cn/jiaju/20260814/3f78b1796ea4459f938efe3a4a88f088/c.html" target="_blank" rel="noopener">news.cn</a> ；万物云派息（中金在线） <a href="http://house.cnfol.com/fangchanyaowen/20260813/32334412.shtml" target="_blank" rel="noopener">house.cnfol.com</a> ；绿城服务（瑞财经） <a href="https://m.rccaijing.com/news-7496495855106192656.html" target="_blank" rel="noopener">m.rccaijing.com</a> ；建发物业（搜狐） <a href="https://www.sohu.com/a/1068452186_121956422" target="_blank" rel="noopener">sohu.com</a> ；恒大物业（腾讯新闻） <a href="https://news.qq.com/rain/a/20260909A055WE00" target="_blank" rel="noopener">news.qq.com</a> ；华润置地（Investing.com） <a href="https://cn.investing.com/news/stock-market-news/article-3543717" target="_blank" rel="noopener">cn.investing.com</a></li></ol>
+<p class="srcgroup">海外</p>
+<ol class="foot"><li id="src-15" value="15">FirstService：2025 年业绩（SEC 6-K） <a href="https://www.sec.gov/Archives/edgar/data/1637810/000117184326000619/exh_991.htm" target="_blank" rel="noopener">sec.gov</a> ；Barchart <a href="https://www.barchart.com/story/news/17515/firstservice-reports-fourth-quarter-and-full-year-results" target="_blank" rel="noopener">barchart.com</a> ；Panabee（2026 年上半年） <a href="https://www.panabee.com/news/firstservice-earnings-q1-2026" target="_blank" rel="noopener">panabee.com</a> ；Yahoo Finance <a href="https://finance.yahoo.com/quote/FSV" target="_blank" rel="noopener">finance.yahoo.com</a> ；Motley Fool <a href="https://www.fool.com/quote/NASDAQ/FSV" target="_blank" rel="noopener">fool.com</a></li><li id="src-16" value="16">CBRE 与 JLL：Business Wire <a href="https://www.businesswire.com/news/home/20260212253465/en" target="_blank" rel="noopener">businesswire.com</a> ；MarketChameleon <a href="https://marketchameleon.com/articles/b/2026/2/13/cbre-record-revenue-2025-segment-growth-double-digit-eps-guidance" target="_blank" rel="noopener">marketchameleon.com</a> ；AInvest <a href="https://www.ainvest.com/news/cbre-jll-valuation-spread-hard-ignore-2608/" target="_blank" rel="noopener">ainvest.com</a></li><li id="src-17" value="17">ISS：公司公告 <a href="https://www.issworld.com/en/news/2026/02/19/annual-report-2025" target="_blank" rel="noopener">issworld.com</a> ；TwinFM <a href="https://www.twinfm.com/article/iss-announces-2025-financial-results-and-2026-outlook" target="_blank" rel="noopener">twinfm.com</a> ；Inderes <a href="https://www.inderes.dk/en/research/iss-one-pager-compounding-capital-return-with-targeted-organic-growth-strategy" target="_blank" rel="noopener">inderes.dk</a></li><li id="src-18" value="18">美国社区协会：FCAR《2025 Statistical Review》 <a href="https://foundation.caionline.org/wp-content/uploads/2026/03/2025StatisticalReviewFoundation.pdf" target="_blank" rel="noopener">foundation.caionline.org</a> ；National Law Review <a href="https://natlawreview.com/press-releases/us-surpasses-373000-community-associations-housing-model-reaches-new-heights" target="_blank" rel="noopener">natlawreview.com</a></li><li id="src-19" value="19">日本公寓管理：矢野经济研究所 <a href="https://www.yano.co.jp/press-release/show/press_id/3933" target="_blank" rel="noopener">yano.co.jp</a> ；国土交通省 <a href="https://www.mlit.go.jp/jutakukentiku/house/content/001623967.pdf" target="_blank" rel="noopener">mlit.go.jp</a> ；东京都港区资料 <a href="https://www.city.minato.tokyo.jp/documents/112733/20260403094530.pdf" target="_blank" rel="noopener">city.minato.tokyo.jp</a> ；不动产流通推进中心 <a href="https://www.retpc.jp/wp-content/uploads/toukei/202509/202509_5kanri.pdf" target="_blank" rel="noopener">retpc.jp</a></li></ol>
+<div class="disclaimer">免责声明：本报告基于公开信息和作者的整理与计算，用于研究与学习目的，不构成任何投资建议。部分数据（行业统计、同业数据、海外公司估值、股价）来自二手媒体或数据平台，可能与原始披露存在差异；标注“示意”的测算依赖假设，实际结果可能显著不同。</div>
+</section>
+</main>
+
+<script>
+(function () {
+  var links = Array.prototype.slice.call(document.querySelectorAll('.rail a'));
+  var byId = {};
+  links.forEach(function (a) { byId[a.getAttribute('href').slice(1)] = a; });
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        links.forEach(function (a) { a.classList.remove('on'); });
+        var a = byId[e.target.id];
+        if (a) {
+          a.classList.add('on');
+          var rail = a.parentNode;
+          rail.scrollTo({ left: Math.max(0, a.offsetLeft - rail.clientWidth / 2 + a.clientWidth / 2), behavior: 'auto' });
+        }
+      });
+    }, { rootMargin: '-45% 0px -50% 0px' });
+    document.querySelectorAll('main section').forEach(function (s) { io.observe(s); });
+  }
+
+  var NS = 'http://www.w3.org/2000/svg';
+  function E(tag, attrs, parent) {
+    var e = document.createElementNS(NS, tag);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(e);
+    return e;
+  }
+  function T(parent, x, y, txt, cls, anchor) {
+    var t = E('text', { x: x, y: y, 'class': cls, 'text-anchor': anchor || 'middle' }, parent);
+    t.textContent = txt;
+    return t;
+  }
+  // Horizontal bar from x0 to x1 with the rounded end away from the baseline.
+  function hbarPath(x0, x1, y, h, r) {
+    var left = Math.min(x0, x1), w = Math.max(1, Math.abs(x1 - x0));
+    r = Math.min(r, h / 2, w);
+    if (x1 >= x0) {
+      return 'M' + left + ',' + y + 'H' + (left + w - r) + 'Q' + (left + w) + ',' + y + ' ' + (left + w) + ',' + (y + r) +
+        'V' + (y + h - r) + 'Q' + (left + w) + ',' + (y + h) + ' ' + (left + w - r) + ',' + (y + h) + 'H' + left + 'Z';
+    }
+    var right = left + w;
+    return 'M' + right + ',' + y + 'H' + (left + r) + 'Q' + left + ',' + y + ' ' + left + ',' + (y + r) +
+      'V' + (y + h - r) + 'Q' + left + ',' + (y + h) + ' ' + (left + r) + ',' + (y + h) + 'H' + right + 'Z';
+  }
+  function roundRect(x, y, w, h, r) {
+    r = Math.min(r, w / 2, h / 2);
+    return 'M' + (x + r) + ',' + y + 'H' + (x + w - r) + 'Q' + (x + w) + ',' + y + ' ' + (x + w) + ',' + (y + r) +
+      'V' + (y + h - r) + 'Q' + (x + w) + ',' + (y + h) + ' ' + (x + w - r) + ',' + (y + h) + 'H' + (x + r) +
+      'Q' + x + ',' + (y + h) + ' ' + x + ',' + (y + h - r) + 'V' + (y + r) + 'Q' + x + ',' + y + ' ' + (x + r) + ',' + y + 'Z';
+  }
+  function makeTip(box) {
+    var tt = document.createElement('div');
+    tt.className = 'tt';
+    tt.hidden = true;
+    box.appendChild(tt);
+    return {
+      show: function (head, rows, evt, anchor) {
+        tt.textContent = '';
+        var h = document.createElement('div');
+        h.className = 'tt-h';
+        h.textContent = head;
+        tt.appendChild(h);
+        rows.forEach(function (r) {
+          var row = document.createElement('div');
+          row.className = 'tt-r';
+          var k = document.createElement('span');
+          k.className = 'tt-k ' + r.key;
+          row.appendChild(k);
+          var b = document.createElement('b');
+          b.textContent = r.value;
+          row.appendChild(b);
+          if (r.label) {
+            var l = document.createElement('span');
+            l.className = 'tt-l';
+            l.textContent = r.label;
+            row.appendChild(l);
+          }
+          tt.appendChild(row);
+        });
+        tt.hidden = false;
+        var bb = box.getBoundingClientRect(), px, py;
+        if (evt && evt.clientX != null) { px = evt.clientX - bb.left; py = evt.clientY - bb.top; }
+        else { var ab = anchor.getBoundingClientRect(); px = ab.left - bb.left + ab.width / 2; py = ab.top - bb.top; }
+        var tw = tt.offsetWidth, th = tt.offsetHeight, left = px + 12;
+        if (left + tw > box.clientWidth) left = px - tw - 12;
+        if (left < 0) left = Math.max(0, (box.clientWidth - tw) / 2);
+        var top = py - th - 10;
+        if (top < 0) top = py + 14;
+        tt.style.left = left + 'px';
+        tt.style.top = top + 'px';
+      },
+      hide: function () { tt.hidden = true; }
+    };
+  }
+  function bind(hit, tip, marks, content) {
+    function on(e) {
+      var c = content();
+      tip.show(c.head, c.rows, e, hit);
+      marks.forEach(function (m) { m.classList.add('hot'); });
+    }
+    function off() {
+      tip.hide();
+      marks.forEach(function (m) { m.classList.remove('hot'); });
+    }
+    hit.addEventListener('pointerenter', on);
+    hit.addEventListener('pointermove', on);
+    hit.addEventListener('pointerleave', off);
+    hit.addEventListener('focus', function () { on(null); });
+    hit.addEventListener('blur', off);
+  }
+  function responsive(box, draw) {
+    var lastW = 0;
+    function go() {
+      var w = box.clientWidth;
+      if (!w || w === lastW) return;
+      lastW = w;
+      draw(w);
+    }
+    go();
+    if ('ResizeObserver' in window) new ResizeObserver(go).observe(box);
+    else window.addEventListener('resize', go);
+  }
+  function clear(box, tip) {
+    Array.prototype.slice.call(box.querySelectorAll('svg')).forEach(function (s) { s.remove(); });
+    tip.hide();
+  }
+
+  // Rows of horizontal bars on one axis; negative values extend left of zero.
+  function rows(id, cfg) {
+    var box = document.getElementById(id);
+    if (!box) return;
+    var tip = makeTip(box);
+    responsive(box, function (W) {
+      clear(box, tip);
+      var bh = 14, labelH = 20, rowGap = 12, rowH = labelH + bh + rowGap;
+      var m = { t: 4, r: 64, b: 22, l: cfg.min < 0 ? 52 : 2 };
+      var H = m.t + cfg.data.length * rowH + m.b;
+      var svg = E('svg', { width: W, height: H, viewBox: '0 0 ' + W + ' ' + H, 'class': 'chart', role: 'img', 'aria-label': cfg.aria });
+      box.insertBefore(svg, box.firstChild);
+      var iw = W - m.l - m.r;
+      function x(v) { return m.l + (v - cfg.min) / (cfg.max - cfg.min) * iw; }
+      var bottom = H - m.b;
+      cfg.ticks.forEach(function (t) {
+        E('line', { x1: x(t), x2: x(t), y1: m.t, y2: bottom, 'class': t === 0 ? 'axl' : 'grid' }, svg);
+        T(svg, x(t), bottom + 16, cfg.tick(t), 'ax', t === cfg.min && cfg.min === 0 ? 'start' : 'middle');
+      });
+      cfg.data.forEach(function (d, i) {
+        var y0 = m.t + i * rowH, yb = y0 + labelH;
+        T(svg, m.l + (cfg.min < 0 ? -48 : 4), y0 + 14, d.name, 'lbl', 'start');
+        var cls = d.cls || (d.v < 0 ? 'fneg' : (d.hi === false ? 'fmid' : 'f1'));
+        var mark = E('path', { d: hbarPath(x(0), x(d.v), yb, bh, 4), 'class': 'bar ' + cls }, svg);
+        var lx = d.v < 0 ? x(d.v) - 6 : x(d.v) + 6;
+        T(svg, lx, yb + bh - 3, d.label, 'vlab', d.v < 0 ? 'end' : 'start');
+        var hit = E('rect', { x: m.l - (cfg.min < 0 ? 50 : 0), y: y0, width: W - m.r, height: rowH - rowGap / 2, 'class': 'ov', tabindex: 0, role: 'img', 'aria-label': d.name + '：' + d.tip }, svg);
+        bind(hit, tip, [mark], function () { return { head: d.name, rows: [{ key: cls, value: d.tip, label: '' }] }; });
+      });
+    });
+  }
+
+  // One whole split into blocks, share printed inside each block.
+  function segbar(id, cfg) {
+    var box = document.getElementById(id);
+    if (!box) return;
+    var tip = makeTip(box);
+    responsive(box, function (W) {
+      clear(box, tip);
+      var H = 40, h = 28, gap = 2;
+      var svg = E('svg', { width: W, height: H, viewBox: '0 0 ' + W + ' ' + H, 'class': 'chart', role: 'img', 'aria-label': cfg.aria });
+      box.insertBefore(svg, box.firstChild);
+      var x = 0, total = cfg.parts.reduce(function (s, p) { return s + p.v; }, 0);
+      cfg.parts.forEach(function (p, i) {
+        var w = (W - gap * (cfg.parts.length - 1)) * p.v / total;
+        var mark = E('path', { d: roundRect(x, 6, w, h, 4), 'class': 'bar ' + p.cls }, svg);
+        T(svg, x + 10, 6 + h / 2 + 4.5, p.label, 'seg-t ' + p.ink, 'start');
+        var hit = E('rect', { x: x, y: 0, width: w, height: H, 'class': 'ov', tabindex: 0, role: 'img', 'aria-label': p.name + '：' + p.label }, svg);
+        bind(hit, tip, [mark], function () { return { head: p.name, rows: [{ key: p.cls, value: p.label, label: '' }] }; });
+        x += w + gap;
+      });
+    });
+  }
+
+  rows('ch-seg', {
+    aria: '2026 年上半年各项收入同比增速：第三方物管 +18.4%，物管合计 +11.9%，关联方物管 +6.9%，总收入 +5.2%，社区增值 −14.4%，非业主增值 −16.7%',
+    min: -20, max: 20, ticks: [-20, -10, 0, 10, 20], tick: function (t) { return (t > 0 ? '+' : '') + t + '%'; },
+    data: [
+      { name: '第三方物管收入', v: 18.4, label: '+18.4%', tip: '+18.4%（32.90 亿元）' },
+      { name: '物业管理服务合计', v: 11.9, label: '+11.9%', tip: '+11.9%（70.80 亿元）' },
+      { name: '关联方物管收入', v: 6.9, label: '+6.9%', tip: '+6.9%（37.90 亿元）' },
+      { name: '总收入', v: 5.2, label: '+5.2%', tip: '+5.2%（88.29 亿元）' },
+      { name: '社区增值服务', v: -14.4, label: '−14.4%', tip: '−14.4%（10.30 亿元）' },
+      { name: '非业主增值服务', v: -16.7, label: '−16.7%', tip: '−16.7%（7.19 亿元）' }
+    ]
+  });
+  segbar('ch-conc', {
+    aria: '2026 年上半年上市物企净利润分布：8 家头部企业约 68%，其余 55 家约 32%',
+    parts: [
+      { name: '8 家头部企业', v: 68, label: '68%', cls: 'f1', ink: 'on-dark' },
+      { name: '其余 55 家', v: 32, label: '32%', cls: 'fmid', ink: 'on-light' }
+    ]
+  });
+  rows('ch-gfa', {
+    aria: '在管面积：碧桂园服务 11.86 亿平方米，保利物业 8.96，恒大物业 6.03，绿城服务 5.80，中海物业 4.95',
+    min: 0, max: 14, ticks: [0, 2, 4, 6, 8, 10, 12, 14], tick: function (t) { return String(t); },
+    data: [
+      { name: '碧桂园服务', v: 11.86, label: '11.86', tip: '11.86 亿平方米', hi: false },
+      { name: '保利物业', v: 8.96, label: '8.96', tip: '8.96 亿平方米' },
+      { name: '恒大物业', v: 6.03, label: '6.03', tip: '6.03 亿平方米', hi: false },
+      { name: '绿城服务', v: 5.80, label: '5.80', tip: '5.80 亿平方米', hi: false },
+      { name: '中海物业', v: 4.95, label: '4.95', tip: '4.95 亿平方米', hi: false }
+    ]
+  });
+  rows('ch-pe', {
+    aria: '市盈率：FirstService 约 38.6 倍，CBRE 约 35 倍，万物云约 26.9 倍，华润万象生活约 20.4 倍，港股物业板块约 17.9 倍，JLL 约 17.3 倍，保利物业约 8.4 倍',
+    min: 0, max: 40, ticks: [0, 10, 20, 30, 40], tick: function (t) { return String(t); },
+    data: [
+      { name: 'FirstService（北美）', v: 38.6, label: '38.6', tip: '约 38.6 倍（10/15）', hi: false },
+      { name: 'CBRE（全球）', v: 35.0, label: '35.0', tip: '约 35 倍（8 月）', hi: false },
+      { name: '万物云', v: 26.9, label: '26.9', tip: '约 26.9 倍（7 月）', hi: false },
+      { name: '华润万象生活', v: 20.4, label: '20.4', tip: '约 20.4 倍（7 月）', hi: false },
+      { name: '港股物业板块', v: 17.9, label: '17.9', tip: '约 17.9 倍（7 月，市值加权）', hi: false },
+      { name: 'JLL（全球）', v: 17.3, label: '17.3', tip: '约 17.3 倍（8 月）', hi: false },
+      { name: '保利物业', v: 8.4, label: '8.4', tip: '约 8.4 倍（10/22，示意）' }
+    ]
+  });
+})();
+</script>
+</body>
+</html>
