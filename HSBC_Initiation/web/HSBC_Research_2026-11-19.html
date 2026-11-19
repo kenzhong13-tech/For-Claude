@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>汇丰控股公司研究报告</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="汇丰控股（0005.HK）中文公司研究：香港业务与恒生银行私有化、香港银行业现状、四大业务、管理层、竞争、估值框架与 12 项风险。数据截至 2026 年 11 月 18 日。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap">
+<style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style>
+<style>
+/* Layout: single reading column (research-note style) with full-column figures; sticky section rail on top. */
+:root {
+  --bg: #f4f5f7;
+  --surface: #ffffff;
+  --ink: #121722;
+  --ink2: #465063;
+  --muted: #747d8c;
+  --rule: #e2e5ea;
+  --rule2: #cdd2da;
+  --accent: #2a63d4;
+  --accent-ink: #1d4fb3;
+  --s1: #2a78d6;
+  --s2: #eb6834;
+  --s3: #1baf7a;
+  --s4: #eda100;
+  --s7: #6250d6;
+  --pos: #2a78d6;
+  --neg: #e34948;
+  --mid: #c3c2b7;
+  --grid: #e7e9ed;
+  --axis: #c3c7cf;
+  --good: #0ca30c;
+  --warn: #fab219;
+  --crit: #d03b3b;
+  --info-bg: #edf3fd;
+  --warn-bg: #fff6e3;
+  --crit-bg: #fdeeee;
+  --chip: #eef0f4;
+  --font-body: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Zen Hei", system-ui, sans-serif;
+  --font-display: "Noto Serif SC", "Songti SC", "STSong", "SimSun", "Noto Sans SC", serif;
+  --font-num: "Noto Sans SC", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1015; --surface: #161920; --ink: #eceef2; --ink2: #b9c0cc; --muted: #8a93a3;
+    --rule: #262a33; --rule2: #353b47; --accent: #79a2f2; --accent-ink: #9dbbf6;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s7: #9085e9;
+    --pos: #3987e5; --neg: #e66767; --mid: #4a4d55; --grid: #23272f; --axis: #3a3f4a;
+    --info-bg: #15213a; --warn-bg: #2a2310; --crit-bg: #2d1717; --chip: #222631;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1015; --surface: #161920; --ink: #eceef2; --ink2: #b9c0cc; --muted: #8a93a3;
+  --rule: #262a33; --rule2: #353b47; --accent: #79a2f2; --accent-ink: #9dbbf6;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s7: #9085e9;
+  --pos: #3987e5; --neg: #e66767; --mid: #4a4d55; --grid: #23272f; --axis: #3a3f4a;
+  --info-bg: #15213a; --warn-bg: #2a2310; --crit-bg: #2d1717; --chip: #222631;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.8; margin: 0; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+a { color: var(--accent-ink); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+.wrap { max-width: 1000px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+/* masthead */
+.mast { background: var(--surface); border-bottom: 1px solid var(--rule); }
+.mast .wrap { padding-block: 36px 28px; }
+.mast .kicker { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-size: 13px; color: var(--muted); letter-spacing: .04em; }
+.ticker { font-family: var(--font-num); font-weight: 700; color: var(--ink); background: var(--chip); border-radius: 4px; padding: 1px 8px; letter-spacing: .06em; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(26px, 4.2vw, 40px); line-height: 1.3; margin: 12px 0 8px; text-wrap: balance; }
+.mast .sub { color: var(--ink2); font-size: 15px; margin: 0; max-width: 70ch; }
+.stamp { margin-top: 14px; font-size: 13px; color: var(--muted); }
+
+/* section rail */
+.rail { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 9; background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--rule); }
+.rail .wrap { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; padding-block: 8px; }
+.rail .wrap::-webkit-scrollbar { display: none; }
+.rail a { flex: none; font-size: 13.5px; color: var(--ink2); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.rail a:hover { background: var(--chip); color: var(--ink); }
+.rail a.on { background: var(--ink); color: var(--surface); }
+
+main { padding-block: 8px 64px; }
+section { padding-top: 40px; scroll-margin-top: 56px; }
+h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(21px, 2.6vw, 27px); line-height: 1.4; margin: 0 0 6px; text-wrap: balance; display: flex; gap: 12px; align-items: baseline; }
+h2 .no { font-family: var(--font-num); font-size: 14px; font-weight: 700; color: var(--accent); letter-spacing: .05em; flex: none; }
+h3 { font-family: var(--font-display); font-weight: 600; font-size: 18.5px; line-height: 1.5; margin: 28px 0 6px; }
+.lede { color: var(--ink2); margin: 0 0 14px; }
+p { margin: 10px 0; max-width: 76ch; }
+ul, ol { padding-left: 1.3em; margin: 8px 0; max-width: 76ch; }
+li { margin: 5px 0; }
+.num, td.n, th.n { font-variant-numeric: tabular-nums; font-family: var(--font-num); }
+.neg-t { color: var(--neg); }
+.pos-t { color: var(--pos); }
+.muted { color: var(--muted); }
+.small { font-size: 13px; }
+hr.sep { border: 0; border-top: 1px solid var(--rule); margin: 28px 0; }
+
+/* stat tiles */
+.tiles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); border-radius: 10px; overflow: hidden; margin: 22px 0 6px; }
+.tile { background: var(--surface); padding: 14px 16px 12px; min-width: 0; }
+.tile .lab { font-size: 13px; color: var(--muted); }
+.tile .val { font-size: 26px; font-weight: 700; line-height: 1.25; margin-top: 2px; font-family: var(--font-num); }
+.tile .val small { font-size: 14px; font-weight: 500; color: var(--ink2); }
+.tile .dl { font-size: 12.5px; color: var(--ink2); margin-top: 2px; }
+@media (max-width: 760px) { .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 420px) { .tile .val { font-size: 22px; } }
+
+/* summary list */
+.keypoints { counter-reset: kp; list-style: none; padding: 0; margin: 14px 0 0; display: grid; gap: 10px; max-width: none; }
+.keypoints li { counter-increment: kp; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 12px 16px 12px 52px; position: relative; margin: 0; }
+.keypoints li::before { content: counter(kp); position: absolute; left: 16px; top: 12px; width: 24px; height: 24px; border-radius: 50%; background: var(--ink); color: var(--surface); font: 700 13px/24px var(--font-num); text-align: center; }
+.keypoints b { color: var(--ink); }
+
+/* callouts */
+.callout { display: flex; gap: 12px; align-items: flex-start; border-radius: 10px; padding: 12px 16px; margin: 16px 0; max-width: none; }
+.callout svg { flex: none; margin-top: 4px; }
+.callout > div { min-width: 0; }
+.callout .tag { font-weight: 700; margin-right: 6px; }
+.callout.info { background: var(--info-bg); }
+.callout.info svg { color: var(--accent); }
+.callout.warn { background: var(--warn-bg); }
+.callout.warn svg { color: #b97f00; }
+.callout.crit { background: var(--crit-bg); }
+.callout.crit svg { color: var(--crit); }
+:root[data-theme="dark"] .callout.warn svg { color: var(--warn); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .callout.warn svg { color: var(--warn); } }
+
+/* figures */
+figure { margin: 18px 0 22px; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 14px 16px 10px; min-width: 0; }
+figcaption { font-size: 14.5px; font-weight: 700; color: var(--ink); line-height: 1.5; }
+figcaption .cap-sub { display: block; font-weight: 400; font-size: 13px; color: var(--muted); margin-top: 2px; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 12.5px; color: var(--ink2); margin: 8px 0 2px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { display: inline-block; width: 16px; height: 2.5px; border-radius: 2px; background: currentColor; }
+.legend i.box { width: 10px; height: 10px; border-radius: 2px; }
+.chart-box { position: relative; width: 100%; min-width: 0; touch-action: pan-y; }
+.chart-box svg { display: block; overflow: visible; }
+.src { font-size: 12px; color: var(--muted); margin-top: 6px; line-height: 1.6; }
+.two { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; }
+.two figure { margin: 0; }
+@media (max-width: 760px) { .two { grid-template-columns: minmax(0, 1fr); } }
+.figrow { margin: 18px 0 22px; }
+
+/* chart marks */
+.chart .grid { stroke: var(--grid); stroke-width: 1; }
+.chart .axl { stroke: var(--axis); stroke-width: 1; }
+.chart .ax { fill: var(--muted); font-size: 11.5px; font-family: var(--font-num); }
+.chart .lbl { fill: var(--ink2); font-size: 12px; }
+.chart .vlab { fill: var(--ink2); font-size: 11.5px; font-family: var(--font-num); }
+.chart .vlab-in { fill: #fff; font-size: 11.5px; font-family: var(--font-num); font-weight: 700; }
+.chart .ln { fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart .ln.thin { stroke-width: 1.5; }
+.chart .ref { stroke: var(--ink2); stroke-width: 1; stroke-dasharray: 3 3; opacity: .55; }
+.chart .ref-t { fill: var(--ink2); }
+.chart .zero { stroke: var(--ink2); stroke-width: 1; opacity: .5; }
+.chart .xhair { stroke: var(--ink2); stroke-width: 1; opacity: .45; }
+.chart .ov { fill: transparent; cursor: crosshair; }
+.chart .dot { stroke: var(--surface); stroke-width: 2; }
+.chart .c1 { stroke: var(--s1); } .chart .f1 { fill: var(--s1); }
+.chart .c2 { stroke: var(--s2); } .chart .f2 { fill: var(--s2); }
+.chart .c3 { stroke: var(--s3); } .chart .f3 { fill: var(--s3); }
+.chart .c4 { stroke: var(--s4); } .chart .f4 { fill: var(--s4); }
+.chart .c7 { stroke: var(--s7); } .chart .f7 { fill: var(--s7); }
+.chart .fpos { fill: var(--pos); } .chart .fneg { fill: var(--neg); } .chart .fmid { fill: var(--mid); }
+.chart .dot.c1 { fill: var(--s1); } .chart .dot.c2 { fill: var(--s2); } .chart .dot.c3 { fill: var(--s3); } .chart .dot.c4 { fill: var(--s4); } .chart .dot.c7 { fill: var(--s7); }
+.chart .area1 { fill: var(--s1); opacity: .10; } .chart .area2 { fill: var(--s2); opacity: .10; }
+.chart .pt { fill: var(--s1); opacity: .5; }
+.chart .fit { stroke: var(--s2); stroke-width: 2; fill: none; }
+.chart .bar { cursor: default; }
+.chart .bar:hover, .chart .bar:focus { opacity: .82; outline: none; }
+.chart .mk { stroke: var(--surface); stroke-width: 2; cursor: pointer; }
+.chart .mk:hover, .chart .mk:focus { stroke: var(--ink); outline: none; }
+.chart .mk-t { fill: #fff; font-size: 9.5px; font-weight: 700; font-family: var(--font-num); pointer-events: none; }
+.leg-c1 { color: var(--s1); } .leg-c2 { color: var(--s2); } .leg-c3 { color: var(--s3); } .leg-c4 { color: var(--s4); } .leg-c7 { color: var(--s7); }
+.leg-pos { color: var(--pos); } .leg-neg { color: var(--neg); } .leg-mid { color: var(--mid); }
+.tt { position: absolute; z-index: 5; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--rule2); border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,.12); padding: 7px 10px; font-size: 12.5px; line-height: 1.5; min-width: 120px; max-width: 280px; }
+.tt-h { color: var(--muted); font-size: 12px; margin-bottom: 2px; }
+.tt-r { display: flex; align-items: center; gap: 7px; white-space: nowrap; }
+.tt-r b { font-family: var(--font-num); font-variant-numeric: tabular-nums; }
+.tt-l { color: var(--ink2); white-space: normal; }
+.tt-k { width: 12px; height: 2.5px; border-radius: 2px; flex: none; }
+.tt-k.c1 { background: var(--s1); } .tt-k.c2 { background: var(--s2); } .tt-k.c3 { background: var(--s3); } .tt-k.c4 { background: var(--s4); } .tt-k.c7 { background: var(--s7); }
+.tt-k.fpos { background: var(--pos); } .tt-k.fneg { background: var(--neg); } .tt-k.f1 { background: var(--s1); } .tt-k.f2 { background: var(--s2); } .tt-k.fmid { background: var(--mid); }
+.tt-desc { color: var(--ink2); white-space: normal; margin-top: 3px; }
+
+/* tables */
+.tbl-wrap { overflow-x: auto; margin: 14px 0 18px; border: 1px solid var(--rule); border-radius: 10px; background: var(--surface); }
+table.tbl { border-collapse: collapse; width: 100%; font-size: 13.5px; line-height: 1.55; }
+.tbl caption { caption-side: top; text-align: left; font-weight: 700; padding: 12px 14px 4px; font-size: 14.5px; }
+.tbl th, .tbl td { padding: 7px 12px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+.tbl thead th { color: var(--muted); font-weight: 500; font-size: 12.5px; background: color-mix(in srgb, var(--chip) 55%, var(--surface)); white-space: nowrap; }
+.tbl tbody tr:last-child td { border-bottom: 0; }
+.tbl td.n, .tbl th.n { text-align: right; white-space: nowrap; }
+.tbl tr.sub td { color: var(--ink2); }
+.tbl tr.tot td { font-weight: 700; border-top: 1px solid var(--rule2); }
+.tbl td.w { min-width: 220px; }
+.tbl td.nw { white-space: nowrap; }
+#tbl-scen td:first-child { min-width: 9.5em; }
+.tbl .tag { display: inline-block; font-size: 11.5px; padding: 0 7px; border-radius: 999px; background: var(--chip); color: var(--ink2); white-space: nowrap; }
+.tbl .sig { font-weight: 700; }
+.pill { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; padding: 1px 8px; border-radius: 999px; white-space: nowrap; font-weight: 500; }
+.pill.good { background: color-mix(in srgb, var(--good) 14%, transparent); color: var(--ink); }
+.pill.warn { background: color-mix(in srgb, var(--warn) 22%, transparent); color: var(--ink); }
+.pill.crit { background: color-mix(in srgb, var(--crit) 16%, transparent); color: var(--ink); }
+.pill i { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.pill.good i { background: var(--good); } .pill.warn i { background: var(--warn); } .pill.crit i { background: var(--crit); }
+
+/* flow diagram */
+.flow { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 22px; margin: 16px 0 6px; }
+.flow .st { position: relative; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 10px 12px; font-size: 13.5px; line-height: 1.6; min-width: 0; }
+.flow .st b { display: block; font-size: 13px; color: var(--accent); font-family: var(--font-num); }
+.flow .st:not(:last-child)::after { content: "→"; position: absolute; right: -18px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 16px; }
+@media (max-width: 760px) {
+  .flow { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  .flow .st:not(:last-child)::after { content: "↓"; right: auto; left: 50%; top: auto; bottom: -21px; transform: translateX(-50%); }
+}
+
+/* timeline */
+.tl { list-style: none; padding: 0; margin: 14px 0; max-width: none; border-left: 2px solid var(--rule2); }
+.tl li { position: relative; padding: 4px 0 12px 20px; margin: 0; }
+.tl li::before { content: ""; position: absolute; left: -7px; top: 12px; width: 12px; height: 12px; border-radius: 50%; background: var(--surface); border: 2px solid var(--accent); }
+.tl .when { font-family: var(--font-num); font-weight: 700; font-size: 13.5px; color: var(--accent-ink); }
+.grid2 { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px 16px; margin: 12px 0; }
+.card { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 12px 16px; min-width: 0; }
+.card h4 { margin: 0 0 4px; font-size: 15px; font-family: var(--font-display); }
+.card p, .card ul { font-size: 14.5px; margin: 4px 0; }
+@media (max-width: 760px) { .grid2 { grid-template-columns: minmax(0, 1fr); } }
+
+.formula { font-family: var(--font-num); background: var(--chip); border-radius: 8px; padding: 10px 14px; overflow-x: auto; font-size: 14px; margin: 10px 0; max-width: none; line-height: 1.7; }
+.foot { font-size: 12.5px; color: var(--muted); line-height: 1.7; }
+.foot ol { max-width: none; }
+.foot li { word-break: break-word; }
+.disclaimer { border-top: 1px solid var(--rule); margin-top: 36px; padding-top: 14px; font-size: 12.5px; color: var(--muted); }
+
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; } }
+@page { size: A4; margin: 12mm 11mm; }
+@media print {
+  body { background: #fff; font-size: 11.5pt; }
+  .chart-box svg { max-width: 100%; height: auto; }
+  .tbl-wrap { overflow: visible; }
+  table.tbl { font-size: 9pt; }
+  .tbl th, .tbl td { padding: 5px 6px; }
+  .tbl thead th { white-space: normal; }
+  .rail { display: none; }
+  .mast { border: 0; }
+  figure, .callout, .card, .keypoints li, .flow, .two { break-inside: avoid; }
+  .tbl tr, .tbl caption { break-inside: avoid; }
+  section { padding-top: 18px; }
+  h2, h3 { break-after: avoid; }
+  .tt { display: none !important; }
+}
+/* 汇丰控股 edition: harbour-teal headings and navigation; chart palette unchanged. */
+:root { --accent: #0f6e6a; --accent-ink: #0b5753; --info-bg: #e7f3f2; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #6cc5bf; --accent-ink: #95d9d4; --info-bg: #10211f; } }
+:root[data-theme="dark"] { --accent: #6cc5bf; --accent-ink: #95d9d4; --info-bg: #10211f; }
+.tiles.t4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 760px) { .tiles.t4 { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.tile .val { font-variant-numeric: normal; }
+a.cite { font-size: 11px; color: var(--muted); text-decoration: none; font-family: var(--font-num); white-space: nowrap; }
+a.cite:hover, a.cite:focus-visible { color: var(--accent-ink); text-decoration: underline; }
+.chart .bar.hot { opacity: .78; }
+.chart .ov { cursor: default; }
+.chart .ov:focus { outline: none; }
+.chart .ov:focus-visible { fill: var(--chip); fill-opacity: .5; stroke: var(--accent); stroke-width: 1.5; }
+.chart .seg-t { font-size: 12.5px; font-weight: 700; font-family: var(--font-num); }
+.chart .seg-t.on-dark { fill: #fff; }
+.chart .seg-t.on-light { fill: var(--mid-ink); }
+:root { --mid-ink: #121722; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --mid-ink: #ffffff; } }
+:root[data-theme="dark"] { --mid-ink: #ffffff; }
+.legend span[class^="leg-"] { color: var(--ink2); }
+.legend .leg-c1 i { background: var(--s1); }
+.legend .leg-mid i { background: var(--mid); }
+.srcgroup { font-weight: 700; color: var(--ink2); margin: 20px 0 4px; font-size: 13.5px; max-width: none; }
+.foot li { margin: 6px 0; }
+.tbl td.w { min-width: 240px; }
+.tbl td:first-child:not(.n) { min-width: 6.5em; }
+.tl .small { margin-top: 2px; }
+.tl b { font-weight: 500; }
+code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .92em; background: var(--chip); border-radius: 4px; padding: 0 4px; overflow-wrap: anywhere; }
+section > p, section > ul, section > ol { overflow-wrap: anywhere; }
+</style>
+</head>
+<body>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="kicker"><span class="ticker">HKEX: 00005</span><span>银行 · 香港最大银行集团 · 港伦双重主要上市</span><span>首次覆盖 · 任务 1 公司研究</span></div>
+    <h1>汇丰控股公司研究报告</h1>
+    <p class="sub">重点回答三个问题：汇丰的利润从哪里来，恒生银行私有化之后香港业务怎么样，香港银行业现在处在什么阶段。同时覆盖历史、管理层、竞争、估值框架与 12 项风险。</p>
+    <div class="stamp">行情数据截至 2026 年 11 月 18 日收市 · 财务数据截至 2026 年第三季度业绩（10 月 27 日发布）· 报告日期 2026 年 11 月 19 日 · 仅供研究学习，不构成投资建议</div>
+  </div>
+</header>
+
+<nav class="rail" aria-label="章节导航">
+  <div class="wrap">
+    <a href="#summary">摘要</a><a href="#overview">公司概况</a><a href="#history">历史</a><a href="#management">管理层</a><a href="#business">业务</a><a href="#drivers">收入驱动</a><a href="#industry">香港银行业</a><a href="#competition">竞争</a><a href="#valuation">估值框架</a><a href="#risks">风险</a><a href="#agenda">议程</a><a href="#sources">来源</a>
+  </div>
+</nav>
+
+<main class="wrap">
+<div class="callout warn" role="note" style="margin-top:24px"><svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><path fill="currentColor" d="M10 1.5 19 18H1L10 1.5Zm-.9 6v5h1.8v-5H9.1Zm0 6.3v1.8h1.8v-1.8H9.1Z"/></svg><div><span class="tag">数据说明</span>本次运行环境无法直接打开汇丰官网、港交所披露易、伦交所和美国证监会的文件原文。数字来自业绩公告的转载、财经媒体、券商点评和第三方数据平台，来源不一致处已在正文注明。美元与港元按 1 美元约 7.78 港元示意换算；作者自己的推算和测算分别标为“推算”“示意”。正文中的〔n〕可跳转到文末对应来源。</div></div>
+
+<section id="summary">
+<h2><span class="no">00</span>核心结论</h2>
+
+<div class="tiles t4" role="list">
+  <div class="tile" role="listitem"><div class="lab">收市价（11/18）</div><div class="val">HK$136.0</div><div class="dl">52 周区间 105.0–169.7 港元</div></div>
+  <div class="tile" role="listitem"><div class="lab">总市值</div><div class="val">约 HK$2.33<small> 万亿</small></div><div class="dl">约 2,990 亿美元；约 171 亿股</div></div>
+  <div class="tile" role="listitem"><div class="lab">市价 / 有形净资产</div><div class="val">约 1.86<small> 倍</small></div><div class="dl">TTM 市盈率约 11.4 倍；十年中位数约 0.9 倍</div></div>
+  <div class="tile" role="listitem"><div class="lab">股息率（TTM）</div><div class="val">约 4.3%</div><div class="dl">四次中期股息合计 0.75 美元；派息率目标 50%</div></div>
+  <div class="tile" role="listitem"><div class="lab">2026 前三季度税前利润</div><div class="val">US$291<small> 亿</small></div><div class="dl">约 +26%；剔除重大项目 304 亿美元</div></div>
+  <div class="tile" role="listitem"><div class="lab">RoTE（前三季度）</div><div class="val">18.8%</div><div class="dl">剔除重大项目；目标每年 17% 以上</div></div>
+  <div class="tile" role="listitem"><div class="lab">CET1 比率</div><div class="val">13.9%</div><div class="dl">目标区间 14%–14.5%</div></div>
+  <div class="tile" role="listitem"><div class="lab">2026 银行业务净利息收入指引</div><div class="val">≥US$460<small> 亿</small></div><div class="dl">第三季度净息差 1.57%</div></div>
+</div>
+<ol class="keypoints"><li><b>汇丰本质上是“香港银行 + 英国银行 + 全球交易银行”的组合。</b> 2026 年第三季度 96 亿美元税前利润中，企业及机构银行 36 亿美元（37%）、香港 26 亿美元（27%）、英国 18 亿美元（19%）、国际财富与卓越理财 11 亿美元（12%）<a class="cite" href="#src-1">〔1〕</a>。香港是最大的单一市场：低成本存款、财富与保险、贸易融资三项优势都集中在这里。</li><li><b>盈利站上新台阶，但第三季度显示增长在放缓。</b> 剔除重大项目后，季度税前利润稳定在 100 亿美元左右，前三季度 RoTE 18.8%，高于“2026–2028 年每年 17% 以上”的目标<a class="cite" href="#src-1">〔1〕</a>。但第三季度收入 186 亿美元低于市场预期的约 190 亿美元，财富收入 27 亿美元同比持平（前两个季度分别增长约 15% 和 23%），管理层也没有上调指引，当天港股下跌 5.6%<a class="cite" href="#src-2">〔2〕</a>。</li><li><b>恒生银行私有化是近年最大的资本动作。</b> 汇丰以每股 155 港元、合计约 1,061 亿港元（约 136 亿美元）收购此前未持有的约 36.5% 股份，恒生于 2026 年 1 月 27 日退市<a class="cite" href="#src-8">〔8〕</a>。交易增厚每股收益、简化香港业务，但消耗了约 1.1–1.25 个百分点的 CET1，回购暂停三个季度，到 2026 年 8 月才恢复<a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-8">〔8〕</a>。</li><li><b>香港商业地产仍是最主要的信用风险，但在收窄。</b> 集团香港商业地产敞口约 289 亿美元（不含内地借款人），信用减值部分 56 亿美元，拨备 14 亿美元，第三季度仍在补提<a class="cite" href="#src-3">〔3〕</a>。恒生把约 110 亿港元商业地产贷款转给汇丰香港后，不良率从 2025 年末的 7.04% 降到 2026 年 6 月末的 4.63%，仍明显高于约 2% 的市场水平<a class="cite" href="#src-9">〔9〕</a>。</li><li><b>利率环境与一年前的预期相反。</b> 2026 年 2 月下旬爆发的伊朗战争推高油价，美联储 9 月 16 日加息至 3.75%–4.00%（2023 年以来首次），10 月维持不变<a class="cite" href="#src-21">〔21〕</a>。高利率支撑净利息收入，但香港和英国的存款正在转向定期存款，香港定期存款占比一个季度上升 2 个百分点至 38%<a class="cite" href="#src-2">〔2〕</a>；英国则把银行附加税从 3% 暂时提高到 6%（2027 年 1 月至 2028 年 3 月）<a class="cite" href="#src-22">〔22〕</a>。</li><li><b>估值已经不便宜。</b> 股价约为每股有形净资产的 1.86 倍，远高于约 0.9 倍的十年中位数<a class="cite" href="#src-10">〔10〕</a>。若 RoTE 为 17%、股本成本 10.5%、长期增长 3%，理论倍数约 1.87 倍（示意），也就是说当前价格大致反映了管理层的回报目标。券商目标价多在 184–193 港元<a class="cite" href="#src-11">〔11〕</a>，隐含更高或更持久的 RoTE。</li><li><b>最需要盯住的五件事。</b> ① 2026 年银行业务净利息收入能否超过 460 亿美元，以及 2027 年的指引；② 香港定期存款占比与净息差（第三季度 1.57%）；③ 财富业务的净新增资金和收入能否重新增长；④ 香港商业地产的信用减值与拨备；⑤ CET1 回到 14% 以上的节奏与回购规模。</li></ol>
+</section>
+<section id="overview">
+<h2><span class="no">01</span>公司概况</h2>
+<p class="lede">汇丰是总部在伦敦、利润重心在香港的全球性银行；2025 年起按“香港、英国、企业及机构银行、国际财富与卓越理财”四大业务管理，是香港三家发钞银行之一。</p>
+<h3>1.1 基本信息</h3>
+<ul><li><b>公司：</b> HSBC Holdings plc（汇丰控股有限公司），在英格兰注册，总部伦敦；在港交所（00005）和伦交所（HSBA）双重主要上市，美国存托股在纽约证券交易所交易<a class="cite" href="#src-25">〔25〕</a>。</li><li><b>起源：</b> 前身是 1865 年在香港创立的香港上海汇丰银行；1991 年成立控股公司，1993 年总部迁往伦敦<a class="cite" href="#src-25">〔25〕</a>。</li><li><b>香港经营实体：</b> 香港上海汇丰银行有限公司（亚太区主要经营主体）及恒生银行；恒生在 2026 年 1 月私有化后成为全资子公司<a class="cite" href="#src-8">〔8〕</a>。汇丰与中银香港、渣打共同承担港元钞票发行。</li><li><b>规模：</b> 约 4,100 万名客户，业务覆盖 56–57 个市场，员工约 21.1 万人；总资产约 3.3 万亿美元（第三方数据，2026 年 3 月）<a class="cite" href="#src-24">〔24〕</a>。</li><li><b>业绩：</b> 2025 年收入 683 亿美元、税前利润 299 亿美元，剔除重大项目后税前利润 366 亿美元，为历史最高<a class="cite" href="#src-6">〔6〕</a>；2026 年前三季度收入 563 亿美元、税前利润 291 亿美元（各季相加）<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-5">〔5〕</a>。</li><li><b>股东回报：</b> 2026–2028 年派息率目标 50%（剔除重大项目）；2025 年每股派息 0.75 美元；2026 年前三次中期股息各 0.10 美元，8 月和 10 月各宣布 10 亿美元回购<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-6">〔6〕</a>。</li></ul>
+<h3>1.2 四大业务</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>业务</th><th>主要内容</th><th class="n">3Q26 税前利润（亿美元）</th><th class="n">占比</th><th class="n">同比</th></tr></thead><tbody><tr><td>香港</td><td>汇丰香港与恒生银行的零售、财富、工商业务</td><td class="n">25.65</td><td class="n">26.6%</td><td class="n">+8%</td></tr><tr><td>英国</td><td>英国围栏银行 HSBC UK 的零售与工商业务</td><td class="n">18.42</td><td class="n">19.1%</td><td class="n">+19%</td></tr><tr><td>企业及机构银行（CIB）</td><td>交易银行、资本市场、投行，以及香港和英国以外的工商客户</td><td class="n">36.05</td><td class="n">37.4%</td><td class="n">+34%</td></tr><tr><td>国际财富与卓越理财（IWPB）</td><td>香港和英国以外的卓越理财、私人银行、资产管理与保险</td><td class="n">11.25</td><td class="n">11.7%</td><td class="n">−14%</td></tr><tr><td>企业中心</td><td>交通银行等联营公司、集团层面项目</td><td class="n">4.95</td><td class="n">5.1%</td><td class="n">—</td></tr><tr class="tot"><td>合计</td><td>—</td><td class="n">96.32</td><td class="n">100%</td><td class="n">+32%</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-12">〔12〕</a>。各业务同比来自第三方摘要<a class="cite" href="#src-1">〔1〕</a>，香港为固定汇率口径；CIB 增速受 2025 年第三季度法律拨备不再发生的影响，IWPB 下降主要因出售业务等战略交易。</p>
+<ul><li><b>香港：</b> 集团最大的单一市场。汇丰香港拥有超过 700 万名客户（报道）<a class="cite" href="#src-17">〔17〕</a>；恒生银行服务近 400 万名客户，在香港有 250 多个网点<a class="cite" href="#src-8">〔8〕</a>。</li><li><b>英国：</b> 按英国围栏制度与投行业务隔离的零售银行，以按揭、存款和中小企业银行为主；2026 年起由 Carolyn Fairbairn 出任 HSBC UK 主席<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>CIB：</b> 2025 年重组后把原环球银行及资本市场与香港、英国以外的工商金融合并而成<a class="cite" href="#src-12">〔12〕</a>。它是利润最高的板块，核心是跨境支付、贸易融资和外汇。</li><li><b>IWPB：</b> 面向香港和英国以外的富裕客户，重点市场包括新加坡、中国内地、印度和阿联酋；2025 年这几个市场的投资资产均为两位数增长<a class="cite" href="#src-6">〔6〕</a>。</li></ul>
+
+<figure>
+  <figcaption>2026 年第三季度税前利润（按业务）<span class="cap-sub">亿美元；蓝色为香港业务</span></figcaption>
+  <div class="chart-box" id="ch-biz"></div>
+  <div class="src">合计 96.32 亿美元。来源：汇丰第三季度业绩〔1〕。</div>
+</figure>
+<h3>1.3 为什么香港这么赚钱</h3>
+<ul><li><b>低成本存款：</b> 2026 年 3 月末香港银行业整体贷存比只有 53.2%，存款远多于贷款<a class="cite" href="#src-18">〔18〕</a>；汇丰香港第三季度存款又增加了 210 亿美元<a class="cite" href="#src-2">〔2〕</a>。</li><li><b>港元利率跟随美元利率：</b> 联系汇率制度下，美元利率处于高位时，港元存款的利差和结构性对冲的收益都更高。</li><li><b>财富与保险：</b> 香港财富余额约 5,000 亿美元，同比增长约 10%（报道）<a class="cite" href="#src-17">〔17〕</a>。</li><li><b>贸易融资：</b> 按汇丰自行对比金管局数据，集团在香港的贸易融资余额份额约 32.6%（2025 年 12 月）<a class="cite" href="#src-24">〔24〕</a>。</li></ul>
+<p>此外，CIB 在亚洲的交易银行与资本市场业务、在香港入账的私人银行业务也主要依托香港，所以集团对香港的实际依赖程度高于“香港业务占 27%”这个数字。</p>
+<h3>1.4 规模与财务轨迹</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th class="n">年度</th><th class="n">收入（亿美元）</th><th class="n">税前利润（亿美元）</th><th class="n">RoTE</th><th class="n">每股派息（美元）</th></tr></thead><tbody><tr><td class="n">2022</td><td class="n">约 507</td><td class="n">175</td><td class="n">9.9%</td><td class="n">0.32</td></tr><tr><td class="n">2023</td><td class="n">661</td><td class="n">303</td><td class="n">14.6%</td><td class="n">0.61</td></tr><tr><td class="n">2024</td><td class="n">659</td><td class="n">323</td><td class="n">14.6%</td><td class="n">0.87</td></tr><tr><td class="n">2025</td><td class="n">683</td><td class="n">299</td><td class="n">13.3%</td><td class="n">0.75</td></tr><tr><td class="n">2026 年前三季度</td><td class="n">563</td><td class="n">291</td><td class="n">18.8%（剔除）</td><td class="n">0.30</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-5">〔5〕</a><a class="cite" href="#src-6">〔6〕</a><a class="cite" href="#src-7">〔7〕</a>。2022 年收入按 2023 年公告“增加 154 亿美元至 661 亿美元”倒推（IFRS 17 重述后口径），税前利润为当年原始披露；2024 年每股派息含出售加拿大业务的特别股息 0.21 美元。剔除重大项目的 RoTE：2024 年 16.0%，2025 年 17.2%，2026 年前三季度 18.8%。</p>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>季度</th><th class="n">收入（亿美元）</th><th class="n">税前利润（亿美元）</th><th>要点</th></tr></thead><tbody><tr><td>2025Q1</td><td class="n">176</td><td class="n">95</td><td>—</td></tr><tr><td>2025Q2</td><td class="n">165</td><td class="n">63</td><td>交通银行股权摊薄亏损 11 亿美元、减值 10 亿美元（上半年）</td></tr><tr><td>2025Q3</td><td class="n">178</td><td class="n">73</td><td>法律拨备 14 亿美元，其中卢森堡 Madoff 相关诉讼 11 亿美元</td></tr><tr><td>2025Q4</td><td class="n">约 164</td><td class="n">约 68</td><td>由全年数减前三季度推算</td></tr><tr><td>2026Q1</td><td class="n">186</td><td class="n">94</td><td>预期信用损失 13 亿美元：英国证券化欺诈 4 亿、中东冲突 3 亿</td></tr><tr><td>2026Q2</td><td class="n">191</td><td class="n">101</td><td>剔除重大项目收入 190 亿美元，好于预期；恢复回购</td></tr><tr><td>2026Q3</td><td class="n">186</td><td class="n">96</td><td>收入低于预期约 4 亿美元；财富收入同比持平</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-2">〔2〕</a><a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-5">〔5〕</a><a class="cite" href="#src-14">〔14〕</a><a class="cite" href="#src-15">〔15〕</a>。2025 年前三季度收入由 2026 年同期公告的“增加额”倒推；剔除重大项目的税前利润 2026 年三个季度分别为 101、103、100 亿美元。</p>
+
+<figure>
+  <figcaption>季度税前利润（报告口径）<span class="cap-sub">亿美元；蓝色为 2026 年各季度</span></figcaption>
+  <div class="chart-box" id="ch-qpbt"></div>
+  <div class="src">2025 年第四季度由全年 299 亿美元减前三季度推算。2025 年第二、三季度含交通银行摊薄与减值、法律拨备等重大项目。来源〔1〕〔4〕〔5〕〔6〕。</div>
+</figure>
+<h3>1.5 资本与股东回报</h3>
+<ul><li><b>资本：</b> CET1 从 2025 年末的 14.9% 降到 2026 年 6 月末的 14.1%（恒生私有化、派息和风险加权资产增加），9 月末为 13.9%，略低于 14%–14.5% 的目标区间；英国 Basel 3.1 将于 2027 年 1 月 1 日实施，预计带来约 0.4–0.5 个百分点的提升<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-4">〔4〕</a>。</li><li><b>派息：</b> 派息率目标 50%；2026 年前三次中期股息各 0.10 美元，第三次约 17.1 亿美元，将于 12 月 17 日派发<a class="cite" href="#src-1">〔1〕</a>。</li><li><b>回购：</b> 2024 年的股息加回购合计 269 亿美元<a class="cite" href="#src-7">〔7〕</a>；2025 年 10 月宣布私有化恒生后暂停回购三个季度<a class="cite" href="#src-8">〔8〕</a>；2026 年 8 月恢复 10 亿美元（9 月 28 日完成），10 月再宣布 10 亿美元，计划在 2026 年度业绩公布前完成<a class="cite" href="#src-1">〔1〕</a>。</li><li><b>每股有形净资产：</b> 9 月末 9.41 美元，6 月末 9.36 美元<a class="cite" href="#src-1">〔1〕</a>。按会计规则，收购少数股东权益支付的溢价直接冲减母公司股东权益，所以 2026 年每股有形净资产的增长明显慢于利润（示意）。</li><li><b>股本：</b> 约 171 亿股，由第三次中期股息总额推算<a class="cite" href="#src-1">〔1〕</a>。</li></ul>
+</section>
+<section id="history">
+<h2><span class="no">02</span>公司历史</h2>
+<p class="lede">从一家为中国沿海贸易融资的香港银行，扩张为覆盖全球的“国际网络银行”，又在 2020 年代收缩回“亚洲 + 英国 + 跨境业务”的核心，并把香港业务重新完整握在手里。</p>
+<h3>2.1 主要节点</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>时间</th><th>事件</th><th>意义</th></tr></thead><tbody><tr><td class="nw">1865 年</td><td class="w">Thomas Sutherland 在香港创立香港上海汇丰银行，同年在上海开业</td><td>为中国沿海贸易融资<a class="cite" href="#src-25">〔25〕</a></td></tr><tr><td class="nw">1959–1965 年</td><td class="w">收购中东英格兰银行；1965 年取得恒生银行控股权</td><td>恒生成为香港第二支柱<a class="cite" href="#src-25">〔25〕</a></td></tr><tr><td class="nw">1992–1993 年</td><td class="w">收购英国米特兰银行；总部迁往伦敦</td><td>成为英国主要银行之一<a class="cite" href="#src-25">〔25〕</a></td></tr><tr><td class="nw">2003 年</td><td class="w">收购美国消费金融公司 Household International</td><td>后来带来次贷亏损，逐步退出美国零售<a class="cite" href="#src-25">〔25〕</a></td></tr><tr><td class="nw">2012 年</td><td class="w">就反洗钱与制裁违规与美国当局达成约 19 亿美元和解</td><td>合规成本长期上升<a class="cite" href="#src-25">〔25〕</a></td></tr><tr><td class="nw">2020 年</td><td class="w">应英国审慎监管局要求暂停派息</td><td>香港股东不满，平安后来推动分拆<a class="cite" href="#src-25">〔25〕</a><a class="cite" href="#src-26">〔26〕</a></td></tr><tr><td class="nw">2023 年 5 月</td><td class="w">股东大会否决分拆亚洲业务的股东提案</td><td>管理层路线获支持<a class="cite" href="#src-25">〔25〕</a></td></tr><tr><td class="nw">2021–2025 年</td><td class="w">出售美国零售、法国零售、加拿大、阿根廷、新西兰、希腊、俄罗斯等业务</td><td>收缩网络、回笼资本<a class="cite" href="#src-13">〔13〕</a></td></tr><tr><td class="nw">2024 年 9 月</td><td class="w">Georges Elhedery 接任集团行政总裁</td><td>推动“简化”<a class="cite" href="#src-12">〔12〕</a></td></tr><tr><td class="nw">2024 年 10 月</td><td class="w">宣布重组为四大业务，2025 年 1 月生效</td><td>目标年化节省成本 15 亿美元<a class="cite" href="#src-12">〔12〕</a><a class="cite" href="#src-13">〔13〕</a></td></tr><tr><td class="nw">2025 年</td><td class="w">交通银行增发导致摊薄亏损和减值合计 21 亿美元；卢森堡 Madoff 诉讼拨备 11 亿美元</td><td>报告利润下降 7%<a class="cite" href="#src-6">〔6〕</a><a class="cite" href="#src-14">〔14〕</a><a class="cite" href="#src-15">〔15〕</a></td></tr><tr><td class="nw">2025 年 10 月</td><td class="w">主席 Mark Tucker 离任（转任友邦保险主席），Brendan Nelson 任临时主席；提出私有化恒生银行</td><td>香港战略加码<a class="cite" href="#src-8">〔8〕</a><a class="cite" href="#src-12">〔12〕</a></td></tr><tr><td class="nw">2025 年 12 月</td><td class="w">Brendan Nelson 转为正式主席</td><td>被视为“过渡型”主席<a class="cite" href="#src-12">〔12〕</a></td></tr><tr><td class="nw">2026 年 1 月</td><td class="w">恒生银行私有化 1 月 26 日生效，1 月 27 日退市</td><td>香港业务全面整合<a class="cite" href="#src-8">〔8〕</a></td></tr></tbody></table></div>
+<h3>2.2 6 月 30 日之后的变化</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>日期</th><th>事件</th><th>影响</th></tr></thead><tbody><tr><td class="nw">7 月</td><td class="w">John Healey 接替 Rachel Reeves 出任英国财政大臣</td><td>银行税预期升温<a class="cite" href="#src-22">〔22〕</a></td></tr><tr><td class="nw">7 月 30 日</td><td class="w">同意把澳洲约 360 亿澳元（约 250 亿美元）住房及个人贷款组合卖给黑石旗下实体，其余澳洲零售业务 18 个月内逐步关闭</td><td>继续收缩非核心零售<a class="cite" href="#src-13">〔13〕</a></td></tr><tr><td class="nw">8 月 4 日</td><td class="w">中期业绩：上半年税前利润约 195 亿美元（+23%）；第二季度收入好于预期；恢复 10 亿美元回购；净利息收入指引改为“至少 460 亿美元”</td><td>股价盘中创 169.5 港元新高<a class="cite" href="#src-4">〔4〕</a></td></tr><tr><td class="nw">8 月下旬</td><td class="w">恒生银行中期：纯利 98.77 亿港元（+43.6%），不良率降至 4.63%</td><td>商业地产包袱转到汇丰香港<a class="cite" href="#src-9">〔9〕</a></td></tr><tr><td class="nw">9 月 11 日</td><td class="w">股价 163.3 港元，年内上涨 38.5%，市净率约 1.82 倍（Wind）</td><td>估值处于十年高位<a class="cite" href="#src-10">〔10〕</a></td></tr><tr><td class="nw">9 月 16 日</td><td class="w">美联储加息 25 个基点至 3.75%–4.00%</td><td>利好净利息收入，存款竞争加剧<a class="cite" href="#src-21">〔21〕</a></td></tr><tr><td class="nw">9 月 28 日</td><td class="w">完成 8 月宣布的 10 亿美元回购</td><td>—<a class="cite" href="#src-1">〔1〕</a></td></tr><tr><td class="nw">10 月 26 日</td><td class="w">行政总裁表示不担心海湾地区房地产敞口</td><td>中东风险可控<a class="cite" href="#src-16">〔16〕</a></td></tr><tr><td class="nw">10 月 27 日</td><td class="w">第三季度业绩：税前利润 96 亿美元（+32%），收入 186 亿美元低于预期；维持指引；再宣布 10 亿美元回购；港股跌 5.6% 至 134.3 港元</td><td>半年低位<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-2">〔2〕</a></td></tr><tr><td class="nw">10 月 28 日</td><td class="w">英国预算：银行附加税 2027 年 1 月起由 3% 升至 6%，至 2028 年 3 月底</td><td>英国业务税负上升<a class="cite" href="#src-22">〔22〕</a></td></tr><tr><td class="nw">10 月 28 日</td><td class="w">美联储维持利率不变（10 比 2，两票主张加息）</td><td>高利率维持更久<a class="cite" href="#src-21">〔21〕</a></td></tr><tr><td class="nw">11 月 9 日</td><td class="w">摩根大通给予“增持”、目标价 185 港元，但认为净利息收入和财富收入趋势较弱</td><td>—<a class="cite" href="#src-11">〔11〕</a></td></tr><tr><td class="nw">11 月 18 日</td><td class="w">收报 136.0 港元（−1.8%）；继续在香港和伦敦回购</td><td>较 8 月高点回落约 20%<a class="cite" href="#src-10">〔10〕</a></td></tr></tbody></table></div>
+<h3>2.3 历史评价</h3>
+<p>汇丰的历史是一轮轮“扩张—收缩”。上一轮扩张（1990 年代收购米特兰、2000 年代收购 Household 并进入数十个新兴市场）带来了规模，也带来了美国次贷亏损和反洗钱处罚。2020 年以后的这一轮收缩，核心逻辑是把资本集中到回报最高的地方：香港、英国和跨境交易银行。</p>
+<p>2022–2023 年，第一大股东平安推动“分拆亚洲业务”，管理层选择的是“不分拆、但向亚洲倾斜”：保留伦敦总部和全球网络，同时出售回报低的市场、私有化恒生、加大对香港和亚洲财富的投入。这条路线目前的结果是 RoTE 从 2022 年的 9.9% 升到 18% 左右<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-7">〔7〕</a>；代价是集团对香港利率、香港楼市和中美关系的敏感度更高。</p>
+</section>
+<section id="management">
+<h2><span class="no">03</span>管理层与公司治理</h2>
+<p class="lede">行政总裁和财务总监都是内部提拔，分别出身于交易和风险条线；主席是审计背景的“过渡型”人选；香港业务由两位高管分掌汇丰香港与恒生。</p>
+<h3>3.1 核心管理层一览</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>姓名</th><th>职务</th><th>任职</th><th>背景</th></tr></thead><tbody><tr><td>Brendan Nelson</td><td>集团主席（非执行）</td><td>2025 年 10 月任临时主席，12 月转正</td><td>毕马威 25 年以上，曾任全球银行业主席；曾任 BP、苏格兰皇家银行董事；76 岁</td></tr><tr><td>Georges Elhedery</td><td>集团行政总裁</td><td>2024 年 9 月起</td><td>黎巴嫩出生，2005 年加入汇丰；曾任集团财务总监、环球银行及资本市场联席行政总裁</td></tr><tr><td>Pam Kaur</td><td>集团财务总监、执行董事</td><td>2025 年 1 月起</td><td>2013 年加入汇丰任内审主管，2020–2024 年任集团首席风险及合规官</td></tr><tr><td>Michael Roberts</td><td>企业及机构银行行政总裁</td><td>2025 年起</td><td>曾任汇丰美国行政总裁</td></tr><tr><td>Maggie Ng</td><td>汇丰香港区行政总裁，兼香港零售银行及财富管理主管</td><td>2025 年 9 月宣布</td><td>汇丰香港零售与财富条线</td></tr><tr><td>Luanne Lim</td><td>恒生银行执行董事兼行政总裁</td><td>2025 年 10 月起</td><td>此前任汇丰香港区行政总裁</td></tr><tr><td>Diana Cesar</td><td>香港区副主席</td><td>2025 年 9 月宣布</td><td>前恒生银行行政总裁</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-12">〔12〕</a>。</p>
+<h3>3.2 Georges Elhedery｜集团行政总裁</h3>
+<ul><li><b>履历：</b> 生于黎巴嫩，毕业于巴黎综合理工学院（工程），另有统计与经济学研究生学位；早年做利率交易员，2005 年加入汇丰，先后负责中东、北非和土耳其业务，任环球银行及资本市场联席行政总裁并主管资本市场与证券服务；2023 年 1 月至 2024 年 9 月任集团财务总监，2024 年 9 月 2 日接替 Noel Quinn 任集团行政总裁<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>任内动作：</b> ① 2024 年 10 月宣布把集团重组为四大业务，目标在 2026 年底前实现约 15 亿美元年化成本节省，2026 年 2 月称有望提前半年完成<a class="cite" href="#src-12">〔12〕</a><a class="cite" href="#src-13">〔13〕</a>；② 继续出售低回报业务（澳洲零售、埃及零售、斯里兰卡零售、德国托管等）<a class="cite" href="#src-13">〔13〕</a>；③ 2025 年 10 月提出私有化恒生银行<a class="cite" href="#src-8">〔8〕</a>；④ 坚持“回报优先”，第三季度电话会上表示不会为争夺存款而牺牲净利息收入<a class="cite" href="#src-2">〔2〕</a>。</li><li><b>评价：</b> 交易和财务出身，熟悉资产负债表和资本管理；外界的主要疑问是他的亚洲一线经验相对较少（报道），以及“简化”完成后的增长来源<a class="cite" href="#src-12">〔12〕</a>。</li></ul>
+<h3>3.3 Pam Kaur｜集团财务总监</h3>
+<ul><li><b>履历：</b> 2013 年 4 月加入汇丰任集团内审主管；2019 年任批发市场与信用风险主管；2020 年 1 月任集团首席风险官，2021 年 6 月起兼管合规，至 2024 年 12 月；2025 年 1 月起任集团财务总监和执行董事，是汇丰 160 年历史上首位女性财务总监。此前曾任德意志银行集团审计全球主管、苏格兰皇家银行重组与风险部门的财务总监兼首席运营官，并在劳埃德 TSB 和花旗任职<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>职责：</b> 主管全球财务，同时负责可持续发展和对外传讯<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>风格：</b> 风险与审计背景，指引偏保守。她在第三季度电话会上直言“市场有时期待我们上调指引或目标”，暗示不会为迎合预期而上调<a class="cite" href="#src-2">〔2〕</a>。</li></ul>
+<h3>3.4 Brendan Nelson｜集团主席</h3>
+<ul><li><b>履历：</b> 在毕马威工作 25 年以上，曾任毕马威全球银行业主席和全球金融服务主席；曾任 BP 和苏格兰皇家银行（现 NatWest）董事，现任 BP 退休金受托公司主席；2023 年 9 月加入汇丰董事会并主持集团审计委员会<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>任命经过：</b> Mark Tucker 于 2025 年 9 月底离任、转任友邦保险主席后，Nelson 从 10 月 1 日起任临时主席。集团经过约 7 个月的搜寻，于 12 月 3 日宣布他转为正式主席，而前一天行政总裁还表示 Nelson 无意长期担任<a class="cite" href="#src-12">〔12〕</a>。分析人士称其为“过渡型”主席，长期继任人选仍是悬而未决的治理问题<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>审计委员会：</b> 2026 年 8 月中期业绩后，集团审计委员会主席由 Meddings 接任<a class="cite" href="#src-12">〔12〕</a>。</li></ul>
+<h3>3.5 香港管理层</h3>
+<ul><li>2025 年 9 月汇丰调整香港管理层：Maggie Ng 出任汇丰香港区行政总裁（兼任香港零售银行及财富管理主管）；原汇丰香港区行政总裁 Luanne Lim 于 2025 年 10 月出任恒生银行执行董事兼行政总裁；原恒生行政总裁 Diana Cesar 改任香港区副主席<a class="cite" href="#src-12">〔12〕</a>。这次调整发生在恒生商业地产不良贷款大幅上升之后、私有化提议之前。</li><li>私有化后，恒生保留独立的管治架构、品牌、网点和客户定位<a class="cite" href="#src-8">〔8〕</a>；报道称汇丰重申私有化后不裁员<a class="cite" href="#src-8">〔8〕</a>。</li></ul>
+<h3>3.6 股东、上市与治理结构</h3>
+<ul><li><b>双重主要上市：</b> 港交所和伦交所均为主要上市地，香港拥有大量散户股东；2020 年按英国监管要求暂停派息，曾引发香港股东强烈不满<a class="cite" href="#src-25">〔25〕</a>。</li><li><b>主要股东：</b> 没有控股股东。中国平安曾是第一大股东，2024 年 5 月小幅减持后持股约 7.98%，当时报道称其研究进一步减持；2026 年的最新持股本文未能核实<a class="cite" href="#src-26">〔26〕</a>。</li><li><b>英国子行：</b> HSBC UK Bank plc 作为围栏银行有独立董事会，2026 年起由 Carolyn Fairbairn 任主席<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>治理要点：</b> ① 主席继任未定；② “伦敦总部 + 香港利润”结构的长期安排；③ 地缘政治压力下的合规与制裁执行。</li></ul>
+</section>
+<section id="business">
+<h2><span class="no">04</span>业务与收入结构</h2>
+<p class="lede">收入的三根支柱是存款带来的净利息收入、财富管理费用和跨境交易银行，分别依托香港和英国的存款基础、亚洲的财富积累和全球贸易与资金流。</p>
+<h3>4.1 收入构成：以净利息收入为主</h3>
+<ul><li><b>净利息收入：</b> 汇丰更关注“银行业务净利息收入”（banking NII，剔除交易账簿的融资成本）。2026 年第一季度 113 亿美元，第三季度 117 亿美元<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-5">〔5〕</a>。全年指引在 2 月为至少 450 亿美元，此后上调为约 460 亿美元，8 月改为“至少 460 亿美元”，10 月维持<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-17">〔17〕</a>。按前三季度收入 563 亿美元推算，全年收入约 750 亿美元，银行业务净利息收入约占六成（推算）。</li><li><b>净息差：</b> 第三季度 1.57%，与上年同期持平<a class="cite" href="#src-1">〔1〕</a>。</li><li><b>财富管理：</b> 第三季度财富收入 27 亿美元，同比持平；第一、二季度分别增长约 15% 和 23%<a class="cite" href="#src-2">〔2〕</a>。按第三季度年化约 110 亿美元，约占收入一成半（推算）。</li><li><b>交易银行与资本市场：</b> 环球支付、贸易融资、外汇和证券服务；2025 年批发交易银行的费用及其他收入增长 4%<a class="cite" href="#src-6">〔6〕</a>。</li><li><b>成本：</b> 2026 年目标口径成本增长约 1%<a class="cite" href="#src-1">〔1〕</a>。</li></ul>
+<h3>4.2 香港业务</h3>
+<ul><li><b>构成：</b> 汇丰香港的零售银行、财富管理（含保险）、工商金融，以及恒生银行的全部业务<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-8">〔8〕</a>。</li><li><b>客户：</b> 汇丰香港超过 700 万名客户，2025 年新增约 110 万名新客户（报道）<a class="cite" href="#src-17">〔17〕</a>；恒生近 400 万名客户、250 多个网点<a class="cite" href="#src-8">〔8〕</a>。</li><li><b>第三季度：</b> 税前利润 25.65 亿美元，同比增长 8%；存款季度内增加 210 亿美元，多数来自定期存款，定期存款占比升至 38%；贷款恢复增长，按揭受楼价同比上涨约 14% 带动<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-2">〔2〕</a>。</li><li><b>财富：</b> 香港财富余额约 5,000 亿美元，同比增长约 10%（报道）<a class="cite" href="#src-17">〔17〕</a>。</li><li><b>商业地产：</b> 香港商业地产敞口约 289 亿美元（不含内地借款人），其中次级及信用减值合计 81 亿美元、信用减值 56 亿美元、拨备 14 亿美元；信用减值贷款的加权平均贷款价值比为 83%<a class="cite" href="#src-3">〔3〕</a>。</li></ul>
+<h3>4.3 英国业务</h3>
+<ul><li><b>构成：</b> HSBC UK 的按揭、存款、信用卡和中小企业银行<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>第三季度：</b> 税前利润 18.42 亿美元，同比增长 19%<a class="cite" href="#src-1">〔1〕</a>。</li><li><b>驱动：</b> 结构性对冲以更高利率滚动，在 2026 年继续支撑净利息收入<a class="cite" href="#src-17">〔17〕</a>。2025 年英国业务 RoTE 约 22.9%、贷款增长约 6%（报道）<a class="cite" href="#src-17">〔17〕</a>。</li><li><b>逆风：</b> 存款竞争推高利息支出<a class="cite" href="#src-2">〔2〕</a>；银行附加税 2027 年 1 月起由 3% 升至 6%，至 2028 年 3 月底<a class="cite" href="#src-22">〔22〕</a>。</li></ul>
+<h3>4.4 企业及机构银行（CIB）</h3>
+<ul><li><b>构成：</b> 环球支付、贸易融资、证券服务、外汇与资本市场、股债发行和并购顾问，以及香港和英国以外的工商客户<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>第三季度：</b> 税前利润 36.05 亿美元，同比增长 34%（上年同期有法律拨备）<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-15">〔15〕</a>。</li><li><b>香港贸易融资：</b> 集团在香港的贸易融资余额份额约 32.6%（2025 年 12 月，汇丰按金管局数据自行计算）；汇丰 2026 年 6 月的新闻稿称约 30%<a class="cite" href="#src-24">〔24〕</a>。</li><li><b>风险事件：</b> 2026 年第一季度，一笔与英国金融保荐机构相关的二级证券化敞口因欺诈损失约 4 亿美元；汇丰的证券化融资组合约 30 亿美元，私人信贷敞口约 220 亿美元（约占贷款的 2%）<a class="cite" href="#src-5">〔5〕</a>。</li></ul>
+<h3>4.5 国际财富与卓越理财（IWPB）</h3>
+<ul><li><b>构成：</b> 香港和英国以外的卓越理财、私人银行、资产管理和保险<a class="cite" href="#src-12">〔12〕</a>。</li><li><b>第三季度：</b> 税前利润 11.25 亿美元，同比下降 14%，主要因出售业务等战略交易<a class="cite" href="#src-1">〔1〕</a>。</li><li><b>增长市场：</b> 新加坡、中国内地、印度和阿联酋的投资资产 2025 年均为两位数增长<a class="cite" href="#src-6">〔6〕</a>。</li><li><b>资金流：</b> 2026 年上半年集团财富业务净新增资金 640 亿美元，其中亚洲 570 亿美元<a class="cite" href="#src-17">〔17〕</a>。</li></ul>
+<h3>4.6 出售与退出：集团在收缩什么</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>时间</th><th>市场或业务</th><th>方式</th><th>状态</th></tr></thead><tbody><tr><td class="nw">2021–2025 年</td><td class="w">美国、加拿大、新西兰、希腊、俄罗斯、阿根廷、亚美尼亚的业务；法国与毛里求斯零售</td><td>出售</td><td>已完成<a class="cite" href="#src-13">〔13〕</a></td></tr><tr><td class="nw">2025 年 9 月（报道）</td><td class="w">斯里兰卡零售</td><td>出售给 Nations Trust Bank</td><td>已宣布<a class="cite" href="#src-13">〔13〕</a></td></tr><tr><td class="nw">2026 年 7 月</td><td class="w">澳洲住房及个人贷款组合，其余零售业务 18 个月内关闭</td><td>出售给黑石旗下 Virgo BidCo</td><td>预计 2027 年上半年完成，亏损小于 1 亿美元<a class="cite" href="#src-13">〔13〕</a></td></tr><tr><td class="nw">2026 年</td><td class="w">埃及零售</td><td>出售给阿联酋国民银行</td><td>预计 2027 年下半年完成，税前收益约 3 亿美元<a class="cite" href="#src-13">〔13〕</a></td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-13">〔13〕</a>。另有德国托管业务的退出计划<a class="cite" href="#src-13">〔13〕</a>。</p>
+<p>收缩的方向是退出“规模小、回报低、跨境协同弱”的零售业务，把资本和管理精力集中到香港、英国、亚洲财富和跨境企业客户。</p>
+<h3>4.7 联营公司：交通银行</h3>
+<ul><li>汇丰原持有交通银行约 19.03% 股份；2025 年交行定向增发约 137.8 亿股 A 股（每股 8.71 元人民币）后，汇丰持股预计降至约 16.06%<a class="cite" href="#src-14">〔14〕</a>。</li><li>2025 年上半年，汇丰因此确认摊薄亏损 11 亿美元，并对交行账面价值计提减值 10 亿美元<a class="cite" href="#src-14">〔14〕</a>。交行是汇丰在内地最重要的战略股权，也是“企业中心”利润的主要来源之一。</li></ul>
+</section>
+<section id="drivers">
+<h2><span class="no">05</span>收入驱动：存款、财富与恒生银行</h2>
+<p class="lede">汇丰赚钱的底座是“低成本存款 + 结构性对冲”，增长的引擎是亚洲财富，而恒生私有化把香港这台机器完整握在了手里。</p>
+<h3>5.1 存款与净利息收入</h3>
+<ul><li><b>结构性对冲：</b> 汇丰把一部分稳定存款通过利率掉期和债券锁定为固定收益。2025 年末对冲规模 5,930 亿美元，全年增加 640 亿美元，平均期限 3.1 年<a class="cite" href="#src-17">〔17〕</a>。它降低了净利息收入对降息的敏感度，也意味着利率上升的好处会分几年逐步体现。</li><li><b>利率敏感度：</b> 据第三方分析，主要货币利率平行下降 100 个基点，银行业务净利息收入每年约减少 34 亿美元（未能在汇丰原文中核实）<a class="cite" href="#src-17">〔17〕</a>。</li><li><b>存款结构：</b> 第三季度香港新增存款 210 亿美元，但多数是定期存款；香港定期存款占比季度内上升 2 个百分点至 38%，杰富瑞认为这会侵蚀息差<a class="cite" href="#src-2">〔2〕</a>。管理层称这与以往高息周期一致，不会为争夺存款而牺牲净利息收入<a class="cite" href="#src-2">〔2〕</a>。</li><li><b>港元利率：</b> 3 个月 HIBOR 从 2025 年末下降 57 个基点至 2026 年 3 月末的 2.36%，6 月末回升至 2.97%<a class="cite" href="#src-18">〔18〕</a>；美联储 9 月加息后，美元利率进一步走高<a class="cite" href="#src-21">〔21〕</a>。</li></ul>
+<h3>5.2 财富管理</h3>
+<ul><li><b>规模：</b> 财富余额约 1.6 万亿美元（新口径，剔除资产管理的第三方分销资产），与 2025 年末持平<a class="cite" href="#src-17">〔17〕</a>。</li><li><b>资金流：</b> 2026 年上半年净新增资金 640 亿美元，其中亚洲 570 亿美元；第二季度 250 亿美元，其中亚洲 220 亿美元<a class="cite" href="#src-17">〔17〕</a>。</li><li><b>放缓：</b> 第三季度财富收入 27 亿美元，同比持平；分析师认为依赖内地资金流入的亚洲财富业务增长可能放缓<a class="cite" href="#src-2">〔2〕</a>。同期渣打的财富业务仍推动第三季度利润超预期<a class="cite" href="#src-23">〔23〕</a>，说明竞争格局在变化。</li><li><b>结构性支撑：</b> 香港是领先的离岸私人财富中心，跨境理财通持续优化，IPO 和资本市场活跃<a class="cite" href="#src-18">〔18〕</a><a class="cite" href="#src-19">〔19〕</a><a class="cite" href="#src-20">〔20〕</a>。</li></ul>
+<h3>5.3 恒生银行私有化</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>项目</th><th>内容</th></tr></thead><tbody><tr><td>宣布</td><td>2025 年 10 月 9 日</td></tr><tr><td>收购对象</td><td>汇丰此前未持有的约 36.5% 股份（汇丰原持股约 63%）</td></tr><tr><td>价格</td><td>每股 155 港元，较 30 日平均收市价溢价约 33.1%；对应恒生全部股权约 2,900 亿港元</td></tr><tr><td>总代价</td><td>约 1,061 亿港元（约 136 亿美元），以集团内部资源支付</td></tr><tr><td>批准</td><td>2026 年 1 月 8 日法院会议，约 86% 无利害关系股份赞成；1 月 23 日高等法院批准</td></tr><tr><td>生效与退市</td><td>1 月 26 日生效，1 月 27 日下午 4 时退市</td></tr><tr><td>资本影响</td><td>宣布时估计 CET1 约 −125 个基点；第一季度战略交易的实际影响约 −110 个基点</td></tr><tr><td>股东回报</td><td>回购暂停三个季度，2026 年 8 月恢复</td></tr><tr><td>整合</td><td>保留恒生品牌、管治和网点；超过 80% 的协同工作流程在执行，另有约 3 亿美元协同节省（报道）</td></tr><tr><td>资产处理</td><td>恒生向香港上海汇丰银行出售约 110 亿港元香港商业地产贷款组合</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-8">〔8〕</a><a class="cite" href="#src-9">〔9〕</a>。</p>
+<p><b>怎么看这笔交易（示意）：</b> 按恒生 2026 年上半年纯利 98.77 亿港元年化（约 198 亿港元）计算，36.5% 少数股东每年对应约 72 亿港元（约 9.3 亿美元）利润，收购市盈率约 15 倍，高于汇丰自身约 11–12 倍的市盈率。这笔交易的价值主要不在“便宜”，而在三点：① 消除少数股东权益扣减，每股收益直接增厚<a class="cite" href="#src-8">〔8〕</a>；② 统一香港两家银行的成本、科技和资产负债表，便于处理商业地产问题，恒生把问题贷款转给汇丰香港就是一例<a class="cite" href="#src-9">〔9〕</a>；③ 向市场表明集团对香港的长期承诺。代价是约 1.1–1.25 个百分点的 CET1、三个季度的回购，以及溢价对每股有形净资产的冲减<a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-8">〔8〕</a>。</p>
+<h3>5.4 小结</h3>
+<p>三根支柱的现状：存款与利率短期有利，但结构在恶化；财富业务中长期向好，短期放缓；香港整合的交易已完成，进入执行期。2027 年的利润增长更依赖财富和成本，而不是利率。</p>
+</section>
+<section id="industry">
+<h2><span class="no">06</span>行业概览：香港银行业现在怎么样</h2>
+<p class="lede">2026 年的香港银行业处在“资金充裕、利率偏高、资产质量分化”的阶段——存款和财富资金持续流入，息差回升；商业地产仍在消化；竞争从贷款转向存款与财富客户。</p>
+<h3>6.1 规模与结构</h3>
+<ul><li><b>存款远多于贷款：</b> 2026 年 3 月末香港银行业整体贷存比为 53.2%；1–7 月总存款增长 5.8%<a class="cite" href="#src-18">〔18〕</a>。</li><li><b>贷款恢复增长：</b> 2026 年第一季度贷款总额增长 3.0%，其中内地相关贷款增长 4.3%<a class="cite" href="#src-18">〔18〕</a>。</li><li><b>三家发钞行：</b> 汇丰、中银香港、渣打；汇丰与恒生合计是香港最大的银行集团。</li><li><b>经济背景：</b> 2025 年香港实质 GDP 增长 3.5%（2024 年为 2.6%）；特区政府预测 2026 年增长 2.5%–3.5%<a class="cite" href="#src-20">〔20〕</a>。</li></ul>
+<h3>6.2 利率：联系汇率、HIBOR 与美联储</h3>
+<ul><li>港元与美元挂钩（7.75–7.85），港元利率的大方向跟随美元利率，但 HIBOR 会因本地资金面大幅波动。</li><li>2026 年的利率环境与一年前的预期相反。2025 年底有分析师预计，美联储 2026 年降息 75 个基点、一个月 HIBOR 到年底降至 2.26%<a class="cite" href="#src-21">〔21〕</a>；实际是伊朗战争推高油价（9 月国际油价仍在每桶 105 美元以上）、美国 8 月通胀 3.4%，美联储 9 月加息 25 个基点至 3.75%–4.00%，10 月维持不变且有两票主张继续加息<a class="cite" href="#src-21">〔21〕</a>。</li><li>10 月底美联储按兵不动后，香港主要银行维持最优惠利率不变<a class="cite" href="#src-21">〔21〕</a>。</li></ul>
+<h3>6.3 息差：回升，但存款结构在变</h3>
+<ul><li>金管局数据：零售银行 2026 年上半年净息差 1.53%，上年同期 1.47%，部分原因是港元利率上升<a class="cite" href="#src-18">〔18〕</a>。</li><li>中银香港上半年净息差（含外汇掉期）1.57%，上年同期 1.54%<a class="cite" href="#src-23">〔23〕</a>；汇丰集团第三季度 1.57%<a class="cite" href="#src-1">〔1〕</a>。</li><li>但存款正向定期存款迁移，香港和英国的存款竞争加剧，银行的存款成本在上升<a class="cite" href="#src-2">〔2〕</a>。</li></ul>
+<h3>6.4 资产质量：商业地产在消化，住宅回暖</h3>
+<ul><li><b>商业地产：</b> 汇丰称第三季度房地产市场继续企稳，但复苏不均衡，非优质物业的空置率和估值压力仍大<a class="cite" href="#src-3">〔3〕</a>。</li><li><b>恒生：</b> 2025 年信贷减值提拨大增近 70%，年末不良率 7.04%；2026 年上半年出售商业地产贷款后不良率降至 4.63%，减值贷款从 568 亿港元降至 371 亿港元<a class="cite" href="#src-9">〔9〕</a>。</li><li><b>东亚银行：</b> 香港商业地产贷款占贷款总额的比例降至 9.5%，管理层认为市场趋于稳定<a class="cite" href="#src-9">〔9〕</a>。</li><li><b>住宅：</b> 2025 年楼价结束三年跌势，回升约 3.6%；2026 年各机构预测上涨 5%–15%，汇丰财务总监在第三季度电话会上称楼价同比上涨约 14%<a class="cite" href="#src-2">〔2〕</a><a class="cite" href="#src-20">〔20〕</a>。</li></ul>
+
+<figure>
+  <figcaption>恒生银行不良贷款比率<span class="cap-sub">%；蓝色为最新一期</span></figcaption>
+  <div class="chart-box" id="ch-npl"></div>
+  <div class="src">2026 年 6 月末的下降有相当部分来自向汇丰香港出售约 110 亿港元商业地产贷款，不全是资产质量改善。市场水平约 2% 为报道口径。来源〔9〕。</div>
+</figure>
+<h3>6.5 财富与资本市场</h3>
+<ul><li><b>IPO：</b> 2025 年香港新股集资额超过 2,800 亿港元，全球第一；2026 年第一季度仍居全球首位，截至 8 月底已超过 3,400 亿港元；BDO 预计全年 180–200 宗、集资约 4,000 亿港元<a class="cite" href="#src-20">〔20〕</a>。</li><li><b>财富：</b> 毕马威认为香港将巩固领先离岸私人财富中心的地位，财富管理和 IPO 是银行业 2026 年的主要增长来源，但利率下行会压缩息差<a class="cite" href="#src-19">〔19〕</a>；金管局在 2025 年优化了跨境理财通<a class="cite" href="#src-18">〔18〕</a>。</li><li><b>股市：</b> 11 月 18 日恒生指数收报 23,294.75 点，当日下跌 0.91%<a class="cite" href="#src-10">〔10〕</a>。</li></ul>
+<h3>6.6 2026 年同业业绩</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>银行</th><th>期间</th><th>利润</th><th>回报与息差</th><th>资本与股东回报</th></tr></thead><tbody><tr><td>汇丰控股</td><td>2026 年前三季度</td><td>税前 291 亿美元（约 +26%）</td><td>RoTE 18.8%（剔除重大项目）；第三季度净息差 1.57%</td><td>CET1 13.9%；两轮各 10 亿美元回购</td></tr><tr><td>中银香港</td><td>2026 年上半年</td><td>股东应占溢利 237.39 亿港元（+7.1%）</td><td>净息差 1.57%（含外汇掉期）</td><td>2026–2028 年额外股东回报不少于 105 亿港元，派特别股息</td></tr><tr><td>渣打集团</td><td>2026 年第三季度</td><td>税前 23 亿美元（+29%）</td><td>RoTE 15.7%（前三季度 17.0%）</td><td>CET1 13.8%；中期股息 +66%，10 亿美元回购</td></tr><tr><td>恒生银行</td><td>2026 年上半年</td><td>纯利 98.77 亿港元（+43.6%）</td><td>不良率 4.63%</td><td>已退市，为汇丰全资子公司</td></tr><tr><td>星展香港</td><td>2026 年上半年</td><td>纯利 63 亿港元（+23%，历史新高）</td><td>—</td><td>—</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-9">〔9〕</a><a class="cite" href="#src-23">〔23〕</a>。汇丰前三季度同比为作者推算。</p>
+<h3>6.7 未来 12–24 个月的判断</h3>
+<ol><li><b>利率：</b> 净利息收入的顶部比一年前预期的来得晚，但存款向定期迁移会吃掉一部分好处；如果油价回落、美联储转向降息，结构性对冲能缓冲下行。</li><li><b>资产质量：</b> 商业地产进入“慢慢消化”阶段，住宅回暖改善抵押品价值；压力更多集中在中小银行和非优质物业。</li><li><b>财富：</b> 结构性增长仍在（内地客户、IPO、保险），但季度波动加大，取决于内地资金政策、港股表现和保险销售。</li><li><b>竞争：</b> 存款定价竞争和富裕客户争夺加剧，对手包括中资银行、渣打、星展、私人银行和虚拟银行。</li><li><b>监管与税负：</b> 英国银行附加税上升；英国 Basel 3.1 于 2027 年 1 月实施，对汇丰的资本比率是正面影响<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-22">〔22〕</a>。</li></ol>
+<h3>6.8 行业小结</h3>
+<p>2026 年香港银行业“利息收入 + 财富收入”的组合比过去十年的多数时候都好，资产质量问题集中在商业地产。对汇丰来说，这意味着香港业务的盈利能见度高；但利润已处于周期高位，后续增长更依赖财富业务和成本控制，而不是利率。</p>
+</section>
+<section id="competition">
+<h2><span class="no">07</span>竞争格局</h2>
+<p class="lede">在香港，汇丰（连同恒生）是规模最大、网络最深的银行集团，主要对手是中银香港和渣打；在全球，它对标的是同样以跨境和财富为核心的渣打、星展，以及欧美大型银行。</p>
+<h3>7.1 香港本地竞争</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>银行</th><th>定位</th><th>优势</th><th>与汇丰的主要竞争点</th></tr></thead><tbody><tr><td>汇丰 + 恒生</td><td>最大本地银行集团；发钞行</td><td>存款基础、品牌、财富与保险、贸易融资（份额约三成）</td><td>—</td></tr><tr><td>中银香港（2388.HK）</td><td>中国银行在港旗舰；发钞行</td><td>内地客户、人民币业务、国企关系</td><td>内地相关贷款、人民币与跨境业务</td></tr><tr><td>渣打（2888.HK）</td><td>发钞行；财富与交易银行</td><td>东盟、南亚、中东网络，财富增长快</td><td>富裕客户、跨境企业</td></tr><tr><td>东亚银行（0023.HK）</td><td>本地家族银行</td><td>中小企业、内地网络</td><td>商业地产与中小企业贷款</td></tr><tr><td>星展香港</td><td>新加坡星展的子行</td><td>数字化、财富</td><td>富裕客户、存款</td></tr><tr><td>虚拟银行与非银机构</td><td>新进入者</td><td>高息存款、低费率投资</td><td>存款与财富分流</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-9">〔9〕</a><a class="cite" href="#src-23">〔23〕</a><a class="cite" href="#src-24">〔24〕</a>。定位与优势为作者归纳。</p>
+<h3>7.2 国际同业对比</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>银行</th><th>最新回报或息差</th><th>估值</th><th>备注</th></tr></thead><tbody><tr><td>汇丰控股</td><td>RoTE 18.8%（2026 年前三季度，剔除重大项目）</td><td>市净率 1.82 倍（9/11，Wind）；P/TNAV 约 1.86 倍（11/18，推算）</td><td>摩根大通目标价 185 港元</td></tr><tr><td>渣打集团</td><td>RoTE 15.7%（2026 年第三季度）</td><td>市净率 1.50 倍（9/11，Wind）</td><td>摩根大通目标价 290 港元</td></tr><tr><td>中银香港</td><td>净息差 1.57%（2026 年上半年）</td><td>市净率 1.53 倍（9/11，Wind）</td><td>摩根大通目标价 53.3 港元</td></tr><tr><td>星展集团</td><td>—</td><td>券商目标价对应 2027 年约 2.9 倍市净率</td><td>股息率接近 6%（2026 年 3 月）</td></tr><tr><td>欧洲银行业中位数</td><td>—</td><td>市净率 1.5 倍（9/30）</td><td>—</td></tr><tr><td>美国银行业中位数</td><td>—</td><td>市净率 1.4 倍（9/30）</td><td>—</td></tr><tr><td>新兴亚洲银行业中位数</td><td>—</td><td>市净率 0.9 倍（9/30）</td><td>—</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-10">〔10〕</a><a class="cite" href="#src-11">〔11〕</a><a class="cite" href="#src-23">〔23〕</a>。不同来源的取值日期和口径不同（Wind 市净率的账面值口径可能与本文的每股有形净资产不同），仅用于观察相对位置。</p>
+
+<figure>
+  <figcaption>市净率对比<span class="cap-sub">倍；三家发钞行为 9 月 11 日 Wind 数据，行业中位数为 9 月 30 日</span></figcaption>
+  <div class="chart-box" id="ch-pb"></div>
+  <div class="src">口径不同，只用于观察相对位置。来源〔10〕〔23〕。</div>
+</figure>
+<ul><li>截至 9 月 11 日，三家发钞行的市净率都升至近五年 98% 分位以上，汇丰和渣打更超过近十年的 99% 分位<a class="cite" href="#src-10">〔10〕</a>。</li><li>摩根大通 11 月 9 日的报告认为，渣打的每股收益增长和 RoTE 扩张更好，中银香港符合预期但上调空间有限，汇丰的净利息收入和财富收入趋势较弱<a class="cite" href="#src-11">〔11〕</a>。</li></ul>
+<h3>7.3 汇丰的位置</h3>
+<ul><li><b>优势：</b> ① 香港最大的存款和客户基础；② 覆盖 56–57 个市场的网络，适合跨境支付、贸易和财富；③ 资本生成能力强，50% 派息率加持续回购。</li><li><b>劣势：</b> ① 体量大、结构复杂，增长慢于渣打；② 英国业务受税负和监管影响；③ 法律遗留问题较多；④ 夹在中美之间，地缘政治的“双重压力”比同业更大。</li><li><b>估值位置：</b> 市净率高于中银香港、渣打和新兴亚洲同业，接近欧洲优质银行；溢价来自更高的 RoTE 和更稳定的股东回报。</li></ul>
+</section>
+<section id="valuation">
+<h2><span class="no">08</span>市场空间与估值框架</h2>
+<p class="lede">对一家成熟的大型银行，“市场空间”更接近“利润池份额”：汇丰在香港已占最大份额，增长来自亚洲财富与跨境资金流；估值则取决于 17% 以上的 RoTE 能维持多久。</p>
+<h3>8.1 主要利润池与汇丰的位置</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>利润池</th><th>行业指标</th><th>汇丰的位置</th></tr></thead><tbody><tr><td>香港银行业</td><td>1–7 月存款 +5.8%；零售银行净息差 1.53%（上半年）</td><td>最大本地银行集团；第三季度香港业务税前利润 25.65 亿美元</td></tr><tr><td>亚洲财富管理</td><td>香港 IPO 集资全球第一；离岸财富中心</td><td>财富余额约 1.6 万亿美元；上半年亚洲净新增资金 570 亿美元</td></tr><tr><td>跨境交易银行</td><td>全球贸易与资金流</td><td>香港贸易融资份额约三成；CIB 第三季度税前利润 36 亿美元</td></tr><tr><td>英国零售与工商</td><td>英国利率维持在较高水平</td><td>英国业务第三季度税前利润 18 亿美元</td></tr></tbody></table></div>
+<p class="src">资料来源：<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-17">〔17〕</a><a class="cite" href="#src-18">〔18〕</a><a class="cite" href="#src-20">〔20〕</a><a class="cite" href="#src-24">〔24〕</a>。</p>
+<h3>8.2 2027 年 RoTE 情景（示意）</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>情景</th><th>主要假设</th><th>RoTE（剔除重大项目）</th></tr></thead><tbody><tr><td>悲观</td><td>利率较当前下降约 100 个基点；财富收入 −10%；信用成本 55 个基点</td><td>约 15%</td></tr><tr><td>基准</td><td>利率大致持平；财富收入 +5%；信用成本 40–45 个基点</td><td>约 17%–18%</td></tr><tr><td>乐观</td><td>利率维持高位且存款结构稳定；财富收入 +15%；信用成本 35 个基点</td><td>约 19%–20%</td></tr></tbody></table></div>
+<p><b>说明：</b> 以 2026 年前三季度剔除重大项目 RoTE 18.8%、全年约 18% 为起点，按 8.3 节的敏感度粗略加减得出，不是预测。</p>
+<h3>8.3 RoTE 敏感度（示意）</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>变量</th><th>变动</th><th class="n">税前利润影响（亿美元/年）</th><th class="n">RoTE 影响（百分点）</th></tr></thead><tbody><tr><td>主要货币利率</td><td>平行下降 100 个基点</td><td class="n">−34</td><td class="n">−1.6</td></tr><tr><td>信用成本</td><td>上升 10 个基点</td><td class="n">−10</td><td class="n">−0.5</td></tr><tr><td>财富收入</td><td>下降 10%</td><td class="n">−11</td><td class="n">−0.5</td></tr><tr><td>财富收入</td><td>上升 10%</td><td class="n">+11</td><td class="n">+0.5</td></tr><tr><td>英国银行附加税</td><td>3% 升至 6%</td><td class="n">−2（税后）</td><td class="n">−0.1</td></tr></tbody></table></div>
+<p><b>说明：</b> 均为约数。有形股本按每股有形净资产 9.41 美元 × 约 171 亿股 ≈ 1,610 亿美元，税率按 23% 示意；利率敏感度来自第三方分析<a class="cite" href="#src-17">〔17〕</a>；平均贷款约 1 万亿美元，由第一季度信用成本 13 亿美元对应年化 52 个基点倒推<a class="cite" href="#src-5">〔5〕</a>；财富收入按第三季度 27 亿美元年化<a class="cite" href="#src-2">〔2〕</a>；英国附加税按英国业务第三季度税前利润年化约 74 亿美元估算<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-22">〔22〕</a>。</p>
+
+<figure>
+  <figcaption>RoTE 敏感度（示意）<span class="cap-sub">百分点；红色为下降，蓝色为上升</span></figcaption>
+  <div class="chart-box" id="ch-sens"></div>
+  <div class="src">按有形股本约 1,610 亿美元、税率 23% 粗略计算，假设见上表说明。来源〔1〕〔2〕〔5〕〔17〕〔22〕。</div>
+</figure>
+<h3>8.4 估值与回报的关系（示意）</h3>
+<p>银行的合理市价与有形净资产之比，可以粗略写成：P/TNAV ≈（RoTE − g）÷（股本成本 − g），其中 g 为长期增长率，这里取 3%。</p>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th class="n">RoTE</th><th class="n">股本成本 9.5%</th><th class="n">股本成本 10.5%</th><th class="n">股本成本 11.5%</th></tr></thead><tbody><tr><td class="n">15%</td><td class="n">1.85</td><td class="n">1.60</td><td class="n">1.41</td></tr><tr><td class="n">17%</td><td class="n">2.15</td><td class="n">1.87</td><td class="n">1.65</td></tr><tr><td class="n">19%</td><td class="n">2.46</td><td class="n">2.13</td><td class="n">1.88</td></tr></tbody></table></div>
+<p><b>读法：</b> 当前约 1.86 倍（11/18），对应“RoTE 17%、股本成本 10.5%”的组合，即市场大致按管理层目标定价。若 RoTE 能稳定在 19%，或股本成本因地缘风险缓和而下降，估值仍有空间；若 RoTE 回落到 15%，合理倍数约 1.4–1.6 倍，对应股价约 103–117 港元（按当前每股有形净资产约 73.2 港元，示意）。券商目标价 184–193 港元<a class="cite" href="#src-11">〔11〕</a>约为当前每股有形净资产的 2.5–2.6 倍，隐含更高的 RoTE、更低的股本成本，或对未来两年有形净资产增长的预期。完整估值在任务 3 完成。</p>
+</section>
+<section id="risks">
+<h2><span class="no">09</span>风险评估</h2>
+<h3>9.1 风险总表</h3>
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th class="n">#</th><th>风险</th><th>类别</th><th>严重度</th><th>可能性</th></tr></thead><tbody><tr><td class="n">1</td><td>存款结构恶化，净利息收入见顶</td><td>公司特有</td><td><span class="pill warn"><i></i>中高</span></td><td><span class="pill crit"><i></i>高</span></td></tr><tr><td class="n">2</td><td>财富业务动能放缓</td><td>公司特有</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">3</td><td>恒生整合与香港业务执行</td><td>公司特有</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">4</td><td>治理过渡与重组执行</td><td>公司特有</td><td><span class="pill good"><i></i>低至中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">5</td><td>香港商业地产与楼市</td><td>行业与市场</td><td><span class="pill crit"><i></i>高</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">6</td><td>存款与财富客户竞争</td><td>行业与市场</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill crit"><i></i>高</span></td></tr><tr><td class="n">7</td><td>估值处于历史高位</td><td>行业与市场</td><td><span class="pill warn"><i></i>中高</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">8</td><td>资本充足率与股东回报节奏</td><td>财务</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">9</td><td>信用成本与非常规损失</td><td>财务</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">10</td><td>法律、合规与税负</td><td>财务</td><td><span class="pill warn"><i></i>中</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">11</td><td>地缘政治与制裁</td><td>宏观</td><td><span class="pill crit"><i></i>高</span></td><td><span class="pill warn"><i></i>中</span></td></tr><tr><td class="n">12</td><td>利率与经济周期</td><td>宏观</td><td><span class="pill warn"><i></i>中高</span></td><td><span class="pill warn"><i></i>中</span></td></tr></tbody></table></div>
+<p>严重度与可能性为作者的定性判断。</p>
+<h3>9.2 公司特有风险</h3>
+<p><b>风险 1：存款结构恶化，净利息收入见顶（中高）。</b> 银行业务净利息收入约占收入六成（推算）。第三季度香港定期存款占比升至 38%，香港和英国的存款竞争推高利息支出，市场对指引未上调反应负面<a class="cite" href="#src-2">〔2〕</a>。若美联储转向降息，第三方估计利率平行下降 100 个基点将使银行业务净利息收入每年减少约 34 亿美元<a class="cite" href="#src-17">〔17〕</a>。缓释因素：5,930 亿美元的结构性对冲（平均期限 3.1 年）<a class="cite" href="#src-17">〔17〕</a>；管理层表示不以价格换规模<a class="cite" href="#src-2">〔2〕</a>。</p>
+<p><b>风险 2：财富业务动能放缓（中）。</b> 第三季度财富收入同比持平，而前两个季度分别增长约 15% 和 23%<a class="cite" href="#src-2">〔2〕</a>。亚洲财富高度依赖内地客户和资金流，政策、港股表现和保险销售都会带来季度波动。缓释因素：上半年净新增资金 640 亿美元，其中亚洲 570 亿美元<a class="cite" href="#src-17">〔17〕</a>；渣打等同业仍在增长，说明需求仍在<a class="cite" href="#src-23">〔23〕</a>。</p>
+<p><b>风险 3：恒生整合与香港业务执行（中）。</b> 私有化后需要在保留恒生品牌的前提下整合科技、运营和资产负债表；汇丰重申不裁员（报道），协同主要来自非人力成本<a class="cite" href="#src-8">〔8〕</a>。恒生转出的商业地产贷款进入了汇丰香港的资产负债表，问题并没有消失，只是换了位置<a class="cite" href="#src-9">〔9〕</a>。</p>
+<p><b>风险 4：治理过渡与重组执行（低至中）。</b> 主席 Brendan Nelson 被视为过渡人选，长期继任安排未定<a class="cite" href="#src-12">〔12〕</a>；集团仍在出售和关闭多个市场的零售业务，交割、员工和客户迁移都可能出现延误或一次性损失<a class="cite" href="#src-13">〔13〕</a>。</p>
+<h3>9.3 行业与市场风险</h3>
+<p><b>风险 5：香港商业地产与楼市（高）。</b> 香港商业地产敞口约 289 亿美元，信用减值 56 亿美元、拨备 14 亿美元，信用减值贷款的平均贷款价值比升至 83%<a class="cite" href="#src-3">〔3〕</a>。若写字楼和零售物业价格再跌 10%–20%，需要进一步补提拨备。缓释因素：住宅楼价回升；信用减值金额从第一季度的 60 亿美元降到 56 亿美元<a class="cite" href="#src-3">〔3〕</a>。</p>
+<p><b>风险 6：存款与财富客户竞争（中）。</b> 中资银行、渣打、星展和虚拟银行都在争夺富裕客户和高息存款<a class="cite" href="#src-2">〔2〕</a><a class="cite" href="#src-23">〔23〕</a>。竞争主要体现在存款成本和财富产品的费率上。</p>
+<p><b>风险 7：估值处于历史高位（中高）。</b> 股价约为每股有形净资产的 1.86 倍，十年中位数约 0.9 倍<a class="cite" href="#src-10">〔10〕</a>；第三季度业绩略低于预期，股价单日就下跌 5.6%<a class="cite" href="#src-2">〔2〕</a>。若 RoTE 回落到 15%，合理倍数可能降至 1.4–1.6 倍（示意，见 8.4 节）。</p>
+<h3>9.4 财务风险</h3>
+<p><b>风险 8：资本充足率与股东回报节奏（中）。</b> CET1 13.9%，略低于 14%–14.5% 目标区间的下限<a class="cite" href="#src-1">〔1〕</a>。回购规模已从 2025 年上半年的每次 20–30 亿美元降到每次 10 亿美元<a class="cite" href="#src-4">〔4〕</a><a class="cite" href="#src-7">〔7〕</a>；若风险加权资产继续增长，回购可能维持在低位。缓释因素：Basel 3.1 将在 2027 年 1 月 1 日带来约 0.4–0.5 个百分点的提升<a class="cite" href="#src-1">〔1〕</a>。</p>
+<p><b>风险 9：信用成本与非常规损失（中）。</b> 2026 年第一季度预期信用损失 13 亿美元，其中英国一笔二级证券化欺诈 4 亿美元、中东冲突拨备 3 亿美元，全年信用成本指引从约 40 个基点上调至约 45 个基点<a class="cite" href="#src-5">〔5〕</a>。私人信贷敞口约 220 亿美元、证券化融资约 30 亿美元，属于近期行业关注的领域<a class="cite" href="#src-5">〔5〕</a>。</p>
+<p><b>风险 10：法律、合规与税负（中）。</b> 2025 年第三季度为卢森堡 Madoff 相关诉讼计提 11 亿美元、为英国历史交易事项计提 3 亿美元<a class="cite" href="#src-15">〔15〕</a>；英国银行附加税 2027 年起翻倍至 6%（至 2028 年 3 月）<a class="cite" href="#src-22">〔22〕</a>。作为跨国银行，汇丰还面临反洗钱和制裁执行方面的持续审查。</p>
+<h3>9.5 宏观风险</h3>
+<p><b>风险 11：地缘政治与制裁（高）。</b> 汇丰总部在伦敦、利润主要来自香港，同时在美国和中东经营，中美关系、制裁与反制裁都可能直接影响业务和声誉。伊朗战争已使汇丰在 2026 年 3 月关闭卡塔尔分行，上半年计提约 4 亿美元中东相关拨备；分析师估计中东业务约占汇丰收入或利润的 4%<a class="cite" href="#src-16">〔16〕</a>。</p>
+<p><b>风险 12：利率与经济周期（中高）。</b> 当前盈利受益于较高利率：若油价回落、美联储转向降息，净利息收入将下降；若高利率持续导致经济放缓，信用成本会上升<a class="cite" href="#src-21">〔21〕</a>。联系汇率意味着香港无法独立调整利率，本地经济、楼市和银行利润都随美国利率周期波动。</p>
+</section>
+<section id="agenda">
+<h2><span class="no">10</span>未来规划与跟踪议程</h2>
+<ul class="tl"><li><div class="when">2026 年 12 月 17 日</div><b>派发第三次中期股息（每股 0.10 美元）</b><div class="small muted">约 17.1 亿美元<a class="cite" href="#src-1">〔1〕</a></div></li><li><div class="when">2026 年底至 2027 年初</div><b>美联储下一次议息；年底港元资金面</b><div class="small muted">是否再次加息、HIBOR 走势<a class="cite" href="#src-21">〔21〕</a></div></li><li><div class="when">2027 年 1 月 1 日</div><b>英国实施 Basel 3.1；银行附加税升至 6%</b><div class="small muted">CET1 约 +0.4–0.5 个百分点；英国税负<a class="cite" href="#src-1">〔1〕</a><a class="cite" href="#src-22">〔22〕</a></div></li><li><div class="when">2027 年 2 月下旬</div><b>2026 年度业绩</b><div class="small muted">第四次中期股息、2027 年净利息收入与成本指引、回购规模、CET1</div></li><li><div class="when">2027 年 5 月初</div><b>2027 年第一季度业绩</b><div class="small muted">香港定期存款占比、财富收入能否恢复增长</div></li><li><div class="when">2027 年上半年</div><b>澳洲贷款组合出售完成</b><div class="small muted">亏损小于 1 亿美元<a class="cite" href="#src-13">〔13〕</a></div></li><li><div class="when">2027 年下半年</div><b>埃及零售业务出售完成</b><div class="small muted">税前收益约 3 亿美元<a class="cite" href="#src-13">〔13〕</a></div></li><li><div class="when">2028 年 4 月 1 日</div><b>英国银行附加税回落至 3%</b><div class="small muted">英国税负回落<a class="cite" href="#src-22">〔22〕</a></div></li><li><div class="when">持续</div><b>香港商业地产、伊朗战争与油价、中美关系</b><div class="small muted">信用成本与地缘风险</div></li></ul>
+<p><b>接下来最值得跟踪的五个指标：</b></p>
+<ol><li><b>银行业务净利息收入与净息差：</b> 判断利率红利还能持续多久。</li><li><b>香港定期存款占比：</b> 判断存款成本的压力。</li><li><b>财富业务净新增资金与收入：</b> 判断增长引擎是否失速。</li><li><b>香港商业地产信用减值与拨备：</b> 判断资产质量的拐点。</li><li><b>CET1 与回购规模：</b> 判断股东回报能否回到更高水平。</li></ol>
+</section>
+<section id="sources">
+<h2><span class="no">附录</span>数据来源</h2>
+<p class="src">访问说明：汇丰官网、港交所披露易、伦敦证券交易所和美国证监会的文件原文在本运行环境中无法直接打开（抓取时域名被网络策略拦截），以下链接未能逐一打开核对，相关数字来自搜索摘要与转载。检索日期均为 2026 年 11 月 19 日。</p>
+<p class="srcgroup">公司业绩</p>
+<ol class="foot"><li id="src-1" value="1">2026 年第三季度业绩：汇丰业绩公告 <a href="https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2026/3q/pdfs/hsbc-holdings-plc/261027-3q-2026-earnings-release.pdf" target="_blank" rel="noopener">hsbc.com</a> ；美国证监会 6-K <a href="https://www.sec.gov/Archives/edgar/data/1089113/000108911326000030/livedocq32026earningsrelea.htm" target="_blank" rel="noopener">sec.gov</a> ；汇丰 3Q 2026 速览 <a href="https://www.hsbc.com/investors/results-and-announcements/all-reporting/3q-2026-quick-read" target="_blank" rel="noopener">hsbc.com</a> ；StockTitan <a href="https://www.stocktitan.net/sec-filings/HSBC/6-k-hsbc-holdings-plc-current-report-foreign-issuer-95ca1800d8ab.html" target="_blank" rel="noopener">stocktitan.net</a> ；Smartkarma <a href="https://www.smartkarma.com/home/news/earnings/hsbc-holdings-plc/2026-q3" target="_blank" rel="noopener">smartkarma.com</a> ；AJ Bell <a href="https://www.ajbell.co.uk/news/articles/hsbc-profit-surges-32-third-quarter-plans-usd1-billion-buyback" target="_blank" rel="noopener">ajbell.co.uk</a> ；DividendMax <a href="https://www.dividendmax.com/dividend-investor-news/9237/hsbc-holdings-announce-a-third-interim-dividend-of-010-per-ordinary-share" target="_blank" rel="noopener">dividendmax.com</a> ；Vermögenszentrum（CET1） <a href="https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/hsbc-cet1-capital-ratio-falls-139-third-quarter-2026" target="_blank" rel="noopener">vermoegenszentrum.ch</a></li><li id="src-2" value="2">第三季度市场反应与电话会：Investing.com <a href="https://ng.investing.com/news/earnings/hsbc-3q-pretax-profit-rises-32-narrowly-misses-estimates-as-income-grows-2758755" target="_blank" rel="noopener">ng.investing.com</a> ；Investing.com（电话会） <a href="https://www.investing.com/news/transcripts/earnings-call-transcript-hsbc-misses-q3-2026-earnings-forecast-as-stock-falls-93CH-4974608" target="_blank" rel="noopener">investing.com</a> ；Yahoo Finance <a href="https://finance.yahoo.com/markets/stocks/articles/hsbc-3q-pretax-profit-rises-050320424.html" target="_blank" rel="noopener">finance.yahoo.com</a> ；富途 <a href="https://news.futunn.com/en/post/1002383684/hsbc-holdings-plunges-nearly-6-to-hit-a-six-month" target="_blank" rel="noopener">news.futunn.com</a> ；RTÉ <a href="https://www.rte.ie/news/business/2026/1027/1596931-hsbc-quarterly-results/" target="_blank" rel="noopener">rte.ie</a> ；Khaleej Times <a href="https://www.khaleejtimes.com/business/hsbc-shares-tumble-6-after-third-quarter-revenue-disappoints-wealth-growth-slows" target="_blank" rel="noopener">khaleejtimes.com</a> ；The Standard <a href="https://www.thestandard.com.hk/finance/article/346609/HSBC-quarterly-profit-jumps-but-revenue-misses-estimates-shares-slide-6pc" target="_blank" rel="noopener">thestandard.com.hk</a> ；China Daily HK <a href="https://www.chinadailyhk.com/article/641836" target="_blank" rel="noopener">chinadailyhk.com</a> ；gloom.sh（电话会纪要） <a href="https://gloom.sh/stocks/hsbc/transcripts/q3-2026" target="_blank" rel="noopener">gloom.sh</a></li><li id="src-3" value="3">香港商业地产披露：美国证监会 6-K（2026 年第三季度） <a href="https://www.sec.gov/Archives/edgar/data/0001089113/000165495426009161/a6042a-689248271.htm" target="_blank" rel="noopener">sec.gov</a> ；美国证监会 6-K（2026 年第一季度） <a href="https://www.sec.gov/Archives/edgar/data/0001089113/000108911326000016/livedocq12026earningsrelea.htm" target="_blank" rel="noopener">sec.gov</a></li><li id="src-4" value="4">2026 年中期业绩：汇丰速览 <a href="https://www.hsbc.com/investors/results-and-announcements/all-reporting/interim-results-2026-quick-read" target="_blank" rel="noopener">hsbc.com</a> ；汇丰新闻稿 <a href="https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-holdings-plc-interim-results-2026" target="_blank" rel="noopener">hsbc.com</a> ；QZ <a href="https://qz.com/hsbc-first-half-2026-earnings-profit-share-buyback-080426" target="_blank" rel="noopener">qz.com</a> ；Khaleej Times <a href="https://www.khaleejtimes.com/business/hsbc-restarts-buybacks-after-rates-and-wealth-boost-h1-profit" target="_blank" rel="noopener">khaleejtimes.com</a> ；Emirates 24|7 <a href="https://www.emirates247.com/business/hsbc-beats-h1-profit-forecasts-resumes-share-buybacks-and-raises-income-guidance/4210" target="_blank" rel="noopener">emirates247.com</a> ；Hargreaves Lansdown <a href="https://www.hl.co.uk/shares/share-research/hsbc-q2-results-solid-quarter" target="_blank" rel="noopener">hl.co.uk</a> ；The Asian Banker <a href="https://www.theasianbanker.com/press-releases/hsbc-posts-19-5bn-pre-tax-profit-in-first-half-2026-as-bank-announces-1bn-share-buy-back" target="_blank" rel="noopener">theasianbanker.com</a> ；汇丰新闻 <a href="https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-growing-across-all-our-indicators" target="_blank" rel="noopener">hsbc.com</a> ；WealthBriefing <a href="https://www.wealthbriefing.com/html/article.php/hsbc-pre_dash_tax-profit-rises-23-per-cent-in-h1-2026%3B-wealth-arm-helps-higher-income" target="_blank" rel="noopener">wealthbriefing.com</a></li><li id="src-5" value="5">2026 年第一季度业绩：汇丰速览 <a href="https://www.hsbc.com/investors/results-and-announcements/all-reporting/1q-2026-quick-read" target="_blank" rel="noopener">hsbc.com</a> ；汇丰新闻稿 <a href="https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-holdings-plc-1q-2026-earnings-release" target="_blank" rel="noopener">hsbc.com</a> ；AJ Bell <a href="https://www.ajbell.co.uk/news/articles/update-hsbc-shares-dented-takes-400-million-fraud-charge-uk" target="_blank" rel="noopener">ajbell.co.uk</a> ；QZ <a href="https://qz.com/hsbc-q1-2026-earnings-miss-fraud-charge-middle-east-050526" target="_blank" rel="noopener">qz.com</a> ；City AM <a href="https://www.cityam.com/hsbc-profit-drops-after-iran-war-and-private-credit-charges-bite/" target="_blank" rel="noopener">cityam.com</a> ；The Asian Banker <a href="https://www.theasianbanker.com/updates-and-articles/hsbc-s-best-returns-in-20-years-meet-a-1-3-billion-credit-charge" target="_blank" rel="noopener">theasianbanker.com</a> ；DirectorsTalk <a href="https://www.directorstalkinterviews.com/hsbc-reports-stable-profit-higher-credit-costs-strong-revenue-growth-in-q1-2026-results/4121250569" target="_blank" rel="noopener">directorstalkinterviews.com</a></li><li id="src-6" value="6">2025 年度业绩：汇丰速览 <a href="https://www.hsbc.com/investors/results-and-announcements/all-reporting/annual-results-2025-quick-read" target="_blank" rel="noopener">hsbc.com</a> ；汇丰新闻稿 <a href="https://hsbc.com/news-and-views/news/media-releases/2026/hsbc-holdings-plc-annual-results-2025" target="_blank" rel="noopener">hsbc.com</a> ；AJ Bell <a href="https://www.ajbell.co.uk/news/articles/hsbc-pretax-profit-falls-7-2025-bank-takes-decisive-action" target="_blank" rel="noopener">ajbell.co.uk</a> ；FinanceAsia <a href="https://www.financeasia.com/article/hsbcs-pre-tax-profits-fall-2-4bn-in-2025-eyes-growth-in-asia/507310" target="_blank" rel="noopener">financeasia.com</a></li><li id="src-7" value="7">历年业绩与回购：2024 年速览 <a href="https://www.hsbc.com/investors/results-and-announcements/all-reporting/annual-results-2024-quick-read" target="_blank" rel="noopener">hsbc.com</a> ；2023 年新闻稿 <a href="https://www.hsbc.com/news-and-views/news/media-releases/2024/hsbc-holdings-plc-annual-results-2023" target="_blank" rel="noopener">hsbc.com</a> ；2022 年速览 <a href="https://www.hsbc.com/investors/results-and-announcements/all-reporting/annual-results-2022-quick-read" target="_blank" rel="noopener">hsbc.com</a> ；Euronews <a href="https://www.euronews.com/2025/02/19/hsbc-announces-19bn-share-buyback-as-annual-profit-jumps" target="_blank" rel="noopener">euronews.com</a> ；SCMP（2025 年 7 月 30 亿美元回购） <a href="https://www.scmp.com/business/article/3320086/hsbc-plans-us3-billion-stock-buy-back-after-29-drop-second-quarter-profit" target="_blank" rel="noopener">scmp.com</a></li></ol>
+<p class="srcgroup">恒生银行</p>
+<ol class="foot"><li id="src-8" value="8">私有化：汇丰专页 <a href="https://www.hsbc.com/investors/hsbc-proposal-to-privatise-hang-seng-bank" target="_blank" rel="noopener">hsbc.com</a> ；汇丰新闻稿（2025 年 10 月 9 日） <a href="https://www.hsbc.com/news-and-views/news/media-releases/2025/hsbc-proposes-to-privatise-hang-seng-bank-by-scheme-of-arrangement" target="_blank" rel="noopener">hsbc.com</a> ；汇丰新闻稿（2026 年 1 月 8 日） <a href="https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbcs-proposal-to-privatise-hang-seng-bank-approved-by-hang-seng-bank-shareholders" target="_blank" rel="noopener">hsbc.com</a> ；Marketech APAC <a href="https://marketech-apac.com/hang-seng-bank-delisted-from-hong-kong-stock-exchange-as-hsbc-completes-privatisation/" target="_blank" rel="noopener">marketech-apac.com</a> ；SCMP <a href="https://www.scmp.com/business/banking-finance/article/3328378/whats-behind-hsbcs-privatisation-hang-seng-bank-drive-efficiency-analysts-say" target="_blank" rel="noopener">scmp.com</a> ；Investing.com <a href="https://ng.investing.com/news/stock-market-news/hsbc-proposes-to-take-hang-seng-bank-private-2137109" target="_blank" rel="noopener">ng.investing.com</a> ；The Standard（资本） <a href="https://www.thestandard.com.hk/finance/article/315332/HSBC-reiterates-capital-level-to-return-after-Hang-Seng-buyout" target="_blank" rel="noopener">thestandard.com.hk</a> ；The Standard（不裁员） <a href="https://www.thestandard.com.hk/finance/article/339014/HSBC-reiterates-no-layoffs-after-Hang-Seng-privatization" target="_blank" rel="noopener">thestandard.com.hk</a> ；Risk.net <a href="https://www.risk.net/risk-quantum/7963555/hsbc-cet1-hits-2022-low-after-hang-seng-buyout" target="_blank" rel="noopener">risk.net</a></li><li id="src-9" value="9">恒生与香港同业资产质量：香港01（恒生 2026 年中期） <a href="https://global.hk01.com/财经快讯/60384712/恒生向汇丰售贷款组合涉逾百亿元-不良贷款比率急降至4-6" target="_blank" rel="noopener">global.hk01.com</a> ；香港01（恒生 2025 年度） <a href="https://global.hk01.com/财经快讯/60333130/恒生银行去年信贷减值提拨大增近70-因香港商业房地产仍受压" target="_blank" rel="noopener">global.hk01.com</a> ；香港01（东亚银行） <a href="https://global.hk01.com/财经快讯/60381997/港商业房地产贷款敞口缩至9-5-东亚-市场趋稳定-望坏账续回落" target="_blank" rel="noopener">global.hk01.com</a></li></ol>
+<p class="srcgroup">行情与券商</p>
+<ol class="foot"><li id="src-10" value="10">行情与估值：Yahoo 股市 <a href="https://tw.stock.yahoo.com/quote/0005.HK" target="_blank" rel="noopener">tw.stock.yahoo.com</a> ；新浪（新华社 11 月 18 日收市） <a href="https://k.sina.cn/article_1699432410_654b47da02001y30u.html" target="_blank" rel="noopener">k.sina.cn</a> ；英为财情（11 月 18 日回购） <a href="https://cn.investing.com/news/stock-market-news/article-3676330" target="_blank" rel="noopener">cn.investing.com</a> ；21 世纪经济报道（9 月 11 日市净率） <a href="https://m.sfccn.com/2026/9-11/yMMDE0MDZfMjIzODYyMg.html" target="_blank" rel="noopener">m.sfccn.com</a> ；GuruFocus（P/TBV 与十年中位数） <a href="https://www.gurufocus.com/term/price-to-tangible-book/HSBC" target="_blank" rel="noopener">gurufocus.com</a></li><li id="src-11" value="11">券商观点：证券之星（摩根大通 11 月 9 日） <a href="https://wap.stockstar.com/detail/IG2026110900017343" target="_blank" rel="noopener">wap.stockstar.com</a> ；同花顺（华泰 10 月 29 日，目标价 183.86 港元） <a href="https://news.10jqka.com.cn/field/sr/20261029/60334619.shtml" target="_blank" rel="noopener">news.10jqka.com.cn</a> ；长桥（高盛目标价 193 港元） <a href="https://longbridge.com/news/294902866" target="_blank" rel="noopener">longbridge.com</a></li></ol>
+<p class="srcgroup">管理层与公司事件</p>
+<ol class="foot"><li id="src-12" value="12">管理层、治理与重组：汇丰（Elhedery） <a href="https://hsbc.com/who-we-are/leadership/georges-elhedery" target="_blank" rel="noopener">hsbc.com</a> ；Wikipedia <a href="https://en.wikipedia.org/wiki/Georges_Elhedery" target="_blank" rel="noopener">en.wikipedia.org</a> ；汇丰（Pam Kaur 任命） <a href="https://www.hsbc.com/news-and-views/news/media-releases/2024/hsbc-announces-appointment-of-pam-kaur-as-group-chief-financial-officer" target="_blank" rel="noopener">hsbc.com</a> ；Mortgage Solutions（重组与财务总监任命） <a href="https://www.mortgagesolutions.co.uk/news/2024/10/22/hsbc-hires-kaur-as-first-female-cfo-and-announces-organisational-shake-up/" target="_blank" rel="noopener">mortgagesolutions.co.uk</a> ；汇丰（Nelson 任命） <a href="https://www.hsbc.com/news-and-views/news/hsbc-news-archive/brendan-nelson-appointed-as-group-chair" target="_blank" rel="noopener">hsbc.com</a> ；The Standard <a href="https://www.thestandard.com.hk/wealth-and-investment/article/318394/HSBC-appoints-Brendan-Nelson-as-new-chairman-to-replace-Mark-Tucker" target="_blank" rel="noopener">thestandard.com.hk</a> ；Hargreaves Lansdown <a href="https://www.hl.co.uk/news/hsbcs-long-term-vision-called-into-question-after-nelson-appointment" target="_blank" rel="noopener">hl.co.uk</a> ；Banking Dive <a href="https://www.bankingdive.com/news/hsbc-names-permanent-chair-brendan-nelson-76-elhedery-tucker/806906/" target="_blank" rel="noopener">bankingdive.com</a> ；汇丰香港管理层变动 <a href="https://www.about.hsbc.com.hk/news-and-media/hsbc-leadership-changes-in-hong-kong" target="_blank" rel="noopener">about.hsbc.com.hk</a> ；finews.asia <a href="https://www.finews.asia/people/43940-hsbc-hang-seng-maggie-ng-luanne-lim-diana-cesar-hong-kong" target="_blank" rel="noopener">finews.asia</a> ；汇丰（HSBC UK 主席） <a href="https://hsbc.com/news-and-views/news/media-releases/2026/dame-carolyn-fairbairn-to-be-appointed-chair-of-hsbc-uk-bank-plc" target="_blank" rel="noopener">hsbc.com</a> ；美国证监会 6-K（董事会变动） <a href="https://www.sec.gov/Archives/edgar/data/0001089113/000165495426004387/a2242d.htm" target="_blank" rel="noopener">sec.gov</a> ；Caproasia（Michael Roberts） <a href="https://www.caproasia.com/2026/01/20/hsbc-corporate-and-institutional-banking-ceo-michael-roberts-forecasts-hsbc-group-share-price-to-reach-300-billion-402-billion-after-hsbc-share-price-crossed-200-billion-268-billion-current-mar/" target="_blank" rel="noopener">caproasia.com</a></li><li id="src-13" value="13">出售与退出：Morningstar（澳洲） <a href="https://www.morningstar.com/news/dow-jones/2026073019331/hsbc-to-sell-25-billion-australian-loan-portfolio-to-blackstone" target="_blank" rel="noopener">morningstar.com</a> ；AJ Bell（澳洲） <a href="https://www.ajbell.co.uk/news/articles/hsbc-sell-australia-loan-portfolio-blackstone-owned-virgo-bidco" target="_blank" rel="noopener">ajbell.co.uk</a> ；汇丰（埃及） <a href="https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-agrees-to-sell-egypt-retail-banking-business-to-emirates-nbd" target="_blank" rel="noopener">hsbc.com</a> ；Daily Mirror（斯里兰卡） <a href="https://www.dailymirror.lk/business-news/HSBC-to-exit-retail-banking-in-SL-with-Rs-18bn-sale-to-Nations-Trust-Bank/273-320437" target="_blank" rel="noopener">dailymirror.lk</a> ；Nasdaq（德国托管） <a href="https://www.nasdaq.com/articles/hsbcs-arm-exit-german-custody-business-under-simplification-plan" target="_blank" rel="noopener">nasdaq.com</a> ；The Asian Banker <a href="https://www.theasianbanker.com/updates-and-articles/hsbc-exits-two-retail-markets-standard-chartered-transfers-singapore-lending-portfolio-to-trust" target="_blank" rel="noopener">theasianbanker.com</a></li><li id="src-14" value="14">交通银行：汇丰公告（2025 年 3 月 31 日） <a href="https://www.hsbc.com/-/files/hsbc/investors/results-and-announcements/stock-exchange-announcements/2025/mar/sea-250331-e-bocom-proposed-issuance-of-a-shares.pdf" target="_blank" rel="noopener">hsbc.com</a> ；美国证监会 6-K（2025 年中期） <a href="https://www.sec.gov/Archives/edgar/data/1089113/000108911325000052/hsbc-20250630.htm" target="_blank" rel="noopener">sec.gov</a></li><li id="src-15" value="15">2025 年第三季度重大项目：汇丰新闻稿 <a href="https://www.hsbc.com/news-and-views/news/media-releases/2025/hsbc-holdings-plc-3q-2025-earnings-release" target="_blank" rel="noopener">hsbc.com</a> ；伦交所公告 <a href="https://www.lse.co.uk/rns/HSBA/hsbc-holdings-plc-earnings-release-3q25-9duf1600m8l8odn.html" target="_blank" rel="noopener">lse.co.uk</a></li><li id="src-16" value="16">中东与伊朗战争：The National <a href="https://www.thenationalnews.com/business/banking/2026/10/26/hsbc-not-worried-about-gulf-property-sector-exposure-despite-war-volatility-ceo-says/" target="_blank" rel="noopener">thenationalnews.com</a> ；Profit（路透转载） <a href="https://profit.pakistantoday.com.pk/2026/03/13/iran-war-casts-shadow-over-hsbc-and-stanchart-middle-east-ambitions" target="_blank" rel="noopener">profit.pakistantoday.com.pk</a> ；标普全球 <a href="https://spglobal.com/market-intelligence/en/news-insights/articles/2026/5/european-banks-add-more-than-1-5b-of-loan-loss-provisions-for-middle-east-war-101499627" target="_blank" rel="noopener">spglobal.com</a></li><li id="src-17" value="17">净利息收入、结构性对冲与财富：The Asian Banker（2025 年业绩） <a href="https://www.theasianbanker.com/updates-and-articles/hsbc-delivers-17-2-rote-as-wealth-and-cross-border-franchise-reinforce-return-leadership" target="_blank" rel="noopener">theasianbanker.com</a> ；Yahoo Finance（第四季度电话会要点） <a href="https://finance.yahoo.com/news/hsbc-q4-earnings-call-highlights-123614253.html" target="_blank" rel="noopener">finance.yahoo.com</a> ；Hargreaves Lansdown（指引变化） <a href="https://www.hl.co.uk/shares/share-research/202608/hsbc-q2-results-solid-quarter" target="_blank" rel="noopener">hl.co.uk</a> ；WealthBriefing（2026 年第一季度） <a href="https://www.wealthbriefing.com/html/article.php/reported-international-wealth%2C-premier-banking-revenues-rise-at-hsbc-in-q1-2026" target="_blank" rel="noopener">wealthbriefing.com</a> ；City AM（亚洲财富） <a href="https://www.cityam.com/?p=2403144" target="_blank" rel="noopener">cityam.com</a> ；AlphaSense <a href="https://www.alpha-sense.com/earnings/hsbc" target="_blank" rel="noopener">alpha-sense.com</a></li></ol>
+<p class="srcgroup">香港银行业与宏观</p>
+<ol class="foot"><li id="src-18" value="18">香港金融管理局：《货币与金融稳定情况半年度报告》2026 年 9 月 <a href="https://www.hkma.gov.hk/media/eng/publication-and-research/bulletin/202609/E_Half-yearly_202609.pdf" target="_blank" rel="noopener">hkma.gov.hk</a> ；同报告第 5 章 <a href="https://www.hkma.gov.hk/media/eng/publication-and-research/bulletin/202609/Chapter5.pdf" target="_blank" rel="noopener">hkma.gov.hk</a> ；金管局季报 2026 年第 2 期 <a href="https://www.hkma.gov.hk/media/eng/publication-and-research/bulletin/202606/ra1.pdf" target="_blank" rel="noopener">hkma.gov.hk</a> ；2026 年 3 月半年度报告 <a href="https://www.hkma.gov.hk/media/eng/publication-and-research/bulletin/202603/E_Half-yearly_202603.pdf" target="_blank" rel="noopener">hkma.gov.hk</a> ；2025 年年报 <a href="https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/15_Banking_Stability.pdf" target="_blank" rel="noopener">hkma.gov.hk</a></li><li id="src-19" value="19">毕马威《香港银行业报告 2026》：<a href="https://kpmg.com/cn/en/insights/2026/06/hong-kong-banking-report-2026.html" target="_blank" rel="noopener">kpmg.com</a> ；<a href="https://kpmg.com/cn/en/home/media/press-releases/2026/01/strong-wealth-management-and-ipo-pipelines-to-underpin-hongkong-bank-growth.html" target="_blank" rel="noopener">kpmg.com</a></li><li id="src-20" value="20">香港经济、楼市与 IPO：香港品牌网（经济概况，2026 年 5 月） <a href="https://cms.brandhk.gov.hk/docs/default-source/factsheets-library/hong-kong-themes/2026-05-11/economic-performance-and-outlook_sc_may-2026.pdf" target="_blank" rel="noopener">cms.brandhk.gov.hk</a> ；香港01（莱坊楼价预测） <a href="https://global.hk01.com/地产楼市/60312708/莱坊-去库存压力猷在-惟今年楼价看升5-至8-租金升最多5-破顶" target="_blank" rel="noopener">global.hk01.com</a> ；香港01（施政报告 IPO） <a href="https://global.hk01.com/财经快讯/60390538/施政报告-新股集资3400亿超去年-简化招股章程披露检讨18c门槛" target="_blank" rel="noopener">global.hk01.com</a> ；The Standard（BDO 预测） <a href="https://www.thestandard.com.hk/finance/article/337933/HK-expects-to-see-total-200-IPO-listings-in-2026-raising-400bn" target="_blank" rel="noopener">thestandard.com.hk</a></li><li id="src-21" value="21">美联储与利率：美联储 10 月 28 日声明 <a href="https://federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm" target="_blank" rel="noopener">federalreserve.gov</a> ；美联储 9 月 16 日声明 <a href="https://federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm" target="_blank" rel="noopener">federalreserve.gov</a> ；KPBS/NPR <a href="https://www.kpbs.org/news/economy/2026/09/16/the-fed-raises-interest-rates-for-the-first-time-in-over-three-years" target="_blank" rel="noopener">kpbs.org</a> ；The National <a href="https://www.thenationalnews.com/business/economy/2026/09/16/fed-rate-rise-25-basis-points-hike/" target="_blank" rel="noopener">thenationalnews.com</a> ；StockAnalysis <a href="https://stockanalysis.com/news/fed-holds-rates-steady-oct-2026/" target="_blank" rel="noopener">stockanalysis.com</a> ；SCMP（2025 年底 HIBOR 预测） <a href="https://www.scmp.com/business/banking-finance/article/3337042/hong-kong-interbank-rates-forecast-drop-expected-us-monetary-easing-2026" target="_blank" rel="noopener">scmp.com</a> ；The Standard（最优惠利率） <a href="https://www.thestandard.com.hk/finance/article/346890/Hong-Kong-major-lenders-keep-prime-rate-unchanged" target="_blank" rel="noopener">thestandard.com.hk</a></li><li id="src-22" value="22">英国预算与银行附加税：GOV.UK <a href="https://www.gov.uk/government/publications/increase-in-the-banking-surcharge-rate-for-a-temporary-period/increase-in-rate-of-banking-surcharge-for-temporary-period" target="_blank" rel="noopener">gov.uk</a> ；ITV <a href="https://www.itv.com/news/2026-10-28/bank-taxes-to-rise-by-less-than-some-feared-to-help-fund-breathing-space" target="_blank" rel="noopener">itv.com</a> ；Portfolio Adviser <a href="https://portfolio-adviser.com/autumn-budget-2026-banks-surcharge-up-by-3-to-provide-breathing-space/" target="_blank" rel="noopener">portfolio-adviser.com</a> ；Classic FM（Healey） <a href="https://www.classicfm.com/radio/news/business/healey-summons-uk-bank-chiefs-to-pre-budget-s/" target="_blank" rel="noopener">classicfm.com</a></li></ol>
+<p class="srcgroup">同业、概况与历史</p>
+<ol class="foot"><li id="src-23" value="23">同业：渣打第三季度业绩 <a href="https://www.sc.com/en/press-release/q3-2026-financial-results/" target="_blank" rel="noopener">sc.com</a> ；Quartr（渣打） <a href="https://quartr.com/events/standard-chartered-plc-stan-q3-2026_ofzKkA3F" target="_blank" rel="noopener">quartr.com</a> ；SCMP（渣打财富） <a href="https://www.scmp.com/business/banking-finance/article/3372386/standard-chartered-beats-forecast-wealth-business-powers-third-quarter-profit" target="_blank" rel="noopener">scmp.com</a> ；中银香港中期业绩公告 <a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082800459.pdf" target="_blank" rel="noopener">www1.hkexnews.hk</a> ；Quartr（中银香港） <a href="https://quartr.com/events/boc-hong-kong-2388-h1-2026_FYGbiEto" target="_blank" rel="noopener">quartr.com</a> ；SCMP（中银香港） <a href="https://www.scmp.com/business/companies/article/3365615/bochk-posts-higher-profit-lower-credit-costs-offset-margin-pressure" target="_blank" rel="noopener">scmp.com</a> ；The Standard（星展香港） <a href="https://www.thestandard.com.hk/finance/article/339936/DBS-Hong-Kong-interim-profit-rises-23pc-to-record-high-63b" target="_blank" rel="noopener">thestandard.com.hk</a> ；Siblis Research（行业市净率） <a href="https://siblisresearch.com/valuation-multiples-by-industry/banks/" target="_blank" rel="noopener">siblisresearch.com</a> ；Beansprout（星展股息率） <a href="https://growbeansprout.com/dbs-uob-ocbc-share-price-dividend-mar-2026" target="_blank" rel="noopener">growbeansprout.com</a></li><li id="src-24" value="24">汇丰概况与香港份额：汇丰概览 <a href="https://www.hsbc.com/who-we-are/hsbc-at-a-glance" target="_blank" rel="noopener">hsbc.com</a> ；汇丰市场 <a href="https://www.hsbc.com/who-we-are/our-markets" target="_blank" rel="noopener">hsbc.com</a> ；CompaniesMarketCap（总资产） <a href="https://companiesmarketcap.com/hsbc/total-assets/" target="_blank" rel="noopener">companiesmarketcap.com</a> ；FinanceAsia（汇丰赞助内容，贸易融资份额） <a href="https://www.financeasia.com/article/fa-awards-spotlight-2026-hsbc/507807" target="_blank" rel="noopener">financeasia.com</a> ；汇丰香港新闻稿（2026 年 6 月 17 日） <a href="https://www.about.hsbc.com.hk/news-and-media/hsbc-launches-new-digital-trade-finance-solution-to-help-businesses-unlock-working-capital-fast" target="_blank" rel="noopener">about.hsbc.com.hk</a></li><li id="src-25" value="25">汇丰历史：Wikipedia <a href="https://en.wikipedia.org/wiki/HSBC" target="_blank" rel="noopener">en.wikipedia.org</a></li><li id="src-26" value="26">平安持股：Bloomberg（2024 年 5 月） <a href="https://www.bloomberg.com/news/articles/2024-05-16/top-hsbc-shareholder-ping-an-exploring-ways-to-cut-13-billion-stake" target="_blank" rel="noopener">bloomberg.com</a> ；SCMP（2024 年 5 月） <a href="https://www.scmp.com/business/banking-finance/article/3262257/chinas-ping-sells-hsbc-shares-us50-million-tantrum-after-reported-protest-vote-against-ceo-noel" target="_blank" rel="noopener">scmp.com</a></li></ol>
+<div class="disclaimer">免责声明：本报告基于公开信息和作者的整理与计算，用于研究与学习目的，不构成任何投资建议。部分数据（行情、同业数据、券商目标价、行业统计）来自二手媒体或数据平台，可能与原始披露存在差异；标注“推算”“示意”的数字依赖假设，实际结果可能显著不同。</div>
+</section>
+</main>
+
+<script>
+(function () {
+  var links = Array.prototype.slice.call(document.querySelectorAll('.rail a'));
+  var byId = {};
+  links.forEach(function (a) { byId[a.getAttribute('href').slice(1)] = a; });
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        links.forEach(function (a) { a.classList.remove('on'); });
+        var a = byId[e.target.id];
+        if (a) {
+          a.classList.add('on');
+          var rail = a.parentNode;
+          rail.scrollTo({ left: Math.max(0, a.offsetLeft - rail.clientWidth / 2 + a.clientWidth / 2), behavior: 'auto' });
+        }
+      });
+    }, { rootMargin: '-45% 0px -50% 0px' });
+    document.querySelectorAll('main section').forEach(function (s) { io.observe(s); });
+  }
+
+  var NS = 'http://www.w3.org/2000/svg';
+  function E(tag, attrs, parent) {
+    var e = document.createElementNS(NS, tag);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(e);
+    return e;
+  }
+  function T(parent, x, y, txt, cls, anchor) {
+    var t = E('text', { x: x, y: y, 'class': cls, 'text-anchor': anchor || 'middle' }, parent);
+    t.textContent = txt;
+    return t;
+  }
+  // Horizontal bar from x0 to x1 with the rounded end away from the baseline.
+  function hbarPath(x0, x1, y, h, r) {
+    var left = Math.min(x0, x1), w = Math.max(1, Math.abs(x1 - x0));
+    r = Math.min(r, h / 2, w);
+    if (x1 >= x0) {
+      return 'M' + left + ',' + y + 'H' + (left + w - r) + 'Q' + (left + w) + ',' + y + ' ' + (left + w) + ',' + (y + r) +
+        'V' + (y + h - r) + 'Q' + (left + w) + ',' + (y + h) + ' ' + (left + w - r) + ',' + (y + h) + 'H' + left + 'Z';
+    }
+    var right = left + w;
+    return 'M' + right + ',' + y + 'H' + (left + r) + 'Q' + left + ',' + y + ' ' + left + ',' + (y + r) +
+      'V' + (y + h - r) + 'Q' + left + ',' + (y + h) + ' ' + (left + r) + ',' + (y + h) + 'H' + right + 'Z';
+  }
+  function roundRect(x, y, w, h, r) {
+    r = Math.min(r, w / 2, h / 2);
+    return 'M' + (x + r) + ',' + y + 'H' + (x + w - r) + 'Q' + (x + w) + ',' + y + ' ' + (x + w) + ',' + (y + r) +
+      'V' + (y + h - r) + 'Q' + (x + w) + ',' + (y + h) + ' ' + (x + w - r) + ',' + (y + h) + 'H' + (x + r) +
+      'Q' + x + ',' + (y + h) + ' ' + x + ',' + (y + h - r) + 'V' + (y + r) + 'Q' + x + ',' + y + ' ' + (x + r) + ',' + y + 'Z';
+  }
+  function makeTip(box) {
+    var tt = document.createElement('div');
+    tt.className = 'tt';
+    tt.hidden = true;
+    box.appendChild(tt);
+    return {
+      show: function (head, rows, evt, anchor) {
+        tt.textContent = '';
+        var h = document.createElement('div');
+        h.className = 'tt-h';
+        h.textContent = head;
+        tt.appendChild(h);
+        rows.forEach(function (r) {
+          var row = document.createElement('div');
+          row.className = 'tt-r';
+          var k = document.createElement('span');
+          k.className = 'tt-k ' + r.key;
+          row.appendChild(k);
+          var b = document.createElement('b');
+          b.textContent = r.value;
+          row.appendChild(b);
+          if (r.label) {
+            var l = document.createElement('span');
+            l.className = 'tt-l';
+            l.textContent = r.label;
+            row.appendChild(l);
+          }
+          tt.appendChild(row);
+        });
+        tt.hidden = false;
+        var bb = box.getBoundingClientRect(), px, py;
+        if (evt && evt.clientX != null) { px = evt.clientX - bb.left; py = evt.clientY - bb.top; }
+        else { var ab = anchor.getBoundingClientRect(); px = ab.left - bb.left + ab.width / 2; py = ab.top - bb.top; }
+        var tw = tt.offsetWidth, th = tt.offsetHeight, left = px + 12;
+        if (left + tw > box.clientWidth) left = px - tw - 12;
+        if (left < 0) left = Math.max(0, (box.clientWidth - tw) / 2);
+        var top = py - th - 10;
+        if (top < 0) top = py + 14;
+        tt.style.left = left + 'px';
+        tt.style.top = top + 'px';
+      },
+      hide: function () { tt.hidden = true; }
+    };
+  }
+  function bind(hit, tip, marks, content) {
+    function on(e) {
+      var c = content();
+      tip.show(c.head, c.rows, e, hit);
+      marks.forEach(function (m) { m.classList.add('hot'); });
+    }
+    function off() {
+      tip.hide();
+      marks.forEach(function (m) { m.classList.remove('hot'); });
+    }
+    hit.addEventListener('pointerenter', on);
+    hit.addEventListener('pointermove', on);
+    hit.addEventListener('pointerleave', off);
+    hit.addEventListener('focus', function () { on(null); });
+    hit.addEventListener('blur', off);
+  }
+  function responsive(box, draw) {
+    var lastW = 0;
+    function go() {
+      var w = box.clientWidth;
+      if (!w || w === lastW) return;
+      lastW = w;
+      draw(w);
+    }
+    go();
+    if ('ResizeObserver' in window) new ResizeObserver(go).observe(box);
+    else window.addEventListener('resize', go);
+  }
+  function clear(box, tip) {
+    Array.prototype.slice.call(box.querySelectorAll('svg')).forEach(function (s) { s.remove(); });
+    tip.hide();
+  }
+
+  // Rows of horizontal bars on one axis; negative values extend left of zero.
+  function rows(id, cfg) {
+    var box = document.getElementById(id);
+    if (!box) return;
+    var tip = makeTip(box);
+    responsive(box, function (W) {
+      clear(box, tip);
+      var bh = 14, labelH = 20, rowGap = 12, rowH = labelH + bh + rowGap;
+      var m = { t: 4, r: 64, b: 22, l: cfg.min < 0 ? 52 : 2 };
+      var H = m.t + cfg.data.length * rowH + m.b;
+      var svg = E('svg', { width: W, height: H, viewBox: '0 0 ' + W + ' ' + H, 'class': 'chart', role: 'img', 'aria-label': cfg.aria });
+      box.insertBefore(svg, box.firstChild);
+      var iw = W - m.l - m.r;
+      function x(v) { return m.l + (v - cfg.min) / (cfg.max - cfg.min) * iw; }
+      var bottom = H - m.b;
+      cfg.ticks.forEach(function (t) {
+        E('line', { x1: x(t), x2: x(t), y1: m.t, y2: bottom, 'class': t === 0 ? 'axl' : 'grid' }, svg);
+        T(svg, x(t), bottom + 16, cfg.tick(t), 'ax', t === cfg.min && cfg.min === 0 ? 'start' : 'middle');
+      });
+      cfg.data.forEach(function (d, i) {
+        var y0 = m.t + i * rowH, yb = y0 + labelH;
+        T(svg, m.l + (cfg.min < 0 ? -48 : 4), y0 + 14, d.name, 'lbl', 'start');
+        var cls = d.cls || (d.v < 0 ? 'fneg' : (d.hi === false ? 'fmid' : 'f1'));
+        var mark = E('path', { d: hbarPath(x(0), x(d.v), yb, bh, 4), 'class': 'bar ' + cls }, svg);
+        var lx = d.v < 0 ? x(d.v) - 6 : x(d.v) + 6;
+        T(svg, lx, yb + bh - 3, d.label, 'vlab', d.v < 0 ? 'end' : 'start');
+        var hit = E('rect', { x: m.l - (cfg.min < 0 ? 50 : 0), y: y0, width: W - m.r, height: rowH - rowGap / 2, 'class': 'ov', tabindex: 0, role: 'img', 'aria-label': d.name + '：' + d.tip }, svg);
+        bind(hit, tip, [mark], function () { return { head: d.name, rows: [{ key: cls, value: d.tip, label: '' }] }; });
+      });
+    });
+  }
+
+  // One whole split into blocks, share printed inside each block.
+  function segbar(id, cfg) {
+    var box = document.getElementById(id);
+    if (!box) return;
+    var tip = makeTip(box);
+    responsive(box, function (W) {
+      clear(box, tip);
+      var H = 40, h = 28, gap = 2;
+      var svg = E('svg', { width: W, height: H, viewBox: '0 0 ' + W + ' ' + H, 'class': 'chart', role: 'img', 'aria-label': cfg.aria });
+      box.insertBefore(svg, box.firstChild);
+      var x = 0, total = cfg.parts.reduce(function (s, p) { return s + p.v; }, 0);
+      cfg.parts.forEach(function (p, i) {
+        var w = (W - gap * (cfg.parts.length - 1)) * p.v / total;
+        var mark = E('path', { d: roundRect(x, 6, w, h, 4), 'class': 'bar ' + p.cls }, svg);
+        T(svg, x + 10, 6 + h / 2 + 4.5, p.label, 'seg-t ' + p.ink, 'start');
+        var hit = E('rect', { x: x, y: 0, width: w, height: H, 'class': 'ov', tabindex: 0, role: 'img', 'aria-label': p.name + '：' + p.label }, svg);
+        bind(hit, tip, [mark], function () { return { head: p.name, rows: [{ key: p.cls, value: p.label, label: '' }] }; });
+        x += w + gap;
+      });
+    });
+  }
+
+  rows('ch-biz', {
+    aria: '2026 年第三季度税前利润：企业及机构银行 36.05 亿美元，香港 25.65，英国 18.42，国际财富与卓越理财 11.25，企业中心 4.95',
+    min: 0, max: 40, ticks: [0, 10, 20, 30, 40], tick: function (t) { return String(t); },
+    data: [
+      { name: '企业及机构银行（CIB）', v: 36.05, label: '36.05', tip: '36.05 亿美元，占 37.4%，同比 +34%', hi: false },
+      { name: '香港', v: 25.65, label: '25.65', tip: '25.65 亿美元，占 26.6%，同比 +8%' },
+      { name: '英国', v: 18.42, label: '18.42', tip: '18.42 亿美元，占 19.1%，同比 +19%', hi: false },
+      { name: '国际财富与卓越理财（IWPB）', v: 11.25, label: '11.25', tip: '11.25 亿美元，占 11.7%，同比 −14%', hi: false },
+      { name: '企业中心', v: 4.95, label: '4.95', tip: '4.95 亿美元，占 5.1%', hi: false }
+    ]
+  });
+  rows('ch-qpbt', {
+    aria: '季度税前利润：2025 年第一季度 95 亿美元，第二季度 63，第三季度 73，第四季度约 68（推算）；2026 年第一季度 94，第二季度 101，第三季度 96',
+    min: 0, max: 120, ticks: [0, 30, 60, 90, 120], tick: function (t) { return String(t); },
+    data: [
+      { name: '2025 年第一季度', v: 95, label: '95', tip: '95 亿美元', hi: false },
+      { name: '2025 年第二季度', v: 63, label: '63', tip: '63 亿美元；含交通银行摊薄与减值', hi: false },
+      { name: '2025 年第三季度', v: 73, label: '73', tip: '73 亿美元；含法律拨备 14 亿美元', hi: false },
+      { name: '2025 年第四季度', v: 68, label: '约 68', tip: '约 68 亿美元（推算）', hi: false },
+      { name: '2026 年第一季度', v: 94, label: '94', tip: '94 亿美元；剔除重大项目 101 亿美元' },
+      { name: '2026 年第二季度', v: 101, label: '101', tip: '101 亿美元；剔除重大项目 103 亿美元' },
+      { name: '2026 年第三季度', v: 96, label: '96', tip: '96 亿美元；剔除重大项目 100 亿美元' }
+    ]
+  });
+  rows('ch-npl', {
+    aria: '恒生银行不良贷款比率：2025 年 6 月末 6.69%，2025 年末 7.04%，2026 年 6 月末 4.63%；香港市场水平约 2%',
+    min: 0, max: 8, ticks: [0, 2, 4, 6, 8], tick: function (t) { return t + '%'; },
+    data: [
+      { name: '2025 年 6 月末', v: 6.69, label: '6.69%', tip: '6.69%', hi: false },
+      { name: '2025 年 12 月末', v: 7.04, label: '7.04%', tip: '7.04%；减值贷款 568 亿港元', hi: false },
+      { name: '2026 年 6 月末', v: 4.63, label: '4.63%', tip: '4.63%；减值贷款 371 亿港元' },
+      { name: '香港市场水平（报道）', v: 2, label: '约 2%', tip: '约 2%（报道口径）', hi: false }
+    ]
+  });
+  rows('ch-pb', {
+    aria: '市净率：汇丰控股 1.82 倍，中银香港 1.53 倍，渣打集团 1.50 倍，欧洲银行业中位数 1.5 倍，美国 1.4 倍，新兴亚洲 0.9 倍',
+    min: 0, max: 2, ticks: [0, 0.5, 1, 1.5, 2], tick: function (t) { return t.toFixed(1); },
+    data: [
+      { name: '汇丰控股', v: 1.82, label: '1.82', tip: '1.82 倍（9/11，Wind）' },
+      { name: '中银香港', v: 1.53, label: '1.53', tip: '1.53 倍（9/11，Wind）', hi: false },
+      { name: '渣打集团', v: 1.50, label: '1.50', tip: '1.50 倍（9/11，Wind）', hi: false },
+      { name: '欧洲银行业中位数', v: 1.5, label: '1.5', tip: '1.5 倍（9/30）', hi: false },
+      { name: '美国银行业中位数', v: 1.4, label: '1.4', tip: '1.4 倍（9/30）', hi: false },
+      { name: '新兴亚洲银行业中位数', v: 0.9, label: '0.9', tip: '0.9 倍（9/30）', hi: false }
+    ]
+  });
+  rows('ch-sens', {
+    aria: 'RoTE 敏感度（示意）：利率平行下降 100 个基点约 −1.6 个百分点；信用成本上升 10 个基点约 −0.5；财富收入下降 10% 约 −0.5；英国银行附加税升至 6% 约 −0.1；财富收入上升 10% 约 +0.5',
+    min: -2, max: 1, ticks: [-2, -1, 0, 1], tick: function (t) { return (t > 0 ? '+' : (t < 0 ? '−' : '')) + Math.abs(t); },
+    data: [
+      { name: '利率平行下降 100 个基点', v: -1.6, label: '−1.6', tip: '约 −1.6 个百分点（税前约 −34 亿美元）' },
+      { name: '信用成本上升 10 个基点', v: -0.5, label: '−0.5', tip: '约 −0.5 个百分点（税前约 −10 亿美元）' },
+      { name: '财富收入下降 10%', v: -0.5, label: '−0.5', tip: '约 −0.5 个百分点（税前约 −11 亿美元）' },
+      { name: '英国银行附加税升至 6%', v: -0.1, label: '−0.1', tip: '约 −0.1 个百分点（税后约 −2 亿美元）' },
+      { name: '财富收入上升 10%', v: 0.5, label: '+0.5', tip: '约 +0.5 个百分点（税前约 +11 亿美元）' }
+    ]
+  });
+})();
+</script>
+</body>
+</html>
