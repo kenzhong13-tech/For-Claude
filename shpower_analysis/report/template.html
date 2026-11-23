@@ -1,39 +1,46 @@
-<title>【公司】财务分析报告</title>
+<title>上海电力财务分析报告</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<meta name="description" content="【公司】（【代码】）中文财务分析：业务与财务表现、债务与偿债能力、对市场增长的敏感性、未来规划、同业对比，以及以【市场基准】为基准的波动率分析与股价事件研究。">
+<meta name="description" content="上海电力（600021.SH）中文财务分析：煤电、气电与新能源业务和财务表现、债务与偿债能力、对电价、煤价、发电量与利率的敏感性、未来规划、与 14 家 A 股发电企业的同业对比，以及以沪深 300 全收益、电力同业指数和 10 年期国债收益率为基准的波动率分析与股价事件研究。">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap">
 <style>
 /*__BASE_CSS__*/
-/* Edition accent: pick one colour that fits the company (brand or industry) for headings and navigation.
-   Keep the chart palette (--s1..--s7) unchanged so colours mean the same thing in every report. */
-:root { --accent: #2a63d4; --accent-ink: #1d4fb3; --info-bg: #eaf0fb; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #79a2f2; --accent-ink: #9dbbf6; --info-bg: #141c2b; } }
-:root[data-theme="dark"] { --accent: #79a2f2; --accent-ink: #9dbbf6; --info-bg: #141c2b; }
+/* Edition accent: a deep teal for a power generator moving from coal to clean energy. The chart palette keeps its fixed
+   roles (company orange, market blue, sector green, style amber); fuel types get two extra tokens: coal slate (--s8)
+   and gas cyan (--s9), with wind green (f3) and solar amber (f4) in the capacity and generation charts. */
+:root { --accent: #0e7c74; --accent-ink: #0a6560; --info-bg: #e5f3f1; --s8: #5b6470; --s9: #2a9db5; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #5cc6bb; --accent-ink: #84d6cd; --info-bg: #0f201e; --s8: #9aa3ad; --s9: #6cc6d8; } }
+:root[data-theme="dark"] { --accent: #5cc6bb; --accent-ink: #84d6cd; --info-bg: #0f201e; --s8: #9aa3ad; --s9: #6cc6d8; }
+.chart .c8 { stroke: var(--s8); } .chart .f8 { fill: var(--s8); } .chart .dot.c8 { fill: var(--s8); }
+.chart .c9 { stroke: var(--s9); } .chart .f9 { fill: var(--s9); } .chart .dot.c9 { fill: var(--s9); }
+.leg-c8 { color: var(--s8); } .leg-c9 { color: var(--s9); } .tt-k.c8, .tt-k.f8 { background: var(--s8); } .tt-k.c9, .tt-k.f9 { background: var(--s9); }
 .chart .vlab-in.dark { fill: #121722; }
 .tt-k.f3 { background: var(--s3); } .tt-k.f4 { background: var(--s4); } .tt-k.c7, .tt-k.f7 { background: var(--s7); } .tt-k.fmid { background: var(--mid); }
 .ticker { letter-spacing: .04em; }
 .tbl tr.me td { background: color-mix(in srgb, var(--accent) 9%, transparent); font-weight: 500; }
+.tbl td.sub, .tbl th.sub { color: var(--muted); }
 .todo { background: color-mix(in srgb, var(--s4) 22%, transparent); }
 @media print {
   /* wide tables: shrink font and padding so they fit the 703px printable width (check make_pdf's overflow list) */
-  #tbl-peer-vol, #tbl-peer-fin, #tbl-annual, #tbl-factors, #tbl-exdiv { font-size: 10.5px; }
+  #tbl-peer-vol, #tbl-peer-fin, #tbl-annual, #tbl-factors, #tbl-exdiv, #tbl-ops, #tbl-quarters, #tbl-debt, #tbl-projects { font-size: 10.5px; }
   #tbl-risk, #tbl-year { font-size: 10px; }
   #tbl-risk th, #tbl-risk td, #tbl-year th, #tbl-year td, #tbl-peer-vol th, #tbl-peer-vol td, #tbl-peer-fin th, #tbl-peer-fin td,
-  #tbl-annual th, #tbl-annual td, #tbl-factors th, #tbl-factors td, #tbl-exdiv th, #tbl-exdiv td { padding: 4px 4px; }
+  #tbl-annual th, #tbl-annual td, #tbl-factors th, #tbl-factors td, #tbl-exdiv th, #tbl-exdiv td, #tbl-ops th, #tbl-ops td,
+  #tbl-quarters th, #tbl-quarters td, #tbl-debt th, #tbl-debt td, #tbl-projects th, #tbl-projects td { padding: 4px 4px; }
   #tbl-risk td.n { white-space: normal; }
   /* long benchmark names in headers: let header cells wrap instead of widening the table */
-  #tbl-year th, #tbl-risk th, #tbl-peer-vol th, #tbl-peer-fin th, #tbl-annual th, #tbl-factors th { white-space: normal; }
+  #tbl-year th, #tbl-risk th, #tbl-peer-vol th, #tbl-peer-fin th, #tbl-annual th, #tbl-factors th, #tbl-ops th, #tbl-quarters th, #tbl-debt th { white-space: normal; }
+  .tbl-wrap.keep { break-inside: avoid; }
 }
 </style>
 
 <header class="mast">
   <div class="wrap">
-    <div class="kicker"><span class="ticker">【交易所: 代码】</span><span>【行业 · 一句话定位】</span><span>中文研究报告</span></div>
-    <h1>【公司】财务分析报告</h1>
-    <p class="sub">【一句话说明覆盖范围：业务与财务、债务与偿债、增长敏感性、未来规划、同业对比、以【基准】为基准的波动率与事件研究。】</p>
-    <div class="stamp" id="stamp">股价与指数截至 【日期】 收盘 · 财务数据截至 【最新报告期（公告日）】 · 报告日期 【日期】 · 仅供研究学习，不构成投资建议</div>
+    <div class="kicker"><span class="ticker">上交所: 600021</span><span>煤电、气电、风电、光伏 · 国家电投旗下上海发电平台</span><span>中文研究报告</span></div>
+    <h1>上海电力财务分析报告</h1>
+    <p class="sub">业务与财务、债务与偿债能力、对电价、煤价、发电量与利率的敏感性、未来规划、同业对比，以及以沪深 300 全收益为基准的波动率分析和股价事件研究。</p>
+    <div class="stamp" id="stamp">股价与指数截至 2026-11-23 收盘 · 财务数据截至 2026 年三季报（2026-10-30 晚公告）· 报告日期 2026-11-23 · 仅供研究学习，不构成投资建议</div>
   </div>
 </header>
 
@@ -43,7 +50,8 @@
     <a href="#company">公司与业务</a>
     <a href="#financials">财务表现</a>
     <a href="#debt">债务与偿债</a>
-    <a href="#sensitivity">增长敏感性</a>
+    <a href="#sensitivity">敏感性</a>
+    <a href="#drivers">电价与煤价</a>
     <a href="#outlook">未来规划</a>
     <a href="#peers">同业对比</a>
     <a href="#valuation">估值</a>
@@ -57,33 +65,58 @@
 
 <main class="wrap">
 
-<!-- ============ 00 SUMMARY: six tiles (filled from data where possible) + 6–8 key points, each opening with a bold claim ============ -->
+<!-- ============ 00 SUMMARY ============ -->
 <section id="summary">
   <h2><span class="no">00</span>核心结论</h2>
   <div class="tiles" role="list" id="tiles"></div>
   <ol class="keypoints">
-    <li><b>【一句话结论：业务/增长】</b>【用 2–3 句和具体数字支撑。】</li>
-    <li><b>【一句话结论：盈利质量 / 一次性因素】</b>【……】</li>
-    <li><b>【一句话结论：债务与偿债能力】</b>【……】</li>
-    <li><b>【一句话结论：对市场增长 / 利率 / 汇率的敏感性】</b>【……】</li>
-    <li><b>【一句话结论：同业对比中的位置】</b>【……】</li>
-    <li><b>【一句话结论：股价与基准的关系、波动】</b>【……】</li>
-    <li><b>【一句话结论：事件反应的规律，举一个例子】</b>【……】</li>
+    <li><b>上海电力是国家电投在上海的发电平台，装机六成是清洁能源，但利润主要靠煤电和海外。</b>2026 年 9 月末控股装机 2,978.76 万千瓦，煤电 39.8%、气电 12.8%、风电 22.5%、光伏 24.9%。2025 年发电量 782.32 亿千瓦时，其中煤电占 65%。土耳其胡努特鲁煤电厂一家 2025 年净利润 12.64 亿元，境外业务利润总额 16.68 亿元，占全公司的 26%。</li>
+    <li><b>2026 年利润大幅下滑，三季度几乎为零。</b>2025 年归母净利润 27.67 亿元（+35.3%），是 2016 年以来最高；2026 年前三季度只有 10.15 亿元（−66.7%），第三季度 0.13 亿元（−98.8%），扣非为负。原因有四：上网电价（含税）从 0.58 元/千瓦时降到 0.54 元，发电量 −2.7%，燃料成本上升，以及三季度境外所得税大增（单季所得税 7.07 亿元，占利润总额的 72%）。</li>
+    <li><b>负债重，偿债指标在同业中靠后。</b>把超短期融资券和融资租赁算进去，9 月末有息负债 1,317 亿元、净负债 1,229 亿元，是 2025 年 EBITDA 的 7.1 倍（15 家中第 3 高，中位数 5.3 倍）；另有 137 亿元永续债计入权益。利息保障倍数约 2.9 倍。好在资金成本低（2025 年末综合资金成本 2.51%），而且背靠国家电投，再融资压力不大。</li>
+    <li><b>利润对电价和煤价都很敏感。</b>示意测算：入炉标煤单价每变动 10%，归母净利润约变动 3.9 亿元，相当于 2025 年利润的 14%；平均上网电价每变动 1 分/千瓦时，约 2.6 亿元（9%）；发电量每变动 1%，约 0.8 亿元；融资利率每变动 25 个基点，约 1.3 亿元。【M:市场β一句】</li>
+    <li><b>股价先被“电投国际”的重组预期推高，又随业绩回落。</b>2025 年 7 月底国家电投把上海电力称为“电投国际”，市场预期集团海外资产注入，股价从 6 月末的 8.59 元（复权）涨到 10 月末的 29.01 元（3.4 倍）；公司多次公告无重组事项，2026 年 1 月只是托管了中电国际的境外资产。叠加利润下滑，股价已回落到 10.92 元，【M:回撤】。</li>
+    <li><b>同业对比：盈利能力中上，但估值和杠杆都偏高。</b>在 15 家 A 股发电企业中，2025 年 ROE 12.4% 排第 5，归母净利润增速 +35.3% 排第 4；但 2026 年前三季度利润降幅（−66.7%）是第 3 大，市盈率（TTM）42.1 倍为第 2 高（中位数 16.3 倍），股息率 3.4% 排第 10。【M:同业波动一句】</li>
+    <li><b>【M:波动率结论】</b>【M:波动率数字】</li>
+    <li><b>事件反应：重组预期和终止并购影响最大，业绩反而被提前消化。</b>【M:事件数字】</li>
   </ol>
 </section>
 
 <!-- ============ 01 COMPANY ============ -->
 <section id="company">
   <h2><span class="no">01</span>公司概况与业务</h2>
-  <p class="lede">【公司做什么、怎么赚钱、收入结构、控股股东与股权结构、关键经营指标。】</p>
-  <!-- Typical blocks: a segment / product / region / asset table, a revenue-mix chart (stackMulti), a KPI chart. -->
-  <p>【……】</p>
+  <p class="lede">上海电力以发电为主业，兼营供热和售电。电厂集中在长三角（境内装机的 79%），在土耳其、马耳他、匈牙利、日本、罗马尼亚等地有境外项目。控股股东国家电投直接持股 44.35%，加上国家电投控股的中国电力国际发展有限公司（12.87%）和国家电投集团创新投资（0.13%），集团合计持股约 57.4%（2026 年三季报）。</p>
+  <figure>
+    <figcaption>控股装机结构<span class="cap-sub">各年末，2026 为 9 月末；悬停查看装机容量（万千瓦）</span></figcaption>
+    <div class="legend" id="leg-capmix"></div>
+    <div class="chart-box" id="ch-capmix"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-ops">
+    <caption>装机、发电量与电价（合并口径）</caption>
+    <thead><tr><th>年度</th><th class="n">控股装机（万千瓦）</th><th class="n">其中煤电</th><th class="n">风电 + 光伏</th><th class="n">发电量（亿千瓦时）</th><th class="n">其中煤电</th><th class="n">上网电价（含税，元/千瓦时）</th><th class="n">市场化交易电量占比</th><th class="n">煤电利用小时</th><th class="n">入炉标煤单价（含税，元/吨）</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">来源：各期发电量完成情况公告（装机、发电量、上网电价）和年度报告（利用小时、标煤单价）。2026 年为前三季度。标煤单价各年口径略有调整，以当年年报为准。</p>
+  <p><b>装机：煤电规模不变，增量主要是新能源，直到 2026 年。</b>2018 年末控股装机 1,500 万千瓦，煤电占 56.5%；到 2025 年末增至 2,632 万千瓦，煤电始终是 985 万千瓦左右，新增的 1,100 多万千瓦几乎都是风电、光伏和燃机，清洁能源占比升到 62.6%。2026 年 7 月、8 月江苏滨海三期两台 100 万千瓦机组投产，煤电又增加 200 万千瓦，9 月末清洁能源占比回落到 60.2%。</p>
+  <p><b>电量和收入：煤电仍是主力。</b>2025 年发电量 782.32 亿千瓦时，煤电 510.06 亿千瓦时（65%）；煤电利用小时 5,179 小时，远高于风电（2,239）和光伏（1,140）。供热量 2,166 万吉焦，在沪机组供热量约占上海公用电厂的一半。2025 年市场化交易电量占上网电量的 77.1%（2024 年 70.9%），电价越来越多由市场决定。</p>
+  <div class="two">
+    <div class="tbl-wrap keep"><table class="tbl" id="tbl-regions">
+      <caption>2025 年主营业务收入（按地区）</caption>
+      <thead><tr><th>地区</th><th class="n">收入（亿元）</th><th class="n">占比</th><th class="n">毛利率</th></tr></thead>
+      <tbody></tbody>
+    </table></div>
+    <figure>
+      <figcaption>主要子公司 2025 年净利润<span class="cap-sub">亿元，100% 口径；悬停查看收入</span></figcaption>
+      <div class="chart-box" id="ch-subs"></div>
+    </figure>
+  </div>
+  <p><b>利润的地理分布和装机分布并不一致。</b>上海本地收入最多（136.7 亿元），但毛利率只有 11.6%，外高桥发电 2025 年几乎不赚钱（净利润 19 万元）；江苏（32.5%）、土耳其（33.0%）和日本（51.3%）的毛利率高得多。国家电投集团江苏电力（19.85 亿元）和土耳其 EMBA 发电（12.64 亿元）是两个最大的利润来源；参股的中电投融和融资租赁贡献了大部分投资收益（2025 年 15.48 亿元）。</p>
+  <p><b>境外业务：利润占四分之一，风险也集中在这里。</b>2025 年末境外资产 270.55 亿元、控股在运装机 213.37 万千瓦，境外利润总额 16.68 亿元（+110.6%）。土耳其胡努特鲁电厂 2025 年发电 108.30 亿千瓦时，占全公司的 13.8%。收购巴基斯坦 K-Electric 的交易拖了 9 年，于 2025 年 9 月终止。2026 年起，公司为国家电投旗下中电国际约 982.75 万千瓦、黄河公司约 121.01 万千瓦权益装机的境外资产提供管理服务，收取管理费，对中电国际托管资产有优先购买权，但这些资产不并表。</p>
 </section>
 
 <!-- ============ 02 FINANCIALS ============ -->
 <section id="financials">
   <h2><span class="no">02</span>财务表现分析</h2>
-  <p class="lede">【收入、利润与现金流的趋势；区分一次性项目（扣非 / 经调整）与经常性利润。】</p>
+  <p class="lede">利润随煤价大起大落：2021 年煤价暴涨时亏损 18.93 亿元（按当年报告），2023–2025 年煤价回落、海外项目放量，归母净利润从 15.93 亿元增至 27.67 亿元；2026 年电价下行、燃料成本回升，前三季度利润又降了三分之二。</p>
   <figure data-need="annual">
     <figcaption>收入与利润<span class="cap-sub" id="unit-rev"></span></figcaption>
     <div class="legend" id="leg-rev"></div>
@@ -94,13 +127,27 @@
     <thead><tr><th>年度</th><th class="n">收入</th><th class="n">同比</th><th class="n">毛利率</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">扣非/经调整</th><th class="n">同比</th><th class="n">ROE</th><th class="n">经营现金流</th><th class="n">资本开支</th><th class="n">每股分红</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  <p>【解读：增长来源、利润率变化的原因、一次性项目、最近一期（半年/季度）的变化。】</p>
+  <p class="small muted">东方财富口径（百万元）。2021 年数据为 2022 年报重述后的数字；按 2021 年报原始口径，收入 30,631 百万元、归母净利润 −1,893 百万元，2022 年的同比增速按原始口径计算。2018 年归母净利润含较大的非经常性收益（扣非仅 516 百万元）。资本开支为现金流量表中“购建固定资产、无形资产和其他长期资产支付的现金”。</p>
+  <p><b>2023–2025 年的修复主要来自燃料成本下降。</b>入炉标煤单价（含税）从 2022 年的 1,461 元/吨降到 2025 年的 967 元/吨，电力业务燃料成本 2025 年为 169.04 亿元，比 2024 年少 27.41 亿元，而同期收入只少了 8.76 亿元；毛利率由 2022 年的 19.3% 升到 2025 年的 25.8%。财务费用也在下降（利息费用 2025 年 30.62 亿元，2024 年 33.22 亿元）。</p>
+  <p><b>归母净利润只拿到合并净利润的一半左右。</b>2025 年合并净利润 52.93 亿元，其中 25.25 亿元（47.7%）归少数股东；归母净利润 27.67 亿元里还有 3.08 亿元是永续债利息，普通股股东实际对应 24.59 亿元（每股 0.8727 元）。这意味着经营利润的变化，到每股收益时会被放大。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-quarters">
+    <caption>单季利润与税负（亿元）</caption>
+    <thead><tr><th>季度</th><th class="n">营业收入</th><th class="n">利润总额</th><th class="n">所得税</th><th class="n">所得税/利润总额</th><th class="n">归母净利润</th><th class="n">扣非净利润</th><th class="n">少数股东占净利润</th><th class="n">发电量（亿千瓦时）</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">由东方财富累计报表差分得到单季值；发电量来自季度发电量公告。</p>
+  <p><b>2026 年的下滑一季比一季重，三季度还叠加了税。</b>单季利润总额从 2025 年二、三季度的 23.03 亿元、22.29 亿元，降到 2026 年一、二、三季度的 13.25 亿元、13.44 亿元、9.79 亿元。三季度发电量其实增长了 5.7%（滨海三期投产），但电价下降、燃料成本上升吃掉了增量；同时单季所得税 7.07 亿元，公司解释为境外企业所得税费用增加。另一个规律是四季度往往亏损：2024 年四季度归母净利润 −4.13 亿元，2025 年四季度 −2.82 亿元，与年末计提和检修有关，2026 年全年利润因此可能低于前三季度的 10.15 亿元。</p>
+  <figure>
+    <figcaption>单季利润总额与归母净利润<span class="cap-sub">亿元</span></figcaption>
+    <div class="legend" id="leg-qprofit"></div>
+    <div class="chart-box" id="ch-qprofit"></div>
+  </figure>
 </section>
 
 <!-- ============ 03 DEBT ============ -->
 <section id="debt">
   <h2><span class="no">03</span>债务结构与偿债能力</h2>
-  <p class="lede">【有息负债规模与结构、期限、利率；现金与流动性；偿债指标；未来资本开支或到期压力。】</p>
+  <p class="lede">上海电力是典型的高杠杆发电企业：资产负债率长期在 70% 左右，有息负债随装机扩张一路增长。短期还款没有问题，难点在于利润下滑后杠杆倍数会继续上升，而在建项目还需要大量资金。</p>
   <figure data-need="balance">
     <figcaption>现金与有息负债<span class="cap-sub" id="unit-bal"></span></figcaption>
     <div class="legend" id="leg-bal"></div>
@@ -110,14 +157,34 @@
     <thead><tr><th>时点</th><th class="n">货币资金</th><th class="n">有息负债</th><th class="n">净负债</th><th class="n">资产负债率</th><th class="n">流动比率</th></tr></thead>
     <tbody></tbody>
   </table></div>
+  <p class="small muted">有息负债 = 短期借款 + 一年内到期的非流动负债 + 其他流动负债（主要为超短期融资券）+ 长期借款 + 应付债券 + 租赁负债 + 长期应付款（主要为应付融资租赁款）；同业对比使用相同口径。永续债（137 亿元）计入权益，未计入有息负债。</p>
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-debt">
+    <caption>有息负债构成（亿元）</caption>
+    <thead id="thead-debt"></thead>
+    <tbody></tbody>
+  </table></div>
   <ul id="solvency-points"></ul>
-  <p>【结论：现在能不能还、未来压力在哪里（到期、资本开支、分红承诺），以及需要的假设。示意测算必须写明“示意”。】</p>
+  <figure>
+    <figcaption>经营现金流与资本开支<span class="cap-sub">百万元</span></figcaption>
+    <div class="legend" id="leg-ocf"></div>
+    <div class="chart-box" id="ch-ocf"></div>
+  </figure>
+  <p><b>现在能还：流动性和融资渠道都不缺。</b>9 月末货币资金 88.3 亿元，一年内要还的短期借款、一年内到期负债和超短融合计约 409 亿元，靠的是滚动发行超短融和集团内融资，而不是现金储备；2025 年末综合资金成本 2.51%（2024 年 2.96%），利率下行期融资成本持续下降。控股股东在 2021、2022、2025 年三次向公司提供永续债权或永续信托融资，2022 年又全额认购定增，集团支持是偿债能力的重要部分。</p>
+  <p><b>压力在于杠杆还在上升。</b>有息负债从 2023 年末的 1,037 亿元增至 2026 年 9 月末的 1,317 亿元；同期应收账款（主要是新能源补贴）从 201 亿元增至 311 亿元，占用了大量现金，公司 2026 年 11 月拟把不超过 40 亿元应收账款做成资产支持证券。2025 年资本性支出 205.43 亿元，超过经营现金流（130.76 亿元）；在建的漕泾二期、外高桥扩容量替代两个百万机组项目预算合计 174.15 亿元，2025 年末工程进度分别只有 41% 和 9%。按 2025 年的 EBITDA 计算净负债已是 7.1 倍，若 2026 年 EBITDA 随利润下降，这一倍数会更高。</p>
 </section>
 
 <!-- ============ 04 SENSITIVITY ============ -->
 <section id="sensitivity">
-  <h2><span class="no">04</span>对市场增长的敏感性</h2>
-  <p class="lede">【经营层面：收入/销量/价格每变动 1% 对利润的影响（经营杠杆）、情景分析；市场层面：对大盘、行业、利率的 β。】</p>
+  <h2><span class="no">04</span>对电价、煤价、发电量与利率的敏感性</h2>
+  <p class="lede">发电企业的利润 ≈ 电量 ×（电价 − 度电燃料成本）− 折旧和财务费用。折旧、利息基本固定，所以电价和煤价的小幅变动都会被放大到利润上。下表用 2025 年的规模做示意测算。</p>
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-sens">
+    <caption>利润敏感性（示意测算，2025 年规模）</caption>
+    <thead><tr><th>变量</th><th>变动</th><th>测算基础</th><th class="n">税前利润（亿元）</th><th class="n">归母净利润（亿元）</th><th class="n">占 2025 年归母净利润</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted" id="sens-note"></p>
+  <p><b>怎么读：</b>①电价和煤价是两个最大的变量，而且方向往往相同：2026 年电价下行（全年长协与现货价格走低）的同时煤价回升，两头挤压；②上网电价每降 1 分，相当于入炉标煤单价上涨约 7%；③这些都是单因素、静态的估算，没有考虑煤电容量电价（2026 年起回收固定成本比例提高到不低于 50%）、长协煤锁价、电价与煤价联动等缓冲，也没有计入海外电厂（土耳其电厂用进口煤、按当地市场定价）。</p>
+  <h3>4.1 市场层面：对大盘、板块与利率的 β</h3>
   <ul id="beta-summary"></ul>
   <figure data-need="rate">
     <figcaption>滚动利率敏感性<span class="cap-sub">252 日窗口：10 年期国债收益率每上行 10bp，股价的平均变动</span></figcaption>
@@ -128,39 +195,87 @@
     <div class="legend" id="leg-gap"></div>
     <div class="chart-box" id="ch-gap"></div>
   </figure>
-  <p>【情景表 / 杠杆表放在这里（公司特有，按需添加）。】</p>
+  <p>【M:市场层面敏感性解读】</p>
 </section>
 
-<!-- ============ 05 OUTLOOK ============ -->
+<!-- ============ 05 DRIVERS ============ -->
+<section id="drivers">
+  <h2><span class="no">05</span>电价、煤价与用电需求</h2>
+  <p class="lede">【P:驱动因素导语】</p>
+  <div class="two">
+    <figure>
+      <figcaption>平均上网电价（含税）<span class="cap-sub">元/千瓦时；2026 为前三季度</span></figcaption>
+      <div class="chart-box" id="ch-tariff"></div>
+    </figure>
+    <figure>
+      <figcaption>入炉标煤单价（含税）<span class="cap-sub">元/吨；2020 年由 2021 年报的同比增速推算</span></figcaption>
+      <div class="chart-box" id="ch-coalunit"></div>
+    </figure>
+  </div>
+  <p>【P:电价与煤价解读】</p>
+  <figure>
+    <figcaption>公司发电量增速与全国用电量增速<span class="cap-sub">年初至当季末累计同比</span></figcaption>
+    <div class="legend" id="leg-demand"></div>
+    <div class="chart-box" id="ch-demand"></div>
+  </figure>
+  <p>【P:需求解读】</p>
+  <figure>
+    <figcaption id="cap-coalpx">动力煤价格</figcaption>
+    <div class="legend" id="leg-coalpx"></div>
+    <div class="chart-box" id="ch-coalpx"></div>
+  </figure>
+  <p>【P:煤价与股价】</p>
+</section>
+
+<!-- ============ 06 OUTLOOK ============ -->
 <section id="outlook">
-  <h2><span class="no">05</span>未来规划与公司议程</h2>
-  <p class="lede">【管理层指引、资本开支与项目、产品管线 / 新业务、并购、股东回报规划、关键时间点。每一项注明来源。】</p>
-  <p>【……】</p>
+  <h2><span class="no">06</span>未来规划与公司议程</h2>
+  <p class="lede">“十五五”期间，公司的提法是“做强做优做大上海、健康有序发展国内、精准布局决胜海外”：在上海建大型煤电和海上风电、光伏，在国内优先布局电价好、消纳足的沪苏浙，在海外聚焦“对华关系好、市场空间大、经济前景佳、国际信誉优、投资风险低”的国家（2025 年年报）。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-projects">
+    <caption>在建与核准的重要项目</caption>
+    <thead><tr><th>项目</th><th>地点</th><th>类型</th><th class="n">预算（亿元）</th><th class="n">2025 年末进度</th><th>状态</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">预算与进度来自 2025 年年报在建工程表；状态来自 2026 年半年报、相关公告和 2026 年 9 月半年度业绩说明会。</p>
+  <ul>
+    <li><b>上海基本盘：</b>漕泾二期一台 100 万千瓦机组预计 2026 年内投产，外高桥两台预计 2027 年四季度至 2028 年一季度投产，届时公司在沪百万千瓦机组达到 6 台，火电装机约占上海火电的三分之一；奉贤 1# 50 万千瓦海上光伏在建，奉贤二期、金山二期海上风电已获竞配指标，另有 120 万千瓦海上光伏开发权。</li>
+    <li><b>国内新能源：</b>江苏滨海南区 H5#（40 万千瓦）、东台 H7#（20 万千瓦）海上风电 2026 年 3 月核准；陆上以风电为重点，光伏“效益优先”。一份券商研报估算公司“十五五”装机规划增长约 50%，新增装机超过 1,000 万千瓦（第三方测算，公司未公布官方数字）。</li>
+    <li><b>海外：</b>罗马尼亚 12.9 万千瓦光伏 2026 年并网，哈萨克斯坦阿克托别风电完成交割，塞尔维亚黑峰 15 万千瓦风电在建；同时托管中电国际、黄河公司的境外资产，取得对托管公司的优先购买权。</li>
+    <li><b>2026 年预算目标已难完成：</b>年报提出全年发电量 888 亿千瓦时、营业总收入 443 亿元；前三季度只完成 585.56 亿千瓦时和 299.50 亿元，四季度需要发电 302 亿千瓦时、收入 143 亿元，分别是 2025 年四季度的 1.7 倍和 1.5 倍。</li>
+    <li><b>股东回报：</b>2025 年度每股派息 0.37 元，占扣除永续债利息后归母净利润的 42.45%；股东会已授权董事会决定 2026 年中期分红，但 2026 年前三季度每股收益只有 0.2572 元。</li>
+  </ul>
+  <div class="tbl-wrap keep"><table class="tbl" id="tbl-catalysts">
+    <caption>接下来的关键时间点</caption>
+    <thead><tr><th>时间</th><th>事项</th><th>看什么</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
 </section>
 
-<!-- ============ 06 PEERS ============ -->
+<!-- ============ 07 PEERS ============ -->
 <section id="peers">
-  <h2><span class="no">06</span>同业对比：增长、行业规模、股价波动与经营预期</h2>
-  <p class="lede">【同业怎么选（市场、业务、规模），共 N 家；行业规模与增速（注明来源）。】</p>
-  <h3>6.1 行业规模</h3>
+  <h2><span class="no">07</span>同业对比：增长、行业规模、股价波动与经营预期</h2>
+  <p class="lede">对比对象是 14 家 A 股发电企业：五大发电集团的上市平台（华能国际、华电国际、国电电力、大唐发电）、地方能源集团的发电平台（浙能电力、申能股份、粤电力A、深圳能源、皖能电力、京能电力、内蒙华电、江苏国信、福能股份）和国家电投旗下的吉电股份。上海电力的市值约占 15 家合计的 4.2%。</p>
+  <h3>7.1 行业规模</h3>
   <ul id="industry-list"></ul>
-  <h3>6.2 增长与盈利</h3>
+  <h3>7.2 增长与盈利</h3>
   <div class="two" data-need="fpeers">
     <figure>
-      <figcaption id="cap-peer-growth">收入增速（最近一个完整年度）</figcaption>
+      <figcaption id="cap-peer-growth">收入增速（2025 年）</figcaption>
       <div class="chart-box" id="ch-peer-growth"></div>
     </figure>
     <figure>
-      <figcaption>ROE（最近一个完整年度）</figcaption>
+      <figcaption>ROE（2025 年）</figcaption>
       <div class="chart-box" id="ch-peer-roe"></div>
     </figure>
   </div>
   <div class="tbl-wrap" data-need="fpeers"><table class="tbl" id="tbl-peer-fin">
     <caption id="cap-peer-fin">同业财务与估值（按市值排序）</caption>
-    <thead><tr><th>公司</th><th class="n">市值</th><th class="n">收入</th><th class="n">收入同比</th><th class="n">净利润</th><th class="n">净利润同比</th><th class="n">ROE</th><th class="n">市盈率</th><th class="n">市净率</th><th class="n">股息率</th><th class="n">净负债/EBITDA</th></tr></thead>
+    <thead><tr><th>公司</th><th class="n">市值</th><th class="n">收入</th><th class="n">收入同比</th><th class="n">净利润</th><th class="n">净利润同比</th><th class="n">2026 前三季度净利润同比</th><th class="n">ROE</th><th class="n">市盈率</th><th class="n">市净率</th><th class="n">股息率</th><th class="n">净负债/EBITDA</th></tr></thead>
     <tbody></tbody>
   </table></div>
-  <h3>6.3 股价表现与板块内的波动</h3>
+  <p class="small muted">收入、净利润（归母）、ROE 为 2025 年；市盈率（TTM）、市净率、股息率按 2026-11-23 收盘；净负债为 2026 年 9 月末（有息负债口径见第 03 节），EBITDA 为 2025 年。</p>
+  <p><b>2025 年是好年份，2026 年全行业变差，上海电力变差得更多。</b>2025 年上海电力 ROE 12.4%，15 家中排第 5（中位数 11.8%）；归母净利润增长 35.3%，排第 4。2026 年前三季度 15 家中有 14 家利润下降，中位数 −41.5%，上海电力 −66.7%，降幅第 3 大，仅好于粤电力A 和浙能电力。</p>
+  <h3>7.3 股价表现与板块内的波动</h3>
   <figure>
     <figcaption id="cap-rebased">相对表现（起点 = 100，含分红）</figcaption>
     <div class="legend" id="leg-rebased"></div>
@@ -177,45 +292,49 @@
     </figure>
   </div>
   <div class="tbl-wrap" data-need="peers"><table class="tbl" id="tbl-peer-vol">
-    <caption id="cap-peer-vol">同业股价表现与风险</caption>
+    <caption id="cap-peer-vol">同业股价表现与风险（含分红）</caption>
     <thead id="thead-peer-vol"></thead>
     <tbody></tbody>
   </table></div>
-  <h3>6.4 经营预期</h3>
-  <p>【同业的指引、一致预期、产品/项目预期、分红承诺；第三方数据注明来源与日期。】</p>
-  <ul id="peer-points"></ul>
+  <p>【M:同业股价解读】</p>
+  <h3>7.4 经营预期</h3>
+  <ul>
+    <li><b>行业整体：</b>2026 年前三季度全社会用电量同比 +3.9%，增速低于 2025 年的 5.0%，而风电、光伏装机继续以两成以上的速度增长，火电利用小时承压；中电联把全年用电量增速预测从 5%～6% 下调到 4%～4.5%（见 7.1）。</li>
+    <li><b>同业的分化：</b>2026 年前三季度利润增长的只有深圳能源（+12.5%）；大唐发电（−4.8%）、福能股份（−15.0%）降幅较小，浙能电力（−76.8%）和粤电力A（转亏）降幅最大。煤电占比高、所在省份电价下降多的公司受影响最大。</li>
+    <li><b>上海电力的差异：</b>同时有上海的百万机组扩建、江苏的海上风电和托管的海外资产；但 2026 年利润基数大幅下降，券商最近一次覆盖仍停留在 2025 年 8 月（国信证券，“增持”，2026 年 EPS 预测 1.22 元，远高于前三季度的 0.2572 元），已无参考价值。</li>
+  </ul>
 </section>
 
-<!-- ============ 07 VALUATION ============ -->
+<!-- ============ 08 VALUATION ============ -->
 <section id="valuation">
-  <h2><span class="no">07</span>估值</h2>
-  <p class="lede">【当前估值与自身历史、同业的比较；适合本公司的估值方法（PE/PB/EV-EBITDA/股息率利差/分部估值/DCF）；券商目标价（第三方）。】</p>
+  <h2><span class="no">08</span>估值</h2>
+  <p class="lede">【V:估值导语】</p>
   <div class="tiles" role="list" id="val-tiles"></div>
-  <div class="tbl-wrap" data-need="targets"><table class="tbl" id="tbl-targets">
-    <caption>券商评级与目标价（第三方，按日期）</caption>
-    <thead><tr><th>机构</th><th>评级</th><th class="n">目标价</th><th class="n">相对现价</th><th>日期 / 出处</th></tr></thead>
-    <tbody></tbody>
-  </table></div>
-  <p>【估值结论：现价隐含了什么假设。】</p>
+  <figure>
+    <figcaption>市净率与市盈率（TTM）历史<span class="cap-sub">周度，东方财富口径，2018 年起；亏损期间市盈率不显示</span></figcaption>
+    <div class="legend" id="leg-pe"></div>
+    <div class="chart-box" id="ch-pe"></div>
+  </figure>
+  <p>【V:估值解读】</p>
 </section>
 
-<!-- ============ 08 VOLATILITY ============ -->
+<!-- ============ 09 VOLATILITY ============ -->
 <section id="volatility">
-  <h2><span class="no">08</span>波动率分析</h2>
+  <h2><span class="no">09</span>波动率分析（以沪深 300 全收益为基准）</h2>
   <p class="lede" id="vol-lede"></p>
   <div class="callout info" role="note">
     <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
     <div><span class="tag">基准选择</span><span id="bench-note"></span></div>
   </div>
 
-  <h3>8.1 价格走势对比</h3>
+  <h3>9.1 价格走势对比</h3>
   <figure>
     <figcaption id="cap-price">累计表现（起点 = 100，含分红，对数坐标）</figcaption>
     <div class="legend" id="leg-price"></div>
     <div class="chart-box" id="ch-price"></div>
   </figure>
 
-  <h3>8.2 风险统计总表</h3>
+  <h3>9.2 风险统计总表</h3>
   <div class="tbl-wrap"><table class="tbl" id="tbl-risk">
     <thead id="thead-risk"></thead>
     <tbody></tbody>
@@ -225,8 +344,9 @@
     <thead id="thead-year"></thead>
     <tbody></tbody>
   </table></div>
+  <p>【M:年度解读】</p>
 
-  <h3>8.3 滚动波动率与波动聚集</h3>
+  <h3>9.3 滚动波动率与波动聚集</h3>
   <figure>
     <figcaption>63 日滚动年化波动率与 GARCH(1,1) 条件波动率</figcaption>
     <div class="legend" id="leg-vol"></div>
@@ -234,7 +354,7 @@
   </figure>
   <p id="garch-text"></p>
 
-  <h3>8.4 单指数模型与多因子模型</h3>
+  <h3>9.4 单指数模型与多因子模型</h3>
   <div class="formula" id="formula-factors"></div>
   <div class="two">
     <figure>
@@ -256,8 +376,9 @@
     <thead id="thead-factors"></thead>
     <tbody></tbody>
   </table></div>
+  <p>【M:模型解读】</p>
 
-  <h3>8.5 β 与相关性的变化</h3>
+  <h3>9.5 β 与相关性的变化</h3>
   <div class="two">
     <figure>
       <figcaption>252 日滚动 β</figcaption>
@@ -272,7 +393,7 @@
   </div>
   <ul id="beta-points"></ul>
 
-  <h3>8.6 收益分布与回撤</h3>
+  <h3>9.6 收益分布与回撤</h3>
   <div class="two">
     <figure>
       <figcaption>日收益分布<span class="cap-sub">各区间交易日占比</span></figcaption>
@@ -285,12 +406,12 @@
       <div class="chart-box" id="ch-dd"></div>
     </figure>
   </div>
-  <p>【波动率小结：和基准相比高/低在哪里，风险集中在哪些日子，现在处于什么状态。】</p>
+  <p>【M:波动率小结】</p>
 </section>
 
-<!-- ============ 09 EVENTS ============ -->
+<!-- ============ 10 EVENTS ============ -->
 <section id="events">
-  <h2><span class="no">09</span>股价与事件：事件研究</h2>
+  <h2><span class="no">10</span>股价与事件：事件研究</h2>
   <p class="lede" id="events-lede"></p>
   <div class="formula" id="ar-formula"></div>
   <figure>
@@ -312,15 +433,12 @@
     </figure>
   </div>
   <p id="car-note"></p>
-  <h3>9.1 案例</h3>
-  <!-- 3–6 worked examples: what happened (date, source), same-day move vs market/sector, AR and t, what came next, why. -->
+  <h3>10.1 案例</h3>
   <ol class="keypoints">
-    <li><b>【日期 · 事件】</b>【当天股价 ±x%，大盘 ±y%，板块 ±z%；异常收益 ±a%（t = b）；之后 5 个交易日累计 ±c%。原因与启示。】</li>
-    <li><b>【……】</b>【……】</li>
-    <li><b>【……】</b>【……】</li>
+    <li><b>【M:案例1】</b>【M:】</li>
   </ol>
   <div data-need="exdiv">
-    <h3>9.2 除息日效应</h3>
+    <h3>10.2 除息日效应</h3>
     <figure>
       <figcaption>股权登记日与除息日收益（按分红复权）</figcaption>
       <div class="legend" id="leg-exdiv"></div>
@@ -332,35 +450,33 @@
     </table></div>
     <p id="exdiv-text"></p>
   </div>
-  <h3>9.3 规律总结</h3>
+  <h3>10.3 规律总结</h3>
   <ul id="event-points"></ul>
-  <p>【哪些事件类型反应最大、方向如何、市场是否提前反应（看 [−5,+5] 窗口）。】</p>
+  <p>【M:事件规律】</p>
 </section>
 
-<!-- ============ 10 RISKS ============ -->
+<!-- ============ 11 RISKS ============ -->
 <section id="risks">
-  <h2><span class="no">10</span>主要风险因素</h2>
+  <h2><span class="no">11</span>主要风险因素</h2>
   <ol class="keypoints">
-    <li><b>【风险 1】</b>【机制 + 量级（用前文的敏感性数字）+ 观察指标。】</li>
-    <li><b>【风险 2】</b>【……】</li>
-    <li><b>【风险 3】</b>【……】</li>
+    <li><b>【R:风险】</b>【R:】</li>
   </ol>
 </section>
 
-<!-- ============ 11 CONCLUSION ============ -->
+<!-- ============ 12 CONCLUSION ============ -->
 <section id="conclusion">
-  <h2><span class="no">11</span>结论</h2>
-  <p>【两三段：公司是什么样的资产，基本面方向，估值隐含的假设。】</p>
-  <p><b>接下来最值得关注的信号：</b>①【……】；②【……】；③【……】；④【……】；⑤【……】。</p>
+  <h2><span class="no">12</span>结论</h2>
+  <p>【C:结论】</p>
+  <p><b>接下来最值得关注的信号：</b>【C:信号】</p>
 </section>
 
-<!-- ============ 12 APPENDIX ============ -->
+<!-- ============ 13 APPENDIX ============ -->
 <section id="appendix">
-  <h2><span class="no">12</span>方法说明与数据来源</h2>
+  <h2><span class="no">13</span>方法说明与数据来源</h2>
   <ul id="method-list"></ul>
   <h3>数据来源</h3>
   <ul id="source-list" class="small"></ul>
-  <p class="small muted">本报告仅供研究学习，不构成投资建议。情景、示意测算与估值区间依赖文中假设；第三方数据（券商目标价、一致预期、行业统计）已注明出处，未经独立核实。</p>
+  <p class="small muted">本报告仅供研究学习，不构成投资建议。利润敏感性等示意测算依赖文中假设；第三方数据（券商预测、行业统计）已注明出处，未经独立核实。</p>
 </section>
 
 </main>
@@ -370,7 +486,7 @@ const DATA = __DATA_JSON__;
 /*__CHARTS_JS__*/
 
 /* ---------- data and helpers ---------- */
-const S = DATA.series, M = DATA.meta, N = M.names, F = DATA.fund || {};
+const S = DATA.series, M = DATA.meta, N = M.names, F = DATA.fund || {}, PA = DATA.power_analysis || {};
 const ME = M.target_code;
 const HAS = { sec: !!M.has_sec, sty: !!M.has_sty, rate: !!M.has_rate, spread: !!(S && S.spread), exdiv: !!(DATA.ex_dividend && DATA.ex_dividend.length), peers: !!(DATA.peers && DATA.peers.length),
   targets: !!(F.valuation && F.valuation.broker_targets && F.valuation.broker_targets.length),
@@ -380,7 +496,7 @@ const CUR = { CNY: '¥', RMB: '¥', HKD: 'HK$', USD: '$' }[F.currency || ''] || 
 const TCUR = { A: '¥', HK: 'HK$', US: '$' }[M.market] || CUR;                       // trading currency (prices, targets)
 const TCUR_NAME = { A: '元', HK: '港元', US: '美元' }[M.market] || '元';
 const UNIT = F.unit_label || '';
-const CAT = { earnings: '业绩', guidance: '指引', deal: '交易/并购', mna: '并购', capital: '资本/股东', financing: '融资', dividend: '分红/除息', product: '产品/研发', contract: '合同/订单', strategic: '战略/合作', operations: '经营', supply: '供给/解禁', sector: '行业', policy: '政策/监管', macro: '宏观/市场', credit: '信用/债务', management: '管理层', legal: '诉讼/合规' };
+const CAT = { earnings: '业绩', guidance: '指引', deal: '交易/并购', mna: '并购', capital: '资本/股东', financing: '融资', dividend: '分红/除息', product: '产品/研发', contract: '合同/订单', strategic: '战略/重组', operations: '经营/项目', supply: '供给/解禁', sector: '行业', policy: '政策/监管', macro: '宏观/市场', credit: '信用/债务', management: '管理层', legal: '诉讼/合规' };
 const EV = (DATA.events || []).map((e, i) => ({ ...e, n: i + 1 }));
 const x2 = v => v === null || v === undefined ? '—' : v.toFixed(2);
 const sgn = (v, d = 2) => v === null || v === undefined ? '—' : (v < 0 ? '−' : '') + Math.abs(v).toFixed(d);
@@ -389,6 +505,7 @@ const tone = v => v === null || v === undefined ? '' : (v < 0 ? 'neg-t' : 'pos-t
 const tb = id => document.querySelector(`#${id} tbody`);
 const dt = s => s ? s.slice(2, 7).replace('-', '/') : '—';
 const el = id => document.getElementById(id);
+const n1 = (v, d = 1) => v === null || v === undefined ? '—' : num(v, d);
 function fillRows(tbody, rows) {
   if (!tbody) return;
   rows.forEach(cells => {
@@ -434,7 +551,7 @@ function tiles(id, items) {
 }
 function logTicksFor(vals) {
   const v = vals.filter(x => x !== null && isFinite(x)), lo = Math.min(...v), hi = Math.max(...v);
-  const cand = [1, 2, 3, 5, 10, 15, 20, 30, 40, 50, 60, 80, 100, 120, 150, 200, 300, 400, 500, 600, 800, 1000, 1500, 2000, 3000, 5000, 10000];
+  const cand = [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 25, 30, 40, 50, 60, 80, 100, 120, 150, 200, 300, 400, 500, 600, 800, 1000];
   let t = cand.filter(c => c >= lo * 0.92 && c <= hi * 1.06);
   while (t.length > 7) t = t.filter((_, i) => i % 2 === 0);
   return t.length >= 2 ? t : [lo, hi];
@@ -446,11 +563,11 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
 /* ---------- auto text ---------- */
 (() => {
   const st = DATA.stats, s = st.tgt, sm = DATA.sim_mkt;
-  const bn = [`“市场”为${N.mkt}`, HAS.sec ? `“板块”为 ${M.sector.names.length} 家同业的等权日收益（不含本公司）` : '', HAS.sty ? `“风格”为${N.sty}` : '', HAS.rate ? '利率因子为 10 年期国债收益率的日变动' : ''].filter(Boolean).join('；');
-  el('bench-note').textContent = bn + '。股价按分红复权（含分红再投资）。';
+  const bn = [`“市场”为${N.mkt}`, HAS.sec ? `“板块”为 ${M.sector.names.length} 家 A 股发电企业的等权日收益（不含本公司）` : '', HAS.sty ? `“风格”为${N.sty}` : '', HAS.rate ? '利率因子为 10 年期国债收益率的日变动' : ''].filter(Boolean).join('；');
+  el('bench-note').textContent = bn + '。股价按分红复权（含分红再投资）。2016-08-24 至 2016-12-09 公司因收购 K-Electric 停牌，停牌期间按收益为零处理。';
   el('vol-lede').textContent = `样本：${M.start} 至 ${M.end}，共 ${M.n_days.toLocaleString('en-US')} 个日收益观测值。`;
   el('cap-price').textContent = `累计表现（${M.start} = 100，含分红，对数坐标）`;
-  el('formula-factors').innerHTML = `R<sub>${ME}</sub> − R<sub>f</sub> = α + β<sub>M</sub>(R<sub>M</sub> − R<sub>f</sub>)` + (HAS.sec ? ` + β<sub>S</sub>·F<sub>板块⊥市场</sub>` : '') + (HAS.rate ? ` + β<sub>Y</sub>·Δy<sub>10Y</sub>` : '') + ' + e' + (HAS.sec ? '　　F 为板块指数对市场回归的残差' : '');
+  el('formula-factors').innerHTML = `R<sub>上海电力</sub> − R<sub>f</sub> = α + β<sub>M</sub>(R<sub>M</sub> − R<sub>f</sub>)` + (HAS.sec ? ` + β<sub>S</sub>·F<sub>板块⊥市场</sub>` : '') + (HAS.rate ? ` + β<sub>Y</sub>·Δy<sub>10Y</sub>` : '') + ' + e' + (HAS.sec ? '　　F 为板块指数对市场回归的残差' : '');
   el('cap-scatter').textContent = `相对${N.mkt}，β = ${sm.beta.toFixed(2)}，R² = ${sm.r2.toFixed(2)}`;
   const g = DATA.garch.tgt;
   el('garch-text').textContent = `GARCH(1,1)（学生 t 分布）估计：α = ${g.alpha.toFixed(3)}，β = ${g.beta.toFixed(3)}，持续性 ${g.persistence.toFixed(3)}` + (g.half_life_days ? `，波动冲击的半衰期约 ${Math.round(g.half_life_days)} 个交易日` : '') + (g.long_run_vol_ann ? `，长期均值约 ${pct(g.long_run_vol_ann, 0)}` : '') + `，当前条件波动率约 ${pct(g.current_cond_vol_ann, 0)}。` + `最大的 10 个交易日贡献了 ${pct(DATA.top10_days_var_share, 0)} 的方差。`;
@@ -463,27 +580,30 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
   bullets('beta-summary', [
     ['市场 β：', `${sm.beta.toFixed(2)}（95% 区间 ${sm.beta_ci95.map(v => v.toFixed(2)).join('–')}），系统性风险占总方差 ${pct(sm.systematic_share, 0)}。`],
     HAS.sec ? ['板块 β：', `${DATA.sim_sec.beta.toFixed(2)}；板块本身对市场的 β 为 ${DATA.sec_on_mkt.beta.toFixed(2)}。`] : null,
+    HAS.sty ? ['红利风格 β：', `${DATA.sim_sty.beta.toFixed(2)}（R² ${pct(DATA.sim_sty.r2, 1)}）。`] : null,
     HAS.rate ? ['利率：', `每 +10bp ${spct(f.rate_beta_10bp, 2)}（t = ${f.rate_t.toFixed(1)}）` + (DATA.monthly_rate ? `；月度相关系数 ${DATA.monthly_rate.corr.toFixed(2)}` : '') + '。'] : null,
     ['CAPM 必要回报：', `${pct(DATA.capm.required_return, 1)}（无风险利率 ${pct(DATA.capm.rf_latest, 2)}，股权风险溢价 ${pct(DATA.capm.erp, 0)}）。`],
   ]);
   el('events-lede').textContent = `用“${N.mkt}` + (HAS.sec ? ` + ${N.sec}”两因子模型` : '”市场模型') + `剔除大盘与行业的影响，计算事件反应日的异常收益（AR），并用残差标准差检验显著性。`;
   el('ar-formula').innerHTML = `AR<sub>t</sub> = R<sub>t</sub> − (α̂ + β̂<sub>M</sub> R<sub>M,t</sub>` + (HAS.sec ? ` + β̂<sub>S</sub> F<sub>t</sub>` : '') + `)　　t = AR / σ(e)，σ(e) = ${(DATA.resid_sd_daily * 100).toFixed(2)}%；|t| &gt; 1.96 视为在 5% 水平显著`;
   const cy = DATA.car_by_year, yrs = Object.keys(cy);
-  el('car-note').textContent = `按年度累计异常收益：` + yrs.slice(-4).map(y => `${y} 年 ${spct(cy[y], 0)}`).join('，') + '。';
+  el('car-note').textContent = `按年度累计异常收益：` + yrs.slice(-5).map(y => `${y} 年 ${spct(cy[y], 0)}`).join('，') + '。';
   if (EV.length) {
     const earn = DATA.earnings_abs_move_avg;
     const sig = EV.filter(e => Math.abs(e.ar_t) > 1.96).length;
     bullets('event-points', [
       ['显著事件：', `${EV.length} 个事件中 ${sig} 个的当日异常收益在 5% 水平显著。`],
-      earn ? ['业绩日：', `业绩发布后首个交易日平均绝对涨跌 ${pct(earn, 1)}，其他交易日平均 ${pct(DATA.normal_abs_move_avg, 1)}。`] : null,
+      earn ? ['业绩日：', `业绩相关公告后首个交易日平均绝对涨跌 ${pct(earn, 1)}，其他交易日平均 ${pct(DATA.normal_abs_move_avg, 1)}。`] : null,
     ]);
   }
   if (HAS.exdiv) { const x = DATA.ex_dividend_summary; el('exdiv-text').textContent = `${x.n} 次除息日中 ${x.n_neg} 次下跌，按分红复权后的平均收益 ${spct(x.avg_ret_ex, 1)}、平均异常收益 ${spct(x.avg_ar_ex, 1)}；股权登记日平均 ${spct(x.avg_ret_record, 1)}。`; }
   const methods = [
-    `行情：${M.start} 至 ${M.end} 的日度数据；个股用分红复权价，指数用全收益指数（如有）。年化按 252 个交易日，波动率用对数收益，β 与事件研究用超额简单收益（减无风险利率）。`,
-    `模型：单指数模型（OLS，HAC 稳健标准误）` + (HAS.sec ? '，板块因子为同业等权指数对市场回归的残差' : '') + (HAS.rate ? '，利率因子为 10 年期国债收益率日变动（每 +10bp）' : '') + '；GARCH(1,1) 学生 t 分布；滚动窗口 63 / 126 / 252 日。',
+    `行情：${M.start} 至 ${M.end} 的日度数据；个股用分红复权价（Yahoo Finance），沪深 300 与中证红利用中证指数公司的全收益指数。年化按 252 个交易日，波动率用对数收益，β 与事件研究用超额简单收益（减 2 年期国债收益率折算的日无风险利率）。`,
+    `模型：单指数模型（OLS，HAC 稳健标准误）` + (HAS.sec ? '，板块因子为同业等权指数对市场回归的残差' : '') + (HAS.rate ? '，利率因子为 10 年期国债收益率日变动（每 +10bp）' : '') + '；GARCH(1,1) 学生 t 分布；滚动窗口 63 / 126 / 252 日。同业指数中，江苏国信（原舜天船舶）2017 年 2 月以前的行情不计入。',
     `事件研究：事件日为市场首次能够反应的交易日（盘后或周末公告取下一交易日）；AR 用全样本模型估计，t = AR/σ(e)；CAR 为事件日起 6 个交易日的累计。`,
     HAS.peers ? `同业：每家公司的板块 β 用不含其自身的等权指数计算（留一法）；排名由程序计算。` : '',
+    `经营数据：装机、发电量、上网电价来自 2018 年以来各期发电量完成情况公告，由脚本从公告文本中提取；利用小时、标煤单价、分地区收入、子公司利润、在建项目来自年报，按报告抄录。`,
+    `利润敏感性：单因素静态测算，归母影响 = 税前影响 ×（1 − 25%）× 2025 年归母净利润占合并净利润的比例（${PA.sensitivity ? pct(PA.sensitivity.parent_share, 1) : '—'}）。`,
   ].filter(Boolean);
   bullets('method-list', methods.map(t => [null, t]));
   const src = (F.sources || []).map(s => [s.label, s.url]).concat(EV.filter(e => e.source).map(e => [`${e.day0} ${e.short || e.title}`, e.source]));
@@ -493,20 +613,19 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
 
 /* ---------- tiles ---------- */
 (() => {
-  const s = DATA.stats.tgt, V = F.valuation || {};
+  const s = DATA.stats.tgt, V = F.valuation || {}, P = PA.per_share || {};
   tiles('tiles', [
-    [`收盘价（${M.end.slice(5).replace('-', '/')}）`, TCUR + M.last_raw_close.toFixed(2), '', V.mcap ? `市值 ${num(V.mcap / 100, 0)} 亿${TCUR_NAME}；较样本内高点 ${fmt0(s.current_drawdown)}` : `较样本内高点 ${fmt0(s.current_drawdown)}`],
-    V.pe_ttm ? ['市盈率 / 市净率', V.pe_ttm.toFixed(1) + 'x', '/ ' + (V.pb ? V.pb.toFixed(2) + 'x' : '—'), V.dy ? `股息率 ${pct(V.dy, 1)}` : ''] : null,
+    [`收盘价（${M.end.slice(5).replace('-', '/')}）`, TCUR + M.last_raw_close.toFixed(2), '', V.mcap ? `市值 ${num(V.mcap / 100, 0)} 亿元；较样本内高点 ${fmt0(s.current_drawdown)}` : `较样本内高点 ${fmt0(s.current_drawdown)}`],
+    ['市盈率（TTM）/ 市净率', V.pe_ttm.toFixed(1) + 'x', '/ ' + V.pb.toFixed(2) + 'x', `扣除永续债利息后市盈率 ${(M.last_raw_close / P.eps_ttm).toFixed(0)}x；股息率 ${pct(V.dy, 1)}`],
     ['年化波动率', pct(s.ann_vol, 0), '', `${N.mkt} ${pct(DATA.stats.mkt.ann_vol, 0)}` + (HAS.sec ? `，${N.sec} ${pct(DATA.stats.sec.ann_vol, 0)}` : '')],
     ['β（对市场' + (HAS.sec ? ' / 对板块）' : '）'), DATA.sim_mkt.beta.toFixed(2), HAS.sec ? '/ ' + DATA.sim_sec.beta.toFixed(2) : '', `R² ${pct(DATA.sim_mkt.r2, 0)}；下跌日 β ${DATA.down_beta_mkt.toFixed(2)}`],
     ['最大回撤', spct(s.max_drawdown, 0), '', `${dt(s.mdd_peak)} → ${dt(s.mdd_trough)}`],
     ['累计回报（含分红）', spct(s.total_return, 0), '', `年化 ${spct(s.ann_return_geo, 1)}；${N.mkt} ${spct(DATA.stats.mkt.total_return, 0)}`],
   ]);
-  // three tiles fill one row of the grid (use 3 or 6)
   if (V.price) tiles('val-tiles', [
-    ['市盈率 / 市净率', V.pe_ttm ? V.pe_ttm.toFixed(1) + 'x' : '—', '/ ' + (V.pb ? V.pb.toFixed(2) + 'x' : '—'), [V.pe_pct ? `市盈率历史 ${pct(V.pe_pct, 0)} 分位` : '', V.pb_pct ? `市净率 ${pct(V.pb_pct, 0)} 分位` : ''].filter(Boolean).join('，')],
-    ['EV/EBITDA', V.ev_ebitda ? V.ev_ebitda.toFixed(1) + 'x' : '—', '', V.ev ? `企业价值 ${num(V.ev / 100, 0)} 亿` : ''],
-    ['股息率', V.dy ? pct(V.dy, 1) : '—', '', V.dps ? `每股 ${CUR}${V.dps}` : ''],
+    ['市盈率（TTM）', V.pe_ttm.toFixed(1) + 'x', '', `扣除永续债利息后 ${(M.last_raw_close / P.eps_ttm).toFixed(1)}x；前三季度年化 ${(M.last_raw_close / P.eps_9m_annualised).toFixed(1)}x`],
+    ['市净率', V.pb.toFixed(2) + 'x', '', `普通股每股净资产 ${P.bvps_common.toFixed(2)} 元；2018 年以来 ${pct(V.pb_pct, 0)} 分位`],
+    ['EV/EBITDA', V.ev_ebitda.toFixed(1) + 'x', '', `股息率 ${pct(V.dy, 1)}（每股 ${V.dps} 元）`],
   ]);
 })();
 
@@ -561,20 +680,48 @@ const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
     fillRows(tb('tbl-peer-vol'), P.slice().sort((a, b) => (b.ret_3y ?? -9) - (a.ret_3y ?? -9)).map(p => ({ me: p.code === ME, cells: [p.name, ...pk.map(k => ({ n: 1, text: spct(p[k], 0), cls: tone(p[k]) })), { n: 1, text: pct(p.vol_1y, 0) }, { n: 1, text: x2(p.beta_mkt) }, { n: 1, text: x2(p.beta_sec) }, ...(HAS.rate ? [{ n: 1, text: spct(p.rate_10bp, 2), cls: tone(p.rate_10bp) }] : []), { n: 1, text: fmt0(p.dd_from_high), cls: 'neg-t' }] })));
   }
   const A = F.annual || [];
-  fillRows(tb('tbl-annual'), A.map(a => [a.y + ' 年', { n: 1, text: num(a.revenue) }, { n: 1, text: spct(a.revenue_yoy, 1), cls: tone(a.revenue_yoy) }, { n: 1, text: pct(a.gross_margin, 1) }, { n: 1, text: num(a.np) }, { n: 1, text: spct(a.np_yoy, 1), cls: tone(a.np_yoy) }, { n: 1, text: num(a.np_adj) }, { n: 1, text: spct(a.np_adj_yoy, 1), cls: tone(a.np_adj_yoy) }, { n: 1, text: pct(a.roe, 1) }, { n: 1, text: num(a.ocf) }, { n: 1, text: num(a.capex) }, { n: 1, text: a.dps === null || a.dps === undefined ? '—' : a.dps.toFixed(3) }]));
-  fillRows(tb('tbl-bal'), (F.balance || []).map(b => [b.p, { n: 1, text: num(b.cash) }, { n: 1, text: num(b.debt) }, { n: 1, text: num(b.net_debt) }, { n: 1, text: pct(b.debt_asset, 1) }, { n: 1, text: b.current_ratio ? b.current_ratio.toFixed(2) : '—' }]));
+  fillRows(tb('tbl-annual'), A.map(a => [a.y + ' 年', { n: 1, text: num(a.revenue) }, { n: 1, text: spct(a.revenue_yoy, 1), cls: tone(a.revenue_yoy) }, { n: 1, text: pct(a.gross_margin, 1) }, { n: 1, text: num(a.np) }, { n: 1, text: Math.abs(a.np_yoy) > 5 ? '—' : spct(a.np_yoy, 1), cls: tone(a.np_yoy) }, { n: 1, text: num(a.np_adj) }, { n: 1, text: Math.abs(a.np_adj_yoy) > 5 ? '—' : spct(a.np_adj_yoy, 1), cls: tone(a.np_adj_yoy) }, { n: 1, text: pct(a.roe, 1) }, { n: 1, text: num(a.ocf) }, { n: 1, text: num(a.capex) }, { n: 1, text: a.dps === null || a.dps === undefined ? '—' : a.dps.toFixed(3) }]));
+  fillRows(tb('tbl-bal'), (F.balance || []).filter(b => b.p >= '2019').map(b => [b.p, { n: 1, text: num(b.cash) }, { n: 1, text: num(b.debt) }, { n: 1, text: num(b.net_debt) }, { n: 1, text: pct(b.debt_asset, 1) }, { n: 1, text: b.current_ratio ? b.current_ratio.toFixed(2) : '—' }]));
   const sv = F.solvency || {};
+  const D = PA.debt || { rows: [] }, dl = D.rows[D.rows.length - 1] || {};
   bullets('solvency-points', [
-    sv.nd_ebitda !== undefined ? ['净负债 / EBITDA：', `${sv.nd_ebitda < 0 ? '净现金' : sv.nd_ebitda.toFixed(2) + ' 倍'}` + (sv.date ? `（${sv.date}）` : '') + '。'] : null,
-    sv.interest_cover !== undefined ? ['利息保障倍数：', `${sv.interest_cover.toFixed(1)} 倍。`] : null,
-    sv.loan_rate_range ? ['借款利率：', `${pct(sv.loan_rate_range[0], 2)}–${pct(sv.loan_rate_range[1], 2)}。`] : null,
+    ['净负债 / EBITDA：', `${sv.nd_ebitda.toFixed(2)} 倍（2026 年 9 月末净负债 ÷ 2025 年 EBITDA），15 家同业中第 3 高，中位数 ${F.peer_medians.nd_ebitda.toFixed(2)} 倍。`],
+    ['利息保障倍数：', `${sv.interest_cover.toFixed(1)} 倍（2025 年息税前利润 ÷ 利息支出，利息支出含资本化的 2.74 亿元）。`],
+    ['永续债：', `${dl.perpetual ? dl.perpetual.toFixed(0) : '—'} 亿元，计入归母权益；2025 年利息 3.08 亿元、2026 年前三季度 2.89 亿元，从归母净利润中扣除后才是普通股股东的利润。`],
+    ['应收账款：', `${dl.receivables ? dl.receivables.toFixed(0) : '—'} 亿元（2026 年 9 月末，含应收票据），主要是新能源补贴款，2023 年末为 201 亿元。`],
   ]);
+  head('thead-debt', ['项目', ...D.rows.map(r => r.date.slice(0, 7) === r.date.slice(0, 4) + '-12' ? r.date.slice(0, 4) + ' 年末' : r.date.slice(0, 7))]);
+  fillRows(tb('tbl-debt'), [...D.labels.map((lab, i) => [lab, ...D.rows.map(r => ({ n: 1, text: n1(r['p' + i]) }))]),
+    { cells: [{ text: '有息负债合计', cls: 'b' }, ...D.rows.map(r => ({ n: 1, text: n1(r.total), cls: 'b' }))] },
+    ['货币资金', ...D.rows.map(r => ({ n: 1, text: n1(r.cash) }))],
+    ['净负债', ...D.rows.map(r => ({ n: 1, text: n1(r.net) }))],
+    ['永续债（计入权益）', ...D.rows.map(r => ({ n: 1, text: n1(r.perpetual) }))]]);
   const FP = (F.peers || []).slice().sort((a, b) => b.mcap - a.mcap);
-  fillRows(tb('tbl-peer-fin'), FP.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap / 100) }, { n: 1, text: num(p.revenue) }, { n: 1, text: spct(p.revenue_yoy, 1), cls: tone(p.revenue_yoy) }, { n: 1, text: num(p.np) }, { n: 1, text: spct(p.np_yoy, 1), cls: tone(p.np_yoy) }, { n: 1, text: pct(p.roe, 1) }, { n: 1, text: p.pe_ttm > 0 ? p.pe_ttm.toFixed(1) + 'x' : '—' }, { n: 1, text: p.pb ? p.pb.toFixed(2) + 'x' : '—' }, { n: 1, text: pct(p.dy, 1) }, { n: 1, text: p.nd_ebitda === null || p.nd_ebitda === undefined ? '—' : p.nd_ebitda < 0 ? '净现金' : p.nd_ebitda.toFixed(1) + 'x' }] })));
-  const V = F.valuation || {};
-  fillRows(tb('tbl-targets'), (V.broker_targets || []).map(t => [t.broker, t.rating || '—', { n: 1, text: TCUR + t.target.toFixed(2) }, { n: 1, text: spct(t.target / M.last_raw_close - 1, 0), cls: tone(t.target / M.last_raw_close - 1) }, t.url ? { text: t.date || '来源', href: t.url } : (t.date || '—')]));
+  fillRows(tb('tbl-peer-fin'), FP.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap / 100) }, { n: 1, text: num(p.revenue) }, { n: 1, text: spct(p.revenue_yoy, 1), cls: tone(p.revenue_yoy) }, { n: 1, text: num(p.np) }, { n: 1, text: spct(p.np_yoy, 1), cls: tone(p.np_yoy) }, { n: 1, text: p.np_h_yoy < -1 ? '转亏' : spct(p.np_h_yoy, 1), cls: tone(p.np_h_yoy) }, { n: 1, text: pct(p.roe, 1) }, { n: 1, text: p.pe_ttm > 0 ? p.pe_ttm.toFixed(1) + 'x' : '亏损' }, { n: 1, text: p.pb ? p.pb.toFixed(2) + 'x' : '—' }, { n: 1, text: pct(p.dy, 1) }, { n: 1, text: p.nd_ebitda === null || p.nd_ebitda === undefined ? '—' : p.nd_ebitda < 0 ? '净现金' : p.nd_ebitda.toFixed(1) + 'x' }] })));
   const il = el('industry-list');
   (F.industry || []).forEach(i => { const li = document.createElement('li'); const b = document.createElement('b'); b.textContent = i.label + '：'; li.appendChild(b); li.appendChild(document.createTextNode(i.value + ' ')); if (i.url) { const a = document.createElement('a'); a.href = i.url; a.textContent = '来源'; a.target = '_blank'; a.rel = 'noopener'; li.appendChild(a); } il.appendChild(li); });
+  // operating table
+  const OPS = (PA.annual_ops || []).concat(PA.latest ? [{ ...PA.latest, y: '2026 前三季度', market: null, hours_coal: null, coal_unit: null }] : []);
+  fillRows(tb('tbl-ops'), OPS.map(o => [typeof o.y === 'number' ? o.y + ' 年' : o.y, { n: 1, text: num(o.cap, 0) }, { n: 1, text: num(o.cap_coal, 0) }, { n: 1, text: num((o.cap_wind || 0) + (o.cap_solar || 0), 0) },
+    { n: 1, text: n1(o.gen, 1) }, { n: 1, text: n1(o.gen_coal, 1) }, { n: 1, text: o.tariff ? o.tariff.toFixed(2) : '—' }, { n: 1, text: o.market && o.ongrid ? pct(o.market / o.ongrid, 0) : '—' },
+    { n: 1, text: o.hours_coal ? num(o.hours_coal, 0) : '—' }, { n: 1, text: o.coal_unit ? num(o.coal_unit, 0) : '—' }]));
+  const RG = PA.regions_2025 || [], rtot = RG.reduce((a, r) => a + r.rev, 0);
+  fillRows(tb('tbl-regions'), RG.map(r => [r.name, { n: 1, text: r.rev.toFixed(1) }, { n: 1, text: pct(r.rev / rtot, 0) }, { n: 1, text: pct(r.gm, 1) }]).concat([{ cells: [{ text: '合计' }, { n: 1, text: rtot.toFixed(1) }, { n: 1, text: '100%' }, { n: 1, text: '' }] }]));
+  fillRows(tb('tbl-quarters'), (PA.quarters_profit || []).map(q => [q.label, { n: 1, text: n1(q.rev) }, { n: 1, text: n1(q.pretax, 2), cls: tone(q.pretax) }, { n: 1, text: n1(q.tax, 2) }, { n: 1, text: q.pretax > 0 ? pct(q.tax / q.pretax, 0) : '—' },
+    { n: 1, text: n1(q.np_parent, 2), cls: tone(q.np_parent) }, { n: 1, text: n1(q.np_adj, 2), cls: tone(q.np_adj) }, { n: 1, text: q.np > 0 && q.np_parent > 0 ? pct(1 - q.np_parent / q.np, 0) : '—' }, { n: 1, text: n1(q.gen, 1) }]));
+  const SE = PA.sensitivity || { rows: [] };
+  fillRows(tb('tbl-sens'), SE.rows.map(s => [s.label, s.change, { text: s.basis, cls: 'w small' }, { n: 1, text: '±' + s.pretax.toFixed(1) }, { n: 1, text: '±' + s.np.toFixed(1) }, { n: 1, text: '±' + pct(s.share, 1) }]));
+  el('sens-note').textContent = `示意测算。归母净利润影响 = 税前影响 × （1 − 25%）× ${pct(SE.parent_share, 1)}（2025 年归母净利润占合并净利润的比例）；基数为 2025 年归母净利润 ${SE.np_parent_2025.toFixed(2)} 亿元。境内煤电发电量 = 2025 年煤电发电量减土耳其胡努特鲁电厂的 ${SE.turkey_gen.toFixed(1)} 亿千瓦时；耗用标准煤约 ${num(SE.coal_tce, 0)} 万吨，燃料成本约 ${SE.coal_cost.toFixed(0)} 亿元（不含税）。`;
+  fillRows(tb('tbl-projects'), (PA.projects || []).map(p => [p.name, p.where, p.type, { n: 1, text: p.budget ? p.budget.toFixed(2) : '—' }, { n: 1, text: p.progress ? pct(p.progress, 0) : '—' }, { text: p.status, cls: 'w' }]));
+  fillRows(tb('tbl-catalysts'), [
+    ['2026 年 12 月', '漕泾二期首台 100 万千瓦机组投产', '投产时间、上海煤电容量电价与利用小时'],
+    ['2027 年 1 月中旬', '2026 年度发电量完成情况公告', '全年上网电价（前三季度 0.54 元/千瓦时）和发电量（预算 888 亿千瓦时）'],
+    ['2027 年 1 月下旬', '2026 年业绩预告（如触发）', '四季度是否像 2024、2025 年一样亏损'],
+    ['2027 年 1–3 月', '上海、江苏 2027 年度电力中长期交易结果', '年度长协电价是否继续下降'],
+    ['2027 年 3–4 月', '2026 年年报与分红方案', '每股分红能否维持 0.37 元，以及中期分红是否实施'],
+    ['2027Q4–2028Q1', '外高桥 2×100 万千瓦扩容量替代投产', '项目进度与新增负债'],
+    ['持续', '国家电投境外资产安排', '是否行使对托管公司的优先购买权，有无正式重组方案'],
+  ]);
 })();
 
 /* ---------- charts ---------- */
@@ -583,7 +730,6 @@ const RB = DATA.rebased;
 el('unit-rev').textContent = UNIT ? `（${UNIT}）` : '';
 el('unit-bal').textContent = UNIT ? `（${UNIT}）` : '';
 el('cap-rebased').textContent = RB ? `相对表现（${RB.base_date} 收盘 = 100，含分红）` : '';
-if ((F.peers || []).some(p => p.growth_basis)) el('cap-peer-growth').textContent = '收入增速（最近一个季度同比，Yahoo）';
 if ((F.peers || []).length) el('cap-peer-fin').textContent = `同业财务与估值（按市值排序；市值单位：亿${TCUR_NAME}` + (UNIT ? `，收入与净利润单位：${UNIT}` : '') + '）';
 legend('leg-price', keys.map(k => [KC[k], N[k]]));
 legend('leg-vol', [['c2', N.tgt + ' 63 日'], ['c7', N.tgt + ' GARCH'], HAS.sec ? ['c3', N.sec + ' 63 日'] : null, ['c1', N.mkt + ' 63 日']]);
@@ -591,14 +737,21 @@ legend('leg-beta', [['c1', '对' + N.mkt], HAS.sec ? ['c3', '对' + N.sec] : nul
 legend('leg-corr', [HAS.sec ? ['c3', '与' + N.sec] : null, ['c1', '与' + N.mkt]]);
 legend('leg-hist', [['c2', N.tgt, true], HAS.sec ? ['c3', N.sec, true] : ['c1', N.mkt, true]]);
 legend('leg-dd', [['c2', N.tgt], HAS.sec ? ['c3', N.sec] : null, ['c1', N.mkt]]);
-legend('leg-rev', [['c1', '收入', true], ['c2', '归母净利润', true], ['c3', '扣非/经调整净利润', true]]);
+legend('leg-rev', [['c1', '收入', true], ['c2', '归母净利润', true], ['c3', '扣非净利润', true]]);
 legend('leg-bal', [['c1', '货币资金', true], ['c2', '有息负债', true]]);
 legend('leg-gap', [['c2', N.tgt + '股息率'], ['c1', '10 年期国债'], ['c3', '利差']]);
 legend('leg-exdiv', [['c1', '股权登记日', true], ['c2', '除息日', true]]);
-// the rebased chart shows the first COMPARE peer as a thin purple line; list more peers in the peer table instead
+legend('leg-capmix', [['c8', '煤电', true], ['c9', '气电', true], ['c3', '风电', true], ['c4', '光伏', true]]);
+legend('leg-qprofit', [['c1', '利润总额', true], ['c2', '归母净利润', true]]);
+legend('leg-ocf', [['c1', '经营现金流', true], ['c2', '资本开支', true]]);
+legend('leg-demand', [['c2', '上海电力发电量'], ['c8', '其中煤电'], ['c1', '全社会用电量']]);
+legend('leg-pe', [['c2', '市净率（左轴为倍数）'], ['c7', '市盈率（TTM）÷ 10']]);
 const RB_PEER = RB ? Object.keys(RB).find(k => /^\d|^[A-Z]/.test(k) && k !== ME) : null;
 const peerName = k => (DATA.peers || []).find(p => p.code === k)?.name || k;
 if (RB) legend('leg-rebased', [['c2', N.tgt], HAS.sec ? ['c3', N.sec] : null, ['c1', N.mkt], HAS.sty ? ['c4', N.sty] : null, RB_PEER ? ['c7', peerName(RB_PEER)] : null]);
+const OPSA = PA.annual_ops || [], LT = PA.latest || {};
+const QG = PA.cum_vs_demand || [];
+const VW = PA.val_weekly || { dates: [] };
 const charts = {
   'ch-price': e => lineChart(e, { x: S.date, series: keys.map(k => ({ label: N[k], values: S[k + '_idx'], cls: KC[k], endLabel: true })), yfmt: v => num(v), ylog: true, logTicks: logTicksFor(keys.flatMap(k => S[k + '_idx'])), refs: [{ y: 100, label: '' }], height: 300, aria: '累计表现对比' }),
   'ch-vol': e => lineChart(e, { x: S.date, series: [{ label: N.tgt + ' 63日', values: S.vol63_tgt, cls: 'c2' }, { label: N.tgt + ' GARCH', values: S.garch_tgt, cls: 'c7', thin: true }, ...(HAS.sec ? [{ label: N.sec + ' 63日', values: S.vol63_sec, cls: 'c3' }] : []), { label: N.mkt + ' 63日', values: S.vol63_mkt, cls: 'c1' }], yfmt: v => pct(v, 0), height: 280, aria: '滚动波动率' }),
@@ -619,9 +772,17 @@ const charts = {
   'ch-peer-ytd': e => HAS.peers && hbarChart(e, { items: DATA.peers.slice().sort((a, b) => (b.ret_ytd ?? -9) - (a.ret_ytd ?? -9)).map(p => ({ label: p.name, v: p.ret_ytd, cls: p.code === ME ? 'f2' : (p.ret_ytd >= 0 ? 'f1' : 'fneg'), sub: '近三年 ' + spct(p.ret_3y, 0), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '今年以来收益' }),
   'ch-peer-growth': e => (F.peers || []).length && hbarChart(e, { items: F.peers.filter(p => p.revenue_yoy !== null && p.revenue_yoy !== undefined).sort((a, b) => b.revenue_yoy - a.revenue_yoy).map(p => ({ label: p.name, v: p.revenue_yoy, cls: p.code === ME ? 'f2' : (p.revenue_yoy >= 0 ? 'f1' : 'fneg'), sub: '净利润 ' + spct(p.np_yoy, 1), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '收入增速' }),
   'ch-peer-roe': e => (F.peers || []).length && hbarChart(e, { items: F.peers.filter(p => p.roe !== null && p.roe !== undefined).sort((a, b) => b.roe - a.roe).map(p => ({ label: p.name, v: p.roe, cls: meCls(p.code, 'f1'), sub: '市净率 ' + (p.pb ? p.pb.toFixed(2) + 'x' : '—'), title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 80, row: 21, aria: 'ROE' }),
-  'ch-rev': e => (F.annual || []).length && barChart(e, { labels: F.annual.map(a => String(a.y)), series: [{ label: '收入', values: F.annual.map(a => a.revenue), cls: 'f1' }, { label: '归母净利润', values: F.annual.map(a => a.np), cls: 'f2' }, { label: '扣非/经调整', values: F.annual.map(a => a.np_adj ?? null), cls: 'f3' }], yfmt: v => num(v), tfmt: v => num(v) + (UNIT ? ' ' + UNIT : ''), height: 250, aria: '收入与利润' }),
-  'ch-bal': e => (F.balance || []).length && barChart(e, { labels: F.balance.map(b => b.p), series: [{ label: '货币资金', values: F.balance.map(b => b.cash), cls: 'f1' }, { label: '有息负债', values: F.balance.map(b => b.debt), cls: 'f2' }], yfmt: v => num(v), tfmt: v => num(v) + (UNIT ? ' ' + UNIT : ''), rotateNarrow: true, height: 250, aria: '现金与负债' }),
-  // company-specific charts go here, e.g. 'ch-segments': e => stackMulti(e, {...}),
+  'ch-rev': e => (F.annual || []).length && barChart(e, { labels: F.annual.map(a => String(a.y)), series: [{ label: '收入', values: F.annual.map(a => a.revenue), cls: 'f1' }, { label: '归母净利润', values: F.annual.map(a => a.np), cls: 'f2' }, { label: '扣非净利润', values: F.annual.map(a => a.np_adj ?? null), cls: 'f3' }], yfmt: v => num(v), tfmt: v => num(v) + (UNIT ? ' ' + UNIT : ''), height: 250, aria: '收入与利润' }),
+  'ch-bal': e => (F.balance || []).length && barChart(e, { labels: F.balance.filter(b => b.p >= '2019').map(b => b.p), series: [{ label: '货币资金', values: F.balance.filter(b => b.p >= '2019').map(b => b.cash), cls: 'f1' }, { label: '有息负债', values: F.balance.filter(b => b.p >= '2019').map(b => b.debt), cls: 'f2' }], yfmt: v => num(v), tfmt: v => num(v) + (UNIT ? ' ' + UNIT : ''), rotateNarrow: true, height: 250, aria: '现金与负债' }),
+  'ch-capmix': e => stackMulti(e, { rows: OPSA.map(o => ({ label: String(o.y), parts: [{ name: '煤电', v: o.cap_coal, cls: 'f8' }, { name: '气电', v: o.cap_gas, cls: 'f9' }, { name: '风电', v: o.cap_wind, cls: 'f3' }, { name: '光伏', v: o.cap_solar, cls: 'f4' }] })).concat(LT.cap ? [{ label: '2026-09', parts: [{ name: '煤电', v: LT.cap_coal, cls: 'f8' }, { name: '气电', v: LT.cap_gas, cls: 'f9' }, { name: '风电', v: LT.cap_wind, cls: 'f3' }, { name: '光伏', v: LT.cap_solar, cls: 'f4' }] }] : []), vfmt: v => num(v, 0) + ' 万千瓦', labelWidth: 64, aria: '控股装机结构' }),
+  'ch-subs': e => hbarChart(e, { items: (PA.subsidiaries_2025 || []).map(s => ({ label: s.name.replace('（参股）', '*').replace(/有限公司|股份有限公司/g, ''), v: s.np, cls: /参股/.test(s.name) ? 'f1' : 'f2', sub: '收入 ' + s.rev.toFixed(1) + ' 亿元', title: s.name, desc: s.biz })), fmt: v => num(v, 0), tfmt: d => d.v.toFixed(2) + ' 亿元', labelWidth: 150, row: 21, aria: '主要子公司净利润' }),
+  'ch-qprofit': e => barChart(e, { labels: (PA.quarters_profit || []).map(q => q.label), series: [{ label: '利润总额', values: PA.quarters_profit.map(q => q.pretax), cls: 'f1' }, { label: '归母净利润', values: PA.quarters_profit.map(q => q.np_parent), cls: 'f2' }], yfmt: v => num(v, 0), tfmt: v => v.toFixed(2) + ' 亿元', rotateNarrow: true, height: 250, aria: '单季利润' }),
+  'ch-ocf': e => (F.annual || []).length && barChart(e, { labels: F.annual.map(a => String(a.y)), series: [{ label: '经营现金流', values: F.annual.map(a => a.ocf), cls: 'f1' }, { label: '资本开支', values: F.annual.map(a => a.capex), cls: 'f2' }], yfmt: v => num(v), tfmt: v => num(v) + ' 百万元', height: 240, aria: '经营现金流与资本开支' }),
+  'ch-tariff': e => barChart(e, { labels: OPSA.map(o => String(o.y)).concat(['26前三季']), series: [{ label: '上网电价（含税）', values: OPSA.map(o => o.tariff).concat([LT.tariff]), cls: (v, i) => i === OPSA.length ? 'f2' : 'f1' }], yfmt: v => v.toFixed(2), tfmt: v => v.toFixed(2) + ' 元/千瓦时', vfmt: v => v.toFixed(2), valueLabels: true, rotateNarrow: true, height: 240, aria: '平均上网电价' }),
+  'ch-coalunit': e => { const cu = OPSA.filter(o => o.coal_unit); const first = cu[0]; const implied = first ? first.coal_unit / 1.6742 : null; barChart(e, { labels: ['2020'].concat(cu.map(o => String(o.y))), series: [{ label: '入炉标煤单价（含税）', values: [implied].concat(cu.map(o => o.coal_unit)), cls: (v, i) => i === 0 ? 'fmid' : 'f8' }], yfmt: v => num(v, 0), tfmt: v => num(v, 0) + ' 元/吨', vfmt: v => num(v, 0), valueLabels: true, height: 240, aria: '入炉标煤单价' }); },
+  'ch-demand': e => { const pts = QG.filter(q => q.y >= 2019 && (q.q === 4 || q.y >= 2024)); lineChart(e, { x: pts.map(q => `${q.y}-${String(q.q * 3).padStart(2, '0')}-28`), labels: pts.map(q => `${String(q.y).slice(2)}年${['', '1季', '上半年', '前三季', '全年'][q.q]}`), series: [{ label: '上海电力发电量', values: pts.map(q => q.gen_yoy), cls: 'c2' }, { label: '其中煤电', values: pts.map(q => q.coal_yoy), cls: 'c8', thin: true }, { label: '全社会用电量', values: pts.map(q => q.cum_yoy), cls: 'c1' }], points: true, yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), refs: [{ y: 0, label: '' }], height: 260, aria: '发电量与用电量增速' }); },
+  'ch-pe': e => VW.dates.length && lineChart(e, { x: VW.dates, series: [{ label: '市净率', values: VW.pb, cls: 'c2' }, { label: '市盈率（TTM）÷ 10', values: VW.pe.map(v => v === null || v <= 0 || v > 150 ? null : v / 10), cls: 'c7', thin: true }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), height: 260, aria: '估值历史' }),
+  'ch-coalpx': e => { const C = PA.coal_monthly || { dates: [] }; const ser = [C.spot_100ppi ? { label: '动力煤现货（生意社）', values: C.spot_100ppi, cls: 'c8' } : null, C.zc_futures ? { label: '动力煤期货主力（郑商所）', values: C.zc_futures, cls: 'c7', thin: true } : null].filter(Boolean); if (!ser.length) return; lineChart(e, { x: C.dates.map(d => d + '-15'), series: ser, yfmt: v => num(v, 0), tfmt: v => num(v, 0) + ' 元/吨', height: 260, aria: '动力煤价格' }); },
 };
 function renderAll() {
   for (const id in charts) { const box = el(id); if (!box || box.closest('[hidden]')) continue; try { charts[id](box); } catch (err) { console.error(id, err); } }

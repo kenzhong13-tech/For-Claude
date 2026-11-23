@@ -67,9 +67,9 @@ Benchmarks: use total-return indices where they exist, so that dividends are on 
 | | US | Hong Kong | A-shares (SH/SZ) |
 |---|---|---|---|
 | Stock prices | Yahoo (`yfinance`, Adj Close) | Yahoo `NNNN.HK` (4 digits) | Yahoo `6xxxxx.SS` / `0xxxxx.SZ`, `3xxxxx.SZ` (Adj Close reinvests dividends) |
-| Market index | `^SP500TR` (fallback `^GSPC`); FRED `SP500`; Stooq | `^HSI`, `^HSCE` (price only) | CSI site via `ak.stock_zh_index_hist_csindex`: `H00300` CSI 300 TR, `000300` price (has volume for the trading calendar) |
-| Style / sector | sector ETFs (SMH, XLU …); peers' equal-weight index | equal-weight peer index; HK sector ETFs (e.g. 3069.HK) as a check | `H00922` CSI Dividend TR, `H30269` dividend low-vol; Shenwan industry `ak.index_hist_sw(symbol)` (code list: `ak.sw_index_second_info()` / `third_info()`) |
-| Risk-free / rates | Yahoo `^IRX` (3M bill), `^TNX` (10Y); FRED `DGS3MO`, `DGS10`, `BAMLH0A0HYM2` when reachable (it timed out from GitHub runners in October 2026) | `^IRX` (US 3M bill, HKD is pegged) | `ak.bond_zh_us_rate()`: 中国国债收益率2年 (rf), 10年 (rate factor); `ak.macro_china_lpr()` |
+| Market index | `^SP500TR` (fallback `^GSPC`); FRED `SP500`; Stooq | `^HSI`, `^HSCE` (price only) | CSI site via `ak.index_hist_csindex` (called `stock_zh_index_hist_csindex` before akshare 1.20.44): `H00300` CSI 300 TR, `000300` price (has volume for the trading calendar) |
+| Style / sector | sector ETFs (SMH, XLU …); peers' equal-weight index | equal-weight peer index; HK sector ETFs (e.g. 3069.HK) as a check | `H00922` CSI Dividend TR, `H30269` dividend low-vol; Shenwan industry `ak.index_hist_sw(symbol)` (code list: `ak.index_second_info_sw()` / `index_third_info_sw()`, formerly `sw_index_second_info` / `third_info`) |
+| Risk-free / rates | Yahoo `^IRX` (3M bill), `^TNX` (10Y); FRED `DGS3MO`, `DGS10`, `BAMLH0A0HYM2` when reachable (it timed out from GitHub runners in October 2026) | `^IRX` (US 3M bill, HKD is pegged) | `ak.bond_zh_us_yield_em()` (formerly `bond_zh_us_rate`): 中国国债收益率2年 (rf), 10年 (rate factor); `ak.macro_china_lpr()` |
 | Statements | SEC XBRL companyfacts; Yahoo statements as a check | `ak.stock_financial_hk_analysis_indicator_em(symbol="01530", indicator="报告期")`, `ak.stock_financial_hk_report_em(stock, symbol="利润表"/"资产负债表"/"现金流量表")` | `ak.stock_profit_sheet_by_report_em(symbol="SZ000429")`, `…balance_sheet…`, `…cash_flow_sheet…`, `ak.stock_financial_analysis_indicator_em(symbol="000429.SZ", indicator="按报告期")` |
 | Dividends | Yahoo `dividends`; 8-K | results announcements | `ak.stock_fhps_detail_em(symbol)` (ex-date 除权除息日, record date 股权登记日, cash per 10 shares 现金分红-现金分红比例, plan date 预案公告日) |
 | Valuation history | compute from price × shares | compute | `ak.stock_value_em(symbol)` (PE TTM, PB, market cap, daily) |
@@ -106,7 +106,7 @@ Convert filings to text on the runner: `pdftotext -layout` keeps table columns a
 - **Eastmoney quote endpoints refuse GitHub runners.** `ak.stock_zh_a_hist` and `ak.index_zh_a_hist` hit
   push2/push2his and fail with a connection error. Use Yahoo for A-share stock prices and the CSI site for
   indices. The Eastmoney datacenter endpoints (statements, dividends, valuation, research) still work.
-- **Yahoo A-share indices are unreliable.** `000300.SS` came back with one row. Use `stock_zh_index_hist_csindex`,
+- **Yahoo A-share indices are unreliable.** `000300.SS` came back with one row. Use `index_hist_csindex` (formerly `stock_zh_index_hist_csindex`),
   with Sina (`ak.stock_zh_index_daily`) and Tencent (`…_tx`) as fallbacks.
 - **Eastmoney back-adjusted prices (hfq) add dividends back as fixed amounts.** That understates percentage
   returns, so compute returns from Yahoo Adj Close, which reinvests dividends multiplicatively. Use raw close
@@ -133,6 +133,9 @@ Convert filings to text on the runner: `pdftotext -layout` keeps table columns a
 - **Calendars.** Align on the stock's exchange calendar and forward-fill benchmarks for at most 5 days. For
   A-shares, build the calendar from CSI 300 volume above 0, so that suspensions show up as flat days, not
   missing ones.
+- **akshare renames functions.** Version 1.20.4x renamed the CSI index, bond-yield and Shenwan-list functions (old
+  names raise `AttributeError` that names the new one) and changed `stock_main_stock_holder` to `symbol=`. The fetch
+  template takes whichever name exists; read the Actions log for `AttributeError` after each run anyway.
 - **Code formats.** Yahoo HK is 4 digits (`0013.HK`) and akshare HK is 5 (`00013`). A-share B shares are
   `200xxx.SZ` and `900xxx.SS`.
 - **SEC** rejects requests without a descriptive User-Agent. **HKEXnews** caps a query at about 1000 rows, so

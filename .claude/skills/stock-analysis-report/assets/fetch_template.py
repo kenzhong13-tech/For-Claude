@@ -55,14 +55,17 @@ if MARKET in ("HK", "US"):  # peer valuation / profitability snapshot for the pe
 if MARKET == "A":
     import akshare as ak
     s, e = START.replace("-", ""), END.replace("-", "")
+    # akshare 1.20.4x renamed these functions; the old names now raise AttributeError, so take whichever exists
+    new_or_old = lambda new, old: getattr(ak, new, None) or getattr(ak, old)  # noqa: E731
+    csindex_hist = new_or_old("index_hist_csindex", "stock_zh_index_hist_csindex")
     for code in CSINDEX:  # CSI's own site; Yahoo's A-share index series are unreliable
-        fl.tryit(f"csindex {code}", lambda: ak.stock_zh_index_hist_csindex(symbol=code, start_date=s, end_date=e), os.path.join(OUT, "idx", f"csindex_{code}.csv"))
-    fl.tryit("bond yields", lambda: ak.bond_zh_us_rate(start_date=s), os.path.join(OUT, "rates", "bond_zh_us_rate.csv"))
+        fl.tryit(f"csindex {code}", lambda: csindex_hist(symbol=code, start_date=s, end_date=e), os.path.join(OUT, "idx", f"csindex_{code}.csv"))
+    fl.tryit("bond yields", lambda: new_or_old("bond_zh_us_yield_em", "bond_zh_us_rate")(start_date=s), os.path.join(OUT, "rates", "bond_zh_us_rate.csv"))
     # Shenwan industry indices whose names match the sector, for checking the equal-weight peer index
     SW_PATTERN = r"公路|高速"  # edit
     try:
-        for fn_name in ("sw_index_second_info", "sw_index_third_info"):
-            info = getattr(ak, fn_name)()
+        for new, old in (("index_second_info_sw", "sw_index_second_info"), ("index_third_info_sw", "sw_index_third_info")):
+            info = new_or_old(new, old)()
             name_col = next(c for c in info.columns if "名称" in c)
             code_col = next(c for c in info.columns if "代码" in c)
             for code, name in info[[code_col, name_col]].values.tolist():
@@ -82,7 +85,7 @@ if MARKET == "A":
         fl.tryit(f"value {code}", lambda: ak.stock_value_em(symbol=code), F("value"))
     fl.tryit("research", lambda: ak.stock_research_report_em(symbol=TARGET), os.path.join(OUT, "fin", f"research_{TARGET}.csv"))
     fl.tryit("news", lambda: ak.stock_news_em(symbol=TARGET), os.path.join(OUT, "fin", f"news_{TARGET}.csv"))
-    fl.tryit("holders", lambda: ak.stock_main_stock_holder(stock=TARGET), os.path.join(OUT, "fin", f"holders_{TARGET}.csv"))
+    fl.tryit("holders", lambda: ak.stock_main_stock_holder(symbol=TARGET), os.path.join(OUT, "fin", f"holders_{TARGET}.csv"))  # was stock= before 1.20
     # filings: the company's own (full text), peers' latest annual + interim reports (first 45 pages)
     try:
         orgs = fl.cninfo_org_ids()

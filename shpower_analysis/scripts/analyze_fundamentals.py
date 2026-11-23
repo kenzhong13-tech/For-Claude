@@ -42,12 +42,37 @@ LAST_FY = "2025-12-31"                   # latest full fiscal year (peer compari
 LAST_BS = "2026-09-30"                   # latest balance sheet date
 HALF = ("2026-09-30", "2025-09-30")      # latest interim vs the same period a year earlier; None to skip
 HALF_FALLBACK = ("2026-06-30", "2025-06-30")  # used for a peer whose latest interim is not out yet
-INDUSTRY = []                            # [{"label", "value", "url"}] - sourced industry facts
-SOURCES = []                             # [{"label", "url"}] - documents the narrative relies on
-BROKER_TARGETS = []                      # [{"broker", "rating", "target", "date", "url"}] - third-party, dated
+INDUSTRY = [                             # [{"label", "value", "url"}] - sourced industry facts
+    {"label": "用电需求", "value": "2025 年全社会用电量 103,682 亿千瓦时，同比 +5.0%，首次突破 10 万亿千瓦时（国家能源局）。",
+     "url": "https://www.news.cn/fortune/20260117/348a40641aaf4ddab3479dec6ae01f87/c.html"},
+    {"label": "2026 年放缓", "value": "2026 年前三季度用电量 8.07 万亿千瓦时，同比 +3.9%；中电联把全年预测从年初的 +5%～6% 下调到 +4%～4.5%。",
+     "url": "https://www.cnfin.com/hg-lb/detail/20261029/4488180_1.html"},
+    {"label": "装机结构", "value": "2025 年底全国发电装机 38.9 亿千瓦（+16.1%），其中太阳能 12.0 亿千瓦（+35.4%）、风电 6.4 亿千瓦（+22.9%）；中电联预计 2026 年底煤电占比降至约 31%，太阳能装机首次超过煤电。",
+     "url": "https://www.ithome.com/0/922/711.htm"},
+    {"label": "煤电容量电价", "value": "2026 年 1 月发改委、能源局把通过容量电价回收煤电固定成本的比例从约 30% 提高到不低于 50%（发改价格〔2026〕114 号）。",
+     "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202601/t20260130_1403524.html"},
+    {"label": "新能源入市", "value": "136 号文：2025 年 6 月 1 日起新能源上网电量原则上全部进入市场，存量项目按机制电价差价结算，增量项目竞价确定机制电价。",
+     "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202502/t20250209_1396066.html"},
+    {"label": "煤价", "value": "2026 年电煤年度长协基准价 675 元/吨，与 2025 年持平；秦皇岛 5500 大卡现货 2025 年 12 月从 791 元/吨回落到 677 元/吨（信达证券周报）。",
+     "url": "https://www.bloomberg.com/news/articles/2025-12-08/china-s-benchmark-power-station-coal-price-to-stay-flat-in-2026"},
+]
+SOURCES = [                              # [{"label", "url"}] - documents the narrative relies on
+    {"label": "上海电力 2025 年年度报告（2026-04-14）", "url": "https://static.cninfo.com.cn/finalpage/2026-04-14/1225098781.PDF"},
+    {"label": "上海电力 2026 年半年度报告（2026-08-29）", "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531518.PDF"},
+    {"label": "上海电力 2026 年第三季度报告（2026-10-31）", "url": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225648194.PDF"},
+    {"label": "2025 年度利润分配方案（每股 0.37 元）", "url": "https://static.cninfo.com.cn/finalpage/2026-04-14/1225098822.PDF"},
+    {"label": "终止收购 K-Electric 的公告（2025-09-10）", "url": "https://static.cninfo.com.cn/finalpage/2025-09-10/1224648490.PDF"},
+    {"label": "为中电国际境外资产提供管理服务（2026-01-06）", "url": "https://static.cninfo.com.cn/finalpage/2026-01-06/1224920474.PDF"},
+    {"label": "为黄河公司境外资产提供管理服务（2026-03-14）", "url": "https://static.cninfo.com.cn/finalpage/2026-03-14/1225008686.PDF"},
+    {"label": "股票交易异常波动公告：估值风险提示（2025-10-11）", "url": "https://static.cninfo.com.cn/finalpage/2025-10-11/1224705489.PDF"},
+    {"label": "“电投国际”与海外资产注入预期（澎湃新闻，2025-09）", "url": "https://www.thepaper.cn/newsDetail_forward_31620935"},
+    {"label": "2026 年半年度业绩说明会：漕泾二期、外高桥进度（同花顺，2026-09-18）", "url": "https://news.10jqka.com.cn/20260918/c680036870.shtml"},
+]
+BROKER_TARGETS = []                      # no dated target price for 600021 was found; the last broker forecast is from 2025-08
 # A-shares
-PRIOR_YEAR_AS_REPORTED = {}              # {year: {"revenue": .., "np": .., "np_adj": ..}} when the provider shows restated comparatives
-CAPITALISED_INTEREST = {}                # {"2025-12-31": 78.09} from the notes; counted in interest cover when material
+# 2021 as reported in the 2021 annual report (Eastmoney shows the figures restated in the 2022 report)
+PRIOR_YEAR_AS_REPORTED = {2022: {"revenue": 30631.318, "np": -1893.324, "np_adj": -1867.541}}
+CAPITALISED_INTEREST = {"2025-12-31": 274.34}  # 2025 年年度报告 在建工程：本期利息资本化金额 274,338,781.82 元
 EBITDA_ONE_OFFS = {}                     # {"2025-12-31": 310.0} one-off gains inside EBITDA (recurring ratios strip them)
 # HK
 FX_REPORT_PER_TRADE = None               # CNY per HKD (Eastmoney HK figures are in RMB); None = latest HKDCNY=X, else CNY=X / 7.80
@@ -77,7 +102,10 @@ def build_a():
     def nz(v):
         return 0.0 if v is None or (isinstance(v, float) and np.isnan(v)) else v
 
-    debt_cols = ("SHORT_LOAN", "NONCURRENT_LIAB_1YEAR", "LONG_LOAN", "BOND_PAYABLE", "SHORT_BOND_PAYABLE")
+    # interest-bearing debt incl. commercial paper (其他流动负债), lease liabilities and finance-lease payables (长期应付款):
+    # power generators fund much of their capex with super-short-term notes and finance leases outside the loan lines
+    debt_cols = ("SHORT_LOAN", "NONCURRENT_LIAB_1YEAR", "LONG_LOAN", "BOND_PAYABLE", "SHORT_BOND_PAYABLE",
+                 "OTHER_CURRENT_LIAB", "LEASE_LIAB", "LONG_PAYABLE")
     da_cols = ("FA_IR_DEPR", "IA_AMORTIZE", "LPE_AMORTIZE", "USERIGHT_ASSET_AMORTIZE")
 
     def company_year(i, b, f, ind, d):

@@ -88,6 +88,10 @@ else:
     rf_annual = (fred("DGS3MO") if have("rates/fred_DGS3MO.csv") else yahoo("^IRX", "Close")) / 100
     y10 = (fred("DGS10") if have("rates/fred_DGS10.csv") else yahoo("^TNX", "Close")) if USE_RATE_FACTOR else None
 peer_px = pd.DataFrame({c: yahoo(tkr(c)) for c in PEERS}) if PEERS else pd.DataFrame()
+# 江苏国信 (002608) was 舜天船舶, a shipbuilder, until its asset swap; it was suspended for most of 2016 and resumed as a
+# power company with a jump, so its prices count only from February 2017
+if "002608" in peer_px.columns:
+    peer_px.loc[peer_px.index < "2017-02-01", "002608"] = np.nan
 # cash dividends from Eastmoney's dividend table: [(ex_date, dps)] for the ex-dividend study, and annual DPS indexed by
 # the date the plan was announced (the market knows it from then) for the dividend-yield spread
 DIVIDENDS, DPS_ANNOUNCED = [], None
