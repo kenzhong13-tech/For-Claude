@@ -39,6 +39,8 @@ def num_row(txt, label):
         return None
     toks = [t.strip() for t in m.group(1).split("|")]
     for i, t in enumerate(toks):
+        if t.lower() in ("even", "flat"):  # "Even" = 0% (the index was 100)
+            return 0.0
         t2 = t.replace(",", "")
         if re.fullmatch(r"\(?[-+]?\d+(\.\d+)?\)?", t2):
             neg = t2.startswith("(") and (t2.endswith(")") or (i + 1 < len(toks) and toks[i + 1].startswith(")")))
@@ -137,6 +139,13 @@ def first_session(cal, t_local, open_t):
     pos = cal.searchsorted(d)
     return str(cal[pos].date()) if pos < len(cal) else None
 
+
+prev = None
+for r in recs:
+    if r["calendar"] == "calendar" and prev and prev.get("stores") and r.get("stores"):
+        r["net_new_reported"] = r.get("net_new")
+        r["net_new"] = r["stores"] - prev["stores"]
+    prev = r if r["calendar"] == "calendar" else prev
 
 days = []
 for r in recs:

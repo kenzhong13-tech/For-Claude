@@ -2885,6 +2885,101 @@
    "n": 1559
   }
  ],
+ "lead_lag_controls": {
+  "n": 1524,
+  "beta_yumc_prev": 0.13,
+  "beta_spx_prev": -0.009,
+  "beta_hsi_oc": 0.836,
+  "t_yumc_prev": 4.75,
+  "t_spx_prev": -0.2,
+  "t_hsi_oc": 19.29,
+  "r2": 0.337
+ },
+ "intraday_rule": {
+  "cost_round_trip": 0.0025,
+  "rows": [
+   {
+    "threshold": 0.0,
+    "period": "2020-09 至 2023",
+    "n": 805,
+    "gross_mean": 0.00361,
+    "net_mean": 0.00111,
+    "t_net": 1.77,
+    "hit": 0.583,
+    "net_total": 0.891
+   },
+   {
+    "threshold": 0.0,
+    "period": "2024 年以来",
+    "n": 711,
+    "gross_mean": 0.00305,
+    "net_mean": 0.00055,
+    "t_net": 0.9,
+    "hit": 0.556,
+    "net_total": 0.393
+   },
+   {
+    "threshold": 0.01,
+    "period": "2020-09 至 2023",
+    "n": 439,
+    "gross_mean": 0.00548,
+    "net_mean": 0.00298,
+    "t_net": 3.25,
+    "hit": 0.64,
+    "net_total": 1.31
+   },
+   {
+    "threshold": 0.01,
+    "period": "2024 年以来",
+    "n": 386,
+    "gross_mean": 0.00476,
+    "net_mean": 0.00226,
+    "t_net": 2.58,
+    "hit": 0.601,
+    "net_total": 0.873
+   },
+   {
+    "threshold": 0.02,
+    "period": "2020-09 至 2023",
+    "n": 216,
+    "gross_mean": 0.00649,
+    "net_mean": 0.00399,
+    "t_net": 2.67,
+    "hit": 0.644,
+    "net_total": 0.862
+   },
+   {
+    "threshold": 0.02,
+    "period": "2024 年以来",
+    "n": 181,
+    "gross_mean": 0.00632,
+    "net_mean": 0.00382,
+    "t_net": 2.74,
+    "hit": 0.63,
+    "net_total": 0.692
+   },
+   {
+    "threshold": 0.03,
+    "period": "2020-09 至 2023",
+    "n": 109,
+    "gross_mean": 0.00559,
+    "net_mean": 0.00309,
+    "t_net": 1.32,
+    "hit": 0.624,
+    "net_total": 0.337
+   },
+   {
+    "threshold": 0.03,
+    "period": "2024 年以来",
+    "n": 66,
+    "gross_mean": 0.00995,
+    "net_mean": 0.00745,
+    "t_net": 3.05,
+    "hit": 0.652,
+    "net_total": 0.492
+   }
+  ]
+ },
  "two_lines": {
   "vol_daily": {
    "hk": 0.3793,
@@ -2938,6 +3033,17 @@
    "us_usd_bn": 17.7
   }
  ],
+ "us_line_stats": {
+  "start": "2016-11-01",
+  "end": "2026-11-25",
+  "total_return": 1.2146,
+  "ann_return": 0.0824,
+  "ann_vol": 0.3504,
+  "spx_total_return": 3.0154,
+  "spx_ann_vol": 0.1828,
+  "beta_spx": 0.668,
+  "r2_spx": 0.122
+ },
  "rv_series": {
   "date": [
    "2016-12-01",

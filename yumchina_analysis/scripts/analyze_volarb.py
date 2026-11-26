@@ -536,6 +536,34 @@ res["lead_lag"] = [
     lag_reg(sub(us_r["gap"]), sub(hk_for_us), "美股开盘跳空 ← 当日港股"),
     lag_reg(sub(us_r["oc"]), sub(hk_for_us), "美股开盘到收盘 ← 当日港股"),
 ]
+# is the HK intraday drift after a US move tradable? (1) control for the market: add the prior S&P 500 return and the
+# same-day HSI (Tracker Fund) intraday return; (2) a simple rule: at the HK open, go long 9987 after a YUMC close-to-close
+# rise of more than x, short after a fall of more than x, exit at the HK close; costs 0.25% per round trip (stamp duty
+# 0.1% each side plus commission and half-spread); estimate on 2020-09 to 2023, test on 2024 onward.
+spx = series("^GSPC", "Close")
+spx_r = np.log(spx).diff()
+spx_last = pd.Series(spx_r.values, index=spx_r.index)
+spx_map = pd.Series(spx_last.index, index=spx_last.index).reindex(spx_last.index.union(hk_r.index)).ffill().shift(1).reindex(hk_r.index)
+spx_prev_for_hk = pd.Series([spx_last.get(d) if pd.notna(d) else np.nan for d in spx_map], index=hk_r.index)
+tf = ohlc("2800.HK")
+tf_oc = np.log(tf["Close"] / tf["Open"])
+X = pd.concat([sub(hk_r["oc"]).rename("y"), sub(us_prev_for_hk).rename("yumc_prev"), sub(spx_prev_for_hk).rename("spx_prev"), tf_oc.rename("hsi_oc")], axis=1).dropna()
+mctrl = sm.OLS(X["y"], sm.add_constant(X[["yumc_prev", "spx_prev", "hsi_oc"]])).fit(cov_type="HAC", cov_kwds={"maxlags": 5})
+res["lead_lag_controls"] = {"n": int(len(X)), **{f"beta_{k}": rnd(mctrl.params[k], 3) for k in ("yumc_prev", "spx_prev", "hsi_oc")},
+                            **{f"t_{k}": rnd(mctrl.tvalues[k], 2) for k in ("yumc_prev", "spx_prev", "hsi_oc")}, "r2": rnd(mctrl.rsquared, 3)}
+COST = 0.0025
+rule = []
+for x in (0.0, 0.01, 0.02, 0.03):
+    for lab, a, b in (("2020-09 至 2023", "2020-09-14", "2023-12-31"), ("2024 年以来", "2024-01-01", None)):
+        d = X[(X.index >= a) & ((X.index <= b) if b else True)]
+        sig = np.sign(d["yumc_prev"]).where(d["yumc_prev"].abs() > x, 0.0)
+        trades = (sig * d["y"])[sig != 0]
+        net = trades - COST
+        rule.append({"threshold": x, "period": lab, "n": int(len(trades)), "gross_mean": rnd(trades.mean(), 5), "net_mean": rnd(net.mean(), 5),
+                     "t_net": rnd(net.mean() / (net.std(ddof=1) / math.sqrt(len(net))), 2) if len(net) > 2 else None,
+                     "hit": rnd((trades > 0).mean(), 3) if len(trades) else None, "net_total": rnd(net.sum(), 3)})
+res["intraday_rule"] = {"cost_round_trip": COST, "rows": rule}
+
 # volatility of the two lines over the common period, daily and weekly (USD terms)
 c0 = "2020-09-14"
 hk_d, us_d = hk_r["cc"][hk_r.index >= c0].dropna(), us_r["cc"][us_r.index >= c0].dropna()
@@ -557,6 +585,17 @@ vs = pd.concat([hk_dv.rename("hk"), us_dv.rename("us")], axis=1).dropna()
 vs = vs[vs.index >= "2021-01-01"]
 res["volume_share_hk"] = [{"y": int(d.year), "hk_share": rnd(r.hk / (r.hk + r.us), 3), "hk_usd_bn": rnd(r.hk / 1e9, 1), "us_usd_bn": rnd(r.us / 1e9, 1)}
                           for d, r in vs.iterrows()]
+
+# the NYSE line over its full history, against the S&P 500 total return
+spx_tr = series("^SP500TR")
+u = us["Close_a"]
+j = pd.concat([u.rename("u"), spx_tr.rename("m")], axis=1).dropna()
+lr_u, lr_m = np.log(j["u"]).diff().dropna(), np.log(j["m"]).diff().dropna()
+bm = sm.OLS(j["u"].pct_change().dropna(), sm.add_constant(j["m"].pct_change().dropna())).fit()
+res["us_line_stats"] = {"start": str(j.index[0].date()), "end": str(j.index[-1].date()), "total_return": rnd(j["u"].iloc[-1] / j["u"].iloc[0] - 1),
+                        "ann_return": rnd((j["u"].iloc[-1] / j["u"].iloc[0]) ** (TD / len(lr_u)) - 1), "ann_vol": rnd(lr_u.std() * math.sqrt(TD)),
+                        "spx_total_return": rnd(j["m"].iloc[-1] / j["m"].iloc[0] - 1), "spx_ann_vol": rnd(lr_m.std() * math.sqrt(TD)),
+                        "beta_spx": rnd(bm.params.iloc[1], 3), "r2_spx": rnd(bm.rsquared, 3)}
 
 # chart series: realised vol (21-day close-to-close and Yang-Zhang), weekly sampling
 ch = pd.DataFrame({"cc21": cc21_us, "yz21": yz_us}).dropna().iloc[::5]
