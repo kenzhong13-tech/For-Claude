@@ -1,0 +1,362 @@
+[
+ {
+  "date": "2020-10-29",
+  "category": "earnings",
+  "short": "20Q3业绩",
+  "title": "2020 年三季度业绩",
+  "desc": "发布时间 2020-10-29 04:45（香港时间）。同店销售 -6%，餐厅利润率 18.6%。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459020048388/"
+ },
+ {
+  "date": "2021-02-04",
+  "category": "earnings",
+  "short": "20Q4业绩",
+  "title": "2020 年四季度业绩",
+  "desc": "发布时间 2021-02-04 05:45（香港时间）。同店销售 -4%，餐厅利润率 15.1%。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459021004088/"
+ },
+ {
+  "date": "2021-04-28",
+  "category": "earnings",
+  "short": "21Q1业绩",
+  "title": "2021 年一季度业绩",
+  "desc": "发布时间 2021-04-28 04:48（香港时间）。同店销售 +10%，餐厅利润率 18.7%。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459021020940/"
+ },
+ {
+  "date": "2021-07-29",
+  "category": "earnings",
+  "short": "21Q2业绩",
+  "title": "2021 年二季度业绩",
+  "desc": "发布时间 2021-07-29 04:46（香港时间）。同店销售 +5%，餐厅利润率 15.8%。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459021038662/"
+ },
+ {
+  "date": "2021-09-15",
+  "category": "guidance",
+  "short": "三季度经营预警",
+  "title": "三季度经营更新：德尔塔疫情拖累销售",
+  "desc": "2021-09-14 美东收盘后（8-K 21:16 UTC）公司披露 8 月疫情与汛情影响门店营业，三季度同店销售承压。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459021047921/"
+ },
+ {
+  "date": "2021-09-23",
+  "category": "strategic",
+  "short": "2万店目标",
+  "title": "2021 投资者大会：提出 2 万家门店的下一个目标",
+  "desc": "2021-09-22 美东收盘后发布（8-K 21:15 UTC），港股 9 月 22 日休市，9 月 23 日为首个反应日。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459021048607/"
+ },
+ {
+  "date": "2021-10-28",
+  "category": "earnings",
+  "short": "21Q3业绩",
+  "title": "2021 年三季度业绩",
+  "desc": "发布时间 2021-10-28 04:45（香港时间）。同店销售 -7%，餐厅利润率 12.2%。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459021052350/"
+ },
+ {
+  "date": "2022-02-09",
+  "category": "earnings",
+  "short": "21Q4业绩",
+  "title": "2021 年四季度业绩",
+  "desc": "发布时间 2022-02-09 05:46（香港时间）。同店销售 -11%，餐厅利润率 7.5%，净新增门店 1,282。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459022004253/"
+ },
+ {
+  "date": "2022-03-11",
+  "category": "legal",
+  "short": "HFCAA名单",
+  "title": "被美国 SEC 列入《外国公司问责法》认定名单",
+  "desc": "SEC 于美东 3 月 10 日点名 5 家公司（含百胜中国），公司于 3 月 11 日 08:21 在港交所公告回应。",
+  "source": "https://www.yicaiglobal.com/news/csrc-opposes-securities-politicization-after-us-puts-yum-china-four-others-on-notice-for-delisting"
+ },
+ {
+  "date": "2022-03-14",
+  "category": "macro",
+  "short": "深圳封城",
+  "title": "深圳封城、中概股恐慌抛售",
+  "desc": "3 月 13 日深圳宣布全市封控，3 月 14 日恒生中国企业指数单日跌 7.2%；美股 YUMC 3 月 11 日已跌 15.5%。",
+  "source": "https://www.caixinglobal.com/2022-03-14/panic-selling-grips-china-tech-stocks-again-as-concerns-pile-up-101855372.html"
+ },
+ {
+  "date": "2022-03-15",
+  "category": "guidance",
+  "short": "一季度疫情更新",
+  "title": "一季度经营更新：3 月前两周同店销售同比下降约 20%",
+  "desc": "3 月 14 日 20:30（香港时间）发布 8-K，港股 3 月 15 日为首个反应日。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459022009966/"
+ },
+ {
+  "date": "2022-03-16",
+  "category": "policy",
+  "short": "金融委会议",
+  "title": "国务院金融委会议表态稳定市场",
+  "desc": "刘鹤主持金融委会议，承诺出台有利于市场的政策，恒指当日涨 9.1%。",
+  "source": "https://fortune.com/2022/03/16/china-tech-stocks-market-today-covid-ukraine-russia-sanctions-economy-gdp/"
+ },
+ {
+  "date": "2022-03-18",
+  "category": "capital",
+  "short": "回购+10亿",
+  "title": "回购授权扩大 10 亿美元",
+  "desc": "3 月 17 日 18:15（香港时间）发布。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000156459022010715/"
+ },
+ {
+  "date": "2022-05-04",
+  "category": "earnings",
+  "short": "22Q1业绩",
+  "title": "2022 年一季度业绩",
+  "desc": "发布时间 2022-05-04 04:50（香港时间）。同店销售 -8%，餐厅利润率 13.8%，净新增门店 329。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017022007096/"
+ },
+ {
+  "date": "2022-07-29",
+  "category": "earnings",
+  "short": "22Q2业绩",
+  "title": "2022 年二季度业绩",
+  "desc": "发布时间 2022-07-29 04:45（香港时间）。同店销售 -16%，餐厅利润率 12.1%，净新增门店 53。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017022013391/"
+ },
+ {
+  "date": "2022-08-16",
+  "category": "strategic",
+  "short": "申请主要上市",
+  "title": "申请将香港第二上市转为双重主要上市",
+  "desc": "8 月 15 日 21:06（香港时间）在港交所公告。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312522220698/"
+ },
+ {
+  "date": "2022-10-24",
+  "category": "strategic",
+  "short": "纳入港股通",
+  "title": "港股转为主要上市并纳入港股通",
+  "desc": "转换当日生效，同日纳入沪港通、深港通港股名单；当天恒指跌 6.4%。",
+  "source": "https://yumchinaholdingsinc.gcs-web.com/news-releases/news-release-details/yum-china-announces-primary-listing-hong-kong-stock-exchange-and"
+ },
+ {
+  "date": "2022-11-02",
+  "category": "earnings",
+  "short": "22Q3业绩",
+  "title": "2022 年三季度业绩",
+  "desc": "发布时间 2022-11-02 04:45（香港时间）。同店销售 +0%，餐厅利润率 18.8%，净新增门店 621。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017022020873/"
+ },
+ {
+  "date": "2022-12-16",
+  "category": "legal",
+  "short": "PCAOB完成检查",
+  "title": "PCAOB 撤销 2021 年认定，退市风险解除",
+  "desc": "PCAOB 于美东 12 月 15 日宣布已能完整检查内地及香港会计师事务所。",
+  "source": "https://www.sec.gov/hfcaa"
+ },
+ {
+  "date": "2023-02-08",
+  "category": "earnings",
+  "short": "22Q4业绩",
+  "title": "2022 年四季度业绩",
+  "desc": "发布时间 2023-02-08 05:46（香港时间）。同店销售 -4%，餐厅利润率 10.4%，净新增门店 1,159。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017023002005/"
+ },
+ {
+  "date": "2023-05-03",
+  "category": "earnings",
+  "short": "23Q1业绩",
+  "title": "2023 年一季度业绩",
+  "desc": "发布时间 2023-05-03 04:46（香港时间）。同店销售 +8%，餐厅利润率 20.3%，净新增门店 233。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017023016735/"
+ },
+ {
+  "date": "2023-08-01",
+  "category": "earnings",
+  "short": "23Q2业绩",
+  "title": "2023 年二季度业绩",
+  "desc": "发布时间 2023-08-01 04:56（香港时间）。同店销售 +15%，餐厅利润率 16.1%，净新增门店 422。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017023035988/"
+ },
+ {
+  "date": "2023-09-15",
+  "category": "strategic",
+  "short": "2023投资者日",
+  "title": "2023 投资者日：RGM 2.0 战略与三年目标（2026 年 2 万店、三年回馈约 30 亿美元）",
+  "desc": "9 月 14 日 19:04（香港时间）在港交所发布。",
+  "source": "https://ir.yumchina.com/news-releases/news-release-details/yum-china-unveils-rgm-20-strategy-and-introduces-3-year"
+ },
+ {
+  "date": "2023-11-01",
+  "category": "earnings",
+  "short": "23Q3业绩",
+  "title": "2023 年三季度业绩",
+  "desc": "发布时间 2023-11-01 04:30（香港时间）。同店销售 +4%，餐厅利润率 17.0%，净新增门店 500。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017023056901/"
+ },
+ {
+  "date": "2024-02-07",
+  "category": "earnings",
+  "short": "23Q4业绩",
+  "title": "2023 年四季度业绩",
+  "desc": "发布时间 2024-02-07 05:30（香港时间）。同店销售 +4%，餐厅利润率 12.0%，净新增门店 1,697。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017024011746/"
+ },
+ {
+  "date": "2024-03-20",
+  "category": "broker",
+  "short": "瑞银警示",
+  "title": "瑞银提示一季度利润低于指引的风险（第三方）",
+  "desc": "美股 YUMC 3 月 19 日跌 7.5%，港股次日跟跌。",
+  "source": "https://ph.investing.com/news/stock-market-news/why-yum-china-stock-fell-10-today-432SI-1169145"
+ },
+ {
+  "date": "2024-04-30",
+  "category": "earnings",
+  "short": "24Q1业绩",
+  "title": "2024 年一季度业绩",
+  "desc": "发布时间 2024-04-30 04:30（香港时间）。同店销售 -3%，餐厅利润率 19.3%，净新增门店 378。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017024049931/"
+ },
+ {
+  "date": "2024-08-06",
+  "category": "earnings",
+  "short": "24Q2业绩",
+  "title": "2024 年二季度业绩",
+  "desc": "发布时间 2024-08-06 04:40（香港时间）。同店销售 -4%，餐厅利润率 15.5%，净新增门店 779。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017024090869/"
+ },
+ {
+  "date": "2024-09-24",
+  "category": "policy",
+  "short": "央行刺激",
+  "title": "人民银行一揽子刺激政策（降准、降息、降存量房贷利率）",
+  "desc": "当日恒指涨 4.1%。",
+  "source": "https://fortune.com/asia/2024/09/24/china-central-bank-support-economy-hang-seng-shanghai-shares-bazooka-stimulus/"
+ },
+ {
+  "date": "2024-11-05",
+  "category": "earnings",
+  "short": "24Q3业绩",
+  "title": "2024 年三季度业绩",
+  "desc": "发布时间 2024-11-04 19:06（香港时间）。同店销售 -3%，餐厅利润率 17.0%，净新增门店 438。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017024120259/"
+ },
+ {
+  "date": "2025-02-07",
+  "category": "earnings",
+  "short": "24Q4业绩",
+  "title": "2024 年四季度业绩",
+  "desc": "发布时间 2025-02-06 19:04（香港时间）。同店销售 -1%，餐厅利润率 12.3%，净新增门店 1,751。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017025014954/"
+ },
+ {
+  "date": "2025-04-07",
+  "category": "macro",
+  "short": "关税冲击",
+  "title": "对等关税冲击：恒指单日跌 13.2%",
+  "desc": "1997 年以来最大单日跌幅。",
+  "source": "https://www.aljazeera.com/economy/2025/4/7/hong-kong-stock-market-plunges-most-since-97-crisis-amid-tariffs-panic"
+ },
+ {
+  "date": "2025-04-23",
+  "category": "macro",
+  "short": "关税缓和",
+  "title": "美方释放中美关税降级信号",
+  "desc": "美国财长贝森特 4 月 22 日称对华关税僵局不可持续；美股 YUMC 当天涨 7.4%，港股次日补涨。",
+  "source": "https://www.axios.com/2025/04/23/trump-china-tariffs-bessent"
+ },
+ {
+  "date": "2025-05-02",
+  "category": "earnings",
+  "short": "25Q1业绩",
+  "title": "2025 年一季度业绩",
+  "desc": "发布时间 2025-04-30 18:14（香港时间）。同店销售 -3%，餐厅利润率 18.6%，净新增门店 247。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017025060536/"
+ },
+ {
+  "date": "2025-08-06",
+  "category": "earnings",
+  "short": "25Q2业绩",
+  "title": "2025 年二季度业绩",
+  "desc": "发布时间 2025-08-05 18:02（香港时间）。同店销售 +1%，餐厅利润率 16.1%，净新增门店 336。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000095017025102335/"
+ },
+ {
+  "date": "2025-11-05",
+  "category": "earnings",
+  "short": "25Q3业绩",
+  "title": "2025 年三季度业绩",
+  "desc": "发布时间 2025-11-04 19:01（香港时间）。同店销售 +1%，餐厅利润率 17.3%，净新增门店 536。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312525263373/"
+ },
+ {
+  "date": "2025-11-17",
+  "category": "strategic",
+  "short": "2025投资者日",
+  "title": "2025 投资者日：RGM 3.0 战略，2030 年 3 万家门店，2027 年起回馈约 100% 自由现金流",
+  "desc": "11 月 17 日 12:25（香港时间，午间休市）在港交所发布。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312525283928/"
+ },
+ {
+  "date": "2025-11-24",
+  "category": "strategic",
+  "short": "纳入国企指数",
+  "title": "获纳入恒生中国企业指数（12 月 8 日生效）",
+  "desc": "恒生指数公司 11 月 21 日收市后公布季检结果。",
+  "source": "https://m.gelonghui.com/news/5123142"
+ },
+ {
+  "date": "2025-12-12",
+  "category": "capital",
+  "short": "回购+10亿",
+  "title": "回购授权扩大 10 亿美元",
+  "desc": "12 月 12 日 12:10（香港时间，午间休市）在港交所发布。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312525316788/"
+ },
+ {
+  "date": "2026-02-05",
+  "category": "earnings",
+  "short": "25Q4业绩",
+  "title": "2025 年四季度业绩",
+  "desc": "发布时间 2026-02-04 19:01（香港时间）。同店销售 +3%，餐厅利润率 13.0%，净新增门店 587。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526036625/"
+ },
+ {
+  "date": "2026-04-30",
+  "category": "earnings",
+  "short": "26Q1业绩",
+  "title": "2026 年一季度业绩",
+  "desc": "发布时间 2026-04-29 18:00（香港时间）。同店销售 +0%，餐厅利润率 18.2%，净新增门店 636。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526188588/"
+ },
+ {
+  "date": "2026-06-17",
+  "category": "deal",
+  "short": "收购必胜客品牌",
+  "title": "12 亿美元现金收购必胜客中国内地品牌所有权",
+  "desc": "6 月 16 日 20:13（香港时间）在港交所公告；交割后不再向 Yum! Brands 支付必胜客特许经营费。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526271854/"
+ },
+ {
+  "date": "2026-07-31",
+  "category": "earnings",
+  "short": "26Q2业绩",
+  "title": "2026 年二季度业绩",
+  "desc": "发布时间 2026-07-30 18:07（香港时间）。同店销售 +1%，餐厅利润率 16.1%，净新增门店 560。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526324793/"
+ },
+ {
+  "date": "2026-08-10",
+  "category": "deal",
+  "short": "收购交割",
+  "title": "必胜客品牌收购完成交割",
+  "desc": "8 月 7 日（周五）18:46（香港时间）发布。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526339048/"
+ },
+ {
+  "date": "2026-11-04",
+  "category": "earnings",
+  "short": "26Q3业绩",
+  "title": "2026 年三季度业绩",
+  "desc": "发布时间 2026-11-03 21:24（香港时间）。同店销售 -3%，餐厅利润率 17.8%，净新增门店 692。",
+  "source": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526444429/"
+ }
+]
