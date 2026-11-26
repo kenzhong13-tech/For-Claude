@@ -1,0 +1,1373 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take
+no responsibility for the contents of this announcement, make no representation as to its accuracy
+or completeness and expressly disclaim any liability whatsoever for any loss howsoever arising
+from or in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+                    Auntea Jenny (Shanghai) Industrial Co., Ltd.
+                         滬上阿姨（上海）實業股份有限公司
+               (A joint stock company incorporated in the People’s Republic of China with limited liability)
+                                                 (Stock code: 02589)
+
+                          ANNOUNCEMENT OF ANNUAL RESULTS
+                         FOR THE YEAR ENDED DECEMBER 31, 2025
+
+The board (the “Board”) of directors (the “Directors”) of Auntea Jenny (Shanghai) Industrial Co.,
+Ltd. (the “Company”) hereby announces the consolidated annual results of the Company and its
+subsidiaries (collectively referred to as the “Group”) for the year ended December 31, 2025 (the
+“Reporting Period”), together with the comparative figures for the corresponding period of 2024:
+
+FINANCIAL PERFORMANCE HIGHLIGHTS
+
+                                                                       For the year ended
+                                                                         December 31,
+                                                                          2025            2024                   Change
+                                                                      RMB’000         RMB’000                       (%)
+
+Revenue                                                               4,465,644           3,284,576                  36.0
+Gross profit                                                          1,404,229           1,027,319                  36.7
+Profit for the year                                                     501,317             328,931                  52.4
+Profit for the year attributable to owners of
+   the parent                                                           501,317             328,931                  52.4
+Adjusted profit for the year (a non-IFRS measure)(1)                    570,333             418,086                  36.4
+Earnings per share (RMB)
+– Basic                                                                      4.81                3.22                49.4
+– Diluted                                                                    4.81                3.22                49.4
+Note:
+
+(1)     Adjusted profit for the year represents profit for the year plus share-based payment expenses and listing expenses.
+        This measure is not prepared in accordance with IFRS Accounting Standards. For further details, please refer to
+        the section headed “Management Discussion and Analysis – Non-IFRS measures” in this announcement.
+
+In this announcement, “we”, “us” or “our” refers to the Company and (as otherwise required by the
+context) the Group.
+
+
+
+
+                                                           –1–
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+Year ended 31 December 2025
+
+                                                      2025           2024
+                                           Notes   RMB’000        RMB’000
+
+REVENUE                                     4       4,465,644     3,284,576
+Cost of sales                                      (3,061,415)   (2,257,257)
+
+GROSS PROFIT                                       1,404,229     1,027,319
+
+Other income and gains, net                           38,791        48,127
+Selling and marketing expenses                      (504,205)     (394,111)
+Administrative expenses                             (205,777)     (174,890)
+Research and development expenses                    (53,353)      (51,865)
+Finance costs                               5         (4,217)       (5,178)
+
+PROFIT BEFORE TAX                           6        675,468       449,402
+Income tax expense                          7       (174,151)     (120,471)
+
+PROFIT FOR THE YEAR                                  501,317       328,931
+
+Attributable to:
+  Owners of the parent                               501,317       328,931
+
+EARNINGS PER SHARE ATTRIBUTABLE
+ TO ORDINARY EQUITY HOLDERS OF
+ THE PARENT
+ Basic (RMB)                                9            4.81          3.22
+
+  Diluted (RMB)                             9            4.81          3.22
+
+
+
+
+                                    –2–
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+Year ended 31 December 2025
+
+                                                                     2025        2024
+                                                                  RMB’000     RMB’000
+
+PROFIT FOR THE YEAR                                                501,317     328,931
+
+OTHER COMPREHENSIVE INCOME
+Other comprehensive income that may be reclassified
+  to profit or loss in subsequent periods:
+  Exchange differences:
+     Exchange differences on translation of foreign operations         (93)        31
+
+Net other comprehensive income that may be reclassified
+  to profit or loss in subsequent periods                              (93)        31
+
+Other comprehensive income that will not be reclassified
+  to profit or loss in subsequent periods:
+  Equity investments designated at fair value through
+     other comprehensive income:
+     Changes in fair value                                         (11,032)         –
+     Income tax effect                                               2,758          –
+
+Net other comprehensive income that will not be reclassified to
+  profit or loss in subsequent periods                              (8,274)         –
+
+OTHER COMPREHENSIVE INCOME FOR
+ THE YEAR, NET OF TAX                                               (8,367)        31
+
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR                            492,950     328,962
+Attributable to:
+  Owners of the parent                                             492,950     328,962
+
+
+
+
+                                               –3–
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+Year ended 31 December 2025
+
+                                                                        2025        2024
+                                                             Notes   RMB’000     RMB’000
+
+NON-CURRENT ASSETS
+Property, plant and equipment                                          42,412      42,882
+Right-of-use assets                                                    96,552      94,012
+Intangible assets                                                      13,312      11,075
+Financial investments at fair value through profit or loss              4,500       3,500
+Financial investments at fair value through other
+  comprehensive income                                                 73,968           –
+Deferred tax assets                                                    26,618      25,791
+Long-term time deposits                                               191,479           –
+Other non-current assets                                               23,108      20,820
+
+Total non-current assets                                              471,949     198,080
+
+CURRENT ASSETS
+Inventories                                                            230,529    168,068
+Trade receivables                                             10        25,492      1,471
+Prepayments, other receivables and other assets                        192,977     96,152
+Prepaid income tax                                                       4,128        985
+Financial assets at fair value through profit or loss                  703,081    948,140
+Restricted cash                                                          4,506     80,000
+Short-term time deposits                                               140,410     20,228
+Cash and cash equivalents                                            1,208,354    342,659
+
+Total current assets                                                 2,509,477   1,657,703
+
+CURRENT LIABILITIES
+Trade payables                                                11      349,376     226,253
+Other payables and accruals                                           344,850     213,016
+Contract liabilities                                                  149,817      56,826
+Interest-bearing bank borrowings                                        2,000      29,923
+Lease liabilities                                                      38,814      41,631
+Dividend payable                                                       71,117           –
+Tax payable                                                            44,889      48,464
+
+Total current liabilities                                            1,000,863    616,113
+
+NET CURRENT ASSETS                                                   1,508,614   1,041,590
+
+TOTAL ASSETS LESS CURRENT LIABILITIES                                1,980,563   1,239,670
+
+
+
+
+                                                  –4–
+                                                               2025        2024
+                                                    Notes   RMB’000     RMB’000
+
+NON-CURRENT LIABILITIES
+Contract liabilities                                           1,749       1,106
+Lease liabilities                                             53,614      54,457
+Deferred tax liabilities                                          97          21
+
+Total non-current liabilities                                 55,460      55,584
+
+Net assets                                                  1,925,103   1,184,086
+
+EQUITY
+Equity attributable to owners of the parent
+Share capital                                                 105,203     102,430
+Reserves                                                    1,819,900   1,081,656
+
+Total equity                                                1,925,103   1,184,086
+
+
+
+
+                                              –5–
+NOTES TO FINANCIAL STATEMENTS
+31 December 2025
+
+1.    CORPORATE INFORMATION
+
+      Auntea Jenny (Shanghai) Industrial Co., Ltd. (the “Company”) was registered in the People’s Republic of China
+      (the “PRC”) as a limited liability company on 18 November 2013. The registered office of the Company is
+      located at Room 124, Floor 1, No. 28, Shenpujing Road, Zhujing Town, Jinshan District, Shanghai.
+
+      The Company and its subsidiaries (collectively referred to as the “Group”) were involved in the operation of a
+      franchised tea drink retailing network and the sale of tea drink related products in the PRC.
+
+      The Company was listed on the Main Board of The Stock Exchange of Hong Kong on 8 May 2025.
+
+2.1   BASIS OF PREPARATION
+
+      These financial statements have been prepared in accordance with IFRS Accounting Standards, which comprise
+      all standards and interpretations approved by the International Accounting Standards Board and International
+      Accounting Standards and Standing Interpretations Committee interpretations approved by the International
+      Accounting Standards Committee and the disclosure requirements of the Hong Kong Companies Ordinance.
+      They have been prepared under the historical cost convention, except for financial investments or assets at fair
+      value through profit or loss and financial investments at fair value through other comprehensive income which
+      have been measured at fair value. These financial statements are presented in Renminbi (“RMB”) and all values
+      are rounded to the nearest thousand except when otherwise indicated.
+
+      Comparative information
+
+      Certain of the prior year comparative figures in the consolidated statement of financial position and notes to
+      financial statements have been reclassified to conform to the current year’s presentation.
+
+2.2   CHANGES IN ACCOUNTING POLICIES AND DISCLOSURES
+
+      The Group has adopted amendments to IAS 21 Lack of Exchangeability for the first time for the current year’s
+      financial statements. The Group has not early adopted any other standard or amendment that has been issued but is
+      not yet effective.
+
+      Amendments to IAS 21 specify how an entity shall assess whether a currency is exchangeable into another
+      currency and how it shall estimate a spot exchange rate at a measurement date when exchangeability is lacking.
+      The amendments require disclosures of information that enable users of financial statements to understand
+      the impact of a currency not being exchangeable. As the currencies that the Group had transacted in and the
+      functional currencies of overseas subsidiaries for translation into the Group’s presentation currency were
+      exchangeable, the amendments did not have any impact on the Group’s financial statements.
+
+      In addition, the IASB has issued amendments to Illustrative Examples on IFRS 7, IFRS 18, IAS 1, IAS8, IAS 36
+      and IAS 37 Disclosures about Uncertainties in the Financial Statements, which added illustrative examples in the
+      corresponding IFRS Accounting Standards. These examples reflect existing requirements in the corresponding
+      IFRS Accounting Standards to report the effects of uncertainties in the financial statements using climate related
+      examples. Therefore, the amendments do not have an effective date or transitional provisions.
+
+
+
+
+                                                        –6–
+2.3   ISSUED BUT NOT YET EFFECTIVE IFRS ACCOUNTING STANDARDS
+
+      The Group has not applied the following new and amended IFRS Accounting Standards, that have been issued
+      but are not yet effective, in the financial statements. The Group intends to apply these new and amended IFRS
+      Accounting Standards, if applicable, when they become effective.
+
+      IFRS 18                                                Presentation and Disclosure in Financial Statements2
+      IFRS 19 and its amendments                             Subsidiaries without Public Accountability: Disclosures2
+      Amendments to IFRS 9 and IFRS 7                        Amendments to the Classification and Measurement of
+                                                               Financial Instruments1
+      Amendments to IFRS 9 and IFRS 7                        Contracts Referencing Nature-dependent Electricity1
+      Amendments to IFRS 10 and IAS 28                       Sale or Contribution of Assets between an Investor and its
+                                                               Associate or Joint Venture3
+      Amendments to IAS 21                                   Translation to a Hyperinflationary Presentation Currency2
+      Annual Improvements to IFRS                            Amendments to IFRS 1, IFRS 7, IFRS 9, IFRS 10 and IAS 71
+        Accounting Standards – Volume 11
+
+      1     Effective for annual periods beginning on or after 1 January 2026
+      2     Effective for annual/reporting periods beginning on or after 1 January 2027
+      3     No mandatory effective date yet determined but available for adoption
+
+      Further information about those IFRS Accounting Standards that are expected to be applicable to the Group is
+      described below:
+
+      IFRS 18 replaces IAS 1 Presentation of Financial Statements. While a number of sections have been brought
+      forward from IAS 1 with limited changes, IFRS 18 introduces new requirements for presentation within the
+      statement of profit or loss, including specified totals and subtotals. Entities are required to classify all income
+      and expenses within the statement of profit or loss into one of the five categories: operating, investing, financing,
+      income taxes and discontinued operations and to present two new defined subtotals. It also requires disclosures
+      about management-defined performance measures in a single note and introduces enhanced requirements on
+      the grouping (aggregation and disaggregation) and the location of information in both the primary financial
+      statements and the notes. Some requirements previously included in IAS 1 are moved to IAS 8 Accounting
+      Policies, Changes in Accounting Estimates and Errors, which is renamed as IAS 8 Basis of Preparation of
+      Financial Statements. As a consequence of the issuance of IFRS 18, limited, but widely applicable, amendments
+      are made to IAS 7 Statement of Cash Flows, IAS 33 Earnings per Share and IAS 34 Interim Financial Reporting.
+      In addition, there are minor consequential amendments to other IFRS Accounting Standards. IFRS 18 and the
+      consequential amendments to other IFRS Accounting Standards are effective for annual periods beginning on
+      or after 1 January 2027 with earlier application permitted. Retrospective application is required. The Group is
+      currently analysing the new requirements and assessing the impact of IFRS 18 on the presentation and disclosure
+      of the Group’s financial statements.
+
+3.    OPERATING SEGMENT INFORMATION
+
+      No operating segment information is presented as the Group’s revenue and reported results during each of the
+      year ended 31 December 2025 and 2024, and the Group’s total assets as at 31 December 2025 and 2024 were
+      derived from one single operating segment.
+
+      Geographical information
+
+      As the majority of the Group’s revenues were generated in the Chinese mainland and the majority of the Group’s
+      non-current assets were in the Chinese mainland during each of the year ended 31 December 2025 and 2024, no
+      further geographical segments are presented.
+
+      Information about major customers
+
+      No sales to a single customer accounted for more than 10% of the Group’s total revenue during each of the year
+      ended 31 December 2025 and 2024.
+
+
+                                                         –7–
+4.   REVENUE
+
+     An analysis of revenue from contracts with customers is as follows:
+
+     (i)    Disaggregated revenue information
+
+                                                                                                2025             2024
+                                                                                             RMB’000          RMB’000
+
+            Revenue from self-operated stores                                                   55,658           49,364
+
+            Revenue from franchisees:
+            Sales of goods to franchisees                                                    3,616,601        2,632,201
+            Franchising services                                                               690,394          537,066
+
+            Others                                                                             102,991           65,945
+
+            Total                                                                            4,465,644        3,284,576
+
+     (ii)   Timing of revenue recognition
+
+                                                                                                2025             2024
+                                                                                             RMB’000          RMB’000
+
+            At a point in time                                                               3,770,277        2,746,859
+            Over time                                                                          695,367          537,717
+
+            Total                                                                            4,465,644        3,284,576
+
+            Revenue recognised that was included in contract liabilities at the beginning of the reporting period:
+
+                                                                                                2025             2024
+                                                                                             RMB’000          RMB’000
+
+            Sales of goods to franchisees                                                       38,077           52,475
+            Franchising services                                                                12,523           42,570
+            Others                                                                               1,886                –
+
+            Total                                                                               52,486           95,045
+
+
+
+
+                                                        –8–
+     (iii)   Performance obligations
+
+             Information about the Group’s performance obligations in relation to its principal business is summarised
+             below:
+
+             Sales of goods to franchisees
+
+             The performance obligation is satisfied upon delivery of the goods and payment in advance is normally
+             required, except for sales with payments by instalments and customers with credit terms, where payment is
+             generally due within 15 to 90 days from delivery or issuance of billings. Some contracts provide customers
+             with a right of return which gives rise to variable consideration.
+
+             Franchising services
+
+             The performance obligation is satisfied over time as services are rendered and payment in advance is
+             normally required.
+
+             Sales from self-operated stores
+
+             The performance obligation is satisfied at the point in time when the ordered goods are delivered and
+             accepted by the customers.
+
+             As the practical expedient, the Group does not disclose the transaction price allocated to unsatisfied
+             performance obligations for contracts with an original expected length of one year or less. The amounts
+             of transaction prices allocated to the remaining performance obligations as disclosed below are related
+             to franchisee income, of which the performance obligations are to be satisfied within three years. These
+             amounts do not include variable consideration which is constrained.
+
+                                                                                               2025             2024
+                                                                                            RMB’000          RMB’000
+
+             Amounts expected to be recognised as revenue:
+             Within one year                                                                   26,147           17,481
+             After one year                                                                     1,770           10,026
+
+             Total                                                                             27,917           27,507
+
+5.   FINANCE COSTS
+
+     An analysis of finance costs is as follows:
+
+                                                                                               2025             2024
+                                                                                            RMB’000          RMB’000
+
+     Interest on lease liabilities                                                              3,078            4,724
+     Interest on interest-bearing bank borrowings                                               1,139              454
+
+     Total                                                                                      4,217            5,178
+
+
+
+
+                                                        –9–
+6.   PROFIT BEFORE TAX
+
+     The Group’s profit before tax is arrived at after charging/(crediting):
+
+
+                                                                                                2025          2024
+                                                                                             RMB’000       RMB’000
+
+     Cost of inventories sold*                                                               2,648,781     1,931,267
+     Depreciation of property, plant and equipment                                              21,491        25,473
+     Depreciation of right-of-use assets                                                        40,689        54,779
+     Amortisation of intangible assets                                                           2,740         2,643
+     Lease payments not included in the measurement of lease liabilities                         8,086         2,624
+     Auditor’s remuneration                                                                      2,800             –
+     Employee benefit expenses (including directors’ and supervisors’ remuneration):
+       Wages, salaries and allowances                                                          409,742       320,800
+       Pension scheme contributions and other social welfare                                    63,161        55,369
+       Share-based payment expenses                                                             57,368        57,782
+
+                                                                                               530,271       433,951
+
+     Impairment of property, plant and equipment**                                               1,337             –
+     Marketing and promotion expenses                                                          197,968       148,270
+     Transportation expenses                                                                   169,779       132,745
+     Service fees                                                                               89,673        46,358
+     Outsourced labor expenses                                                                   7,251         2,049
+     Listing expenses                                                                           11,648        31,373
+     Bank interest income                                                                       (7,328)       (6,322)
+     Interest on interest-bearing bank borrowings                                                1,139           454
+     Interest on lease liabilities                                                               3,078         4,724
+
+     *     The cost of inventories sold excludes depreciation and impairment of property, plant and equipment,
+           depreciation of right-of-use assets, amortisation of intangible assets, employee benefit expenses, lease
+           expenses and transportation expenses which are included in the cost of sales in the consolidated statement
+           of profit or loss.
+
+     **    The amount is included in cost of sales in the consolidated statement of profit or loss.
+
+7.   INCOME TAX EXPENSE
+
+     The Group is subject to income tax on an entity basis on profits arising in or derived from the jurisdictions in
+     which members of the Group are domiciled and operate.
+
+     Under the Law of the PRC on Enterprise Income Tax (the “EIT Law”) and Implementation Regulation of the
+     EIT Law, the EIT rate of the Group’s PRC subsidiaries is 25% unless subject to tax exemption set out below.
+
+     One of the Group’s PRC subsidiaries is engaged in businesses in the “Encouraged Industries in the Western
+     Region” and eligible for the preferential EIT rate of 15%.
+
+     One of the Group’s PRC subsidiaries is engaged in businesses in the Guangdong-Macao In-Depth Cooperation
+     Zone in Hengqin and eligible for the preferential EIT rate of 15%.
+
+     Two of the Group’s PRC subsidiaries are accredited as “High and New Technology Enterprises” and entitled to a
+     preferential income tax rate of 15% during the year ended 31 December 2025.
+
+
+
+
+                                                        – 10 –
+     Certain of the Group’s PRC subsidiaries are qualified as small and micro enterprises and were entitled to a
+     preferential EIT rate of 5% for the taxable income below RMB3 million during the years ended 31 December
+     2025 and 2024.
+
+
+                                                                                            2025             2024
+                                                                                         RMB’000          RMB’000
+
+     Current income tax                                                                    172,144          117,051
+     Deferred tax                                                                            2,007            3,420
+
+     Tax charge for the year                                                               174,151          120,471
+
+
+     A reconciliation of the tax expense applicable to profit before tax at the statutory rate applicable in Chinese
+     mainland to the tax expense at the effective tax rate is as follows:
+
+                                                                                            2025             2024
+                                                                                         RMB’000          RMB’000
+
+     Profit before tax                                                                     675,468          449,402
+
+     Tax at the statutory tax rate of 25%                                                  168,867          112,351
+     Effect of preferential tax rates of subsidiaries                                      (16,867)             (51)
+     Effect on opening deferred tax of decrease in rates                                     1,512                –
+     Adjustments in respect of current tax of previous periods                               1,327              604
+     Super-deduction of research and development expenses and others                        (6,439)         (10,547)
+     Expenses not deductible for tax                                                        23,509           18,114
+     Tax losses not recognised                                                               2,242                –
+
+     Tax charge for the year                                                               174,151          120,471
+
+8.   DIVIDENDS
+
+     On 24 March 2026, the Board recommended the distribution of a final dividend of RMB105,203,020, which is
+     subject to the approval of the Company’s shareholders at the forthcoming annual general meeting.
+
+     On 8 December 2025, the Company declared an interim dividend of RMB71,117,242 to its shareholders. Such
+     dividend was fully paid on 4 February 2026.
+
+     On 13 May 2024, the Company declared a dividend of RMB158,766,500 to its shareholders. Such dividend was
+     fully paid on 20 May 2024.
+
+
+
+
+                                                     – 11 –
+9.    EARNINGS PER SHARE ATTRIBUTABLE TO ORDINARY EQUITY HOLDERS OF THE PARENT
+
+      The calculation of the basic earnings per share amounts is based on the profit for the year attributable to
+      ordinary equity holders of the parent, and the weighted average number of ordinary shares of 104,203,809 (2024:
+      102,164,426) outstanding during the year.
+
+      (a)     Basic
+
+                                                                                                  2025             2024
+
+              Profit attributable to owners of the parent (RMB’000)                            501,317         328,931
+
+              Weighted average number of ordinary shares used
+               in the basic earnings per share calculation                                104,203,809      102,164,426
+
+              Basic earnings per share (RMB)                                                      4.81             3.22
+
+      (b)     Diluted
+
+              Diluted earnings per share amounts presented are the same as the basic earnings per share amounts as
+              there were no potentially dilutive ordinary shares outstanding for the years ended 31 December 2025 and
+              2024.
+
+10.   TRADE RECEIVABLES
+
+
+                                                                                                2025             2024
+                                                                                             RMB’000          RMB’000
+
+      Trade receivables                                                                         25,696            1,951
+      Impairment                                                                                  (204)            (480)
+
+      Total                                                                                     25,492            1,471
+
+      Payment in advance is normally required for the delivery of the goods and rendering services to franchisees.
+      The Group’s trade receivables are mainly generated from sales contracts of equipment with certain customers,
+      instalment repayments are allowed and part of the sales consideration will be collected after one year. The credit
+      period is generally 15 to 90 days. Each customer has a maximum credit limit. The Group seeks to maintain strict
+      control over its outstanding receivables and has a credit control department to minimise credit risk. Overdue
+      balances are reviewed regularly by senior management. The Group does not hold any collateral or other credit
+      enhancements over its trade receivable balances. Trade receivables are non-interest-bearing.
+
+      An ageing analysis of the trade receivables as at the end of the reporting period, based on the date of product
+      delivery or franchising services rendering and net of loss allowance, is as follows:
+
+                                                                                                2025             2024
+                                                                                             RMB’000          RMB’000
+
+      Within 1 month                                                                             4,444              714
+      1 to 3 months                                                                             14,673              537
+      3 months to 1 year                                                                         6,375              220
+
+      Total                                                                                     25,492            1,471
+
+
+
+
+                                                        – 12 –
+      The movements in the loss allowance for impairment of trade receivables are as follows:
+
+
+                                                                                                 2025             2024
+                                                                                              RMB’000          RMB’000
+
+      At the beginning of year                                                                      480                –
+      Impairment loss, net                                                                         (276)             480
+
+      At end of year                                                                                204              480
+
+      An impairment analysis is performed at each reporting date using a provision matrix to measure expected credit
+      losses. The provision rates are based on days past due for groupings of various customer segments with similar
+      loss patterns (i.e., by customer type). The calculation reflects the probability-weighted outcome, the time value
+      of money and reasonable and supportable information that is available at the reporting date about past events,
+      current conditions and forecasts of future economic conditions. Majority of the receivables were neither past due
+      nor impaired and relate to diversified franchisees.
+
+      As at 31 December 2025, the expected credit losses rate for trade receivables was less than 1% (2024: 25%).
+
+11.   TRADE PAYABLES
+
+      An aging analysis of the trade payables as at the end of the reporting period, based on the transaction date, is as
+      follows:
+
+                                                                                                 2025             2024
+                                                                                              RMB’000          RMB’000
+
+      Within 1 month                                                                            318,870         203,450
+      1 to 3 months                                                                              25,664          21,562
+      3 to 6 months                                                                               3,948           1,089
+      Over 6 months                                                                                 894             152
+
+      Total                                                                                     349,376         226,253
+
+      The trade payables are non-interest-bearing and are normally settled on terms of typically 30 days.
+
+
+
+
+                                                        – 13 –
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+BUSINESS REVIEW
+
+Overview
+
+We are a fast-growing global multi-brand freshly-made beverage company with three major brands,
+namely Auntea Jenny (滬上阿姨 ), Fallstea (茶瀑布 ) and Jenny x Coffee (滬咖 ). Through our
+multi-brand portfolio, we are able to precisely meet the diverse consumption needs of consumers.
+We operate a franchise-focused business model. Our mutually beneficial franchise system is the
+foundation for our long-term and stable cooperation with franchisees. In terms of strategic presence,
+we focus on the lower-tier market. In terms of the total number of stores, we hold a strong market
+position among mid-priced freshly-made tea shop brands in the lower-tier market in the PRC.
+
+Store network
+
+As of December 31, 2025, our store network comprised 11,449 stores, representing an increase
+of 24.8% from 9,176 stores as of December 31, 2024, of which 26 are self-operated stores and
+11,423 are franchised. Our store network covers all four centrally administered municipalities and
+over 300 cities in five autonomous regions and 22 provinces in China, extending northwards to
+Mohe, Heilongjiang Province, China and southwards to Sanya, Hainan Province, China. In 2025,
+we actively expanded our overseas business and opened 45 stores overseas, covering countries
+including the United States, South Korea, and Malaysia.
+
+Set forth below is a breakdown of stores in our network by city tier as of December 31, 2025:
+
+                                                          As of December 31,
+                                               2025                              2024
+                                       Number of                         Number of
+                                          stores                 %          stores                 %
+
+First-tier cities                             867            7.6%               686              7.5%
+New first-tier cities                       2,180           19.0%             1,896             20.7%
+Second-tier cities                          2,328           20.3%             1,964             21.4%
+Third and lower-tier cities                 6,029           52.7%             4,629             50.4%
+Overseas                                       45            0.4%                 1              0.0%
+
+Total                                      11,449          100.0%             9,176          100.0%
+
+Note: The percentages may not add up to the total due to rounding.
+
+The freshly-made tea shop market in third and lower-tier cities in China is the largest and is
+expected to be the fastest-growing segment from 2023 to 2028 in terms of gross merchandise
+volume, with significant potential for future growth according to CIC. We place great emphasis
+on the third and lower-tier cities and have advantages in terms of store coverage and supply chain
+network. As of December 31, 2025, our stores in third and lower-tier cities accounted for 52.7%,
+representing a 2.3 percentage points increase year on year.
+
+
+
+
+                                               – 14 –
+Our franchise model
+
+The core of our business model is cooperation with franchisees who are committed to our concept
+and highly motivated to grow our brand and store network. We have a mutually beneficial franchise
+model which requires low initial investment and provides comprehensive franchise support. Under
+our franchise arrangement, our franchisees are responsible for leasing the stores, managing the
+operation of the stores and hiring staff. Through our highly standardised and digitalised store
+management system, we provide comprehensive and lifecycle support and supervision including
+site selection planning and evaluation, store opening support, digitalized operation support,
+supervision and training support to franchisees, enabling franchisees to overcome challenges and
+improve operations. In addition, we continuously enhance store profitability by providing high-
+quality and diverse products based on consumer insights and a robust nationwide supply chain.
+The comprehensive franchisee support platform, the proven track record of success in the lower-
+tier markets and the mutually beneficial franchise model all support the sustainable expansion of
+our store network. As of December 31, 2025, our franchise network comprised 6,974 franchisees
+operating 11,423 stores.
+
+The table below sets forth the movement of the number of our franchisees for all brands for the
+periods indicated:
+
+                                                                          For the year ended
+                                                                            December 31,
+                                                                             2025            2024
+
+Number of franchisees at the beginning of the period                         5,455            4,576
+Number of franchisees onboarded during the period                            2,627            1,770
+Number of franchisees who ceased store operations
+  during the period                                                         (1,108)            (891)
+
+Number of franchisees at the end of the period                               6,974            5,455
+
+The table below sets forth the movement of our franchised store count for all brands for the periods
+indicated:
+
+                                                                          For the year ended
+                                                                            December 31,
+                                                                             2025            2024
+
+Franchised store count at the beginning of the period                        9,152            7,756
+Number of franchised stores opened during the period                         3,654            2,383
+Number of franchised stores closed during the period                        (1,383)            (987)
+
+Number of franchised stores at the end of the period                        11,423            9,152
+
+
+
+
+                                                 – 15 –
+In 2025, the number of our newly opened franchised stores increased significantly compared with
+2024. Particularly in the second half of 2025, leveraging the strong performance of store operations,
+the Company accelerated its store expansion strategy, and our franchised stores increased from
+9,152 as at December 31, 2024 to 11,423 as at December 31, 2025. We also placed great emphasis
+on the operating quality of our stores and the operational efficiency of our channel network, and
+managed, supported and optimised existing stores based on their operating conditions. Adopting
+our store expansion strategy and upholding the principle of selective expansion and closure, we
+proactively optimised our network presence. Concurrent with the expansion in store scale, the
+number of closed franchised stores also increased. On the one hand, this was due to factors such as
+these franchisees being unable to operate stores at a desirable level of profitability or being unable
+to secure alternative locations upon expiration of lease. On the other hand, to further enhance
+consumer experience and quality of store operations, we proactively optimised and adjusted our
+store presence, and phased out certain franchised stores in an orderly manner. In the future, the
+Company will continually focus on improving the quality of store operations and increasing the
+profitability of stores, assisting franchisees in achieving stable operations and enhancing the service
+level.
+
+Product development
+
+We have established an integrated product development system and are committed to developing
+distinctive products and refining our existing products to exceed our customers’ expectations and
+to attract new customers. Our products are evolved based on fresh seasonal ingredients, prevailing
+trends and the changing tastes of consumers. In addition to staple items such as Mango Pomelo
+Sago (楊枝甘露) and Thick Taro Paste Tapioca Pearl Milk Tea (厚芋泥波波奶茶) that prove
+popular throughout the year, we also offer seasonal products that cater to consumers’ seasonal
+preferences and regional specialties tailored to local consumer tastes. In addition, we have enriched
+our product matrix to include snacks and other products to provide consumers with more varieties
+and cover a wider range of consumption scenarios.
+
+In 2025, we launched a total of 213 new products. Among them, the Auntea Jenny brand, guided
+by the “Daily Health+” concept and upgraded through its research and development, successively
+introduced new products such as the Kale Series (羽衣甘藍系列) of fruit and vegetable tea and the
+Five-Color Nourishing Bottle Series (五色慢養瓶系列). By virtue of their appealing appearance,
+rich nutrition and innovative concept of nurturing both body and mind, these products precisely
+met consumers’ demand for healthy beverages, further strengthening the brand’s health-focused
+image in the minds of consumers. At the same time, by upgrading coffee machine equipment and
+coffee bean quality, we established coffee as a core product category for the brand’s key promotion,
+broadened consumption scenarios and enhanced store operational vitality. Fallstea, with its core
+research and development concept of “Real Tea, Real Milk”, focuses on delivering high-quality and
+affordable fresh milk tea with real tea leaves. By combining premium ingredients with affordable
+pricing, it offers a value for money experience and is widely acclaimed by consumers.
+
+
+
+
+                                                – 16 –
+Supply chain management
+
+Procurement
+
+In 2025, leveraging the substantial procurement demand generated by our large scale store network,
+we continued to strengthen our bargaining power in the supply chain. By securing favorable
+procurement terms through economies of scale, we effectively reduced raw material procurement
+costs. The Company proactively probes into the global origin resources by establishing a direct
+sourcing model from origin, thereby forging deep and binding partnerships with quality suppliers
+and OEM manufacturers, comprehensively strengthening our upstream supply chain layout and
+significantly enhancing the quality stability of core product categories. At the quality control level,
+relying on the standardized procurement mechanism of the centralized procurement platform, we
+exercised stringent control throughout the entire process, from supplier admission screening and
+raw material order acceptance to end-user feedback, ensuring high stability in product quality and
+safety. By building a diversified supply system, supplemented by in-house production facilities to
+replenish core material supplies, we addressed market fluctuations and provided solid support for
+the continuity of our franchise business.
+
+Logistics and warehousing
+
+We support the daily operational needs and rapid expansion of our store network by establishing a
+nationwide supply chain network and possessing strong comprehensive management capabilities.
+We adopt a flexible and efficient warehousing operation model, collaborating with independent
+third-party professional institutions for part of our large-scale warehousing and logistics bases and
+all of our frontline cold-chain warehouses. This, combined with the coordinated deployment of our
+self-operated warehousing resources, enables resource complementarity and efficient synergy. As of
+December 31, 2025, our supply chain network included (i) 16 large warehousing and logistics bases;
+(ii) 4 equipment warehouses; (iii) 7 fresh produce warehouses; and (iv) 11 frontline cold-chain
+storage warehouses. In 2025, we further focused on adjusting our warehouse network structure
+and continuously optimised the distance between warehouses and stores to reduce delivery costs
+and improve delivery timeliness. We continuously advanced digital and intelligent transformation
+across the entire chain, and upgraded warehousing and distribution services. Relying on ample
+transport capacity reserves, we efficiently managed peak periods driven by festive promotions and
+concentrated orders, providing solid support for the stable operation and scalable expansion of our
+store network.
+
+Production
+
+We currently have one production facility in Haiyan County, Zhejiang Province, the PRC (“Haiyan
+Facility”). Our Haiyan Facility commenced commercial production in 2022, with an aggregate area
+of over 10,000 sq.m. Our Haiyan Facility is able to produce and process certain ingredients used in
+the preparation of our beverages, primarily including tapioca pearls, taro balls, taro paste and tea
+leaves.
+
+
+
+
+                                                – 17 –
+Marketing and promotion
+
+Our marketing and promotional efforts are designed to strengthen our brand image and awareness,
+attract new customers and promote customer recognition and stickiness. In 2025, we continuously
+enhanced our brand image and awareness through digital marketing, celebrity endorsement, and IP
+co-branding, while also achieving significant results in driving the sales of new products. (1) Digital
+marketing. We have established Xiaohongshu, Douyin, Kuaishou, Weixin and Weibo accounts to
+interact with our customers and the public. We also conduct a variety of promotional activities
+on social media platforms to enhance our brand recognition and attract customers. (2) Celebrity
+endorsements. In 2025, the Company collaborated with several artists on brand image partnerships
+to further enhance brand reputation and market heat, effectively boosting the sales of core product
+series. (3) IP co-branding. Closely following market trends and consumer aesthetic preferences, we
+continuously shape and optimize our brand image and connotation. Through IP co-branding, we
+further strengthen consumer recognition and identification with our brand, continuously enhancing
+our brand’s market appeal.
+
+While our products were well-received, we effectively enhanced user stickiness and repurchase
+willingness through our membership program, which consumers can register for and access via
+various online platforms such as WeChat Mini Programs, Alipay Mini Programs, and Douyin. As
+of December 31, 2025, our WeChat Mini Program had 154 million registered members, with an
+average of 17.4 million quarterly active members and a quarterly repurchase rate of 42.5%.
+
+Outlook
+
+1.   Channel Diversification: Expanding stores in an orderly manner, and improving single-
+     store profitability
+
+     We will scientifically screen regional presence grids, implement our store expansion strategy
+     by stages, precisely cater to the needs of different market segments, continuously improve
+     single-store profitability and return on investment, and shorten the investment payback
+     period for franchisees. We will adhere to our philosophy of “building mutually beneficial
+     partnership”, improve the franchisee management system, and attract and retain high-quality
+     franchisees with premium products and efficient services.
+
+2.   Product Innovation: Keeping pace with consumption trends, and promoting the
+     integration of tea and coffee
+
+     We will continuously strengthen our research and development capabilities, closely track
+     consumption trends and industry dynamics, and leverage our deep understanding of consumer
+     preferences to create more blockbuster products. At the same time, we will accelerate the
+     launch of our coffee drinks, innovate in consumption scenarios and sales models, and promote
+     the integrated innovation in coffee and tea beverages to activate diversified consumption
+     demands.
+
+
+
+
+                                                – 18 –
+3.   Supply Chain Upgrade: Enhancing the logistics network and improving supply efficiency
+
+     We will further strengthen cooperation with high-quality suppliers in China and beyond,
+     increase supply sources, and enhance bargaining power. By optimising supply plans
+     and resource allocation structures, strengthening the coordination of warehousing and
+     distribution, and integrating store expansion plans with the existing warehouse network,
+     we will continuously expand the coverage of our cold-chain logistics network, streamline
+     the connection between warehousing and distribution, speed up supply chain responses,
+     and improve cost control, in a bid to provide stable and efficient supply support for stores
+     nationwide.
+
+4.   Brand Building: Implementing a differentiated multi-brand strategy, and continuously
+     boosting brand competitiveness
+
+     We will continue to deepen our multi-brand strategy. Relying on the differentiated positioning
+     of our brands, we will penetrate different market segments and increase our market share with
+     diversified products, flexible pricing, and various consumption scenarios. Concurrently, we
+     will strengthen brand building and market promotion, continuously enhance brand image and
+     awareness, and boost our brand competitiveness.
+
+5.   Digitalisation: Strengthening full-process digitalisation, and persistently optimising
+     operations and food safety control
+
+     We will continuously step up investments in information technology and digitalisation, and
+     integrate digitalisation throughout the entire business process. Specifically, through data
+     analysis, we will improve manpower allocation, operational processes, and decision-making
+     efficiency. Additionally, efforts will be made to leverage digital means to strengthen food
+     safety control, reduce operating costs, and promote the full-chain upgrade to ensure overall
+     efficient operation and compliance.
+
+FINANCIAL REVIEW
+
+Revenue and gross profit
+
+For the year ended December 31, 2025, the Group recorded a revenue of RMB4,465.6 million,
+representing a 36.0% year-on-year increase compared to RMB3,284.6 million, and a gross profit
+of RMB1,404.2 million, representing a 36.7% year-on-year increase compared to RMB1,027.3
+million. During the Reporting Period, the Group’s revenue was primarily driven by product sales to
+franchisees, with overall growth supported by an increase in store count and higher average daily
+sales per store. The Group’s gross profit margin for the year ended December 31, 2025 was 31.4%,
+remaining stable compared with the same period last year.
+
+Other income and gains, net
+
+For the year ended December 31, 2025, the Group recorded other income and gains, net of RMB38.8
+million, representing a 19.4% year-on-year decrease compared to RMB48.1 million, primarily due
+to the losses on disposal of property, plant and equipment and losses on lease deposits.
+
+
+
+                                              – 19 –
+Selling and marketing expenses
+
+During the Reporting Period, the Group recorded selling and marketing expenses of RMB504.2
+million for the year ended December 31, 2025, representing a 27.9% year-on-year increase
+compared to RMB394.1 million, primarily due to the increase in employee remuneration and
+increase in advertising and promotion expenses.
+
+Administrative expenses
+
+For the year ended December 31, 2025, the Group’s administrative expenses amounted to
+RMB205.8 million, representing a 17.7% year-on-year increase compared to RMB174.9 million,
+primarily due to the increase in employee remuneration of the Group.
+
+Research and development expenses
+
+For the year ended December 31, 2025, the Group’s research and development expenses amounted
+to RMB53.4 million, representing a 2.9% year-on-year increase compared to RMB51.9 million,
+showing no significant fluctuation.
+
+Income tax expense
+
+For the year ended December 31, 2025, the Group’s income tax expenses amounted to RMB174.2
+million, representing a 44.6% year-on-year increase compared to RMB120.5 million, primarily due
+to the increase in taxable income.
+
+Profit for the year
+
+Based on the above changes, for the year ended December 31, 2025, the Group recorded a profit
+of RMB501.3 million, representing a 52.4% increase compared to RMB328.9 million for the year
+ended December 31, 2024.
+
+
+
+
+                                            – 20 –
+Non-IFRS measures
+
+To supplement our consolidated financial statements that are presented in accordance with IFRS
+Accounting Standards, we also use adjusted profit for the year (a non-IFRS measure) and adjusted
+net profit margin (a non-IFRS measure), as additional financial measures, which are not required
+by, or presented in accordance with IFRS Accounting Standards. We believe that these non-IFRS
+measures facilitate comparisons of operating performance from period to period by eliminating
+potential impact of certain items. We believe that these measures provide useful information to
+investors and others in understanding and evaluating our consolidated financial statements in
+the same manner as they help our management. However, our presentation of adjusted profit for
+the year (a non-IFRS measure) and adjusted net profit margin (a non-IFRS measure) may not be
+comparable to similar item measures presented by other companies. The use of these non-IFRS
+measures has limitations as an analytical tool, and you should not consider them in isolation from,
+or as substitute for analysis of, our consolidated financial statements or financial condition as
+reported under IFRS Accounting Standards. We define adjusted profit for the year (a non-IFRS
+measure) as profit for the year adjusted by adding the share-based payment expenses and listing
+expenses. We define adjusted net profit margin (a non-IFRS measure) as adjusted profit for the year
+(a non-IFRS measure) as a percentage of total revenues.
+
+                                                                                             For the year ended
+                                                                                               December 31,
+                                                                                                2025            2024
+                                                                                            RMB’000         RMB’000
+
+Profit for the year                                                                          501,317        328,931
+Add:
+Share-based payment expenses                                                                  57,368         57,782
+Listing expenses                                                                              11,648         31,373
+Adjusted profit for the year (a non-IFRS measure)                                            570,333        418,086
+Adjusted net profit margin (a non-IFRS measure)                                               12.8%          12.7%
+Notes:
+
+(1)      Share-based payment expenses relate to the share rewards we granted to our employees, which is a non-cash
+         item.
+
+(2)      Listing expenses represent the fees incurred in relation to the Global Offering.
+
+Cash and cash equivalents
+
+As of December 31, 2025, the Group’s cash and cash equivalents amounted to RMB1,208.4 million,
+representing an increase of RMB865.7 million from RMB342.7 million as of December 31, 2024,
+primarily due to (1) the receipt of proceeds from the Global Offering; and (2) the increase in cash
+generated from operating activities in line with business growth.
+
+
+
+
+                                                           – 21 –
+Inventories
+
+As of December 31, 2025, the Group’s inventories amounted to RMB230.5 million, representing
+an increase of RMB62.4 million from RMB168.1 million as of December 31, 2024. The increase in
+inventories was generally in line with our revenue growth. Our inventory turnover days shortened
+from 26 days in 2024 to 24 days in 2025, remaining generally stable overall.
+
+Trade receivables
+
+As of December 31, 2025, the Group’s trade receivables amounted to RMB25.5 million,
+representing an increase of RMB24.0 million from RMB1.5 million as of December 31, 2024. Such
+increase was primarily due to the expansion in the scale of credit sales business.
+
+Property, plant and equipment
+
+As of December 31, 2025, the Group’s property, plant and equipment amounted to RMB42.4
+million, representing a decrease of RMB0.5 million from RMB42.9 million as of December 31,
+2024, primarily due to the depreciation of property, plant and equipment.
+
+Trade payables
+
+As of December 31, 2025, the Group’s trade payables amounted to RMB349.4 million, representing
+an increase of RMB123.1 million from RMB226.3 million as of December 31, 2024, primarily due
+to the continuous increase in procurement of raw materials to meet franchisees’ order demands. Our
+trade payables turnover days decreased slightly from 36 days in 2024 to 34 days in 2025.
+
+Bank borrowings
+
+As of December 31, 2025, the Group’s bank borrowings amounted to RMB2.0 million, reflecting a
+decrease of RMB27.9 million from RMB29.9 million as of December 31, 2024.
+
+Contract liabilities
+
+As of December 31, 2025, the Group’s contract liabilities including current portion and non-
+current portion amounted to RMB151.6 million, representing an increase of RMB93.7 million
+from RMB57.9 million as of December 31, 2024. The growth was primarily attributable to (1) the
+increased advance payments from franchisees for goods and equipment sales; and (2) the higher
+franchising services income resulting from the expansion of franchised stores.
+
+Lease liabilities
+
+As of December 31, 2025, the Group’s lease liabilities including current portion and non-current
+portion amounted to RMB92.4 million, representing a decrease of RMB3.7 million from RMB96.1
+million as of December 31, 2024, primarily due to the payment of rent.
+
+
+
+
+                                             – 22 –
+Foreign exchange risk
+
+The Group primarily operates in the PRC, and as the proceeds from the Global Offering are
+denominated in Hong Kong dollar and as the Group is gradually expanding into selected overseas
+markets, therefore, the Group is exposed to certain foreign exchange risk. During the Reporting
+Period, the Group did not conduct any foreign exchange hedging related activity. The management
+of the Group will continue to monitor foreign exchange risk and will consider appropriate hedging
+measures in the future should the need arise.
+
+Contingent liabilities
+
+As of December 31, 2025, the Group had no significant contingent liabilities.
+
+Capital commitments
+
+As of December 31, 2025, the Group’s capital commitments amounted to RMB5.6 million,
+representing an increase of RMB3.2 million from RMB2.4 million as of December 31, 2024, and
+was mainly used for purchase of property, plant and equipment and other intangible assets.
+
+Material acquisitions and disposals and significant investments
+
+For the year ended December 31, 2025, the Group did not have any material acquisitions or
+disposals of subsidiaries, nor consolidate any affiliated or associated companies. As at December
+31, 2025, the Group did not have any significant investments.
+
+Future plans for material investments or capital assets
+
+As of December 31, 2025, the Group had no future plans for other material investments or capital
+assets save as disclosed in the section headed “Future Plans and Use of Proceeds” in the Prospectus
+and further explained in the section “Use of Proceeds from the Global Offering” below.
+
+Pledge of assets
+
+As at December 31, 2025, no assets of the Group were pledged.
+
+Liquidity and capital resources
+
+For the year ended December 31, 2025, the Group generated cash from operating activities of
+RMB753.0 million, compared to RMB420.5 million for the year ended December 31, 2024.
+
+As at December 31, 2024, the Group’s cash and bank deposits, including cash and cash equivalents,
+restricted cash, and short-term time deposits, amounted to RMB442.9 million, while totaling
+RMB1,353.3 million as at December 31, 2025, comprising RMB1,208.4 million in cash and cash
+equivalents, RMB140.4 million in short-term time deposits and RMB4.5 million in restricted cash.
+
+
+
+
+                                              – 23 –
+As at December 31, 2025, the Group’s interest-bearing bank and other borrowings amounted to
+RMB2.0 million, all of which were due within one year. The decrease of RMB27.9 million from
+RMB29.9 million as at December 31, 2024 was entirely due to the full repayment of matured
+principal on schedule. All borrowings are denominated in RMB and bear interest at fixed rates. The
+Group had no interest rate hedging policies in place. The Group pursues a prudent cash management
+policy and actively manages its liquidity position to meet the Group’s day-to-day operation and
+future development funding requirements. The Group’s primary sources of funding include cash
+flows from operations and proceeds from the Global Offering. The Group has sufficient liquidity to
+meet its day-to-day liquidity management and capital expenditure requirements.
+
+Capital structure
+
+As at December 31, 2025, the Group had net assets amounting to RMB1,925.1 million, compared to
+RMB1,184.1 million as at December 31, 2024. As at December 31, 2025, the Group’s total current
+assets amounted to RMB2,509.5 million, total non-current assets amounted to RMB471.9 million,
+total current liabilities amounted to RMB1,000.9 million, and total non-current liabilities amounted
+to RMB55.5 million.
+
+As at December 31, 2025 and December 31, 2024, the Group’s cash and cash equivalents were
+primarily denominated in RMB.
+
+The Group’s gearing ratio, which is calculated as total liabilities divided by total assets and
+multiplied by 100%, was 35.4% as at December 31, 2025 (December 31, 2024: 36.2%).
+
+Employees and remuneration policies
+
+As of December 31, 2025, we had 1,682 full-time employees. For the year ended December 31,
+2025, employee benefit expenses (including remuneration for directors and chief executive)
+comprised wages and salaries, contributions to pension schemes, and social welfare costs,
+amounting to approximately RMB530.3 million.
+
+We recruit our employees primarily from the open market through recruitment advertisements,
+agencies, online platforms and referrals. We attract and retain suitable personnel by offering
+competitive wages and benefits. The remuneration and benefits of the Group’s employees are
+determined with reference to market benchmarks as well as their respective qualifications and
+competencies. Performance-based incentive schemes, such as bonuses, are also in place.
+
+We encourage every individual within the Company to pursue career development opportunities.
+To support this, we provide ongoing training and career development programmes to facilitate
+their growth and career progression. We offer a range of professional development training and
+place strong emphasis on employees’ occupational health and safety. At the end of each year, we
+conduct performance reviews for our employees, providing feedback and guidance. Based on their
+performance and role requirements, we offer advancement opportunities and further training.
+
+
+
+
+                                              – 24 –
+For the purposes of rendering improvement to the Company’s incentive mechanism, inspiring
+key employees to contribute their enthusiasm and creativity, facilitating sustainable growth of the
+Group’s performance, and bringing value-added benefits to the eligible participants while enhancing
+the Group’s value, so as to achieve the common development for both eligible participants and the
+Group, upon consideration and approval thereof at the general meeting of the Company held on
+September 30, 2020, the Company adopted the Pre-IPO Employee Incentive Scheme, and established
+a limited partnership serving as a Pre-IPO Employee Incentive Platform. For more details of
+the Pre-IPO Employee Incentive Scheme, please refer to “Statutory and General Information –
+Employee Incentive Schemes” in Appendix IV to the Prospectus.
+
+The H Share Incentive Scheme was approved by the shareholders of the Company (the
+“Shareholders”) at the extraordinary general meeting held on December 8, 2025, which is
+intended (i) to promote the achievement of the Company’s long-term sustainable development
+and performance targets; (ii) to improve the Company’s incentive mechanism to attract, motivate
+and retain the talent needed for the achievement of the Company’s strategic objectives; and (iii) to
+closely link the interests of the incentive participants with those of the Shareholders, the investors
+and the Company, seek a balance between operations and executive management and supervision,
+enhance the Company’s cohesion and promote the maximization of the Company’s value. For details,
+please refer to the circular of the Company dated November 17, 2025.
+
+USE OF PROCEEDS FROM GLOBAL OFFERING
+
+The H Shares of the Company were listed on the Main Board of The Stock Exchange of Hong
+Kong Limited (the “Stock Exchange”) on May 8, 2025 (the “Listing Date”). The Company issued
+2,773,020 new shares at an offer price of HK$113.12 per share. After deducting the underwriting
+commissions, fees and other expenses in connection with the Global Offering, the net proceeds from
+the Global Offering amounted to approximately HK$233.9 million (the “Net Proceeds”), including
+the net proceeds from the full exercise of the over-allotment options. The proceeds from the Global
+Offering will be utilized in accordance with the plans disclosed in the section headed “Future Plans
+and Use of Proceeds” in the Prospectus, with details as follows:
+
+                                                                 Utilized       Unutilized
+                                                           Net Proceeds      Net Proceeds
+                             Percentage    Allocation of    as at the end     as at the end
+                                of total   Net Proceeds             of the            of the   Expected
+                                    Net     from Global        Reporting         Reporting     timetable for
+Intended Use of Net Proceeds   Proceeds        Offering            Period            Period    full utilization
+                                           (HK$ million)   (HK$ million)     (HK$ million)
+
+Enhancing our digitalization
+  capabilities                      25%             58.5             35.9              22.6    December 2027
+Research and development to
+  improve the quality of our
+  raw materials and ingredients,
+  create hit products, expand
+  our product offerings and
+  upgrade our equipment and
+  machines                          20%             46.8              8.4              38.4    December 2027
+
+
+                                                 – 25 –
+                                                                           Utilized       Unutilized
+                                                                     Net Proceeds      Net Proceeds
+                             Percentage            Allocation of      as at the end     as at the end
+                                of total           Net Proceeds               of the            of the   Expected
+                                    Net             from Global          Reporting         Reporting     timetable for
+Intended Use of Net Proceeds   Proceeds                Offering              Period            Period    full utilization
+                                                   (HK$ million)     (HK$ million)     (HK$ million)
+
+Strengthening our supply chain
+  capabilities by enhancing
+  our production, processing,
+  warehousing, logistics and
+  distribution capabilities                20%               46.8              17.8              29.0    December 2027
+Enhancing our brand awareness
+  and further expand and
+  empower our store network                15%               35.0              18.2              16.8    December 2027
+Investing in various marketing
+  activities                               10%               23.4              23.4                 –    December 2027
+Working capital and other
+  general corporate purposes               10%               23.4              23.4                 –    December 2027
+
+Total                                     100%             233.9              127.1             106.8
+
+Notes:
+
+1.       Due to rounding, there may be a difference between the sum of the individual sub-values and the total amount.
+
+2.       The expected timetable for utilising the Net Proceeds from the Global Offering is based on the Company’s best
+         estimation of the future market conditions and is subject to changes according to our actual business operations.
+
+EVENTS AFTER THE REPORTING PERIOD
+
+Proposed Participation in the Plan of H Share Full Circulation by the Company and Proposed
+Amendments to the Articles of Association
+
+Reference is made to the announcement of the Company dated July 4, 2025, in relation to, among
+others, the proposed participation in the plan of H share full circulation by the Company and
+proposed amendments to the articles of association ( the“Articles of Association”). On July 4,
+2025, the Board has considered and approved the proposed implementation of conversion of no
+more than 35,255,992 domestic unlisted shares of the Company held by certain Shareholders of
+the Company into H shares of the Company (the “H Share Full Circulation”) .The final number
+of the Company’s domestic unlisted shares to be converted into H shares shall be subject to the
+filing with the China Securities Regulatory Commission and approvals from the Stock Exchange.
+In addition, on the same day, the Board has considered and approved certain proposed amendments
+to the Articles of Association to reflect the share capital structure of the Company upon the
+completion of the H Share Full Circulation in the future. As at the date of this announcement, the
+participation in the H Share Full Circulation plan is still in progress. The Company will make
+further announcement(s) on the progress of the H Share Full Circulation and the conversion and
+listing in accordance with the requirements of the Listing Rules.
+
+
+
+                                                          – 26 –
+Save as disclosed above, there are no other material events after the Reporting Period undertaken by
+the Group after December 31, 2025 and up to the date of this announcement.
+
+FINAL DIVIDEND
+
+The Board held a meeting on March 24, 2026 and adopted the relevant resolution to recommend
+the payment of a final dividend of RMB10 per 10 shares (inclusive of tax), aggregating to
+approximately RMB105.2 million, which is subject to the approval of the Shareholders at the
+forthcoming annual general meeting (the “AGM”). As the shares will be repurchased and held as
+treasury shares (if any) by the Company from time to time, the actual aggregate amount of the final
+dividend to be paid will be based on the total number of shares (excluding the treasury shares)
+on the record date for the payment of the final dividend, which will be announced separately by
+the Company in due course. The proposed final dividend shall be denominated and declared in
+Renminbi and paid in Hong Kong dollars to the H Shareholders. The final dividend payable in Hong
+Kong dollars will be converted based on the average benchmark exchange rate for Renminbi to
+Hong Kong dollars as announced by the People’s Bank of China for the five business days prior to
+the AGM convened to consider and approve the distribution of the final dividend. Final dividends
+payable to domestic holders of unlisted shares will be distributed in Renminbi. All treasury shares
+held by the Company (if any) are not entitled to the final dividend.
+
+AGM
+
+The AGM is scheduled to be held on Wednesday, June 24, 2026. A notice of the AGM will be
+published in due course and dispatched to Shareholders who have indicated their preference in
+receiving this notice in printed version.
+
+CLOSURE OF REGISTER OF MEMBERS
+
+The register of members of the Company will be closed from Thursday, June 18, 2026 to
+Wednesday, June 24, 2026 (both days inclusive) for determining the entitlement of Shareholders
+to attend and vote at the AGM, during which period no transfers of shares will be registered. To
+be eligible to attend the AGM, all properly completed transfer documents accompanied by the
+relevant share certificates must be lodged for registration with the Company’s H share registrar,
+Computershare Hong Kong Investor Services Limited, at Shops 1712-1716, 17th Floor, Hopewell
+Centre, 183 Queen’s Road East, Wan Chai, Hong Kong, no later than 4:30 p.m. on Wednesday,
+June 17, 2026. Shareholders whose names appear on the register of members of the Company at the
+record date on Wednesday, June 24, 2026 are entitled to attend and vote at the AGM.
+
+COMPLIANCE WITH CORPORATE GOVERNANCE CODE
+
+The Group is committed to maintaining high standards of corporate governance to safeguard the
+interests of Shareholders and to enhance corporate value and accountability. The Group has adopted
+the corporate governance code set out in Appendix C1 (the “Corporate Governance Code”) to
+the Rules Governing the Listing of Securities on the Stock Exchange of Hong Kong (the “Listing
+Rules”) as its own code of corporate governance. During the period from the Listing Date and
+up to December 31, 2025, to the best knowledge of the directors, except for the deviation from
+code provision C.2.1 of part 2 of the Corporate Governance Code below, the Company has fully
+complied with all applicable code provisions in the Corporate Governance Code.
+
+
+                                              – 27 –
+Pursuant to code provision C.2.1 of part 2 of the Corporate Governance Code, the roles of chairman
+and chief executive officer should be separate and should not be performed by the same individual.
+The division of responsibilities between the chairman and chief executive officer should be clearly
+established and set out in writing. During the Reporting Period, the roles of chairman of the
+Board and chief executive officer of the Company were performed by Mr. Shan Weijun, who was
+primarily responsible for the brand strategy, major development plans and corporate culture values
+implementation of our Group. Our Board believes that, in view of his experience, personal profile
+and his roles in our Company as mentioned above, Mr. Shan is the Director best suited to identify
+strategic opportunities and focus of the Board due to his extensive understanding of our business
+as our chief executive officer. The Board also believes that vesting the roles of both chairperson
+and chief executive officer in the same person has the benefit of ensuring the consistent leadership
+within our Group and enables more effective and efficient overall strategic planning of our Group.
+Besides, with three independent non-executive Directors out of a total of seven Directors in our
+Board, there will be sufficient independent voice within our Board to protect the interests of our
+Company and our Shareholders as a whole. Therefore, the Board considers that the balance of
+power and authority for the present arrangement will not be impaired and this structure will enable
+the Company to make and implement decisions promptly and effectively. The Board will continue
+to review and consider splitting the roles of chairperson of the Board and the chief executive officer
+of the Company at a time when it is appropriate by taking into account the circumstances of the
+Group as a whole.
+
+COMPLIANCE WITH THE MODEL CODE
+
+The Group has adopted the Model Code for Securities Transactions by Directors of Listed Issuers
+set out in Appendix C3 of the Listing Rules (the “Model Code”) as the code of conduct for
+securities transactions by Directors. As the Model Code is not applicable before the Listing Date,
+having made specific enquiry of all Directors, each of the Directors acknowledged that he/she had
+complied with the Model Code during the period from the Listing Date to December 31, 2025.
+
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S LISTED SECURITIES
+
+During the Reporting Period, neither the Company nor any of its subsidiaries had purchased, sold
+or redeemed any of the listed securities of the Company or sold or transferred any treasury shares
+(as defined in the Listing Rules). As at December 31, 2025, the Company did not hold any treasury
+shares.
+
+AUDIT COMMITTEE
+
+The audit committee of the Company (the “Audit Committee”) comprises three Directors, namely
+Mr. Chung Chong Sun, Mr. Han Ding-Gwo and Ms. Yu Fang Jing. The primary duties of the Audit
+Committee are to inspect, review and supervise the financial data and financial data reporting
+process of the Company. The Audit Committee has reviewed the consolidated annual results of
+the Group for the year ended December 31, 2025. The Audit Committee has also reviewed the
+accounting principles and practices adopted by the Group and discussed auditing, risk management,
+internal control and financial reporting matters.
+
+
+
+
+                                               – 28 –
+PROCEDURES PERFORMED BY AUDITOR ON THIS RESULTS ANNOUNCEMENT
+
+The figures in respect of the Group’s consolidated statement of profit or loss, consolidated
+statement of comprehensive income, consolidated statement of financial position and the related
+notes thereto for the year ended December 31, 2025 as set out in this announcement have been
+agreed by Ernst & Young, the independent auditor of the Company (the “Auditor”), with respect to
+the amounts set out in the Group’s consolidated financial statements for the year ended December
+31, 2025. The work performed by the Auditor in this respect did not constitute an audit, review or
+other assurance engagement and consequently no opinion has been expressed by the Auditor on this
+announcement.
+
+PUBLICATION OF 2025 ANNUAL RESULTS AND 2025 ANNUAL REPORT
+
+This announcement is published on the website of the Stock Exchange (www.hkexnews.hk) and
+the Company’s website (https://ir.hsay.com). The annual report of the Company for the year ended
+December 31, 2025 will be made available on the above websites and will be dispatched to the
+Shareholders who have requested the printed copy in due course.
+
+                                                             By order of the Board
+                                                Auntea Jenny (Shanghai) Industrial Co., Ltd.
+                                                               Mr. Shan Weijun
+                                                Chairperson of the Board and Executive Director
+
+Hong Kong, March 24, 2026
+
+As at the date of this announcement, the Board comprises: (i) Mr. Shan Weijun, Ms. Zhou
+Rongrong, Mr. Zhou Tianmu and Mr. Wang Jiaxing as executive Directors; and (ii) Mr. Han
+Ding-Gwo, Mr. Chung Chong Sun and Ms. Yu Fang Jing as independent non-executive Directors.
+
+
+
+
+                                             – 29 –
+

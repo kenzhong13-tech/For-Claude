@@ -1,0 +1,2 @@
+https://www.barchart.com/proxies/core-api/v1/quotes/get?symbols=YUMC&fields=symbol,lastPrice,impliedVolatility,historicVolatility30d,ivRank1y,ivPercentile1y,optionsImpliedVolatilityRank1y&raw=1
+<HTTPError 403: 'Forbidden'>

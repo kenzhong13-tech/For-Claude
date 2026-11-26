@@ -1,0 +1,1230 @@
+Hong Kong Exchanges and Clearing Limited, The Stock Exchange of Hong Kong Limited and Singapore
+Exchange Securities Trading Limited take no responsibility for the contents of this announcement, make no
+representation as to its accuracy or completeness and expressly disclaim any liability whatsoever for any loss
+howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+             Helens International Holdings Company Limited
+                       海倫司國際控股有限公司
+                        (A company incorporated in the Cayman Islands with limited liability)
+                                    (Hong Kong Stock Code: 9869)
+                                     (Singapore Stock Code: HLS)
+
+                   ANNOUNCEMENT OF ANNUAL RESULTS
+                  FOR THE YEAR ENDED DECEMBER 31, 2025
+
+The board (the “Board”) of directors (the “Directors”) of Helens International Holdings
+Company Limited (the “Company”) is pleased to announce the audited consolidated
+results of the Company and its subsidiaries (collectively, the “Group”) for the year ended
+December 31, 2025 (the “Reporting Period”), together with the audited comparative figures
+for the year ended December 31, 2024. Unless otherwise defined herein, capitalised terms
+used in this announcement shall have the same meanings as those defined in the prospectus
+of the Company dated August 31, 2021 (the “Prospectus”).
+
+
+
+
+                                                       –1–
+FINANCIAL HIGHLIGHTS
+
+                                                                        For the year ended
+                                                                          December 31,
+                                                                            2025             2024
+                                                                         RMB in           RMB in
+                                                                       thousands        thousands
+
+Revenue                                                                   539,009               752,206
+Profit/(loss) before income tax                                            37,804               (76,567)
+Profit/(loss) for the year attributable to
+  owners of the Company                                                     33,954              (77,976)
+Adjusted net profit(1)                                                      67,686               65,384
+
+Non-HKFRS Measures
+
+                                                                         For the year ended
+                                                                           December 31,
+                                                                            2025             2024
+                                                                         RMB in           RMB in
+                                                                       thousands        thousands
+
+Profit/(loss) for the year                                                  33,954              (77,976)
+Add:
+  Secondary listing expenses                                                    —                13,287
+  Impairment loss of office properties                                          —                59,481
+  Losses from bars optimization and adjustment(2)                           10,338              105,763
+  Exchange loss/(gain)                                                      23,394              (35,171)
+
+Adjusted net profit                                                         67,686               65,384
+
+Notes:
+
+(1)   We define adjusted net profit as profit/(loss) for the year adjusted by adding back secondary listing
+      expenses, impairment loss of office properties, losses from bars optimization and adjustment, and
+      exchange loss/(gain). For details of non-HKFRS measures, please refer to the sub-section headed
+      “Management Discussion and Analysis — Non-HKFRS Measures”. We consider this change in
+      definition to be more meaningful to the management for review and analysis purposes.
+
+(2)   Losses from bars optimization and adjustment comprise impairment losses of plant and equipment
+      and right-of-use assets, net impairment losses of trade receivables from franchisees, amortization of
+      prepayment to franchisees, loss on disposal of plant and equipment, penalties and compensation for
+      early termination, loss on rental deposits and gain on termination of leases.
+
+
+
+
+                                                  –2–
+Consolidated Statement of Financial Position
+
+                                               As at December As at December
+                                                       31, 2025       31, 2024
+                                                       RMB in          RMB in
+                                                     thousands      thousands
+                                                      (audited)      (audited)
+
+Non-current assets                                     396,029         459,772
+Current assets                                         729,693         916,203
+Total assets                                         1,125,722       1,375,975
+Total equity                                           874,665       1,118,791
+Non-current liabilities                                 96,004         133,113
+Current liabilities                                    155,053         124,071
+Net current assets                                     574,640         792,132
+Total liabilities                                      251,057         257,184
+Total equity and liabilities                         1,125,722       1,375,975
+
+
+
+
+                                       –3–
+BUSINESS HIGHLIGHTS
+
+Distribution of Our Bar Network
+
+As of March 19, 2026, we had a total number of 578 bars globally, including Mainland
+China, Vietnam, Japan and Singapore, and covering 31 provincial-level administrative
+regions and 341 cities in China. The following table sets forth the number of Helen’s bars
+by geographic location and types as of March 19, 2026 and the dates indicated.
+
+                                                           As of
+                                             March 19, December 31, December 31,
+                                                 2026          2025        2024
+
+Mainland China
+Bars in first-tier cities                            38              38               35
+Bars in second-tier cities                          142             142              146
+Bars in third and lower-tier cities                 393             391              375
+Other regions out of Mainland China                   5               5                4
+
+Total                                               578             576              560
+
+
+                                                           As of
+                                             March 19, December 31, December 31,
+                                                 2026          2025        2024
+
+Self-operated bars                                  108             108              112
+Franchised bars                                      41              41               42
+“HiBeer Partnership” bars                           429             427              406
+
+Total                                               578             576              560
+
+
+
+
+                                          –4–
+OPERATING INDICATORS
+
+Average Daily Sales Per Bar Opened in Each City
+
+The table below shows the average daily sales per bar opened in different tier cities during
+the indicated period.
+
+                                                            For the year ended December 31,
+                                                                       2025            2024
+                                                                   (RMB in          (RMB in
+                                                                 thousands)       thousands)
+
+Average daily sales per self-operated bar and
+ franchised bar
+Mainland China
+Bars in first-tier cities                                               8.6              8.3
+Bars in second-tier cities                                              7.9              7.0
+Bars in third and lower-tier cities                                     7.1              6.7
+
+Overall                                                                 7.7              7.0
+
+Average daily sale per “HiBeer Partnership”
+
+                                                           For the year ended December 31,
+Type of store                                   Store area            2025           2024
+                                                                  (RMB in         (RMB in
+                                                                thousands)      thousands)
+
+Large Store                        240–260 square meters(1)              5.0             6.1
+Medium Store                       150–240 square meters(2)              4.1             4.8
+Small Store                         90–150 square meters(1)              3.5             4.5
+
+Overall                              90–260 square meters                4.1             5.0
+
+Notes:
+
+(1):     both numbers inclusive.
+
+(2):     both numbers exclusive.
+
+
+
+
+                                                 –5–
+Same-store Performance
+
+The following table sets forth the same-store sales of Helen’s self-operated and franchised
+bars during the Reporting Period. “Same-store” means bars that opened for at least 300
+days in 2025 and 2024, respectively.
+
+                                                            For the year ended December 31,
+                                                                2025                    2024
+
+Mainland China
+Number of same-store                                                           135
+Same-store sales (RMB’000)                                  414,650.9                508,037.2
+Growth of same-store sales (%)                                              -18.4%
+Same-store sales per day(1) (RMB’000)                             1,141.5              1,399.8
+Growth of same-store sales per day (%)                                      -18.5%
+Same-store average daily sales per store(2)
+  (RMB’000)                                                           8.5                 10.4
+Growth of same-store average daily sales per
+  store (%)                                                                 -18.3%
+
+Notes:
+
+(1)   The aggregate amount of all same-store average daily sales.
+
+(2)   The average amount of all same-store average daily sales.
+
+In 2025, our same-store performance declined, mainly due to the complex and volatile
+domestic economic market.
+
+The Company is taking various measures to improve its same-store performance,
+including:
+
+(i)   further refining and enhancing frontline partner performance incentive schemes to
+      achieve collaborative performance growth;
+
+(ii) intensifying efforts to launch new products and enhancing the attractiveness of stores
+     by enriching the product matrix;
+
+(iii) further enhancing brand influence and customers’ experience, and increasing our
+      ability to continuously acquire new customers and facilitate the repurchase of old
+      customers; and
+
+(iv) strengthening organizational systems and cultural development, optimizing bar
+     operations management and services, and improving customer experience.
+
+                                                  –6–
+Contribution from Our Featured Products
+
+The following table sets forth the overall contribution and contribution margin of all
+of Helen’s branded alcoholic drinks and third-party brand alcoholic drinks during the
+indicated years.
+
+                                                                           For the year ended
+                                                                             December 31,
+                                                                              2025            2024
+
+All Helen’s branded alcoholic drinks
+  Contribution (RMB’000)                                                    148,759             213,561
+  Contribution margin                                                        79.8%               76.6%
+
+All third-party brand alcoholic drinks
+  Contribution (RMB’000)                                                      53,448             78,367
+  Contribution margin                                                         60.9%              51.2%
+
+Note:
+
+Our contribution margin represents (i) the contribution of a given product, i.e. the revenue generated from
+the sales of a given product, less the costs of raw materials and consumables, divided by (ii) the revenue
+generated from the sales of the given product.
+
+
+
+
+                                                   –7–
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+In 2025, our revenue decreased to RMB539 million from RMB752 million in 2024, mainly
+due to the fact that the number of self-operated bars in operation in 2025 decreased as
+compared with the full year of 2024 and that the same-store performance declined in 2025 as
+compared with 2024 due to the fluctuations in the market environment, which resulted in a
+decrease in revenue from self-operated business. As we continue to develop our bar network
+under the “HiBeer Partnership” programme, the proportion of our revenue from franchise
+business increased to 34.0% in 2025 from 25.9% in 2024. Despite the weak consumer
+market in 2025, we still scored good profitability, with an adjusted net profit of RMB67.7
+million in 2025.
+
+In 2025, our contribution margin of bars amounted to 73.77%, representing a further
+increase compared to 2024. Among these, the gross profit margin of Helen’s branded
+alcoholic drinks increased from 76.6% in 2024 to 79.8% in 2025, mainly benefiting from
+the improvement of our supply chain capabilities and the popularity of new products we
+launched, meanwhile, Helen’s own-brand products accounted for 72.4% of revenue in 2025,
+up from 70.5% in 2024.
+
+In 2025, we continued to expand our bar network through the “HiBeer Partnership”
+programme, and the total number of our bars increased from 560 at the end of 2024 to 576
+by the end of 2025, and further increased to 578 as of March 19, 2026, thereby maintaining
+our leadership position in the industry.
+
+Looking forward, on the one hand, we will continue to consolidate and expand our
+self-operated bar network; on the other hand, we will further develop our franchise bar
+network through the continuously optimized “HiBeer Partnership” bar model. At the same
+time, we will continue to strengthen supply chain integration and space design capabilities,
+and leverage these two core strengths to explore new modes such as the “third space”,
+thereby constantly creating new value for consumers’ evolving lifestyles.
+
+
+
+
+                                           –8–
+Revenue
+
+Our revenue decreased by 28.3% from RMB752.2 million for the year ended December 31,
+2024 to RMB539.0 million for the year ended December 31, 2025. This was mainly due to
+the fact that the number of self-operated bars in operation in 2025 decreased as compared
+with the full year of 2024 and that the same-store performance declined in 2025 as compared
+with 2024 due to the fluctuations in the market environment, which resulted in a decrease in
+revenue from self-operated business.
+
+The following table sets forth the revenue by segment and services and a breakdown of
+revenue during the indicated years.
+
+                                                        For the year ended December 31,
+                                                 2025                                     2024
+                                                              % of self-                            % of self-
+                                    (RMB in     % of total    operated    (RMB in     % of total    operated
+                                  thousands)     revenue       business thousands)     revenue       business
+
+Revenue from self-operated
+  bars
+Helen’s branded products             257,631         47.8          72.4    393,005           52.2        70.5
+  Helen’s beer                        35,222          6.5           9.9     48,993            6.5         8.8
+  Spirituous drinks                  151,522         28.1          42.6    229,983           30.6        41.3
+  Snacks                              70,887         13.2          19.9    114,029           15.1        20.4
+Third-party brand alcoholic
+  drinks                              87,765         16.3          24.7    153,027           20.3        27.4
+Other products(1)                      3,714          0.7            1.1     6,520            0.9          1.2
+Others(2)                              6,572          1.2            1.8     4,961            0.7          0.9
+Sub-total                            355,682         66.0           100    557,513           74.1         100
+
+Revenue from franchise
+  business(3)                        183,327         34.0            —     194,693           25.9          —
+
+Total                                539,009        100.0                  752,206          100.0
+Notes:
+
+(1)     Including paper towels and other consumer goods that we provide to customers in bars.
+
+(2)     Including the revenue generated from our mobile device charging service in bars.
+
+(3)     Including (i) the revenue generated from providing franchising service to franchised bars and “HiBeer
+        Partnership” bars; and (ii) the revenue generated from sales of products to “HiBeer Partnership” bars,
+        please see note 3 to consolidated financial statements for details.
+
+
+
+
+                                                     –9–
+Other Income
+
+Our other income increased from RMB1.0 million for the year ended December 31, 2024 to
+RMB1.5 million for the year ended December 31, 2025, mainly due to an increase in rental
+income from investment properties.
+
+Cost of Raw Materials and Consumables Used
+
+The cost of our raw materials and consumables used was RMB222.8 million for the
+year ended December 31, 2025, including the cost of raw materials and consumables of
+self-operated bars of RMB93.3 million and the cost of raw materials and consumables
+generated by sales of products to partnership bar of RMB129.5 million, representing a
+decrease of 29.6% from RMB316.3 million for the year ended December 31, 2024, primarily
+due to the decrease in sales revenue from our self-operated bars.
+
+Employee Benefit and Manpower Service Expenses
+
+Our employee benefit and manpower service expenses decreased by 34.9% from RMB173.7
+million for the year ended December 31, 2024 to RMB113.1 million for the year ended
+December 31, 2025. The substantial decrease in employee benefit and manpower service
+expenses was mainly attributable to a decrease in the employee wages and benefits as the
+number of employees reduced as a result of the adjustment of our existing store network.
+
+Depreciation of Right-of-Use Assets
+
+The depreciation of our right-of-use assets decreased by 40.6% from RMB60.8 million
+for the year ended December 31, 2024 to RMB36.1 million for the year ended December
+31, 2025. The decrease is primarily due to the termination of certain self-operated bars’
+lease contracts under the optimization and adjustment of the strategic transformation of the
+Company.
+
+Depreciation of Property, Plant and Equipment
+
+The depreciation of our property, plant and equipment decreased by 48.3% from RMB63.6
+million for the year ended December 31, 2024 to RMB32.9 million for the year ended
+December 31, 2025. The decrease was primarily due to a reduction in the fixed assets of
+self-operated bars, as the number of bars declined.
+
+
+
+
+                                           – 10 –
+Depreciation of Investment Properties
+
+For the year ended December 31, 2025, our depreciation of investment properties amounted
+to RMB3.3 million (for the year ended December 31, 2024: RMB1.9 million). This is
+primarily due to our conversion of part of our office assets for rental purposes, which was
+subsequently classified as investment properties, resulting in depreciation.
+
+Short-Term Rental and Other Related Expenses
+
+Our short-term rental and other related expenses decreased by 12.4% from RMB23.3 million
+for the year ended December 31, 2024 to RMB20.4 million for the year ended December
+31, 2025. The decrease was primarily because the number of employees in self-operated
+bars declined as a result of the implementation of optimization and adjustment of our
+bar network, leading to a decrease in the number of short-term dormitories we leased for
+employees.
+
+Utilities Expenses
+
+Our utilities expenses decreased by 38.7% from RMB19.4 million for the year ended
+December 31, 2024 to RMB11.9 million for the year ended December 31, 2025. The
+decrease was primarily because the electricity charge, the network energy consumption costs
+and the dormitory electricity and water utilities expenses decreased with the decrease in the
+number of bars accordingly.
+
+Travelling and Related Expenses
+
+Our travelling and related expenses decreased by 14.3% from RMB8.4 million for the year
+ended December 31, 2024 to RMB7.2 million for the year ended December 31, 2025. The
+decrease was primarily due to our implementation of refined management and cost control.
+
+Advertising and Promotion Expenses
+
+Our advertising and promotion expenses decreased by 69.6% from RMB12.5 million for the
+year ended December 31, 2024 to RMB3.8 million for the year ended December 31, 2025.
+The decrease is mainly due to the refined management of our online promotion.
+
+Secondary Listing Expenses
+
+For the year ended December 31, 2025, we did not have any secondary listing expenses (for
+the year ended December 31, 2024: RMB13.3 million).
+
+
+
+
+                                           – 11 –
+Other Expenses
+
+Our other expenses decreased by 13.6% from RMB70.4 million for the year ended
+December 31, 2024 to RMB60.8 million for the year ended December 31, 2025 mainly
+due to the corresponding decrease in our daily operation and maintenance expenses as the
+number of self-operated bars decreased.
+
+Impairment Losses of Plant and Equipment and Right-of-Use Assets
+
+Our impairment losses of plant and equipment and right-of-use assets decreased from
+RMB85.8 million for the year ended December 31, 2024 to RMB4.9 million for the year
+ended December 31, 2025.
+
+Valuation methods and key inputs used in the valuation
+
+As a result of the downturn of the overall domestic real estate market in the PRC, the
+management of the Group identified impairment indicators on the Group’s headquarter
+building with portion held for own use under “property, plant and equipment” and the leased
+out portion under “investment properties” (together as the “Properties”) and therefore
+conducted impairment assessment.
+
+The recoverable amount of the Properties is determined with reference to the fair value less
+cost of disposal, which is higher than the value-in-use. When assessing the fair value of the
+Properties, the Group has engaged an independent professional valuer to perform a valuation
+(the “Valuation”) which has incorporated valuation methods and key inputs as set out
+below:
+
+•    According to the valuation report of the independent professional valuer, the market
+     approach is adopted for the Valuation. The market approach is a method that, based
+     on the principle of substitution, compares and analyses the target properties with
+     the transaction examples of similar properties in the period close to the valuation
+     base date. According to the transaction prices of the latter, by making adjustments
+     for the differences between the Properties and the comparable property in terms of
+     transaction conditions, dates, regions and individual factors, etc., the market value of
+     the Properties is derived.
+
+•    The Valuation refers to the comparable sales transactions with similar characteristics
+     and located in the same local area as the Properties. The unit prices of these
+     comparable transactions range from approximately RMB10,000 to RMB10,426 per
+     square meter, and adjustments and analysis have been considered for various factors
+     including but not limited to the differences in locations between the comparable and
+     the properties to arrive at the fair value for the properties.
+
+
+
+                                           – 12 –
+•    In addition to the above specific analysis and adjustments, the Valuation also adopted
+     general assumptions including but not limited to:
+
+     •    The seller sells the target properties’ interest at market value without benefiting
+          from any deferred term contracts, leaseback agreements, joint ventures,
+          management agreements, or any similar arrangements that could affect the values
+          of the property interests;
+
+     •    No allowance has been made in the valuation for any charges, mortgages liens or
+          liabilities and any possible expenses or taxation that may be incurred at the time
+          of sale. Unless otherwise stated, the target properties’ interests are not subject to
+          any burdens, restrictions, or encumbrances that could affect their value; and
+
+     •    The properties can be freely and independently traded in the market without the
+          need to pay land transfer payment or any other fees or charges.
+
+Based on the results of the impairment assessment conducted by the Group, the carrying
+amount of these properties exceeded their recoverable amount and therefore impairment
+of RMBnil and RMBnil (for the year ended December 31, 2024: RMB50,015,000 and
+RMB9,466,000) were recognised for the Properties under “property plant and equipment”
+and “investment properties”, respectively, in the Group’s consolidated statement of
+comprehensive income for the year ended 31 December 2025.
+
+For details, please refer to note 12 to the consolidated financial statements of this
+announcement.
+
+Impairment Losses of Investment Properties
+
+For the year ended December 31, 2025, our impairment loss of investment properties
+amounted to RMBnil (for the year ended December 31, 2024: RMB9.5 million).
+
+As explained above, the Group engaged an independent professional valuer to value the
+investment properties. The valuation methods adopted, the key inputs used in the valuation,
+as well as the valuation basis and assumptions are consistent with those for the above-
+mentioned plant and equipment.
+
+
+
+
+                                            – 13 –
+Net Impairment Losses of Trade Receivables
+
+For the year ended December 31, 2025, our net impairment losses of trade receivables
+amounted to RMB51 thousands (for the year ended December 31, 2024: RMB16.7 million).
+This was primarily due to the shutdown of several franchised bars resulted from the
+optimization and adjustment of the bar network.
+
+Other gains/(losses), net
+
+For the year ended December 31, 2025, we incurred net other gains of RMB0.1 million
+which primarily comprised (i) gains on optimization and adjustment of our bars of RMB12.7
+million (including loss on disposal of plant and equipment (approximately RMB0.5 million),
+loss on rental deposits (approximately RMB0.3 million), penalties and compensation for
+early termination of leases (approximately RMB0.6 million), and gains on termination
+of leases (approximately RMB14.0 million)); and (ii) exchange loss of RMB23.4 million
+mainly due to appreciation of USD and/or HKD denominated assets; and (iii) fair value
+changes of financial assets at fair value through profit or loss (approximately RMB10.8
+million).
+
+Finance Income
+
+Our finance income decreased by 54.8% from RMB48.4 million for the year ended
+December 31, 2024 to RMB21.9 million for the year ended December 31, 2025. The
+decrease was primarily due to the decrease in amount of bank deposits.
+
+Finance Costs
+
+Our finance expenses decreased by 33.9% from RMB11.2 million for the year ended
+December 31, 2024 to RMB7.4 million for the year ended December 31, 2025. The decrease
+in financial costs was mainly attributable to lease liabilities decline with a decrease in the
+number of bars, resulting in a decrease in related interest.
+
+Profit/(Loss) Before Income Tax
+
+As a result of the foregoing, our profit before income tax was RMB37.8 million for the year
+ended December 31, 2025, and the loss before income tax was RMB76.6 million for the
+year ended December 31, 2024.
+
+Income Tax Expense
+
+The income tax expense was RMB1.4 million for the year ended December 31, 2024,
+compared with the income tax expense of RMB3.9 million for the year ended December 31,
+2025. This was mainly because temporary differences and deferred tax assets arising from
+tax losses for the year have not been fully recognized.
+                                            – 14 –
+Non-HKFRS Measures
+
+To supplement the comprehensive statement of profit or loss presented in accordance
+with HKFRS Accounting Standards, we also use adjusted net profit as a non-HKFRS
+measure, which is not required by, or presented in accordance with, HKFRSs. We believe
+that the presentation of such non-HKFRS measure when shown in conjunction with the
+corresponding HKFRS measures provides useful information to investors and management
+in facilitating a comparison of our operating performance from period to period by
+eliminating certain non-operating or non-recurring expenses that do not affect our ongoing
+operating performance (including secondary listing expenses, impairment loss of office
+properties, foreign exchange gains and losses and losses from bars optimization and
+adjustment). Such non-HKFRS measures allow investors to consider metrics used by our
+management in evaluating our performance. We believe that secondary listing expenses,
+impairment loss of office properties, foreign exchange gains and losses and losses from
+bars optimization and adjustment are non-operating or non-recurring expenses and incomes
+that will not affect our ongoing operating performance. We believe that adjusted net profit
+provides investors with useful information in facilitating a comparison of our operating
+performance from period to period by eliminating potential impacts of secondary listing
+expenses, impairment loss of office properties, foreign exchange gains and losses and losses
+from bars optimization and adjustment.
+
+                                                                          For the year ended
+                                                                            December 31,
+                                                                             2025             2024
+                                                                          RMB in           RMB in
+                                                                        thousands        thousands
+
+Profit/(Loss) for the year                                                  33,954              (77,976)
+Add:
+  Secondary listing expenses                                                    —               13,287
+  Impairment loss of office properties                                          —               59,481
+  Losses from bars optimization and adjustment(1)                           10,338             105,763
+  Exchange loss/(gain)                                                      23,394             (35,171)
+
+Adjusted net profit                                                         67,686               65,384
+
+Note 1: The losses from bars optimization and adjustment comprise impairment losses of plant and
+        equipment and right-of-use assets, net impairment losses of trade receivables from franchisees,
+        amortization of prepayment to franchisees, loss on disposal of plant and equipment, penalties and
+        compensation for early termination, loss on rental deposits and gain on termination of leases.
+
+
+
+
+                                                 – 15 –
+From time to time in the future, there may be other items that we may exclude from
+reviewing our financial results. The use of the non-HKFRS measures has limitations as an
+analytical tool, and shareholders of the Company and potential investors should not consider
+it in isolation from, or as a substitute for or superior to analysis of, our results of operations
+or financial condition as reported under HKFRS. In addition, the non-HKFRS financial
+measures may be defined differently from similar terms used by other companies and
+therefore may not be comparable to similar measures presented by other companies.
+
+Property, Plant and Equipment
+
+Our property, plant and equipment represent (i) building, (ii) office equipment such as
+printers, (iii) computer equipment, (iv) furniture and fixture used in bars such as tables and
+chairs and facilities in kitchens, (v) leasehold improvement and (vi) motor and vehicle. Our
+property, plant and equipment decreased from RMB217.9 million as of December 31, 2024
+to RMB159.9 million as of December 31, 2025. The decrease is mainly due to shutdown of
+certain bars and depreciation.
+
+Intangible Assets
+
+Our intangible assets mainly include office systems and software that we have purchased.
+Our intangible assets remained generally stable at RMB41,000 and RMB24,000 as of
+December 31, 2024 and December 31, 2025, respectively.
+
+Right-of-Use Assets
+
+Our right-of-use assets (i.e. our confirmed long-term leased properties) decreased from
+RMB95.7 million as of December 31, 2024 to RMB78.2 million as of December 31, 2025.
+The decrease is mainly due to the termination of certain self-operated bars’ lease contracts
+under the optimization and adjustment of the strategic transformation of the Company and
+depreciation.
+
+Investment Properties
+
+As of December 31, 2025, our investment properties amounted to RMB66.9 million (as
+of December 31, 2024: RMB33.0 million). This is primarily because several properties
+previously held for our own use have been leased to tenants under operating leases, with
+rent paid quarterly or semi-annually to obtain rental income. The change in the use of these
+properties led to their reclassification from “Property, Plant, and Equipment” to “Investment
+Properties.”
+
+Inventories
+
+Our inventories refer to the alcoholic drinks, food, and consumables used in our bar
+operations.
+                                              – 16 –
+The following table sets forth our inventory balance as of the dates indicated.
+
+                                                                   As at
+                                                         December 31,             December 31,
+                                                                 2025                    2024
+                                                             (RMB in                  (RMB in
+                                                           thousands)               thousands)
+
+Inventories
+Alcoholic drinks                                                 11,472                 16,359
+Food                                                              3,219                  3,095
+Consumables                                                         857                    668
+
+Total                                                            15,548                 20,122
+
+Our inventories decreased from RMB20.1 million as of December 31, 2024, to RMB15.5
+million as of December 31, 2025, basically remaining stable.
+
+Our inventory turnover days increased from 23.3 days as of December 31, 2024 to 29.2 days
+as of December 31, 2025, mainly due to the slowdown of inventory turnover efficiency.
+
+Prepayments, Deposits and Other Receivables
+
+Our prepayments, deposits and other receivables primarily include rental and other deposits,
+other tax receivable and other prepayments. The decrease in balance from approximately
+RMB99.2 million as of December 31, 2024 to approximately RMB63.0 million as
+of December 31, 2025 was mainly due to the Group’s strategic consideration of bars
+optimization and adjustment, resulting in the decrease in rental deposits.
+
+Trade Receivables
+
+Our trade receivables decreased by 7.7% from RMB28.4 million for the year ended
+December 31, 2024 to RMB26.2 million for the year ended December 31, 2025, mainly
+due to the structural changes in the revenue from franchise business. In 2025, our revenue
+from franchise business was mainly from the sales of products to “HiBeer Partnership”
+bars. Trade receivables corresponding to such revenue had a faster turnover, resulting in a
+decrease in the balance of trade receivables.
+
+
+
+
+                                            – 17 –
+Cash and Bank Balance
+
+Our cash and bank balance comprise cash and cash equivalents, term deposits with original
+maturity over three months and restricted cash. Our cash and bank balance were RMB806.4
+million and RMB588.9 million as of December 31, 2024 and December 31, 2025,
+respectively. The decrease was mainly due to the payment of dividends in 2025.
+
+Lease Liabilities
+
+We had lease liabilities of RMB145.4 million and RMB102.4 million as of December 31,
+2024 and December 31, 2025, respectively. The decrease in lease liabilities was due to the
+termination of certain self-operated bars’ lease contracts as a result of the Group’s strategic
+consideration of bars optimization and adjustment.
+
+Trade Payables
+
+Our trade payables mainly represent the expenses payable to our suppliers to purchase raw
+materials, equipment and other supplies that are necessary for our bar operations. Our trade
+payables decreased from RMB28.7 million as of December 31, 2024 to RMB21.8 million as
+of December 31, 2025. The decrease was primarily due to the decline in our revenue, which
+has subsequently led to a decrease in our purchases from suppliers.
+
+The turnover days of our trade payables increased from 34.3 days as of December 31, 2024
+to 45.3 days as of December 31, 2025, resulting from the improved management capacity of
+our suppliers.
+
+Other Payables and Accruals
+
+Our other payables and accruals increased from RMB12.6 million as of December 31, 2024
+to RMB19.3 million as of December 31, 2025. Such increase was mainly due to the increase
+in product procurement accompanied by an increase in other payables for logistics, labor
+services, and other related operations.
+
+Liquidity and Capital Resources
+
+We have adopted a prudent treasury management policy. We place a strong emphasis on
+having funds readily available and accessible and are in a stable liquidity position with
+sufficient funds in standby banking facilities to cope with daily operations and meet its
+future development demands for capital.
+
+
+
+
+                                            – 18 –
+During the Reporting Period, we mainly used cash generated from operating activities for
+our business. Our cash and bank balance were RMB806.4 million and RMB588.9 million
+as of December 31, 2024 and December 31, 2025, respectively. Our cash is mainly used to
+meet the needs of business operations.
+
+Going forward, we expect to continue to fund our operations with revenue generated from
+operations of our bars. However, with the continuing expansion of our business, we may
+require further funding through public or private equity offerings, debt financing and other
+sources. We will continue to evaluate potential financing opportunities based on our need
+for capital resources and market conditions.
+
+Indebtedness
+
+Bank borrowings
+
+As of December 31, 2025, we had bank borrowings of RMB40.0 million secured with
+guarantee (2024: nil).
+
+Contingent Liabilities
+
+As of December 31, 2025, we did not have any material contingent liabilities.
+
+Capital Commitments
+
+As of December 31, 2025, we did not have any capital commitments.
+
+Capital Expenditures
+
+Our capital expenditures were incurred primarily for opening new bars, acquiring
+equipment, refurnishing existing bars and purchasing furniture and equipment required
+for bar operations. Our total capital expenditures increased from RMB8.2 million as of
+December 31, 2024 to RMB15.9 million as of December 31, 2025. Such increase resulted
+from the active transformation of the Group towards a platform-based company with a light-
+asset model.
+
+Gearing Ratio
+
+As of December 31, 2025, our gearing ratio was 4.6% (as of December 31, 2024: nil).
+The gearing ratio is calculated as total debt (including interest-bearing bank and other
+borrowings) divided by total equity at the end of the year, then multiplied by 100%.
+
+
+
+
+                                           – 19 –
+Foreign Exchange Risk
+
+For the year ended December 31, 2025, we mainly operated in China. We are exposed
+to foreign exchange risk primarily because the proceeds from the Global Offering are
+denominated in Hong Kong dollars and certain bank deposits denominated in US dollars.
+
+During the Reporting Period, the Group had not engaged in any foreign exchange hedging
+related activity. However, our management monitors foreign exchange exposure and will
+consider appropriate hedging measures should the need arise in the future.
+
+Pledge and Charge of Assets
+
+As of December 31, 2025, the Group did not pledge any group assets and no charge was
+created on the Group’s assets.
+
+Significant Investment, Material Acquisition and Disposal
+
+For the year ended December 31, 2025, the Group did not have any significant investments,
+material acquisitions or disposals of subsidiaries, associates and joint ventures. In addition,
+except for the expansion plan disclosed in sections headed “Business” and “Future Plans and
+Use of Proceeds” in the Prospectus, the Group did not have any specific plans for significant
+investments or acquisition of material capital assets or other businesses. The Group,
+however, will continue to identify new business development opportunities.
+
+Employees and Remuneration Policies
+
+As of December 31, 2025, we had 559 employees and 796 outsourced personnel, most of
+whom were based in China. We offer competitive wages and other benefits to the employees
+and provide discretionary performance bonus as a further incentive. For more details, please
+refer to the sections headed “Pre-IPO RSU Schemes” and “Post-IPO RSU Scheme” in the
+Report of the Directors of the annual report of the Company which will be published in due
+course. We have also improved career development pathways and talent training systems for
+employees to facilitate their self-growth. The Group’s remuneration policies are formulated
+based on the performance of individual employees and are reviewed regularly.
+
+During the year ended December 31, 2025, the total employee benefit (including directors’
+remuneration) and manpower service expenses were RMB113.1 million.
+
+The Group has arranged for its Hong Kong employees to join the Mandatory Provident
+Fund Scheme, a defined contribution scheme managed by an independent trustee. As
+stipulated under the relevant rules and regulations in the PRC, the subsidiaries operating
+
+
+
+
+                                            – 20 –
+in the PRC contribute to state-sponsored retirement plans contributions and the applicable
+housing provident funds and various social insurance plans for employees initiated by local
+and provincial governments. The Group and the PRC-based employees are required to make
+monthly contributions to these plans calculated as a specific percentage of the employees’
+salaries. There was no forfeited contribution utilized to offset employers’ contributions and
+there was no forfeited contribution available to reduce the contribution for the years ended
+December 31, 2024 and 2025.
+
+KEY RISKS AND UNCERTAINTIES
+
+There are certain key risks and uncertainties that may cause the Group’s financial conditions
+or results to materially deviate from the expected or historical results, such risks and
+uncertainties can be categorized into the following areas: (i) risks related to our business;
+and (ii) risks related to our industry. Set out below are the details of the material risks and
+uncertainties that we face:
+
+Risks Related to our Business
+
+The sales and profitability of our Helen’s branded products are affected by many factors,
+many of which are out of our control, such as market trends and customer tastes, preferences
+and perceptions. Therefore, in the event of any unfavourable trends in the sales or the
+profitability of our Helen’s branded products, our business operations, financial performance
+and future growth could be harmed. Moreover, counterfeit brands or products of Helen’s
+and the quality issues of food and alcoholic drinks brought by customers may significantly
+damage our reputation and brand image, diverting potential customers.
+
+With a view to mitigating the risks related to our business, the Company is committed to
+meeting the needs of our guests and adapting to changes in consumer tastes and preferences
+by continuously launching new products. Furthermore, the Group protects the proprietary
+recipes for the Helen’s branded alcoholic drinks by confidentiality agreements between the
+Group and its employees and confidentiality provisions in relevant supply agreements with
+the relevant suppliers. The Group also installs security cameras in the bars to provide full
+visibility which allows the staff to closely monitor the customers and food and beverages
+brought into the bars by customers. In addition, staff are trained to observe customers for
+any signs of discomfort or distress.
+
+
+
+
+                                            – 21 –
+Risks Related to our Industry
+
+We are exposed to the risks relating to foodborne diseases, sanitary epidemics and other
+outbreak of illnesses. Our businesses may be affected by outbreaks of foodborne diseases,
+epidemics and other illnesses. We cannot guarantee that our internal controls and training
+can fully and effectively prevent all food infectious diseases. In addition, our reliance on
+third-party brand alcoholic drinks suppliers and distributors increases the uncontrollable
+risks of food infectious disease events that may be caused by third-party brand alcoholic
+drinks suppliers and distributors, and the risks happening in bars in multiple locations
+instead of a single bar. Drug resistant diseases or diseases with a longer incubation period
+(such as mad cow disease) may occur in the future, which may further increase the risks
+that we are exposed to. If there is wide media coverage on foodborne diseases, it may have
+a negative impact on the entire industry and our businesses, regardless of whether we are
+liable to the spread of diseases. In addition, other diseases (such as hand-foot-mouth disease
+or avian flu) may adversely affect some of our food supplies and significantly increase our
+costs, thereby affecting the sales of our bars and forcing the closure of some of our bars, and
+this may have a material adverse impact on our results of operation.
+
+We are also exposed to the risks associated with epidemics. The outbreak of the COVID-19
+had caused varying degrees of damage to China’s national and local economies. It also had
+caused adverse impact on our financial position and business operations. If the COVID-19
+pandemic is repeated, it may have material adverse impact on our business, financial
+position and results of operation.
+
+In order to mitigate the risks related to our industry, the Group has always adhered to food
+safety and quality assurance, by establishing and improving food safety risk assessment and
+control mechanisms, strictly select suppliers and choose only high-quality suppliers in the
+industry.
+
+However, the above is not an exhaustive list. Investors are advised to make their own
+judgment or consult their own investment advisors before making any investment in the
+Shares.
+
+
+
+
+                                            – 22 –
+FINANCIAL INFORMATION
+The Board announces the audited consolidated results of the Group for the year ended
+December 31, 2025, with comparative figures for the year ended December 31, 2024, as
+follows:
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 DECEMBER 2025
+
+                                                               Year ended 31 December
+                                                       Note           2025          2024
+                                                                RMB’000        RMB’000
+Revenue                                                  3        539,009        752,206
+Other income                                             5           1,534           970
+Raw materials and consumables used                               (222,829)      (316,344)
+Employee benefit and manpower service expenses          7        (113,129)      (173,748)
+Depreciation of right-of-use assets                     16        (36,097)       (60,786)
+Depreciation of property, plant and equipment           12        (32,873)       (63,551)
+Depreciation of investment properties                   13          (3,267)       (1,876)
+Amortisation of intangible assets                                      (17)          (17)
+Short-term rental and other related expenses                      (20,381)       (23,320)
+Utilities expenses                                                (11,900)       (19,436)
+Travelling and related expenses                                     (7,223)       (8,350)
+Advertising and promotion expenses                                  (3,805)      (12,485)
+Listing expenses                                                        —        (13,287)
+Other expenses                                           4        (60,778)       (70,396)
+Impairment losses of plant and equipment and
+  right-of-use assets                                  12&16       (4,949)       (85,786)
+Impairment losses of investment properties                             —          (9,466)
+Net impairment losses of trade receivables                            (51)       (16,707)
+Other gains, net                                         6            118          8,639
+Finance income                                           8         21,876         48,364
+Finance costs                                            8         (7,434)       (11,191)
+Profit/(Loss) before income tax                                    37,804        (76,567)
+Income tax expense                                       9         (3,850)        (1,409)
+Profit/(Loss) for the year attributable to owners
+  of the Company                                                   33,954        (77,976)
+Other comprehensive income:
+Item that may be subsequently reclassified to profit
+   or loss
+Currency translation differences                                   15,167        (31,535)
+Total comprehensive income/(loss) for the year
+ attributable to owners of the Company                             49,121       (109,511)
+Profit/(Loss) per share for profit/(loss)
+  attributable to owners of the Company
+  (expressed in RMB per share)
+Basic                                                   10          0.027         (0.062)
+Diluted                                                 10          0.027         (0.062)
+
+
+                                            – 23 –
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+FOR THE YEAR ENDED 31 DECEMBER 2025
+
+                                                                As at 31 December
+                                                        Note       2025           2024
+                                                               RMB’000        RMB’000
+
+Assets
+Non-current assets
+Property, plant and equipment                           12      159,882       217,911
+Intangible assets                                                    24            41
+Right-of-use assets                                     16       78,169        95,676
+Investment properties                                   13       66,867        33,001
+Deposits and prepayments                                14       19,782        37,988
+Deferred tax assets                                              71,305        75,155
+
+                                                                396,029       459,772
+
+Current assets
+Inventories                                                      15,548         20,122
+Prepayments, deposits and other receivables             14       43,166         61,250
+Trade receivables                                       15       26,239         28,407
+Financial assets at fair value through profit or loss            55,824             —
+Term deposits with original maturity over three
+  months                                                        443,832       671,832
+Cash and cash equivalents                                       143,481       131,802
+Restricted cash                                                   1,603         2,790
+
+                                                                729,693       916,203
+
+Total assets                                                   1,125,722     1,375,975
+
+Equity
+Equity attributable to owners of the Company
+Share capital                                                         1              1
+Reserves                                                        874,664      1,118,790
+
+Total equity                                                    874,665      1,118,791
+
+
+
+
+                                              – 24 –
+                                                  As at 31 December
+                                          Note       2025           2024
+                                                 RMB’000        RMB’000
+
+Liabilities
+Non-current liability
+Contract liabilities                               14,417         21,218
+Other payables                                     21,367         18,048
+Lease liabilities                         16       60,220         93,847
+
+                                                   96,004       133,113
+
+Current liabilities
+Trade payables                            18       21,750         28,744
+Contract liabilities                               14,386         13,470
+Other payables and accruals                        19,288         12,648
+Borrowings                                17       40,000             —
+Lease liabilities                                  42,182         51,585
+Current income tax liabilities                     17,447         17,624
+
+                                                  155,053       124,071
+
+Total liabilities                                 251,057       257,184
+
+Total equity and liabilities                     1,125,722     1,375,975
+
+
+
+
+                                 – 25 –
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+1   General information
+
+    The Company was incorporated in the Cayman Islands on 16 January 2018 as an
+    exempted company with limited liability under the Companies Act (Cap. 22, Law 3 of
+    1961 as consolidated and revised) of the Cayman Islands. The address of its registered
+    office is Palm Grove Unit 4, 265 Smith Road, George Town, P.O. Box 52A Edgewater
+    Way, #1653, Grand Cayman KY1-9006, Cayman Islands. The Company’s shares have
+    been listed on the Main Board of the Stock Exchange of Hong Kong Limited (the
+    “Listing”) on 10 September 2021 (the “Listing Date”), and have been successfully
+    listed its ordinary shares on the Singapore Exchange Securities Trading Limited on 19
+    July 2024.
+
+    The Company is an investment holding company and its subsidiaries comprising the
+    Group principally engage in bar operations and franchise business primarily in Chinese
+    Mainland and Hong Kong. The ultimate controlling shareholder is Mr. Xu Bingzhong
+    (“Mr. Xu” or the “Controlling Shareholder”) who has been controlling the group
+    companies since their incorporation.
+
+    The financial statements are presented in Renminbi (“RMB”), unless otherwise stated,
+    and have been approved for issue by the Company’s board of directors (the “Board”)
+    on 31 March 2026.
+
+2   Summary of accounting policies
+
+    The principal accounting policies applied in the preparation of the consolidated
+    financial statements are set out below. These policies have been consistently applied to
+    all the periods presented, unless otherwise stated.
+
+    2.1 Basis of preparation
+
+         The consolidated financial statements have been prepared in accordance with
+         HKFRS Accounting Standards as issued by the HKICPA and the disclosure
+         requirements of the Hong Kong Companies Ordinance Cap. 622.
+
+         HKFRS Accounting Standards comprise the following authoritative literature:
+
+         •    Hong Kong Financial Reporting Standards,
+
+         •    Hong Kong Accounting Standards, and
+
+         •    Interpretations developed by the Hong Kong Institute of Certified Public
+              Accountants.
+                                          – 26 –
+The preparation of the consolidated financial statements in conformity with
+HKFRS requires the use of certain critical accounting estimates. It also requires
+the directors of the Company to exercise judgement in the process of applying the
+Group’s accounting policies. The areas involving a higher degree of judgement
+or complexity, or areas where assumptions and estimates are significant to the
+consolidated financial statements.
+
+New or revised standards, amendments and interpretations not yet adopted
+
+Standards, amendments and interpretations that have been issued but not yet
+effective and not been early adopted by the Group during the year ended 31
+December 2025 are as follows:
+
+                                                                             Effective for annual periods
+                                                                                    beginning on or after
+
+HKFRS 9 and         Amendments to the Classification and Measurement of                   1 January 2026
+  HKFRS 7             Financial Instruments (amendments)
+HKFRS 1, HKFRS 7,   Annual Improvements to HKFRS Accounting Standards —                   1 January 2026
+  HKFRS 9, HKFRS      Volume 11
+  10 and HKAS 7
+HKFRS 9 and         Amendments to the Contracts Referencing Nature-dependent              1 January 2026
+  HKFRS 7              Electricity (amendments)
+HKFRS 18            Presentation and Disclosure in Financial Statements (new              1 January 2027
+                       standard)
+HKFRS 19            Subsidiaries without Public Accountability: Disclosures               1 January 2027
+                       (new standard)
+HKFRS 19            Amendments to HKFRS 19 Subsidiaries without Public                    1 January 2027
+                       Accountability: Disclosures
+HK Int 5            Hong Kong Interpretation 5 Presentation of Financial                  1 January 2027
+                       Statements — Classification by the Borrower of a Term
+                       Loan that Contains a Repayment on Demand Clause
+                       (amendments)
+HKFRS 10 and        Sale or Contribution of Assets between an Investor and its          To be determined
+  HKAS 28              Associate or Joint Venture (amendments)
+
+Except for new HKFRS 18 mentioned below, the Group will adopt the above
+new or revised standards, amendments and interpretations to existing standards
+as and when they become effective. Management has performed a preliminary
+assessment and does not anticipate any significant impact on the Group’s
+financial position and results of operations upon adopting these standards,
+amendments and interpretations to the existing HKFRSs.
+
+
+
+                                         – 27 –
+         HKFRS 18 “Presentation and Disclosure in Financial Statements”
+
+         HKFRS 18 sets out requirements on presentation and disclosures in financial
+         statements and it will replace HKAS 1 Presentation of Financial Statements.
+         The new standard introduces new requirements to present specified categories
+         and defined subtotals in the statement of profit or loss; provide disclosures
+         on management-defined performance measures in the notes to the financial
+         statements and improve aggregation and disaggregation of information to be
+         disclosed in the financial statements. Minor amendments to HKAS 7 Statement
+         of Cash Flows are also made. HKFRS 18 will be effective for annual periods
+         beginning on or after 1 January 2027, with early application permitted. The
+         Group does not plan to early adopt HKFRS 18. HKFRS 18 will impact the
+         presentation of financial statements, and is not expected to have significant
+         impact on the financial performance and position of the Group.
+
+3   Revenue and segment information
+
+    The Company is an investment holding company and its subsidiaries now comprising
+    the Group are principally engaged in bar operations and franchise business.
+
+    The chief operating decision-maker (“CODM”) has been identified as the directors of
+    the Company. The directors review the Group’s internal reporting in order to assess
+    performance and allocate resources. The directors have determined the operating
+    segment based on these reports.
+
+    The directors consider the Group’s operation from a business perspective and
+    determine that the Group is managed as one single reportable operating segment.
+
+    During the years ended 31 December 2025 and 2024, all of the Group’s revenues are
+    from contracts with customers.
+
+
+
+
+                                        – 28 –
+(a)   Disaggregation of revenue
+
+      Disaggregation of revenue from contracts with customers by major service lines
+      and timing of revenue recognition is as follows:
+
+                                                          Year ended 31 December
+                                                                 2025         2024
+                                                            RMB’000        RMB’000
+
+      Revenue from self-operated bars                        355,682        557,513
+
+      Revenue from sales of goods to franchisees             182,232        184,626
+
+      Revenue from provision of franchising services to
+        franchisees:
+        Franchising services — gross                          19,183         36,820
+      Less: amortization of prepayment to franchisees
+             as a reduction of service fees charged to
+             franchisees                                      (18,088)      (26,753)
+
+      Franchising services — net                               1,095         10,067
+
+                                                             539,009        752,206
+
+      Disaggregated by timing of revenue recognition:
+
+        — Point in time                                      537,914        742,139
+        — Over time                                            1,095         10,067
+
+                                                             539,009        752,206
+
+      No customers contributed over 10% of the total revenue of the Group for the
+      years ended 31 December 2025 and 2024.
+
+
+
+
+                                        – 29 –
+(b)   Segment revenue by customers’ geographical location
+
+      The Group’s revenue by geographical location, which is determined by the
+      operation’s locations, is as follows:
+
+                                                          Year ended 31 December
+                                                                 2025         2024
+                                                            RMB’000        RMB’000
+
+      Chinese Mainland                                         510,893         731,954
+      Outside of Chinese Mainland                               28,116          20,252
+
+                                                               539,009         752,206
+
+(c)   Non-current assets by geographical location
+
+      As at 31 December 2025 and 2024, most of the Group’s non-current assets (other
+      than deposits and prepayments, intangible assets and deferred tax assets) were
+      located in the Chinese Mainland.
+
+                                                          Year ended 31 December
+                                                                 2025         2024
+                                                            RMB’000        RMB’000
+
+      Chinese Mainland                                         281,350         329,454
+      Outside of Chinese Mainland                               23,568          17,134
+
+                                                               304,918         346,588
+
+(d)   Liabilities related to contracts with customers
+
+                                                         31 December      31 December
+                                                                2025             2024
+                                                            RMB’000          RMB’000
+
+      Contract liabilities                                      28,803           34,688
+
+      Contract liabilities of the Group represent non-refundable initial fees received
+      from franchisees which are recognised as revenue on a straight-line basis over the
+      expected franchise period.
+
+
+
+
+                                       – 30 –
+

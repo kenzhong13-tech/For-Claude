@@ -1,0 +1,2701 @@
+
+
+EX-99.2
+
+5
+
+d68941dex992.htm
+
+EX-99.2
+
+EX-99.2
+
+Exhibit 99.2 
+
+INDEX TO FINANCIAL INFORMATION 
+
+Page Reference
+
+Consolidated Financial Statements
+
+Report of Independent Registered Public Accounting Firm | 2
+
+Consolidated Statements of Income for the six months ended June 30, 2020 and 2019 | 4
+
+Consolidated Statements of Comprehensive Income for the six months ended June 30, 2020 and
+2019 | 5
+
+Consolidated Balance Sheets as of June 30, 2020 and December 31, 2019 | 6
+
+Consolidated Statements of Equity for the six months ended June 30, 2020 and 2019 | 7
+
+Consolidated Statements of Cash Flows for the six months ended June 30, 2020 and
+2019 | 9
+
+Notes to Consolidated Financial Statements | 10
+
+- 1 - 
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Stockholders and Board of Directors 
+
+Yum China Holdings,
+Inc.: 
+
+Opinion on the 
+Consolidated
+ Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Yum China Holdings, Inc. and subsidiaries (the “Company”) as of June 30, 2020
+and December 31, 2019, the related consolidated statements of income, comprehensive income, equity, and cash flows for the six months ended June 30, 2020, and the related notes (collectively, the “consolidated financial
+statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of June 30, 2020 and December 31, 2019, and the results of its operations and its
+cash flows for the six months ended June 30, 2020, in conformity with U.S. generally accepted accounting principles. 
+
+The accompanying consolidated
+statements of income, comprehensive income, equity, and cash flows for the six months ended June 30, 2019, and the related notes, were not audited by us and, accordingly, we do not express an opinion on them. 
+
+Basis for Opinion 
+
+These consolidated financial
+statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company
+Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange
+Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the
+audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the
+consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated
+financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our
+audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments.
+The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the
+critical audit matters or on the accounts or disclosures to which they relate. 
+
+Assessment of impairment of long-lived assets of restaurants 
+
+As discussed in Notes 2, 7 and 11 to the consolidated financial statements, property, plant and equipment, net and operating lease 
+right-of-use
+ assets were US$1,504 million and US$1,886 million, respectively, as of June 30, 2020, which included the long-lived assets of the Company’s
+restaurants. For restaurant assets with an indicator that the carrying value may not be recoverable, the Company evaluates recoverability of these assets by comparing the forecasted undiscounted cash flows of the restaurant’s operations to the
+carrying value of such assets. For restaurant assets that are not deemed to be recoverable, the Company estimates the fair value of the restaurant assets based on the higher of the forecasted discounted cash flows of the restaurant’s operations
+and the price market participants would pay to 
+sub-lease
+ the operating lease 
+right-of-use
+ assets and acquire the remaining
+restaurant assets. 
+
+- 2 - 
+
+We identified the assessment of impairment of long-lived assets of restaurants as a critical audit matter
+because a high degree of subjective auditor judgment was required in assessing the sales growth rates used to estimate the forecasted undiscounted cash flows of the restaurants’ operations. In addition, specialized skills and knowledge were
+required to assess the Company’s market rental assumptions to estimate the fair values of the operating lease right-of-use assets. 
+
+The primary
+procedures we performed to address this critical audit matter included the following. We evaluated the design and tested the operating effectiveness of certain internal controls related to the critical audit matter. This included controls related to
+the determination of the significant assumptions of sales growth rates and market rental. To evaluate the sales growth rates, we compared the sales growth rates of a sample of restaurants to the historical sales growth rates and the Company’s
+operation plans of restaurants. We performed sensitivity analyses over the sales growth rates of a sample of restaurants to assess their impact on the restaurants’ forecasted undiscounted cash flows. We involved valuation professionals with
+specialized skills and knowledge, who assisted in: 
+
+• | Evaluating the market rental of a sample of restaurants, by comparing the market rental to a market rental range
+that was independently developed using external data; and
+
+• | Developing independent estimates of the fair values of the operating lease right-of-use assets of a sample of
+restaurants and comparing the results of our estimates to the Company’s estimates, based on the price the market participants would pay to sub-lease the right-of-use assets.
+
+Evaluation of uncertain tax position 
+
+As discussed in
+Notes 2 and 16 to the consolidated financial statements, the Company recognizes the benefit of positions taken or expected to be taken in tax returns in the financial statements when it is more likely than not (more than a 50% likelihood) that the
+position would be sustained upon examination by tax authorities. The Company is currently under a national audit on transfer pricing by the Chinese State Taxation Administration (“STA”) regarding certain related party transactions for the
+period from 2006 to 2015. 
+
+We identified the evaluation of the Company’s uncertain tax position pertaining to the transfer pricing used in the
+related party transactions under audit by the STA as a critical audit matter. Specifically, a high degree of subjective auditor judgment and specialized skills and knowledge were required in evaluating the Company’s interpretation of the
+applicable tax laws and regulations and its assessment of the uncertain tax position. 
+
+The primary procedures we performed to address this critical audit
+matter included the following. We evaluated the design and tested the operating effectiveness of the control related to the assessment of the uncertain tax position. Since tax law is complex and often subject to interpretation, we involved tax
+professionals with specialized skills and knowledge, who assisted in: 
+
+• | Reading the correspondence received by the Company from the tax authorities in connection with the transfer
+pricing audit by the STA, as well as responses and information the Company submitted to the tax authorities;
+
+• | Evaluating the Company’s identification and consideration of information that could significantly affect the
+recognition, measurement or disclosure of the uncertain tax position; and
+
+• | Evaluating the Company’s interpretation of applicable tax laws and regulations, technical analysis and the
+application of the accounting standards in assessing the potential impact from the uncertain tax position.
+
+/s/ KPMG Huazhen LLP 
+
+We have served as the Company’s auditor since 2016. 
+
+Shanghai, China 
+
+August 28, 2020 
+
+- 3 - 
+
+Consolidated Statements of Income 
+
+Yum China Holdings,
+Inc. 
+
+Six months ended June 30, 2020 and 2019 
+
+(in US$
+millions, except per share data) 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(Unaudited)
+
+Revenues
+
+Company sales | $ | 3,240 | $ | 4,015
+
+Franchise fees and income | 72 | 75
+
+Revenues from transactions with franchisees and unconsolidated affiliates | 318 | 324
+
+Other revenues | 26 | 14
+
+Total revenues | 3,656 | 4,428
+
+Costs and Expenses, Net
+
+Company restaurants
+
+Food and paper | 1,051 | 1,245
+
+Payroll and employee benefits | 778 | 916
+
+Occupancy and other operating expenses | 1,015 | 1,185
+
+Company restaurant expenses | 2,844 | 3,346
+
+General and administrative expenses | 212 | 223
+
+Franchise expenses | 33 | 36
+
+Expenses for transactions with franchisees and unconsolidated affiliates | 316 | 321
+
+Other operating costs and expenses | 23 | 11
+
+Closures and impairment expenses, net | 29 | 15
+
+Other income, net | (26 | ) | (31 | )
+
+Total costs and expenses, net | 3,431 | 3,921
+
+Operating Profit | 225 | 507
+
+Interest income, net | 17 | 19
+
+Investment gain | 37 | 27
+
+Income Before Income Taxes | 279 | 553
+
+Income tax provision | (77 | ) | (139 | )
+
+Net income — including noncontrolling interests | 202 | 414
+
+Net income — noncontrolling interests | 8 | 14
+
+Net Income — Yum China Holdings, Inc. | $ | 194 | $ | 400
+
+Weighted-average common shares outstanding (in millions):
+
+Basic | 376 | 378
+
+Diluted | 387 | 389
+
+Basic Earnings Per Common Share | $ | 0.51 | $ | 1.06
+
+Diluted Earnings Per Common Share | $ | 0.50 | $ | 1.03
+
+See accompanying Notes to the Consolidated Financial Statements. 
+
+- 4 - 
+
+Consolidated Statements of Comprehensive Income 
+
+Yum China
+Holdings, Inc. 
+
+Six months ended June 30, 2020 and 2019 
+
+(in US$ millions) 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(Unaudited)
+
+Net income — including noncontrolling interests | $ | 202 | $ | 414
+
+Other comprehensive (loss) income, net of tax of nil Foreign currency (loss) gain arising during the period | (35 | ) | 1
+
+Comprehensive income — including noncontrolling interests | 167 | 415
+
+Comprehensive income — noncontrolling interests | 6 | 15
+
+Comprehensive Income — Yum China Holdings, Inc. | $ | 161 | $ | 400
+
+See accompanying Notes to the Consolidated Financial Statements. 
+
+- 5 - 
+
+Consolidated Balance Sheets 
+
+Yum China Holdings, Inc. 
+
+June 30, 2020 and December 31, 2019 
+
+(in US$ millions)
+
+As of June 30, | As of December 31
+
+2020 | 2019
+
+ASSETS
+
+Current Assets
+
+Cash and cash equivalents | $ | 674 | $ | 1,046
+
+Short-term investments | 1,034 | 611
+
+Accounts receivable, net | 83 | 88
+
+Inventories, net | 346 | 380
+
+Prepaid expenses and other current assets | 166 | 134
+
+Total Current Assets | $ | 2,303 | $ | 2,259
+
+Property, plant and equipment, net | 1,504 | 1,594
+
+Operating lease right-of-use assets | 1,886 | 1,985
+
+Goodwill | 309 | 254
+
+Intangible assets, net | 183 | 94
+
+Deferred income taxes | 99 | 95
+
+Investments in unconsolidated affiliates | 68 | 89
+
+Other assets | 611 | 580
+
+Total Assets | $ | 6,963 | $ | 6,950
+
+LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST AND EQUITY
+
+Current Liabilities
+
+Accounts payable and other current liabilities | $ | 1,660 | $ | 1,691
+
+Income taxes payable | 63 | 45
+
+Total Current Liabilities | 1,723 | 1,736
+
+Non-current operating lease liabilities | 1,677 | 1,803
+
+Non-current finance lease obligations | 24 | 26
+
+Other liabilities | 252 | 210
+
+Total Liabilities | 3,676 | 3,775
+
+Redeemable Noncontrolling Interest | 12 | –
+
+Equity
+
+Common stock, $0.01 par value; 1,000 million shares authorized; 397 million shares and
+395 million shares issued at June 30, 2020 and December 31, 2019, respectively; 377 million shares and 376 million shares outstanding at June 30, 2020 and December 31, 2019, respectively | 4 | 4
+
+Treasury stock | (728 | ) | (721 | )
+
+Additional paid-in capital | 2,444 | 2,427
+
+Retained earnings | 1,565 | 1,416
+
+Accumulated other comprehensive loss | (82 | ) | (49 | )
+
+Total Yum China Holdings, Inc. Stockholders’ Equity | 3,203 | 3,077
+
+Noncontrolling interests | 72 | 98
+
+Total Equity | 3,275 | 3,175
+
+Total Liabilities, Redeemable Noncontrolling Interest and Equity | $ | 6,963 | $ | 6,950
+
+See accompanying Notes to the Consolidated Financial Statements. 
+
+- 6 - 
+
+Consolidated Statements of Equity 
+
+Yum China Holdings,
+Inc. 
+
+Six months ended June 30, 2020 
+
+(in US$ millions)
+
+Yum China Holdings, Inc. | Noncontrolling Interests | Total Equity | Redeemable Noncontrolling Interest
+
+Common Stock | Additional Paid-in Capital | Retained Earnings | Accumulated Other Comprehensive Income Loss | Treasury Stock
+
+Shares* | Amount | Shares* | Amount
+
+Balance at December 31, 2019 | 395 | $ | 4 | $ | 2,427 | $ | 1,416 | $ | (49 | ) | (19 | ) | $ | (721 | ) | $ | 98 | $ | 3,175 | $ | –
+
+Net Income | 194 | 8 | 202 | –
+
+Foreign currency translation adjustment | (33 | ) | (2 | ) | (35 | ) | –
+
+Comprehensive income | 167 | –
+
+Acquisition of business | – | 12
+
+Dividends declared | (32 | ) | (32 | )
+
+Cash dividends declared ($0.12 per common share) | (45 | ) | (45 | )
+
+Repurchase of shares of common stock | – | (7 | ) | (7 | )
+
+Exercise and vesting of share-based awards | 2 | – | – | –
+
+Share-based compensation | 17 | 17
+
+Balance at June 30, 2020 | 397 | $ | 4 | $ | 2,444 | $ | 1,565 | $ | (82 | ) | (20 | ) | $ | (728 | ) | $ | 72 | $ | 3,275 | $ | 12
+
+*: | Shares may not add due to rounding.
+
+See accompanying Notes to the Consolidated Financial Statements. 
+
+- 7 - 
+
+Consolidated Statements of Equity (Continued) 
+
+Yum China
+Holdings, Inc. 
+
+Six months ended June 30, 2019 
+
+(in US$
+millions) 
+
+Yum China Holdings, Inc. | Noncontrolling Interests | Total Equity | Redeemable Noncontrolling Interest
+
+Common Stock | Additional Paid-in Capital | Retained Earnings | Accumulated Other Comprehensive Loss | Treasury Stock
+
+(Unaudited) | Shares | Amount | Shares | Amount
+
+Balance at December 31, 2018 | 392 | $ | 4 | $ | 2,402 | $ | 944 | $ | (17 | ) | (13 | ) | $ | (460 | ) | $ | 103 | $ | 2,976 | $ | 1
+
+Net Income | 400 | 14 | 414 | –
+
+Foreign currency translation adjustment | — | 1 | 1 | –
+
+Comprehensive income | 415 | –
+
+Dividends declared | (34 | ) | (34 | )
+
+Cash dividends declared ($0.24 per common share) | (91 | ) | (91 | )
+
+Repurchase of shares of common stock | (4 | ) | $ | (140 | ) | (140 | )
+
+Exercise and vesting of share-based awards | 2 | – | – | —
+
+Share-based compensation | 15 | 15
+
+Cumulative effect of accounting change | (60 | ) | (3 | ) | (63 | )
+
+Balance at June 30, 2019 | 394 | $ | 4 | $ | 2,417 | $ | 1,193 | $ | (17 | ) | (17 | ) | $ | (600 | ) | $ | 81 | $ | 3,078 | $ | 1
+
+See accompanying Notes to the Consolidated Financial Statements. 
+
+- 8 - 
+
+Consolidated Statements of Cash Flows 
+
+Yum China Holdings,
+Inc. 
+
+Six months ended June 30, 2020 and 2019 
+
+(in US$
+millions) 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(Unaudited)
+
+Cash Flows — Operating Activities
+
+Net income — including noncontrolling interests | $ | 202 | $ | 414
+
+Depreciation and amortization | 214 | 217
+
+Non-cash operating lease cost | 178 | 167
+
+Closures and impairment expenses | 29 | 15
+
+Investment gain | (37 | ) | (27 | )
+
+Equity income from investments in unconsolidated affiliates | (34 | ) | (37 | )
+
+Distributions of income received from unconsolidated affiliates | 25 | 38
+
+Deferred income taxes | 6 | 6
+
+Share-based compensation expense | 17 | 15
+
+Changes in accounts receivable | 6 | (5 | )
+
+Changes in inventories | 35 | (1 | )
+
+Changes in prepaid expenses and other current assets | 17 | —
+
+Changes in accounts payable and other current liabilities | (16 | ) | 70
+
+Changes in income taxes payable | 17 | 3
+
+Changes in non-current operating lease
+liabilities | (194 | ) | (188 | )
+
+Other, net | (13 | ) | (30 | )
+
+Net Cash Provided by Operating Activities | 452 | 657
+
+Cash Flows — Investing Activities
+
+Capital spending | (185 | ) | (212 | )
+
+Purchases of short-term investments | (1,093 | ) | (409 | )
+
+Purchase of long-term time deposits | (57 | ) | —
+
+Maturities of short-term investments | 662 | 248
+
+Contribution to unconsolidated affiliates | (13 | ) | —
+
+Acquisition of business, net of cash acquired | (177 | ) | —
+
+Disposal of equity securities | 54 | —
+
+Other, net | 48 | 5
+
+Net Cash Used in Investing Activities | (761 | ) | (368 | )
+
+Cash Flows — Financing Activities
+
+Repurchase of shares of common stock | (8 | ) | (143 | )
+
+Cash dividends paid on common stock | (45 | ) | (91 | )
+
+Dividends paid to noncontrolling interests | (7 | ) | (25 | )
+
+Other, net | 1 | —
+
+Net Cash Used in Financing Activities | (59 | ) | (259 | )
+
+Effect of Exchange Rates on Cash, Cash Equivalents and Restricted Cash | (6 | ) | —
+
+Net (Decrease) Increase in Cash, Cash Equivalents and Restricted Cash | (374 | ) | 30
+
+Cash, Cash Equivalents and Restricted Cash — Beginning of Period | 1,055 | 1,266
+
+Cash, Cash Equivalents and Restricted Cash — End of Period | $ | 681 | $ | 1,296
+
+Supplemental Cash Flow Data
+
+Cash paid for income tax | 64 | 135
+
+Non-cash Investing and Financing
+Activities
+
+Capital expenditures included in accounts payable and other current liabilities | 122 | 104
+
+See accompanying Notes to the Consolidated Financial Statements. 
+
+- 9 - 
+
+Notes to Consolidated Financial Statements 
+
+(Tabular amounts in US$ millions, except for number of shares and per share data) 
+
+Note 1 – Description of Business 
+
+Yum China
+Holdings, Inc. (“Yum China” and, together with its subsidiaries, the “Company,” “we,” “us,” and “our”) was incorporated in Delaware on April 1, 2016. 
+
+The Company owns, franchises or has ownership in entities that own and operate restaurants (also referred to as “stores” or “units”) under
+the KFC, Pizza Hut, Little Sheep, COFFii & JOY, East Dawning and Taco Bell concepts (collectively, the “concepts”). In connection with the separation of the Company in 2016 from its former parent company, Yum! Brands, Inc.
+(“YUM”), Yum! Restaurants Asia Pte. Ltd., a wholly-owned indirect subsidiary of YUM, and Yum Restaurants Consulting (Shanghai) Company Limited (“YCCL”), a wholly-owned indirect subsidiary of the Company, entered into a 
+50-year
+ master license agreement with automatic renewals for additional consecutive renewal terms of 50 years each, subject only to YCCL being in “good standing” and unless YCCL gives notice of its intent
+not to renew, for the exclusive right to use and sublicense the use of intellectual property owned by YUM and its subsidiaries for the development and operation of the KFC, Pizza Hut and, subject to achieving certain agreed-upon milestones, Taco
+Bell brands and their related marks and other intellectual property rights for restaurant services in the People’s Republic of China (the ”PRC” or “China”), excluding Hong Kong, Taiwan and Macau. In exchange, we pay a
+license fee to YUM equal to 3% of net system sales from both our Company and franchise restaurants. We own the intellectual property of Little Sheep, COFFii & JOY and East Dawning, and pay no license fee related to these concepts. 
+
+In 1987, KFC was the first quick-service restaurant brand to enter China. As of June 30, 2020, there are over 6,700 KFCs in China. We maintain a 58% and
+70% controlling interest in the entities that own and operate the KFCs in Shanghai and Beijing, respectively. During the first quarter of 2018, the Company completed the acquisition of an additional 36% equity interest in an unconsolidated affiliate
+that operates KFC stores in and around Wuxi, China (“Wuxi KFC”), for cash consideration of approximately $98 million, increasing the Company’s equity interest to 83%, allowing the Company to consolidate the entity. The
+acquisition was considered immaterial. We began consolidating Wuxi KFC upon the completion of acquisition. We have a 47% noncontrolling ownership in each of our unconsolidated affiliates that own and operate KFCs in Hangzhou and Suzhou. 
+
+The first Pizza Hut in China opened in 1990. As of June 30, 2020, there are over 2,200 Pizza Hut restaurants in China. 
+
+In 2017, the Company completed the acquisition of a controlling interest in the holding company of DAOJIA.com.cn (“Daojia”), an established online
+food delivery service provider. The Company agreed to pay cash consideration of $36.7 million to the sellers and made a concurrent capital contribution of $25.0 million to Daojia. As of the completion of the acquisition, the Company held
+90% of Daojia’s outstanding shares of common stock, or 80% of its equity interests on a fully-diluted basis. Daojia became an operating segment of the Company. The acquisition was considered immaterial. 
+
+On April 8, 2020, the Company completed the acquisition of a 93.3% interest in the Huang Ji Huang group (“Huang Ji Huang”), a leading Chinese
+CDR franchise business, for cash consideration of $185 million. Huang Ji Huang became an operating segment of the Company. The acquisition was considered immaterial. 
+
+In the quarter ended June 30, 2020, the Company partnered with Lavazza Group, the world renowned family-owned Italian coffee company, and entered into a
+joint venture to explore and develop the Lavazza coffee shop concept in China. As the first step, a new Lavazza flagship store was opened in Shanghai, China. 
+
+The Company has two reportable segments: KFC and Pizza Hut. Our remaining operating segments, including the operations of Little Sheep, Huang Ji Huang, East
+Dawning, Taco Bell, Daojia, COFFii & JOY and our e-commerce business, are combined and referred to as All Other Segments, as those operating segments are insignificant both individually and in the aggregate. 
+
+- 10 - 
+
+Note 2 – Summary of Significant Accounting Policies 
+
+Our preparation of the accompanying Consolidated Financial Statements in conformity with Generally Accepted Accounting Principles in the United States of
+America (“GAAP”) requires us to make estimates and assumptions that affect reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ from these estimates. 
+
+Basis of Preparation and Principles of
+Consolidation
+. Intercompany accounts and transactions have been eliminated in consolidation. We consolidate entities in which we have a controlling financial interest, the usual condition of which is ownership of a majority voting interest. We
+also consider consolidating an entity in which we have certain interests where the controlling financial interest may be achieved through arrangements that do not involve voting interests. Such an entity, known as a variable interest entity
+(“VIE”), is required to be consolidated by its primary beneficiary. The primary beneficiary is the entity that possesses the power to direct the activities of the VIE that most significantly impact its economic performance and has the
+obligation to absorb losses or the right to receive benefits from the VIE that are significant to it. 
+
+Our most significant variable interests are in
+entities that operate restaurants under franchise arrangements. We do not generally have an equity interest in our franchisee businesses. Additionally, we do not typically provide significant financial support such as loans or guarantees to our
+franchisees. We have variable interests in certain entities that operate restaurants under franchise agreements through real estate lease arrangements with them to which we are a party. As of June 30, 2020 and December 31, 2019, the
+Company had future lease payments due from franchisees, on a nominal basis, of approximately $44 million and $47 million, respectively. As our franchise arrangements provide our franchisee entities the power to direct the activities that
+most significantly impact their economic performance, we do not consider ourselves the primary beneficiary of any such entity that might otherwise be considered a VIE. 
+
+Through the acquisition of Daojia, the Company also acquired a VIE and subsidiaries of the VIE effectively controlled by Daojia. There exists a
+parent-subsidiary relationship between Daojia and its VIE as a result of certain exclusive agreements that require Daojia to consolidate its VIE and subsidiaries of the VIE because Daojia is the primary beneficiary that possesses the power to direct
+the activities of the VIE that most significantly impact its economic performance, and is entitled to substantially all of the profits and has the obligation to absorb all of the expected losses of the VIE. The acquired VIE and its subsidiaries were
+considered immaterial, both individually and in the aggregate. The results of Daojia’s operations have been included in the Company’s Consolidated Financial Statements since the acquisition date. 
+
+We consolidate the entities that operate KFCs in Shanghai, Beijing and Wuxi where we have controlling interests of 58%, 70% and 83%, respectively. We report
+Net income attributable to noncontrolling interests, which includes the minority shareholders of the entities, separately on the face of our Consolidated Statements of Income. The portion of equity not attributable to the Company for these entities
+is reported within equity, separately from the Company’s stockholders’ equity on the Consolidated Balance Sheets. 
+
+We have a noncontrolling 47%
+interest in each of the entities that operate the KFCs in Hangzhou and Suzhou. These entities are not VIEs and our lack of majority voting rights precludes us from controlling these affiliates. Thus, we do not consolidate these affiliates. Instead,
+we account for them under the equity method. Our share of the net income or loss of these unconsolidated affiliates is included in Other income, net in our Consolidated Statements of Income. 
+
+The results of Huang Ji Huang’s operations have been included in the Company’s Consolidated Financial Statements since its acquisition date of
+April 8, 2020. 
+
+Foreign Currency
+. Our functional currency for the operating entities in China is the Chinese Renminbi (“RMB”), the
+currency of the primary economic environment in which they operate. Income and expense accounts for our operations are then translated into U.S. dollars at the average exchange rates prevailing during the period. Assets and liabilities are then
+translated into U.S. dollars at exchange rates in effect at the balance sheet date. Foreign currency translation adjustments are recorded in the Accumulated other comprehensive income (loss) on the Consolidated Balance Sheets. Gains and losses
+arising from the impact of foreign currency exchange rate fluctuations on transactions in foreign currency, to the extent they arise, are included in Other income, net in our Consolidated Statements of Income. 
+
+- 11 - 
+
+Franchise Operations
+. We execute agreements which set out the terms of our arrangement with
+franchisees. Our franchise agreements typically require the franchisee to pay an initial, 
+non-refundable
+ fee and continuing fees based upon a percentage of sales. Subject to our approval and their payment of a
+renewal fee, a franchisee may generally renew the franchise agreement upon its expiration. 
+
+The 3% license fees we pay to YUM for the right to sublicense
+the KFC, Pizza Hut and Taco Bell intellectual property to franchisees and unconsolidated affiliates are recorded in Franchise expenses. License fees due to YUM for our Company-owned stores are included within restaurant margin in Occupancy and other
+operating expenses. Total license fees paid to YUM were $116 million and $139 million during the six months ended June 30, 2020 and 2019, respectively. 
+
+Certain direct costs of our franchise operations are charged to Franchise expenses. These costs include provisions for estimated uncollectible fees, rent or
+depreciation expense associated with restaurants we 
+sub-lease
+ to franchisees, and certain other direct incremental franchise support costs. 
+
+We also have certain transactions with franchisees and unconsolidated affiliates, which consist primarily of sales of food and paper products, advertising
+services and other services provided to franchisees and unconsolidated affiliates. Related expenses are included in Expenses for transactions with franchisees and unconsolidated affiliates. 
+
+Revenue Recognition
+. The Company adopted Accounting Standards Update (“ASU”) 
+No. 2014-09,
+
+Revenue from Contracts with Customers (Topic 606)
+ (“ASC 606”) on January 1, 2018, and applied the full retrospective approach. 
+
+The
+Company’s revenues primarily include Company sales, Franchise fees and income and Revenues from transactions with franchisees and unconsolidated affiliates. 
+
+Company Sales 
+
+Revenues from Company-owned restaurants
+are recognized when a customer takes possession of the food and tenders payment, which is when our obligation to perform is satisfied. The Company presents sales net of sales-related taxes. We also offer our customers delivery through both our own
+mobile applications and third-party aggregators’ platforms. For delivery orders placed through our mobile applications, we use our dedicated riders, while for orders placed through third-party aggregators’ platforms, we either used our
+dedicated riders or third-party aggregators’ delivery staff in the past. With respect to delivery orders delivered by our dedicated riders, we control and determine the price for the delivery service and generally recognize revenue, including
+delivery fees, when a customer takes possession of the food. When orders are fulfilled by the delivery staff of third-party aggregators, who control and determine the price for the delivery service, we recognize revenue, excluding delivery fees,
+when control of the food is transferred to the third-party aggregators’ delivery staff. The payment terms with respect to these sales are short-term in nature. Starting in 2019, we used our own dedicated riders to deliver orders placed through
+aggregators’ platforms to customers of KFC and Pizza Hut stores. 
+
+We recognize revenues from prepaid stored-value products, including gift cards and
+product vouchers, when they are redeemed by the customer. Prepaid gift cards sold at any given point generally expire over the next 36 months, and product vouchers generally expire over a period of up to 12 months. We recognize breakage revenue,
+which is the amount of prepaid stored-value products that is not expected to be redeemed, either (1) proportionally in earnings as redemptions occur, in situations where the Company expects to be entitled to a breakage amount, or (2) when
+the likelihood of redemption is remote, in situations where the Company does not expect to be entitled to breakage, provided that there is no requirement for remitting balances to government agencies under unclaimed property laws. The Company
+reviews its breakage estimates at least annually based upon the latest available information regarding redemption and expiration patterns. 
+
+Our privilege
+membership programs offer privilege members rights to multiple benefits, such as free delivery and discounts on certain products. For certain KFC and Pizza Hut privilege membership programs offering a
+
+pre-defined
+ amount of benefits that can be redeemed ratably over the membership period, revenue is ratably recognized over the period based on the elapse of time. With respect to the Pizza Hut family privilege
+membership program offering members a mix of distinct benefits, including a welcome gift and assorted discount coupons with 
+pre-defined
+ quantities, consideration collected is allocated to the benefits provided
+based on their relative standalone selling price and revenue is recognized when food or services are delivered or the benefits expire. In determining the relative standalone selling price of the benefits, the Company considers likelihood of future
+redemption based on historical redemption pattern and reviews such estimates periodically based upon the latest available information regarding redemption and expiration patterns. 
+
+- 12 - 
+
+Franchise Fees and Income 
+
+Franchise fees and income primarily include upfront franchise fees, such as initial fees and renewal fees, and continuing fees. We have determined that the
+services we provide in exchange for upfront franchise fees and continuing fees are highly interrelated with the franchise right. We recognize upfront franchise fees received from a franchisee as revenue over the term of the franchise agreement or
+the renewal agreement because the franchise rights are accounted for as rights to access our symbolic intellectual property in accordance with ASC 606. The franchise agreement term is generally 10 years for KFC and Pizza Hut, five or 10 years for
+Little Sheep, and three or 10 years for Huang Ji Huang. We recognize continuing fees, which are based upon a percentage of franchisee sales, as those sales occur. 
+
+Revenues from Transactions with Franchisees and Unconsolidated Affiliates
+
+Revenues from transactions with franchisees and unconsolidated affiliates consist primarily of sales of food and paper products, advertising services and other
+services provided to franchisees and unconsolidated affiliates. 
+
+The Company centrally purchases substantially all food and paper products from suppliers
+for substantially all of our restaurants, including franchisees and unconsolidated affiliates, and then sells and delivers them to the restaurants. The performance obligation arising from such transactions is considered distinct from the franchise
+agreement as it is not highly dependent on the franchise agreement and the customer can benefit from the procurement service on its own. We consider ourselves the principal in this arrangement as we have the ability to control a promised good or
+service before transferring that good or service to the franchisees and unconsolidated affiliates. Revenue is recognized upon transfer of control over ordered items, generally upon delivery to the franchisees and unconsolidated affiliates. 
+
+For advertising services, the Company often engages third parties to provide services and acts as a principal in the transaction based on our responsibilities
+of defining the nature of the services and administering and directing all marketing and advertising programs in accordance with the provisions of our franchise agreements. The Company collects advertising contributions, which are generally based on
+certain percentage of sales from substantially all of our restaurants, including franchisees and unconsolidated affiliates. Other services provided to franchisees and unconsolidated affiliates consist primarily of customer and technology support
+services. Advertising services and other services provided are highly interrelated to franchise right, and are not considered individually distinct. We recognize revenue when the related sales occur. 
+
+Loyalty Programs 
+
+Each of the Company’s KFC and
+Pizza Hut reportable segments operates a loyalty program that allows registered members to earn points for each qualifying purchase. Points, which generally expire 18 months after being earned, may be redeemed for future purchases of KFC or Pizza
+Hut branded products or other products for free or at a discounted price. Points cannot be redeemed or exchanged for cash. The estimated value of points earned by the loyalty program members is recorded as a reduction of revenue at the time the
+points are earned, based on the percentage of points that are projected to be redeemed, with a corresponding deferred revenue liability included in Accounts payable and other current liabilities on the Consolidated Balance Sheets and subsequently
+recognized into revenue when the points are redeemed or expire. The Company estimates the value of the future redemption obligations based on the estimated value of the product for which points are expected to be redeemed and historical redemption
+patterns and reviews such estimates periodically based upon the latest available information regarding redemption and expiration patterns. 
+
+Direct
+Marketing Costs
+. We charge direct marketing costs to expense ratably in relation to revenues over the year in which incurred and, in the case of advertising production costs, in the year the advertisement is first shown. Deferred direct
+marketing costs, which are classified as prepaid expenses, consist of media and related advertising production costs which will generally be used for the first time in the next fiscal year and have historically not been significant. Our direct
+marketing expenses incurred for Company-owned restaurants were $139 million and $174 million in the six months ended June 30, 2020 and 2019, respectively, and were included in Occupancy and other operating expenses. In addition, the
+direct marketing costs incurred for franchisees and unconsolidated affiliates were $31 million and $32 million in the six months ended June 30, 2020 and 2019, respectively, and were recorded in Expenses for transactions with
+franchisees and unconsolidated affiliates. 
+
+- 13 - 
+
+Research and Development Expenses
+. Research and development expenses associated with our food
+innovation activities, which are expensed as incurred, are reported in general and administrative expenses (“G&A expense”). Research and development expenses were $2 million and $2 million in the six months ended
+June 30, 2020 and 2019, respectively. 
+
+Share-Based Compensation
+. Prior to the separation, all employee equity awards were granted by YUM. Upon
+the separation, holders of outstanding YUM equity awards generally received both adjusted YUM awards and Yum China awards, or adjusted awards of either YUM or Yum China in their entirety, to maintain the
+
+pre-separation
+ intrinsic value of the awards. The modified equity awards have the same terms and conditions as the awards held immediately before the separation, except the number of shares and the price were
+adjusted. The incremental compensation cost, measured as the excess of the fair value of the award immediately after the modification over the fair value of the award immediately before the modification, based on Black-Scholes option-pricing model
+was immaterial, and YUM and the Company continue to recognize the unamortized fair value of the awards over the remaining requisite service period as their respective employees continue to provide services. All awards granted following the
+separation were granted under the Company’s Long Term Incentive Plan (the “2016 Plan”). We recognize all share-based payments to employees and directors, including grants of stock options, restricted stock units (“RSUs”),
+stock appreciation rights (“SARs”) and performance share units (“PSUs”), in the Consolidated Financial Statements as compensation cost over the service period based on their fair value on the date of grant. This compensation cost
+is recognized over the service period on a straight-line basis, net of an assumed forfeiture rate, for awards that actually vest and when performance conditions are probable of being achieved, if applicable. Forfeiture rates are estimated at grant
+date based on historical experience and compensation cost is adjusted in subsequent periods for differences in actual forfeitures from the previous estimates. We present this compensation cost consistent with the other compensation costs for the
+employee recipient in either payroll and employee benefits or G&A expenses. 
+
+Impairment or Disposal of Long-Lived Assets.
+ Long-lived assets,
+primarily Property, plant and equipment (“PP&E”) and operating lease 
+right-of-use
+ (“ROU”) assets are tested for impairment whenever events or
+changes in circumstances indicate that the carrying value of the assets may not be recoverable. The assets are not recoverable if their carrying value is less than the undiscounted cash flows we expect to generate from such assets. If the assets are
+not deemed to be recoverable, impairment is measured based on the excess of their carrying value over their fair value. 
+
+For purposes of impairment
+testing for our restaurants, we have concluded that an individual restaurant is the lowest level of independent cash flows unless our intent is to refranchise restaurants as a group. We review our long-lived assets of such individual restaurants
+(primarily operating lease ROU assets and PP&E) semi-annually for impairment, or whenever events or changes in circumstances indicate that the carrying amount of a restaurant may not be recoverable. One of our primary indicators of potential
+impairment for our semi-annual impairment testing of these restaurant assets include two consecutive years of operating losses after a restaurant has been open for three years. We evaluate the recoverability of these restaurant assets by comparing
+the forecasted undiscounted cash flows of the restaurant’s operation, which are based on our entity-specific assumptions, to the carrying value of such assets. The forecasted undiscounted cash flows incorporate our best estimate of sales growth
+based upon our operation plans for the unit and actual results at comparable restaurants. For restaurant assets that are not deemed to be recoverable, we write down an impaired restaurant to its estimated fair value, which becomes its new cost
+basis. Fair value is an estimate of the price market participants would pay for the restaurant and its related assets. In determining the fair value of restaurant-level assets, we considered the highest and best use of the assets from market
+participants’ perspective, which is represented by the higher of the forecasted discounted cash flows from operating restaurants and the price market participants would pay to 
+sub-lease
+ the operating
+lease ROU assets and acquiring remaining restaurant assets, even if that use differs from the current use by the Company. The 
+after-tax
+ cash flows incorporate reasonable assumptions we believe a franchisee
+would make such as sales growth and include a deduction for royalties we would receive under a franchise agreement with terms substantially at market. The discount rate used in the fair value calculation is our estimate of the required 
+rate-of-return
+ that a franchisee would expect to receive when purchasing a similar restaurant and the related long-lived assets. The discount rate incorporates rates of
+returns for historical refranchising market transactions and is commensurate with the risks and uncertainty inherent in the forecasted cash flows. Estimates of the price market participants would pay to
+
+sub-lease
+ the operating lease ROU assets are based on comparable market rental information that could be reasonably obtained for the property. In situations where the highest and best use of the restaurant
+level assets from market participants’ perspective is represented by 
+sub-leasing
+ the operating lease 
+right-of-use
+ assets and
+acquiring remaining restaurant assets, the Company continues to use these assets in operating its restaurant business, which is consistent with its long-term strategy of growing revenue through operating restaurant concepts. 
+
+- 14 - 
+
+When we believe it is more likely than not a restaurant or groups of restaurants will be refranchised for a
+price less than their carrying value, but do not believe the restaurant(s) have met the criteria to be classified as held for sale, we review the restaurants for impairment. We evaluate the recoverability of these restaurant assets by comparing
+estimated sales proceeds plus holding period cash flows, if any, to the carrying value of the restaurant or group of restaurants. For restaurant assets that are not deemed to be recoverable, we recognize impairment for any excess of carrying value
+over the fair value of the restaurants, which is based on the expected net sales proceeds. To the extent ongoing agreements to be entered into with the franchisee simultaneous with the refranchising are expected to contain terms, such as royalty
+rates, not at prevailing market rates, we consider the 
+off-market
+ terms in our impairment evaluation. We recognize any such impairment charges in Refranchising gain. Refranchising gain includes the gains or
+losses from the sales of our restaurants to new and existing franchisees, including any impairment charges discussed above. We recognize gains on restaurant refranchising when the sale transaction closes, the franchisee has a minimum amount of the
+purchase price in 
+at-risk
+ equity and we are satisfied that the franchisee can meet its financial obligations. 
+
+When we decide to close a restaurant, it is reviewed for impairment, and depreciable lives are adjusted based on the expected disposal date. Other costs
+incurred when closing a restaurant such as costs of disposing of the assets as well as other facility-related expenses are generally expensed as incurred. Additionally, at the time we decide to close a restaurant, we reassess whether it is
+reasonably certain that we will exercise the termination option, and remeasure lease liability to reflect changes in lease term and remaining lease payments based on the planned exit date, if applicable. The amount of the 
+re-measurement
+ of the lease liability is recorded as an adjustment to the operating lease ROU asset first, with any remaining amount recorded in Closures and impairment expenses if the carrying amount of the
+operating lease ROU asset is reduced to zero. Any costs recorded upon store closure as well as any subsequent adjustments to remaining operating lease ROU assets and lease liabilities as a result of lease termination are recorded in Closures and
+impairment expenses. In the event we are forced to close a store and receive compensation for such closure, that compensation is recorded in Closures and impairment expenses. To the extent we sell assets associated with a closed store, any gain or
+loss upon that sale is also recorded in Closures and impairment expenses. 
+
+Considerable management judgment is necessary to estimate future cash flows,
+including cash flows from continuing use, terminal value, lease term and refranchising proceeds. Accordingly, actual results could vary significantly from our estimates. 
+
+Government Subsidies
+. Government subsidies generally consist of financial subsidies received from provincial and local governments for operating a
+business in their jurisdictions and compliance with specific policies promoted by the local governments. There are no defined rules and regulations to govern the criteria necessary for companies to receive such benefits, and the amount of financial
+subsidy is determined at the discretion of the relevant government authorities. Government subsidies are recognized when it is probable that the Company will comply with the conditions attached to them, and the subsidies are received. If the subsidy
+is related to an expense item, it is recognized as a reduction to the related expense to match the subsidy to the costs that it is intended to compensate. If the subsidy is related to an asset, it is deferred and recorded in other liabilities and
+then recognized ratably over the expected useful life of the related asset in the Consolidated Statements of Income. 
+
+Income Taxes
+. We record
+deferred tax assets and liabilities for the future tax consequences attributable to temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases as well as operating loss,
+capital loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those differences or carryforwards are expected to be recovered or settled.
+The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. Additionally, in determining the need for recording a valuation allowance against the carrying amount
+of deferred tax assets, we consider the amount of taxable income and periods over which it must be earned, actual levels of past taxable income and known trends and events or transactions that are expected to affect future levels of taxable income.
+Where we determine that it is more likely than not that all or a portion of an asset will not be realized, we record a valuation allowance. 
+
+- 15 - 
+
+On December 22, 2017, the Tax Cuts and Jobs Act (the “Tax Act”) was signed into law effective
+for tax years beginning after December 31, 2017. The Tax Act requires complex computations with significant estimates to be performed, significant judgments to be made in interpretation of the provisions, and the preparation and analysis of
+information not previously relevant or regularly produced. The U.S. Treasury Department, the IRS, the SEC and other standard-setting bodies could interpret or issue guidance on how provisions of the Tax Act will be applied or otherwise administered
+that is different from our current interpretation. We completed our analysis of the Tax Act in the fourth quarter of 2018 according to guidance released by the U.S. Treasury Department and the IRS as of December 2018 and made an adjustment of
+$36 million to reduce the provisional amount for transition tax recorded in 2017 accordingly. The U.S. Treasury Department and the IRS released the final transition tax regulations in the first quarter of 2019. We completed the evaluation of
+the impact on our transition tax computation based on the final regulations released in the first quarter of 2019 and recorded an additional income tax expense of $8 million for the transition tax accordingly. 
+
+We are subject to reviews, examinations and audits by Chinese tax authorities, the IRS and other taxing authorities with respect to income and 
+non-income
+ based taxes. We recognize the benefit of positions taken or expected to be taken in our tax returns when it is more likely than not that the position would be sustained upon examination by these tax
+authorities. A recognized tax position is then measured at the largest amount of benefit that is greater than 50% likely of being realized upon settlement. We evaluate unrecognized tax benefits, including interest thereon, on a quarterly basis to
+ensure that they have been appropriately adjusted for events, including audit settlements, which may impact our ultimate payment for such exposures. 
+
+We
+have investments in our foreign subsidiaries where the carrying values for financial reporting exceed the tax basis. We have not provided deferred tax on the portion of the excess that we believe is indefinitely reinvested, as we have the ability
+and intent to indefinitely postpone the basis differences from reversing with a tax consequence. The Company’s separation from YUM was intended to qualify as a 
+tax-free
+ reorganization for U.S. income tax
+purposes resulting in the excess of financial reporting basis over tax basis in our investment in the China business continuing to be indefinitely reinvested. The excess of financial reporting basis over tax basis as of December 31 2017 was
+subject to the 
+one-time
+ transition tax under the Tax Act as a deemed repatriation of accumulated undistributed earnings from the foreign subsidiaries. However, we continue to believe that the portion of the
+excess of financial reporting basis over tax basis (including earnings and profits subject to the 
+one-time
+ transition tax) is indefinitely reinvested in our foreign subsidiaries for foreign withholding tax
+purposes. 
+
+Pursuant to the China Enterprise Income Tax Law (“EIT Law”), a 10% PRC withholding tax is generally levied on dividends declared by
+companies in China to their 
+non-resident
+ enterprise investors unless otherwise reduced according to treaties or arrangements between the Chinese central government and the governments of other countries or
+regions where the 
+non-China
+ resident enterprises are incorporated. Hong Kong has a tax arrangement with mainland China that provides for a 5% withholding tax on dividends distributed to a Hong Kong resident
+enterprise, upon meeting certain conditions and requirements, including, among others, that the Hong Kong resident enterprise own at least 25% equity interest of the Chinese enterprise and is a “beneficial owner” of the dividends. We
+believe that our Hong Kong subsidiary, which is the equity holder of our Chinese subsidiaries, met the relevant requirements pursuant to the tax arrangement between mainland China and Hong Kong in 2018 and is expected to meet the requirements in the
+subsequent years; thus, it is more likely than not that our dividends declared or earnings expected to be repatriated since 2018 are subject to the reduced withholding tax of 5%. 
+
+See Note 16 for a further discussion of our income taxes. 
+
+Fair Value Measurements
+. Fair value is the price we would receive to sell an asset or pay to transfer a liability (exit price) in an orderly
+transaction between market participants. For those assets and liabilities we record or disclose at fair value, we determine fair value based upon the quoted market price, if available. If a quoted market price is not available for identical assets,
+we determine fair value based upon the quoted market price of similar assets or the present value of expected future cash flows considering the risks involved, including counterparty performance risk if appropriate, and using discount rates
+appropriate for the duration. The fair values are assigned a level within the fair value hierarchy, depending on the source of the inputs into the calculation. 
+
+Level 1 | Inputs based upon quoted prices in active markets for identical assets.
+
+Level 2 | Inputs other than quoted prices included within Level 1 that are observable for the asset, either directly or indirectly.
+
+Level 3 | Inputs that are unobservable for the asset.
+
+- 16 - 
+
+Cash and Cash Equivalent
+s. Cash equivalents represent highly liquid investments with original
+maturities not exceeding three months and are primarily comprised of time deposits and money market funds. Cash and overdraft balances that meet the criteria for right to offset are presented net on our Consolidated Balance Sheets. 
+
+Short-term Investments
+. Short-term investments primarily represent time deposits with original maturities of over three months but less than one year
+when purchased. 
+
+Accounts Receivable
+. Accounts Receivable consist of trade receivables and royalties from franchisees and unconsolidated
+affiliates, and are generally due within 30 days of the period in which the corresponding sales occur and are classified as Accounts receivable on the Consolidated Balance Sheets. Prior to the adoption of ASC 326, our provision for uncollectible
+receivable balances was based upon 
+pre-defined
+ aging criteria or upon the occurrence of other events that indicated that we may not collect the balance due. Additionally, we monitor the financial condition of
+our franchisees and record provisions for estimated losses on receivables when we believe it is probable that our franchisees will be unable to make their required payments. Upon adoption of ASC 326 starting from January 1, 2020, our provision
+of credit losses for accounts receivable is based upon the current expected credit losses (“CECL”) model. The CECL model requires an estimate of the credit losses expected over the life of accounts receivable since initial recognition, and
+accounts receivable with similar risk characteristics are grouped together when estimating CECL. In assessing the CECL, the Company considers both quantitative and qualitative information that is reasonable and supportable, including historical
+credit loss experience, adjusted for relevant factors impacting collectability and forward-looking information indicative of external market conditions. While we use the best information available in making our determination, the ultimate recovery
+of recorded receivables is also dependent upon future economic events and other conditions that may be beyond our control. Trade receivables that are ultimately deemed to be uncollectible, and for which collection efforts have been exhausted, are
+written off against the allowance for doubtful accounts. As of June 30, 2020, and December 31, 2019, the ending balances of provision for accounts receivable were $1 million and $1 million, respectively, and amounts of accounts
+receivable past due were immaterial. Receivables due from unconsolidated affiliates including trade receivables and dividend receivables were $92 million and $58 million as of June 30, 2020 and December 31, 2019, respectively.
+
+Receivables from Payment Processors or Aggregators.
+ Receivables from payment processors such as WeChat and Alipay or aggregators are cash due from
+them for clearing transactions and are included in Prepaid expenses and other current assets. The cash was paid by customers through these payment processors or aggregators for food provided by the Company. The Company considers and monitors the
+credit worthiness of the third-party payment processors and aggregators used. An allowance for doubtful accounts is recorded in the period in which a loss is determined to be probable. Receivable balances are written off after all collection efforts
+have been exhausted. As of June 30, 2020 and December 31, 2019, no allowance for doubtful accounts was provided for such receivables. 
+
+Inventories
+. We value our inventories at the lower of cost (computed on the 
+first-in,
+
+first-out
+ method) or net realizable value. 
+
+Property, Plant and Equipment
+. We state PP&E at cost less
+accumulated depreciation and amortization. We calculate depreciation and amortization on a straight-line basis over the estimated useful lives of the assets as follows: 20 to 50 years for buildings, the lesser of estimated useful lives (5 to 10
+years) and remaining lease term for leasehold improvements, 3 to 10 years for restaurant machinery and equipment and 3 to 5 years for capitalized software costs. We suspend depreciation and amortization on assets related to restaurants that are held
+for sale. 
+
+Leases
+. The Company adopted Accounting Standards Update (“ASU”) 
+No. 2016-02,
+
+Leases (Topic 842
+) (“ASC 842”) and subsequent amendments issued by FASB on January 1, 2019, using a modified retrospective method for leases that exist at, or are entered into after, January 1, 2019. 
+
+Upon adoption of ASC 842, ROU assets and lease liabilities are recognized upon lease commencement for operating leases based on the present value of lease
+payments over the lease term. As the rate implicit in the lease cannot be readily determined, we use our incremental borrowing rate at the lease commencement date in determining the imputed interest and present value of lease payments. The
+incremental borrowing rate was determined using a portfolio approach based on the rate of interest that we would have to borrow an amount equal to the lease payments on a collateralized basis over a similar term. The incremental borrowing rate is
+primarily influenced by the risk-free interest rate of China, the Company’s credit rating and lease term, and is updated on a quarterly basis for measurement of new lease liabilities. 
+
+- 17 - 
+
+For operating leases, the Company recognizes a single lease cost on a straight-line basis over the remaining
+lease term. For finance leases, the Company recognizes straight-line amortization of the ROU asset and interest on the lease liability. For rental payments either based on a percentage of the restaurant’s sales in excess of a fixed base amount
+or solely based on a percentage of the restaurant’s sales, they are recognized as variable lease expenses as incurred. 
+
+The Company has elected not
+to recognize ROU assets or lease liabilities for leases with an initial term of 12 months or less; we recognize lease expense for these leases on a straight-line basis over the lease term. In addition, the Company has elected not to separate 
+non-lease
+ components (e.g., common area maintenance fees) from the lease components. 
+
+From time to time, we purchase the
+rights to use government-owned land and the building occupying the land for a fixed period of time. Prior to the adoption of ASC 842, these land use rights and related buildings were recorded in Other Assets and Property, Plant and Equipment in our
+Consolidated Balance Sheets, and are amortized on a straight-line basis over the term of the land use rights. Upon the adoption of ASC 842 on January 1, 2019, land use rights acquired are assessed in accordance with ASC 842 and recognized in 
+right-of-use
+ assets if they meet the definition of lease. 
+
+See Note 11 for
+further discussions on our leases. 
+
+Internal Development Costs and Abandoned Site Costs
+. We capitalize direct costs associated with the site
+acquisition and construction of a Company unit on that site, including direct internal payroll and payroll-related costs. Only those site-specific costs incurred subsequent to the time that the site acquisition is considered probable are
+capitalized. If we subsequently make a determination that it is probable a site for which internal development costs have been capitalized will not be acquired or developed, any previously capitalized internal development costs are expensed and
+included in G&A expenses. 
+
+Goodwill and Intangible Assets
+. From time to time, the Company acquires restaurants from our existing franchisees or
+acquires another business, including restaurants business of unconsolidated affiliates. Goodwill from these acquisitions represents the excess of the cost of a business acquired over the net of the amounts assigned to assets acquired, including
+identifiable intangible assets and liabilities assumed. Goodwill is not amortized and has been assigned to reporting units for purposes of impairment testing. Our reporting units are our individual operating segments. 
+
+We evaluate goodwill for impairment on an annual basis or more often if an event occurs or circumstances change that indicate impairment might exist. We have
+selected the beginning of our fourth quarter as the date on which to perform our ongoing annual impairment test for goodwill. We may elect to perform a qualitative assessment for our reporting units to determine whether it is more likely than not
+that the fair value of the reporting unit is greater than its carrying value. If a qualitative assessment is not performed, or if as a result of a qualitative assessment it is not more likely than not that the fair value of a reporting unit exceeds
+its carrying value, then the reporting unit’s fair value is compared to its carrying value. Fair value is the price a willing buyer would pay for a reporting unit, and is generally estimated using discounted expected future 
+after-tax
+ cash flows from the business operation of the reporting unit. The discount rate is our estimate of the required
+
+rate-of-return
+ that a third-party buyer would expect to receive when purchasing a business from us that constitutes a reporting unit. We believe the discount rate is
+commensurate with the risks and uncertainty inherent in the forecasted cash flows. If the carrying value of a reporting unit exceeds its fair value, we will record an impairment charge based on that difference. The impairment charge will be limited
+to the amount of goodwill allocated to that reporting unit. 
+
+If we record goodwill upon acquisition of a restaurant(s) from a franchisee and such
+restaurant(s) is then sold within two years of acquisition, the goodwill associated with the acquired restaurant(s) is written off in its entirety. If the restaurant is refranchised two years or more subsequent to its acquisition, we include
+goodwill in the carrying amount of the restaurants disposed of based on the relative fair values of the portion of the reporting unit disposed of in the refranchising and the portion of the reporting unit that will be retained. 
+
+- 18 - 
+
+We determine the useful life of intangible assets with consideration of the factors including the expected
+use of the asset, the expected useful life of another asset or a group of assets to which the useful life of the intangible asset may relate, any legal, regulatory or contractual provisions that may limit the useful life, our historical experiences
+in renewing or extending similar arrangements, the effects of obsolescence, demand, competition and other economic factors and the level of maintenance expenditures required to obtain the expected future cash flows from the assets. We evaluate the
+remaining useful life of an intangible asset that is not being amortized each reporting period to determine whether events and circumstances continue to support an indefinite useful life. If an intangible asset that is not being amortized is
+subsequently determined to have a finite useful life, we amortize the intangible asset prospectively over its estimated remaining useful life. The Company’s indefinite-lived intangible asset represents Little Sheep and Huang Ji Huang trademarks
+which we consider their useful life to be indefinite since we intend to use Little Sheep and Huang Ji Huang trademarks indefinitely and there are no legal, regulatory or contractual provisions that may limit the useful life of the trademarks.
+Intangible assets that are deemed to have a finite life are generally amortized over their estimated useful lives on a straight-line basis to their residual value as follows: 
+
+Reacquired franchise rights | 5 to 10 years
+
+Huang Ji Huang franchise related assets | 19 years
+
+Daojia platform | 8 years
+
+Customer-related assets | 2-15 years
+
+Others | Up to 20 years
+
+The useful life of reacquired franchise rights was determined based on the contractual term whereas both the contractual term
+and historical pattern of renewing franchise agreements were considered in assessing the useful life of Huang Ji Huang franchise related assets. Customer-related assets primarily represent customer relationship and user base acquired and the
+estimate of the useful life was based on the historical pattern of extending similar arrangements and attrition rate of users. Others primarily represent Little Sheep’s secret recipe. The useful life of Daojia platform and Little Sheep’s
+secret recipe was assessed based on our estimate of periods generating cash flows from utilizing such assets. 
+
+We evaluate our indefinite-lived intangible
+assets for impairment on an annual basis or more often if an event occurs or circumstances change that indicate impairments might exist. We perform our annual test for impairment of our indefinite-lived intangible assets at the beginning of our
+fourth quarter. We may elect to perform a qualitative assessment to determine whether it is more likely than not that the fair value of an indefinite-lived intangible asset is greater than its carrying value. If a qualitative assessment is not
+performed, or if as a result of a qualitative assessment it is not more likely than not that the fair value of an indefinite-lived intangible asset exceeds its carrying value, then the asset’s fair value is compared to its carrying value. Fair
+value is an estimate of the price a willing buyer would pay for the intangible asset and is generally estimated by discounting the expected future 
+after-tax
+ cash flows associated with the intangible asset.
+
+Our finite-lived intangible assets that are not allocated to an individual restaurant are evaluated for impairment whenever events or changes in
+circumstances indicate that the carrying amount of the intangible asset may not be recoverable. An intangible asset that is deemed not recoverable based on forecasted undiscounted future cash flow is written down to its estimated fair value, which
+is our estimate of the price a willing buyer would pay for the intangible asset based on discounted expected future 
+after-tax
+ cash flows. For purposes of our impairment analysis, we update the cash flows that
+were initially used to value the finite lived intangible asset to reflect our current estimates and assumptions over the asset’s future remaining life. 
+
+Equity Investments
+. The Company’s equity investments include investments in unconsolidated affiliates and investments in equity securities with
+readily determinable fair value. 
+
+The Company applies the equity method to account for the investments in unconsolidated affiliates over which it has
+significant influence but does not control. Equity method investments are included as Investments in unconsolidated affiliates on our Consolidated Balance Sheets. Our share of the earnings or losses of equity method investees are included within
+Other income, net on our Consolidated Statements of Income. We record impairment charges related to an investment in an unconsolidated affiliate whenever events or circumstances indicate that a decrease in the fair value of an investment has
+occurred which is other than temporary. In addition, we evaluate our investments in unconsolidated affiliates for impairment when they have experienced two consecutive years of operating losses. 
+
+For our investments in equity securities with readily determinable fair value, over which the Company has neither significant influence nor control, they are
+measured at fair value with subsequent changes recognized in net income. 
+
+- 19 - 
+
+Financial Instruments
+. We account for derivative instruments and liability-classified equity
+contracts (e.g., warrants) as either assets or liabilities in the Consolidated Balance Sheets. The financial instruments are recorded at their respective fair value as determined on the day of issuance and subsequently adjusted to the fair value at
+each reporting date. Changes in the fair value of financial instruments are recognized periodically in the Consolidated Statements of Income. The estimated fair values of derivative instruments and liability-classified equity contracts are
+determined at discrete points in time using standard valuation techniques. 
+
+Guarantees
+. We account for guarantees in accordance with ASC Topic 460
+(“ASC 460”), 
+Guarantees
+. Accordingly, the Company evaluates its guarantees to determine whether (a) the guarantee is specifically excluded from the scope of ASC 460, (b) the guarantee is subject to ASC 460 disclosure
+requirements only, but not subject to the initial recognition and measurement provisions, or (c) the guarantee is required to be recorded in the financial statements at fair value. The Company provides: (i) indemnifications to certain
+investors and other parties for certain losses suffered or incurred by the indemnified party in connection with third-party claims; and (ii) indemnifications of officers and directors against third-party claims arising from the services they
+provide to the Company. To date, the Company has not incurred costs as a result of these obligations and does not expect to incur material costs in the future. Accordingly, the Company has not accrued any liabilities on the Consolidated Balance
+Sheets related to these indemnifications. 
+
+Asset Retirement Obligations
+. We recognize an asset and a liability for the fair value of a required
+asset retirement obligation (“ARO”) when such an obligation is incurred. The Company’s AROs are primarily associated with leasehold improvements which, at the end of the lease, the Company is contractually obligated to remove in order
+to comply with the lease agreement. As such, we amortize the asset on a straight-line basis over the lease term and accrete the liability to its nominal value using the effective interest method over the lease term. 
+
+Contingencies
+. The Company records accruals for certain of its outstanding legal proceedings or claims when it is probable that a liability will be
+incurred and the amount of loss can be reasonably estimated. The Company evaluates, on a quarterly basis, developments in legal proceedings or claims that could affect the amount of any accrual, as well as any developments that would make a loss
+contingency both probable and reasonably estimable. The Company discloses the amount of the accrual if it is material. 
+
+Retirement Plans
+. Certain
+of the Company’s employees participate in noncontributory defined benefit plans and post-retirement medical plans sponsored by YUM prior to October 31, 2016. Subsequent to the separation, employees participating in YUM’s plans were
+enrolled in the Yum China Holdings, Inc. Leadership Retirement Plan (“YCHLRP”), an unfunded, unsecured account-based retirement plan which allocates a percentage of pay to an account payable to the executive following the executive’s
+separation of employment from the Company or attainment of age 55. 
+
+The Company also offers other defined contribution plans to employees. The total
+contribution for such employee benefits was expensed as incurred. The Company has no additional legal obligation or liabilities for the benefits beyond the paid and accrued amounts. See Note 13 for additional information. 
+
+PRC Value-Added Tax
+. The Company has been subject to VAT within the normal course of its restaurant business nationwide since May 1, 2016. 
+
+Entities that are VAT general taxpayers are permitted to offset qualified input VAT paid to suppliers against their output VAT upon receipt of appropriate
+supplier VAT invoices on an 
+entity-by-entity
+ basis. When the output VAT exceeds the input VAT, the difference is remitted to tax authorities, usually on a monthly basis;
+whereas when the input VAT exceeds the output VAT, the difference is treated as an input VAT credit asset which can be carried forward indefinitely to offset future net VAT payables. VAT related to purchases and sales which have not been settled at
+the balance sheet date is disclosed separately as an asset and liability, respectively, on the Consolidated Balance Sheets. At each balance sheet date, the Company reviews the outstanding balance of any input VAT credit asset for recoverability,
+giving consideration to the indefinite life of the input VAT credit assets as well as its forecasted operating results and capital spending, which inherently includes significant assumptions that are subject to change. 
+
+As of June 30, 2020 and December 31, 2019, an input VAT credit asset of $237 million and $243 million were recorded in Other assets,
+respectively, and payable of $6 million and $5 million were recorded in Accounts payable and other current liabilities, respectively, on the Consolidated Balance Sheets. The Company has not made an allowance for the recoverability of the
+input VAT credit asset, as the balance is expected to be utilized to offset against VAT payables more than one year from June 30, 2020 and December 31, 2019, respectively. Any input VAT credit asset would be classified as Prepaid expenses
+and other current assets if the Company expected to use the credit within one year. 
+
+- 20 - 
+
+Earnings Per Share
+. Basic earnings per share represent net earnings to common stockholders divided by
+the weighted-average number of common shares outstanding for the period. Diluted earnings per share reflect the potential dilution that could occur if securities or other contracts to issue common shares were exercised or converted into common
+shares. See Note 4 for further information. 
+
+Common Stock Repurchases
+. We may repurchase shares of Yum China common stock under a program
+authorized by our board of directors from time to time in open market or privately negotiated transactions, including block trades, accelerated share repurchase transactions and the use of Rule 
+10b5-1
+ trading
+plans. Shares repurchased are included in treasury stock in the financial statements. 
+
+Recent Accounting Pronouncements 
+
+Recently Adopted Accounting Pronouncements 
+
+In June 2016,
+the FASB issued ASU 
+2016-13,
+
+Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments
+ (“ASU
+
+2016-13”),
+ which requires measurement and recognition of expected versus incurred credit losses for financial assets held. The FASB subsequently issued amendments to clarify the implementation guidance.
+ASU 
+2016-13
+ is effective for the Company from January 1, 2020, with early adoption permitted. We adopted these standards on January 1, 2020 using the modified retrospective method. The adoption of
+this standard resulted in a change of our provision policy primarily for accounts receivable, but such adoption did not have a material impact on our financial statements. 
+
+In August 2018, the FASB issued ASU 
+2018-13,
+
+Fair Value Measurement (Topic 820): Disclosure Framework –changes
+to the Disclosure Requirements for Fair Value Measurement
+ (“ASU 
+2018-13”),
+ which amends the fair value measurement guidance by modifying disclosure requirements. ASU 
+2018-13
+ is effective for the Company from January 1, 2020, with early adoption permitted. We adopted the standard on January 1, 2020, and such adoption did not have a material impact on our financial
+statements. 
+
+In August 2018, the FASB issued 
+ASU 
+2018-15,
+ Intangibles – Goodwill and 
+Other-Internal-Use
+ Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract
+ (“ASU
+
+2018-15”),
+ which aligns the requirements for capitalizing implementation costs in a cloud computing arrangement service contract with those for an 
+internal-use
+
+software license. ASU 
+2018-15
+ is effective for the Company from January 1, 2020, with early adoption permitted. We adopted this standard on January 1, 2020, and such adoption did not have a material
+impact on our financial statements. 
+
+In November 2018, the FASB issued 
+ASU 
+2018-18,
+ Collaborative Arrangements
+(Topic 808), Clarifying the Interaction between Topic 808 and Topic 606
+ (“ASU 
+2018-18”),
+ which clarifies that transactions in a collaborative arrangement should be accounted for under ASU 
+2014-09,
+ Revenue from Contracts with Customers (Topic 606) (“ASC 606”) when the counterparty is a customer for a distinct good or service. The amendment also precludes an entity from presenting
+consideration from a transaction in a collaborative arrangement as revenue if the counterparty is not a customer for that transaction. ASU 
+2018-18
+ is effective for the Company from January 1, 2020, with
+early adoption permitted. We adopted the standard on January 1, 2020, and such adoption did not have a material impact on our financial statements. 
+
+New Accounting Pronouncements Not Yet Adopted 
+
+In
+December 2019, the FASB issued ASU 
+2019-12,
+
+Income Tax (Topic 740), Simplifying the Accounting for Income Taxes 
+(“ASU 
+2019-12”),
+ which simplifies the
+accounting for income taxes by eliminating certain exceptions to the guidance in Topic 740 related to the approach for intraperiod tax allocation, the methodology for calculating income taxes in an interim period and the recognition of deferred tax
+liabilities for outside basis differences. The guidance also simplifies aspects of the accounting for franchise taxes and enacted changes in tax laws or rates and clarifies the accounting for transactions that result in a 
+step-up
+ in the tax basis of goodwill. ASU 
+2019-12
+ is effective for the Company from January 1, 2021, with early adoption permitted. We are currently evaluating the impact
+the adoption of this standard will have on our financial statements. 
+
+- 21 - 
+
+In January 2020, the FASB issued ASU 
+2020-01,
+
+Investments—Equity Securities (Topic 321), Investments—Equity Method and Joint Ventures (Topic 323), and Derivatives and Hedging (Topic 815)
+ (“ASU 
+2020-01”),
+ which clarifies the
+interaction for equity securities under Topic 321 and investments accounted for under the equity method of accounting in Topic 323 and the accounting for certain forward contracts and purchased options accounted for under Topic 815. ASU 
+2020-01
+ is effective for the Company from January 1, 2021, with early adoption permitted. We are currently evaluating the impact the adoption of this standard will have on our financial statements. 
+
+Note 3 – Revenue 
+
+The following table presents
+revenue disaggregated by types of arrangements and segments: 
+
+Six Months Ended June 30, 2020
+
+Revenues | KFC | Pizza Hut | All Other Segments | Corporate and Unallocated | Combined | Elimination | Consolidated
+
+Company sales | $ | 2,480 | $ | 744 | $ | 16 | $ | — | $ | 3,240 | $ | — | $ | 3,240
+
+Franchise fees and Income | 65 | 2 | 5 | — | 72 | — | 72
+
+Revenues from transactions with franchisees and unconsolidated affiliates | 31 | 2 | 16 | 269 | 318 | — | 318
+
+Other revenues | — | — | 41 | 2 | 43 | (17 | ) | 26
+
+Total revenues | $ | 2,576 | $ | 748 | $ | 78 | $ | 271 | $ | 3,673 | $ | (17 | ) | $ | 3,656
+
+Six Months Ended June 30, 2019 (Unaudited)
+
+Revenues | KFC | Pizza Hut | All Other Segments) | Corporate and Unallocated | Combined | Elimination | Consolidated
+
+Company sales | $ | 2,949 | $ | 1,048 | $ | 18 | $ | — | $ | 4,015 | $ | — | $ | 4,015
+
+Franchise fees and Income | 69 | 2 | 4 | — | 75 | — | 75
+
+Revenues from transactions with franchisees and unconsolidated affiliates | 32 | 2 | 12 | 278 | 324 | — | 324
+
+Other revenues | — | 1 | 30 | 2 | 33 | (19 | ) | 14
+
+Total revenues | $ | 3,050 | $ | 1,053 | $ | 64 | $ | 280 | $ | 4,447 | $ | (19 | ) | $ | 4,428
+
+- 22 - 
+
+Franchise Fees and Income 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(Unaudited)
+
+Initial fees, including renewal fees | $ | 7 | $ | 4
+
+Continuing fees and rental income | 65 | 71
+
+Franchise fees and income | $ | 72 | $ | 75
+
+Costs to Obtain Contracts 
+
+Costs to obtain contracts consist of upfront franchise fees that we paid to YUM prior to the separation in relation to initial fees or renewal fees we received
+from franchisees and unconsolidated affiliates, as well as license fees that are payable to YUM in relation to our deferred revenue of prepaid stored-value products, privilege membership programs and customer loyalty programs. They meet the
+requirements to be capitalized as they are incremental costs of obtaining contracts with customers and the Company expects to generate future economic benefits from such costs incurred. Such costs to obtain contracts are included in Other assets in
+the Consolidated Balance Sheets and are amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the assets relate. Subsequent to the separation, we are no longer required to pay YUM
+initial or renewal fees that we receive from franchisees and unconsolidated affiliates. The Company did not incur any impairment losses related to costs to obtain contracts during any of the periods presented. Costs to obtain contracts were
+$9 million and $9 million at June 30, 2020 and December 31, 2019, respectively. 
+
+Contract Liabilities 
+
+Contract liabilities at June 30, 2020 and December 31, 2019 were as follows: 
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Contract liabilities
+
+- Deferred revenue related to prepaid stored-value products | $ | 100 | $ | 86
+
+- Deferred revenue related to upfront franchise fees | 39 | 39
+
+- Deferred revenue related to customer loyalty programs | 25 | 24
+
+- Deferred revenue related to privilege membership programs | 21 | 16
+
+- Others | 3 | 3
+
+Total | $ | 188 | $ | 168
+
+Contract liabilities primarily consist of deferred revenue related to prepaid stored-value products, privilege membership
+programs, customer loyalty programs and upfront franchise fees. Deferred revenue related to prepaid stored-value products, privilege membership programs, and customer loyalty programs is included in Accounts payable and other current liabilities in
+the Consolidated Balance Sheets. Deferred revenue related to upfront franchise fees that we expect to recognize as revenue in the next 12 months is included in Accounts payable and other current liabilities, and the remaining balance is included in
+Other liabilities in the Consolidated Balance Sheets. Revenue recognized that was included in the contract liability balance at the beginning of the period amounted to $63 million and $48 million in the six months ended June 30, 2020
+and 2019, respectively. Changes in contract liability balances were not materially impacted by business acquisition, change in estimate of transaction price or any other factors during any of the years presented. 
+
+The Company has elected, as a practical expedient, not to disclose the value of remaining performance obligations associated with sales-based royalty promised
+to franchisees in exchange for franchise right and other related services. The remaining duration of the performance obligation is the remaining contractual term of each franchise agreement. We recognize continuing franchisee fees and revenues from
+advertising services and other services provided to franchisees and unconsolidated affiliates based on certain percentage of sales, as those sales occur. 
+
+- 23 - 
+
+Note 4 – Earnings Per Common Share (“EPS”) 
+
+The following table summarizes the components of basic and diluted earnings per share (in millions, except for per share data): 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(Unaudited)
+
+Net Income – Yum China Holdings, Inc. | $ | 194 | $ | 400
+
+Weighted-average common shares outstanding (for basic calculation) (a) | 376 | 378
+
+Effect of dilutive share-based awards (a) | 7 | 8
+
+Effect of dilutive warrants (b) | 4 | 3
+
+Weighted-average common and dilutive potential common shares outstanding (for diluted
+calculation) | 387 | 389
+
+Basic Earnings Per Share | $ | 0.51 | $ | 1.06
+
+Diluted Earnings Per Share | $ | 0.50 | $ | 1.03
+
+Share-based awards excluded from the diluted EPS computation (c) | 4 | 2
+
+(a) | As a result of the separation, shares of Yum China common stock were distributed to YUM’s shareholders of
+record as of October 19, 2016 and included in the calculated weighted-average common shares outstanding. Holders of outstanding YUM equity awards generally received both adjusted YUM awards and Yum China awards, or adjusted awards of either YUM
+or Yum China in their entirety. Any subsequent exercise of these awards, whether held by the Company’s employees or YUM’s employees, would increase the number of common shares outstanding. The incremental shares arising from outstanding
+equity awards are included in the computation of diluted EPS, if there is dilutive effect. See Note 14 for a further discussion of share-based compensation.
+
+(b) | Pursuant to the investment agreements dated September 1, 2016 (Note 10), Yum China issued to strategic
+investors two tranches of warrants on January 9, 2017, with each tranche initially providing the right to purchase 8,200,405 shares of Yum China common stock, at an initial exercise price of $31.40 and $39.25 per share, respectively, subject to
+customary anti-dilution adjustments. The warrants may be exercised at any time through October 31, 2021. The incremental shares arising from outstanding warrants are included in the computation of diluted EPS, if there is dilutive effect when
+the average market price of Yum China common stock for the year exceeds the applicable exercise price of the warrants.
+
+(c) | These outstanding stock appreciation rights, RSUs and PSUs were excluded from the computation of diluted EPS
+because to do so would have been antidilutive for the years to date presented, or because certain PSUs are contingently issuable based on the achievement of performance and market conditions, which have not been met as of June 30, 2020.
+
+Note 5 – Items Affecting Comparability of Net Income and Cash Flows 
+
+Impact of 
+COVID-19
+ Pandemic 
+
+The 
+COVID-19
+ pandemic has significantly impacted the Company’s operations in the six months ended June 30,
+2020. The decrease in Operating profit was mainly driven by same-store sales declines and temporary store closures resulting from the 
+COVID-19
+ pandemic, and offset by
+
+one-time
+ rent concessions of $25 million from landlords and a 
+one-time
+ government subsidy in the form of a reduction in social security contributions of
+$49 million. Operating profit for the six months ended June 30, 2020 was $225 million, a decrease of 56% from the six months ended June 30, 2019. 
+
+- 24 - 
+
+Restaurant-level Impairment 
+
+We recorded restaurant-level impairment charges of $36 million (including property, plant and equipment of $31 million and ROU assets of $5 million) and
+$25 million (including property, plant and equipment of $12 million and ROU assets of $13 million) for the six months ended June 30, 2020 and June 30, 2019, respectively. The increase in restaurant-level impairment charges in 2020
+mainly resulted from the adverse effects of the 
+COVID-19
+ pandemic. See Note 12 for additional information. 
+
+Meituan Dianping (“Meituan”) investment 
+
+In the
+third quarter of 2018, the Company subscribed for 8.4 million, or less than 1%, of the ordinary shares of Meituan, an 
+e-commerce
+ platform for services in China, for a total consideration of approximately
+$74 million, when it launched its initial public offering on the Hong Kong Stock Exchange in September 2018. In the second quarter of 2020, the Company sold 4.2 million of its ordinary shares of Meituan for proceeds of approximately
+$54 million, and realized a $17 million 
+pre-tax
+ gain which was recognized during the holding period. The Company recorded $14 million of U.S. tax in the six months ended June 30, 2020,
+including $7 million and $7 million related to gain on our investment in equity securities of Meituan recognized during the six months ended June 30, 2020 and prior year, respectively. 
+
+The Company accounted for the equity securities at fair value with subsequent fair value changes recorded in our Consolidated Statements of Income. The fair
+value of the investment in Meituan is determined based on the closing market price for the shares at the end of each reporting period. The fair value change, to the extent the closing market price of shares of Meituan as of the end of reporting
+period is higher than our cost, is subject to U.S. tax. 
+
+A summary of 
+pre-tax
+ gains or losses on investment on
+equity securities recognized which was included in Investment gain or loss in our Consolidated Statements of Income is as follows: 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(Unaudited)
+
+Unrealized gains recorded on equity securities still held as of the end of the period | $ | 38 | $ | 27
+
+Losses recorded on equity securities sold during the period | (1 | ) | –
+
+Gains recorded on equity securities | $ | 37 | $ | 27
+
+- 25 - 
+
+Transition Tax 
+
+The Company recorded $164 million as an additional income tax expense in the fourth quarter of 2017, the period in which the Tax Act was enacted. It
+includes an estimated 
+one-time
+ transition tax of $130 million on the deemed repatriation of accumulated undistributed foreign earnings, $5 million primarily related to the 
+re-measurement
+ of certain deferred tax assets based on the rates at which they are expected to reverse in the future, and the valuation allowance of $30 million for certain deferred tax assets. We completed our
+analysis of the Tax Act in the fourth quarter of 2018 according to guidance released by the U.S. Treasury Department and IRS as of December 2018 and made an adjustment of $36 million to reduce the provisional amount for transition tax recorded
+in 2017 accordingly. The U.S. Treasury Department and the IRS released the final transition tax regulations in the first quarter of 2019. We completed the evaluation of the impact on our transition tax computation based on the final regulations
+released in the first quarter of 2019 and recorded an additional income tax expense of $8 million for the transition tax accordingly. 
+
+Partner PSU
+Awards 
+
+In February 2020, the Company’s Board of Directors approved new grants of SARs, RSUs and PSUs to employees under the Yum China Holdings,
+Inc. Long Term Incentive Plan (the “2016 Plan”). The awards will be earned based on their respective vesting terms, with PSUs subject to market conditions or performance conditions. A special award of PSUs (“Partner PSU Awards”)
+was granted to select employees who were deemed critical to the Company’s execution of its strategic operating plan. These Partner PSU Awards will only vest if threshold performance goals are achieved over a four-year performance period, with
+the payout ranging from 0% to 200% of the target number of shares. Partner PSU Awards were granted to address increased competition for executive talent, motivate transformational performance and encourage management retention. Given the unique
+nature of these grants, the Compensation Committee of the Board does not intend to grant similar, special grants to the same employees during the performance period. The impact from these special awards is excluded from metrics that management uses
+to assess the Company’s performance. The Company recognized a share-based compensation cost associated with the Partner PSU Awards of $2 million for six months ended June 30, 2020. 
+
+Note 6 – Other Income, net 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(Unaudited)
+
+Equity income from investments in unconsolidated affiliates | $ | 34 | $ | 37
+
+Derecognition of indemnification asset (a) | (3 | ) | –
+
+Foreign exchanges and other | (5 | ) | (6 | )
+
+Other income, net | $ | 26 | $ | 31
+
+(a) | In the six months ended June 30, 2020, the Company derecognized a $3 million indemnification asset
+previously recorded for the Daojia acquisition as the indemnification right pursuant to the purchase agreement expired. The expense was included in Other income, net, but was not allocated to any segment for performance reporting purposes.
+
+- 26 - 
+
+Note 7 – Supplemental Balance Sheet Information 
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Accounts Receivable, net
+
+Accounts receivable, gross | $ | 84 | $ | 89
+
+Allowance for doubtful accounts | (1 | ) | (1 | )
+
+Accounts receivable, net | $ | 83 | $ | 88
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Prepaid Expenses and Other Current Assets
+
+Receivables from payment processors and aggregators | $ | 26 | $ | 41
+
+Prepaid rent | 1 | 2
+
+Dividends receivable from unconsolidated affiliates | 51 | 8
+
+Other prepaid expenses and current assets | 88 | 83
+
+Prepaid expenses and other current assets | $ | 166 | $ | 134
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Property, Plant and Equipment
+
+Buildings and improvements | $ | 2,146 | $ | 2,159
+
+Finance leases, primarily buildings | 30 | 30
+
+Machinery and equipment and construction in progress | 1,254 | 1,282
+
+Property, plant and equipment, gross | 3,430 | 3,471
+
+Accumulated depreciation | (1,926 | ) | (1,877 | )
+
+Property, plant and equipment, net | $ | 1,504 | $ | 1,594
+
+Depreciation and amortization expense related to property, plant and equipment was $205 million and $205 million in
+the six months ended June 30, 2020 and 2019, respectively. 
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Other Assets
+
+VAT assets | $ | 237 | $ | 243
+
+Land use right (a) | 129 | 133
+
+Investment in equity securities | 93 | 110
+
+Long-term deposits | 73 | 71
+
+Investment in long-term time deposits (b) | 57 | –
+
+Costs to obtain contracts | 9 | 9
+
+Restricted cash | 7 | 9
+
+Others | 6 | 5
+
+Other Assets | $ | 611 | $ | 580
+
+(a) | Amortization expense related to land use right was $2 million and $2 million in the six months ended
+June 30, 2020 and 2019, respectively.
+
+(b) | As of June 30, 2020, the Company had $57 million invested in long-term time deposits, bearing a fixed
+interest rate with original maturity of three years. The asset is restricted for use in order to secure the balance of prepaid store-value cards issued by the Company pursuant to regulatory requirements.
+
+- 27 - 
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Accounts Payable and Other Current Liabilities
+
+Accounts payable | $ | 566 | $ | 623
+
+Operating leases liabilities | 401 | 382
+
+Accrued compensation and benefits | 179 | 223
+
+Contract liabilities | 155 | 135
+
+Accrued capital expenditures | 122 | 150
+
+Accrued marketing expenses | 94 | 64
+
+Other current liabilities | 143 | 114
+
+Accounts payable and other current liabilities | $ | 1,660 | $ | 1,691
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Other Liabilities
+
+Deferred income tax liabilities | $ | 101 | $ | 67
+
+Accrued income tax payable | 62 | 69
+
+Contract liabilities | 33 | 33
+
+Other noncurrent liabilities | 56 | 41
+
+Other liabilities | $ | 252 | $ | 210
+
+Reconciliation of Cash, Cash equivalents, and Restricted Cash for Consolidated Statements of Cash Flows 
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Cash and cash equivalents as presented in Consolidated Balance Sheets | $ | 674 | $ | 1,046
+
+Restricted cash included in Other assets (c) | 7 | 9
+
+Cash, Cash Equivalents and Restricted Cash as presented in Consolidated Statements of Cash
+Flows | $ | 681 | $ | 1,055
+
+(c) | As of June 30, 2020, the $7 million of restricted cash included in Other assets within our
+Consolidated Balance Sheet represents amounts deposited into an escrow account pursuant to a definitive agreement entered into in April 2020 to acquire an additional 25% equity interest in an unconsolidated affiliate that operates KFC stores in and
+around Suzhou, China (“Suzhou KFC”). The Suzhou KFC acquisition was completed on August 3, 2020 and was considered immaterial. As of December 31, 2019, the $9 million of restricted cash represents amounts deposited into an
+escrow account pursuant to a definitive agreement entered into in August 2019 to acquire a controlling interest in the Huang Ji Huang group. The Huang Ji Huang acquisition was completed on April 8, 2020 and was considered immaterial.
+
+- 28 - 
+
+Note 8 – Goodwill and Intangible Assets 
+
+The changes in the carrying amount of goodwill are as follows: 
+
+Total Company | KFC | Pizza Hut | All Other Segments
+
+Balance as of December 31, 2019
+
+Goodwill, gross | $ | 645 | $ | 235 | $ | 19 | $ | 391
+
+Accumulated impairment losses (a) | (391 | ) | — | — | (391 | )
+
+Goodwill, net | $ | 254 | $ | 235 | $ | 19 | $ | —
+
+Goodwill acquired (b) | 59 | — | — | 59
+
+Effect of currency translation adjustment and other | (4 | ) | (3 | ) | (1 | ) | —
+
+Balance as of June 30, 2020
+
+Goodwill, gross | 700 | 232 | 18 | 450
+
+Accumulated impairment losses | (391 | ) | — | — | (391 | )
+
+Goodwill, net | 309 | 232 | 18 | 59
+
+(a) | Accumulated impairment losses represent goodwill attributable to the Little Sheep and Daojia reporting unit.
+
+(b) | Goodwill acquired resulted from the acquisition of Huang Ji Huang. (Note 1).
+
+Intangible assets, net as of June 30, 2020 and December 31, 2019 are as follows: 
+
+June 30, 2020
+
+Gross Carrying Amount (a) | Accumulated Amortization | Accumulated Impairment Losses (b) | Net Carrying Amount
+
+Finite-lived intangible assets
+
+Reacquired franchise rights | $ | 147 | $ | (118 | ) | $ | — | $ | 29
+
+Huang Ji Huang franchise related assets (c) | 21 | — | — | 21
+
+Daojia platform | 16 | (4 | ) | (12 | ) | —
+
+Customer-related assets | 12 | (9 | ) | (2 | ) | 1
+
+Other | 9 | (4 | ) | — | 5
+
+205 | (135 | ) | (14 | ) | 56
+
+Indefinite-lived intangible assets Little Sheep trademark | 51 | — | — | 51
+
+Huang Ji Huang trademark (c) | 76 | — | — | 76
+
+127 | — | — | 127
+
+Total intangible assets | $ | 332 | $ | (135 | ) | $ | (14 | ) | $ | 183
+
+- 29 - 
+
+December 31, 2019
+
+Gross Carrying Amount (a) | Accumulated Amortization | Accumulated Impairment Losses (b) | Net Carrying Amount
+
+Finite-lived intangible assets
+
+Reacquired franchise rights | $ | 148 | $ | (113 | ) | $ | – | $ | 35
+
+Daojia platform | 16 | (4 | ) | (12 | ) | –
+
+Customer-related assets | 12 | (8 | ) | (2 | ) | 2
+
+Other | 9 | (4 | ) | – | 5
+
+$ | 185 | $ | (129 | ) | $ | (14 | ) | $ | 42
+
+Indefinite-lived intangible assets Little Sheep trademark | $ | 52 | $ | – | $ | – | $ | 52
+
+Total intangible assets | $ | 237 | $ | (129 | ) | $ | (14 | ) | $ | 94
+
+(a) | Changes in gross carrying amount include effect of currency translation adjustment.
+
+(b) | Accumulated impairment losses represent impairment charges on intangible assets acquired from Daojia primarily
+attributable to the Daojia platform.
+
+(c) | Increase in gross carrying amount of finite-lived and indefinite-lived intangible assets primarily resulted
+from the acquisition of Huang Ji Huang. (Note 1).
+
+Amortization expense for finite-lived intangible assets was $6 million and
+$10 million in the six months ended June 30, 2020 and 2019, respectively. Amortization expense for finite-lived intangible assets is expected to approximate $7 million for the remainder of 2020, $13 million in 2021,
+$13 million in 2022, $3 million in 2023 and $2 million in 2024. 
+
+Note 9 – Credit Facilities 
+
+As of June 30, 2020, the Company had credit facilities of RMB 3,713 million (approximately $526 million), comprised of onshore credit facilities of
+RMB 2,300 million (approximately $326 million) in the aggregate and offshore credit facilities of $200 million in the aggregate. 
+
+The credit
+facilities had remaining terms ranging from less than one year to three years as of June 30, 2020. Each credit facility bears interest based on the prevailing rate stipulated by the People’s Bank of China, Loan Prime Rate (“LPR”)
+published by the National Interbank Funding Centre of the PRC or London Interbank Offered Rate (“LIBOR”) administered by the ICE Benchmark Administration. Each credit facility contains a cross- default provision whereby our failure to make
+any payment on a principal amount from any credit facility will constitute a default on other credit facilities. Some of the credit facilities contain covenants limiting, among other things, certain additional indebtedness and liens, and certain
+other transactions specified in the respective agreement. Interest on any outstanding borrowings is due at least monthly. Some of the onshore credit facilities contain 
+sub-limits
+ for overdrafts, 
+non-financial
+ bonding, standby letters of credit and guarantees. As of June 30, 2020, we had outstanding bank guarantees of RMB 89 million (approximately $13 million) to secure our lease payment to
+landlords for certain Company-owned restaurants. The credit facilities were therefore reduced by the same amount, while there were no bank borrowings outstanding as of June 30, 2020. 
+
+Note 10 – Investment Agreements with Strategic Investors 
+
+On September 1, 2016, YUM and the Company entered into investment agreements (the “Investment Agreements”) with each of Pollos Investment L.P.,
+an affiliate of Primavera Capital Group (“Primavera”), and API (Hong Kong) Investment Limited, an affiliate of Zhejiang Ant Small and Micro Financial Services Group Co., Ltd. (“Ant Financial” and, together with Primavera, the
+“Investors”). Pursuant to the Investment Agreements, on November 1, 2016 (“Closing Date”), Primavera and Ant Financial invested $410 million and $50 million, respectively, for a collective $460 million
+investment (the “Investment”) in the Company in exchange for: (i) shares of Yum China common stock representing in the aggregate 5% of Yum China common stock issued and outstanding immediately following the separation subject to
+Post-Closing Adjustment for a final aggregate ownership of between 4.3% and 5.9% in Yum China and (ii) two tranches of warrants (the “Warrants”), exercisable for an approximate additional 4% ownership, in the aggregate, of Yum China
+common stock issued and outstanding after the separation, taking into account the shares previously issued to the Investors. Immediately before the closing of the Investment, Yum China had 363,758,219 shares of common stock issued and outstanding,
+with a par value US$0.01 per share. Pursuant to the Investment Agreements, on November 1, 2016, Yum China issued 17,064,172.74 and 2,080,996.68 shares of common stock (the “Closing Shares”) at US$24.03 per share (“Closing
+Price”) to Primavera and Ant Financial, respectively, subject to adjustment as described below. 
+
+- 30 - 
+
+Pursuant to the Investment Agreements, the Investors and the Company determined the volume weighted-average
+trading price (“VWAP”) per share of Company common stock over the trading days occurring over the period from December 1, 2016 to December 30, 2016 (the “Measurement Period”), and discounted such VWAP by 8% (the
+“Adjusted VWAP Price Per Share”). 
+
+Since the Adjusted VWAP Price Per Share of $25.05 exceeded the Closing Price of US$24.03 paid by the
+Investors at the Closing Date, on January 9, 2017, the Company repurchased from Primavera and Ant Financial 699,394.74 and 85,291.68 shares of common stock, respectively, at par value of $0.01 per share, based on the Adjusted VWAP Price Per
+Share as determined on December 30, 2016. The repurchased shares were included in Treasury Stock as of December 31, 2016 in the Consolidated Financial Statements. 
+
+In addition, pursuant to the terms of the Investment Agreements, on January 9, 2017, Yum China issued to each of the Investors two tranches of Warrants.
+Upon exercise, the first tranche of Warrants initially provided Primavera and Ant Financial with the right to purchase 7,309,057 and 891,348 shares of Yum China common stock, respectively, at an initial exercise price of $31.40 per share. The second
+tranche of Warrants initially provided Primavera and Ant Financial with the right to purchase the same number of shares of Yum China common stock purchasable by Primavera and Ant Financial under the first tranche of Warrants, at an initial exercise
+price of $39.25 per share. The initial exercise price for the Warrants was based on $12 billion and $15 billion for the first tranche and second tranche, respectively, divided by the number of shares of common stock, including the Closing
+Shares after the Post-Closing Adjustment, issued and outstanding as of the Closing Date. The Warrants may be exercised at any time through October 31, 2021 and contain customary anti- dilution protections. 
+
+As a result of the issuance of the Closing Shares and the Post-Closing Adjustment (excluding shares issuable upon exercise of the Warrants), Primavera and Ant
+Financial collectively beneficially owned approximately 4.8% of the outstanding shares of Yum China common stock as of January 9, 2017, or approximately 8.7% of the outstanding shares of Yum China common stock as of January 9, 2017
+assuming the full exercise of both tranches of Warrants by each of the Investors. 
+
+Total cash proceeds of $460 million from the closing of the
+Investment were first allocated to the Post-Closing Adjustment and Warrants based on their fair value on November 1, 2016, with the residual value of $364 million allocated to the shares of common stock issued. 
+
+In October and November 2019, Primavera entered into 
+pre-paid
+ forward sale transactions with several financial
+institutions (the “Dealers”), pursuant to which Primavera is obligated to deliver to the Dealers all of its second tranche of Warrants. The Warrants or interests are subsequently transferrable in the secondary market to other financial
+investors. 
+
+- 31 - 
+
+Note 11 – Leases 
+
+As of June 30, 2020, we operated over 7,400 company-owned restaurants, leasing the underlying land and/or building. We generally enter into lease
+agreements for our restaurants with initial terms of 10 to 20 years. Most of our lease agreements contain termination options that permit us to terminate the lease agreement early if the restaurant’s unit contribution is negative for a
+specified period of time. We generally do not have renewal options for our leases. Such options are accounted for only when it is reasonably certain that we will exercise the options. The rent under the majority of our current restaurant lease
+agreements is generally payable in one of three ways: (i) fixed rent; (ii) the higher of a fixed base rent or a percentage of the restaurant’s sales; or (iii) a percentage of the restaurant’s sales. Most leases require us to
+pay common area maintenance fees for the leased property. In addition to restaurants leases, we also lease office spaces, logistics centers and equipment. Our lease agreements do not contain any material residual value guarantees or material
+restrictive covenants. 
+
+In limited cases, we 
+sub-lease
+ certain restaurants to franchisees in connection with
+refranchising transactions or lease our properties to other third parties. The lease payments under these leases are generally based on the higher of a fixed base rent or a percentage of the restaurant’s annual sales. Income from 
+sub-lease
+ agreements with franchisees or lease agreements with other third parties are included in Franchise fees and income and Other revenue, respectively, within our Consolidated Statements of Income. The impact
+of ASC 842 on our accounting as a lessor was not significant. 
+
+Supplemental Balance Sheet 
+
+As of June 30, 2020 | As of December 31, 2019 | Account Classification
+
+Assets
+
+Operating lease right-of-use assets | $ | 1,886 | $ | 1,985 | Operating lease right-of-use assets
+
+Finance lease right-of-use assets | 17 | 18 | Property, plant and equipment, net
+
+Total leased assets | $ | 1,903 | $ | 2,003
+
+Liabilities
+
+Current
+
+Operating lease liabilities | $ | 401 | $ | 382 | Accounts payable and other current liabilities
+
+Finance lease liabilities | 2 | 2 | Accounts payable and other current liabilities
+
+Non-current
+
+Operating lease liabilities | 1,677 | 1,803 | Non-current operating lease liabilities
+
+Finance lease liabilities | 24 | 26 | Non-current finance lease liabilities
+
+Total lease liabilities | $ | 2,104 | $ | 2,213
+
+Summary of Lease Cost | Six Months Ended June 30, | Account Classification
+
+2020 | 2019
+
+(unaudited)
+
+Operating lease cost | $ | 241 | $ | 234 | Occupancy and other operating expenses, G&A or Franchise expenses
+
+Finance lease cost
+
+Amortization of leased assets | 1 | 1 | Occupancy and other operating expenses
+
+Interest on lease liabilities | 1 | 1 | Interest expense, net
+
+Variable lease cost (a) | 104 | 171 | Occupancy and other operating expenses or Franchise expenses
+
+Short-term lease cost | 5 | 5 | Occupancy and other operating expenses or G&A
+
+Sub-lease income | (12 | ) | (14 | ) | Franchise fees and income or Other revenues
+
+Total lease cost | $ | 340 | $ | 398
+
+- 32 - 
+
+(a) | In the six months ended June 30, 2020, the Company was granted $25 million in lease concessions from
+landlords related to the effects of the COVID-19 pandemic. The lease concessions were primarily in the form of rent reduction over the period of time when the Company’s restaurant business was adversely
+impacted. The Company applied the interpretive guidance in a FASB staff Q&A document issued in April 2020 and elected: (1) not to evaluate whether a concession received in response to the COVID-19 pandemic is a lease modification and (2) to assume such concession was contemplated as part of the existing lease contract with no contract modification. Such concession was recognized as negative variable lease cost in the period the
+concession was granted.
+
+Supplemental Cash Flow Information 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+Cash paid for amounts included in the measurement of lease liabilities:
+
+Operating cash flows from operating leases | $ | 233 | $ | 241
+
+Operating cash flows from finance leases | 1 | 1
+
+Financing cash flows from finance leases | 1 | 1
+
+Right-of-use assets obtained in exchange for new lease liabilities (b) :
+
+Operating leases | $ | 93 | $ | 119
+
+Finance leases | (1 | ) | —
+
+(b) | This supplemental non-cash disclosure for ROU obtained in exchange for
+new lease liabilities also includes noncash transactions resulting in adjustments to the lease liability or ROU asset due to modification or other reassessment events.
+
+Lease Term and Discount Rate 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+Weighted-average remaining lease term (years)
+
+Operating leases | 6.9 | 7.2
+
+Finance leases | 11.1 | 12.1
+
+Weighted-average discount rate
+
+Operating leases | 6.0 | % | 6.1 | %
+
+Finance leases | 5.8 | % | 5.7 | %
+
+- 33 - 
+
+Summary of Future Lease Payments and Lease Liabilities 
+
+Maturities of lease liabilities as of June 30, 2020 and December 31, 2019 were as follows: 
+
+As of June 30, 2020
+
+Amount of Operating Leases | Amount of Finance Leases | Total
+
+Remainder of 2020 | 274 | 2 | 276
+
+2021 | 457 | 4 | 461
+
+2022 | 397 | 4 | 401
+
+2023 | 334 | 3 | 337
+
+2024 | 271 | 3 | 274
+
+Thereafter | 810 | 20 | 830
+
+Total undiscounted lease payment | 2,543 | 36 | 2,579
+
+Less: imputed interest (c) | 465 | 10 | 475
+
+Present value of lease liabilities | 2,078 | 26 | 2,104
+
+As of December 31, 2019
+
+Amount of Operating Leases | Amount of Finance Leases | Total
+
+2020 | $ | 504 | $ | 4 | $ | 508
+
+2021 | 448 | 4 | 452
+
+2022 | 389 | 4 | 393
+
+2023 | 325 | 3 | 328
+
+2024 | 261 | 3 | 264
+
+Thereafter | 781 | 21 | 802
+
+Total undiscounted lease payment | 2,708 | 39 | 2,747
+
+Less: imputed interest (c) | 523 | 11 | 534
+
+Present value of lease liabilities | $ | 2,185 | $ | 28 | $ | 2,213
+
+(c) | As the rate implicit in the lease cannot be readily determined, we use our incremental borrowing rate based on
+the information available at the lease commencement date in determining the imputed interest and present value of lease payments. We used the incremental borrowing rate on January 1, 2019 for operating leases that commenced prior to that date.
+
+As of June 30, 2020, we have additional lease agreements that have been signed but not yet commenced, with total undiscounted
+minimum lease payments of $115 million. These leases will commence between the third quarter of 2020 and 2023 with lease terms of 1 year to 20 years. 
+
+Note 12 – Fair Value Measurements and Disclosures 
+
+The Company’s financial assets and liabilities primarily consist of cash and cash equivalents, short-term investments, long-term time deposits, accounts
+receivable, accounts payable, and lease liabilities, and the carrying values of these assets and liabilities approximate their fair value in general. 
+
+The
+Company accounts for its investment in the equity securities of Meituan at fair value, which is determined based on the closing market price for the shares at the end of each reporting period, with subsequent fair value changes recorded in our
+Consolidated Statements of Income. 
+
+The following table is a summary of our financial assets measured on a recurring basis or disclosed at fair value and
+the level within the fair value hierarchy in which the measurement falls. The Company classifies its cash equivalents, short-term investments, long-term time deposits, and investment in equity securities within Level 1 or Level 2 in the
+fair value hierarchy because it uses quoted market prices or alternative pricing sources and models utilizing market observable inputs to determine their fair value, respectively. No transfers among the levels within the fair value hierarchy
+occurred in the six months ended June 30, 2020 and 2019. 
+
+- 34 - 
+
+Fair Value Measurement or Disclosure at June 30, 2020
+
+Balance at June 30, 2020 | Level 1 | Level 2 | Level 3
+
+Cash equivalents:
+
+Time deposits | $ | 230 | $ | 230
+
+Money market funds | 52 | 52
+
+Fixed rate debt securities (a) | 28 | 28
+
+Total cash equivalents | 310 | 52 | 258 | —
+
+Short-term investments:
+
+Time deposits | 1,034 | 1,034
+
+Total short-term investments | 1,034 | — | 1,034 | —
+
+Other assets:
+
+Investment in equity securities | 93 | 93
+
+Long-term time deposits | 57 | 57
+
+Total | $ | 1,494 | $ | 145 | $ | 1,349 | $ | —
+
+Fair Value Measurement or Disclosure at December 31, 2019
+
+Balance at December 31, 2019 | Level 1 | Level 2 | Level 3
+
+Cash equivalents:
+
+Time deposits | $ | 407 | $ | 407
+
+Money market funds | 331 | 331
+
+Total cash equivalents | 738 | 331 | 407 | —
+
+Short-term investments:
+
+Time deposits | 611 | 611
+
+Total short-term investments | 611 | — | 611 | —
+
+Other assets:
+
+Investment in equity securities | 110 | 110
+
+Total | $ | 1,459 | $ | 441 | $ | 1,018 | $ | —
+
+(a) | Classified as held-to-maturity investments and measured at amortized cost.
+
+Non-recurring
+ fair value measurements 
+
+In addition, certain of the Company’s restaurant-level assets (including operating lease ROU assets, property, plant and equipment), goodwill and
+intangible assets, are measured at fair value based on unobservable inputs (Level 3) on a 
+non-recurring
+ basis, if determined to be impaired. As of June 30, 2020, the fair value of restaurant-level assets,
+if determined to be impaired, are primarily represented by the price market participant would pay to 
+sub-lease
+ the operating lease ROU assets and acquire remaining restaurants assets, which reflects the
+highest and best use of the assets. Significant unobservable inputs used in the fair value measurement include market rental prices, which were determined with the assistance of an independent valuation specialist. The direct comparison
+approach is used as the valuation technique by assuming 
+sub-lease
+ of each of these properties in its existing state with vacant possession. By making reference to lease transactions as available in the
+relevant market, comparable properties in close proximity have been selected and adjustments have been made to account for the difference in factors such as location and property size. 
+
+The following table presents amounts recognized from all 
+non-recurring
+ fair value measurements based on unobservable
+inputs (Level 3) during the six months ended June 30, 2020 and 2019. These amounts exclude fair value measurements made for restaurants that were subsequently closed or refranchised prior to those respective
+
+year-end
+ dates. 
+
+- 35 - 
+
+Six Months Ended June 30,
+
+2020 | 2019 | Account Classification
+
+(Unaudited)
+
+Restaurant-level impairment (a) | $ | 30 | $ | 19 | Closure and impairment expenses, net
+
+ROU impairment prior to the adoption of ASC 842 (b) | – | 82 | Retained Earnings
+
+Total | $ | 30 | $ | 101
+
+(a) | Restaurant-level impairment charges are recorded in Closures and impairment expenses, net and resulted from our
+semi-annual impairment evaluation of long-lived assets of individual restaurants that were being operated at the time of impairment and had not been offered for refranchising. We performed an additional impairment evaluation in the first quarter of
+2020, considering the adverse effects of the COVID-19 pandemic an impairment indicator. A trend of continuing operating losses for certain restaurants due to the COVID-19 pandemic resulted in higher impairment during the second quarter of 2020.We also performed an additional impairment evaluation upon adoption of ASC 842 in the first quarter of 2019. The remaining net
+book value of assets at fair value as of each relevant measurement date, after considering the impairment charge recorded during the six months ended June 30, 2020 and 2019, was $76 million and $ 20 million, respectively.
+
+(b) | ROU impairment prior to the adoption of ASC 842 represents an impairment charge on operating lease ROU assets
+arising from existing operating leases as of January 1, 2019. After netting with the related impact on deferred taxes of $19 million and the impact on noncontrolling interests of $3 million, we recorded a cumulative adjustment of
+$60 million to retained earnings in accordance with the transition guidance for the new lease standard. For those restaurants under operating leases with full impairment on their long-lived assets (primarily property, plant and equipment)
+before January 1, 2019, an additional impairment charge would have been recorded before January 1, 2019 had the operating lease ROU assets been recognized at the time of impairment.
+
+Note 13 – Retirement Plans 
+
+For executives who were
+hired or 
+re-hired
+ after September 30, 2001, YUM has implemented the YUM LRP. This is an unfunded, unsecured account-based retirement plan which allocates a percentage of pay to an account payable to the
+executive following the executive’s separation of employment from YUM or attainment of age 55. The Company adopted the YCHLRP upon separation while the assets and liabilities associated with these employees under YUM LRP were transferred to
+YCHLRP. YCHLRP will continue to be in effect until terminated by the Company’s board of directors. The terms of the YCHLRP are substantially similar to the terms of the YUM LRP. Under the YCHLRP, certain executives who are at least age 21, who
+are classified as salary level 12, who are not eligible to participate in a 
+tax-qualified
+ defined benefit plan, and who satisfy certain additional requirements as to work location and assignment, are eligible
+to participate in the YCHLRP if selected for participation by the Company. The YCHLRP is an unfunded, unsecured account-based retirement plan that allocates a percentage of pay to an account payable to an executive following the later to occur of
+the executive’s separation of employment from the Company or attainment of age 55. Under the YCHLRP, participants aged 55 or older are entitled to a lump sum distribution of their account balance on the last day of the calendar quarter that
+occurs on or follows their separation of employment. The liabilities of $5.1 million and $4.8 million attributable to our employees under the YCHLRP as of June 30, 2020 and December 31, 2019, respectively, are included in our
+Consolidated Balance Sheets. 
+
+YUM offers certain of the Company’s executives working in China retirement benefits under the Bai Sheng Restaurants
+China Holdings Limited Retirement Scheme (previously known as the Bai Sheng Restaurants (Hong Kong) Ltd. Retirement Scheme). Under this defined contribution plan, YUM provides a company funded contribution ranging from 5% to 10% of an
+executive’s base salary. Upon termination, participants will receive a lump sum equal to a percentage of the Company’s contributions inclusive of investment return. This percentage is based on a vesting schedule that provides participants
+with a vested 30% interest upon completion of a minimum of 3 years of service, and an additional 10% vested interest for each additional completed year, up to a maximum of 100%. The Company adopted the same plan after the separation and the
+contribution amount to the plan for the six months ended June 30, 2020 and 2019 was insignificant. 
+
+- 36 - 
+
+As stipulated by Chinese state regulations, the Company participates in a government-sponsored defined
+contribution retirement plan. Substantially all employees are entitled to an annual pension equal to a fixed proportion of the average basic salary amount of the geographical area of their last employment at their retirement date. In the six months
+ended June 30, 2020 and 2019, we are required to make contributions to the local social security bureau between 12% and 20% of the previous year’s average basic salary amount of the geographical area where the employees are under our
+employment. Contributions are recorded in the Consolidated Statements of Income as they become payable. We have no obligation for the payment of pension benefits beyond the annual contributions as set out above. During the six months ended
+June 30, 2020, the Company also received 
+one-time
+ government subsidy related to 
+COVID-19
+ pandemic in the form of a reduction in social security contributions, which
+was recognized as reduction to the related expenses when it was granted. The Company contributed $72 million and $84 million to the government-sponsored plan for the six months ended June 30, 2020 and 2019, respectively. 
+
+Note 14 – Share-Based Compensation 
+
+Overview
+
+Upon the separation, holders of outstanding YUM equity awards generally received both adjusted YUM awards and Yum China awards, or adjusted awards of
+either YUM or Yum China in their entirety, to maintain the 
+pre-separation
+ intrinsic value of the awards. Depending on the tax laws of the country of employment, awards were modified using either the
+shareholder method or the employer method. Share issuances for Yum China awards held by YUM’s employees will be satisfied by Yum China. Share issuances for YUM awards held by the Company’s employees will be satisfied by YUM. The
+shareholder method was based on the premise that employees holding YUM awards prior to the separation should receive an equal number of awards of both YUM and Yum China. Under the employer method, employees holding YUM awards prior to the separation
+had their awards converted into awards of the company that they worked for subsequent to the separation. As a result, Yum China may issue shares of common stock to YUM’s employees upon exercise or vesting of various types of awards, including
+stock options, SARs, RSUs, and awards from the executive income deferral plan. 
+
+The modified equity awards have the same terms and conditions as the
+awards held immediately before the separation, except that the number of shares and the price were adjusted. In accordance with ASC 718, the Company compared the fair value of the awards immediately prior to the separation to the fair value
+immediately after the separation to measure the incremental compensation cost, using the Black-Scholes option-pricing model (the “BS model”). The incremental compensation cost was insignificant, and YUM and the Company continue to
+recognize the unamortized original grant-date fair value of the modified awards over the remaining requisite service period as their respective employees continue to provide services. Share-based compensation for the Company’s employees is
+based on both YUM awards and Yum China awards held by those employees. 
+
+Effective October 31, 2016, the Company adopted the Yum China Holdings, Inc.
+Long Term Incentive Plan (the “2016 Plan”). The Company has reserved for issuance under the 2016 Plan of 45,000,000 shares of our common stock. Under this plan, the exercise price of stock options and SARs granted must be equal to or
+greater than the fair market value of the Company’s stock on the date of grant. 
+
+Potential awards to employees and
+
+non-employee
+ directors under the 2016 Plan include stock options, incentive options, SARs, restricted stock, stock units, RSUs, performance shares, performance units, and cash incentive awards. We have issued
+only stock options, SARs, RSUs and PSUs under the 2016 Plan. While awards under the 2016 Plan can have varying vesting provisions and exercise periods, outstanding awards under the 2016 Plan vest in periods ranging from three to five years. Stock
+options and SARs expire ten years after grant. 
+
+The Company recognizes all share-based payments to employees and
+
+non-employee
+ directors in the Consolidated Financial Statements as compensation cost on a straight-line basis over the service period based on their fair value on the date of grant, for awards that actually
+vest and when performance conditions are probable of being achieved, if applicable. If no substantive service condition exists, the grant-date fair value is fully recognized as expense upon grant. Certain awards are subject to specific retirement
+conditions, which allow the awards to fully vest as long as the employee is actively employed for at least one year following the grant date, provides at least six months notification of intention to retire, and signs
+
+non-solicitation
+ and 
+non-compete
+ agreements. Under such circumstances, the grant-date fair value of the award is recognized as expense on a straight-line basis over the 
+one-year
+ service period from the grant date. 
+
+- 37 - 
+
+Award Valuation 
+
+Stock Option and SARs 
+
+The Company estimated the fair
+value of each stock option and SAR award granted to the Company’s employees as of the date of grant, using the BS model with the following assumptions: 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+Risk-free interest rate | 1.5 | % | 2.5 | %
+
+Expected term (years) | 6.50 | 6.50
+
+Expected volatility | 33.2 | % | 32.0 | %
+
+Expected dividend yield | 1.1 | % | 1.2 | %
+
+Share option and SAR awards granted to employees typically have a graded vesting schedule of 25% per year over four years and
+expire 10 years after grant. The Company uses a single weighted-average term for awards that have a graded vesting schedule. Based on analysis of the historical exercise and post-vesting termination behavior, the Company determined that employees
+exercised the awards on average after 6.5 years. Forfeitures were estimated based on historical experience. Historical data used to estimate the expected term and forfeiture rate were based on data associated with the Company’s employees who
+were granted share-based awards by YUM prior to the separation. 
+
+For those awards granted by the Company after the separation, the Company considered the
+volatility of common shares of comparable companies in the same business as the Company, as well as the historical volatility of the Company’s stock. The Company initially had no plan to pay dividends at the time of the grant. On
+October 4, 2017, the board of directors approved a regular quarterly cash dividend program, and declared an initial cash dividend of $0.10 per share on Yum China’s common stock. In the six months ended June 30, 2020 and 2019, the
+dividend yield was estimated based on the Company’s dividend policy at the time of the grant. 
+
+RSUs and PSUs 
+
+RSU awards generally vest over a three-year period with a majority of the awards cliff vesting at 100% on the third grant anniversary. The fair values of RSU
+awards are based on the closing price of the Company’s stock on the date of grant. 
+
+During 2019 and 2018, the Company granted PSUs that are subject
+to market conditions and service conditions, cliff vesting at the end of the performance period. The number of shares to be distributed is based on the Company’s performance on its total shareholder return relative to its peer group in the MSCI
+International China Index, measured over a three-year performance period. The fair value of PSU awards was valued based on the outcome of the Monte-Carlo Simulation model (the “MCS model”) and amortized on a straight-line basis over the
+three-year period. The total amount of fair value for the PSUs granted in 2019 and 2018 is immaterial. 
+
+In February 2020, the Company’s Board of
+Directors approved new grants of a special award of PSUs (“Partner PSU Awards”) to select employees who were deemed critical to the Company’s execution of its strategic operating plan under the 2016 Plan. These Partner PSU Awards are
+subject to market and performance conditions, and will cliff vest only if threshold performance goals are achieved over a four-year performance period, with the payout ranging from 0% to 200% of the target number of shares. The fair value of the
+Partner PSU Awards was determined based on the outcome of the MCS model and closing price of the Company’s stock on the date of the grant. The assumptions used in determining the grant date fair value of Partner PSU Awards include the risk-free
+interest rate of 1.4%, expected dividend yield of 1.1%, and expected volatility of 33.4%. 
+
+- 38 - 
+
+The annual PSU awards granted in February 2020 are cliff vested based only on the Company’s achievement
+of performance goals with a relative total shareholder return payout modifier against MSCI China Index, measured over a three-year period. The fair value of annual PSU awards was determined based on the outcome of the MCS model. The assumptions used
+in determining the grant date fair value of annual PSU awards include the risk-free interest rate of 1.4% and expected volatility of 33.4%. 
+
+Compensation
+costs associated with annual and Partner PSU awards are recognized on a straight-line basis over the performance period when performance conditions are probable of being achieved, adjusted for estimated forfeiture rate. 
+
+Others 
+
+Commencing from November 11, 2016, Yum China
+also granted annual awards of common stock to 
+non-employee
+ directors for their service on Yum China’s board of directors. The fair value of these awards is based on the closing price per share of the
+Company’s common stock on the date of grant. The shares were issued outright to the directors on the date of grant, with no conditions attached. Therefore, the fair value of the awards was fully recognized as expenses upon grant. For the six
+months ended June 30, 2020 and 2019, a total of 54,757 and 60,419 shares of Yum China common stock, respectively, were granted to 
+non-employee
+ directors and the grant-date fair value of $2.6 million
+and $2.4 million respectively, was immediately recognized in full in the Consolidated Statements of Income. 
+
+Award Activity 
+
+Stock Options and SARs 
+
+Shares (in thousands) | Weighted- Average Exercise Price | Weighted- Average Remaining Contractual Term (years) | Aggregate Intrinsic Value (in millions)
+
+Outstanding at January 1, 2020 | 14,373 | 24.22 | 5.11 | 342
+
+Granted | 1,314 | 42.71
+
+Exercised | (2,229 | ) | 18.81
+
+Forfeited or expired | (153 | ) | 37.00
+
+Outstanding at June 30, 2020 | 13,305 | (a) | 26.80 | 5.36 | 283
+
+Exercisable at June 30, 2020 | 10,100 | 22.79 | 4.36 | 255
+
+(a) | As of June 30, 2020, outstanding awards include 496,428 stock options and 12,808,777 SARs with
+weighted-average exercise prices of $18.50 and $27.13, respectively. Outstanding awards represent Yum China awards held by employees of both the Company and YUM.
+
+The weighted-average grant-date fair value of SARs granted in the six months ended June 30, 2020 and 2019 was $13.36 and $13.43, respectively. The total
+intrinsic value of stock options and SARs exercised by the Company’s employees during the six months ended June 30, 2020 and 2019 was $23 million and $29 million, respectively. 
+
+As of June 30, 2020, $34 million of unrecognized compensation cost related to unvested stock options and SARs, which will be reduced by any
+forfeitures that occur, is expected to be recognized over a remaining weighted-average vesting period of approximately 1.84 years. This reflects unrecognized cost for both Yum China awards and YUM awards held by the Company’s employees. The
+total fair value at grant date or modification date of awards held by the Company’s employees that vested during the six months ended June 30, 2020 and 2019 was $14 million and $13 million, respectively. 
+
+- 39 - 
+
+RSUs and PSUs 
+
+Shares (in thousands) | Weighted- Average Grant Date Fair Value
+
+Unvested at January 1, 2020 | 971 | 36.08
+
+Granted | 1,163 | 39.75
+
+Vested | (307 | ) | 26.97
+
+Forfeited | (17 | ) | 39.64
+
+Unvested at June 30, 2020 | 1,810 | 39.95
+
+The weighted-average grant-date fair value of RSUs and PSUs granted in the six months ended June 30, 2020 and 2019 was
+$39.75 and $45.30, respectively. The weighted-average grant-date fair value of annual and Partner PSUs granted in the six months ended June 30, 2020 was $39.51. As of June 30, 2020, $12 million of unrecognized compensation cost
+related to 615,853 unvested RSUs and $27 million of unrecognized compensation cost related to 1,194,275 PSUs, which will be reduced by any forfeiture that occurs, are expected to be recognized over a remaining weighted-average vesting period of
+approximately 1.60 and 3.27 years, respectively. 
+
+Impact on Net Income 
+
+Share-based compensation expense was $17 million and $15 million for the six months ended June 30, 2020 and 2019, respectively. Deferred tax
+benefits of $1 million and $1 million was recognized in the six months ended June 30, 2020 and 2019, respectively. 
+
+Note 15 –
+Equity 
+
+Immediately after the separation on October 31, 2016, Yum China authorized capital stock consisted of 1,000 million shares of common
+stock, par value $0.01 per share, and 364 million shares of Yum China common stock were issued and outstanding. As of June 30, 2020, 397 million shares of Yum China common stock were issued and 377 million shares were
+outstanding. 
+
+Share Repurchase Program 
+
+Our Board of
+Directors has authorized an aggregate of $1.4 billion of our share repurchase program. The Company repurchased 0.2 million and 3.5 million shares of common stock at a total cost of $7 million and $140 million for the six
+months ended June 30, 2020 and 2019, respectively. As of June 30, 2020, $692 million remained available for repurchase under the current authorization. The Company temporarily suspended the share repurchase in the second quarter of
+2020. 
+
+Cash Dividend 
+
+On October 4, 2017, the
+board of directors approved a regular quarterly cash dividend program. The Company paid a cash dividend of $0.12 per share for each quarter of 2019 and the first quarter of 2020. Total cash dividends of $45 million and $91 million were
+paid to shareholders in the six months ended June 30, 2020 and 2019, respectively. The Company temporarily suspended its dividend payments in the second quarter of 2020. 
+
+Accumulated Other Comprehensive Income (“AOCI”) 
+
+The Company’s other comprehensive income (loss) for the six months ended June 30, 2020 and 2019, and AOCI balances as of June 30, 2020,
+December 31, 2019 were comprised solely of foreign currency translation adjustments. Other comprehensive loss was $35 million for the six months ended June 30, 2020, and other comprehensive gain was $1 million for the six months
+ended June 30, 2019. The accumulated balances reported in AOCI in the Consolidated Balance Sheets for currency translation adjustments were net loss of $82 million, $49 million as of June 30, 2020 and December 31, 2019,
+respectively. There was no tax effect related to the components of other comprehensive income for all periods presented. 
+
+- 40 - 
+
+Restricted net assets 
+
+The Company’s ability to pay dividends is primarily dependent on the Company receiving distributions of funds from its subsidiaries. Relevant PRC
+statutory laws and regulations permit payments of dividends by the Company’s PRC subsidiaries only out of their retained earnings, if any, as determined in accordance with PRC accounting standards and regulations. The results of operations
+reflected in the Consolidated Financial Statements prepared in accordance with U.S. GAAP differ from those reflected in the statutory financial statements of the Company’s subsidiaries. 
+
+In accordance with the PRC Regulations on Enterprises with Foreign Investment and the articles of association of the Company’s PRC subsidiaries, a
+foreign-invested enterprise established in the PRC is required to provide certain statutory reserves, namely general reserve fund, the enterprise expansion fund and staff welfare and bonus fund which are appropriated from net profit as reported in
+the enterprise’s PRC statutory accounts. A foreign-invested enterprise is required to allocate at least 10% of its annual 
+after-tax
+ profit to the general reserve until such reserve has reached 50% of its
+respective registered capital based on the enterprise’s PRC statutory accounts. Appropriations to the enterprise expansion fund and staff welfare and bonus fund are at the discretion of the board of directors for all foreign-invested
+enterprises. The aforementioned reserves can only be used for specific purposes and are not distributable as cash dividends. 
+
+As a result of these PRC
+laws and regulations subject to the limit discussed above that require annual appropriations of 10% of 
+after-tax
+ income to be set aside, prior to payment of dividends as general reserve fund, the
+Company’s PRC subsidiaries are restricted in their ability to transfer a portion of their net assets to the Company in the form of dividend payments, loans or advances. The restricted net assets of the PRC subsidiaries is approximately
+$616 million as of June 30, 2020. 
+
+Furthermore, cash transfers from the Company’s PRC subsidiaries to its subsidiaries outside of China are
+subject to PRC government control of currency conversion. Shortages in the availability of foreign currency may restrict the ability of the PRC subsidiaries to remit sufficient foreign currency to pay dividends or other payments to the Company, or
+otherwise satisfy their foreign currency-denominated obligations. 
+
+Note 16 – Income Taxes 
+
+In December 2017, the U.S. enacted the Tax Act, which included a broad range of tax reforms, including, but not limited to, the establishment of a flat
+corporate income tax rate of 21%, the elimination or reduction of certain business deductions, and the imposition of tax on deemed repatriation of accumulated undistributed foreign earnings. The Tax Act has impacted Yum China in two material
+aspects: (1) in general, all of the foreign-source dividends received by Yum China from its foreign subsidiaries will be exempted from taxation starting from its tax year beginning after December 31, 2017 and (2) Yum China recorded
+additional income tax expense in the fourth quarter of 2017, including an estimated 
+one-time
+ transition tax on its deemed repatriation of accumulated undistributed foreign earnings and additional tax related
+to the revaluation of certain deferred tax assets. 
+
+We completed our analysis of the Tax Act in the fourth quarter of 2018 according to guidance released
+by the U.S. Treasury Department and the IRS as of December 2018 and made a reversal to provisional amount in the amount of $36 million for the transition tax recorded in 2017 accordingly. The U.S. Treasury Department and the IRS released the
+final transition tax regulations in the first quarter of 2019. We completed the evaluation of the impact on our transition tax computation based on the final regulations released in the first quarter of 2019 and recorded an additional income tax
+expense of $8 million for the transition tax accordingly. 
+
+The Tax Act requires a U.S. shareholder to be subject to tax on Global Intangible Low
+Taxed Income (“GILTI”) earned by certain foreign subsidiaries. We have elected the option to account for current year GILTI tax as a period cost as incurred. 
+
+U.S. and foreign income (loss) before taxes are set forth below: 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+U.S. | $ | (6 | ) | $ | (2 | )
+
+Mainland China | 246 | 524
+
+Other Foreign | 39 | 31
+
+$ | 279 | $ | 553
+
+- 41 - 
+
+The details of our income tax provision (benefit) are set forth below: 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+Current: | Federal | $ | 5 | $ | 10
+
+Foreign | 66 | 123
+
+$ | 71 | $ | 133
+
+Deferred: | Federal | $ | 11 | $ | —
+
+Foreign | (5 | ) | 6
+
+$ | 6 | $ | 6
+
+$ | 77 | $ | 139
+
+The reconciliation of income taxes calculated at the U.S. federal statutory rate to our effective tax rate is set forth below:
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+U.S. federal statutory rate | $ | 59 | 21.0 | % | $ | 116 | 21.0 | %
+
+Impact from the Tax Act | — | — | 8 | 1.4
+
+Statutory rate differential attributable to foreign operations | 11 | 4.2 | 26 | 4.9
+
+Adjustments to reserves and prior years | (4 | ) | (1.6 | ) | (7 | ) | (1.3 | )
+
+Change in valuation allowances | 3 | 1.2 | — | —
+
+Impact from investment (gain) loss | 7 | 2.4 | (4 | ) | (0.8 | )
+
+Others, net | 1 | 0.6 | – | —
+
+Effective income tax rate | $ | 77 | 27.8 | % | $ | 139 | 25.2 | %
+
+Statutory rate differential attributable to foreign operations. 
+This item includes local taxes, withholding taxes, and
+shareholder-level taxes, net of foreign tax credits. A majority of our income is earned in China, which is generally subject to a 25% tax rate. The negative impact in the six months ended June 30, 2020 and 2019 is primarily due to the decrease
+of the U.S. federal statutory rate to 21%, which is lower than China’s statutory income tax rate. 
+
+Adjustments to reserves and prior years.
+
+This item includes: (1) changes in tax reserves, including interest thereon, established for potential exposure we may incur if a taxing authority takes a position on a matter contrary to our position; and (2) the effects of reconciling
+income tax amounts recorded in our Consolidated Statements of Income to amounts reflected on our tax returns, including any adjustments to the Consolidated Balance Sheets. The impact of certain effects or changes may offset items reflected in the
+‘
+Statutory rate differential attributable to foreign operations’
+ line. 
+
+Change in valuation allowances. 
+This item relates to
+changes for deferred tax assets generated or utilized during the current period and changes in our judgment regarding the likelihood of using deferred tax assets that existed at the beginning of the year. The impact of certain changes may offset
+items reflected in ‘
+Statutory rate differential attributable to foreign operations’
+. 
+
+Impact from investment (gain) loss. 
+This
+item relates to the gain or loss on investment in equity securities of Meituan. The Company recorded $14 million U.S. tax in the six months ended June 30, 2020, including $7 million and $ 7 million related to gain on investment
+in equity securities of Meituan recognized during the six months ended June 30, 2020 and prior year, respectively. 
+
+Others. 
+This item
+primarily includes the impact of permanent differences related to current year earnings, as well as U.S. tax credits and deductions. 
+
+- 42 - 
+
+The details of June 30, 2020 and December 31, 2019 deferred tax assets (liabilities) are set forth
+below: 
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Operating losses and tax credit carryforwards | $ | 37 | $ | 25
+
+Tax benefit from Little Sheep restructuring | 18 | 18
+
+Employee benefits | 4 | 4
+
+Share-based compensation | 5 | 5
+
+Leases | 61 | 61
+
+Other liabilities | 13 | 13
+
+Deferred income and other | 64 | 58
+
+Gross deferred tax assets | 202 | 184
+
+Deferred tax asset valuation allowances | (46 | ) | (47 | )
+
+Net deferred tax assets | $ | 156 | $ | 137
+
+Intangible assets | (42 | ) | (23 | )
+
+Property, plant and equipment | (77 | ) | (59 | )
+
+Gain from re-measurement of equity interest upon
+acquisition | (22 | ) | (22 | )
+
+Unrealized gains from equity securities | (11 | ) | —
+
+Others | (6 | ) | (5 | )
+
+Gross deferred tax liabilities | $ | (158 | ) | $ | (109 | )
+
+Net deferred tax (liabilities) assets | $ | (2 | ) | $ | 28
+
+Reported in Consolidated Balance Sheets as:
+
+Deferred income taxes | 99 | 95
+
+Other liabilities | (101 | ) | (67 | )
+
+$ | (2 | ) | $ | 28
+
+We have investments in our foreign subsidiaries where the carrying values for financial reporting exceed the tax basis. We
+have not provided deferred tax on the portion of the excess that we believe is indefinitely reinvested, as we have the ability and intent to indefinitely postpone the basis differences from reversing with a tax consequence. The Company’s
+separation from YUM was intended to qualify as a 
+tax-free
+ reorganization for U.S. income tax purposes resulting in the excess of financial reporting basis over tax basis in our investment in the China business
+continuing to be indefinitely reinvested. The excess of financial reporting basis over tax basis as of December 31, 2017 was subject to the 
+one-time
+ transition tax under the Tax Act as a deemed
+repatriation of accumulated undistributed earnings from the foreign subsidiaries. However, we continue to believe that the portion of the excess of financial reporting basis over tax basis (including earnings and profits subject to the 
+one-time
+ transition tax) is indefinitely reinvested in our foreign subsidiaries for foreign withholding tax purposes. We estimate that our total temporary difference for which we have not provided foreign
+withholding taxes is approximately $2 billion at June 30, 2020 and December 31, 2019, respectively. The foreign withholding tax rate on this amount is 5% or 10% depending on the manner of repatriation and the applicable tax treaties
+or tax arrangements. 
+
+At June 30, 2020 and December 31, 2019, the Company had operating loss carryforwards of approximately $142 million
+and $94 million, respectively, primarily related to our Little Sheep and Daojia business as well as certain underperforming entities, most of which will expire by 2025. These losses are being carried forward in jurisdictions where we are
+permitted to use tax losses from prior periods to reduce future taxable income. 
+
+Cash payments for tax liabilities on income tax returns filed were
+$64 million and $135 million in the six months ended June 30, 2020 and 2019, respectively. 
+
+We recognize the benefit of positions taken or
+expected to be taken in tax returns in the financial statements when it is more likely than not that the position would be sustained upon examination by tax authorities. A recognized tax position is measured at the largest amount of benefit that is
+greater than 50% likely of being realized upon settlement. 
+
+- 43 - 
+
+A reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows: 
+
+Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+Beginning of Period | $ | 19 | $ | 22
+
+Additions on tax positions | 5 | 3
+
+Reductions due to statute expiration | (6 | ) | (7 | )
+
+End of Period | $ | 18 | $ | 18
+
+In the six months ended June 30, 2020 and 2019, our unrecognized tax benefits were increased by $5 million and
+$3 million, respectively. The unrecognized tax benefits balance of $18 million as of June 30, 2020 related to the uncertainty with regard to the deductibility of certain business expenses incurred, all of which, if recognized upon
+audit settlement or statute expiration, would affect the effective tax rate. The Company believes it is reasonably possible its unrecognized tax benefits of $18 million as of June 30, 2020, which is included in Other liabilities on the
+Consolidated Balance Sheet, may decrease by approximately $6 million in the next 12 months, which if recognized, would affect the 2021 effective tax rate. The accrued interest and penalties related to income taxes at June 30, 2020 and
+December 31, 2019 are set forth below: 
+
+As of June 30, | As of December 31,
+
+2020 | 2019
+
+Accrued interest and penalties | $ | 3 | $ | 5
+
+During the six months ended June 30, 2020 and 2019, a net benefit of $2 million and $3 million, respectively,
+for interest and penalties was recognized in our Consolidated Statements of Income as components of our income tax provision. 
+
+The Company’s results
+are subject to examination in the U.S. federal jurisdiction as well as various U.S. state jurisdictions as part of YUM’s and our own income tax filings, and separately in foreign jurisdictions. Any liability arising from these examinations
+related to periods prior to the separation is expected to be settled among the Company, YCCL and YUM in accordance with the tax matters agreement we entered into in connection with the separation. 
+
+We are subject to reviews, examinations and audits by Chinese tax authorities, the IRS and other taxing authorities with respect to income and 
+non-income
+ based taxes. Since 2016, we have been under a national audit on transfer pricing by the STA in China regarding our related party transactions for the period from 2006 to 2015. The information currently
+exchanged with tax authorities focuses on our franchise arrangement with YUM. We have submitted information to the extent it is available to the Company. It is reasonably possible that there could be significant developments, including expert review
+and assessment by the STA, within the next 12 months. The ultimate assessment will depend upon further review of the information provided and ongoing technical and other discussions with the STA and 
+in-charge
+
+local tax authorities, and therefore it is not possible to reasonably estimate the potential impact. We will continue to defend our transfer pricing position. However, if the STA prevails in the assessment of additional tax due based on its ruling,
+the assessed tax, interest and penalties, if any, could have a material adverse impact on our financial position, results of operations and cash flows. 
+
+Note 17 – Segment Reporting 
+
+The Company has two
+reportable segments: KFC and Pizza Hut. Starting from the first quarter of 2019, our newly developed COFFii & JOY concept and 
+e-commerce
+ business became operating segments, as their financial results
+started being regularly reviewed by the Company’s chief operating decision maker. Our remaining operating segments, including the operations of Little Sheep, Huang Ji Huang, COFFii & JOY, East Dawning, Taco Bell, Daojia and our 
+e-commerce
+ business, are combined and referred to as All Other Segments, as these operating segments are insignificant both individually and in the aggregate. 
+
+- 44 - 
+
+Six Months Ended June 30, 2020
+
+KFC | Pizza Hut | All Other Segments | Corporate and Unallocated (a) | Combined | Elimination | Consolidated
+
+Revenues
+
+Revenue from external customers | $ | 2,576 | $ | 748 | $ | 61 | $ | 271 | $ | 3,656 | $ | — | $ | 3,656
+
+Inter-segment revenue | — | — | 17 | — | 17 | (17 | ) | —
+
+Total | $ | 2,576 | $ | 748 | $ | 78 | $ | 271 | $ | 3,673 | (17 | ) | $ | 3,656
+
+Six Months Ended June 30, 2019 (unaudited)
+
+KFC | Pizza Hut | All Other Segments | Corporate and Unallocated (a) | Combined | Elimination | Consolidated
+
+Revenues
+
+Revenue from external customers | $ | 3,050 | $ | 1,053 | $ | 45 | $ | 280 | $ | 4,428 | $ | — | $ | 4,428
+
+Inter-segment revenue | — | — | 19 | — | 19 | (19 | ) | —
+
+Total | $ | 3,050 | $ | 1,053 | $ | 64 | $ | 280 | $ | 4,447 | $ | (19 | ) | $ | 4,428
+
+Six Months Ended June 30,
+
+Operating Profit | 2020 | 2019
+
+(unaudited)
+
+KFC (b) | $ | 312 | $ | 493
+
+Pizza Hut | (13 | ) | 79
+
+All Other Segments | (12 | ) | (10 | )
+
+Unallocated revenues from transactions with franchisees and unconsolidated affiliates (c) | 269 | 278
+
+Unallocated Other revenues | 2 | 2
+
+Unallocated expenses for transactions with franchisees and unconsolidated affiliates (c) | (270 | ) | (276 | )
+
+Unallocated Other operating costs and expenses | (2 | ) | (2 | )
+
+Unallocated and corporate G&A expenses | (58 | ) | (58 | )
+
+Unallocated Other (loss) income | (3 | ) | 1
+
+Operating Profit | 225 | 507
+
+Interest income, net (a) | 17 | 19
+
+Investment gain (loss) (a) | 37 | 27
+
+Income Before Income Taxes | $ | 279 | $ | 553
+
+Depreciation and Amortization | Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+KFC | $ | 145 | $ | 147
+
+Pizza Hut | 57 | 60
+
+All Other Segments | 3 | 2
+
+Corporate and Unallocated | 9 | 8
+
+$ | 214 | $ | 217
+
+Impairment Charges | Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+KFC (d) | $ | 16 | $ | 12
+
+Pizza Hut (d) | 17 | 11
+
+All Other Segments (d) | 3 | 2
+
+$ | 36 | $ | 25
+
+- 45 - 
+
+Capital Spending | Six Months Ended June 30,
+
+2020 | 2019
+
+(unaudited)
+
+KFC | $ | 111 | $ | 138
+
+Pizza Hut | 31 | 34
+
+All Other Segments | 3 | 4
+
+Corporate and Unallocated | 40 | 36
+
+$ | 185 | $ | 212
+
+Total Assets | As of June 30, | As of December 31,
+
+2020 | 2019
+
+KFC (e) | $ | 3,025 | $ | 3,160
+
+Pizza Hut | 854 | 950
+
+All Other Segments | 356 | 166
+
+Corporate and Unallocated (f) | 2,728 | 2,674
+
+$ | 6,963 | $ | 6,950
+
+(a) | Amounts have not been allocated to any segment for performance reporting purposes.
+
+(b) | Includes equity income from investments in unconsolidated affiliates of $34 million and $37 million
+in the six months ended June 30, 2020 and 2019, respectively.
+
+(c) | Primarily includes revenues and associated expenses of transactions with franchisee and unconsolidated
+affiliates derived from the Company’s central procurement model whereby the Company centrally purchases substantially all food and paper products from suppliers then sells and delivers to all restaurants, including franchisees and
+unconsolidated affiliates. Amounts have not been allocated to any segment for purposes of making operating decisions or assessing financial performance as the transactions are deemed corporate revenues and expenses in nature.
+
+(d) | Primarily includes store closure impairment charges, restaurant-level impairment charges resulting from our
+semi-annual impairment evaluation as well as our additional impairment evaluation performed in the first quarter of 2020 in response to adverse impact from the COVID-19 pandemic, and incremental
+restaurant-level impairment charges in the first quarter of 2019 as a result of adopting ASC 842. (See Note 12).
+
+(e) | Includes investments in unconsolidated affiliates.
+
+(f) | Primarily includes cash and cash equivalents, short-term investments, investment in equity securities,
+long-term time deposits, and inventories that are centrally managed.
+
+As substantially all of the Company’s revenue
+is derived from the PRC and substantially all of the Company’s long-lived assets are located in the PRC, no geographical information is presented. In addition, revenue derived from and long-lived assets located in the U.S., the Company’s
+country of domicile, are immaterial. 
+
+Note 18 – Contingencies 
+
+Indemnification of China Tax on Indirect Transfers of Assets 
+
+- 46 - 
+
+In February 2015, the STA issued Bulletin 7 on Income arising from Indirect Transfers of Assets by 
+Non-Resident
+ Enterprises. Pursuant to Bulletin 7, an “indirect transfer” of Chinese taxable assets, including equity interests in a Chinese resident enterprise (“Chinese interests”), by a 
+non-resident
+ enterprise, may be recharacterized and treated as a direct transfer of Chinese taxable assets, if such arrangement does not have reasonable commercial purpose and the transferor has avoided payment of
+Chinese enterprise income tax. As a result, gains derived from such an indirect transfer may be subject to Chinese enterprise income tax at a rate of 10%. YUM concluded and we concurred that it is more likely than not that YUM will not be subject to
+this tax with respect to the distribution. However, given how recently Bulletin 7 was promulgated, there are significant uncertainties regarding what constitutes a reasonable commercial purpose, how the safe harbor provisions for group
+restructurings are to be interpreted and how the taxing authorities will ultimately view the distribution. As a result, YUM’s position could be challenged by Chinese tax authorities resulting in a 10% tax assessed on the difference between the
+fair market value and the tax basis of the separated China business. As YUM’s tax basis in the China business is minimal, the amount of such a tax could be significant. 
+
+Any tax liability arising from the application of Bulletin 7 to the distribution is expected to be settled in accordance with the tax matters agreement
+between the Company and YUM. Pursuant to the tax matters agreement, to the extent any Chinese indirect transfer tax pursuant to Bulletin 7 is imposed, such tax and related losses will be allocated between YUM and the Company in proportion to their
+respective share of the combined market capitalization of YUM and the Company during the 30 trading days after the separation. Such a settlement could be significant and have a material adverse effect on our results of operations and our financial
+condition. At the inception of the tax indemnity being provided to YUM, the fair value of the 
+non-contingent
+ obligation to stand ready to perform was insignificant and the liability for the contingent
+obligation to make payment was not probable or estimable. 
+
+Guarantees for Franchisees and Unconsolidated Affiliates 
+
+From time to time we have guaranteed certain lines of credit and loans of franchisees and unconsolidated affiliates. As of June 30, 2020, guarantees on
+behalf of franchisees were immaterial and no guarantees were outstanding for unconsolidated affiliates. 
+
+Indemnification of Officers and Directors
+
+The Company’s amended and restated certificate of incorporation and amended and restated bylaws include provisions that require the Company to
+indemnify directors or officers for monetary damages for actions taken as a director or officer of the Company or while serving at the Company’s request as a director or officer or another position at another corporation or enterprise, as the
+case may be. The Company purchases standard directors and officers insurance to cover claims or a portion of the claims made against its directors and officers. Since a maximum obligation is not explicitly stated in the Company’s bylaws or in
+the indemnification agreements and will depend on the facts and circumstances that arise out of any future claims, the overall maximum amount of the obligations cannot be reasonably estimated. The Company has not been required to make payments
+related to these obligations, and the fair value for these obligations is zero as of June 30, 2020. 
+
+Legal Proceedings 
+
+The Company is subject to various lawsuits covering a variety of allegations from time to time. The Company believes that the ultimate liability, if any, in
+excess of amounts already provided for these matters in the Consolidated Financial Statements, is not likely to have a material adverse effect on the Company’s annual results of operations, financial condition or cash flows. Matters faced by
+the Company from time to time include, but are not limited to, claims from landlords, employees, customers and others related to operational, contractual or employment issues. 
+
+- 47 - 
+
+Note 19 – Subsequent Events 
+
+Acquisition of Additional Interest in Unconsolidated Affiliate 
+
+On August 3, 2020, the Company completed the acquisition of an additional 25% equity interest in an unconsolidated affiliate that operates KFC stores in
+and around Suzhou, China (“Suzhou KFC”), for cash consideration of $149 million. Upon closing of the acquisition, the Company increased its equity interest to 72%, allowing the Company to consolidate Suzhou KFC. The acquisition was
+considered immaterial. 
+
+- 48 - 
+

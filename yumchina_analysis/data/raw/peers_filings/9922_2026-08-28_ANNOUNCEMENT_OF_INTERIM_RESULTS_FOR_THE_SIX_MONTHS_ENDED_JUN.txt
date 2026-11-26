@@ -1,0 +1,1376 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the
+contents of this announcement.
+
+
+                             Jiumaojiu International Holdings Limited
+                                 九毛九國際控股有限公司
+                                    (Incorporated in the Cayman Islands with limited liability)
+                                                         (Stock Code: 9922)
+
+                            ANNOUNCEMENT OF INTERIM RESULTS
+                           FOR THE SIX MONTHS ENDED JUNE 30, 2026
+The board (the “ Board ” ) of directors (the “ Directors ” ) of Jiumaojiu International Holdings
+Limited (九毛九國際控股有限公司) (the “ Company ” ) is pleased to announce the unaudited
+consolidated results of the Company and its subsidiaries (together, the “Group”) for the six months
+ended June 30, 2026, together with comparative figures for the six months ended June 30, 2025.
+
+KEY FINANCIAL HIGHLIGHTS
+
+                                                                                                     For the six months
+                                                                                                       ended June 30,
+                                                                                                         2026           2025
+                                                                                                    RMB ’000        RMB ’000
+                                                                                                  (Unaudited)     (Unaudited)
+
+Revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     2,391,313       2,753,436
+Store level operating profit(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             298,550         310,464
+Profit before taxation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            103,690          77,866
+Profit for the period . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            78,243          58,714
+Profit for the period attributable to equity shareholders
+  of the Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             75,804         60,691
+Core operating profit(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             79,108         98,140
+
+Notes:
+
+(1)      The Group defines store level operating profit as revenue for the period deducting the following expenses at
+         store level: (i) raw materials and consumables used, (ii) staff costs, (iii) depreciation of right-of-use assets, (iv)
+         other rentals and related expenses, (v) depreciation and amortization of other assets, (vi) utility expenses, (vii)
+         advertising and promotion expenses and (viii) other expenses, excluding unallocated headquarter expenses.
+
+(2)      The Group defines core operating profit as profit for the period excluding the following: government grants,
+         share of gains/(losses) of associates, impairment losses of property, plant and equipment, other net income, and
+         income tax expense.
+
+
+
+
+                                                                       1
+KEY OPERATIONAL HIGHLIGHTS
+
+                                                                                                As of/for the six months
+                                                                                                    ended June 30,
+                                                                                                       2026           2025
+
+Number of restaurants(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 606             729
+
+Seat turnover rate(2)
+Tai Er (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             2.5              2.2
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          1.4              1.7
+Jiu Mao Jiu (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1.4              1.5
+
+Table turnover rate(3)
+Tai Er (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             3.5              3.1
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          2.0              2.5
+Jiu Mao Jiu (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                2.3              2.5
+
+Average spending per customer (RMB) (4)
+Tai Er (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              74               73
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          106               99
+Jiu Mao Jiu (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 58               57
+
+Same store sales (RMB ’000) (5)
+Tai Er (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       1,636,299       1,524,357
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      242,672         316,214
+Jiu Mao Jiu (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            162,092         184,217
+
+Change in same store average daily sales(6)
+   (period-on-period) (%)
+Tai Er (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               7.4
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           (22.9)
+Jiu Mao Jiu (self-operated) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 (11.8)
+
+Notes:
+
+(1)      As of June 30, 2026, we had 573 self-operated restaurants and 33 franchised restaurants.
+
+(2)      Calculated by dividing total customer traffic by the product of total restaurant operation days and average seat
+         count during the period.
+
+(3)      Calculated by dividing total tables served by the product of total restaurant operation days and average table
+         count during the period.
+
+(4)      Calculated by dividing revenue generated from the restaurant operations for the period by total customer traffic
+         for the period.
+
+(5)      Same store sales for the period refers to the revenue of all restaurants that qualified as same stores during that
+         period. The Group defines its same store base to be those restaurants that opened for at least 150 days in the
+         first half of both 2025 and 2026.
+
+(6)      Same store average daily sales for the period refers to the average daily revenue of all restaurants that qualified
+         as same stores during that period.
+                                                                     2
+BUSINESS REVIEW AND OUTLOOK
+
+Overview
+
+In the first half of 2026, the Group continued to adhere to its multi-brand and multi-concept
+strategy and explored new business opportunities, aiming to further expand its market share and
+maintain its market position as a leading Chinese cuisine restaurant brand manager and operator
+in the People’s Republic of China (“PRC”). Facing the ever-changing and challenging external
+environment, the Group actively adjusted its business strategies and optimized its restaurant
+network in the first half of 2026. The Group continued to optimize its portfolio of restaurant
+brands and focus on brands with greater growth potential. Meanwhile, the Group accelerated the
+upgrade and rollout of new store models, and deepened the quality of its restaurant operations and
+customer experience through comprehensive optimization of products, space and services, laying a
+solid foundation for future sustainable growth.
+
+As of June 30, 2026, the Group had 573 self-operated restaurants and 33 franchised restaurants,
+covering 113 cities in the PRC and 10 cities across overseas markets, including Singapore,
+Malaysia, Canada, the United States, Thailand and New Zealand.
+
+The Group recorded revenue of RMB2,391.3 million for the six months ended June 30, 2026,
+representing a decrease of 13.2% compared with revenue of RMB2,753.4 million for the
+corresponding period in 2025. Profit for the period of the Group increased by 33.2% from
+RMB58.7 million for the six months ended June 30, 2025 to RMB78.2 million for the six months
+ended June 30, 2026.
+
+
+
+
+                                                3
+2026 Interim Business and Financial Performance Review
+
+Restaurant network
+
+The Group opened four new restaurants in the first half of 2026, comprising two Tai Er restaurants
+and two Jiu Mao Jiu restaurants. In addition, one self-operated Tai Er restaurant converted into
+a franchised restaurant. Among all restaurants of the Group, 42 (1) restaurants (including six
+franchised restaurants) were closed in the first half of 2026, primarily due to (i) the termination of
+the relevant lease agreements upon expiry, and (ii) unsatisfactory performance of some restaurants.
+
+The table below sets forth a breakdown of restaurants of the Group by brand as of the dates
+indicated:
+
+                                                                                                     As of June 30,
+                                                                                                     2026           2025
+
+Number of restaurants
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    477(2)        566(2)
+   – Chinese Mainland . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             442 (2)       535 (2)
+   – Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      35 (2)        31
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          54            76
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        61(3)         68(3)
+Lai Mei Li. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         1             1
+Fresh Wood. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           1             1
+Shanwaimian. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           11(4)         17(4)
+Chaonabian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          1             –
+
+Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    606            729
+
+Notes:
+
+(1)      Decrease in self-operated restaurants due to the conversion to franchised restaurants is not counted as restaurant
+         closure.
+
+(2)      Including 19 and 23 franchised Tai Er restaurants as of June 30, 2025 and 2026, respectively.
+
+(3)      Including one and two Jiu Mao Jiu franchised restaurant(s) as of June 30, 2025 and 2026, respectively.
+
+(4)      Including 14 and eight Shanwaimian franchised restaurants as of June 30, 2025 and 2026, respectively.
+
+
+
+
+                                                                         4
+Performance of self-operated restaurants
+
+The table below sets forth the key performance indicators of the Group’s self-operated restaurants
+by brand for the periods indicated:
+
+                                                                                                        For the six months
+                                                                                                          ended June 30,
+                                                                                                            2026           2025
+                                                                                                     (Unaudited)     (Unaudited)
+
+Revenue (RMB ’000)
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1,795,303       1,946,432
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            264,740         416,431
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          175,915         226,103
+Lai Mei Li. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            3,651           5,083
+Fresh Wood. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              8,752           7,326
+Shanwaimian. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              12,220          14,332
+Chaonabian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             5,247               –
+
+Seat turnover rate(1)
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           2.5            2.2
+   – Chinese Mainland . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    2.5            2.2
+   – Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            2.5            2.7
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1.4            1.7
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              1.4            1.5
+Lai Mei Li. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              1.4            1.7
+Fresh Wood. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1.2            1.4
+Shanwaimian. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 2.4            2.5
+Chaonabian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               2.4              –
+
+Table turnover rate(2)
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           3.5            3.1
+   – Chinese Mainland . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    3.5            3.1
+   – Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            3.6            3.8
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                2.0            2.5
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              2.3            2.5
+Lai Mei Li. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              1.6            1.8
+Fresh Wood. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                1.7            1.8
+Shanwaimian. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 3.5            3.7
+Chaonabian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               3.7              –
+
+Average spending per customer(3) (RMB)
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            74             73
+   – Chinese Mainland . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     68             66
+   – Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            149            155
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                106             99
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               58             57
+Lai Mei Li. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              137            162
+Fresh Wood. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                539            498
+Shanwaimian. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  92             90
+Chaonabian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               116              –
+
+
+                                                                         5
+Notes:
+
+(1)      Calculated by dividing total customer traffic by the product of total restaurant operation days and average seat
+         count during the period.
+
+(2)      Calculated by dividing total tables served by the product of total restaurant operation days and average table
+         count during the period.
+
+(3)      Calculated by dividing revenue generated from restaurant operations for the period by total customer traffic for
+         the period.
+
+The seat turnover rate and table turnover rate of Tai Er increased in the first half of 2026, primarily
+due to the strong performance of restaurants upgraded to the “Fresh” model and the restaurant
+network optimization. The seat turnover rate and table turnover rate of Song Hot Pot and Jiu
+Mao Jiu decreased, primarily due to the decrease in customer traffic as a result of the challenging
+external environment. The decrease in average spending per customer of Tai Er outside the Chinese
+Mainland was primarily attributable to the impact of exchange rate fluctuations, coupled with the
+Group’s adjustment to menu offerings and food price in response to competitive landscape in the
+industry.
+
+Same store sales
+
+The table below sets forth details of the Group’s same store sales of its self-operated restaurants by
+brand for the periods indicated:
+
+                                                                                 For the six months ended June 30,
+                                                                                 2026        2025      2025        2024
+
+Number of same store(1)
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          422                     473
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . .               53                      53
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             55                      60
+
+Same store sales(2) (RMB ’000)
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1,636,299 1,524,357 1,536,302 1,895,818
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . .          242,672   316,214   288,250   360,624
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        162,092   184,217   192,527   240,200
+
+Change in same store average daily sales(3)
+   (period-on-period) (%)
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          7.4                   (18.0)
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . . . . . . .              (22.9)                 (18.9)
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            (11.8)                 (19.7)
+
+Notes:
+
+(1)      The Group defines its same store base to be those restaurants that opened for at least 150 days in the first half
+         of both 2024 and 2025, and in the first half of both 2025 and 2026.
+
+(2)      Same store sales for the period refer to the revenue of all restaurants that qualified as same stores during that
+         period.
+
+(3)      Same store average daily sales for the period refers to the average daily revenue of all restaurants that qualified
+         as same stores during that period.
+
+
+                                                                        6
+Outlook
+
+The Group remains fully devoted to providing ultimate dining experience to customers through
+exquisite dishes, high-quality services and unique dining ambience, and with a view to maintaining
+a strong market position and enhancing its competitiveness, it will continue to implement the
+following growth strategies:
+
+•    Create a wonderful hour with excellent cuisine. In 2026, the Group continued to return
+     to the fundamentals of restaurant operations, adhering to the core principles of “Delicious,
+     Affordable, and Safe (好吃、不貴、安全)” and regarding product quality as the lifeline of
+     its brand development. The Group provides customers with a one-hour dining experience of
+     deliciousness, comfort and sincere service. In the first half of 2026, the Group’s major brands
+     continued to advance the iterative upgrade of new store models, further deepened its focus
+     on product quality, consumption scenarios and service experience, and continued to enhance
+     store operation quality and brand competitiveness. In the first half of 2026, the Group’s core
+     brands as a whole continued to show a favorable recovery trend in operating performance.
+
+•    Optimizing restaurant network and focusing on excellence. The Group has been closely
+     monitoring the external environment and adjusting its expansion plan of restaurant network
+     under different brands as and when appropriate. Through the continuous optimization of its
+     restaurant network and the decisive closure of underperforming restaurants in recent years,
+     the Group’s store structure and overall store quality have been further enhanced. Currently,
+     the phase of large-scale proactive store closures for its major brands has largely come to an
+     end, laying a solid foundation for a return to high-quality development in the future.
+
+
+
+
+                                                 7
+•   Continue to strengthen support capabilities of the Group ’s supply chain driven by the
+    dual operation model of “stores + external sales (門店+外銷) ”. In the first half of 2026,
+    the Group continued to improve the operational efficiency and support capabilities of its
+    supply chain. On one hand, in line with the “fresh and lively” transformation of the Group’s
+    brands, the Group leveraged its scale procurement advantages and enhanced warehousing
+    and distribution efficiency, continuing to reduce costs and improve efficiency while ensuring
+    food safety, ingredient quality and stable supply. On the other hand, the Group continued to
+    expand external sales channels, including supermarkets, online retail and overseas markets,
+    enriching its external sales products and channel network, and further improving the capacity
+    utilization rate of its supply chain.
+
+•   Making digital and intelligent transformation the core driving force for future
+    development. In the first half of 2026, the Group further promoted the deep integration of
+    AI and digital capabilities with its business processes, leveraging data and intelligent tools to
+    continuously reduce costs, enhance efficiency and optimize business decision-making. The
+    Group continued to advance digital and AI applications across key scenarios such as member
+    lifecycle management, improvement of restaurant operating efficiency and supply chain
+    empowerment, enhancing data insight, organizational collaboration and decision-making
+    efficiency. Going forward, the Group will continue to drive the deeper penetration of AI
+    from tool-level applications into business processes and operational management, leveraging
+    digital and intelligent capabilities to support the long-term improvement of the Group ’s
+    operating efficiency.
+
+•   Expanding into global markets to gain international market share. The Group currently
+    operates Tai Er restaurants in countries and regions such as Singapore, Malaysia, Canada,
+    the United States, Thailand and New Zealand. In early 2026, the Group further deepened
+    its global footprint by entering into a strategic partnership with Big Way Hot Pot (“Big
+    Way”), a leading spicy hot pot brand in North America, achieving a new brand presence in
+    the North American market and advancing the Group’s evolution into a globally diversified
+    restaurant group. In the first half of 2026, the Group continued to empower Big Way, further
+    strengthening the foundation for its long-term development in the North American market.
+    The Group will continue to prudently evaluate and select suitable locations for its expansion
+    to further solidify its international market share.
+
+
+
+
+                                                 8
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Revenue
+
+The Group’s revenue decreased by 13.2% from RMB2,753.4 million for the six months ended June
+30, 2025 to RMB2,391.3 million for the same period in 2026.
+
+Revenue by segment
+
+The Group generates revenue from four segments, including Tai Er, Song Hot Pot, Jiu Mao Jiu and
+others (including the operation of other brands such as Fresh Wood, Shanwaimian and Chaonabian,
+as well as the operation of all other businesses of the Group). The following table sets forth a
+breakdown of the Group’s revenue by segment for the periods indicated:
+
+                                                                         For the six months ended June 30,
+                                                                          2026                      2025
+                                                                   RMB ’000           %     RMB ’000             %
+                                                                      (Unaudited)               (Unaudited)
+
+Tai Er . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1,797,533        75.2    1,948,593          70.8
+Song Hot Pot. . . . . . . . . . . . . . . . . . . . . . . .          264,776        11.1      416,521          15.1
+Jiu Mao Jiu . . . . . . . . . . . . . . . . . . . . . . . . .        176,353         7.4      226,232           8.2
+Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     152,651         6.3      162,090           5.9
+
+Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2,391,313       100.0    2,753,436         100.0
+
+Revenue from Tai Er decreased by 7.8% from RMB1,948.6 million for the six months ended
+June 30, 2025 to RMB1,797.5 million for the same period in 2026, primarily due to the decrease
+in the number of Tai Er self-operated restaurants from 547 as of June 30, 2025 to 454 as of June
+30, 2026, partially offset by the increase in same store sales of the Group’s Tai Er restaurants.
+Revenue from Tai Er as a percentage of total revenue increased from 70.8% for the six months
+ended June 30, 2025 to 75.2% for the same period in 2026, primarily due to the decreased revenue
+contribution from the Group’s other brands.
+
+Revenue from Song Hot Pot decreased by 36.4% from RMB416.5 million for the six months ended
+June 30, 2025 to RMB264.8 million for the same period in 2026, primarily due to the decreases in
+the number of restaurants and table turnover rate of the Group’s Song Hot Pot restaurants in view
+of the challenging external environment. As a result, revenue from Song Hot Pot as a percentage of
+total revenue decreased from 15.1% for the six months ended June 30, 2025 to 11.1% for the same
+period in 2026.
+
+Revenue from Jiu Mao Jiu decreased by 22.0% from RMB226.2 million for the six months ended
+June 30, 2025 to RMB176.4 million for the same period in 2026, primarily due to the decreases in
+the number of restaurants and table turnover rate of the Group’s Jiu Mao Jiu restaurants. Revenue
+from Jiu Mao Jiu as a percentage of total revenue decreased slightly from 8.2% for the six months
+ended June 30, 2025 to 7.4% for the same period in 2026.
+
+
+
+
+                                                                    9
+Revenue from others decreased by 5.8% from RMB162.1 million for the six months ended June
+30, 2025 to RMB152.7 million for the same period in 2026, primarily due to the decreases in
+revenue from sales of goods and Shanwaimian, partially offset by the revenue contribution from
+the Chaonabian, which commenced in December 2025. Notwithstanding this decrease, revenue
+from others as a percentage of total revenue increased from 5.9% for the six months ended June
+30, 2025 to 6.3% for the same period in 2026.
+
+Revenue by service line
+
+Services provided by the Group or activities it engages in currently comprise (i) restaurant
+operations, (ii) delivery business, (iii) sales of goods, and (iv) others, mainly including franchised
+revenue. The following table sets forth a breakdown of the Group’s revenue from each service line
+for the periods indicated:
+
+                                                                         For the six months ended June 30,
+                                                                          2026                      2025
+                                                                   RMB ’000           %     RMB ’000             %
+                                                                      (Unaudited)               (Unaudited)
+
+Restaurant operations . . . . . . . . . . . . . . . . .            1,742,398        72.9    2,115,998          76.9
+Delivery business . . . . . . . . . . . . . . . . . . . .            523,762        21.9      499,055          18.1
+Sales of goods . . . . . . . . . . . . . . . . . . . . . . .         120,687         5.0      132,210           4.8
+Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       4,466         0.2        6,173           0.2
+
+Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2,391,313       100.0    2,753,436         100.0
+
+Revenue from restaurant operations decreased by 17.7% from RMB2,116.0 million for the six
+months ended June 30, 2025 to RMB1,742.4 million for the same period in 2026, primarily due to
+the decrease in the number of restaurants attributable to the restaurant network optimization. As a
+result, revenue from restaurant operations as a percentage of total revenue decreased from 76.9%
+for the six months ended June 30, 2025 to 72.9% for the same period in 2026.
+
+Revenue from delivery business increased by 4.9% from RMB499.1 million for the six months
+ended June 30, 2025 to RMB523.8 million for the same period in 2026, primarily driven by the
+mixture of growth in platform traffic, the expansion of single-serve meal offerings for delivery
+and operational enhancement. As a result, revenue from delivery business as a percentage of total
+revenue increased from 18.1% for the six months ended June 30, 2025 to 21.9% for the same
+period in 2026.
+
+Revenue from sales of goods decreased by 8.7% from RMB132.2 million for the six months ended
+June 30, 2025 to RMB120.7 million for the same period in 2026, primarily due to the decrease in
+revenue generated from selling goods to third parties. Revenue from sales of goods as a percentage
+of total revenue increased slightly from 4.8% for the six months ended June 30, 2025 to 5.0% for
+the same period in 2026.
+
+Revenue from others decreased by 27.4% from RMB6.2 million for the six months ended June
+30, 2025 to RMB4.5 million for the same period in 2026, primarily due to the decrease in revenue
+from franchise management services following the underperformance of franchisees. Revenue from
+others as a percentage of total revenue remained relatively stable at 0.2% for the six months ended
+June 30, 2025 and 2026.
+
+                                                                   10
+Other Revenue
+
+The Group’s other revenue decreased by 30.5% from RMB26.9 million for the six months ended
+June 30, 2025 to RMB18.7 million for the same period in 2026, primarily due to the decrease in
+interest income on bank deposits as a result of decreased bank balances/decreased interest rates.
+
+Raw Materials and Consumables Used
+
+The Group’s raw materials and consumables used decreased by 15.8% from RMB980.2 million for
+the six months ended June 30, 2025 to RMB825.3 million for the same period in 2026, primarily
+in line with the decrease in revenue as a result of the decrease in the number of restaurants. Raw
+materials and consumables used as a percentage of revenue decreased from 35.6% for the six
+months ended June 30, 2025 to 34.5% for the same period in 2026 primarily attributable to the
+optimization of supply chain procurement, adjustments to the menu structure and enhanced control
+over wastage.
+
+Staff Costs
+
+The Group’s staff costs decreased by 9.7% from RMB829.1 million for the six months ended
+June 30, 2025 to RMB748.3 million for the same period in 2026, primarily due to the decrease
+in the number of store level employees and headquarter employees as a result of the Group’s
+reduced number of self-operated restaurants. Staff costs as a percentage of revenue increased from
+30.1% for the six months ended June 30, 2025 to 31.3% for the same period in 2026, primarily
+attributable to the increase in the number of employees per restaurant following the upgrade to the
+“Fresh” model.
+
+Depreciation of Right-of-use Assets
+
+Depreciation of right-of-use assets decreased by 19.1% from RMB268.1 million for the six months
+ended June 30, 2025 to RMB216.8 million for the same period in 2026, primarily due to the
+decrease in the number of the Group’s self-operated restaurants. Depreciation of right-of-use assets
+as a percentage of revenue decreased from 9.7% for the six months ended June 30, 2025 to 9.1%
+for the same period in 2026.
+
+Other Rentals and Related Expenses
+
+The Group’s other rentals and related expenses decreased by 21.1% from RMB54.9 million for the
+six months ended June 30, 2025 to RMB43.3 million for the same period in 2026, primarily due to
+a decrease in short-term dormitory expenses as a result of a decrease in the number of employees.
+Other rentals and related expenses as a percentage of revenue remained relatively stable at 2.0%
+and 1.8% for the six months ended June 30, 2025 and 2026, respectively.
+
+Depreciation and Amortization of Other Assets
+
+Depreciation and amortization of other assets decreased by 12.1% from RMB147.0 million for
+the six months ended June 30, 2025 to RMB129.2 million for the same period in 2026, primarily
+due to the decrease in the depreciation of the property, plant and equipment, resulting from the
+decrease in the number of the Group’s self-operated restaurants, partially offset by the increase
+in the depreciation of the property, plant and equipment of the supply chain. Depreciation and
+amortization of other assets as a percentage of revenue remained relatively stable at 5.3% and 5.4%
+for the six months ended June 30, 2025 and 2026, respectively.
+
+                                                11
+Utility Expenses
+
+The Group’s utility expenses decreased by 14.8% from RMB111.0 million for the six months
+ended June 30, 2025 to RMB94.6 million for the same period in 2026, primarily due to the
+decrease in the number of the Group’s self-operated restaurants. Utility expenses as a percentage
+of revenue remained relatively stable at 4.0% for the six months ended June 30, 2025 and 2026.
+
+Travelling and Related Expenses
+
+The Group’s travelling and related expenses decreased by 31.8% from RMB8.8 million for the six
+months ended June 30, 2025 to RMB6.0 million for the same period in 2026, primarily because
+the Group’s staff traveled less frequently for daily operations. Travelling and related expenses as
+a percentage of revenue remained relatively stable at 0.3% for the six months ended June 30, 2025
+and 2026.
+
+Advertising and Promotion Expenses
+
+The Group’s advertising and promotion expenses increased by 18.6% from RMB36.0 million for
+the six months ended June 30, 2025 to RMB42.7 million for the same period in 2026, primarily
+due to an increase in advertisement placement. As a result, advertising and promotion expenses as
+a percentage of revenue increased from 1.3% for the six months ended June 30, 2025 to 1.8% for
+the same period in 2026.
+
+Other Expenses
+
+The Group’s other expenses decreased by 6.3% from RMB189.8 million for the six months ended
+June 30, 2025 to RMB177.8 million for the same period in 2026, primarily due to (i) a decrease in
+transportation and related expenses of RMB4.4 million, (ii) a decrease in professional service fees
+of RMB2.8 million, (iii) a decrease in expenses for opening new restaurants of RMB2.2 million,
+and (iv) a decrease in business tax and surcharges of RMB2.0 million.
+
+Share of Gains/(Losses) of Associates
+
+The Group recorded a share of gains of associates of RMB5.0 million for the six months ended
+June 30, 2026, compared to a share of loss of associates of RMB3.0 million for the same period in
+2025, primarily due to the gains incurred by the associate invested by the Group.
+
+Other Net Income
+
+The Group’s other net income increased by 151.0% from RMB15.7 million for the six months
+ended June 30, 2025 to RMB39.4 million for the same period in 2026, primarily due to gains on
+disposal of property, plant and equipment and right-of-use assets of RMB15.3 million for the six
+months ended June 30, 2026, as compared with losses on disposal of RMB10.0 million for the
+same period in 2025.
+
+
+
+
+                                                12
+Finance Costs
+
+The Group’s finance costs decreased by 19.8% from RMB55.1 million for the six months ended
+June 30, 2025 to RMB44.2 million for the same period in 2026, primarily due to a decrease in
+interest on lease liabilities of RMB13.7 million due to the decreased number of leases as a result of
+the decrease in the number of the Group’s self-operated restaurants.
+
+Impairment Losses of Property, Plant and Equipment
+
+Impairment losses of property, plant and equipment decreased by 36.8% from RMB35.3 million for
+the six months ended June 30, 2025 to RMB22.3 million for the same period in 2026. The decrease
+in loss was primarily driven by a period-on-period decrease in the number of underperforming
+restaurants as of June 30, 2026.
+
+Income Tax
+
+The Group’s income tax expenses increased by 32.3% from RMB19.2 million for the six months
+ended June 30, 2025 to RMB25.4 million for the same period in 2026, primarily due to the increase
+of taxable income.
+
+Profit for the Period
+
+As a result of the foregoing, profit for the period increased by 33.2% from RMB58.7 million for
+the six months ended June 30, 2025 to RMB78.2 million for the same period in 2026.
+
+Other Comprehensive Income for the Period
+
+The Group holds equity investments in several entities in the PRC. The entities are mainly
+engaged in the catering industry. The Group recorded loss resulting from equity investments at fair
+value through other comprehensive income – net movement in fair value reserve (non-recycling)
+of RMB33.5 million for the six months ended June 30, 2026 primarily due to the share price
+movements of a listed equity investment, as compared with a gain of RMB29.5 million for the six
+months ended June 30, 2025, primarily due to certain equity investments in the catering industry
+held by the Group having risen in value through stable operation.
+
+The Group recorded exchange differences on translation of financial statements of operations
+outside Chinese Mainland of RMB78.1 million for the six months ended June 30, 2026 as other
+comprehensive expenses, as compared with RMB29.8 million for the six months ended June 30,
+2025, primarily due to exchange rate fluctuations.
+
+Non-IFRS Measures
+
+The Group adopts the store level operating profit and core operating profit, which are not required
+by or presented in accordance with IFRS as important financial measures to supplement its
+consolidated financial statements.
+
+
+
+
+                                                 13
+Store Level Operating Profit and Store Level Operating Profit Margin
+
+The Group believes that store level operating profit helps shareholders of the Company (the
+“Shareholders”) and investors better understand its multi-brand and multi-concept strategy by
+directly illustrating the profitability of its different brands at store level, and that it is frequently
+used by analysts, investors and other interested parties in the evaluation of companies in the
+industry.
+
+The Group defines store level operating profit as revenue for the period deducting the following
+expenses at store level: (i) raw materials and consumables used, (ii) staff costs, (iii) depreciation
+of right-of-use assets, (iv) other rentals and related expenses, (v) depreciation and amortization
+of other assets, (vi) utility expenses, (vii) advertising and promotion expenses and (viii) other
+expenses, excluding unallocated headquarter expenses. The following table illustrates the Group’s
+store level operating profit and store level operating profit margin by brands for the periods
+indicated:
+
+                                                           For the six months ended June 30,
+                                                          2026                           2025
+                                                                Store Level                   Store Level
+                                                 Store Level     Operating     Store Level      Operating
+                                                  Operating           Profit     Operating          Profit
+                                                      Profit        Margin           Profit       Margin
+                                                  RMB ’000             (%)      RMB ’000             (%)
+                                                       (Unaudited)                   (Unaudited)
+
+Tai Er . . . . . . . . . . . . . . . . . . . .      268,083            14.9        262,000            13.4
+Song Hot Pot. . . . . . . . . . . . . . .             9,229             3.5         14,893             3.6
+Jiu Mao Jiu . . . . . . . . . . . . . . . .          18,025            10.2         28,789            12.7
+Other brands . . . . . . . . . . . . . . .            3,213            10.2          4,782            15.9
+
+Total. . . . . . . . . . . . . . . . . . . . .      298,550            13.2        310,464            11.8
+
+Core Operating Profit and Core Operating Profit Margin
+
+The presentation of core operating profit facilitates comparisons of operating performance from
+period to period and company to company, by eliminating potential impacts of items that the
+management does not consider indicative of the Group ’ s operating performance. The Group
+believes that the core operating profit is frequently used by other interested parties when evaluating
+the performance of a company.
+
+The Group defines core operating profit as profit for the period excluding the following:
+government grants, share of gains/(losses) of associates, impairment losses of property, plant
+and equipment, other net income, and income tax expense. The following table illustrates a
+reconciliation from profit for the period to core operating profit for the periods indicated:
+
+
+
+
+                                                          14
+                                                                                                        For the six months
+                                                                                                          ended June 30,
+                                                                                                            2026           2025
+                                                                                                       RMB ’000        RMB ’000
+                                                                                                     (Unaudited)     (Unaudited)
+
+Profit for the period . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                78,243          58,714
+Net of the following gains/(losses)
+Government grants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   2,598           2,346
+Share of gains/(losses) of associates . . . . . . . . . . . . . . . . . . . . . . .                         4,966          (3,012)
+Impairment losses of property, plant and equipment . . . . . . . . . . .                                  (22,343)        (35,277)
+Other net income. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                39,361          15,669
+Income tax expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                (25,447)        (19,152)
+
+Core operating profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    79,108          98,140
+Revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         2,391,313       2,753,436
+
+Core operating profit margin (%) . . . . . . . . . . . . . . . . . . . . . . .                                3.3             3.6
+
+Inventories
+
+The Group’s inventories mainly represented its (i) food ingredients, (ii) condiment product, (iii)
+beverage and (iv) other materials used in restaurant operations. The following table sets forth a
+breakdown of the Group’s inventories as of the dates indicated:
+
+                                                                                                            As of          As of
+                                                                                                         June 30,    December 31,
+                                                                                                            2026            2025
+                                                                                                        RMB ’000        RMB ’000
+                                                                                                     (Unaudited)
+
+Food ingredients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               30,972          49,440
+Condiment product . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  20,893          24,666
+Beverage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            1,661           1,894
+Other materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               9,721          11,141
+
+Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         63,247          87,141
+
+
+
+
+                                                                        15
+The Group’s inventories decreased by 27.4% from RMB87.1 million as of December 31, 2025 to
+RMB63.2 million as of June 30, 2026, primarily due to the decrease in the number of self-operated
+restaurants.
+
+The Group’s inventory turnover days for the year ended December 31, 2025 and for the six months
+ended June 30, 2026, being the average of the beginning and ending balances of inventories for
+that year/period divided by raw materials and consumables used for the same year/period and
+multiplied by the number of days in that year/period, was 19.9 days and 16.4 days, respectively.
+The decrease in its inventory turnover days was mainly attributable to the transition to the “Fresh”
+model.
+
+Financial Assets Measured at Fair Value through Profit or Loss (“FVPL”)
+
+The Group’s financial assets measured at fair value through profit or loss increased from nil at
+December 31, 2025 to RMB166.9 million at June 30, 2026. The increase mainly resulted from the
+investment in four money market funds managed by different fund managers for cash management
+purposes, which are highly liquid and low-risk in nature and do not constitute significant
+investments of the Group.
+
+Right-of-use Assets
+
+The Group ’ s right-of-use assets, which represented the leases for its restaurant premises,
+headquarters offices, central kitchens and certain kitchen equipment, decreased by 14.4% from
+RMB1,428.7 million as of December 31, 2025 to RMB1,222.6 million as of June 30, 2026,
+primarily due to the decrease in the number of self-operated restaurants of the Group attributable
+to its restaurant network optimization.
+
+Trade Debtors
+
+Trade debtors of the Group primarily consisted of (i) bills settled through third party payment
+platforms such as Alipay or WeChat Pay, which were normally settled within a short period of
+time, (ii) bills for its delivery business settled through third party delivery service platforms, which
+were settled within three calendar days, and, to a lesser extent, (iii) bills received by shopping
+malls on behalf of the Group for certain restaurants, which were normally settled within one month,
+and (iv) bills generated from selling goods to third parties, which normally settled within two
+months. Trade debtors of the Group increased by 17.3% from RMB62.0 million as of December 31,
+2025 to RMB72.7 million as of June 30, 2026, primarily due to the growth in outstanding balance
+of a customer with credit period. The Group’s trade debtors turnover days, being the average of
+the beginning and ending balances of trade debtors for that year/period divided by revenue for
+the same year/period and multiplied by the number of days in that year/period, increased from 4.1
+days for the year ended December 31, 2025 to 5.1 days for the six months ended June 30, 2026,
+primarily due to the increase in debtors generated from selling goods.
+
+
+
+
+                                                  16
+Trade Payables
+
+Trade payables of the Group primarily consisted of payables to suppliers. Trade payables of the
+Group decreased by 10.3% from RMB154.4 million as of December 31, 2025 to RMB138.5 million
+as of June 30, 2026, primarily due to the decrease in procurement scale in line with the decrease in
+revenue. The Group’s trade payables turnover days, being the average of the beginning and ending
+balances of trade payables for that year/period divided by raw materials and consumables used for
+the same year/period and multiplied by the number of days in that year/period, decreased from 36.1
+days for the year ended December 31, 2025 to 31.9 days for the six months ended June 30, 2026,
+primarily due to timely settlement of the Group’s purchases.
+
+Loans and Advances to Associates
+
+As of June 30, 2026, the Group’s loans and advances to associates amounted to RMB127.5 million
+(as of December 31, 2025: RMB127.5 million). Such loans and advances were mainly provided
+to associates that supplied food ingredients to the Group to secure stable supply of key food
+ingredients.
+
+Other Non-current Financial Assets
+
+Other non-current financial assets of the Group include investments in unlisted and listed
+equity securities, investments in limited partnership enterprises, investments in funds and key
+management insurance contracts. Other non-current financial assets of the Group decreased from
+RMB508.3 million as of December 31, 2025 to RMB406.8 million as of June 30, 2026, primarily
+due to: (i) the share price movements of a listed equity investment; (ii) further acquisition of Big
+Way shares led to reclassification from other non-current financial assets to interests in associates.
+
+Capital Structure
+
+The Group ’ s total assets decreased from RMB5,823.0 million as of December 31, 2025 to
+RMB5,553.0 million as of June 30, 2026. The Group’s total liabilities decreased from RMB2,606.0
+million as of December 31, 2025 to RMB2,478.8 million as of June 30, 2026. Liabilities-to-assets
+ratio decreased slightly from 44.8% as of December 31, 2025 to 44.6% as of June 30, 2026.
+
+The current ratio, being current assets divided by current liabilities as of the respective dates,
+decreased from 1.56 as of December 31, 2025 to 1.35 as of June 30, 2026.
+
+
+
+
+                                                 17
+Liquidity, Capital Resources and Gearing
+
+The Group adopts a prudent funding and treasury policy with a view to optimize its financial
+position. The Group regularly monitors its funding requirements to support its business operations
+and perform ongoing liquidity review. For the six months ended June 30, 2026, the Group financed
+its operations primarily through cash generated from operations and proceeds from the Subscription
+(as defined in the announcement of the Company dated July 16, 2020 in relation to the subscription
+for new Shares under the general mandate). The Group mainly used Renminbi, Hong Kong dollars
+and US dollars to make borrowings and loans and to hold cash and cash equivalents. The Group
+mainly utilized its cash on procurement of food ingredients, consumables and equipment, supply
+chain construction and restaurant renovations. The Group’s cash and cash equivalents decreased
+by 42.2% from RMB1,018.0 million as of December 31, 2025 to RMB587.9 million as of June
+30, 2026, primarily attributable to payments for investments in the catering industry, deposits with
+banks with original maturity date over three months and financial assets measured at FVPL.
+
+The Group’s gearing ratio, being interest-bearing bank loans divided by total equity as of the
+respective dates and multiplied by 100%, increased from 13.1% as of December 31, 2025 to 20.5%
+as of June 30, 2026, primarily due to the increase in the balance of bank loans.
+
+Capital Expenditures
+
+The Group’s capital expenditures, which refer to the payment for purchases of property, plant and
+equipment and right-of-use assets, are incurred primarily for opening new restaurants, procuring
+property, plant and equipment for new restaurants, renovating existing restaurants and purchasing
+furniture and equipment used in the Group’s restaurant operations and construction of supply
+chain. The Group’s total capital expenditures increased by 3.3% from RMB148.3 million for the
+six months ended June 30, 2025 to RMB153.2 million for the same period in 2026.
+
+Indebtedness
+
+Bank Loans
+
+The analysis of the repayment schedule of bank loans is as follows:
+
+                                                                            As of           As of
+                                                                         June 30,     December 31,
+                                                                            2026             2025
+                                                                        RMB ’000         RMB ’000
+                                                                      (Unaudited)
+
+Within one year or on demand
+ – unsecured and unguaranteed                                              115,000         100,000
+ – secured                                                                 410,160         247,370
+
+                                                                           525,160         347,370
+
+After one year but within two years
+  – secured                                                                104,169           73,735
+
+                                                                           629,329         421,105
+
+
+                                                18
+As of 30 June 2026, bank loans of RMB345.8 million were with floating-interest rates (as
+of December 31, 2025: RMB331.1 million), and bank loans of RMB283.5 million were with
+fixed-interest rate (as of December 31, 2025: RMB90.0 million).
+
+Lease Liabilities
+
+The Group’s lease liabilities decreased by 13.8% from RMB1,474.4 million as of December 31,
+2025 to RMB1,270.8 million as of June 30, 2026, primarily due to the decrease in the number of
+self-operated restaurants of the Group attributable to its restaurant network optimization.
+
+Contingent Liabilities
+
+As of June 30, 2026, the Group did not have any material contingent liabilities, guarantees or
+any litigations or claims of material importance, pending or threatened against any member of
+the Group that was likely to have a material and adverse effect on the Group’s business, financial
+condition or results of operations.
+
+Pledge of Assets
+
+As of June 30, 2026, bank loans were secured by certain of the Group’s pledged deposits with
+carrying amount of RMB146.9 million (as of December 31, 2025: RMB207.4 million), land-use
+rights with carrying amount of RMB25.3 million (as of December 31, 2025: RMB25.9 million),
+interests in associates of RMB358.1 million (as of December 31, 2025: nil) and key management
+insurance contracts of RMB231.1 million (as of December 31, 2025: nil). Bank deposits of
+RMB13.1 million were pledged as securities for currency forward contracts (as of December 31,
+2025: nil).
+
+Save as disclosed above, as of June 30, 2026, the Group did not have any pledge on its assets.
+
+Significant Events After the Reporting Period
+
+There are no material events subsequent to June 30, 2026 which could have a material impact on
+the Group’s operating and financial performance as of the date of this announcement.
+
+Foreign Exchange Risk and Hedging
+
+The Group mainly operates in the PRC with most of the transactions denominated and settled
+in Renminbi. However, the Group has cash and deposits denominated in other currencies which
+are exposed to foreign currency exchange risks. The Group has not hedged its foreign currency
+exchange risks, but will closely monitor the exposure and take additional measures when necessary
+to make sure the foreign exchange risks are manageable.
+
+
+
+
+                                                19
+Material Acquisitions, Disposals and Future Plans for Major Investment
+
+During the six months ended June 30, 2026, on February 27, 2026, the Company entered into
+a share subscription agreement with Big Way Group Inc. to subscribe for 48,204,438 Class A
+Preferred Shares for USD28,000,000, and purchase and sale agreements with certain selling
+shareholders to acquire an aggregate of 25,823,805 preferred shares (subsequently exchanged for
+Class A Preferred Shares) for an aggregate purchase price of USD15,000,000, representing a total
+consideration of USD43,000,000. Upon completion, the Company holds approximately 49.0% of
+the participating rights in Big Way Group Inc., which will not become a subsidiary of the Company
+and whose financial results will not be consolidated into the Group’s financial statements. Details
+of the above are disclosed in the Company’s announcement dated February 27, 2026. Save as
+aforesaid, the Group did not conduct any other material investments, acquisitions or disposals.
+
+In addition, save for the intended use of proceeds from the Subscription as disclosed in the
+Company’s announcements dated July 16, 2020, July 23, 2020 and July 30, 2020, the Group has
+no specific plan for major investment or acquisition for major capital assets or other businesses.
+However, the Group will continue to identify new opportunities for business development.
+
+Interim Dividend
+
+The Board did not recommend the payment of an interim dividend for the six months ended June
+30, 2026 (for the six months ended June 30, 2025: nil).
+
+Company Information
+
+The Company was incorporated in the Cayman Islands on February 1, 2019 as an exempted
+company with limited liability, and the Shares were listed on the Main Board of the Stock
+Exchange on January 15, 2020.
+
+Employees
+
+As of June 30, 2026, the Group had a total of 16,987 employees (including outsourced personnel).
+For the six months ended June 30, 2026, staff costs (including Directors’ emoluments) of the
+Group amounted to RMB748.3 million (for the six months ended June 30, 2025: RMB829.1
+million).
+
+The Group’s success depends on its ability to attract, retain and motivate qualified personnel. The
+remuneration package for employees of the Group generally includes salary and bonuses. The
+Group determines employee remuneration based on factors such as qualifications and years of
+experience. Employees also receive welfare benefits, including medical care, retirement benefits,
+occupational injury insurance and other miscellaneous items. The Group makes contributions to
+mandatory social security funds for employees to provide for retirement, medical, work-related
+injury, maternity and unemployment benefits.
+
+No Material Changes
+
+Since the publication of the Group’s annual report for the year ended December 31, 2025 on April
+29, 2026, there has been no material change to the Group’s business.
+
+
+
+
+                                                20
+Use of Proceeds
+
+Use of Proceeds from the Subscription
+
+The following table sets forth the status of the use of net proceeds from the Subscription which is
+consistent with the intentions previously disclosed:
+
+                                                                                 Amount of
+                                                    Intended                       proceeds       Unused
+                                     Percentage        use of          Unused        utilized    balance
+                                     of intended    proceeds     balance as of    during the        as of
+                                           use of   from the       January 1, period ended      June 30, Timeframe for the
+Intended use of proceeds                proceeds Subscription             2026 June 30, 2026         2026 unused balance
+                                                    (In HKD          (In HKD       (In HKD      (In HKD
+                                             (%)    millions)        millions)     millions)    millions)
+
+Invest in suppliers for key
+  raw material and other companies
+  in the catering industries               70.0         581.0           163.9            95.7       68.2 By the end of 2026
+General working capital                    30.0         249.0               –               –          – –
+
+Total                                     100.0         830.0           163.9            95.7       68.2 By the end of 2026
+
+Note: The figures in the table are approximate figures.
+
+SHARE OPTION SCHEME
+
+A share option scheme was conditionally approved and adopted by the Shareholders on December
+6, 2019 (the “Share Option Scheme”) and its implementation is conditional on the Listing. The
+purpose of the Share Option Scheme is to provide the Company with a means of incentivizing
+any director or employee of the Group who has contributed or will contribute to the Group and
+retaining employees, and to encourage employees to work towards enhancing the value of the
+Company and promote the long-term growth of the Company. The Share Option Scheme will link
+the value of the Company with the interests of the participants, enabling the participants and the
+Company to develop together and promote the Company’s corporate culture.
+
+The Share Option Scheme remains valid for a period of ten years commencing on December 6,
+2019. As at June 30, 2026, the remaining life of the Share Option Scheme is approximately three
+years and six months.
+
+
+
+
+                                                                21
+The table below sets out the details of share options granted and outstanding during the period
+from January 1, 2026 to June 30, 2026 under the Share Option Scheme:
+
+                                                                                                                                    Weighted
+                                                                                                                                      average
+                                                                                                                        Closing closing price
+                                                                                                                          price   immediately       Fair
+                                                                                                                    immediately        before    value of
+                                                                                                                     before the      the date Shares at
+                                                                                                                        date of    of exercise   the date
+                                                                                                                          grant     of options   of grant
+                   Outstanding Granted                Exercised Cancelled      Lapsed     Outstanding    Exercise    during the        during     during
+                           as at   during               during     during      during           as at       price        period    the period        the
+                    January 1,        the   Date of        the        the          the       June 30,   (HKD per      (HKD per      (HKD per      period Vesting           Exercise
+Name of grantee            2026    period    grant      period     period      period           2026      Share)        Share )       Share )    (HKD ) period             period
+
+
+Directors of the Company
+Guan Yihong           900,000           –   Oct 30,          –          –            –        900,000        3.44             –             –          – Oct 30, 2024 – Oct 30, 2025 –
+                                              2024                                                                                                          Oct 29, 2025     Oct 29, 2029
+                      490,000           –   Sep 24,          –          –            –        490,000        2.16            –              –          – Sep 24, 2025 – Sep 24, 2026 –
+                                              2025                                                                                                          Sep 23, 2026     Sep 23, 2030
+He Chengxiao          607,000          –    Nov 3,           –          –            –        607,000        8.35            –              –          – Nov 3, 2023 –     Nov 3, 2024 –
+                                              2023                                                                                                          Nov 2, 2024      Nov 2, 2026
+                     1,336,000         –    Oct 30,          –          –            –      1,336,000        3.44            –              –          – Oct 30, 2024 – Oct 30, 2025 –
+                                              2024                                                                                                          Oct 29, 2025     Oct 29, 2029
+                     2,672,000         –    Sep 24,          –          –            –      2,672,000        2.16            –              –          – Sep 24, 2025 – Sep 24, 2026 –
+                                              2025                                                                                                          Sep 23, 2026     Sep 23, 2030
+Cui Longyu            476,000          –    Nov 3,           –          –            –        476,000        8.35            –              –          – Nov 3, 2023 –     Nov 3, 2024 –
+                                              2023                                                                                                          Nov 2, 2024      Nov 2, 2026
+                      913,000          –    Oct 30,          –          –            –        913,000        3.44            –              –          – Oct 30, 2024 – Oct 30, 2025 –
+                                              2024                                                                                                          Oct 29, 2025     Oct 29, 2029
+                     1,903,000         –    Sep 24,          –          –            –      1,903,000        2.16            –              –          – Sep 24, 2025 – Sep 24, 2026 –
+                                              2025                                                                                                          Sep 23, 2026     Sep 23, 2030
+Su Danman             155,000          –    Nov 3,           –          –            –        155,000        8.35            –              –          – Nov 3, 2023-      Nov 3, 2024-
+                                              2023                                                                                                          Nov 2, 2024      Nov 2, 2026
+                      375,000           –   Oct 30,          –          –            –        375,000        3.44             –             –          – Oct 30, 2024 – Oct 30, 2025 –
+                                              2024                                                                                                          Oct 29, 2025     Oct 29, 2029
+                     1,538,000          –   Sep 24,          –          –            –      1,538,000        2.16            –              –          – Sep 24, 2025 – Sep 24, 2026 –
+                                              2025                                                                                                          Sep 23 2026      Sep 23, 2030
+
+
+Employees of the Group
+Employees of the     3,721,000         –    Nov 3,           –          –    (268,000)      3,453,000        8.35            –              –          – Nov 3, 2023-      Nov 3, 2024-
+Group                                         2023                                                                                                          Nov 2, 2024      Nov 2, 2026
+                     9,545,000          –   Oct 30,          –          –    (707,000)      8,838,000        3.44             –             –          – Oct 30, 2024 – Oct 30, 2025 –
+                                              2024                                                                                                          Oct 29, 2025     Oct 29, 2029
+                    24,683,000          –   Sep 24,          –          –   (2,995,000)    21,688,000        2.16            –              –          – Sep 24, 2025 – Sep 24, 2026 –
+                                              2025                                                                                                          Sep 23, 2026     Sep 23, 2030
+Total               49,314,000          –                    –          –   (3,970,000)    45,344,000
+
+
+
+
+                                                                                            22
+As of January 1, 2026, the number of Shares available for further grant under the Share Option
+Scheme was 82,924,300. As of June 30, 2026, the number of Shares available for further grant
+under the Share Option Scheme was 86,894,300, representing 6.50% of the total number of Shares
+in issue at that date. As of June 30, 2026, the number of Shares in respect of which options
+had been granted and remained outstanding under the Share Option Scheme was 45,344,000,
+representing 3.39% of the total number of Shares in issue at that date. The number of Shares that
+may be issued in respect of share options granted under the Share Option Scheme as of June 30,
+2026 divided by weighted average number of Shares in issue for the six months ended June 30,
+2026 is 3.34%.
+
+ROUNDING
+
+Certain amounts and percentage figures included in this announcement have been subject to
+rounding adjustments. Any discrepancies in any table between totals and sums of amounts listed
+therein are due to rounding.
+
+
+
+
+                                               23
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+for the six months ended 30 June 2026 – unaudited
+(Expressed in Renminbi)
+
+                                                                      Six months ended 30 June
+                                                                            2026           2025
+                                                            Note        RMB ’000       RMB ’000
+
+Revenue                                                       3         2,391,313        2,753,436
+Other revenue                                                              18,665           26,857
+Raw materials and consumables used                                       (825,306)        (980,183)
+Staff costs                                                              (748,264)        (829,141)
+Depreciation of right-of-use assets                                      (216,827)        (268,080)
+Other rentals and related expenses                                        (43,347)         (54,865)
+Depreciation and amortisation of other assets                            (129,200)        (146,962)
+Utility expenses                                                          (94,585)        (110,964)
+Travelling and related expenses                                            (5,981)          (8,770)
+Advertising and promotion expenses                                        (42,737)         (35,974)
+Other expenses                                                           (177,846)        (189,755)
+Share of gains/(losses) of associates                                       4,966           (3,012)
+Other net income                                                           39,361           15,669
+Finance costs                                                             (44,179)         (55,113)
+Impairment losses of property, plant and equipment                        (22,343)         (35,277)
+
+Profit before taxation                                                    103,690           77,866
+
+Income tax                                                    5            (25,447)        (19,152)
+
+Profit for the period                                                       78,243          58,714
+
+Attributable to:
+Equity shareholders of the Company                                          75,804          60,691
+Non-controlling interests                                                    2,439          (1,977)
+
+Profit for the period                                                       78,243          58,714
+
+Earnings per share
+Basic (RMB)                                                   6               0.06              0.04
+
+Diluted (RMB)                                                 6               0.06              0.04
+
+Details of dividends payable to equity shareholders of the Company are set out in note 11(a).
+
+
+
+
+                                                24
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE
+INCOME
+for the six months ended 30 June 2026 – unaudited
+(Expressed in Renminbi)
+
+                                                                 Six months ended 30 June
+                                                                       2026           2025
+                                                                   RMB ’000       RMB ’000
+
+Profit for the period                                                 78,243        58,714
+
+Other comprehensive income for the period:
+Item that will not be reclassified to profit or loss:
+Equity investments at fair value through other comprehensive
+   income – net movement in fair value reserve (non-recycling)       (33,500)       29,483
+
+Item that may be reclassified subsequently to profit or loss:
+Exchange differences on translation of financial statements of
+   operations outside Chinese Mainland                               (78,142)      (29,792)
+
+Other comprehensive income for the period                           (111,642)         (309)
+
+
+
+Total comprehensive income for the period                            (33,399)       58,405
+
+Attributable to:
+Equity shareholders of the Company                                   (35,838)       60,382
+Non-controlling interests                                              2,439        (1,977)
+
+Total comprehensive income for the period                            (33,399)       58,405
+
+
+
+
+                                                25
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+at 30 June 2026 – unaudited
+(Expressed in Renminbi)
+
+                                                                At 30        At 31
+                                                                 June     December
+                                                                 2026         2025
+                                                       Note   RMB ’000    RMB ’000
+
+Non-current assets
+Property, plant and equipment                                 1,273,064   1,337,705
+Right-of-use assets                                           1,222,602   1,428,709
+Intangible assets                                                25,828      29,000
+Interests in associates                                         377,659      21,519
+Other non-current financial assets                              406,753     508,310
+Deferred tax assets                                             161,069     169,647
+Rental deposits                                                 100,836     110,822
+Other non-current assets                                          6,154       9,521
+
+                                                              3,573,965   3,615,233
+
+Current assets
+Inventories                                                     63,247      87,141
+Trade and other receivables                             7      778,173     806,834
+Financial assets measured at fair value through
+  profit or loss (“FVPL”)                                      166,930           –
+Restricted bank deposits                                8      160,024     207,379
+Deposits with banks with original maturity date
+  over three months                                     8      222,790       88,397
+Cash and cash equivalents                               8      587,902    1,017,981
+
+                                                              1,979,066   2,207,732
+
+Current liabilities
+Trade and other payables                                9      456,445     574,765
+Contract liabilities                                            12,387      12,742
+Lease liabilities                                              432,049     452,937
+Bank loans                                                     525,160     347,370
+Current taxation                                                35,279      31,916
+
+                                                              1,461,320   1,419,730
+
+Net current assets                                             517,746     788,002
+
+
+
+
+                                                  26
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+at 30 June 2026 – unaudited (continued)
+(Expressed in Renminbi)
+
+                                                             At 30        At 31
+                                                              June     December
+                                                              2026         2025
+                                                   Note    RMB ’000    RMB ’000
+
+Non-current liabilities
+Bank loans                                                  104,169       73,735
+Lease liabilities                                           838,766    1,021,414
+Provisions                                                   47,544       52,218
+Derivative financial liabilities                              1,475        2,466
+Deferred tax liabilities                                     25,526       36,408
+
+                                                           1,017,480   1,186,241
+
+NET ASSETS                                                 3,074,231   3,216,994
+
+CAPITAL AND RESERVES
+Share capital                                      11(b)           1           1
+Reserves                                                   3,074,482   3,219,684
+
+Total equity attributable to equity shareholders
+  of the Company                                           3,074,483   3,219,685
+
+Non-controlling interests                                      (252)      (2,691)
+
+TOTAL EQUITY                                               3,074,231   3,216,994
+
+
+
+
+                                              27
+NOTES TO THE UNAUDITED INTERIM FINANCIAL REPORT
+(Expressed in Renminbi unless otherwise indicated)
+
+1   BASIS OF PREPARATION
+
+    This interim financial report has been prepared in accordance with the applicable disclosure provisions of the
+    Rules Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited, including compliance
+    with International Accounting Standard (“IAS”) 34, Interim financial reporting, issued by the International
+    Accounting Standards Board (“IASB”). It was authorised for issue on 28 August 2026.
+
+    The interim financial report has been prepared in accordance with the same accounting policies adopted in the
+    2025 annual financial statements, except for the accounting policy changes that are expected to be reflected in
+    the 2026 annual financial statements. Details of any changes in accounting policies are set out in note 2.
+
+    The preparation of an interim financial report in conformity with IAS 34 requires management to make
+    judgements, estimates and assumptions that affect the application of policies and reported amounts of assets and
+    liabilities, income and expenses on a year-to-date basis. Actual results may differ from these estimates.
+
+    This interim financial report contains condensed consolidated financial statements and selected explanatory
+    notes. The notes include an explanation of events and transactions that are significant to an understanding of the
+    changes in financial position and performance of Jiumaojiu International Holdings Limited (the “Company”)
+    and its subsidiaries (the “Group”) since the 2025 annual financial statements. The condensed consolidated
+    interim financial statements and notes thereon do not include all of the information required for a full set of
+    financial statements prepared in accordance with IFRS Accounting Standards.
+
+    The interim financial report is unaudited, but has been reviewed by KPMG in accordance with Hong Kong
+    Standard on Review Engagements 2410, Review of interim financial information performed by the independent
+    auditor of the entity , issued by the Hong Kong Institute of Certified Public Accountants.
+
+2   CHANGES IN ACCOUNTING POLICIES
+
+    The IASB has issued a number of amendments to IFRS Accounting Standards that are first effective for the
+    current accounting period. None of these developments have had a material effect on these financial statements.
+    The Group has not applied any new standard or interpretation that is not yet effective for the current accounting
+    period.
+
+
+
+
+                                                        28
+3   REVENUE AND SEGMENT REPORTING
+
+    (a)   Revenue
+
+          The principal activities of the Group are restaurant operations, delivery business and sales of goods.
+
+          Disaggregation of revenue
+
+          Disaggregation of revenue from contracts with customers by major service lines is as follows:
+
+                                                                                        Six months ended 30 June
+                                                                                              2026           2025
+                                                                                          RMB ’000      RMB ’000
+
+          Revenue from contracts with customers within the scope of IFRS 15:
+          Restaurant operations                                                            1,742,398        2,115,998
+          Delivery business                                                                  523,762          499,055
+          Sales of goods                                                                     120,687          132,210
+          Others                                                                               4,466            6,173
+
+                                                                                           2,391,313        2,753,436
+
+
+          Note: Revenue was mainly recognised at point in time when control over a product or service was
+                transferred to the customer.
+
+          No revenue from individual customer contributing over 10% of total revenue of the Group for the six
+          months ended 30 June 2026 (six months ended 30 June 2025: Nil).
+
+    (b)   Segment Reporting
+
+          The Group manages its businesses by restaurant brands. In a manner consistent with the way in which
+          information is reported internally to the Group’s most senior executive management for the purposes
+          of resource allocation and performance assessment, the Group has presented the following reportable
+          segments.
+
+          •     Tai Er: this segment mainly includes operating restaurants featuring signature dish Chinese
+                sauerkraut fish and delivery business under Tai Er brand.
+
+          •     Song Hot Pot: this segment operates restaurants featuring hot pot under Song Hot Pot brand.
+
+          •     Jiu Mao Jiu: this segment operates restaurants and delivery business offering family-oriented food
+                under Jiu Mao Jiu brand.
+
+          •     Others: this segment mainly includes operating restaurants in other brands such as Fresh Wood,
+                Chaonabian and Shanwaimian, and the operation of the Group’s all other businesses.
+
+
+
+
+                                                       29
+                     (i)         Segment results, assets and liabilities
+
+                                 For the purposes of assessing segment performance and allocating resources between segments,
+                                 the Group’s senior executive management monitors the results, assets and liabilities attributable to
+                                 each reportable segment on the following bases:
+
+                                 Segment assets include all tangible, intangible assets and current assets with the exception of
+                                 financial assets measured at FVPL, interest in associates, other non-current financial assets,
+                                 deferred tax assets and other headquarter assets. Segment liabilities include lease liabilities,
+                                 provisions, trade and other payables and contract liabilities attributable to the restaurant operations
+                                 activities of the individual segments and bank borrowings managed directly by the segments.
+
+                                 Revenue and expenses are allocated to the reportable segments with reference to sales generated
+                                 by those segments and the expenses incurred by those segments or which otherwise arise from the
+                                 depreciation or amortisation of assets attributable to those segments.
+
+                                 The measure used for reporting segment profit is “Non-GAAP Operating Profit”, i.e. revenue
+                                 deducting the following expenses (i) raw materials and consumables used, (ii) staff costs, (iii)
+                                 depreciation of right-of-use assets, (iv) other rentals and related expenses, (v) depreciation and
+                                 amortisation of other assets, (vi) utility expenses, (vii) advertising and promotion expenses and
+                                 (viii) other expenses, excluding unallocated headquarter expenses.
+
+                                 In addition to receiving segment information concerning Non-GAAP Operating Profit, management
+                                 is provided with segment information concerning finance costs, net gains/(losses) on disposal of
+                                 property, plant and equipment and right-of-use assets and impairment losses of property, plant and
+                                 equipment.
+
+                                 Information regarding the Group’s reportable segments as provided to the Group’s most senior
+                                 executive management for the purposes of resource allocation and assessment of segment
+                                 performance for the period is set out below.
+
+                                                          Tai Er       Song Hot Pot       Jiu Mao Jiu         Others          Total
+For the six months ended 30 June                       2026      2025  2026         2025 2026         2025 2026      2025 2026      2025
+                                                    RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000
+
+Reportable segment revenue
+Revenue from external customers                     1,797,533    1,948,593    264,776    416,521    176,353    226,232    152,651    162,090    2,391,313    2,753,436
+
+Reportable segment profit
+  (Non-GAAP Operating Profit)                        268,083      262,000       9,229     14,893     18,025     28,789     10,290     24,092     305,627      329,774
+
+Finance costs                                         (33,326)     (38,042)    (5,655)    (9,661)    (3,882)    (4,009)    (1,316)    (3,401)     (44,179)     (55,113)
+
+Gains/(losses) on disposal of property, plant and
+  equipment and right-of-use assets, net              15,327          420       2,121     (7,072)    (2,173)      (112)         8     (3,196)     15,283        (9,960)
+
+Impairment losses of property, plant and
+  equipment                                            (1,688)     (14,401)   (20,553)   (16,891)      (102)    (1,353)         –     (2,632)     (22,343)     (35,277)
+
+As at 30 June/31 December
+
+Reportable segment assets                           2,331,647    2,262,845    312,830    396,923    763,682    764,589    104,016    111,336    3,512,175    3,535,693
+
+Reportable segment liabilities                      1,803,782    1,808,866    558,773    605,209    262,773    257,883     91,757     96,137    2,717,085    2,768,095
+
+
+
+
+                                                                                   30
+

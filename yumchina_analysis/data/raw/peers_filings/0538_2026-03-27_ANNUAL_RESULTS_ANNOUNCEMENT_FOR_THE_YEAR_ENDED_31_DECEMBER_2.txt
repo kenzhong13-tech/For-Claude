@@ -1,0 +1,1328 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take
+no responsibility for the contents of this announcement, make no representation as to its accuracy or
+completeness and expressly disclaim any liability whatsoever for any loss howsoever arising from or
+in reliance upon the whole or any part of the contents of this announcement.
+
+
+
+
+                          Ajisen (China) Holdings Limited
+                              味千（中國）控股有限公司
+                      (Incorporated in the Cayman Islands with limited liability)
+                                          (Stock code: 538)
+
+
+        ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED
+                        31 DECEMBER 2025
+
+ 2025 ANNUAL RESULTS HIGHLIGHTS
+
+                                                                    For the year ended 31 December
+                                                                2025             2024          change
+
+                                                                (RMB’000)        (RMB’000)              %
+
+ Turnover                                                       1,831,936        1,717,290         +6.7%
+ Sales from restaurant operation                                1,783,789        1,649,827         +8.1%
+ Gross profit                                                   1,410,159        1,313,652         +7.3%
+ Profit from operation                                             64,553           14,915       +332.8%
+ Profit (loss) before tax                                          61,140          (50,132)          N/A
+ Profit (loss) attributable to owners of the Company               28,408          (20,224)          N/A
+ Basic earnings (loss) per share (RMB)                                0.03            (0.02)         N/A
+ Recommended final dividend per share (RMB)                           0.07             0.06
+                                                             (HK$7.9 cents)   (HK$6.4 cents)
+ Special dividend per share (RMB)                                     0.03                –
+                                                             (HK$3.4 cents)               –
+ Total number of restaurants (as at 31 December)                       617              596
+
+
+ANNUAL RESULTS
+
+The board (the “Board”) of directors (the “Directors”) of Ajisen (China) Holdings Limited (the
+“Company” or “Ajisen”) is pleased to announce the audited consolidated annual results of the Company
+and its subsidiaries (the “Group”) for the year ended 31 December 2025 together with the comparative
+figures for the year ended 31 December 2024 as follows:
+                                                       -1-
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE
+INCOME
+For the year ended 31 December 2025
+
+                                                                          2025         2024
+                                                      NOTES            RMB’000      RMB’000
+
+Revenue                                                 3              1,831,936    1,717,290
+Cost of inventories consumed                                            (421,777)    (403,638)
+Staff costs                                             7               (490,550)    (479,456)
+Depreciation                                            7               (341,370)    (321,488)
+Other operating expenses                                      14,915
+                                                                        (513,686)    (497,793)
+
+Profit from operation                                                    64,553       14,915
+
+Other income                                            4                81,026       88,981
+Impairment losses under expected credit loss model,
+  net of reversal                                                           550          242
+Impairment loss recognised in respect of
+  – property, plant and equipment                                         (2,392)     (3,034)
+  – right-of-use assets                                                  (10,947)    (11,527)
+  – interests in associates                            11                      –      (6,429)
+Other gains and losses                                 5                 (44,166)   (110,510)
+Share of loss of associates                                               (2,260)       (949)
+Share of (loss) gain of a joint venture                                     (240)        772
+Finance costs                                           6                (24,984)    (22,593)
+
+Profit (loss) before tax                                                  61,140      (50,132)
+Income tax (expense) credit                             8                (28,852)      34,891
+
+Profit (loss) for the year                                               32,288       (15,241)
+
+
+Other comprehensive (expense) income,
+   net of income tax
+Item that may be reclassified subsequently to
+   profit or loss:
+Exchange differences arising on translation
+   of foreign operations                                                 (29,569)     15,653
+
+Other comprehensive (expense) income for the year,
+  net of income tax                                                      (29,569)     15,653
+
+Total comprehensive income for the year                                    2,719         412
+
+                                                -2-
+                                                                  2025       2024
+                                                        NOTE   RMB’000    RMB’000
+
+Profit (loss) for the year attributable to:
+  Owners of the Company                                          28,408    (20,224)
+  Non-controlling interests                                       3,880      4,983
+
+                                                                 32,288    (15,241)
+
+
+Total comprehensive income (expense) attributable to:
+  Owners of the Company                                             402     (2,845)
+  Non-controlling interests                                       2,317      3,257
+
+                                                                  2,719       412
+
+
+                                                                  2025       2024
+                                                                  RMB        RMB
+
+Earnings (Loss) per share                                10
+  – Basic                                                          0.03      (0.02)
+
+
+  – Diluted                                                        0.03      (0.02)
+
+
+
+
+                                               -3-
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+At 31 December 2025
+
+                                                                             2025        2024
+                                                        NOTES             RMB’000     RMB’000
+
+Non-current assets
+  Investment properties                                                    759,737     816,634
+  Property, plant and equipment                                            399,420     437,090
+  Right-of-use assets                                                      614,074     566,180
+  Goodwill                                                                   1,352       1,375
+  Intangible assets                                                          1,437       1,808
+  Interests in associates                                11                 33,469      35,763
+  Interest in a joint venture                                                8,353       8,593
+  Rental deposits                                                           80,054      67,459
+  Deferred tax assets                                                       43,709      34,920
+  Term deposits with banks                                                  30,250      26,180
+  Financial assets at fair value through profit
+     or loss (“FVTPL”)                                   12     125,535
+                                                                           109,184     115,535
+
+                                                                          2,081,039   2,111,537
+
+Current assets
+  Inventories                                                                69,013      76,625
+  Trade and other receivables                            13                 154,168     158,817
+  Taxation recoverable                                                          176         550
+  Restricted bank deposits                                                       48         113
+  Financial assets at FVTPL                              12                  10,128      10,000
+  Bank balances and cash                                                  1,669,481   1,629,653
+
+                                                                          1,903,014   1,875,758
+
+Current liabilities
+  Trade and other payables                               14                261,719     251,204
+  Lease liabilities                                                        223,819     211,607
+  Contract liabilities                                                         893       1,005
+  Amounts due to related companies                                           2,199       4,100
+  Amounts due to directors                                                   2,609       1,111
+  Amounts due to non-controlling interests                                  13,542      13,551
+  Amount due to an associate                                                 2,240       2,296
+  Amount due to a joint venture                                                355         323
+  Taxation payable                                                          20,361      18,183
+  Bank borrowings                                                            5,079       5,287
+
+                                                                           532,816     508,667
+
+Net current assets                                                        1,370,198   1,367,091
+
+Total assets less current liabilities                                     3,451,237   3,478,628
+
+
+                                                  -4-
+                                                               2025        2024
+                                                     NOTE   RMB’000     RMB’000
+
+Non-current liabilities
+  Lease liabilities                                          399,110     365,029
+  Bank borrowings                                             24,887      29,322
+  Deferred tax liabilities                                   121,921     116,810
+
+                                                             545,918     511,161
+
+Net assets                                                  2,905,319   2,967,467
+
+Capital and reserves
+  Share capital                                               108,404     108,404
+  Reserves                                                  2,738,362   2,802,867
+
+Equity attributable to owners of the Company                2,846,766   2,911,271
+Non-controlling interests                                      58,553      56,196
+
+Total equity                                                2,905,319   2,967,467
+
+
+
+
+                                               -5-
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+
+1.   GENERAL INFORMATION
+
+     Ajisen (China) Holdings Limited (the “Company”) was incorporated and registered as an exempted company
+     with limited liability on 6 April 2006 under the Companies Law of the Cayman Islands and acts as an
+     investment holding company. Its shares have been listed on the Main Board of The Stock Exchange of
+     Hong Kong Limited (the “Stock Exchange”) on 30 March 2007.
+
+     Its immediate holding company is Favor Choice Group Limited, a British Virgin Islands incorporated
+     entity, which is wholly-owned by Anmi Holding Company Limited. Anmi Holding Company Limited is
+     incorporated in the British Virgin Islands and is wholly-owned by Anmi Trust, which is controlled by
+     Ms. Poon Wai (“Ms.Poon”), the Chairwoman and Managing Director of the Company.
+
+     The principal activities of the Company and its subsidiaries (the “Group”) are operation of restaurants,
+     manufacture and sales of noodles and related products, and investment holding. The consolidated financial
+     statements are presented in Renminbi (“RMB”), which is also the functional currency of the Company and
+     its Mainland China operating subsidiaries. The functional currency of Hong Kong operating subsidiaries
+     is Hong Kong dollars (“HK$”).
+
+2.   APPLICATION OF NEW AND AMENDMENTS TO HKFRS ACCOUNTING STANDARDS
+
+     Amendments to a HKFRS Accounting Standard that are mandatorily effective for the current year
+
+     In the current year, the Group has applied the following amendments to HKFRS Accounting Standards
+     issued by the Hong Kong Institute of Certified Public Accountants (“HKICPA”) for the first time, which
+     are mandatorily effective for the Group’s annual period beginning on 1 January 2025 for the preparation
+     of the consolidated financial statements:
+
+     Amendments to HKAS 21                            Lack of Exchangeability
+
+     The application of the amendments to HKFRS Accounting Standards in the current year has had no material
+     impact on the Group’s financial positions and performance for the current and prior years and/or on the
+     disclosures set out in these consolidated financial statements.
+
+
+
+
+                                                    -6-
+New and amendments to HKFRS Accounting Standards in issue but not yet effective
+
+The Group has not early applied the following new and amendments to HKFRS Accounting Standards
+that have been issued but are not yet effective:
+
+Amendments to HKFRS 9 and HKFRS 7        Amendments to the Classification and Measurement of
+                                           Financial Instruments2
+Amendments to HKFRS 9 and HKFRS 7        Contracts Referencing Nature-dependent Electricity2
+Amendments to HKFRS 10 and HKAS 28       Sale or Contribution of Assets between an Investor
+                                           and its Associate or Joint Venture1
+Amendments to HKFRS Accounting Standards Annual Improvements to HKFRS Accounting
+                                           Standards – Volume 112
+HKFRS 18                                 Presentation and Disclosure in Financial Statements3
+Amendments to HKAS 21                    Translation to a Hyperinflationary Presentation
+                                           Currency3
+
+1.
+      Effective for annual periods beginning on or after a date to be determined.
+2.
+      Effective for annual periods beginning on or after 1 January 2026.
+3.
+      Effective for annual periods beginning on or after 1 January 2027.
+
+Except for the new HKFRS Accounting Standard mentioned below, the directors of the Company anticipate
+that the application of all the amendments to HKFRS Accounting Standards will have no material impact
+on the consolidated financial statements in the foreseeable future.
+
+HKFRS 18 Presentation and Disclosure in Financial Statements
+
+HKFRS 18 Presentation and Disclosure in Financial Statements, which sets out requirements on presentation
+and disclosures in financial statements, will replace HKAS 1 Presentation of Financial Statements. This
+new HKFRS Accounting Standard, while carrying forward many of the requirements in HKAS 1, introduces
+new requirements to present specified categories and defined subtotals in the statement of profit or loss;
+provide disclosures on management-defined performance measures (MPMs) in the notes to the financial
+statements and improve aggregation and disaggregation of information to be disclosed in the financial
+statements. In addition, some HKAS 1 paragraphs have been moved to HKAS 8 Accounting Policies,
+Changes in Accounting Estimates and Errors (the title of which will be changed to Basis of Preparation
+of Financial Statements upon effective of HKFRS 18) and HKFRS 7. Minor amendments to HKAS 7
+Statement of Cash Flows and HKAS 33 Earnings per Share are also made.
+
+HKFRS 18, and amendments to other standards, will be effective for annual periods beginning on or after 1
+January 2027, with early application permitted. HKFRS 18 requires retrospective application with specific
+transition provisions. The application of the new standard is not expected to have significant impact on
+the financial performance and positions of the Group in terms of recognition and measurement. However,
+it is expected to affect the structure and presentation of the consolidated statement of profit or loss.
+
+Additional disclosures required for the Group’s MPMs will be disclosed in a separate note to the
+consolidated financial statements.
+
+
+
+
+                                                -7-
+3.   OPERATING SEGMENTS
+
+     Information reported to Ms. Poon, being the chief operating decision maker (“CODM”), for the purposes
+     of resource allocation and assessment of segment performance, is analysed based on operating divisions
+     and geographical locations. The Group is organised and specifically focuses on three operating divisions:
+     operation of restaurants, manufacture and sales of noodles and related products, and investment holding.
+     No operating segments have been aggregated in arriving at the reportable segments of the Group.
+
+     Specifically, the Group’s reportable segments under HKFRS 8 Operating Segments are as follows:
+
+     Operation of restaurants                                         – operation of restaurants in Mainland China
+                                                                      – operation of restaurants in Hong Kong
+
+     Manufacture and sales of noodles and related                     – manufacture and sales of noodles and related
+      products                                                           products in Mainland China and Hong Kong
+
+     Investment holding                                               – investments in properties, unlisted equity
+                                                                          instruments and fund investments, and investments
+                                                                          in associates and joint venture
+
+     Information regarding these segments is presented below.
+
+     Segment revenues and results
+
+     The following is an analysis of the Group’s revenue and results from continuing operations by reportable
+     segments:
+
+     For the year ended 31 December 2025
+
+                                                                                Manufacture
+                                                                                   and sales
+                                                 Operation of restaurants         of noodles                       Total
+                                           Mainland                              and related   Investment     reportable
+                                             China Hong Kong              Total    products       holding      segments Eliminations      Total
+                                           RMB’000       RMB’000        RMB’000    RMB’000       RMB’000       RMB’000     RMB’000      RMB’000
+
+     SEGMENT REVENUE
+       – External sales                    1,517,938      265,851     1,783,789       48,147            –     1,831,936            –    1,831,936
+       – Inter-segment sales                       –            –             –      685,618            –       685,618     (685,618)           –
+
+                                           1,517,938      265,851     1,783,789      733,765            –     2,517,554     (685,618)   1,831,936
+
+     Segment profit (loss)                   86,773         5,086         91,859       2,830      (20,059)*      74,630            –      74,630
+
+     Interest income                                                                                                                       24,963
+     Unallocated administrative expenses                                                                                                  (37,678)
+     Unallocated finance costs                                                                                                               (775)
+
+     Profit before tax                                                                                                                     61,140
+     Income tax expense                                                                                                                   (28,852)
+
+     Profit for the year                                                                                                                  32,288
+
+
+                                                                    -8-
+For the year ended 31 December 2024
+
+                                                                                    Manufacture
+                                                                                      and sales
+                                             Operation of restaurants                of noodles                       Total
+                                      Mainland                                       and related   Investment     reportable
+                                        China      Hong Kong               Total       products       holding      segments Eliminations       Total
+                                      RMB’000       RMB’000             RMB’000       RMB’000       RMB’000        RMB’000     RMB’000      RMB’000
+
+SEGMENT REVENUE
+  – External sales                    1,452,891        196,936          1,649,827        67,463            –      1,717,290            –    1,717,290
+  – Inter-segment sales                       –              –                  –       619,163            –        619,163     (619,163)           –
+
+                                      1,452,891        196,936          1,649,827       686,626            –      2,336,453     (619,163)   1,717,290
+
+Segment profit (loss)                   13,396           2,388            15,784          2,947       (60,482)*     (41,751)           –      (41,751)
+
+Interest income                                                                                                                                31,112
+Unallocated administrative expenses                                                                                                           (38,484)
+Unallocated finance costs                                                                                                                      (1,009)
+
+Loss before tax                                                                                                                               (50,132)
+Income tax credit                                                                                                                              34,891
+
+Loss for the year                                                                                                                             (15,241)
+
+
+*         Segment profit (loss) in investment holding segment included share of loss of associates and joint
+          venture totalling RMB2,500,000 (2024: RMB177,000) for the current and prior reporting periods,
+          respectively.
+
+Other information
+
+The accounting policies of the operating segments are the same as the Group’s accounting policies. Segment
+profit (loss) represents the profit earned/loss incurred by each segment, excluding interest income, certain
+administrative expenses and finance costs, and income tax credit (expense). This measure is reported to
+the CODM, Ms. Poon, for resource allocation and performance assessment.
+
+Inter-segment sales are conducted at prevailing market rates.
+
+Total assets and total liabilities are not reported, as this financial information is not reviewed by the CODM
+when evaluating performance or allocating resources across the Group’s business activities.
+
+All of the Group’s non-current assets, including investment properties, property, plant and equipment,
+right-of-use assets, goodwill, intangible assets, interests in associates (other than loan to an associate)
+and a joint venture, are located within the Group entities’ regions of domicile, namely Mainland China
+and Hong Kong.
+
+
+
+
+                                                                  -9-
+     The following table set forth the Group’s revenue from external customers and the Group’s non-current
+     assets by geographical location of assets:
+
+                                                       Revenue from external               Non-current
+                                                             customers                        assets
+                                                      Year ended 31 December         Year ended 31 December
+                                                             2025           2024           2025            2024
+                                                          RMB’000        RMB’000        RMB’000         RMB’000
+
+     Mainland China                                       1,560,325      1,511,068      1,341,971      1,376,716
+     Hong Kong                                              271,611        206,222        474,521        489,343
+
+                                                          1,831,936      1,717,290      1,816,492      1,866,059
+
+
+     Note: Non-current assets excluded financial assets at FVTPL, loan to an associate, rental deposits, term
+           deposits with banks and deferred tax assets.
+
+     None of the customers accounted for 10% or more of the total revenue of the Group during the current
+     and prior reporting periods.
+
+4.   OTHER INCOME
+
+                                                                                        2025               2024
+                                                                                     RMB’000            RMB’000
+
+     Royalty income from sub-franchisee (note i)                                          4,957            5,420
+     Gross rental income from investment properties (note ii)                            38,486           42,680
+     Less: direct operating expenses incurred for investment properties
+      generating rental income during the year                                           (1,689)           (1,732)
+
+                                                                                         36,797           40,948
+     Bank interest income                                                                24,963           31,112
+     Waive of franchise commission payable to a related party (note iii)                  6,442            5,942
+     Government grants (note iv)                                                          1,116            2,030
+     Others                                                                               6,751            3,529
+
+                                                                                         81,026           88,981
+
+
+     Notes:
+
+     (i)    The Group grants franchisees the right to operate restaurants under the “Ajisen” brand for fixed
+            contract terms. Royalty income is recognised over time based on the amounts specified in the
+            contract.
+
+     (ii)   Property rental income is recognised on a straight-line basis over the lease terms. All leases for the
+            years ended 31 December 2025 and 2024 were operating leases with fixed lease payments.
+
+
+
+
+                                                      - 10 -
+     (iii)   During the years ended 31 December 2025 and 2024, the franchise commission payable to Shigemitsu
+             Industry Co., Ltd (“Shigemitsu Industry”), a related party, was waived under mutually agreed terms
+             between the Group and Shigemitsu Industry.
+
+     (iv)    In the year ended 31 December 2025, the Group recognised government grants of RMB1,116,000
+             (2024: RMB2,030,000), representing subsidies received from local district authorities in the Mainland
+             China for business activities conducted by the Group. These grants had no specific conditions
+             attached.
+
+5.   OTHER GAINS AND LOSSES
+
+                                                                                         2025              2024
+                                                                                      RMB’000           RMB’000
+
+     Fair value loss on investment properties                                           (48,131)        (101,253)
+     Loss on disposal of property, plant and equipment                                   (1,212)          (2,293)
+     Net gain on early termination of leases                                             10,361            2,177
+     Fair value loss on financial assets at FVTPL                                        (6,225)          (9,271)
+     Fair value gain on financial liabilities at FVTPL                                        –            2,127
+     Net foreign exchange gain (loss)                                                     1,041           (1,997)
+
+                                                                                        (44,166)        (110,510)
+
+
+6.   FINANCE COSTS
+
+                                                                                         2025              2024
+                                                                                      RMB’000           RMB’000
+
+     Interest on lease liabilities                                                       24,209            21,584
+     Interest on bank borrowings                                                            775             1,009
+
+                                                                                         24,984            22,593
+
+
+
+
+                                                      - 11 -
+7.   PROFIT (LOSS) BEFORE TAX
+
+     Profit (loss) before tax has been arrived at after charging:
+
+                                                                       2025        2024
+                                                                    RMB’000     RMB’000
+
+     Directors’ remuneration                                           4,926       4,782
+     Salaries, wages and other benefits                              439,091     426,328
+     Retirement benefits scheme contributions                         45,948      47,298
+     Share-based payment                                                 585       1,048
+
+     Total staff costs                                               490,550     479,456
+
+     Depreciation of property, plant and equipment                   102,457     104,399
+     Depreciation of right-of-use assets                             238,913     217,089
+
+     Total depreciation                                              341,370     321,488
+
+     Auditor’s remuneration:
+     Audit services                                                    2,800       3,100
+
+
+8.   INCOME TAX EXPENSE (CREDIT)
+
+                                                                       2025        2024
+                                                                    RMB’000     RMB’000
+
+     Hong Kong Profits Tax
+      – Current year                                                   1,856       2,749
+      – (Over) under provision in prior years                         (1,212)         82
+
+                                                                        644        2,831
+     Mainland China Income Tax
+      – Current year                                                  18,685       9,227
+      – Under provision in prior years                                   543         124
+
+                                                                      19,228       9,351
+
+     Withholding tax paid                                             12,643           –
+     Deferred taxation credit                                         (3,663)    (47,073)
+
+                                                                      28,852     (34,891)
+
+
+
+
+                                                     - 12 -
+      Under the two-tiered profits tax rates regime of Hong Kong, the first HK$2 million of assessable profit
+      for a qualifying group entity is taxed at 8.25%, while profits above HK$2 million are taxed at 16.5%.
+      Group entities that do not qualify for the two-tiered profits tax rates regime continue to be taxed at a flat
+      rate of 16.5% on their estimated assessable profit.
+
+      In accordance with the Law of the PRC on Enterprise Income Tax (the “EIT Law”) and Implementation
+      Regulation of the EIT Law, the subsidiaries in Mainland China are subject to EIT rate of 25%.
+
+      Pursuant to the relevant provincial policy, Chongqing Weiqian Food & Culture Management Co., Ltd.
+      重慶味千餐飲文化有限公司 (“Chongqing Weiqian”), a subsidiary of the Group, successfully applied a
+      preferential tax rate of 15% for a term of 9 years from 2021 to 2030.
+
+      According to the tax law and implementation regulations in the PRC, dividends paid from net profits
+      earned by the operating subsidiaries in Mainland China after 1 January 2008 are subject to withholding
+      tax at a rate of 10%, unless a lower treaty rate applies. Under the relevant tax treaty, dividends paid to
+      Hong Kong resident companies are subject to a reduced withholding tax rate of 5%. Withholding tax has
+      been provided based on the anticipated level of dividend payout ratio of the entities in Mainland China.
+
+9.    DIVIDENDS
+
+      Dividends for ordinary shareholders of the Company recognised as distribution during the year:
+
+                                                                                         2025               2024
+                                                                                      RMB’000            RMB’000
+
+      Final, paid – RMB0.06 (HK$0.064) per share for 2024
+        (2024: paid – RMB0.08 (HK$0.086) per share for 2023)                              65,492           87,323
+
+
+      Subsequent to the end of the reporting period, a final dividend and a special dividend in respect of the year
+      ended 31 December 2025 of RMB0.07 (HK$0.079) and RMB0.03 (HK$0.034) respectively, (2024: final
+      dividend in respect of the year ended 31 December 2024 of RMB0.06 (HK$0.064)) per ordinary share, in
+      an aggregate amount of RMB109,154,000 (HK$123,344,000) (2024: RMB65,492,000 (HK$69,858,000)),
+      has been proposed by the directors of the Company and is subject to approval by the shareholders in the
+      annual general meeting.
+
+10.   EARNINGS (LOSS) PER SHARE
+
+      The calculation of the basic and diluted earnings (loss) per share from continuing operations attributable
+      to owners of the Company is based on the following data:
+
+      Earnings (loss) figures are calculated as follows:
+
+                                                                                         2025               2024
+                                                                                      RMB’000            RMB’000
+
+      Earnings (loss) for the purposes of basic and diluted earnings (loss)
+       per share, being earnings (loss) for the year attributable to owners
+       of the Company                                                                     28,408           (20,224)
+
+
+
+
+                                                      - 13 -
+      Number of shares
+
+                                                                                        2025              2024
+
+      Weighted average number of ordinary shares for the purpose of
+       calculating basic and diluted earnings (loss) per share                 1,091,538,820     1,091,538,820
+
+      In respect of the year ended 31 December 2025, the computation of diluted earnings per share did not
+      assume the exercise of outstanding share options of the Company as the exercise price of the Company’s
+      outstanding options is higher than the average market price of the Company’s share.
+
+      In respect of the year ended 31 December 2024, the computation of diluted loss per share did not assume
+      the exercise of outstanding share options of the Company as this would result in the decrease in the loss
+      per share.
+
+11.   INTERESTS IN ASSOCIATES
+
+                                                                                      2025              2024
+                                                                                   RMB’000           RMB’000
+
+      Cost of investment in associates                                               161,341          161,341
+      Share of post-acquisition results and other comprehensive expense,
+       net of dividends received                                                      (12,120)          (9,860)
+
+                                                                                     149,221          151,481
+
+      Less: Accumulated impairment losses recognised (note i)                       (117,102)         (117,102)
+      Loan to an associate (note ii)                                                   1,350             1,384
+
+                                                                                      33,469            35,763
+
+
+      Notes:
+
+      (i)   The carrying amount of the interests in these associates was reduced to the extent of its estimated
+            recoverable amount accordingly. Details are set out below.
+
+            For interest in Guangzhou Yunnex Information Technology Co., Ltd., (“Yunnex”), the recoverable
+            amount is determined based on fair value less costs of disposal. As at 31 December 2025 and 2024,
+            the investment in Yunnex had been fully impaired, with accumulated impairment loss amounting
+            to RMB49,367,000.
+
+            For another interest in associate, Jiangsu Hong Xuan Ecological Agriculture Company Limited
+            (江蘇鴻軒生態農業有限公司), (“Hong Xuan”), the recoverable amount is determined based on fair
+            value less costs of disposal. As at 31 December 2025 and 2024, the investment in Hong Xuan had
+            been fully impaired, with accumulated impairment loss amounting to RMB61,306,000.
+
+            Regarding the Group’s interest in Shenzhen Jupeng Kitchen Equipment Co., Ltd. (深圳市巨鵬廚房
+            設備有限公司), the recoverable amount was determined based on fair value less costs of disposal.
+            Consequently, an impairment loss of nil (2024: RMB6,429,000) was recognised for the year ended
+            31 December 2025.
+
+                                                     - 14 -
+      (ii)   Loan to an associate forms part of the net interests in the associate. The amount is unsecured, interest
+             free and will not be repayable within twelve months from the end of the reporting period.
+
+      All of these associates are accounted for using the equity method in these consolidated financial statements.
+
+12.   FINANCIAL ASSETS AT FVTPL
+
+      Financial assets at FVTPL
+
+                                                                                            2025              2024
+                                                                                         RMB’000           RMB’000
+
+      Current assets:
+      Reverse repurchase treasury bond (note i)                                             10,128            10,000
+
+      Non-current assets:
+      Unlisted equity investments and fund investments (note ii)                           109,184           115,535
+
+                                                                                           119,312           125,535
+
+
+      The components of unlisted equity instruments and fund investments are as follows:
+
+                                                                                            2025              2024
+                                                                                         RMB’000           RMB’000
+
+      Anhui Jiahua Anyuan Investment Fund Partnership
+        (Limited Partnership)                                                               13,255            13,254
+      Guangzhou Hezhi Investment Center (Limited Partnership)                               68,796            72,281
+      Jialan Jiahua (Tianjin) Venture Capital Fund Partnership
+        (Limited Partnership)                                                               22,133            20,000
+      Others                                                                                 5,000            10,000
+
+                                                                                           109,184           115,535
+
+
+      Notes:
+
+      (i)    During the year ended 31 December 2025, the Group purchased reverse repurchase treasury bond
+             issued by the PRC government with interest yield rates ranging from 1.0% to 1.5% (2024: 0.5% to
+             5%) per annum and with maturity ranging from 2 days to 28 days (2024: 1 day to 182 days).
+
+      (ii)   Financial assets at FVTPL are classified as non-current as they are neither part of the working capital
+             used in the Group’s normal operating cycle nor held for trading purpose, therefore the Company’s
+             directors consider it is appropriate to classify it as non-current as of the end of the reporting period.
+
+
+
+
+                                                        - 15 -
+13.   TRADE AND OTHER RECEIVABLES
+
+                                                                                        2025               2024
+                                                                                     RMB’000            RMB’000
+
+      Trade receivables
+        – contracts with customers (third parties)                                       16,757            18,115
+      Less: allowance for credit losses                                                    (951)           (1,637)
+
+                                                                                         15,806            16,478
+
+      Other receivables
+       Value added tax recoverable                                                       53,370            46,947
+       Rental and utility deposits                                                       34,650            36,216
+       Advance to suppliers                                                              19,524            19,592
+       Prepaid management fee and property rental (note)                                 12,946            14,636
+       Lease receivables                                                                  2,922            11,741
+       Prepayments                                                                        6,028             6,247
+       Staff advance                                                                      4,166             5,869
+       Others                                                                             5,052            10,859
+
+                                                                                       138,658           152,107
+      Less: allowance for credit losses                                                   (296)           (9,768)
+
+                                                                                       138,362           142,339
+
+                                                                                       154,168           158,817
+
+
+      As at 1 January 2024, trade receivables from contracts with customers amounted to RMB32,989,000.
+
+      Note: The prepaid property rentals are related to short-term leases.
+
+      Customers relating to manufacture and sales of noodles and related products are normally granted a credit
+      period of 0 to 90 days (2024: 0 to 90 days) upon issuance of invoices, except for certain well established
+      customers, their credit terms may up to 180 days (2024: 180 days). There is no credit period for customers
+      relating to sales from operation of restaurants, unless when the payments are made through online electronic
+      payment platforms, in which case the trade receivables from these online electronic payment platforms
+      are normally settled within 7 days.
+
+
+
+
+                                                      - 16 -
+      At the end of the reporting period, the aged analysis of trade receivables, net of allowance for credit losses,
+      presented based on the invoice dates for manufacture and sales of noodles and related products, and based
+      on transaction dates in respect of sales from operation of restaurant, is as follows:
+                                                                                             2025               2024
+                                                                                        RMB’000           RMB’000
+
+      0 to 30 days                                                                         12,837            15,363
+      31 to 60 days                                                                           917               537
+      61 to 90 days                                                                         1,458               160
+      91 to 180 days                                                                          561               132
+      180 to 365 days                                                                          33               286
+
+                                                                                           15,806            16,478
+
+
+      As at 31 December 2025, of the Group’s trade receivables are debtors with gross carrying amount of
+      RMB704,000 (2024: RMB983,000) which are past due 90 days or more as at the reporting date. These
+      past due balances are not considered as default as the Group’s management considered that these balances
+      are mainly due from customers with good credit quality. The Group does not hold any collateral over
+      these balances.
+
+14.   TRADE AND OTHER PAYABLES
+
+                                                                                           2025              2024
+                                                                                        RMB’000           RMB’000
+
+      Trade payables
+       – related parties (note)                                                            27,738            34,826
+       – third parties                                                                     76,935            62,566
+
+                                                                                          104,673            97,392
+
+      Other payables
+       Payroll and welfare payables                                                        46,928            40,201
+       Rental deposits received                                                            15,762            19,337
+       Payable for acquisition of property, plant and equipment                            22,375            27,019
+       Payable for variable lease payments                                                 11,469            12,021
+       Other taxes payable                                                                  7,630             7,404
+       Others                                                                              52,882            47,830
+
+                                                                                          261,719           251,204
+
+
+      Note: The related parties are the companies in which Mr. Katsuaki Shigemitsu, a director and shareholder
+            of the Company, has controlling interests.
+
+
+
+
+                                                       - 17 -
+The average credit period for purchase of goods is 60 days (2024: 60 days). The following is an aged
+analysis of trade payables, presented based on invoice dates, as of the end of the reporting period:
+
+                                                                             2025            2024
+                                                                          RMB’000         RMB’000
+
+0 to 30 days                                                                 79,641          76,648
+31 to 60 days                                                                15,389          15,619
+61 to 90 days                                                                 2,558             198
+91 to 180 days                                                                1,957             372
+Over 180 days                                                                 5,128           4,555
+
+                                                                           104,673           97,392
+
+
+
+
+                                            - 18 -
+DIVIDEND
+
+A final dividend of RMB0.07 (HK$7.9 cents) and a special dividend of RMB0.03 (HK$3.4 cents) per
+ordinary share respectively (2024: a final dividend of RMB0.06 (HK$6.4 cents) per ordinary share)
+for the year ended 31 December 2025 has been proposed by the Board and is subject to the approval
+by the shareholders of the Company (the “Shareholders”) at the annual general meeting (“AGM”) to
+be held on Tuesday, 23 June 2026.
+
+In celebration of the 30th anniversary of Ajisen’s successful entry into the Hong Kong markets, the Board
+is pleased to propose the special dividend as a token of appreciation and gratitude to the Shareholders
+for their unwavering support and loyalty over the past three decades.
+
+The proposed final dividend is expected to be paid on or about Friday, 14 August 2026. No interim
+dividend were paid for the year ended 31 December 2025 and 2024.
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Industry Review
+
+During the year ended 31 December 2025 (the “Period” or the “Reporting Period”), facing complex
+changes in the domestic and international economic environment, China thoroughly implemented the
+decisions and arrangements of the Party Central Committee and the State Council, steadfastly pursued
+the new development philosophy to drive high-quality growth, adopted more proactive and effective
+macro policies, and promoted in-depth the construction of a unified national market. Consequently,
+the national economy forged ahead under pressure, moving toward innovation and optimisation, and
+achieved new successes in high-quality development, successfully realising the main socioeconomic
+development goals and tasks. According to data released by the National Bureau of Statistics of China,
+during the Period, preliminary calculations show that China’s gross domestic product (GDP) reached
+RMB140,187.9 billion, representing a year-on-year increase of 5.0% (same period in 2024: 5.0%);
+the total retail sales of consumer goods amounted to RMB50,120.2 billion, representing a year-on-
+year increase of 3.7%; the national per capita disposable income was RMB43,377, representing a real
+growth of 5.0% over the same period last year; and the annual consumer price index (CPI) remained
+flat compared to the previous year.
+
+In 2025, influenced by the macroeconomic environment, catering revenue maintained steady growth.
+The catering market demonstrated a development trend characterised by “stabilising growth rates,
+optimising structures, and frequently emerging highlights” amidst fluctuations. Driven by the dual
+engines of policy guidance and corporate innovation, the industry exhibited strong resilience and
+vitality. According to the National Bureau of Statistics of China, during the Period, national catering
+revenue reached RMB5,798.2 billion, surpassing the threshold of RMB5,700 billion, and representing
+a year-on-year increase of 3.2%, which reflects the robust recovery resilience and intrinsic growth
+momentum of catering consumption; and the catering industry accounted for 11.6% of the total retail
+sales of consumer goods, representing an increase of 0.2 percentage points compared to the previous
+year, indicating its increasingly vital role in promoting consumption recovery and driving domestic
+demand growth.
+                                                  - 19 -
+In 2025, China’s catering industry encountered a mix of risks and transformations amidst changes, with
+pain points becoming acutely visible. Frequent occurrences of food safety hazards, inadequate franchise
+management, controversies surrounding pre-made dishes, and eroded brand trust, coupled with the
+stagnation of premium pricing models, waves of store closures, and declining performance, highlighted
+the shortcomings and risks in the industry’s development. Despite these prominent challenges, the
+catering market continued to demonstrate resilience amidst volatility. Enterprises actively optimised
+their operational strategies in response to market demands. In light of consumer segmentation trends,
+on one hand, enterprises launched high cost-effective sub-brands and expanded into lower-tier cities
+to capture the mass market; on the other, they streamlined high-end product lines and discarded
+ineffective price premiums. Simultaneously, enterprises continuously strengthened internal controls,
+reinforced the food safety defenses while scaling up operations, standardised franchise management,
+and eliminated service irregularities to steadily enhance brand credibility. Furthermore, the industry
+actively explored new business formats and expanded into diverse consumption scenarios, injecting fresh
+momentum into high-quality development of the catering industry. Particularly, “first-store economy”
+and holiday consumption emerged as core growth engines, with brand debut stores, family dining, and
+tourism-related catering continuously releasing vitality. Sectors such as tea and coffee accelerated their
+capitalisation and health-oriented deployment, with seasonal products precisely aligning with market
+demands. Simultaneously, the expansion of diverse scenarios, such as “catering + cultural tourism”
+and “catering + digitalisation”, coupled with the empowerment of intangible cultural heritage, not only
+enriched the consumption experience but also opened up new avenues for value growth in the industry.
+
+Looking ahead to 2026, China will implement more proactive and effective macro policies, continuously
+expand domestic demand, and optimise supply. Leveraging the positive momentum of the macroeconomic
+environment and the inherent advantages of the catering industry rooted in its close ties to people’s
+livelihoods, the catering economy is expected to capitalise on this upward trend to unleash greater vitality
+and achieve dual enhancements in both scale and quality amidst the wave of consumption recovery.
+At the same time, it should be acknowledged that the catering market still faces certain challenges,
+including fluctuating consumer confidence, rising cost pressures, and intensifying industry competition.
+The Group will adhere to the principle of pursuing progress while ensuring stability, deepen innovation-
+driven initiatives, continuously optimise product and service structures, strengthen risk management
+and brand building, actively seize market opportunities, and strive to achieve sustainable, high-quality
+development and deliver robust returns to shareholders and investors.
+
+
+
+
+                                                   - 20 -
+Business Review
+
+During the Period, the Group recorded a turnover of approximately RMB1,831.9 million, representing
+an increase of 6.7% as compared to approximately RMB1,717.3 million for the corresponding period
+in 2024. The growth was mainly attributable to the Group’s continued implementation of a prudent
+expansion strategy amid a challenging market environment, with a net addition of 21 stores during
+the year. Benefiting from a stable consumption atmosphere and favourable locations, the Hong Kong
+market provided notable support to the Group’s overall sales, driving the continued recovery of the
+Group’s revenue. As at 31 December 2025, the Group had a total of 617 restaurants in operation.
+
+Facing the overall slowdown in the growth of the catering industry, intensified industry competition,
+fluctuations in consumer confidence and rising cost pressures, the Group adhered to a prudent and
+pragmatic business approach and remained focused on internal optimisation, including strictly controlling
+the site selection process for new stores, upgrading the hardware and software of existing stores, and
+enhancing customer experience and brand appeal. These measures further consolidated the Group’s
+competitive position in its principal markets.
+
+In terms of product and service innovation, the Group continued to launch a diversified range of food
+and beverage products. Building on the strong popularity of the “Star Chef Series” ramen launched in
+2024, the Group further introduced the innovative “Super Big Bone Meat Ramen”. The product quickly
+sparked a strong market response after its launch and further enhanced brand attention.
+
+In terms of cost and expense control, the Group continued to deepen the optimisation of its procurement
+system and improve the operating efficiency of its five major production bases (Shanghai, Chengdu,
+Tianjin, Wuhan and Dongguan), thereby effectively reducing wastage and demonstrating the benefits
+of economies of scale and enhanced operational efficiency. Staff costs recorded only a slight year-on-
+year increase of 2.3%, while the staff cost-to-turnover ratio decreased to 26.8% from the corresponding
+period of last year. This reflected the Group’s effective management of human resource expenses
+through adjustments to its manpower structure and optimisation of job functions while expanding its
+store network, thereby promoting greater organisational efficiency.
+
+Looking ahead to 2026, the catering industry is expected to maintain an overall growth trend, benefiting
+from macroeconomic policy support and expanding consumer demand, although industry uncertainties
+and competitive pressures will remain. Looking forward, the Group will adhere to its fundamental
+strategy of seeking progress while maintaining stability, continue to deepen product innovation,
+strengthen cost and risk management, and seize market opportunities to promote sustainable and
+high-quality development, reinforce its long-term competitiveness and create continuing value for
+shareholders.
+
+
+
+
+                                                  - 21 -
+Retail Chain Restaurants
+
+In 2025, the Group’s major business and primary source of income continued to stem from the retail chain
+restaurant business. During the year, the Group’s restaurant business income recorded approximately
+RMB1,783,789,000 (2024: approximately RMB1,649,827,000), accounted for approximately 97.4%
+(2024: approximately 96.1%) of the Group’s total revenue.
+
+As at 31 December 2025, the Group’s restaurant portfolio consisted of 617 chain restaurants, comprising
+the following:
+
+                                                          31 December    31 December
+                                                                 2025           2024                +/–
+
+By provinces/cities
+
+Shanghai                                                          107             109                -2
+Beijing                                                            42              35                +7
+Tianjin                                                             2               2                 –
+Guangdong (excluding Shenzhen)                                     63              65                -2
+Shenzhen                                                           26              23                +3
+Jiangsu                                                            84              78                +6
+Zhejiang                                                           58              62                -4
+Sichuan                                                            14              13                +1
+Chongqing                                                          12              10                +2
+Fujian                                                             12              12                 –
+Hunan                                                              13              13                 –
+Hubei                                                              15              13                +2
+Liaoning                                                            4               4                 –
+Shandong                                                           31              34                -3
+Guangxi                                                            15              15                 –
+Guizhou                                                             4               4                 –
+Jiangxi                                                            11              12                -1
+Shaanxi                                                             8               7                +1
+Yunnan                                                             11              10                +1
+Henan                                                               3               4                -1
+Hebei                                                               7               7                 –
+Anhui                                                              14              14                 –
+Xinjiang                                                            2               2                 –
+Hainan                                                              3               3                 –
+Shanxi                                                              2               2                 –
+Neimenggu                                                           3               3                 –
+Heilongjiang                                                        6               6                 –
+Ningxia                                                             1               1                 –
+Jilin                                                               4               5                -1
+
+                                                 - 22 -
+                                                          31 December    31 December
+                                                                 2025           2024                +/–
+
+Hong Kong                                                          39               26              +13
+Rome                                                                1                1                –
+Finland                                                             0                1               -1
+
+Total                                                             617             596               +21
+
+
+                                                          31 December    31 December
+                                                                 2025           2024                +/–
+
+By geographical region
+
+Northern China                                                     98              95                +3
+Eastern China                                                     263             263                 –
+Southern China                                                    169             156               +13
+Central China                                                      86              80                +6
+Europe                                                              1               2                -1
+
+Total                                                             617             596                21
+
+
+Financial Review
+
+Turnover
+
+For the year ended 31 December 2025, the Group’s turnover increased by approximately 6.7%
+or approximately RMB114,646,000 to approximately RMB1,831,936,000 from approximately
+RMB1,717,290,000 for the corresponding period in 2024. In 2025, the economy remained stable, and
+the Group achieved a net increase of 21 stores, with a net addition of 13 stores in the Hong Kong
+region accounted for a relatively larger proportion of the overall sales growth. The Group will continue
+to expand its restaurant network with a prudent and steady strategy.
+
+Cost of inventories consumed
+
+For the year ended 31 December 2025, the Group’s cost of inventories increased by approximately
+4.5% or approximately RMB18,139,000 to approximately RMB421,777,000 from approximately
+RMB403,638,000 for the corresponding period in 2024.
+
+
+
+
+                                                 - 23 -
+During the year, the ratio of inventory costs to turnover was approximately 23.0%, representing a
+decrease of 0.5 percentage points from approximately 23.5% for the corresponding period in 2024.
+This improvement in the inventory costs to turnover ratio was primarily attributable to the Group’s
+sustained and disciplined efforts in optimising procurement practices, enhancing production efficiency,
+and implementing effective measures to minimise wastage across its operations.
+
+Gross profit and gross profit margin
+
+Driven by the above factors, the Group’s gross profit for the year ended 31 December 2025 increased
+by approximately 7.3% or approximately RMB96,507,000 to approximately RMB1,410,159,000 from
+approximately RMB1,313,652,000 for the corresponding period in 2024.
+
+The Group’s gross profit margin increased to 77.0%, compared to approximately 76.5% for the
+corresponding period in 2024.
+
+Staff costs
+
+For the year ended 31 December 2025, the Group’s staff costs increased by approximately 2.3% or
+approximately RMB11,094,000 to approximately RMB490,550,000 from approximately RMB479,456,000
+for the corresponding period in 2024.
+
+Staff costs as a proportion of turnover decreased by 1.1 percentage point to 26.8%, compared to
+approximately 27.9% for the corresponding period in 2024. This improvement was primarily attributable
+to the Group’s ongoing efforts to optimise operational processes and reorganise its office structure,
+which have effectively reduced manpower costs while supporting business expansion.
+
+Depreciation
+
+For the year ended 31 December 2025, the Group’s depreciation increased by approximately
+6.2% or approximately RMB19,882,000 to approximately RMB341,370,000 from approximately
+RMB321,488,000 for the corresponding period in 2024. The increase in depreciation was primarily
+attributable to the net addition of stores during the year, which resulted in a corresponding rise in
+depreciation of right-of-use assets
+
+Other operating expenses
+
+For the year ended 31 December 2025, other operating expenses increased by approximately 3.2% to
+approximately RMB513,686,000 from approximately RMB497,793,000 for the corresponding period
+in 2024.
+
+With the increase in the number of stores, other operating expenses have also risen accordingly,
+particularly in service changes for delivery platforms. Due to intensified competition in the food delivery
+market, the Group recorded higher delivery revenue. This growth, however, resulted in a substantial
+increase in service fees paid to delivery platforms. In addition, the Group increased its spending on
+advertising and promotions to enhance brand visibility.
+                                                   - 24 -
+Set out below is the breakdown of the main operating expenses for the years ended 31 December 2025
+and 2024.
+
+                                                                 2025          2024                   %
+                                                           RMB million    RMB million                +/–
+
+Utilities                                                         94.4             91.2           +3.4%
+Service charges for delivery platforms                            85.1             56.9          +49.6%
+Store and factory management fee                                  65.1             59.4           +9.6%
+Consumables & utensils                                            55.7             47.8          +16.5%
+Logistics expenses                                                26.6             26.4           +0.8%
+Advertising and promotions                                        23.7             21.0          +12.9%
+Rental expenses under short-term lease                            21.4             12.9          +79.1%
+Franchise expenses                                                18.0             22.2          -19.4%
+Rental expenses under variable lease payment                      19.4             21.7          -10.6%
+Consultancy fee                                                    9.5             18.3          -48.1%
+Travelling expenses                                                6.0              7.0          -14.3%
+Repairment and maintenance expenses                                3.5              5.1          -31.4%
+Cleaning expenses                                                  3.5              2.5          +40.0%
+Auditors’ remuneration                                             2.8              3.1           -9.7%
+
+Other income
+
+For the year ended 31 December 2025, the Group’s other income decreased by approximately 8.9% or
+approximately RMB7,955,000 to approximately RMB81,026,000 from approximately RMB88,981,000
+for the corresponding period in 2024. The decrease in other income was primarily attributable to lower
+interest income during the year, resulting from a decline in prevailing market interest rates in 2025 as
+compared to 2024.
+
+Other gains and losses
+
+The decrease in net other losses compared to the previous year was primarily attributable to a moderation
+in the impairment on investment properties. For the year ended 31 December 2025, the Group recorded
+a fair value loss on investment properties of approximately RMB48,131,000 (2024: fair value loss
+of approximately RMB101,253,000). The Group anticipates that market conditions for investment
+properties will remain subject to a certain degree of uncertainty in 2026.
+
+Finance costs
+
+For the year ended 31 December 2025, finance costs increased by approximately 10.6% or approximately
+RMB2,391,000 to approximately RMB24,984,000 from approximately RMB22,593,000 for the
+corresponding period in 2024. The rise in finance costs was predominantly due to higher interest on
+lease liabilities arising from the net addition of 21 new stores during the year.
+
+
+
+                                                  - 25 -
+Profit (loss) before tax
+
+Being affected by the factors referred to above, the Group recorded a profit before tax of approximately
+RMB61,140,000 for the year ended 31 December 2025 (31 December 2024: a loss before tax of
+approximately RMB50,132,000).
+
+Profit (loss) attributable to owners of the Company
+
+Being affected by the factors referred to above, the profit attributable to owners of the Company for
+the year ended 31 December 2025 amounted to approximately RMB28,408,000 (31 December 2024:
+loss of approximately RMB20,224,000).
+
+Investments
+
+The Group maintained an investment portfolio, which is categorized into three types based on its
+accounting treatment:
+
+Financial assets at fair value through profit or loss (“FVTPL”), interests in associates and interest in
+a joint venture.
+
+The following table shows the breakdown of the major investments:
+
+Financial assets at FVTPL:
+
+
+
+                                                          31 December    31 December          Initial
+                                                                 2025           2024 investment cost
+                                                              RMB’000        RMB’000       RMB’000
+
+Hezhi                                                          68,796          72,281            99,120
+Jialan Jiahua Fund                                             22,133          20,000            20,000
+Jiahua Anyuan Fund                                             13,255          13,254            50,000
+Reverse repurchase treasury bond                               10,128          10,000            10,000
+Others                                                          5,000          10,000            14,907
+Yunxi                                                               –               –            60,000
+
+                                                              119,312         125,535          254,027
+
+
+
+
+                                                 - 26 -
+Financial assets at FVTPL represented the unlisted equity investments and fund investments. The Group
+engaged an independent qualified professional valuer to access the valuation.
+
+Interests in associates
+
+                                                            31 December    31 December          Initial
+                                                                   2025           2024 investment cost
+                                                                RMB’000        RMB’000       RMB’000
+
+Jiangsu Hong Xuan Ecological
+   Agriculture Company Limited                                        –                –            43,354
+Yunnex Inc.                                                           –                –            64,791
+Others                                                           33,469           35,763            53,196
+
+                                                                 33,469           35,763           161,341
+
+
+The carrying amount of the interests in these associates was adjusted to reflect their estimated recoverable
+amount.
+
+Interest in a joint venture
+
+                                                            31 December    31 December          Initial
+                                                                   2025           2024 investment cost
+                                                                RMB’000       RMB’000        RMB’000
+
+Beijing Feicui Jinghua & Restaurant
+ Management Co., Ltd                                              8,353             8,593           12,858
+
+
+The decrease in the value of joint venture mainly represented the share of post-acquisition results and
+other comprehensive expense of the joint venture.
+
+
+
+
+                                                   - 27 -
+RISK MANAGEMENT
+
+Liquidity and financial resources
+
+The liquidity and financial position of the Group as at 31 December 2025 remained healthy and strong,
+with bank balances amounting to approximately RMB1,699,731,000 (31 December 2024: approximately
+RMB1,655,833,000) and a current ratio of 3.6 (31 December 2024: 3.7).
+
+As at 31 December 2025, the Group had bank borrowings of approximately RMB29,966,000 (31
+December 2024: approximately RMB34,609,000) and therefore the gearing ratio (expressed as a
+percentage of total borrowings over total assets) was 0.8% (31 December 2024: 0.9%).
+
+Exposure to exchange rates
+
+Presently, most of the Group’s business transactions, assets and liabilities are denominated in RMB
+and settled in RMB. The Group’s exposure to currency risk is minimal as the Group’s assets and
+liabilities as at 31 December 2025 and 31 December 2024 were denominated in the respective Group
+companies’ functional currencies. The Group does not have any currency hedging policy and has not
+entered into any hedging or other instrument to reduce currency risks. However, the management will
+closely monitor the Group’s exposure to the fluctuation of exchange rates and take appropriate measures
+as necessary to minimise any adverse impact that may be caused by such fluctuation.
+
+Interest rate risk
+
+As the Group has no significant interest-bearing assets (other than bank balances and cash), the Group’s
+income and operating cash flows are substantially independent of changes in market interest rates.
+
+Credit risk
+
+The Group has no significant concentrations of credit risk. The carrying amounts of trade receivables,
+deposits and other receivables and bank balances and cash, included in the consolidated balance sheets
+represent the maximum exposure to credit risk in relation to the Group’s financial assets. The Group
+typically does not require collaterals from customers. Provisions are made for the balance that is past
+due when the management considers the loss from non-performance by the customers is likely. Sales
+to retail customers are settled in cash or by using major credit cards. The Group also makes deposits to
+the relevant landlords for lease of certain of the self-managed outlets. As of 31 December 2025 and 31
+December 2024, all of the bank balances were deposited with highly reputable and sizable banks and
+financial institutions without significant credit risk in Mainland China and Hong Kong. The management
+does not expect to incur any loss from non-performance by these banks and financial institutions.
+
+
+
+
+                                                 - 28 -
+Significant investments held, material acquisitions and disposals of subsidiaries, and future plans
+for material investments or capital assets
+
+Save for those disclosed in this announcement, there were no other significant investments held, nor
+were there any material acquisitions or disposals of subsidiaries during the year under review. Apart
+from those disclosed in this announcement, there was no plan authorised by the Board for other material
+investments or additions of capital assets at the date of this announcement. The Board further confirms
+that the Group’s transactions in financial assets during the Reporting Period, whether considered on a
+standalone or aggregate basis, did not constitute notifiable transactions under Chapter 14 of the Rules
+Governing the Listing of Securities on the Stock Exchange of Hong Kong Limited (the “Listing Rules”).
+
+Contingent liabilities
+
+As of 31 December 2025, the Group did not have any significant contingent liabilities.
+
+Assets and liabilities
+
+The Group’s net current assets were approximately RMB1,370,198,000 and the current ratio was 3.6
+as at 31 December 2025 (31 December 2024: 3.7). As the Group is primarily engaged in the restaurant
+business, most of the sales are settled in cash. As a result, the Group was able to maintain a relatively
+high current ratio.
+
+Cash flows
+
+Cash generated from operations for the year ended 31 December 2025 was approximately RMB453,149,000,
+while the Group recorded profit before taxation for the same period was approximately RMB61,140,000.
+The difference was due to the non-cash items, mainly fair value movements on the investment properties
+and depreciation of property, plant and equipment and right-of use assets.
+
+Capital expenditure
+
+For the year ended 31 December 2025, the Group’s capital expenditure was approximately RMB82,111,000
+(2024: approximately RMB110,461,000). This was primarily achieved through careful site selection
+and strict control over capital expenditure, leading to the decrease in spending.
+
+
+
+SUBSEQUENT EVENTS AFTER THE REPORTING PERIOD
+
+Subsequent to 31 December 2025 and up to the date of this announcement, no material events affecting
+the Group have occurred.
+
+
+
+
+                                                  - 29 -
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S LISTED SECURITIES
+
+Neither the Company nor any of its subsidiaries purchased, sold or redeemed any of the listed securities
+of the Company (including the sale of treasury shares, if any) during the year ended 31 December
+2025. As at 31 December 2025, no treasury shares were held by the Company.
+
+CODE ON CORPORATE GOVERNANCE PRACTICES
+
+The Company has adopted the Corporate Governance Code (the “Code”) as set out in Appendix C1
+to the Rules Governing the Listing Rules and complied with all applicable code provisions under the
+Code throughout the year ended 31 December 2025, save and except for the deviation from the code
+provision C.2.1 of the Code.
+
+Pursuant to the code provision C.2.1, the roles of chairman and chief executive should be separate and
+should not be performed by the same individual. Currently, the Company does not comply with code
+provision C.2.1, i.e., the roles of the chairman and chief executive have not been separated. Although
+Ms. Poon Wai performs both the roles of chairman of Board (the “Chairman”) and the chief executive
+officer of the Company (the “CEO”), the division of responsibilities between the Chairman and CEO
+is clearly established and set out in writing. In general, the Chairman is responsible for supervising
+the functions and performance of the Board, while the CEO is responsible for the management of the
+business of the Group. The two roles are performed by Ms. Poon distinctly. The Board believes that
+at the current stage of development of the Group, vesting the roles of both Chairman and CEO in the
+same person provides the Company with strong and consistent leadership, and allows for effective
+and efficient planning and implementation of business decisions and strategies. The relevant deviation
+is therefore considered reasonable at the current stage. It is also considered that the current structure
+does not impair the balance of power and authority between the Board and the management of the
+Company given the appropriate delegation of the power of the Board and the effective functions of
+the independent non-executive Directors (number of which exceeds one-third of the members of the
+Board). However, it is the long-term objective of the Company to have these two roles performed by
+separate individuals when suitable candidates are identified.
+
+The Board will continue to review and monitor the corporate governance practices of the Company
+for the purpose of complying with the code provisions of the Code and maintaining a high standard
+of corporate governance of the Company.
+
+
+
+
+                                                  - 30 -
+
