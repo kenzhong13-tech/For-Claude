@@ -141,6 +141,23 @@ Convert filings to text on the runner: `pdftotext -layout` keeps table columns a
 - **SEC** rejects requests without a descriptive User-Agent. **HKEXnews** caps a query at about 1000 rows, so
   split long date ranges. **cninfo** titles contain `<em>` tags and times are epoch milliseconds in UTC+8;
   `fetchlib` cleans both.
+- **akshare's HK statement call changed signature** in 1.20: `stock_financial_hk_report_em(symbol=<code>,
+  indicator=<利润表 / 资产负债表 / 现金流量表>, period="报告期")`. The old `stock=, symbol=, indicator=` form raises
+  `TypeError`; the fetch template tries the new form and falls back to the old one.
+- **Yahoo's dividend yield for HK names is unreliable.** For dual-listed or USD-dividend companies it mixes
+  currencies (Yum China 9987.HK showed 0.28%, about a tenth of the real figure) and it counts specials. Compute
+  yield from the dividend history and the price in one currency, or leave the column out of the peer table.
+- **SEC timestamps are UTC.** `acceptanceDateTime` in the submissions JSON ends in `Z`; convert to New York time
+  (DST-aware) before deciding whether a release came before the US open or after the close, and to HKT for the
+  HK reaction day. A release in the HKEX lunch break (12:00–13:00 HKT) can move the stock the same afternoon.
+- **SEC submissions list only the latest ~1,000 filings** under `filings.recent`. Older ones are in the files
+  named under `filings.files` (`CIK##########-submissions-001.json`, …); fetch those for a full 8-K history.
+- **Annual XBRL facts are restated in later filings.** For a fiscal year, take the value from the latest filing
+  that reports it (a new revenue standard moved Yum China's 2017 revenue from 7,144 to 7,769 million), and state
+  which basis the table uses.
+- **US-listed China names report before the US open.** Since 2024 Yum China files at about 06:00 New York time,
+  after the HK close, so the HK line reacts the next day; earlier it filed after the US close, before the HK open.
+  Derive the reaction day for each line from the filing time rather than assuming one rule.
 
 ## 6. When a dataset will not come
 

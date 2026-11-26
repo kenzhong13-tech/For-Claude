@@ -1155,7 +1155,8 @@
   "dqe_file": "hkex_dqe261126.htm.gz",
   "dqe_bytes": 11199054,
   "dqe_yum": 0,
-  "dqe_classes_sample": []
+  "dqe_n_classes": 170,
+  "dqe_has_9987": false
  },
  "vrp": null,
  "iv30_recent": {

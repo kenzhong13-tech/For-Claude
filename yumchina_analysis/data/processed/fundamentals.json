@@ -556,7 +556,12 @@
   "capex_ttm": 658.0,
   "fcf_ttm": 948.0,
   "returns_9m26": 1095.0,
-  "interest_on_bridge_annual": 23.8
+  "interest_on_bridge_annual": 23.8,
+  "dividends_9m26": 302.0,
+  "buybacks_9m26": 793.0,
+  "cfo_9m26": 1481.0,
+  "capex_9m26": 417.0,
+  "fcf_9m26": 1064.0
  },
  "valuation": {
   "date_hk": "2026-11-26",

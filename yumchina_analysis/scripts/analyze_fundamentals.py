@@ -45,7 +45,8 @@ BRIDGE_LOAN = {"amount": 1252, "other": 297, "rate": 0.019, "weighted_rate": 0.0
                "facilities_available": 2846}
 # Company restaurant cost structure, nine months to 2026-09-30 (10-Q income statement): company sales and cost lines
 COSTS_9M26 = {"company_sales": 9171, "food_paper": 2892, "payroll": 2468, "occupancy_other": 2215, "ga": 431, "total_revenue": 9886}
-# Pizza Hut brand acquisition (8-K 2026-06-16): consideration and LTM licence fees to Yum! Brands (net of tax)
+# Pizza Hut brand acquisition (8-K 2026-06-16): consideration and LTM licence fees to Yum! Brands (net of tax); the margin
+# uplift (about 2.8 points on Pizza Hut restaurant and OP margins, net of VAT) is from the closing release (8-K 2026-08-07)
 PH_DEAL = {"price": 1200, "ltm_license_fee_net": 62, "ph_revenue_2025": 2300, "ph_op_2025": 183, "ph_stores_q1": 4375,
            "margin_uplift_pp": 2.8, "closing": "2026-08-07"}
 # Guidance and targets (8-K 2026-11-03 outlook; 2025 Investor Day 8-K 2025-11-17; Pizza Hut deal 8-K 2026-06-16)
@@ -194,6 +195,10 @@ solvency = {"date": "2026-09-30", "cash_total": last["cash_total"], "debt": last
             "fcf_ttm": rnd(cfo_ttm - capex_ttm, 1), "returns_9m26": rnd((sum((q_all[e].get("dividends_paid") or 0) + (q_all[e].get("buybacks") or 0)
                                                                          for e in ("2026-03-31", "2026-06-30", "2026-09-30"))) / M, 1)}
 solvency["interest_on_bridge_annual"] = rnd(BRIDGE_LOAN["amount"] * BRIDGE_LOAN["rate"], 1)
+nine = ("2026-03-31", "2026-06-30", "2026-09-30")  # first nine months of 2026, summed from the quarters
+sum9 = lambda key: sum((q_all[e].get(key) or 0) for e in nine) / M  # noqa: E731
+solvency.update({"dividends_9m26": rnd(sum9("dividends_paid"), 1), "buybacks_9m26": rnd(sum9("buybacks"), 1),
+                 "cfo_9m26": rnd(sum9("cfo"), 1), "capex_9m26": rnd(sum9("capex"), 1), "fcf_9m26": rnd(sum9("cfo") - sum9("capex"), 1)})
 
 # ================================================================ valuation (USD line and HK line)
 yinfo = fl.load_info(os.path.join(RAW, "yahoo", "YUMC_info.json"))

@@ -317,9 +317,18 @@ def event_variance(term, earn_day):
 
 
 # ---------------------------------------------------------------- implied-volatility history (if a fetch route worked)
+MANUAL_IV = os.path.join(RAW, "manual", "yumc_iv30.csv")  # user-supplied history: columns date,iv30 (decimal or percent)
+
+
 def iv_history():
-    """Daily 30-day implied volatility from alphaquery or Barchart dumps; None if neither returned usable data."""
+    """Daily 30-day implied volatility: a user-supplied file first, then alphaquery or Barchart dumps; None if none has a year of data."""
     cands = []
+    if os.path.exists(MANUAL_IV):
+        m = pd.read_csv(MANUAL_IV, parse_dates=["date"]).set_index("date")["iv30"].dropna().astype(float).sort_index()
+        if m.median() > 3:  # percent units
+            m = m / 100
+        if len(m) > 250:
+            cands.append((MANUAL_IV, m))
     for path in sorted(glob.glob(os.path.join(OPT, "alphaquery_iv-mean.json")) + glob.glob(os.path.join(OPT, "barchart_hist_iv.json"))):
         try:
             js = json.load(open(path))
@@ -404,7 +413,9 @@ for p in glob.glob(os.path.join(OPT, "hkex_dqe*.htm.gz")):
     hits["dqe_file"] = os.path.basename(p)
     hits["dqe_bytes"] = len(t)
     hits["dqe_yum"] = len(re.findall(r"YUM", t))
-    hits["dqe_classes_sample"] = sorted(set(re.findall(r"\(([A-Z]{3})\)", t)))[:300]
+    # the report opens with an index of every option class (HKATS codes); the class summary gives code, name, stock code
+    hits["dqe_n_classes"] = len(set(re.findall(r'<A HREF="#([A-Z0-9]{3})">', t)) - {"SUMMARY"})
+    hits["dqe_has_9987"] = bool(re.search(r"\(09987\)", t))
 res["hkex_options"] = hits
 
 # ---- 4. implied-volatility history: variance risk premium and a short variance-swap back-test

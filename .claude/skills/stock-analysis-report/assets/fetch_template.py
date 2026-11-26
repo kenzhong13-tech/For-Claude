@@ -115,11 +115,17 @@ if MARKET == "A":
 elif MARKET == "HK":
     try:
         import akshare as ak
+        def hk_report(c5, kind):
+            try:  # akshare >= 1.20: symbol = code, indicator = statement, period = 年度 / 报告期
+                return ak.stock_financial_hk_report_em(symbol=c5, indicator=kind, period="报告期")
+            except TypeError:  # older versions: stock = code, symbol = statement, indicator = period
+                return ak.stock_financial_hk_report_em(stock=c5, symbol=kind, indicator="报告期")
+
         for code in [TARGET] + list(PEERS):
             c5 = f"{int(code):05d}"
             fl.tryit(f"ind {c5}", lambda: ak.stock_financial_hk_analysis_indicator_em(symbol=c5, indicator="报告期"), os.path.join(OUT, "fin", f"ind_{c5}.csv"))
-            fl.tryit(f"is {c5}", lambda: ak.stock_financial_hk_report_em(stock=c5, symbol="利润表", indicator="报告期"), os.path.join(OUT, "fin", f"is_{c5}.csv"))
-            fl.tryit(f"bs {c5}", lambda: ak.stock_financial_hk_report_em(stock=c5, symbol="资产负债表", indicator="报告期"), os.path.join(OUT, "fin", f"bs_{c5}.csv"))
+            fl.tryit(f"is {c5}", lambda: hk_report(c5, "利润表"), os.path.join(OUT, "fin", f"is_{c5}.csv"))
+            fl.tryit(f"bs {c5}", lambda: hk_report(c5, "资产负债表"), os.path.join(OUT, "fin", f"bs_{c5}.csv"))
     except Exception as ex:  # noqa: BLE001
         fl.log("akshare HK ERR", repr(ex)[:200])
     try:
