@@ -1,0 +1,1552 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the
+contents of this announcement.
+
+
+                                     Green Tea Group Limited
+                                       綠茶集團有限公司
+                              (Incorporated in the Cayman Islands with limited liability)
+                                                (Stock Code: 6831)
+
+                          ANNUAL RESULTS ANNOUNCEMENT
+                        FOR THE YEAR ENDED 31 DECEMBER 2025
+
+The Board is pleased to announce the audited consolidated results of the Group for the year
+ended 31 December 2025 together with the comparative figures for the same period in 2024 . In
+this announcement, “we”, “us”, and “our” refer to the Company and where the context otherwise
+requires, the Group.
+
+ FINANCIAL PERFORMANCE HIGHLIGHTS
+
+                                                                      For the year
+                                                                   ended 31 December
+                                                                       2025          2024                      Change
+                                                                  RMB ’000       RMB ’000
+
+ Revenue                                                           4,762,967           3,838,202                24.1%
+ Profit before taxation                                              577,130             418,655                37.9%
+ Income tax                                                          (90,731)            (68,488)               32.5%
+ Profit for the year                                                 486,399             350,167                38.9%
+ Profit for the year attributable to equity
+   shareholders of the Company                                       486,481              350,167               38.9%
+ Adjusted net profit(1)                                              508,892              360,866               41.0%
+ Basic earnings per share (RMB)                                         0.80                 0.66               21.2%
+
+ (1)    The Group defines adjusted net profit (non-IFRS measure) as profit for the year adjusted by excluding
+        (i) equity-settled share-based payment expenses, (ii) listing expenses, and (iii) impact on tax related to items
+        (i) to (ii) above.
+
+
+
+
+                                                           1
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+for the year ended 31 December 2025
+(Expressed in Renminbi)
+
+                                                            Note           2025             2024
+                                                                        RMB ’000         RMB ’000
+
+Revenue                                                       3          4,762,967       3,838,202
+Other revenue                                                               36,224          31,957
+Raw materials and consumables used                                      (1,508,430)     (1,287,638)
+Staff costs                                                             (1,242,539)       (989,008)
+Depreciation of right-of-use assets                                       (242,298)       (202,868)
+Other rentals and related expenses                                         (91,059)        (76,064)
+Depreciation and amortisation of other assets                             (238,873)       (217,875)
+Utilities expenses                                                        (169,764)       (141,251)
+Delivery service expenses                                                 (202,707)       (120,972)
+Other expenses                                                            (464,564)       (372,672)
+Other net (losses)/income                                                   (7,790)          2,153
+Finance costs                                                              (54,037)        (45,309)
+
+Profit before taxation                                                    577,130          418,655
+Income tax                                                    4           (90,731)         (68,488)
+
+Profit for the year                                                       486,399          350,167
+
+Attributable to:
+Equity shareholders of the Company                                        486,481          350,167
+Non-controlling interests                                                     (82)              (*)
+
+Profit for the year                                                       486,399          350,167
+
+Earnings per share
+Basic earnings per share (RMB)                              5(a)              0.80              0.66
+Diluted earnings per share (RMB)                            5(b)              0.80              0.65
+
+
+
+
+*    The amount represents amount less than RMB1,000.
+
+Details of dividends payable to equity shareholders of the Company are set out in note 10(a).
+
+                                                 2
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE
+INCOME
+for the year ended 31 December 2025
+(Expressed in Renminbi)
+
+                                                            Note           2025             2024
+                                                                        RMB ’000         RMB ’000
+
+Profit for the year                                                       486,399          350,167
+
+Other comprehensive income for the year
+Items that may not be reclassified to profit or loss:
+Exchange differences on translation of
+   financial statements of the Company                                     (17,041)             410
+
+Items that may be reclassified subsequently to
+   profit or loss:
+Exchange differences on translation of financial
+   statements of overseas subsidiaries                                      (2,813)             198
+
+Total comprehensive income for the year                                   466,545          350,775
+
+Attributable to:
+Equity shareholders of the Company                                        466,530          350,775
+Non-controlling interests                                                      15               (*)
+
+Total comprehensive income for the year                                   466,545          350,775
+
+
+
+
+*    The amount represents amount less than RMB1,000.
+
+Details of dividends payable to equity shareholders of the Company are set out in note 10(a).
+
+                                                   3
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+as at 31 December 2025
+(Expressed in Renminbi)
+
+                                                         Note      2025        2024
+                                                                RMB ’000    RMB ’000
+
+Non-current assets
+Property, plant and equipment                                     848,002    724,765
+Right-of-use assets                                             1,139,695    966,954
+Intangible assets                                                   2,004      3,055
+Deferred tax assets                                                52,202     44,258
+Rental deposits                                                    55,673     39,038
+Other non-current assets                                           23,088     13,213
+
+                                                                2,120,664   1,791,283
+
+Current assets
+Inventories                                                       61,269      67,227
+Trade and other receivables                               6      382,438     332,266
+Income tax prepayments                                             6,390       1,395
+Financial assets at fair value through profit
+  or loss (“FVPL”)                                                  5,011     25,022
+Bank deposits with original maturity over three months    7        20,300          –
+Cash and cash equivalents                                 7     1,199,327    247,152
+
+                                                                1,674,735    673,062
+
+Current liabilities
+Trade and other payables                                  8      602,029     462,339
+Contract liabilities                                               6,106       8,021
+Lease liabilities                                                317,486     256,728
+Current taxation                                                  31,304      10,916
+
+                                                                 956,925     738,004
+
+
+
+Net current assets/(liabilities)                                 717,810      (64,942)
+
+Total assets less current liabilities                           2,838,474   1,726,341
+
+
+
+
+                                               4
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+as at 31 December 2025 (continued)
+(Expressed in Renminbi)
+
+                                          Note       2025        2024
+                                                  RMB ’000    RMB ’000
+
+Non-current liabilities
+Lease liabilities                                  956,733     846,212
+Provisions                                          68,352      51,620
+Deferred lease incentives                           12,456      12,823
+Deferred tax liabilities                            47,508      44,553
+
+                                                  1,085,049    955,208
+
+NET ASSETS                                        1,753,425    771,133
+
+CAPITAL AND RESERVES
+Share capital                             10(b)          93         76
+Reserves                                          1,753,332    770,657
+
+Total equity attributable to equity
+  shareholders of the Company                     1,752,016    770,733
+Non-controlling interests                             1,409        400
+
+TOTAL EQUITY                                      1,753,425    771,133
+
+
+
+
+                                      5
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+(Expressed in Renminbi unless otherwise indicated)
+
+1     Basis of preparation
+
+      Green Tea Group Limited (the “Company”) was incorporated in the Cayman Islands on 4 June 2015 as an
+      exempted company with limited liability under the Companies Act (as revised) of the Cayman Islands. The
+      Company is an investment holding company. The Company and its subsidiaries (together, the “Group”) are
+      principally engaged in restaurant operations in Chinese Mainland.
+
+      The Company’s shares were listed on the Main Board of The Stock Exchange of Hong Kong Limited (the
+      “Listing”) on 16 May 2025.
+
+      These financial statements have been prepared in accordance with IFRS Accounting Standards, which collective
+      term includes all applicable individual IFRS Accounting Standards, International Accounting Standards
+      and Interpretations as issued by the International Accounting Standards Board (“IASB”) and the disclosure
+      requirements of the Hong Kong Companies Ordinance. These financial statements also comply with the
+      applicable disclosure provisions of the Rules Governing the Listing of Securities on The Stock Exchange of
+      Hong Kong Limited (the “Listing Rules”). Material accounting policies adopted by the Group are disclosed
+      below.
+
+      The IASB has issued certain new or amendments to IFRS Accounting Standards that are first effective or
+      available for early adoption for the current accounting period of the Group. Note 2 provides information on any
+      changes in accounting policies resulting from initial application of these developments to the extent that they
+      are relevant to the Group for the current accounting period reflected in these financial statements.
+
+      The consolidated financial statements for the year ended 31 December 2025 comprise the Company and its
+      subsidiaries.
+
+      Item included in the financial statements of each entity in the Group are measured using the currency that
+      best reflects the economic substance of the underlying events and circumstances relevant to the entity (the
+      “Functional Currency”). The consolidated financial statements are presented in Renminbi (“RMB”), rounded
+      to the nearest thousand, except when otherwise indicated.
+
+      The measurement basis used in the preparation of the consolidated financial statements is the historical cost
+      basis except that financial assets are stated at their fair value as explained in the accounting policies set out
+      below:
+
+      –      investments in debt and equity securities;
+
+      The preparation of financial statements in conformity with IFRS Accounting Standards requires management
+      to make judgements, estimates and assumptions that affect the application of policies and reported amounts
+      of assets, liabilities, income and expenses. The estimates and associated assumptions are based on historical
+      experience and various other factors that are believed to be reasonable under the circumstances, the results of
+      which form the basis of making the judgements about carrying values of assets and liabilities that are not readily
+      apparent from other sources. Actual results may differ from these estimates.
+
+      The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates
+      are recognised in the period in which the estimate is revised if the revision affects only that period, or in the
+      period of the revision and future periods if the revision affects both current and future periods.
+
+2     Changes in accounting policies
+
+      The Group has applied amendments to IAS 21, The effects of changes in foreign exchange rates – Lack
+      of exchangeability issued by the IASB to these financial statements for the current accounting period. The
+      amendments do not have a material impact on these financial statements as the Group has not entered into any
+      foreign currency transactions in which the foreign currency is not exchangeable into another currency.
+
+      The Group has not applied any new standard or interpretation that is not yet effective for the current accounting
+      period.
+
+                                                          6
+3   Revenue and segment reporting
+
+    (a)   Revenue
+
+          The principal activities of the Group are restaurant operations and delivery business.
+
+          Disaggregation of revenue
+
+          Disaggregation of revenue from contracts with customers by major service lines is as follows:
+
+                                                                                             2025            2024
+                                                                                          RMB ’000        RMB ’000
+
+          Revenue from contracts with customers within
+            the scope of IFRS 15
+          Restaurant operations                                                           3,540,796       3,099,173
+          Delivery business                                                               1,203,970         723,057
+          Others                                                                             18,201          15,972
+
+                                                                                          4,762,967       3,838,202
+
+
+                                                                                             2025            2024
+                                                                                          RMB ’000        RMB ’000
+
+          Disaggregated by timing of revenue recognition
+          Point in time                                                                   4,762,566       3,837,729
+          Overtime (Note)                                                                       401             473
+
+                                                                                          4,762,967       3,838,202
+
+
+          Note: Revenue from rendering of parking services was recognised over time during the contract period.
+
+          No revenue from individual customer contributing over 10% of total revenue of the Group for the years
+          ended 31 December 2025 and 2024.
+
+    (b)   Segment reporting
+
+          The directors of the Company have been identified as the Group’s most senior executive management.
+          The Group manages its businesses as a whole by the most senior executive management for the purposes
+          of resource allocation and performance assessment. The Group has one operating segment, which is
+          restaurant operations and delivery business. The Group’s most senior executive management reviews
+          the Group’s consolidated results of operations in assessing performance of and making decisions about
+          allocations to this segment. Accordingly, no reportable segment information is presented.
+
+          No analysis of segment assets and segment liabilities is presented as these information is not regularly
+          provided to the Group’s most senior executive management for review.
+
+          As substantially almost all of the Group’s operations and assets are in Chinese Mainland, no geographic
+          information is presented.
+
+
+
+
+                                                        7
+4   Income tax
+
+    Taxation in the consolidated statement of profit or loss and other comprehensive income represents:
+
+                                                                                                2025             2024
+                                                                                             RMB ’000         RMB ’000
+
+    Current tax:
+    Provision for the year                                                                       86,867           58,477
+    Over-provision in respect of prior years                                                     (1,879)            (733)
+
+                                                                                                 84,988           57,744
+    Deferred tax
+    Origination and reversal of tax losses and temporary differences                              5,743           10,744
+
+                                                                                                 90,731           68,488
+
+
+    Notes:
+
+    (i)      Pursuant to the tax rules and regulations of the Cayman Islands and the Republic of Seychelles, the Group
+             is not subject to any income tax in the Cayman Islands and the Republic of Seychelles.
+
+    (ii)     The Company completed the business registration in Hong Kong Special Administrative Region (the
+             “Hong Kong SAR”) in 2024. The applicable profits tax rate of the Company and Group’s subsidiaries
+             incorporated in Hong Kong SAR was 16.5% (2024: 16.5%). A two-tiered profits tax rates regime was
+             introduced in 2018 whereby the first HKD2 million in assessable profits earned by a company will be
+             taxed at half of the current tax rate (8.25%) while the remaining profits will continue to be taxed at
+             16.5%.
+
+             Taxable income for the subsidiaries of the Company in Chinese Mainland are subject to PRC income tax
+             rate of 25% (2024: 25%), unless otherwise specified below.
+
+             Tibet Green Tea Food & Beverage Management Co., Ltd (“Tibet Green Tea F&B”) was established in
+             Tibet in Chinese Mainland in 2016 and was entitled to the preferential income tax rate of 15% for the
+             year ended 31 December 2025 (2024:15%) according to the Notice No. 51 issued by the Tibet People’s
+             Government on 1 May 2014 and the Notice No. 23 issued by the Ministry of Finance, State Taxation
+             Administration and National Development and Reform Commission on 23 April 2020.
+
+             During the year ended 31 December 2025, the Group ’ s certain subsidiaries fulfilled the criteria
+             required for preferential income tax rate granted to small and low profit-making enterprises in Chinese
+             Mainland, and were entitled to a preferential income tax rate of 5% (2024: 5%) on taxable income within
+             RMB3,000,000.
+
+    (iii)    According to the PRC corporate income tax laws and its implementation rules, dividends receivable by
+             non-PRC corporate residents from PRC enterprises are subject to withholding tax at a rate of 10%, unless
+             reduced by tax treaties or arrangements, for profits earned since 1 January 2008.
+
+             In 2024, the Company ’ s Hong Kong SAR subsidiary received the certificate of Hong Kong SAR
+             resident status. Pursuant to the Arrangement between Chinese Mainland and the Hong Kong SAR for the
+             Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income
+             (“Tax Treaties”) and the Announcement of the State Taxation Administration in relation to “Beneficial
+             Owner” in Tax Treaties (“Announcement No. 9”), the Hong Kong subsidiary meets the requirement for
+             enjoying the preferential rate and is subject to withholding tax at a rate of 5% for dividends received from
+             Chinese Mainland subsidiaries since 2024.
+
+
+
+
+                                                           8
+          As at 31 December 2025, deferred tax liabilities of RMB47,508,000 have been recognised in connection
+          with the withholding tax that would be payable on the distribution of retained profits of the Group’s
+          Chinese Mainland subsidiaries in the foreseeable future (31 December 2024: RMB44,553,000).
+
+5   Earning per share
+
+    (a)   Basic earnings per share
+
+          The calculation of basic earnings per share for the year ended 31 December 2025 is based on the profit
+          attributable to equity shareholders of the Company of RMB486,481,000 (2024: RMB350,167,000) and
+          the weighted average of 605,727,389 shares (2024: 532,763,727) in issue during the year, calculated as
+          follows:
+
+                                                                                           2025            2024
+
+          Profit attributable to equity shareholders of the Company (RMB’000)            486,481        350,167
+
+          Issued ordinary and preference shares at 1 January (note (i))              522,250,000    522,250,000
+          Effect of shares issued upon the completion of initial public
+             offering (Note 10(b) )                                                   74,264,668              –
+          Effect of shares vested under RSU Scheme (note (ii))                        10,009,588     10,513,727
+          Effect of shares repurchased (Note 10(d))                                     (796,867)             –
+
+          Weighted average number of ordinary and preference shares
+           in issue at 31 December                                                   605,727,389    532,763,727
+
+          Basic earnings per share (expressed in RMB per share)                             0.80           0.66
+
+
+          Notes:
+
+          (i)      The preference shares issued by the Company have the same right to share in the profit of the
+                   Group as ordinary shares before the Listing. Therefore, the Company did not present separate
+                   earnings per share information for the preference shares.
+
+                   Each preference share has been automatically converted into an ordinary share on a one to one
+                   ratio upon the Listing.
+
+          (ii)     The shares vested under RSU Scheme include those vested RSUs, which were granted to certain
+                   directors and employees of the Group under Scheme A and Scheme B at a price of RMB0.01 per
+                   unit. Details of RSU Scheme are set out in Note 9.
+
+
+
+
+                                                        9
+    (b)   Diluted earnings per share
+
+          The calculation of diluted earnings per share for the year ended 31 December 2025 is based on the profit
+          attributable to equity shareholders of the Company of RMB486,481,000 (2024: RMB350,167,000) and
+          the weighted average of 611,242,409 shares (2024: 536,412,892 shares) in issue during the year ended 31
+          December 2025, calculated as follows:
+
+                                                                                                2025             2024
+
+          Profit attributable to equity shareholders of the Company (RMB’000)                486,481         350,167
+          Weighted average number of ordinary and preference shares in
+            issue at 31 December                                                        605,727,389      532,763,727
+          Effect of deemed issue of shares under RSU Scheme                               5,515,020        3,649,165
+
+          Weighted average number of ordinary and preference shares
+           (diluted) at 31 December                                                     611,242,409      536,412,892
+
+          Diluted earnings per share (expressed in RMB per share)                               0.80             0.65
+
+
+6   Trade and other receivables
+
+                                                                                             2025             2024
+                                                                                          RMB ’000         RMB ’000
+
+    Trade debtors                                                                             33,338           22,550
+    Other receivables and deposits                                                            90,941           76,216
+
+    Financial assets measured at amortised cost                                              124,279           98,766
+
+    Value added tax recoverable                                                              158,315         158,350
+    Prepayments (note)                                                                        99,844          75,150
+
+                                                                                             258,159         233,500
+
+
+                                                                                             382,438         332,266
+
+
+    Note: Prepayments mainly represent prepayments for rental, property management expenses and utilities
+          expenses.
+
+    Ageing analysis:
+
+    As at the end of the reporting period, the ageing analysis of trade debtors (which are included in trade and other
+    receivables), based on the revenue recognition date, is as follows:
+
+                                                                                             2025             2024
+                                                                                          RMB ’000         RMB ’000
+
+    Within 1 month                                                                            30,380           21,249
+    1 to 2 months                                                                              1,606            1,037
+    2 to 3 months                                                                                709              247
+    Over 3 months but within 1 year                                                              643               17
+
+                                                                                              33,338           22,550
+
+
+    Trade debtors are due within 1 year from the date of revenue recognition.
+
+
+
+                                                        10
+7   Cash and cash equivalents
+
+    Cash and cash equivalents comprise:
+
+                                                                                            2025             2024
+                                                                                         RMB ’000         RMB ’000
+
+    Cash on hand                                                                             1,698            1,281
+    Cash at bank                                                                         1,217,929          245,871
+    Less: bank deposits with original maturity over three months                           (20,300)               –
+
+                                                                                         1,199,327          247,152
+
+
+8   Trade and other payables
+
+                                                                                             2025             2024
+                                                                                          RMB ’000         RMB ’000
+
+    Trade payables                                                                           260,120         221,361
+    Listing expenses payable                                                                   8,196          12,362
+    Other payables and accrued charges                                                       220,025         138,392
+
+    Financial liabilities measured at amortised cost                                         488,341         372,115
+
+    Staff cost payable                                                                       105,452           85,506
+    Other taxes payable                                                                        8,236            4,718
+
+                                                                                             602,029         462,339
+
+
+    Ageing analysis:
+
+    As of the end of the reporting period, the ageing analysis of trade payable (which are included in trade and other
+    payables), based on the transaction date, is as follows:
+
+                                                                                             2025             2024
+                                                                                          RMB ’000         RMB ’000
+
+    Within 1 year                                                                            255,763         217,699
+    Over 1 year but within 2 years                                                               851             190
+    Over 2 years but within 3 years                                                            3,506           3,472
+
+                                                                                             260,120         221,361
+
+
+
+
+                                                        11
+9    Equity settled share-based payments
+
+     Pursuant to a resolution of the board of directors of the Company passed on 28 February 2020, a restricted share
+     unit (“RSU”) scheme (the “RSU Scheme”) was adopted for purpose of providing incentives to the qualified
+     employees of the Group. The RSUs will be granted to qualified employees of the Group through an RSU
+     platform and each RSU gives the holder the right to own one ordinary share of the Company. The RSU Scheme
+     shall be valid and effective for a period of 10 years commencing from 28 February 2020. The RSUs granted
+     vested immediately or would vest on specific dates, upon certain service and/or performance conditions are
+     met. The RSUs shall be exercised no earlier than 6 months after the Listing. On 25 August 2025 (“modification
+     date”), the board of directors of the Company approved to modify the terms of the Scheme that the qualified
+     participants holding unvested RSUs with service conditions are required to meet an extension of service period
+     of approximately 3.5 months before vesting. The modification was not beneficial to the employees, and the
+     Group continued to recognise the services received measured at the grant date fair value of the Scheme. The
+     unvested RSUs shall be forfeited if service condition or performance condition does not be met after the grant-
+     date.
+
+     During the year ended 31 December 2025, 3,400,272 RSUs was granted to the employees of the Group
+     (2024: nil). As at 31 December 2025, the number of RSUs outstanding was 28,102,359 (31 December 2024:
+     31,922,924).
+
+     The Group recognised share-based expenses of RMB7,724,000 during the year ended 31 December 2025 (2024:
+     RMB5,447,000).
+
+10   Capital, reserves and dividends
+
+     (a)   Dividends
+
+                                                                                           2025             2024
+                                                                            Note        RMB ’000         RMB ’000
+
+           Special dividend declared of HK$0.33 per
+             ordinary share (2024: Nil)                                                    202,096                –
+           Less: dividend for the shares held for RSU Scheme                                (6,352)               –
+
+           Special dividend paid                                             (1)           195,744                –
+
+
+           Final dividend proposed after the reporting date of
+             HK$0.52 per ordinary share (2024: Nil)                          (2)           306,721                –
+
+
+           1)     In accordance with the resolution of the board of directors of the Company dated 21 July
+                  2025, a special dividend of HKD222,239,000 (equivalent to RMB202,096,000) (HKD0.33 per
+                  ordinary share) was declared to the equity shareholders of the Company by the Company out
+                  of share premium of HKD222,239,000 (equivalent to RMB202,096,000). The dividends of
+                  HKD215,271,000 (equivalent to RMB195,744,000) were paid to the equity shareholders of the
+                  Company on 13 August 2025 as adjusted to exclude the dividend for the shares held for RSU
+                  Scheme.
+
+           2)     The final dividend proposed after the end of the reporting period has not been recognised as a
+                  liability at the end of the reporting period.
+
+
+
+
+                                                        12
+(b)   Share capital
+
+      Ordinary Shares                                                 2025                                  2024
+                                                          Number                   Share         Number                 Share
+                                                         of shares    Amount      capital       of shares   Amount     capital
+                                                                        USD        RMB                        USD       RMB
+
+
+      Issued and fully paid at 1 January              398,950,000       7,979     54,778     398,950,000      7,979    54,778
+      Shares issued upon completion of initial
+         public offering (note (i))                   117,854,800       2,357     16,962               –           –        –
+      Conversion of preference shares into ordinary
+         shares (note (ii))                           156,650,000       3,133     21,606               –           –        –
+
+      Issued and fully paid at 31 December            673,454,800      13,469     93,346     398,950,000      7,979    54,778
+
+
+      Preference Shares                                               2025                                  2024
+                                                          Number                   Share         Number                 Share
+                                                         of shares    Amount      capital       of shares   Amount     capital
+                                                                        USD        RMB                        USD       RMB
+
+      Issued and Fully paid at 1 January              156,650,000       3,133     21,606     156,650,000      3,133    21,606
+      Conversion of preference shares into ordinary
+         shares (note (ii))                           (156,650,000)     (3,133)   (21,606)             –           –        –
+
+      Issued and fully paid at 31 December                       –           –          –    156,650,000      3,133    21,606
+
+
+      Notes:
+
+      (i)      On 16 May 2025, the Company issued 117,854,800 ordinary shares at an offer price of HKD7.19
+               per share through the Listing. Consequently, the share capital increased by RMB17,000, and the
+               corresponding share premium increased by RMB738,757,000 (after deducting all capitalised listing
+               expenses).
+
+      (ii)     Each preference share has been automatically converted into an ordinary share on a one to one
+               ratio upon the Listing.
+
+(c)   Share premium
+
+      Share premium represents the difference between the total amount of the par value of shares issued and
+      the amount of the net proceeds from the equity shareholders.
+
+      Under the Companies Law of Cayman Islands, the share premium account of the Company is distributable
+      to the equity shareholders of the Company provided that immediately following the date on which the
+      dividend is proposed to be distributed, the Company would be in a position to pay off its debt as they fall
+      due in the ordinary course of business.
+
+(d)   Shares held for RSU Scheme/Treasury shares
+
+      The Company appointed The Core Trust Company Limited and Futu Trustee Limited (the “ RSU
+      Trustee”) as the trustees to assist with the administration and vesting of RSUs granted pursuant to the
+      RSU Scheme through the RSU Nominees, wholly-owned subsidiaries of the RSU Trustees. Further details
+      of the RSU Scheme are set out in Note 9.
+
+
+
+
+                                                                13
+           The RSU Nominees’ activities are conducted on behalf of the Company to settle their obligation under
+           the RSU Scheme and the Company also has the right to deal with the outstanding RSUs if the Company
+           terminates the RSU Scheme. The directors of the Company are of the view that the RSU Nominees are
+           controlled by the Company. Accordingly, the ordinary shares of the Company held by the RSU Nominees
+           for RSU scheme are deducted from shareholders’ equity on consolidation until the shares are vested
+           unconditionally to the grantees.
+
+           During the year ended 31 December 2025, the RSU Nominees for RSU Scheme repurchased 4,902,400
+           ordinary shares of the Company amounting to HKD29,801,000 (equivalent to RMB27,065,000) used
+           for RSU Scheme as mentioned in Note 9. In addition, the Company repurchased 1,590,400 ordinary
+           shares amounting to HKD9,986,000 (equivalent to RMB9,018,000) as treasury shares. The shares were
+           repurchased at prices ranging from HKD5.98 to HKD6.75 per share, with a weighted average price of
+           HKD6.13 per share.
+
+11   Commitments
+
+     Capital commitments outstanding at 31 December 2025 not provided for in the financial statements were as
+     follows:
+
+                                                                                              2025             2024
+                                                                                           RMB ’000         RMB ’000
+
+     Contracted for                                                                            57,254           34,150
+
+
+12   Subsequent events
+
+     After the end of the reporting period, the directors of the Company proposed a final dividend. Further details are
+     disclosed in Note 10(a).
+
+     Subsequent to the end of the reporting period, the RSU Nominees for RSU Scheme repurchased 1,131,200
+     ordinary shares of the Company amounting to HKD7,871,000 (equivalent to RMB7,038,000) used for RSU
+     Scheme as mentioned in Note 9. In addition, the Company repurchased 3,230,800 ordinary shares amounting
+     to HKD22,458,000 (equivalent to RMB20,084,000) as treasury shares. The shares were repurchased at prices
+     ranging from HKD6.51 to HKD7.25 per share, with a weighted average price of HKD6.95 per share.
+
+13   Comparative figures
+
+     Certain comparable figures have been reclassified to conform with current year’s presentation.
+
+
+
+
+                                                         14
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+INDUSTRY REVIEW
+
+With the recovery of domestic consumption, the prosperity of China ’ s catering industry has
+gradually rebounded. According to China Insights Industry Consultancy Limited, the total revenue
+of China’s catering industry is projected to reach RMB7.9 trillion by 2029, representing a CAGR
+of 7.1% from 2024 to 2029. Benefiting from its strong consumer foundation, Chinese cuisine
+restaurant market has maintained its dominant position as the most popular type of cuisine in
+China, with a market share of approximately 55.1% in 2025. Among the Chinese cuisine restaurant
+brands (excluding categories such as hot pot, grilled fish, barbecue, etc.), the Group ranked third in
+2025 in terms of revenue with one place up compared with 2024. At the same time, the Group has
+established a restaurant network covering 148 cities in Chinese Mainland, with the total number of
+restaurants surpassing 600 by the end of 2025. However, the Group’s restaurant penetration density
+across cities is relatively lower than that of comparable peers. Such a restaurant layout featured by
+“low density + high dispersion” indicates considerable potential for its restaurant expansion in the
+future.
+
+BUSINESS REVIEW
+
+The Group is a well-known operator of casual Chinese restaurants in Chinese Mainland, dedicated
+to offering fusion cuisine to customers at accessible prices. The Group’s iconic Green Tea brand,
+which is synonymous with a refreshing dining experience that combines Chinese fusion cuisine
+with decoration inspired by Chinese traditional culture, has become a household name in the casual
+Chinese cuisine restaurant market, deeply resonating with consumers across Chinese Mainland.
+As a result of its Chinese fusion concept and refreshing dining experience, the Group has built a
+restaurant network consisting of 609 restaurants and covering 21 provinces, four municipalities
+and two autonomous regions in Chinese Mainland, as well as Hong Kong SAR, Singapore,
+Thailand and Malaysia as of 31 December 2025. Notably, the Group newly opened 157 restaurants
+during the Reporting Period. Take shopping mall restaurants as an example, the average monthly
+revenue(1) per square meter of newly opened restaurants in 2025 increased by 48.4% compared
+with those opened before 2025, and the average cash investment payback period(2) of such new
+restaurants was 12.6 months.
+
+Fusion of diverse cuisines, high value-for-money dining experiences, and a brand image rooted
+in the new national style are deeply embedded in our three core brand genes. We integrate the
+essence of regional delicacies to create menus tailored to local environments and tastes, enabling
+Green Tea to take root and thrive in diverse culinary regions such as Beijing, Guangdong, Zhejiang
+and Sichuan, and to grow into a truly national restaurant brand. We continuously optimize our
+cost structure, channeling resources into what customers truly value, and deliver dishes and
+experiences that exceed expectations at the most competitive prices. Drawing nourishment from
+Chinese culture, we transcend cyclical dining trends, ensuring the brand’ s evergreen vitality
+while also charting a course for overseas expansion. Meanwhile, the Group has built a highly
+digitalized, standardized and scalable business model supported by digitalized restaurant and
+operation management, flexible supply chain arrangement and comprehensive and stringent food
+and operational safety control system. During the Reporting Period, the Group primarily generated
+revenue from restaurant operations and delivery services. The Group also generated revenue
+from other sources, such as cell phone charging services, sales of products such as cooking oil,
+condiments and gift boxes, and parking services.
+
+Notes:
+
+(1)      Represents revenue generated from restaurant operation.
+
+(2)      Represents the amount of time it takes for the cumulative earnings before interest, tax and depreciation to cover
+         the cost to open a restaurant.
+
+                                                            15
+Restaurant Network
+
+As of 31 December 2025, the Group’s restaurant network consisted of 609 restaurants, covering
+Hong Kong SAR, as well as all tier one cities, 15 new tier one cities, 30 tier two cities, and 99 tier
+three cities and below in the PRC. In addition, the Group has expanded its footprint to overseas
+markets, including Singapore, Thailand and Malaysia.
+
+The map below illustrates the geographic location of restaurants in the Group’s national network
+that are in operation as of 31 December 2025.
+
+
+
+
+                                                                                                                                                                Harbin (1)
+
+                                                                                                                                                          Changchun (2)
+                                                                                                                                                              Others (1)
+                                                                                                                                                              Shenyang (2)
+                                                                                                                                                                Dalian (2)
+                                                                                                                                                                Others (4)
+                                                                                      Shijiazhuang (4)
+                                                                                            Others (12)                                   Beijing (54)
+
+                                                                             Hohhot (2)                                                    Tianjin (4)
+                                                                                                                                          Qingdao (4)           Yantai (3)
+                                                                                  Taiyuan (5)                                                Jinan (4)          Others (8)
+                                                                                   Others (6)                                           Zhengzhou (8)
+                                                                                                                                            Others (10)
+                                                        Lanzhou (3)
+                                                                                                                                          Suzhou (11)                         Yangzhou (4)
+                                                                             Xi’an (15)                                                      Wuxi (5)          Nanjing (4)     Taizhou (4)
+                                                                             Others (2)                                                    Xuzhou (5)          Nantong (4)     Others (14)
+                                                                                                          Hefei (12)
+                                                                                                          Others (6)                    Shanghai (17)
+                                                  Chengdu (23)
+                                                    Others (13)                                                                         Hangzhou (46)          Taizhou (7)
+                                                                                                Wuhan (9)                                                     Wenzhou (6)        Jinhua (6)
+                                                                                                                                        Shaoxing (11)
+                                                                                                Others (1)                                 Ningbo (9)           Jiaxing (6)      Others (8)
+                                                        Chongqing (20)
+                                                                                                                                         Nanchang (7)
+                                                                                          Changsha (5)
+                                                                                                                                            Others (7)
+                                                                                            Others (3)
+                                         Guiyang (6)    Others (1)                                                         Xiamen (6)    Quanzhou (4)
+                                                                                                                           Fuzhou (5)      Others (5)
+                                         Kunming (9)
+                                           Others (2)
+      # of Stores                                                                                                       Shenzhen (42)
+                                         Nanning (6)
+                                                                                                                       Guangzhou (12)           Foshan (5)
+                                          Others (9)
+            >20 stores                                                                                                  Dongguan (9)         Zhongshan (4)
+                                                                     Haikou (6)                                           Huizhou (7)           Others (25)
+                                                                      Sanya (3)
+            5-20 stores
+
+            <5 stores                                                                     Hong Kong SAR (9)
+
+
+
+
+Notes:
+
+(1)         Including three restaurants operated under “Mang Gang Le” brand and four operated under other new brands.
+
+(2)         In addition to the national network as shown in the map above, as of 31 December 2025, the Group also
+            operated one, one and three restaurants in Singapore, Thailand and Malaysia, respectively.
+
+
+
+
+                                                                                   16
+Restaurant Performance
+
+The following table sets forth certain key performance indicators of the Group’s restaurants by city
+tier and location for the years indicated:
+
+                                                                For the year ended 31 December
+                                                                          2025             2024
+
+Revenue (in thousands of RMB) (1)
+Tier one and new tier one cities and overseas markets                 2,728,585           2,165,101
+Tier two cities                                                       1,043,303             822,553
+Tier three and lower tier cities                                        972,878             834,576
+
+Total                                                                 4,744,766           3,822,230
+
+                                                                       As of 31 December
+                                                                          2025                 2024
+
+
+Number of restaurants
+Tier one and new tier one cities and overseas markets                       323                 231
+Tier two cities                                                             136                 115
+Tier three and lower tier cities                                            150                 119
+
+Total                                                                       609                 465
+
+                                                                For the year ended 31 December
+                                                                          2025             2024
+
+Average daily restaurant sales per store
+  (in thousands of RMB) (2)
+Tier one and new tier one cities and overseas markets                       20.0               22.7
+Tier two cities                                                             19.0               22.1
+Tier three and lower tier cities                                            16.6               19.3
+Overall                                                                     18.9               21.7
+
+Average spending per guest (RMB) (3)
+Tier one and new tier one cities and overseas markets                       56.3               57.1
+Tier two cities                                                             53.2               56.1
+Tier three and lower tier cities                                            51.6               54.0
+Overall                                                                     54.6               56.2
+
+Table turnover rate (times/day) (4)
+Tier one and new tier one cities and overseas markets                        3.0                3.0
+Tier two cities                                                              3.1                3.1
+Tier three and lower tier cities                                             2.7                2.9
+Overall                                                                      3.0                3.0
+
+
+
+                                                17
+Notes:
+
+(1)      Representing revenue generated from restaurant operations and delivery services.
+
+(2)      Calculated by dividing revenue from restaurant operations for the year by the total restaurant operation days for
+         the year in the same city tier and location. The decrease in average daily restaurant sales per store from 2024 to
+         2025 was primarily due to reduction in the average restaurant size.
+
+(3)      Calculated by dividing revenue generated from restaurant operations and delivery services for the year by total
+         guests served, including both dine-in customers and customers who order take-outs, for the year in the same city
+         tier and location. One delivery order was counted as one guest.
+
+(4)      Calculated by dividing the total dine-in orders served for the year by the sum of products of total restaurant
+         operation days for the year and table count of each restaurant during the year in the same city tier and location.
+
+Same Store Sales (1)
+
+The following table sets forth details of the Group’s same store sales by city tier of the restaurants
+during the years indicated:
+
+                                                                               For the year ended 31 December
+                                                                                        2025 and 2024
+
+Number of same stores (2)
+Tier one and new tier one cities and overseas markets                                             162
+Tier two cities                                                                                    75
+Tier three and lower tier cities                                                                   80
+
+Overall                                                                                           317
+
+                                                                               For the year ended 31 December
+                                                                                         2025             2024
+
+Same store sales (in thousands of RMB)
+Tier one and new tier one cities and overseas markets                                  1,742,439               1,756,381
+Tier two cities                                                                          720,082                 718,218
+Tier three and lower tier cities                                                         669,140                 680,758
+
+Overall                                                                                3,131,661               3,155,357
+
+                                                                               For the year ended 31 December
+                                                                                        2025 and 2024
+
+Same store sales growth (%)
+Tier one and new tier one cities and overseas markets                                             (0.8)
+Tier two cities                                                                                    0.3
+Tier three and lower tier cities                                                                  (1.7)
+
+Overall                                                                                           (0.8)
+
+
+
+                                                             18
+Notes:
+
+(1)      Referring to the aggregate revenue generated from restaurant operations and delivery services at same stores for
+         the year indicated.
+
+(2)      Consisting of restaurants that were open for more than 300 days during the years under comparison and had the
+         same number of tables during the years under comparison.
+
+Delivery Services
+
+The Group offers delivery services primarily through three major third-party online food delivery
+platforms in the PRC. During the Reporting Period, the Group strategically increased its focus on
+delivery services, therefore, revenue from delivery services increased by 66.5% from RMB723.1
+million for the year ended 31 December 2024 to RMB1,204.0 million for the year ended 31
+December 2025.
+
+Product and Menu Development
+
+Leveraging the flexibility of Chinese fusion cuisine, the Group is able to continuously introduce
+new and popular menu items to adapt to the latest trends and drive guests’ enthusiasm towards the
+Group’s restaurants. The Group develops its menus based on the principles of food safety, stable
+supply of ingredients and feasibility of standardization. During the Reporting Period, the Group
+introduced a total of 562 new menu items.
+
+BUSINESS PROSPECT
+
+Looking ahead, the Group is committed to consolidating its leadership in casual Chinese cuisine
+restaurant market and building a differentiated reputation moat through continuously refined menu
+innovation, upgraded service excellence, and stringent food safety controls. To drive sustainable
+growth, the Group will steadily advance its network expansion strategy, deepening penetration
+in existing markets while exploring emerging potential markets. Meanwhile, the Group will
+continuously intensify supply chain optimization and sustain investments in technology and digital
+marketing, leveraging technology as a core engine to drive its standardized and scalable expansion.
+
+The Group will also steadily advance its internationalization layout, starting from the Southeast
+Asian market and expanding to neighboring overseas markets, with a long-term goal of achieving
+a scaled restaurant network overseas. Furthermore, the Group will actively seek and acquire high-
+quality potential targets, integrate industry resources, enrich its brand portfolio and consumer
+scenarios, rapidly enhance its overall scale and market share, further unlock growth potential, and
+support the achievement of its long-term strategic objectives.
+
+The Group believes that such an integrated approach will propel its evolution into a modern
+catering enterprise defined by competitive scale and sustainable value creation.
+
+
+
+
+                                                            19
+FINANCIAL REVIEW
+
+Revenue
+
+The Group ’ s revenue increased by 24.1% from RMB3,838.2 million for the year ended 31
+December 2024 to RMB4,763.0 million for the year ended 31 December 2025.
+
+The Group generates revenue from three services, including (i) restaurant operations; (ii) delivery
+services; and (iii) others, including (a) commissions it receives from service providers for cell
+phone charging services, (b) sales of products such as cooking oil, condiments and gift boxes, and
+(c) fees for parking services. The following table sets forth a breakdown of the Group’s revenue by
+service for the years indicated:
+
+                                                For the year ended 31 December
+                                              2025                          2024
+                                       Revenue       % of total       Revenue            % of total
+                                     (RMB ’000)            (%)     (RMB ’000)                  (%)
+
+Restaurant operations                  3,540,796             74.3       3,099,173             80.8
+Delivery services                      1,203,970             25.3         723,057             18.8
+Others                                    18,201              0.4          15,972              0.4
+
+Total                                  4,762,967            100.0       3,838,202            100.0
+
+Revenue from Restaurant Operations
+
+Revenue from restaurant operations increased by 14.2% from RMB3,099.2 million for the year
+ended 31 December 2024 to RMB3,540.8 million for the year ended 31 December 2025, primarily
+due to the increase in the number of restaurants. Meanwhile, average spending per guest of
+the Group’s restaurant operation remained relatively stable at RMB58.3 for the year ended 31
+December 2024 and RMB58.0 for the year ended 31 December 2025.
+
+Revenue from Delivery Services
+
+Revenue from delivery services increased by 66.5% from RMB723.1 million for the year ended
+31 December 2024 to RMB1,204.0 million for the year ended 31 December 2025, primarily due
+to the Group’s strategic enhancement of its focus on the delivery business and the expansion of its
+delivery service coverage.
+
+Revenue from Others
+
+Revenue from others increased by 14.0% from RMB16.0 million for the year ended 31 December
+2024 to RMB18.2 million for the year ended 31 December 2025, in line with the expansion of our
+restaurant operation business.
+
+Other Revenue
+
+The Group’s other revenue increased by 13.4% from RMB32.0 million for the year ended 31
+December 2024 to RMB36.2 million for the year ended 31 December 2025, primarily due to
+the increase in interest income on bank deposits and investment income generated from wealth
+management products.
+
+                                                20
+Raw Materials and Consumables Used1
+
+The Group’s raw materials and consumables used increased by 17.1% from RMB1,287.6 million
+for the year ended 31 December 2024 to RMB1,508.4 million for the year ended 31 December
+2025, primarily in line with the increasing trend of its revenue. Raw materials and consumables
+used as a percentage of revenue decreased from 33.5% for the year ended 31 December 2024 to
+31.7% for the year ended 31 December 2025, primarily due to lower procurement costs resulting
+from centralized procurement and tendering arrangements.
+
+Staff Costs
+
+The Group ’ s staff costs increased by 25.6% from RMB989.0 million for the year ended 31
+December 2024 to RMB1,242.5 million for the year ended 31 December 2025, primarily due to
+the increase in demand for restaurant operating staff and management personnel as a result of
+the expansion of the Group’s restaurant network. Staff costs as a percentage of revenue remained
+relatively stable at 25.8% for the year ended 31 December 2024 and 26.1% for the year ended 31
+December 2025.
+
+Depreciation of Right-of-Use Assets
+
+The Group’s depreciation of right-of-use assets increased by 19.4% from RMB202.9 million for
+the year ended 31 December 2024 to RMB242.3 million for the year ended 31 December 2025, in
+line with the increase in right-of-use assets arising from the expansion in the number of restaurants,
+where the recognition of additional leases resulted in higher depreciation charges. Depreciation of
+right-of-use assets as a percentage of revenue remained relatively stable at 5.3% for the year ended
+31 December 2024 and 5.1% for the year ended 31 December 2025.
+
+Other Rentals and Related Expenses
+
+The Group’s other rentals and related expenses increased by 19.7% from RMB76.1 million for
+the year ended 31 December 2024 to RMB91.1 million for the year ended 31 December 2025,
+primarily due to the increase in variable rental expenses, including turnover-based rentals arising
+from the expansion in the number of restaurants, as well as short-term lease rentals for staff
+dormitories as a result of increased staff. Other rentals and related expenses as a percentage of
+revenue remained relatively stable at 2.0% for the year ended 31 December 2024 and 1.9% for the
+year ended 31 December 2025.
+
+Depreciation and Amortization of Other Assets
+
+The Group’s depreciation and amortization of other assets increased by 9.6% from RMB217.9
+million for the year ended 31 December 2024 to RMB238.9 million for the year ended 31
+December 2025, primarily due to higher depreciation of equipment and amortization of leasehold
+improvements arising from the increase in the number of restaurants. Depreciation and amortization
+of other assets as a percentage of revenue decreased from 5.7% for the year ended 31 December
+2024 to 5.0% for the year ended 31 December 2025, primarily due to lower decoration costs per
+new restaurant as a result of the Group’s further optimization of its store opening strategy.
+
+
+
+1
+     For the year ended 31 December 2025, the Group reclassified low-value consumables from other expenses to
+     raw materials and consumables used. Accordingly, the comparative figure for the year ended 31 December 2024
+     has also been reclassified to facilitate comparison.
+
+                                                     21
+Utilities Expenses
+
+The Group’s utilities expenses increased by 20.2% from RMB141.3 million for the year ended
+31 December 2024 to RMB169.8 million for the year ended 31 December 2025, primarily due to
+higher electricity and water consumption arising from the increase in the number of restaurants.
+Utilities expenses as a percentage of revenue remained relatively stable at 3.7% for the year ended
+31 December 2024 and 3.6% for the year ended 31 December 2025.
+
+Delivery Service Expenses
+
+The Group’s delivery service expenses increased by 67.6% from RMB121.0 million for the year
+ended 31 December 2024 to RMB202.7 million for the year ended 31 December 2025, in line
+with the increase in its delivery service business. Delivery service expenses as a percentage of
+revenue increased from 3.1% for the year ended 31 December 2024 to 4.3% for the year ended
+31 December 2025, primarily due to the increased proportion of delivery service business in the
+Group’s overall revenue.
+
+Other Expenses
+
+The Group’s other expenses increased by 24.7% from RMB372.7 million for the year ended 31
+December 2024 to RMB464.6 million for the year ended 31 December 2025, primarily due to the
+increase in other operating expenses as a result of the increase in the number of restaurants, as well
+as higher listing-related service fees.
+
+Other Net (Losses)/Income
+
+The Group recorded other net losses of RMB7.8 million for the year ended 31 December 2025
+as compared to the other net income of RMB2.2 million for the year ended 31 December 2024,
+primarily due to the increase in donation expenses related to public welfare.
+
+Finance Costs
+
+The Group’s finance costs increased by 19.3% from RMB45.3 million for the year ended 31
+December 2024 to RMB54.0 million for the year ended 31 December 2025, primarily due to higher
+interest expenses on lease liabilities arising from the increase in the number of restaurants.
+
+Income Tax
+
+The Group’s income tax expenses increased by 32.5% from RMB68.5 million for the year ended
+31 December 2024 to RMB90.7 million for the year ended 31 December 2025, primarily due to an
+increase in the Group’s profit before tax.
+
+Profit for the Year
+
+As a result of the foregoing, the Group’s profit for the year increased by 38.9% from RMB350.2
+million for the year ended 31 December 2024 to RMB486.4 million for the year ended 31
+December 2025.
+
+
+
+
+                                                 22
+Non-IFRS Measures
+
+To supplement its consolidated statements of profit or loss, which are presented in accordance
+with IFRS Accounting Standards, the Group also uses adjusted net profit (non-IFRS measure) and
+adjusted net profit margin (non-IFRS measure) as additional financial measures. The presentation
+of adjusted net profit (non-IFRS measure) and adjusted net profit margin (non-IFRS measure)
+facilitates comparisons of operating performance from year to year by eliminating potential impacts
+of certain items described below. Among which, equity-settled share-based payment expenses are
+non-cash expenses arising from the RSU Scheme, and listing expenses are related to the global
+offering of the Company. The Group believes that adjusted net profit (non-IFRS measure) and
+adjusted net profit margin (non-IFRS measure) are frequently used by other interested parties when
+evaluating the performance of a company.
+
+The Group defines adjusted net profit (non-IFRS measure) as profit for the year adjusted by
+excluding (i) equity-settled share-based payment expenses, (ii) listing expenses, and (iii) impact on
+tax related to items (i) to (ii) above. The following table illustrates reconciliations to the Group’s
+adjusted net profit (non-IFRS measure) from its profit for the year indicated:
+
+                                                                            For the year ended 31 December
+                                                                                      2025              2024
+                                                                                (RMB ’000)        (RMB ’000)
+
+Profit for the year                                                                   486,399               350,167
+Equity-settled share-based payment expenses                                             7,724                 5,447
+Listing expenses                                                                       18,262                 6,312
+Impact on tax                                                                          (3,493)               (1,060)
+
+Adjusted net profit (non-IFRS measure)                                                508,892               360,866
+Adjusted net profit margin (%) (non-IFRS measure) (1)                                    10.7                   9.4
+Note:
+
+(1)     Adjusted net profit margin (non-IFRS measure) is calculated by dividing adjusted net profit (non-IFRS measure)
+        by revenue for the year.
+
+Inventories
+
+The Group ’ s inventories consist of food and beverages and other consumables for restaurant
+operations.
+
+The balance of the Group ’ s inventories decreased by 8.9% from RMB67.2 million as of 31
+December 2024 to RMB61.3 million as of 31 December 2025, primarily due to increased utilization
+of raw materials as a result of higher sales volume and strengthened inventory management
+practices.
+
+The Group’s inventory turnover days for the year ended 31 December 2024 and for the year ended
+31 December 2025, being the average of the opening and closing balances of inventories for
+that year divided by raw materials and consumables used for the relevant year and multiplied by
+the number of days in that year, were 18.0 days and 15.5 days, respectively. The decrease in its
+inventory turnover days was primarily due to increased utilization of raw materials as a result of
+higher sales volume.
+
+
+
+                                                          23
+Right-of-Use Assets
+
+The Group’s right-of-use assets, which are comprised of the leases for its restaurants and employee
+dormitories, increased by 17.9% from RMB967.0 million as of 31 December 2024 to RMB1,139.7
+million as of 31 December 2025, primarily due to the increase in the number of restaurants.
+
+Trade Debtors
+
+The majority of the Group’s trade debtors were primarily in connection with (i) bills settled
+through third-party payment platforms such as Alipay or WeChat Pay, which were normally settled
+within a short period of time; and (ii) bills received by shopping malls on behalf of the Group for
+certain restaurants, which were normally settled within one month. Trade debtors of the Group
+increased by 47.8% from RMB22.6 million as of 31 December 2024 to RMB33.3 million as of 31
+December 2025, in line with the expansion of the Group’s business. The Group’s trade debtors
+turnover days, being the average of the opening and closing balances of trade debtors for that
+year divided by revenue for the relevant year and multiplied by the number of days in that year,
+remained relatively stable at 2.8 days for the year ended 31 December 2024 and 2.1 days for the
+year ended 31 December 2025.
+
+Trade Payables
+
+The majority of the Group’s trade payables were in connection with payables to its suppliers,
+which typically grant the Group a credit period of 30 to 90 days. Trade payables of the Group
+increased by 17.5% from RMB221.4 million as of 31 December 2024 to RMB260.1 million as of
+31 December 2025, primarily due to an increase in purchases of raw materials arising from the
+expansion of the Group’s restaurant operations and delivery service business. The Group’s trade
+payables turnover days, being the average of the opening and closing balances of trade payables
+for that year divided by raw materials and consumables used for the relevant year and multiplied
+by the number of days in that year, decreased from 66.6 days for the year ended 31 December 2024
+to 58.3 days for the year ended 31 December 2025, primarily due to more purchases from suppliers
+offering shorter payment terms, as those suppliers offer more favorable prices.
+
+Capital Structure, Liquidity and Financial Resources
+
+The Shares were listed on the Main Board of the Stock Exchange on 16 May 2025. As of 31
+December 2025, the Company had 671,864,400 issued Shares of USD0.00002 each.
+
+The Group maintained a healthy financial position in 2025. The Group’s total assets increased from
+RMB2,464.3 million as of 31 December 2024 to RMB3,795.4 million as of 31 December 2025,
+whilst the Group’s total liabilities increased from RMB1,693.2 million as of 31 December 2024
+to RMB2,042.0 million as of 31 December 2025. The Group’s liabilities-to-assets ratio decreased
+from 68.7% as of 31 December 2024 to 53.8% as of 31 December 2025, primarily due to the
+increase in cash and cash equivalents following the global offering of the Company.
+
+The Group financed its capital expenditure and working capital requirements mainly through
+cash from operations, equity investments and net proceeds received from the global offering
+of the Company. As of 31 December 2025, the Group’s cash and cash equivalents amounted to
+RMB1,199.3 million as compared to RMB247.2 million as of 31 December 2024. The Group’s
+cash and cash equivalents primarily consist of cash at bank. As of 31 December 2025, substantially
+all of the cash and cash equivalents of the Group were denominated in RMB and HKD.
+
+
+                                                24
+The Group ’ s anticipated cash needs primarily include (i) expanding the restaurant network;
+(ii) optimizing the supply chain system to further improve operational efficiency; and (iii) pursuing
+digital management to optimize operational management.
+
+Treasury Policy
+
+The Group has adopted a prudent financial management approach towards its treasury policy. The
+Board closely monitors the Group’s liquidity position to ensure that the liquidity structure of the
+Group’s assets, liabilities, and other commitments can meet its funding requirements all the time.
+
+Capital Expenditures
+
+The Group ’ s capital expenditure consists of payment for purchases of property, plant and
+equipment, primarily used to open new restaurants, procure property, plant and equipment for new
+restaurants, renovate existing restaurants and purchase furniture and equipment used for restaurant
+operations. The Group’s total capital expenditures increased by 4.3% from RMB336.4 million for
+the year ended 31 December 2024 to RMB350.9 million for the year ended 31 December 2025,
+primarily due to the increase in the number of restaurants.
+
+Gearing Ratio
+
+Gearing ratio represented bank loans divided by total equity and multiplied by 100%. As of 31
+December 2024 and 2025, the Group’s gearing ratio was not applicable as it had no outstanding
+bank loans as of the respective dates.
+
+Contingent Liabilities
+
+As of 31 December 2025, the Group did not have significant contingent liabilities.
+
+Pledge of Assets
+
+As of 31 December 2025, the Group did not have any pledge on its assets.
+
+Foreign Exchange Risk
+
+The Group is not exposed to significant foreign currency risk since financial assets and liabilities
+denominated in currencies other than functional currencies of the respective entities comprising the
+Group are not significant.
+
+The assets and liabilities of the Group were mainly denominated in RMB, HKD and USD.
+During the Reporting Period, the Group did not employ financial derivatives or enter into foreign
+derivative contracts to hedge against foreign currency risk.
+
+
+
+
+                                                 25
+Significant Investments, Material Acquisitions and Disposals
+
+As of 31 December 2025, the Group did not have any significant investments. During the year
+ended 31 December 2025, the Group did not conduct any material acquisitions or disposals of
+subsidiaries, associates and joint ventures.
+
+FINAL DIVIDENDS
+
+The Board recommended the payment of final dividend of HKD0.52 per Share for the year ended
+31 December 2025 which is subject to the approval by the Shareholders at the AGM. The final
+dividend is expected to be payable to the Shareholders on or before 21 July 2026. The dividend
+will be payable to the Shareholders whose names appear on the register of members of the
+Company at the close of business on 6 July 2026. The Group is not aware of any arrangement
+under which a Shareholder has waived or agreed to waive any dividends.
+
+EMPLOYEES AND REMUNERATION POLICIES
+
+As of 31 December 2025, the Group had 17,342 employees. The following table shows a
+breakdown of the employees by function as of 31 December 2025:
+
+                                                                   Number of          % of Total
+ Functions                                                         Employees          Employees
+
+ Restaurant staff                                                       16,638            95.94%
+ Management and administrative staff                                       349             2.01%
+ Supply chain management                                                   266             1.53%
+ Marketing and promotion                                                    22             0.13%
+ Menu development                                                           29             0.17%
+ Safety center                                                              20             0.12%
+ Expansion management                                                       16             0.09%
+ Engineering                                                                 2             0.01%
+
+ Total                                                                  17,342           100.00%
+
+For the year ended 31 December 2025, total staff remuneration expenses (including emoluments,
+social insurance and other benefits of the Directors) amounted to approximately RMB1,242.5
+million, as compared to approximately RMB989.0 million for the same period in 2024.
+Remuneration is determined with reference to performance, skills, qualifications and experience
+of the staff concerned and in accordance with the prevailing industry practice. The Group provides
+competitive compensation packages. Compensation for the Group ’ s employees includes base
+salary, bonuses and other staff benefits, such as employee meals and staff dormitories. Selected
+Directors or employees of the Group were or will be offered to participate in the RSU Scheme.
+
+Directors’ emoluments are covered by respective service contracts of each of the Directors. The
+remuneration of the Directors is reviewed by the Remuneration Committee and approved by the
+Board. The relevant Director ’ s experience, duties and responsibilities, time commitment, the
+Company ’ s performance and the prevailing market conditions are taken into consideration in
+determining the emoluments of the Directors.
+
+
+
+
+                                               26
+The Group believes it has maintained good relationships with its employees. The employees are not
+represented by a labor union. As of the date of this announcement, the Group did not experience
+any strikes or any labor disputes with its employees which have had or are likely to have a material
+effect on its business.
+
+The Group attaches great importance to employee competency development and continuously
+establishes a comprehensive training management system according to its development needs.
+The Group’s employees have a chance to be promoted to management positions at the Group’s
+restaurants after they successfully complete the Group ’ s leadership training program, Green
+Tea University. The Green Tea University curriculum trains the Group’s employees to embrace
+the Group’s core values, acquire the necessary skills for their respective positions and develop
+leadership and management competencies for career advancement. Meanwhile, the Group is
+committed to providing fair and equal opportunities in all of its employment practices and has
+adopted policies and procedures to ensure a fair hiring, selection and promotion process.
+
+The Group also contributes to housing provident funds and various employee social security
+insurance that are organised by applicable local municipal and provincial governments, including
+housing, pension, medical, maternity, work-related injury and unemployment insurance, under
+which the Group makes contributions at specified percentages of the salaries of employees in
+accordance with applicable PRC laws, rules and regulations.
+
+USE OF PROCEEDS FROM THE GLOBAL OFFERING
+
+The Shares were listed on the Main Board of the Stock Exchange on 16 May 2025. Net proceeds
+from the global offering (after deducting underwriting fees and other related expenses payable by
+the Company in connection with the global offering) were approximately HKD732.1 million (the
+“Net Proceeds”).
+
+As of 31 December 2025, the Group utilized Net Proceeds of approximately HKD158.4 million for
+the intended purposes set out in the Prospectus, accounting for 21.6% of total Net Proceeds, and
+the remaining unutilized Net Proceeds were approximately HKD573.7 million. The following table
+sets forth a summary of the utilization of the Net Proceeds as of 31 December 2025:
+
+                                                                             Utilized      Unutilized
+                                                                       amount of Net    amount of Net
+                                                            Existing   Proceeds as of   Proceeds as of
+                                  Approximate %        allocation of    31 December      31 December            Expected
+Intended purpose of                   of the total    Net Proceeds              2025             2025        timeline for
+Net Proceeds                        Net Proceeds     (HKD million)     (HKD million)    (HKD million)          utilization
+
+Expansion of restaurant network             63.3%             463.4            120.4            343.0 By the end of 2027
+Establishment of centralized
+  food processing facility                  26.3%             192.6                –            192.6 By the end of 2027
+Upgrade IT system and
+  related infrastructure                     5.4%              39.5               1.4             38.1 By the end of 2027
+Provide funding for working
+  capital and other general
+  corporate purposes                         5.0%              36.6              36.6               –                N/A
+
+Total                                     100.0%              732.1            158.4            573.7
+
+
+
+
+                                                              27
+Note: Due to rounding, there may be a difference between the sum of the individual sub-values and the total amount.
+
+The expected timeline for using the unutilized Net Proceeds is based on the best estimation of the
+business market situations made by the Board and might be subject to changes based on the market
+conditions. The Company will make an appropriate announcement if there is any change to the use
+of Net Proceeds.
+
+FUTURE PLANS FOR MATERIAL INVESTMENT AND CAPITAL ASSETS
+
+Save as disclosed in the section headed “Use of Proceeds from the Global Offering ” in this
+announcement, the Group has no other specific plan for material investment or acquisition of major
+capital assets as of the date of this announcement. However, the Group will continue to identify
+new opportunities for business development.
+
+CORPORATE GOVERNANCE PRACTICES
+
+The Company is committed to maintaining and promoting high standards of corporate governance,
+which is essential to the Company’s development and protection of Shareholders’ interests. The
+Company has adopted the principles and code provisions as set out in the CG Code as the basis for
+its corporate governance practices since the Listing Date.
+
+The Board is of the view that from the Listing Date to 31 December 2025, the Company has
+complied with all the applicable code provisions as set out in the CG Code, except for Code
+Provision C.2.1 described below. The Board will continue to review and monitor the code of
+corporate governance practices of the Company with an aim to maintain a high standard of
+corporate governance.
+
+Pursuant to code provision C.2.1 of Part 2 of the CG Code, the roles of chairman and chief
+executive officer should be separate and should not be performed by the same individual.
+Mr. Wang Qinsong (“Mr. Wang”) is currently the chairman of the Board and the chief executive
+officer of the Company. Notwithstanding the deviation from code provision C.2.1 of Part 2 of the
+CG Code, given Mr. Wang’s substantial contribution to the Group since its establishment and his
+extensive knowledge and experience in the industry, the Board considers that vesting the roles
+of both chairman of the Board and chief executive officer of the Company in Mr. Wang provides
+the Group with strong and consistent leadership, enabling more effective and efficient overall
+strategic planning for the Group. While this would constitute a deviation from code provision C.2.1
+of Part 2 of the CG Code, the Board believes that this structure will not impair the balance of
+power and authority between the Board and the management of the Company, given that: (i) there
+are sufficient checks and balances in the Board, as a decision to be made by the Board requires
+approval by at least a majority of the Directors, and the Board comprises three independent
+non-executive Directors, which is in compliance with the requirement under the Listing Rules;
+(ii) Mr. Wang and the other Directors are aware of and undertake to fulfill their fiduciary duties
+as Directors, which require, inter alia, that he/she acts for the benefit and in the best interests
+of the Company and makes decisions for the Group accordingly; and (iii) the balance of power
+and authority is ensured by the operations of the Board which comprises experienced and high
+
+
+
+
+                                                         28
+caliber individuals who meet regularly to discuss issues affecting the operations of the Company.
+Moreover, the overall strategic and other key business, financial, and operational policies of the
+Group are made collectively after thorough discussion at both Board and senior management levels
+and the balance of power and authority for the present arrangement will not be impaired. The
+Board will continue to review and consider splitting the roles of chairman of the Board and the
+chief executive officer of the Company at a time when it is appropriate and suitable by taking into
+account the circumstances of the Group as a whole.
+
+MODEL CODE FOR SECURITIES TRANSACTIONS
+
+The Company has adopted the Model Code as its own code of conduct regarding dealings in the
+securities of the Company by the Directors. Specific enquiries have been made to all Directors and
+all Directors have confirmed that they have complied with the Model Code since the Listing Date
+and up to the date of this announcement.
+
+PURCHASE, SALE OR REDEMPTION OF THE LISTED SECURITIES OF THE
+COMPANY
+
+In December 2025, the Company repurchased its own shares on the Stock Exchange pursuant to
+the general mandate granted by the Shareholders to the Directors at the annual general meeting of
+the Company convened on 26 June 2025. The Board believes that the repurchase could enhance the
+value of the Shares and demonstrate the Board’s confidence in the long-term business prospects,
+and will be in the interests of the Company and its Shareholders as a whole. Details are set out as
+follows:
+
+                                                                                         Aggregate
+                                                           Highest          Lowest    consideration
+                                       Number of             price            price      (excluding
+                                          shares         per share        per share       expenses)
+Month/Year                           repurchased              HK$              HK$             HK$
+
+December 2025                           1,590,400             6.75             5.98       9,955,071
+
+In December 2025, the Company repurchased a total of 1,590,400 ordinary shares at an aggregate
+price of approximately HK$9,955,071. Those repurchased shares were held as Treasury Shares as
+at 31 December 2025. Such Treasury Shares may be resold on the market at market prices to raise
+funds for the Company, or transferred or used for other purposes, subject to compliance with the
+Articles of Association and the applicable laws of the Cayman Islands and the Listing Rules.
+
+Save as disclosed above, neither the Company nor any of its subsidiaries purchased, sold or
+redeemed any of the Company’s listed securities (including sale of Treasury Shares) from the
+Listing Date to 31 December 2025.
+
+SIGNIFICANT LEGAL PROCEEDINGS
+
+As of the date of this announcement, no member of the Group was engaged in any litigation or
+arbitration of material importance and no litigation, arbitration or claim of material importance was
+known to the Directors to be pending or threatening against any member of the Group.
+
+
+
+
+                                                 29
+SUFFICIENCY OF PUBLIC FLOAT
+
+Based on information publicly available to the Company and to the best knowledge of the
+Directors, at least 25.0% of the Company’s total issued Shares, the prescribed minimum percentage
+of public float approved by the Stock Exchange and permitted under the Listing Rules, was held by
+the public at all times since the Listing Date and as of the date of this announcement.
+
+AUDIT COMMITTEE
+
+The Company has established the Audit Committee with written terms of reference in compliance
+with the requirements under the Listing Rules. As of the date of this announcement, the Audit
+Committee consists of three independent non-executive Directors, being Mr. Fan Yongkui
+(chairman of the Audit Committee who holds appropriate accounting qualifications), Mr. Shao
+Xiaodong and Mr. Bruno Robert Mercier. The main duties and functions of the Audit Committee
+are to review and supervise the financial reporting process, internal control and risk management
+system of the Group; to oversee the audit process; to advise on the appointment or replacement of
+external auditors; to provide advice and comments to the Board; and to perform other duties and
+responsibilities as may be assigned by the Board or required under the CG Code.
+
+The Audit Committee has, together with the management of the Company, reviewed the accounting
+principles and policies adopted by the Group and the consolidated financial statements of the
+Group for the year ended 31 December 2025, and has recommended for the Board’s approval
+thereof. The financial information set out in this announcement has been reviewed by the Audit
+Committee and approved by the Board.
+
+SCOPE OF WORK FOR ANNUAL RESULTS ANNOUNCEMENT BY AUDITOR
+
+The financial figures in respect of the Group ’ s consolidated statement of financial position,
+consolidated statement of profit or loss, consolidated statement of profit or loss and other
+comprehensive income and the related notes thereto for the year ended 31 December 2025 as
+set out in the preliminary announcement have been compared by the Group’s auditor, KPMG,
+Certified Public Accountants ( “ KPMG ” ), to the amounts set out in the Group ’ s audited
+consolidated financial statements for the year and the amounts were found to be in agreement. The
+work performed by KPMG in this respect did not constitute an audit, review or other assurance
+engagement in accordance with Hong Kong Standards on Auditing, Hong Kong Standards on
+Review Engagements or Hong Kong Standards on Assurance Engagements issued by the Hong
+Kong Institute of Certified Public Accountants and consequently no assurance has been expressed
+by the auditor.
+
+EVENTS AFTER THE REPORTING PERIOD
+
+Save as disclosed in this announcement, there was no significant event that might affect the Group
+occurred after the Reporting Period.
+
+
+
+
+                                               30
+

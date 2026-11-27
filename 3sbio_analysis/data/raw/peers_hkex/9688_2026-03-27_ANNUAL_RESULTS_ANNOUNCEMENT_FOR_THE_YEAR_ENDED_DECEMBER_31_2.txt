@@ -1,0 +1,3702 @@
+Hong  Kong  Exchanges  and  Clearing  Limited  and  The  Stock  Exchange  of  Hong  Kong  Limited  take  no 
+responsibility for the contents of this announcement, make no representation as to its accuracy or completeness 
+and  expressly  disclaim  any  liability  whatsoever  for  any  loss  howsoever  arising  from  or  in  reliance  upon  the 
+whole or any part of the contents of this announcement.
+
+Zai Lab Limited
+再鼎醫藥有限公司 * 
+(incorporated in the Cayman Islands with limited liability)
+(Stock Code: 9688)
+
+ANNUAL RESULTS ANNOUNCEMENT
+FOR THE YEAR ENDED DECEMBER 31, 2025
+
+Zai Lab Limited hereby announces the consolidated results of the Company for the year ended December 31, 
+2025, together with the comparative figures for the year ended December 31, 2024, which have been prepared 
+in  accordance  with  generally  accepted  accounting  principles  in  the  United  States  and  reviewed  by  the  audit 
+committee of the board of directors of Zai Lab Limited.
+
+FINANCIAL HIGHLIGHTS
+
+Year ended December 31, 2025 vs. year ended December 31, 2024 (in $)
+
+• Net product revenue increased by $59.6 million, or 15%, to $457.2 million, primarily due to 
+
+increased sales for XACDURO, driven by strong patient demand and expanding hospital adoption 
+but partially constrained by supply limitations during the year, and increased sales for NUZYRA, 
+supported by increasing market coverage and penetration. 
+
+• Research and development expenses decreased by $13.6 million, or 6%, to $220.9 million, primarily 
+
+due to reduced personnel compensation and related cost, driven by resource prioritization and 
+efficiency efforts, partially offset by an increase in clinical trial costs.
+
+•
+
+Selling, general and administrative expenses decreased by $21.1 million, or 7%, to $277.6 million, 
+primarily due to resource prioritization and efficiency efforts.
+
+• Net loss decreased by $81.6 million, or 32%, to $175.5 million, primarily due to product revenue 
+growing faster than net operating expenses and a shift from foreign currency losses to foreign 
+currency gains, offset by decreased interest income.
+
+• Basic and diluted loss per share was $0.16, representing a 38% decrease from $0.26.
+
+1
+
+Independent auditor’s report 
+
+to the shareholders of Zai Lab Limited
+
+(incorporated in the Cayman Islands with limited liability)
+
+Opinion
+
+We have audited the consolidated financial statements of Zai Lab Limited (“the Company”) and its subsidiaries 
+(collectively,  “the  Group”)  set  out  on  pages  6  to  47,  which  comprise  the  consolidated  balance  sheet  as  at 
+December 31, 2025, the consolidated statement of operations, the consolidated statement of comprehensive loss, 
+the  consolidated  statement  of  shareholders’  equity  and  the  consolidated  statement  of  cash  flows  for  the  year 
+then  ended  and  notes  to  the  consolidated  financial  statements,  including  a  summary  of  significant  accounting 
+policy information.
+
+In  our  opinion,  the  consolidated  financial  statements  give  a  true  and  fair  view  of  the  consolidated  financial 
+position  of  the  Group  as  at  December  31,  2025  and  of  its  consolidated  financial  performance  and  its 
+consolidated  cash  flows  for  the  year  then  ended  in  accordance  with  U.S.  generally  accepted  accounting 
+principles and have been properly prepared in compliance with the disclosure requirements of the Hong Kong 
+Companies Ordinance.
+
+Basis for opinion
+
+We  conducted  our  audit  in  accordance  with  Hong  Kong  Standards  on  Auditing  (“HKSAs”)  as  issued  by  the 
+Hong Kong Institute of Certified Public Accountants (“HKICPA”). Our responsibilities under those standards 
+are  further  described  in  the  Auditor’s  responsibilities  for  the  audit  of  the  consolidated  financial  statements 
+section of our report.  We are independent of the Group in accordance with the HKICPA’s Code of Ethics for 
+Professional Accountants (“the Code”), as applicable to audits of financial statements of public interest entities. 
+We have also fulfilled our other ethical responsibilities in accordance with the Code. We believe that the audit 
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Key audit matter
+
+Key audit matter is the matter that, in our professional judgement, was of most significance in our audit of the 
+consolidated financial statements of the current period. This matter was addressed in the context of our audit of 
+the consolidated financial statements as a whole, and in forming our opinion thereon, and we do not provide a 
+separate opinion on this matter.
+
+2
+
+Evaluation of accrued preclinical and clinical trial expenses
+
+Refer to Note 24 to the consolidated financial statements and the accounting policies in Note 2.
+
+The Key Audit Matter
+
+How the matter was addressed in our audit
+
+The  Company’s  research  and  development  expenses 
+include  costs  associated  with  payments  to  contract 
+(“CROs”)  and  contract 
+research  organizations 
+manufacturing  organizations  (“CMOs”)  for  various 
+preclinical  and  clinical  trial  activities.  Expenses 
+related  to  preclinical  and  clinical  trial  activities  are 
+accrued  based  on  the  Company’s  estimates  of  the 
+actual  services  performed  by  the  CROs  and  CMOs. 
+As disclosed in the consolidated financial statements, 
+as  of  December  31,  2025,  the  Company  recorded 
+$141.6  million  in  accounts  payable,  which  included 
+the accrued preclinical and clinical trial expenses.
+
+We  identified  the  evaluation  of  accrued  preclinical 
+and  clinical  trial  expenses  as  a  key  audit  matter. 
+Specifically,  evaluating  the  estimate  of  services 
+performed  for  certain  research  and  development 
+activities at year-end required subjective judgment.
+
+Our  audit  procedures 
+the  accrued 
+preclinical  and  clinical  trial  expenses  included  the 
+following:
+
+to  evaluate 
+
+•
+
+•
+
+•
+
+•
+
+evaluating  the  design  and  testing  the  operating 
+effectiveness  of  certain  internal  controls  related 
+to accrued preclinical and clinical trial expenses. 
+This included controls related to the estimation of 
+the  services  performed  by  the  CROs  and  CMOs 
+during  the  period  that  are  included  in  accounts 
+payable  balances  at  the  end  of  each  reporting 
+period; 
+
+on a sample basis, examining contracts, purchase 
+orders,  or  invoices  and  comparing  them  to  the 
+Company’s  estimation  of  services  performed  by 
+the CROs and CMOs;
+
+them 
+
+third-party 
+on  a  sample  basis,  examining 
+confirmations  and  comparing 
+the 
+to 
+Company’s  estimation  of  services  performed  by 
+the  CROs  and  CMOs  and,  for  any  unreturned 
+confirmations, performing alternative procedures 
+by  comparing  details  of  the  balances  with 
+relevant underlying documentation; and
+
+invoices 
+
+received  and/or 
+examining  certain 
+payments  made  after  year-end  and  evaluating 
+whether  they  were  associated  with  services 
+received prior to that date and whether they were 
+included  in  the  Company’s  estimate  of  costs 
+incurred at year-end.
+
+Information other than the consolidated financial statements and auditor’s report thereon
+
+The  directors  are  responsible  for  the  other  information.  The  other  information  comprises  all  the  information 
+included in the annual report, other than the consolidated financial statements and our auditor’s report thereon.
+
+Our  opinion  on  the  consolidated  financial  statements  does  not  cover  the  other  information  and  we  do  not 
+express any form of assurance conclusion thereon.
+
+In  connection  with  our  audit  of  the  consolidated  financial  statements,  our  responsibility  is  to  read  the  other 
+information  and,  in  doing  so,  consider  whether  the  other  information  is  materially  inconsistent  with  the 
+consolidated financial statements or our knowledge obtained in the audit or otherwise appears to be materially 
+misstated. 
+
+3
+
+If,  based  on  the  work  we  have  performed,  we  conclude  that  there  is  a  material  misstatement  of  this  other 
+information, we are required to report that fact. We have nothing to report in this regard.
+
+Responsibilities of the directors for the consolidated financial statements
+
+The directors are responsible for the preparation of the consolidated financial statements that give a true and fair 
+view in accordance with U.S. generally accepted accounting principles and the disclosure requirements of the 
+Hong Kong Companies Ordinance and for such internal control as the directors determine is necessary to enable 
+the  preparation  of  consolidated  financial  statements  that  are  free  from  material  misstatement,  whether  due  to 
+fraud or error.
+
+In preparing the consolidated financial statements, the directors are responsible for assessing the Group’s ability 
+to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going 
+concern basis of accounting unless the directors either intend to liquidate the Group or to cease operations, or 
+have no realistic alternative but to do so.
+
+The  directors  are  assisted  by  the  Audit  Committee  in  discharging  their  responsibilities  for  overseeing  the 
+Group’s financial reporting process.
+
+Auditor’s responsibilities for the audit of the consolidated financial statements
+
+Our  objectives  are  to  obtain  reasonable  assurance  about  whether  the  consolidated  financial  statements  as  a 
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that 
+includes our opinion.  This report is made solely to you, as a body, and for no other purpose.  We do not assume 
+responsibility towards or accept liability to any other person for the contents of this report.  
+
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance 
+with HKSAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or 
+error  and  are  considered  material  if,  individually  or  in  the  aggregate,  they  could  reasonably  be  expected  to 
+influence the economic decisions of users taken on the basis of these consolidated financial statements.  
+
+As part of an audit in accordance with HKSAs, we exercise professional judgement and maintain professional 
+skepticism throughout the audit. We also:
+
+•
+
+Identify and assess the risks of material misstatement of the consolidated financial statements, whether due 
+to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence 
+that  is  sufficient  and  appropriate  to  provide  a  basis  for  our  opinion.  The  risk  of  not  detecting  a  material 
+misstatement  resulting  from  fraud  is  higher  than  for  one  resulting  from  error,  as  fraud  may  involve 
+collusion, forgery, intentional omissions, misrepresentations or the override of internal control.
+
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are 
+appropriate in the circumstances but not for the purpose of expressing an opinion on the effectiveness of the 
+Group’s internal control.
+
+• Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and 
+
+related disclosures made by the directors.
+
+• Conclude on the appropriateness of the directors’ use of the going concern basis of accounting and, based 
+on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may 
+cast significant doubt on the Group’s ability to continue as a going concern. If we conclude that a material 
+uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the 
+
+4
+
+consolidated  financial  statements  or,  if  such  disclosures  are  inadequate,  to  modify  our  opinion.  Our 
+conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future 
+events or conditions may cause the Group to cease to continue as a going concern.
+
+• Evaluate the overall presentation, structure and content of the consolidated financial statements, including 
+the disclosures, and whether the consolidated financial statements represent the underlying transactions and 
+events in a manner that achieves fair presentation.
+
+•
+
+Plan  and  perform  the  group  audit  to  obtain  sufficient  appropriate  audit  evidence  regarding  the  financial 
+information  of  the  entities  or  business  units  within  the  Group  as  a  basis  for  forming  an  opinion  on  the 
+consolidated financial statements. We are responsible for the direction, supervision and review of the audit 
+work performed for purposes of the group audit. We remain solely responsible for our audit opinion.
+
+We communicate with the Audit Committee regarding, among other matters, the planned scope and timing of 
+the audit and significant audit findings, including any significant deficiencies in internal control that we identify 
+during our audit.
+
+We  also  provide  the  Audit  Committee  with  a  statement  that  we  have  complied  with  relevant  ethical 
+requirements regarding independence and communicate with them all relationships and other matters that may 
+reasonably be thought to bear on our independence and, where applicable, actions taken to eliminate threats or 
+safeguards applied.
+
+From  the  matters  communicated  with  the  Audit  Committee,  we  determine  those  matters  that  were  of  most 
+significance in the audit of the consolidated financial statements of the current period and are therefore the key 
+audit  matters.  We  describe  these  matters  in  our  auditor’s  report  unless  law  or  regulation  precludes  public 
+disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be 
+communicated  in  our  report  because  the  adverse  consequences  of  doing  so  would  reasonably  be  expected  to 
+outweigh the public interest benefits of such communication.
+
+The  engagement  partner  on  the  audit  resulting  in  this  independent  auditor’s  report  is  Lai,  Chi  Yin,  Frankie 
+(practising certificate number: P05676).
+
+KPMG
+Certified Public Accountants
+
+8th Floor, Prince’s Building
+10 Chater Road
+Central, Hong Kong
+March 27, 2026
+
+5
+
+CONSOLIDATED BALANCE SHEETS
+
+(in thousands of $, except for number of shares and per share data) 
+
+Assets
+
+Current assets
+
+Cash and cash equivalents
+
+Restricted cash, current
+
+Short-term investments
+
+Accounts receivable (net of allowance for credit losses of $31 and $25 as of December 31, 
+
+2025 and 2024, respectively)
+
+Notes receivable
+
+Inventories, net
+
+Prepayments and other current assets
+
+Total current assets
+
+Restricted cash, non-current
+
+Property and equipment, net
+
+Operating lease right-of-use assets
+
+Land use rights, net
+
+Intangible assets, net
+
+Deferred tax assets
+
+Other non-current assets
+
+Total assets
+
+Liabilities and shareholders’ equity
+
+Current liabilities
+
+Accounts payable
+
+Current operating lease liabilities
+
+Short-term debt
+
+Other current liabilities
+
+Total current liabilities
+
+Deferred income
+
+Non-current operating lease liabilities
+
+Other non-current liabilities
+
+Total liabilities
+
+Commitments and contingencies (Note 20)
+
+Shareholders’ equity
+
+Ordinary shares (par value of $0.000006 per share; 5,000,000,000 shares authorized; 
+
+1,113,822,550 and 1,082,614,740 shares issued as of December 31, 2025 and 2024, 
+respectively; 1,106,389,340 and 1,077,702,540 shares outstanding as of December 31, 
+2025 and 2024, respectively)
+
+Additional paid-in capital
+
+Accumulated deficit
+
+Accumulated other comprehensive income 
+
+Treasury stock (at cost 7,433,210 and 4,912,200 shares as of December 31, 2025 and 2024, 
+respectively)
+
+Total shareholders’ equity
+
+Total liabilities and shareholders’ equity
+
+December 31,
+
+Notes
+
+2025
+
+2024
+
+3
+
+4
+
+23
+
+5
+
+6
+
+7
+
+8
+
+10
+
+24
+
+7
+
+11
+
+12
+
+7
+
+679,573 
+
+100,000 
+
+10,000 
+
+106,116 
+
+12,169 
+
+74,745 
+
+36,683 
+
+449,667 
+
+100,000 
+
+330,000 
+
+85,178 
+
+4,233 
+
+39,875 
+
+41,527 
+
+1,019,286 
+
+1,050,480 
+
+1,116 
+
+47,389 
+
+19,152 
+
+2,853 
+
+76,144 
+
+3,390 
+
+3,054 
+
+1,114 
+
+47,961 
+
+21,496 
+
+2,907 
+
+56,027 
+
+— 
+
+5,768 
+
+1,172,384 
+
+1,185,753 
+
+141,608 
+
+6,344 
+
+204,530 
+
+63,684 
+
+416,166 
+
+27,333 
+
+13,385 
+
+— 
+
+456,884 
+
+100,906 
+
+8,048 
+
+131,711 
+
+58,720 
+
+299,385 
+
+31,433 
+
+13,712 
+
+325 
+
+344,855 
+
+7 
+
+3,343,469 
+
+(2,628,620) 
+
+29,697 
+
+(29,053) 
+
+715,500 
+
+7 
+
+3,264,295 
+
+(2,453,083) 
+
+50,515 
+
+(20,836) 
+
+840,898 
+
+1,172,384 
+
+1,185,753 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in thousands of $, except for number of shares and per share data)
+
+Revenues
+
+Product revenue, net
+
+Collaboration revenue
+
+Total revenues
+
+Expenses
+
+Cost of product revenue
+
+Cost of collaboration revenue
+
+Research and development
+
+Selling, general, and administrative
+
+Loss from operations
+
+Interest income
+
+Interest expenses
+
+Foreign currency gains (losses)
+
+Other income, net
+
+Loss before income tax
+
+Income tax benefit
+
+Net loss
+
+Loss per share — basic and diluted
+
+Weighted-average shares used in calculating net loss per ordinary 
+share — basic and diluted
+
+Notes
+
+2025
+
+2024
+
+Year Ended December 31,
+
+9
+
+17
+
+10
+
+13
+
+457,182 
+
+2,974 
+
+460,156 
+
+(190,520)   
+
+(561)   
+
+(220,904)   
+
+(277,605)   
+
+(229,434)   
+
+33,048 
+
+(5,209)   
+
+19,591 
+
+3,540 
+
+397,614 
+
+1,374 
+
+398,988 
+
+(147,118) 
+
+(742) 
+
+(234,504) 
+
+(298,741) 
+
+(282,117) 
+
+37,105 
+
+(2,254) 
+
+(15,137) 
+
+5,300 
+
+(178,464)   
+
+(257,103) 
+
+2,927 
+
+(175,537)   
+
+(0.16)   
+
+— 
+
+(257,103) 
+
+(0.26) 
+
+1,095,311,090 
+
+989,477,730 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+7
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+
+(in thousands of $) 
+
+Net loss
+
+Other comprehensive (loss) income, net of tax of nil:
+
+Foreign currency translation adjustments
+
+Comprehensive loss
+
+Year Ended December 31,
+
+2025
+
+2024
+
+(175,537)   
+
+(257,103) 
+
+(20,818)   
+
+(196,355)   
+
+12,889 
+
+(244,214) 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+8
+
+ 
+ 
+ 
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+
+(in thousands of $, except for number of shares)
+
+Balance at January 1, 2024
+
+Issuance of ordinary shares upon vesting of restricted shares
+
+Exercise of share options
+
+Issuance of ordinary shares upon follow-on public offering, net of 
+issuance cost of $2,277
+
+Share-based compensation
+
+Net loss
+
+Foreign currency translation
+
+Balance at December 31, 2024
+
+Issuance of ordinary shares upon vesting of restricted shares
+
+Exercise of share options
+
+Issuance cost of the follow-on public offering
+
+Receipt of shares netted to satisfy tax withholding obligations 
+
+related to share-based compensation
+
+Share-based compensation
+
+Net loss
+
+Foreign currency translation
+
+Balance at December 31, 2025
+
+Ordinary shares
+
+Number of
+Shares
+
+977,151,270
+
+10,120,260
+
+5,147,140
+
+90,196,070
+
+—
+
+—
+
+—
+
+1,082,614,740
+
+10,946,270
+
+20,261,540
+
+—  
+
+—  
+
+—  
+
+—  
+
+—  
+
+1,113,822,550
+
+Amount
+
+6 
+
+0 
+
+0 
+
+1 
+
+—  
+
+—  
+
+—  
+
+7 
+
+0 
+
+0 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+7 
+
+Additional
+paid
+in capital
+
+Accumulated
+deficit 
+
+Accumulated
+other
+comprehensive
+income
+
+Treasury stock 
+
+Number of
+Shares 
+
+Amount 
+
+Total 
+
+2,975,302 
+
+(2,195,980) 
+
+37,626 
+
+(4,912,200)
+
+(20,836) 
+
+796,118 
+
+0 
+
+3,269 
+
+215,073 
+
+70,651 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(257,103) 
+
+— 
+
+3,264,295 
+
+(2,453,083) 
+
+0 
+
+13,604 
+
+(28) 
+
+— 
+
+65,598 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(175,537) 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+12,889 
+
+50,515 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+—  
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(4,912,200) 
+
+(20,836) 
+
+—  
+
+—  
+
+— 
+
+— 
+
+— 
+
+— 
+
+(2,521,010)
+
+(8,217) 
+
+—  
+
+—  
+
+—  
+
+— 
+
+— 
+
+— 
+
+3,343,469 
+
+(2,628,620) 
+
+29,697 
+
+(7,433,210) 
+
+(29,053) 
+
+— 
+
+(20,818) 
+
+— 
+
+3,269 
+
+215,074 
+
+70,651 
+
+(257,103) 
+
+12,889 
+
+840,898 
+
+— 
+
+13,604 
+
+(28) 
+
+(8,217) 
+
+65,598 
+
+(175,537) 
+
+(20,818) 
+
+715,500 
+
+The accompanying notes are an integral part of these consolidated financial statements. “0” in above table means less than 1,000 dollars. 
+
+9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in thousands of $) 
+
+Cash flows from operating activities
+
+Net loss
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+Allowance for credit losses
+
+Inventory write-down
+
+Depreciation and amortization expenses
+
+Amortization of deferred income
+
+Share-based compensation
+Loss from fair value changes of equity investment with readily determinable fair 
+value
+
+Losses on disposal of property and equipment
+
+Noncash lease expenses
+
+Foreign currency remeasurement impact
+
+Amortization of debt issuance cost
+
+Changes in operating assets and liabilities:
+
+Accounts receivable
+
+Notes receivable
+
+Inventories
+
+Prepayments and other current assets
+
+Deferred tax assets
+
+Other non-current assets
+
+Accounts payable
+
+Other current liabilities
+
+Operating lease liabilities
+
+Deferred income
+
+Other non-current liabilities
+
+Net cash used in operating activities
+
+Cash flows from investing activities
+
+Purchases of short-term investments
+
+Proceeds from maturity of short-term investment
+
+Proceeds from the sale of equity investment
+
+Purchases of property and equipment
+
+Proceeds from the sale of property and equipment
+
+Acquisition of intangible assets
+
+Net cash provided by (used in) investing activities
+
+Cash flows from financing activities
+
+Proceeds from short-term debt
+
+Repayment of short-term bank borrowings
+
+Payments of debt issuance costs
+
+Proceeds from exercises of stock options
+
+Proceeds from issuance of ordinary shares upon public offerings
+
+Payments of public offering costs
+
+Taxes paid related to settlement of equity awards
+
+Net cash provided by financing activities
+
+Effect of foreign exchange rate changes on cash, cash equivalents and restricted cash
+
+Net increase (decrease) in cash, cash equivalents and restricted cash
+
+Cash, cash equivalents and restricted cash — beginning of the year
+
+Cash, cash equivalents and restricted cash — end of the year
+
+10
+
+Year Ended December 31,
+
+2025
+
+2024
+
+(175,537) 
+
+(257,103) 
+
+6 
+
+12,288 
+
+15,010 
+
+(5,340) 
+
+65,598 
+
+1,912 
+
+542 
+
+8,836 
+
+(19,591) 
+
+194 
+
+(18,932) 
+
+(7,716) 
+
+(47,028) 
+
+5,059 
+
+(3,336) 
+
+(374) 
+
+19,926 
+
+4,750 
+
+(7,476) 
+
+745 
+
+(325) 
+
+8 
+
+815 
+
+11,856 
+
+(3,520) 
+
+70,651 
+
+6,105 
+
+453 
+
+8,419 
+
+15,137 
+
+700 
+
+(26,975) 
+
+1,762 
+
+3,896 
+
+(18,729) 
+
+— 
+
+(1,442) 
+
+(2,209) 
+
+(22,022) 
+
+(9,259) 
+
+6,588 
+
+— 
+
+(150,789) 
+
+(214,869) 
+
+(10,000) 
+
+330,000 
+
+1,203 
+
+(8,101) 
+
+87 
+
+(5,323) 
+
+307,866 
+
+206,837 
+
+(138,893) 
+
+(194) 
+
+13,675 
+
+— 
+
+(854) 
+
+(8,218) 
+
+72,353 
+
+478 
+
+229,908 
+
+550,781 
+
+780,689 
+
+(330,000) 
+
+16,300 
+
+— 
+
+(5,657) 
+
+29 
+
+(55,865) 
+
+(375,193) 
+
+131,606 
+
+(284) 
+
+(700) 
+
+3,200 
+
+217,350 
+
+(1,283) 
+
+— 
+
+349,889 
+
+(310) 
+
+(240,483) 
+
+791,264 
+
+550,781 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supplemental disclosure of cash flow information
+
+Cash paid for interest
+
+Supplemental disclosure on non-cash investing and financing activities
+
+Payables for purchase of property and equipment
+
+Payables for acquisition of intangible assets
+
+Payables for public offering costs
+
+Right-of-use asset acquired under operating leases
+
+Receivables for stock option exercise under equity incentive plans
+
+Year Ended December 31,
+
+2025
+
+2024
+
+4,878 
+
+486 
+
+21,948 
+
+168 
+
+6,050 
+
+— 
+
+2,021 
+
+449 
+
+2,721 
+
+994 
+
+15,150 
+
+70 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+1.
+
+Organization and Principal Activities 
+
+Zai Lab Limited was incorporated on March 28, 2013 in the Cayman Islands as an exempted company with limited liability 
+under  the  Companies  Act  of  the  Cayman  Islands  (as  amended).  Zai  Lab  Limited  and  its  subsidiaries  are  focused  on 
+discovering, developing, and commercializing products that address medical conditions with significant unmet needs in the 
+areas of oncology, immunology, neuroscience, and infectious disease.
+
+The  Company’s  principal  operations  and  geographic  markets  are  in  Greater  China.  The  Company  has  a  substantial 
+presence in Greater China and the United States. 
+
+As of December 31, 2025, Zai Lab Limited had the following 17 subsidiaries: 
+
+Name of Company
+
+Place of
+Incorporation
+
+Particulars of Issued/
+Registered Capital
+
+Percentage of
+Ownership
+
+Principal Activities and Place of 
+Operation
+
+Zai Lab (Hong Kong) Limited
+
+Hong Kong
+
+HK$1
+
+100%
+
+Operating company for business 
+development and R&D activities and 
+commercialization of innovative 
+medicines and device; Hong Kong
+
+Investment holding
+
+Investment holding
+
+Investment holding
+
+Investment holding
+
+Investment holding
+
+Development and commercialization 
+of innovative medicines and devices; 
+mainland China
+
+Clinical trial activities; Australia
+
+Development and commercialization 
+of innovative medicines; mainland 
+China
+
+Development and commercialization 
+of innovative medicines; mainland 
+China
+
+Operating company for business 
+development, R&D activities and 
+certain business activities, including 
+legal, compliance and communication 
+functions of the Company; United 
+States
+
+Commercialization of innovative 
+medicines and devices; mainland 
+China
+
+Operating company for business 
+development and R&D activities; 
+Hong Kong
+
+No substantial business activities
+
+Commercialization of innovative 
+medicines and devices; Taiwan
+
+Commercialization of innovative 
+medicines; mainland China
+
+Development and commercialization 
+of innovative medicines; mainland 
+China
+
+ZLIP Holding Limited
+
+ZL Capital Limited
+
+ZL China Holding Two Limited
+
+Zai Anti Infectives Limited
+
+Zai Auto Immune Limited
+
+Zai Lab (Shanghai) Co., Ltd.
+
+Zai Lab (AUST) Pty. Ltd.
+
+Zai Lab (Suzhou) Co., Ltd.
+
+Zai Biopharmaceutical (Suzhou) Co., Ltd.
+
+Zai Lab (US) LLC
+
+Cayman Islands
+
+British Virgin 
+Islands
+
+Hong Kong
+
+Cayman Islands
+
+Cayman Islands
+
+$1
+
+$1
+
+HK$1
+
+$1
+
+$1
+
+$466,500,000
+
+A$100
+
+RMB166,500,000
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+$15,000,000
+
+100%
+
+$1
+
+100%
+
+Mainland
+China*
+
+Australia
+
+Mainland
+China*
+
+Mainland
+China*
+
+United
+States
+
+Zai Lab International Trading (Shanghai) 
+Co., Ltd.
+
+Mainland
+China*
+
+RMB1,000,000
+
+100%
+
+Zai Auto Immune (Hong Kong) Limited
+
+Hong Kong
+
+HK$100
+
+100%
+
+100%
+
+100%
+
+100%
+
+RMB10,000,000#
+
+$10,000,000
+
+100%
+
+Zai Anti Infectives (Hong Kong) Limited
+
+Hong Kong
+
+HK$100
+
+Zai Lab (Taiwan) Limited
+
+Taiwan
+
+TWD1,000,000
+
+Zai Lab Trading (Suzhou) Co., Ltd.
+
+Zai Lab (Zhejiang) Co., Ltd.
+
+Mainland
+China*
+
+Mainland
+China*
+
+* Limited liability company established in mainland China.
+
+# Out of RMB10,000,000 registered capital, RMB1,000,000 is paid up.
+
+12
+
+2. 
+
+Summary of Significant Accounting Policies 
+
+(a) Basis of Presentation 
+
+The consolidated financial statements have been prepared in accordance with U.S. GAAP. Significant accounting policies 
+followed by the Company in the preparation of the accompanying consolidated financial statements are summarized below. 
+
+(b) Principles of Consolidation
+
+The  consolidated  financial  statements  include  the  accounts  of  Zai  Lab  Limited  and  its  subsidiaries,  which  are  wholly 
+owned. All intercompany transactions and balances are eliminated upon consolidation.
+
+(c) Use of Estimates 
+
+The  preparation  of  the  consolidated  financial  statements  in  conformity  with  U.S.  GAAP  requires  management  to  make 
+estimates,  judgments,  and  assumptions  that  affect  the  reported  amounts  of  assets  and  liabilities  and  disclosures  of 
+contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses 
+during the period. Areas where management uses subjective judgment include, but are not limited to, accrual of rebates, 
+recognition of research and development expenses based on the Company’s estimates of the actual services performed by 
+CROs and CMOs, fair value of share-based compensation expenses, recoverability of deferred tax assets, and useful life of 
+intangible assets for commercial products. These estimates, judgments, and assumptions can affect the reported amounts of 
+assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses 
+during the periods presented. Actual results could differ from these estimates. 
+
+(d) Foreign Currency Translation 
+
+The  functional  currency  of  Zai  Lab  Limited,  Zai  Lab  (Hong  Kong)  Limited,  Zai  Lab  (US)  LLC,  and  Zai  Auto  Immune 
+(Hong  Kong)  Limited  are  $.  The  Company’s  subsidiaries  in  mainland  China  determined  their  functional  currency  to  be 
+RMB. The Company’s subsidiary in Australia determined its functional currency to be A$. The Company’s subsidiary in 
+Taiwan determined its functional currency to be TWD. The determination of the respective functional currency is based on 
+the criteria of ASC 830, Foreign Currency Matters. The Company uses the U.S. dollar as its reporting currency. 
+
+Assets and liabilities are translated from each entity’s functional currency to the reporting currency at the exchange rate on 
+the balance sheet date. Equity amounts are translated at historical exchange rates. Revenues, expenses, gains, and losses are 
+translated  using  the  average  rate  for  the  period  presented.  The  resulted  foreign  currency  translation  adjustments  are 
+recorded  as  a  component  of  other  comprehensive  loss  in  the  consolidated  statements  of  comprehensive  loss,  and  the 
+accumulated  foreign  currency  translation  adjustments  are  recorded  as  a  component  of  accumulated  other  comprehensive 
+income in the consolidated statements of shareholders’ equity.
+
+Monetary assets and liabilities denominated in currencies other than the applicable functional currencies are translated into 
+the functional currencies at the prevailing rates of exchange at the balance sheet date.
+
+Non-monetary  assets  and  liabilities  are  translated  into  the  applicable  functional  currencies  at  historical  exchange  rates. 
+Transactions in currencies other than the applicable functional currencies during the year are converted into the functional 
+currencies  at  the  applicable  rates  of  exchange  prevailing  at  the  transaction  dates.  Transaction  gains  and  losses  are 
+recognized in the consolidated statements of operations. 
+
+(e) Cash, Cash Equivalents, and Restricted Cash 
+
+Cash and Cash Equivalents 
+
+The Company considers all highly liquid investments purchased with original maturities of three months or less to be cash 
+equivalents. Cash and cash equivalents consist primarily of cash on hand, demand deposits, and highly liquid investments 
+with maturity of less than three months and are stated at cost, which approximates fair value. 
+
+13
+
+Restricted Cash 
+
+Restricted cash mainly consists of bank deposits held as collateral for issuances of letters of credit for the Company’s loan 
+facility.
+
+(f) Short-Term Investments 
+
+Short-term  investments  are  time  deposits  with  original  maturities  between  three  months  and  one  year.  Short-term 
+investments are stated at cost, which approximates fair value. Interest earned is included in interest income. 
+
+(g) Accounts Receivable 
+
+The Company’s accounts receivable arise from product sales and represent amounts due from its customers. From January 
+1, 2020, the Company adopted the ASU 2016-13, Credit Losses, Measurement of Credit Losses on Financial Instruments. 
+Accounts receivable are recorded at the amounts net of allowances for credit losses. The allowance for credit losses reflects 
+the  Company’s  current  estimate  of  credit  losses  expected  to  be  incurred  over  the  life  of  the  receivables.  The  Company 
+considers various factors in establishing, monitoring, and adjusting its allowance for credit losses including the aging of 
+receivables  and  aging  trends,  customer  creditworthiness,  and  specific  exposures  related  to  particular  customers.  The 
+Company also monitors other risk factors and forward-looking information, such as country-specific risks and economic 
+factors  that  may  affect  a  debtor’s  ability  to  pay  in  establishing  and  adjusting  its  allowance  for  credit  losses.  Accounts 
+receivable are written off when deemed uncollectible.
+
+(h) Notes Receivable 
+
+Notes receivable are equal to contractual amounts owed from signed, secured promissory notes issued from customers to 
+the  Company.  The  Company  considers  the  notes  receivable  to  be  fully  collectible.  Accordingly,  no  allowance  for  credit 
+loss has been established as of December 31, 2025 and 2024.   
+
+(i) Inventories 
+
+Inventories are stated at the lower of cost or net realizable value, with cost determined on a weighted average basis. The 
+Company periodically reviews the composition of inventory and shelf life of inventory to identify obsolete, slow-moving, 
+or  otherwise  non-saleable  items.  The  Company  will  record  a  write-down  to  its  net  realizable  value  in  cost  of  product 
+revenue in the period that the decline in value is first identified. 
+
+(j) Property and Equipment 
+
+Property and equipment are stated at cost, less accumulated depreciation. Depreciation is computed using the straight-line 
+method over the estimated useful lives of the respective assets as follows:
+
+Office equipment
+
+Electronic equipment
+
+Vehicles
+
+Laboratory equipment
+
+Manufacturing equipment
+
+Leasehold improvements
+
+Building
+
+Useful life
+
+3 years
+
+1.25-3 years
+
+4 years
+
+5 years
+
+10 years
+
+lesser of useful life or lease term
+
+20 years
+
+Construction  in  progress  represents  property  and  equipment  under  construction  and  pending  installation  and  is  stated  at 
+cost less impairment losses, if any. 
+
+14
+
+(k) Leases
+
+The  Company  leases  facilities  for  its  offices,  research  and  development  center,  and  manufacturing  facilities  in  mainland 
+China, Hong Kong, Taiwan and the United States. On January 1, 2019, the Company adopted ASC 842, using the modified 
+retrospective transition approach by applying the new standard to all leases existing at the date of initial application and not 
+restating historical periods before the adoption date. 
+
+The Company assessed whether an arrangement contains a lease at inception. The Company’s leases are all classified as 
+operating  leases  with  fixed  lease  payments,  or  minimum  payments,  as  contractually  stated  in  the  lease  agreements.  The 
+Company’s leases do not contain any material residual value guarantees or material restrictive covenants. 
+
+Operating  leases  are  included  in  operating  lease  right-of-use  assets  and  operating  lease  liabilities  in  the  consolidated 
+balance sheets. Operating lease liabilities that become due within one year of the balance sheet date are classified as current 
+operating lease liabilities. Operating lease expense is recognized on a straight-line basis over the lease term.  
+
+At the commencement date of a lease, the Company recognizes a lease liability for future fixed lease payments and a ROU 
+asset representing the right to use the underlying asset during the lease term. The lease liability is initially measured as the 
+present value of the future fixed lease payments that will be made over the lease term. The lease term includes periods for 
+which the Company is reasonably certain that the renewal options will be exercised and the termination options will not be 
+exercised. The Company uses its incremental borrowing rate based on the information available at the commencement date 
+in  determining  the  lease  liabilities  as  the  Company’s  leases  generally  do  not  provide  an  implicit  rate.  The  incremental 
+borrowing rate is reevaluated upon a lease modification. The Company considered information available at the adoption 
+date of ASC 842 to determine the incremental borrowing rate for leases in existence as of this date.
+
+The ROU asset is measured at the amount of the lease liability with adjustments, if applicable, for lease prepayments made 
+prior  to  or  at  lease  commencement,  initial  direct  costs  incurred  by  the  Company,  and  lease  incentives.  Under  ASC  842, 
+land use rights agreements are also considered to be operating lease contracts.
+
+The  Company  elected  to  apply  each  of  the  practical  expedients  described  in  ASC  842  which  allow  companies  (i)  not  to 
+reassess  prior  conclusions  on  whether  any  expired  or  existing  contracts  are  or  contain  a  lease,  lease  classification,  and 
+initial  direct  costs  upon  adoption  of  ASC  842,  (ii)  combine  lease  and  non-lease  components  for  all  underlying  assets 
+groups, and (iii) not recognize ROU assets or lease liabilities for short term leases. A short-term lease is a lease that, at the 
+commencement date, has a lease term of 12 months or less and does not include an option to purchase the underlying asset 
+that the lessee is reasonably certain to exercise.
+
+(l) Land Use Rights 
+
+All  land  in  mainland  China  is  subject  to  government  or  collective  ownership.  Land  use  rights  can  be  purchased  for  a 
+specified period of time. The purchase price of land use rights represents the operating lease prepayments under ASC 842 
+and is recorded as land use rights on the consolidated balance sheet, which is amortized over the remaining lease term.
+
+The  Company  acquired  land  use  rights  in  2019  for  a  term  of  30  years  from  the  local  Bureau  of  Land  and  Resources  in 
+Suzhou for the purpose of constructing and operating a research center and biologics manufacturing facility in Suzhou. In 
+2023, the Company returned a portion of the land use rights and received cash in an amount equal to the respective portion 
+of the original acquisition cost.
+
+(m) Long-Term Deposits 
+
+Long-term deposits represent amounts paid in connection with the Company’s long-term lease agreements. 
+
+(n)  Intangible Assets 
+
+Intangible  assets  for  commercial  products  include  capitalized  post-approval  milestone  fees  and  acquired  commercial 
+manufacturing  know-how  and  related  development  costs.  The  Company  is  amortizing  intangible  assets  for  commercial 
+
+15
+
+products  as  cost  of  product  revenue  over  the  estimated  remaining  useful  life  of  the  related  products,  which  is  generally 
+based on expected patent life, the contractual period of the underlying license agreement, and expected commercial benefits 
+of the products. Intangible assets for externally purchased software are amortized over three to five years on a straight-line 
+basis. 
+
+(o) Impairment of Long-Lived Assets 
+
+The Company evaluates long-lived assets, which includes intangible assets, tangible assets, and ROU assets for impairment 
+whenever  events  or  changes  in  circumstances  indicate  that  the  carrying  value  of  these  assets  may  not  be  recoverable. 
+Recoverability  of  these  assets  is  measured  by  comparison  of  the  carrying  amount  of  the  related  asset  group  to  its  future 
+undiscounted cash flows. The Company measures the amount of impairment, if any, based on the difference between the 
+carrying value and the estimated fair value of the impaired asset group. 
+
+(p) Fair Value Measurements 
+
+The  Company  applies  ASC  820  in  measuring  fair  value.  ASC  820  defines  fair  value,  establishes  a  framework  for 
+measuring fair value, and requires disclosures to be provided on fair value measurement. 
+
+ASC 820 establishes a three-tier fair value hierarchy, which prioritizes the inputs used in measuring fair value as follows: 
+
+Level 1 — Observable inputs that reflect quoted prices (unadjusted) for identical assets or liabilities in active markets.
+
+Level 2 — Include other inputs that are directly or indirectly observable in the marketplace. 
+
+Level 3 — Unobservable inputs which are supported by little or no market activity. 
+
+ASC  820  describes  three  main  approaches  to  measuring  the  fair  value  of  assets  and  liabilities:  (i)  market  approach;  (ii) 
+income approach; and (iii) cost approach. The market approach uses prices and other relevant information generated from 
+market transactions involving identical or comparable assets or liabilities. The income approach uses valuation techniques 
+to convert future amounts to a single present value amount. The measurement is based on the value indicated by current 
+market expectations about those future amounts. The cost approach is based on the amount that would currently be required 
+to replace an asset. 
+
+Financial  instruments  of  the  Company  primarily  include  cash  and  cash  equivalents,  current  restricted  cash,  short-term 
+investments,  accounts  receivable,  notes  receivable,  prepayments  and  other  current  assets,  non-current  restricted  cash, 
+accounts payable, short-term debt, and other current liabilities. As of December 31, 2025 and 2024, the carrying values of 
+cash  and  cash  equivalents,  current  restricted  cash,  short-term  investments,  accounts  receivable,  prepayments  and  other 
+current assets, accounts payable, short-term debt, and other current liabilities approximated their fair value due to the short-
+term maturity of these instruments, and the carrying value of notes receivable and non-current restricted cash approximated 
+their fair value based on the assessment of the ability to recover these amounts. 
+
+(q) Revenue Recognition
+
+In  2018,  the  Company  adopted  ASC  606.  Under  ASC  606,  the  Company  recognizes  revenue  when  its  customer  obtains 
+control of promised goods or services, in an amount that reflects the consideration expected to be received in exchange for 
+those goods or services. To determine revenue recognition for arrangements that the Company determines are within the 
+scope of ASC 606, the Company performs the following five steps: (i) identify the contract(s) with a customer; (ii) identify 
+the performance obligations in the contract; (iii) determine the transaction price, including variable consideration, if any; 
+(iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) the 
+Company  satisfies  a  performance  obligation.  The  Company  only  applies  the  five-step  model  to  contracts  when  it  is 
+probable  that  the  Company  will  collect  the  consideration  to  which  it  is  entitled  in  exchange  for  the  goods  or  services  it 
+transfers  to  the  customer.  Once  a  contract  is  determined  to  be  within  the  scope  of  ASC  606  at  contract  inception,  the 
+Company reviews the contract to determine which performance obligations it must deliver and which of these performance 
+
+16
+
+obligations are distinct. The Company recognizes as revenue the amount of the transaction price that is allocated to each 
+performance obligation when that performance obligation is satisfied or as it is satisfied.
+
+The  Company’s  revenue  is  mainly  from  product  sales.  The  Company  recognizes  revenue  from  product  sales  when  the 
+Company has satisfied the performance obligation by transferring control of the product to the customers. Control of the 
+product  generally  transfers  to  the  customers  when  the  delivery  is  made  and  when  title  and  risk  of  loss  transfers  to  the 
+consumers. Cost of product revenue mainly consists of the acquisition cost of products, the manufacturing cost of products, 
+royalty fees, and amortization of intangible assets for commercial products. 
+
+The Company has applied the practical expedients under ASC 606 with regard to assessment of the financing component 
+and  concluded  that  there  is  no  significant  financing  component  given  that  the  period  between  delivery  of  goods  and 
+payment is generally one year or less. 
+
+In  mainland  China,  the  Company  sells  these  products  to  distributors,  who  ultimately  sell  the  products  to  health  care 
+providers.  Based  on  the  nature  of  the  arrangements,  the  performance  obligations  are  satisfied  upon  the  delivery  of  the 
+products  to  distributors.  Rebates  are  offered  to  distributors,  consistent  with  pharmaceutical  industry  practices.  The 
+estimated  amount  of  unpaid  or  unbilled  rebates,  if  any,  are  recorded  as  a  reduction  of  revenue.  Estimated  rebates  are 
+determined  based  on  contracted  rates  and  sales  volumes  and  to  a  lesser  extent,  distributor  inventories.  The  Company 
+regularly reviews the information related to these estimates and adjusts the amount accordingly. 
+
+In Hong Kong, the Company sells the products to customers, which are typically healthcare providers such as oncology 
+centers.  The  Company  utilizes  a  third  party  for  warehousing  services.  Based  on  the  nature  of  the  arrangements,  the 
+Company has determined that it is a principal in the transaction since the Company is primarily responsible for fulfilling 
+the  promise  to  provide  the  products  to  the  customers,  maintains  inventory  risk  until  delivery  to  the  customers,  and  has 
+latitude  in  establishing  the  price.  Revenue  is  recognized  upon  delivery  to  customers  at  mutually  agreed  upon  prices. 
+Consideration paid to the third party is recognized in operating expenses. With respect to XACDURO, the Company sells 
+the  product  to  Pfizer  under  a  strategic  collaboration  arrangement,  and  Pfizer  is  responsible  for  sales  of  XACDURO  to 
+distributors in mainland China. Under this arrangement, Pfizer is the Company’s customer and revenue is recognized upon 
+delivery of XACDURO to Pfizer at the contractually agreed prices.
+
+The Company did not recognize any contract assets or contract liabilities as of December 31, 2025 and 2024.
+
+(r) Collaborative Arrangements 
+
+The  Company  analyzes  its  collaboration  arrangements  to  assess  whether  such  arrangements  involve  joint  operating 
+activities performed by parties that are both active participants in the activities and exposed to significant risks and rewards 
+dependent  on  the  commercial  success  of  such  activities  and  therefore  within  the  scope  of  ASC  808.  This  assessment  is 
+performed throughout the life of the arrangement based on changes in the responsibilities of all parties in the arrangement. 
+
+For collaboration arrangements within the scope of ASC 808 that contain multiple elements, the Company first determines 
+which elements of the collaboration are deemed to be within the scope of ASC 808 and which elements of the collaboration 
+are  more  reflective  of  a  vendor-customer  relationship  and  therefore  within  the  scope  of  ASC  606.  For  elements  of 
+collaboration arrangements that are accounted for pursuant to ASC 808, an appropriate recognition method is determined 
+and applied consistently. 
+
+(s) Research and Development Expenses 
+
+Elements of research and development expenses primarily include (i) payroll and other related costs of personnel engaged 
+in  research  and  development  activities;  (ii)  in-licensed  patent  rights  fees  for  exclusive  development  rights  for  products 
+granted to the Company; (iii) costs related to pre-clinical testing of the Company’s technologies under development and 
+clinical trials such as payments to CROs and CMOs, investigators, and clinical trial sites that conduct its clinical studies; 
+(iv)  costs  to  develop  the  product  candidates,  including  raw  materials  and  supplies,  product  testing,  depreciation,  and 
+facility-related  expenses;  and  (v)  other  research  and  development  expenses.  Research  and  development  expenses  are 
+
+17
+
+charged  to  expense  as  incurred  when  they  have  no  alternative  future  uses.  Liabilities  related  to  third-party  research  and 
+development expenses are primarily included in accounts payable on the consolidated balance sheet.
+
+The Company has acquired rights to develop and commercialize certain product candidates. Upfront payments that relate to 
+the acquisition of a new product compound, as well as pre-commercial milestone payments, are immediately expensed as 
+acquired  in-process  research  and  development  in  the  period  in  which  they  are  incurred,  provided  that  the  new  product 
+compound does not also include processes or activities that would constitute a “business” as defined under U.S. GAAP. 
+Milestone payments made to third parties subsequent to regulatory approval which meet the capitalization criteria would be 
+capitalized  as  intangible  assets  and  amortized  over  the  estimated  remaining  useful  life  of  the  related  product,  which  is 
+generally  based  on  expected  patent  life,  the  contractual  period  of  the  underlying  license  agreement,  and  expected 
+commercial benefits of the products. 
+
+(t) Deferred Income 
+
+Deferred income is mainly related to upfront payments received from collaborative partners and government grants.
+
+The Company received certain upfront payments from collaborative partners, which are being amortized over the terms of 
+the contracts. The Company had $27.3 million and $30.7 million in deferred income related to the upfront payments as of 
+December 31, 2025 and 2024, respectively.
+
+Government  grants  consist  of  cash  subsidies  received  by  the  Company’s  subsidiaries  in  mainland  China  from  local 
+governments  for  conducting  business  in  certain  local  districts.  Grant  received  before  the  fulfillment  of  government 
+specified  performance  obligations  is  recorded  into  deferred  income.  When  the  performance  obligations  are  satisfied,  the 
+Company records the grants into other income, net. The Company had nil and $0.7 million of deferred income related to 
+government grants as of December 31, 2025 and 2024, respectively. 
+
+(u) Share-Based Compensation 
+
+The  Company  grants  share  options  and  non-vested  restricted  shares  to  eligible  employees,  non-employees,  and  directors 
+and accounts for these share-based awards in accordance with ASC 718.
+
+The Company estimates the fair value of stock options using the Black-Scholes option-pricing model. The grant-date fair 
+value of non-vested restricted shares is the market value of the underlying stock on the award’s grant date. 
+
+  The  Company  has  elected  to  use  the  straight-line  method  to  recognize  compensation  expenses  for  share  awards  with 
+graded  vesting  based  on  service  conditions,  provided  that  the  minimum  amount  of  cumulative  compensation  expense 
+recognized is not less than the portion of the award vested to date. For share-based awards with service conditions only, the 
+Company recognizes expenses (i) immediately at grant date if no vesting conditions are required; or (ii) using a straight-
+line  method  over  the  requisite  service  period,  which  is  the  vesting  period,  if  vesting  conditions  are  required.  For  share-
+based  awards  containing  performance  conditions,  the  Company  recognizes  expenses  based  on  the  estimated  number  of 
+performance-based  awards  expected  to  vest  using  the  graded  vesting  attribution  method.  The  Company  accounts  for  the 
+effect of forfeitures as they occur.
+
+(v) Income Taxes 
+
+Income tax expense includes (i) deferred tax expense, which generally represents the net change in the deferred tax asset or 
+liability  balance  during  the  year  plus  any  change  in  valuation  allowances;  (ii)  current  tax  expense,  which  represents  the 
+amount  of  tax  currently  payable  to  or  receivable  from  a  taxing  authority;  and  (iii)  non-current  tax  expense,  which 
+represents the increases and decreases in amounts related to uncertain tax positions from prior periods and not settled with 
+cash or other tax attributes.
+
+The Company recognizes deferred tax assets and liabilities for temporary differences between the financial statement and 
+income tax bases of assets and liabilities, which are measured using enacted tax rates and laws that will be in effect when 
+
+18
+
+the differences are expected to reverse. A valuation allowance is provided when it is more likely than not that some portion 
+or all of a deferred tax asset will not be realized. 
+
+The Company evaluates its uncertain tax positions using the provisions of ASC 740, which requires that realization of an 
+uncertain  income  tax  position  be  recognized  in  the  financial  statements.  The  benefit  to  be  recorded  in  the  financial 
+statements is the amount most likely to be realized assuming a review by tax authorities having all relevant information and 
+applying  current  conventions.  It  is  the  Company’s  policy  to  recognize  interest  and  penalties  related  to  unrecognized  tax 
+benefits, if any, as a component of income tax expense. 
+
+(w) Loss Per Share 
+
+Basic  loss  per  ordinary  share  is  computed  by  dividing  net  loss  attributable  to  ordinary  shareholders  by  the  weighted 
+average number of ordinary shares outstanding during the period. 
+
+Diluted loss per ordinary share reflects the potential dilution that could occur if securities were exercised or converted into 
+ordinary shares. The Company had stock options and non-vested restricted shares, which could potentially dilute basic loss 
+per share in the future. To calculate the number of shares for diluted loss per share, the effect of the stock options and non-
+vested restricted shares is computed using the treasury stock method. The computation of diluted loss per share does not 
+assume exercise or conversion of securities that would have an anti-dilutive effect. 
+
+(x) Comprehensive Loss 
+
+Comprehensive loss is defined as the changes in equity of the Company during a period from transactions and other events 
+and circumstances excluding transactions resulting from investments by owners and distributions to owners. For each of 
+the periods presented, the Company’s comprehensive loss includes net loss and foreign currency translation adjustments, 
+which are presented in the consolidated statements of comprehensive loss.  
+
+(y) Concentration of Risks
+
+Concentration of Customers 
+
+In 2025 and 2024, the Company’s five largest customers accounted for approximately $151.5 million (33.1%) and $128.7 
+million  (32.4%)  of  the  product  revenue,  respectively.  One  customer  accounted  for  approximately  $77.9  million  (17.0%) 
+and $67.3 million (16.9%) of the product revenue, respectively for the same periods. 
+
+Concentration of Suppliers
+
+In 2025, one supplier accounted for approximately $48.8 million (10.5%) of the total purchases. The Company had no such 
+supplier that accounted for more than 10% of the total purchases in 2024.
+
+Concentration of Credit Risk 
+
+Financial  instruments  that  are  potentially  subject  to  significant  concentration  of  credit  risk  consist  of  cash  and  cash 
+equivalents, restricted cash, short-term investments, accounts receivable, and notes receivable. 
+
+As of December 31, 2025 and 2024, all of the Company’s cash and cash equivalents and short-term investments were held 
+by major financial institutions located in mainland China and international financial institutions outside of mainland China 
+which  management  believes  are  of  high  credit  quality  and  continually  monitors  the  credit  worthiness  of  these  financial 
+institutions.
+
+Accounts  receivable  are  typically  unsecured  and  are  derived  from  product  sales.  The  Company  manages  credit  risk  of 
+accounts receivable through ongoing monitoring of outstanding balances and limits the amount of credit extended based 
+upon  payment  history  and  credit  worthiness.  Historically,  the  Company  has  collected  receivables  from  customers  within 
+the credit terms with no significant credit losses incurred. One customer accounted for 10% or more of accounts receivable, 
+with $15.5 million and $16.7 million as of December 31, 2025 and 2024, respectively.  
+
+19
+
+Certain  accounts  receivable  balances  may  be  settled  in  the  form  of  notes  receivable.  As  of  December  31,  2025,  notes 
+receivable represented bank acceptance promissory notes that are non-interest bearing and due within six months. Notes 
+receivable  were  used  to  collect  the  receivables  based  on  an  administrative  convenience,  given  these  notes  are  readily 
+convertible to be known amounts of cash. In accordance with the sales agreements, whether to use cash or bank acceptance 
+promissory  notes  to  settle  the  receivables  is  at  the  Company’s  discretion,  and  this  selection  does  not  impact  the  agreed 
+contractual purchase prices. 
+
+The Company’s other receivables were primarily due from its partners, which have good credit ratings. The credit risk for 
+other receivables was generally very low. 
+
+Foreign Currency Risk 
+
+RMB  is  not  a  freely  convertible  currency.  The  State  Administration  of  Foreign  Exchange,  under  the  authority  of  the 
+People’s Bank of China, controls the conversion of RMB into foreign currencies. The value of RMB is subject to changes 
+in central government policies and to international economic and political developments affecting supply and demand in 
+the China Foreign Exchange Trading System market. The cash and cash equivalents of the Company included aggregated 
+amounts  denominated  in  RMB  of  $25.4  million  and  $19.0  million,  as  of  December  31,  2025  and  2024,  respectively, 
+representing 4% and 4% of the cash and cash equivalents as of December 31, 2025 and 2024, respectively. 
+
+(z) Recent Accounting Pronouncements 
+
+Recently Issued Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—Expense 
+Disaggregation  Disclosures  (Subtopic  220-40):  Disaggregation  of  Income  Statement  Expenses.  This  ASU  requires 
+disclosure,  in  the  notes  to  the  financial  statements,  of  specified  information  about  certain  costs  and  expenses.  This  ASU 
+will be effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning 
+after  December  15,  2027.  Early  adoption  is  permitted.  This  ASU  will  result  in  the  required  additional  disclosures  being 
+included in the notes to consolidated financial statements, once adopted. The Company is currently evaluating the impact 
+of this ASU and expects to adopt it for the year ending December 31, 2027.
+
+Recently Adopted Accounting Standards 
+
+In December 2023, the FASB issued ASU No. 2023-09, Improvements to Income Tax Disclosures (Topic 740). This ASU 
+requires  disaggregated  information  about  a  reporting  entity’s  effective  tax  rate  reconciliation  as  well  as  additional 
+information  on  income  taxes  paid.  This  ASU  is  effective  on  a  prospective  basis  for  annual  periods  beginning  after 
+December 15, 2024. Early adoption is permitted. The Company adopted this ASU for the year ended December 31, 2025 
+prospectively, and disclosed additional descriptive information as required under ASC 740 (see Note 10).
+
+20
+
+3. 
+
+Cash and Cash Equivalents 
+
+The following table presents the Company’s cash and cash equivalents ($ in thousands):
+
+Cash
+
+Cash equivalents (i)
+
+Denominated in:
+
+US$
+
+RMB (ii)
+
+HK$
+
+A$
+
+TWD
+
+December 31,
+
+2025
+
+2024
+
+678,358 
+
+1,215 
+
+679,573 
+
+651,196 
+
+25,358 
+
+2,020 
+
+538 
+
+461 
+
+448,508 
+
+1,159 
+
+449,667 
+
+429,887 
+
+18,979 
+
+114 
+
+522 
+
+165 
+
+679,573 
+
+449,667 
+
+(i)
+
+(ii)
+
+Cash equivalents represent short-term and highly liquid investments in a money market fund. 
+
+Certain cash and bank balances denominated in RMB were deposited with banks in mainland China. The conversion 
+of these RMB-denominated balances into foreign currencies is subject to the rules and regulations of foreign 
+exchange control promulgated by the Chinese government. 
+
+4. 
+
+Short-Term Investments
+
+Short-term  investments  are  primarily  comprised  of  time  deposits  with  original  maturities  between  three  months  and  one 
+year.  The  short-term  investments  balance  was  $10.0  million  and  $330.0  million  as  of  December  31,  2025  and  2024, 
+respectively. No allowance for credit loss was recorded as of December 31, 2025 and 2024. 
+
+5. 
+
+Inventories, Net
+
+The following table presents the Company’s inventories, net ($ in thousands):
+
+Finished goods
+
+Raw materials
+Work in progress
+
+Inventories, net
+
+December 31,
+
+2025
+
+2024
+
+45,848 
+
+23,106 
+5,791 
+
+74,745 
+
+24,063 
+
+13,268 
+2,544 
+
+39,875 
+
+The  Company  writes  down  inventory  for  any  excess  or  obsolete  inventory  or  when  the  Company  believes  that  the  net 
+realizable value of inventory is less than the carrying value. The Company recorded write-downs in inventory, which were 
+included in cost of product revenue, of $12.3 million and $0.8 million in 2025 and 2024, respectively. The inventory write-
+down in 2025 was mainly related to VYVGART Hytrulo in the fourth quarter.
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. 
+
+Property and Equipment, Net 
+
+The following table presents the components of the Company’s property and equipment, net ($ in thousands):
+
+Office equipment
+
+Electronic equipment
+
+Vehicle
+
+Laboratory equipment
+
+Manufacturing equipment
+
+Leasehold improvements
+
+Building
+
+Construction in progress
+
+Less: accumulated depreciation
+
+Property and equipment, net
+
+December 31,
+
+2025
+
+2024
+
+1,201 
+
+10,964 
+
+200 
+
+20,040 
+
+17,948 
+
+14,049 
+
+24,596 
+
+554 
+
+89,552 
+
+1,230 
+
+9,211 
+
+196 
+
+20,516 
+
+17,493 
+
+11,306 
+
+— 
+
+25,129 
+
+85,081 
+
+(42,163)   
+
+47,389 
+
+(37,120) 
+
+47,961 
+
+Depreciation expense was $9.1 million and $8.6 million for 2025 and 2024, respectively.
+
+7. 
+
+Leases
+
+The  Company  leases  facilities  for  its  offices,  research  and  development  center,  and  manufacturing  facilities  in  mainland 
+China,  Hong  Kong,  Taiwan,  and  the  United  States.  Lease  terms  vary  based  on  the  nature  of  operations  and  market 
+dynamics; however, all leased facilities are classified as operating leases with remaining lease terms between one and seven 
+years. 
+
+The  following  table  presents  operating  lease  costs  ($  in  thousands).  Total  lease  expense  related  to  short-term  leases  was 
+insignificant for those periods presented.
+
+Operating fixed lease cost
+
+Year Ended December 31,
+
+2025
+
+2024
+
+9,339 
+
+8,751 
+
+The following table presents operating cash flows related to leases ($ in thousands):
+
+Cash paid for amounts included in measurement of lease liabilities
+
+Non-cash operating lease liabilities arising from obtaining operating 
+
+right-of-use assets
+
+Year Ended December 31,
+
+2025
+
+2024
+
+8,692 
+
+6,050 
+
+8,831 
+
+15,150 
+
+22
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The maturities of lease liabilities in accordance with ASC 842 in each of the next five years and thereafter were as follows 
+($ in thousands): 
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+Thereafter
+
+Total lease payments
+
+Less: imputed interest
+
+Present value of minimum operating lease payments
+
+Weighted-average remaining lease terms and discount rates were as follows: 
+
+Weighted-average remaining lease term
+
+Weighted-average discount rate
+
+8. Intangible Assets, Net 
+
+Year Ended
+December 31, 2025
+
+6,598 
+
+5,655 
+
+4,477 
+
+2,875 
+
+512 
+
+322 
+
+20,439 
+
+(710) 
+
+19,729 
+
+December 31,
+
+2025
+
+3.5 years
+
+ 3.2 %
+
+2024
+
+3.7 years
+
+ 3.4 %
+
+The following table presents the components of the Company’s intangible assets, net ($ in thousands):
+
+As of December 31,
+
+2025
+
+2024
+
+Gross Carrying 
+Amount
+
+Accumulated 
+Amortization
+
+Net Carrying 
+Value
+
+Gross Carrying 
+Amount
+
+Accumulated 
+Amortization
+
+Net Carrying 
+Value
+
+Finite-lived intangible assets
+
+Commercial products (i)
+
+Software
+
+Total
+
+83,203   
+
+4,461   
+87,664   
+
+(8,056)  
+
+(3,464)  
+(11,520)  
+
+75,147 
+
+997 
+76,144 
+
+57,104   
+
+4,360   
+61,464   
+
+(2,637)  
+
+(2,800)  
+(5,437)  
+
+54,467 
+
+1,560 
+56,027 
+
+(i) The increase in the net carrying value is primarily driven by regulatory milestone fees for repotrectinib and KarXT (see 
+Note 16).
+
+Amortization expense was $5.9 million and $3.2 million in 2025 and 2024, respectively. The weighted-average remaining 
+amortization period for intangible assets for commercial products and software was 8.7 years and 2.3 years, respectively.
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expected future amortization expense for the five succeeding years and thereafter is as follows ($ in thousands):
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+Thereafter
+
+9. 
+
+Revenues 
+
+Product Revenue, Net
+
+Year Ended December 31
+
+7,295 
+
+8,580 
+
+9,877 
+
+7,475 
+
+7,465 
+
+35,452 
+
+76,144 
+
+The Company’s product revenue is derived from the sales of its commercial products in Greater China. The table below 
+presents the Company’s gross and net product revenue ($ in thousands):
+
+Product revenue - gross
+
+Less: Rebates and sales returns
+
+Product revenue - net
+
+Year Ended December 31,
+
+2025
+
+2024
+
+496,232 
+
+(39,050)   
+
+457,182 
+
+423,855 
+
+(26,241) 
+
+397,614 
+
+Sales rebates are offered to distributors in mainland China, and the amounts are recorded as a reduction of product revenue. 
+Estimated rebates are determined based on contracted rates, sales volumes, and level of distributor inventories. 
+
+The following table presents the Company’s net revenue by commercial program ($ in thousands):
+
+ZEJULA
+
+VYVGART / VYVGART Hytrulo
+
+NUZYRA
+
+OPTUNE
+
+QINLOCK
+
+XACDURO
+
+AUGTYRO
+
+Other (i)
+
+Year Ended December 31,
+
+2025
+
+2024
+
+189,042 
+
+187,082 
+
+94,198 
+60,836 
+
+48,325 
+35,614 
+
+22,912 
+
+5,538 
+
+717 
+
+93,639 
+43,199 
+
+40,475 
+28,826 
+
+3,305 
+
+1,088 
+
+— 
+
+Product revenue - net
+
+457,182 
+
+397,614 
+
+(i)
+
+Other includes product candidates sold in patient programs prior to commercialization. 
+
+Collaboration Revenue 
+
+Collaboration  revenue  was  $3.0  million  and  $1.4  million  in  2025  and  2024,  respectively,  and  related  to  promotional 
+activities in mainland China.
+
+24
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. 
+
+Income Tax
+
+Cayman Islands 
+
+Zai Lab Limited, ZLIP Holding Limited, Zai Auto Immune Limited, and Zai Anti Infectives Limited are incorporated in 
+the  Cayman  Islands.  Under  the  current  laws  of  the  Cayman  Islands,  Zai  Lab  Limited,  ZLIP  Holding  Limited,  Zai  Auto 
+Immune  Limited,  and  Zai  Anti  Infectives  Limited  are  not  subject  to  tax  on  income  or  capital  gain.  Additionally,  the 
+Cayman Islands does not impose a withholding tax on payments of dividends to shareholders. 
+
+British Virgin Islands Taxation 
+
+ZL Capital Limited is incorporated in the British Virgin Islands. Under the current laws of the British Virgin Islands, ZL 
+Capital Limited is not subject to income tax. 
+
+Australia 
+
+Zai  Lab  (AUST)  Pty.  Ltd.  is  incorporated  in  Australia  and  is  subject  to  corporate  income  tax  at  a  rate  of  30%.  Zai  Lab 
+(AUST) Pty. Ltd. had no taxable income for the periods presented; therefore, no provision for income taxes is required. 
+
+United States 
+
+Zai Lab (US) LLC is incorporated in the United States and is subject to U.S. federal corporate income tax at a rate of 21%. 
+Zai Lab (US) LLC is also subject to state income tax in Delaware. Zai Lab (US) LLC had no taxable income for the periods 
+presented; therefore, no provision for income taxes is required. 
+
+Taiwan 
+
+Zai  Lab  (Taiwan)  Limited  is  incorporated  in  Taiwan  and  is  subject  to  corporate  income  tax  at  a  rate  of  20%.  Zai  Lab 
+(Taiwan) Limited had no taxable income for the periods presented; therefore, no provision for income taxes is required. 
+
+Hong Kong 
+
+Zai Lab (Hong Kong) Limited, ZL China Holding Two Limited, Zai Auto Immune (Hong Kong) Limited, and Zai Anti 
+Infectives (Hong Kong) Limited are incorporated in Hong Kong. Companies registered in Hong Kong are subject to Hong 
+Kong profits tax on the taxable income as reported in their respective statutory financial statements adjusted in accordance 
+with relevant Hong Kong tax laws. Under the two-tiered profits tax rates regime in Hong Kong, the first HK$2.0 million of 
+profits of the qualifying group entity will be taxed at 8.25%, and profits above HK$2.0 million will be taxed at 16.5%. In 
+2025 and 2024, Zai Lab (Hong Kong) Limited, ZL China Holding Two Limited, Zai Auto Immune (Hong Kong) Limited, 
+and  Zai  Anti  Infectives  (Hong  Kong)  Limited  did  not  make  any  provisions  for  Hong  Kong  profit  tax  as  there  were  no 
+assessable profits derived from or earned in Hong Kong for any of the periods presented. Under the Hong Kong tax law, 
+Zai Lab (Hong Kong) Limited, ZL China Holding Two Limited, Zai Auto Immune (Hong Kong) Limited, and Zai Anti 
+Infectives  (Hong  Kong)  Limited  are  exempted  from  income  tax  on  its  foreign-derived  income,  and  there  are  no 
+withholding taxes in Hong Kong on remittance of dividends. 
+
+People’s Republic of China
+
+Under  EIT  Law,  the  statutory  income  tax  rate  is  25%,  and  the  EIT  rate  will  be  reduced  to  15%  for  state-encouraged 
+HNTEs. Zai Lab (Shanghai) Co., Ltd., first obtained an HNTE certificate in 2018 and began to enjoy the preferential tax 
+rate  of  15%  from  2018  to  2020  and  further  extended  the  certificate  effective  for  2021  to  2026.  Zai  Lab  International 
+Trading  (Shanghai)  Co.,  Ltd.,  Zai  Lab  (Suzhou)  Co.,  Ltd.,  Zai  Biopharmaceutical  (Suzhou)  Co.,  Ltd.,  Zai  Lab  Trading 
+(Suzhou) Co., Ltd., and Zai Lab (Zhejiang) Co., Ltd. are subject to the statutory rate of 25%. 
+
+25
+
+The following table presents loss (income) before income taxes ($ in thousands): 
+
+Cayman Islands
+
+British Virgin Islands
+
+Mainland China
+
+Hong Kong
+
+United States
+
+Australia
+
+Taiwan
+
+Year Ended December 31,
+
+2025
+
+2024
+
+(6,840)   
+
+— 
+
+80,192 
+
+(16,211)   
+
+120,859 
+
+15 
+
+449 
+
+178,464 
+
+(2,453) 
+
+— 
+
+146,725 
+
+1,808 
+
+110,422 
+
+19 
+
+582 
+
+257,103 
+
+The current and deferred components of the income tax benefit are as follows ($ in thousands): 
+
+Current tax expense (benefit)
+
+Mainland China
+
+Deferred tax expense (benefit)
+
+Mainland China
+
+Tax expense (benefit)
+
+Year Ended December 31,
+
+2025
+
+2024
+
+451 
+
+(3,378)   
+
+(2,927)   
+
+— 
+
+— 
+
+— 
+
+The Company’s cash paid net of refunds received for income taxes in China are nil for both 2025 and 2024.
+
+The  Company’s  statutory  rate  reconciliation  is  based  on  the  PRC  statutory  income  tax  rate  because  the  Cayman  Islands 
+does  not  impose  corporate  income  tax  and  the  PRC  is  the  jurisdiction  that  primarily  drives  the  Company’s  income  tax 
+benefit.
+
+26
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  following  table  presents  the  reconciliation  of  the  differences  between  the  PRC  statutory  income  tax,  and  the 
+Company’s  effective  income  tax  for  2025,  following  the  prospective  adoption  of  ASU  No.  2023-09,  Improvements  to 
+Income Tax Disclosures:
+
+PRC Statutory income tax benefit
+Mainland China tax effects
+Nontaxable or nondeductible items
+
+Share-based compensation
+
+Expiration of deductible qualified donation
+
+Others
+
+Other adjustments
+
+Research and development super deduction (i)
+
+Preferential tax rate (ii)
+
+Intercompany inventory profit deferral (iii)
+
+Others
+
+Changes in valuation allowance
+United States tax effects
+Nontaxable or nondeductible items
+
+Share-based compensation tax effect
+
+Non-deductible compensation
+
+Other adjustments
+
+Effect of different tax rate of subsidiary operation
+
+Others
+
+Changes in valuation allowance
+Hong Kong tax effects
+Nontaxable or nondeductible items
+
+Offshore income (iv)
+
+Others
+
+Others adjustments
+Cayman tax effects
+
+Effective income tax benefit
+
+Year Ended December 31
+2025
+
+$
+
+%
+
+(44,615) 
+
+ 25.00 %
+
+5,049 
+
+8,447 
+
+1,220 
+
+(12,498) 
+
+6,022 
+
+3,205 
+
+1,672 
+
+3,953 
+
+(5,153) 
+
+2,543 
+
+4,834 
+
+10 
+
+27,980 
+
+(6,649) 
+
+2,982 
+
+(241) 
+
+(1,688) 
+
+(2,927) 
+
+ (2.83) %
+
+ (4.73) %
+
+ (0.68) %
+
+ 7.00 %
+
+ (3.37) %
+
+ (1.80) %
+
+ (0.94) %
+
+ (2.21) %
+
+ 2.89 %
+
+ (1.43) %
+
+ (2.71) %
+
+ (0.01) %
+
+ (15.68) %
+
+ 3.73 %
+
+ (1.67) %
+
+ 0.13 %
+
+ 0.95 %
+
+ 1.64 %
+
+(i) In accordance with the EIT law, certain PRC entities engaged in manufacturing and whose principal operating revenue 
+exceeded 50% of total revenue were entitled to claim an additional tax deduction of 100% of the qualified R&D expenses.
+
+(ii) Preferential tax rate reflects the reduced 15% PRC EIT rate applicable to qualified HNTEs, compared to the 25% PRC 
+statutory income tax rate.
+
+(iii) Intercompany inventory profit deferral is related to the tax effect of unrealized intercompany profit on inventory that is 
+eliminated in consolidation and allocated based on the underlying economic activity.
+
+(iv) A certain Hong Kong entity generated income treated as offshore-sourced under Hong Kong’s territorial tax system. 
+Accordingly, the related income is not taxable in Hong Kong.
+
+27
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  following  table  presents  the  reconciliation  of  the  differences  between  the  PRC  statutory  income  tax  rate  and  the 
+Company’s effective income tax rate for 2024:
+
+Year Ended December 31,
+
+2024
+
+%
+
+PRC statutory income tax rate
+
+Tax-exempted income
+
+Share-based compensation
+
+Research and development super deduction
+
+Non-deductible expenses
+
+Prior year tax filing adjustment
+
+Effect of different tax rate of subsidiary operation in other jurisdictions
+
+Preferential tax rate
+
+Expiration of tax loss
+
+Expiration of deductible qualified donation 
+Changes in valuation allowance
+
+Effective income tax rate
+
+The following table presents the principal components of deferred tax assets and liabilities ($ in thousands):
+
+Year Ended December 31,
+
+2025
+
+2024
+
+Deferred tax assets:
+
+Depreciation of property and equipment
+
+Research and experimental capitalization
+
+Share-based compensation
+
+Accrued expenses
+
+Government grants
+
+Deferred revenue
+
+Qualified donation
+
+Lease liability
+
+Inventory write-down
+
+Net operating loss carry forwards
+
+Less: valuation allowance
+
+Total Deferred tax assets
+
+Deferred tax liabilities:
+
+Right-of-use assets
+
+Deferred tax assets, net
+
+193 
+
+49,331 
+
+3,886 
+
+500 
+
+— 
+
+3,225 
+
+23,224 
+
+3,662 
+
+2,953 
+
+349,118 
+
+(429,181)   
+
+6,911 
+
+(3,521)   
+
+3,390 
+
+ 25% 
+
+ 0.42% 
+
+ (3.52%) 
+
+ 5.28% 
+
+ (0.77%) 
+
+ (3.05%) 
+
+ (0.73%) 
+
+ (5.05%) 
+
+ (2.72%) 
+
+ (0.78%) 
+ (14.08%) 
+
+ —% 
+
+171 
+
+38,215 
+
+3,797 
+
+1,038 
+
+98 
+
+3,442 
+
+26,832 
+
+3,885 
+
+— 
+
+321,068 
+
+(394,778) 
+
+3,768 
+
+(3,768) 
+
+— 
+
+ASC  740  provides  for  the  recognition  of  deferred  tax  assets  if  realization  of  such  assets  is  more  likely  than  not.  The 
+Company’s ability to realize deferred tax assets depends on its ability to generate sufficient taxable income within the carry 
+forward periods provided for in the tax law. In assessing the need for any valuation allowance, the Company considered all 
+available evidence both positive and negative, including potential for prudent and feasible tax planning strategies, recent 
+losses, and forecasts of future profitability. The Company’s deferred tax assets, net were $3.4 million as of December 31, 
+2025, which was primarily related to its inventory write-down (see Note 5). The Company expects it is more likely than not 
+to generate sufficient taxable income in the jurisdictions in which the inventory write-down occurred in the future to realize 
+the tax benefit.
+
+28
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following table presents that movement of the valuation allowance on deferred tax assets ($ in thousands): 
+
+Balance as of January 1,
+
+Additions
+
+Reductions 
+
+Balance as of December 31,
+
+2025
+
+2024
+
+(394,778)   
+
+(357,956) 
+
+(38,406)   
+
+(36,822) 
+
+4,003 
+
+— 
+
+(429,181)   
+
+(394,778) 
+
+As of December 31, 2025 and 2024, the Company had net operating loss carry forwards of $2,121.7 million and $1,951.5 
+million,  respectively.  The  following  table  presents  the  components  of  the  Company’s  net  operating  losses,  net  as  of 
+December 31, 2025 ($ in thousands):
+
+Mainland China 
+
+Mainland China (High-Tech) (i)
+
+Hong Kong
+
+Taiwan 
+
+United States
+
+Australia
+
+Total
+
+December 31, 2025
+
+Expiration Date
+
+66,299 
+
+1,611,373 
+
+60,420 
+
+2,812 
+
+376,963 
+
+3,811 
+
+2,121,678 
+
+2026 through 2030
+
+2026 through 2035
+
+No expiration date
+
+2026 through 2035
+
+No expiration date
+
+No expiration date
+
+(i) The EIT rate for certain entity in mainland China is reduced to 15% for state-encouraged HNTEs.
+
+Uncertainties  exist  with  respect  to  how  the  current  income  tax  law  in  mainland  China  applies  to  the  Company’s  overall 
+operations,  and  more  specifically,  with  regard  to  tax  residency  status.  The  EIT  Law  includes  a  provision  specifying  that 
+legal entities organized outside of mainland China will be considered residents for Chinese income tax purposes if the place 
+of effective management or control is within mainland China. The implementation rules to the EIT Law provide that non-
+resident  legal  entities  will  be  considered  Chinese  residents  if  substantial  and  overall  management  and  control  over  the 
+manufacturing and business operations, personnel, accounting, and properties occurs within mainland China. Despite the 
+present uncertainties resulting from the limited Chinese tax guidance on the issue, the Company does not believe that the 
+legal  entities  organized  outside  of  mainland  China  within  the  Company  should  be  treated  as  residents  for  EIT  Law 
+purposes. If the Chinese tax authorities subsequently determine that the Company and its subsidiaries registered outside of 
+mainland  China  should  be  deemed  resident  enterprises,  the  Company  and  its  subsidiaries  registered  outside  of  mainland 
+China will be subject to Chinese income taxes, at a rate of 25%. The Company is not subject to any other uncertain tax 
+position. 
+
+According to the PRC Tax Administration and Collection Law, the statute of limitation is three years if the underpayment 
+of taxes is due to computational errors made by the taxpayer or the withholding agent. The statute of limitation is extended 
+to five years under special circumstances where the underpayment of taxes is more than RMB0.1 million. In the case of 
+transfer pricing issues, the statute of limitation is 10 years. There is no statute of limitation in the case of tax evasion. The 
+income tax returns of the Company’s PRC subsidiary for the years from 2016 to 2025 are open to examination by the PRC 
+tax authorities.
+
+For Hong Kong income tax purposes, the statute of limitations is six years after the relevant year of assessment. This can 
+be extended to 10 years in the case of fraud or willful evasion of taxes. There are no provisions that govern the time limit 
+for tax collection.
+
+For U.S. federal income tax purposes, the statute of limitations is generally 3 years after the due date of the return, or 3 
+years after the date the return was actually filed, whichever is later. The statute of limitations does not apply to fraud or tax 
+evasion. Also, the statute of limitations is indefinite if no tax return is filed. For state income tax purposes, the statute of 
+limitations is generally 4 years from the return filing date or due date in states including California, Kentucky, and New 
+Jersey, subject to certain exceptions (e.g., fraud, failure to file).
+
+29
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. Borrowings
+
+The Company has debt arrangements with the Bank of China, SPD Bank, CMB, BOCOM, Ningbo Bank, and CIB to 
+support its working capital needs in mainland China. The following table presents the Company’s short-term debt and 
+weighted-average interest rate per annum ($ in thousands): 
+
+Bank of China Working Capital Loans
+
+SPD Bank Working Capital Loans
+
+China Merchants Bank Working Capital Loans
+
+Bank of Communications Working Capital Loans
+
+Ningbo Bank Discounted Bills
+
+Industrial Bank Working Capital Loans
+
+Total short-term debt
+
+Bank of China Working Capital Loan Facility
+
+December 31, 2025
+
+December 31, 2024
+
+ 2.36 %  
+
+ 2.80 %  
+
+ 2.65 %  
+
+ 2.75 %  
+
+ 1.60 %  
+
+ 2.60 %  
+
+69,427 
+
+28,454 
+
+42,683 
+
+42,682 
+
+7,057 
+
+14,227 
+
+ 2.77 %  
+
+ 3.13 %  
+
+ 2.91 %  
+
+N/A  
+
+N/A  
+
+N/A  
+
+69,138 
+
+27,823 
+
+34,750 
+
+— 
+
+— 
+
+— 
+
+ 2.55 %  
+
+204,530 
+
+ 2.88 %  
+
+131,711 
+
+The Company has an uncommitted facility letter with BOC HK pursuant to which BOC HK will provide standby letters of 
+credit in favor of BOC Pudong Branch for loans of up to $100.0 million, which are or may become payable by Zai Lab 
+Shanghai.  BOC  HK  and  BOC  Pudong  Branch  are  collectively  referred  to  as  Bank  of  China.  In  accordance  with  this 
+agreement,  the  Company  also  maintained  restricted  deposits  of  $100.0  million,  which  are  presented  as  restricted  cash-
+current on the consolidated balance sheet, to secure the standby letters of credit. Each working capital loan has a one-year 
+term and is subject to a floating interest rate, which is subject to adjustment every six months.
+
+SPD Bank Working Capital Loan Facility
+
+In February 2024, the Company entered into a maximum-amount guarantee contract with SPD Bank, pursuant to which the 
+Company will guarantee working capital loans of up to RMB300.0 million (approximately $42.0 million) from SPD Bank 
+to  Zai  Lab  Shanghai  over  a  three-year  period.  Each  working  capital  loan  has  a  one-year  term  and  is  subject  to  a  fixed 
+interest rate.
+
+China Merchants Bank Working Capital Loan Facility
+
+In  July  2024,  the  Company  issued  a  maximum-amount  irrevocable  letter  of  guarantee  to  CMB  pursuant  to  which  the 
+Company will guarantee working capital loans of up to RMB500.0 million (approximately $69.6 million) from CMB to Zai 
+Lab Shanghai, and Zai Lab Shanghai entered into a Credit Agreement with CMB with respect to the RMB250.0 million 
+(approximately $34.4 million) facility. The credit facility was available for one year and expired in July 2025. In August 
+2025, the Company entered into a new revolving credit facility with CMB, which replaced its previous RMB250.0 million 
+(approximately  $34.4  million)  credit  facility  that  expired  in  July.  The  Company  issued  a  new  maximum-amount 
+irrevocable  letter  of  guarantee  to  CMB  pursuant  to  which  the  Company  will  guarantee  working  capital  loans  of  up  to 
+RMB500.0 million (approximately $69.6 million) from CMB to Zai Lab Shanghai, and Zai Lab Shanghai entered into a 
+Credit Agreement with CMB with respect to the RMB500.0 million facility. The new guarantee and credit facility include 
+the outstanding working capital loans with CMB. The credit facility will be available for two years. Each working capital 
+loan has a one-year term and is subject to a floating interest rate, which is subject to adjustment every three months.
+
+Bank of Communications Working Capital Loan Facility
+
+In  January  2025,  the  Company  entered  into  a  guarantee  contract  with  BOCOM  pursuant  to  which  the  Company  will 
+guarantee working capital loans from BOCOM to Zai Lab Shanghai, and Zai Lab Shanghai entered into a working capital 
+loan  contract  with  BOCOM  with  respect  to  a  revolving  credit  facility  of  up  to  RMB300.0  million  (approximately 
+
+30
+
+

@@ -1,0 +1,1453 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited
+take no responsibility for the contents of this announcement, make no representation as to
+its accuracy or completeness and expressly disclaim any liability whatsoever for any loss
+howsoever arising from or in reliance upon the whole or any part of the contents of this
+announcement.
+
+
+
+
+                                    Guming Holdings Limited
+                                       古茗控股有限公司
+                      (A company incorporated in the Cayman Islands with limited liability)
+                                              (Stock code: 01364)
+
+                       INTERIM RESULTS ANNOUNCEMENT
+                     FOR THE SIX MONTHS ENDED JUNE 30, 2026
+The Board is pleased to announce the unaudited interim condensed consolidated financial
+results of the Group for the six months ended June 30, 2026, together with the comparative
+figures for the six months ended June 30, 2025, as set out below.
+
+ FINANCIAL HIGHLIGHTS
+ The following table sets forth our key financial data for the six months ended June 30,
+ 2026, together with the comparative figures for the six months ended June 30, 2025 and the
+ change (expressed in percentages).
+
+                                                                 For the six months ended June 30,
+                                                                     2026           2025       Change
+                                                               (unaudited)    (unaudited)          (%)
+                                                               (RMB’000)      (RMB’000)
+
+ Revenue                                                         7,470,015           5,662,904               31.9%
+ Gross profit                                                    2,492,541           1,785,968               39.6%
+ Profit for the period                                           1,568,203           1,626,468               (3.6%)
+ Profit attributable to owners of the parent                     1,570,785           1,625,473               (3.4%)
+
+ Adjusted profit (non-IFRS measure) (1)                          1,568,203           1,085,748               44.4%
+ Adjusted core profit (non-IFRS measure) (1)                     1,730,090           1,128,390               53.3%
+
+ Earnings per share (in RMB)
+   – Basic                                                              0.66                0.72             (8.3%)
+   – Diluted                                                            0.66                0.46             43.5%
+
+ Note:
+ (1)     Adjusted profit is defined by profit for the period adjusted by adding back fair value changes of
+         financial liabilities at fair value through profit or loss and listing expenses. Adjusted core profit is
+         defined by profit for the period adjusted by adding back fair value changes of financial liabilities at fair
+         value through profit or loss, listing expenses, withholding tax on the distributable profits of the Group’s
+         PRC subsidiaries and foreign exchange differences, net. These are not IFRS Accounting Standards
+         measures. For more details, please see the section headed “Non-IFRS Measures” in this announcement.
+
+
+                                                        –1–
+The board of directors (the “Board”) of Guming Holdings Limited (the “Company”) is
+pleased to announce the unaudited interim condensed consolidated results of the Company
+and its subsidiaries (the “Group”) for the six months ended June 30, 2026 (the “Reporting
+Period”) prepared in accordance with IFRS Accounting Standards, together with the
+comparative figures for the six months ended June 30, 2025.
+
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+For the six months ended June 30, 2026
+
+                                                    Notes          2026            2025
+                                                               RMB’000         RMB’000
+                                                             (Unaudited)     (Unaudited)
+
+REVENUE                                               4         7,470,015      5,662,904
+Cost of sales                                                  (4,977,474)    (3,876,936)
+
+Gross profit                                                   2,492,541       1,785,968
+
+Other income and gains                                4          319,135         171,345
+Selling and distribution expenses                               (377,607)       (312,479)
+Administrative expenses                                         (208,296)       (185,285)
+Research and development expenses                               (123,606)       (112,811)
+Other expenses                                                   (86,747)         (4,433)
+
+OPERATING PROFIT                                               2,015,420       1,342,305
+Finance costs                                                    (71,435)        (19,441)
+Fair value changes of financial liabilities
+  at fair value through profit or loss                                  –        556,904
+
+PROFIT BEFORE TAX                                     5        1,943,985       1,879,768
+Income tax expense                                    6         (375,782)       (253,300)
+
+PROFIT FOR THE PERIOD                                          1,568,203       1,626,468
+
+Attributable to:
+  Owners of the parent                                         1,570,785       1,625,473
+  Non-controlling interests                                       (2,582)            995
+
+                                                               1,568,203       1,626,468
+
+EARNINGS PER SHARE ATTRIBUTABLE
+ TO ORDINARY EQUITY HOLDERS OF
+ THE PARENT
+
+Basic (RMB)                                           8              0.66           0.72
+
+Diluted (RMB)                                         8              0.66           0.46
+
+
+
+                                              –2–
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE
+INCOME
+For the six months ended June 30, 2026
+
+                                                                  2026           2025
+                                                              RMB’000        RMB’000
+                                                            (Unaudited)    (Unaudited)
+
+PROFIT FOR THE PERIOD                                         1,568,203     1,626,468
+
+OTHER COMPREHENSIVE INCOME
+
+Other comprehensive income/(loss) that may be
+  reclassified to profit or loss in subsequent periods:
+Exchange differences on translation of foreign operations       (71,825)          329
+
+Net other comprehensive income/(loss) that may be
+  reclassified to profit or loss in subsequent periods          (71,825)          329
+
+Other comprehensive income/(loss) that will not be
+  reclassified to profit or loss in subsequent periods:
+Equity investment designated at fair value through
+  other comprehensive income:
+  Change in fair value                                           13,404       (24,244)
+  Income tax effect                                              (2,212)        4,001
+
+Net other comprehensive income/(loss) that will not be
+  reclassified to profit or loss in subsequent periods           11,192       (20,243)
+
+OTHER COMPREHENSIVE LOSS FOR THE
+  PERIOD, NET OF TAX                                            (60,633)      (19,914)
+
+TOTAL COMPREHENSIVE INCOME FOR THE
+  PERIOD                                                      1,507,570     1,606,554
+
+Attributable to:
+  Owners of the parent                                        1,510,152     1,605,559
+  Non-controlling interests                                      (2,582)          995
+
+                                                              1,507,570     1,606,554
+
+
+
+
+                                             –3–
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+June 30, 2026
+
+                                                                   June 30,   December 31,
+                                                        Notes         2026           2025
+                                                                  RMB’000        RMB’000
+                                                                (Unaudited)      (Audited)
+
+NON-CURRENT ASSETS
+Property, plant and equipment                                     1,070,142      1,005,231
+Right-of-use assets                                                 664,129        167,161
+Other intangible assets                                                 528            636
+Equity investment designated at fair value through
+   other comprehensive income                                       254,173        240,769
+Other non-current assets                                             20,996         32,600
+Deferred tax assets                                                  61,214         53,761
+Long-term trade receivables                              9           83,092        164,141
+Contract assets                                                       6,394         12,165
+Long-term bank deposits                                             360,452        411,860
+
+Total non-current assets                                          2,521,120      2,088,324
+
+CURRENT ASSETS
+Inventories                                                       1,113,365      1,300,023
+Trade receivables                                        10         631,816        587,990
+Contract assets                                                     113,257        133,631
+Prepayments, other receivables and other assets                     330,826        390,631
+Financial assets at fair value through profit or loss               953,529      1,347,282
+Restricted cash                                                   6,525,460      6,481,855
+Cash and bank balances                                            3,295,409      4,320,595
+
+Total current assets                                             12,963,662     14,562,007
+
+CURRENT LIABILITIES
+Trade payables                                           11         964,006        992,105
+Other payables and accruals                                       1,949,203      2,827,832
+Tax payables                                                        359,022        293,098
+Contract liabilities                                                 40,555         47,822
+Interest-bearing bank borrowings                                  5,639,736      6,322,423
+Lease liabilities                                                    41,296         28,682
+
+Total current liabilities                                         8,993,818     10,511,962
+
+NET CURRENT ASSETS                                                3,969,844      4,050,045
+
+TOTAL ASSETS LESS CURRENT LIABILITIES                             6,490,964      6,138,369
+
+
+
+                                               –4–
+                                                   June 30,   December 31,
+                                                      2026           2025
+                                                  RMB’000        RMB’000
+                                                (Unaudited)      (Audited)
+
+NON-CURRENT LIABILITIES
+Deferred tax liabilities                             99,137         95,280
+Contract liabilities                                  4,517         11,133
+Interest-bearing bank borrowings                          –        139,349
+Deferred income                                      22,987         21,349
+Lease liabilities                                    50,711         29,003
+
+Total non-current liabilities                       177,352        296,114
+
+NET ASSETS                                        6,313,612      5,842,255
+
+EQUITY
+Equity attributable to owners of the parent
+Share capital                                           162            162
+Reserves                                          6,299,843      5,823,667
+
+                                                  6,300,005      5,823,829
+
+Non-controlling interests                            13,607         18,426
+
+TOTAL EQUITY                                      6,313,612      5,842,255
+
+
+
+
+                                          –5–
+NOTES TO THE INTERIM CONDENSED CONSOLIDATED FINANCIAL
+INFORMATION
+June 30, 2026
+
+1.   BASIS OF PREPARATION
+
+     The interim condensed consolidated financial information of the Company and its subsidiaries (collectively,
+     the “Group”) for the six months ended June 30, 2026 has been prepared in accordance with IAS 34
+     Interim Financial Reporting. The interim condensed consolidated financial information does not include
+     all the information and disclosures required in the annual historical financial information and should
+     be read in conjunction with the Group’s annual consolidated financial statements for the year ended
+     December 31, 2025.
+
+     The interim condensed consolidated financial information has been prepared under the historical cost
+     convention, except for financial assets at fair value through profit or loss and equity investment designated
+     at fair value through other comprehensive income (“OCI”). This interim financial information is presented
+     in Renminbi (“RMB”) and all values are rounded to the nearest thousand (RMB’000) except when
+     otherwise indicated.
+
+2.   CHANGES IN ACCOUNTING POLICIES AND DISCLOSURES
+
+     The accounting policies adopted in the preparation of the interim condensed consolidated financial
+     information are consistent with those applied in the preparation of the Group’s annual consolidated
+     financial statements for the year ended December 31, 2025, except for the adoption of the following
+     amended IFRS Accounting Standards for the first time for the current period’s financial information.
+
+     Amendments to IFRS 9 and IFRS 7             Amendments to the Classification and Measurement of
+                                                  Financial Instruments
+
+     Amendments to IFRS 9 and IFRS 7             Contracts Referencing Nature-dependent Electricity
+
+     Annual Improvements to IFRS                 Amendments to IFRS 1, IFRS 7, IFRS 9, IFRS 10 and IAS 7
+       Accounting Standards – Volume 11
+
+     The nature and impact of the amended IFRS Accounting Standards are described below:
+
+     (a)   Amendments to IFRS 9 and IFRS 7 Amendments to the Classification and Measurement of Financial
+           Instruments clarify that a financial asset is derecognised when the entity’s rights to the contractual
+           cash flows expire or are transferred, while a financial liability is derecognised on the settlement
+           date. The amendments introduce an accounting policy option to derecognise a financial liability that
+           is settled through an electronic payment system before the settlement date if specified criteria are
+           met. The amendments clarify how to assess the contractual cash flow characteristics of financial
+           assets with environmental, social and governance and other similar contingent features. Moreover,
+           the amendments clarify the requirements for classifying financial assets with non-recourse features
+           and contractually linked instruments. The amendments also include additional disclosures for
+           investments in equity instruments designated at fair value through other comprehensive income
+           and financial instruments with contingent features. Since the Group’s accounting policy for the
+           derecognition of financial assets and liabilities in prior years aligned with the amendments and the
+           Group did not have the financial assets that were addressed by the amendments, the amendments
+           did not have any impact on the interim condensed consolidated financial information.
+
+
+
+
+                                                     –6–
+     (b)   Amendments to IFRS 9 and IFRS 7 Contracts Referencing Nature-dependent Electricity clarify
+           the application of the “own-use” requirements for in-scope contracts and amend the designation
+           requirements for a hedged item in a cash flow hedging relationship for in-scope contracts. The
+           amendments also include additional disclosures that enable users of financial statements to
+           understand the effects these contracts have on an entity’s financial performance and future cash
+           flows. As the Group did not have any contracts that are in the scope of the amendments, the
+           amendments did not have any impact on the interim condensed consolidated financial information.
+
+     (c)   Annual Improvements to IFRS Accounting Standards – Volume 11 set out narrow scope
+           amendments to IFRS 1, IFRS 7 (and the accompanying Guidance on implementing IFRS 7), IFRS 9,
+           IFRS 10 and IAS 7. The amendments include clarifications, simplifications, corrections or changes
+           to improve consistency in the corresponding IFRS Accounting Standards. The amendments did not
+           have any impact on the interim condensed consolidated financial information.
+
+3.   OPERATING SEGMENT INFORMATION
+
+     Management has determined the operating segments based on the reports reviewed by the chief operating
+     decision maker. The chief operating decision maker, who is responsible for allocating resources and
+     assessing performance of the operating segment, has been identified as the executive directors of the
+     Company. During the reporting period, the Group is principally engaged in the operation of a franchised
+     retail network and the trading of ingredients and other related products of freshly-made beverages and
+     equipment. Management reviews the operating results of the Group’s business as one operating segment
+     for the purpose of making decisions about resource allocation and performance assessment. Therefore, the
+     chief operating decision maker of the Company regards that there is only one segment which is used to
+     make strategic decisions.
+
+     Geographical information
+
+     No geographical information is presented as the Group’s revenue from the external customers is derived
+     solely from its operations in the Chinese mainland and no non-financial long-term assets of the Group are
+     located outside the Chinese mainland.
+
+     Information about major customers
+
+     No revenue from sales to a single customer or a group of customers under common control accounted for
+     10% or more of the Group’s revenue for each of the six months ended June 30, 2026 and 2025.
+
+
+
+
+                                                   –7–
+4.   REVENUE, OTHER INCOME AND GAINS
+
+     An analysis of revenue is as follows:
+
+                                                                                 Six months ended June 30,
+                                                                                       2026           2025
+                                                                                    RMB’000       RMB’000
+                                                                                 (Unaudited)    (Unaudited)
+
+     Revenue from contracts with customers
+       Sale of goods and equipment                                                  5,969,286        4,496,216
+       Franchise management services                                                1,493,455        1,158,851
+       Sales from company-operated stores                                               7,274            7,837
+
+                                                                                    7,470,015        5,662,904
+
+     Geographical market
+       Chinese mainland                                                             7,470,015        5,662,904
+
+     Timing of revenue recognition
+       Revenue recognised over time                                                 1,493,455        1,158,851
+       Revenue recognised at a point in time                                        5,976,560        4,504,053
+
+                                                                                    7,470,015        5,662,904
+
+     Performance obligations
+
+     Information about the Group’s performance obligations is summarised below:
+
+     Sale of goods and equipment
+
+     The performance obligation of the sale of goods and equipment is satisfied upon delivery of the goods and
+     equipment and payment in advance is normally required, except for sales with payments by instalments
+     and customers with credit terms, where payment is generally due within 2 days to 90 days from delivery or
+     issuance of billings. Some contracts provide customers with a right of return which gives rise to variable
+     consideration.
+
+     There is unsatisfied performance obligation for the sale of goods and equipment at the end of the six
+     months ended June 30, 2026 and 2025. As permitted under IFRS 15, the Group applies the practical
+     expedient and does not disclose the transaction price allocated to the unsatisfied performance obligations
+     for contracts of the sale of products, which are generally with an original expected length of one year or
+     less.
+
+     Franchise management services
+
+     For franchise management services, the Group recognises revenue over time as services are rendered.
+     Some initial franchise fee arrangements contain variable consideration. There was unsatisfied performance
+     obligation for franchise management services at the end of the six months ended June 30, 2026 and 2025.
+
+     Sales from company-operated stores
+
+     The performance obligation of sales from company-operated stores is satisfied upon delivery of the
+     products and payment is received upon delivery. There was no unsatisfied performance obligation for sales
+     from company-operated stores at the end of the six months ended June 30, 2026 and 2025.
+
+
+
+
+                                                   –8–
+Other income and gains
+
+                                                                               Six months ended June 30,
+                                                                                     2026           2025
+                                                                                  RMB’000       RMB’000
+                                                                               (Unaudited)    (Unaudited)
+
+Other income
+Government grants
+   – related to income*                                                              76,531           70,315
+   – related to assets**                                                                608              306
+Bank interest income                                                                158,957           61,274
+Imputed interest income for long-term trade receivables and
+   non-current portion of contract assets                                             9,895             6,091
+Transportation and storage income                                                    16,053             4,480
+Additional tax deduction***                                                               –               341
+Sale of scraps                                                                          627               855
+Others                                                                               15,350             4,732
+
+                                                                                    278,021          148,394
+
+Gains
+Foreign exchange differences, net                                                         –            7,358
+Fair value changes of financial assets at fair value through profit or loss          39,558           15,593
+Gains on disposal of items of property, plant and equipment                           1,556                –
+
+                                                                                     41,114           22,951
+
+Total other income and gains                                                        319,135          171,345
+
+*     The government grants related to income mainly represent incentives received from the local
+      government in connection with certain financial support to local business enterprises for the purpose
+      of encouraging business development. These grants are recognised in profit or loss upon receipt of
+      these grants. There are no unfulfilled conditions or contingencies relating to these grants.
+
+**    The Group has received certain government grants related to the investments in production plants.
+      The grants related to assets were recognised in profit or loss over the useful lives of relevant assets.
+
+***   The amounts represent the additional input value added tax deduction, pursuant to the announcement
+      of the State Administration of Taxation, which became effective from April 1, 2019 onwards.
+
+
+
+
+                                                 –9–
+5.   PROFIT BEFORE TAX
+
+     The Group’s profit before tax is arrived at after charging/(crediting):
+
+                                                                                   Six months ended June 30,
+                                                                                         2026           2025
+                                                                                      RMB’000       RMB’000
+                                                                                   (Unaudited)    (Unaudited)
+
+     Cost of services provided and inventories sold*                                  4,977,474        3,876,936
+     Depreciation of property, plant and equipment                                       53,842           54,166
+
+     Depreciation of right-of-use assets                                                 30,302            28,515
+     Less: capitalised in property, plant and equipment                                     950                 –
+
+     Depreciation charged to profit or loss                                              29,352            28,515
+
+     Amortisation of other intangible assets**                                              108              108
+     Lease payments not included in the measurement of lease liabilities                 10,454           11,073
+     Research and development expenses***                                               123,606          112,811
+     Employee benefit expense (including directors’ and
+       chief executive’s remuneration):
+       Wages and salaries                                                               389,789          341,894
+       Pension scheme contributions and social welfare****                               70,991           57,902
+
+                                                                                        460,780          399,796
+
+     Foreign exchange differences, net                                                    84,721           (7,358)
+     Fair value changes of financial assets at fair value through profit or loss         (39,558)         (15,593)
+     Fair value changes of financial liabilities at fair value through
+        profit or loss                                                                         –        (556,904)
+     Losses/(gains) on disposal of items of property, plant and equipment, net            (1,556)          1,681
+     Listing expenses                                                                          –          16,184
+     Auditor’s remuneration                                                                1,200           1,200
+
+     *     Cost of services provided and inventories sold includes expenses relating to depreciation of
+           property, plant and equipment, depreciation of right-of-use assets and staff costs, which are also
+           included in the respective total amounts disclosed separately above for each of these types of
+           expenses.
+
+     **    The amortisation of other intangible assets is included in administrative expenses in profit or loss.
+
+     ***   Research and development expenses include expenses relating to depreciation of property, plant
+           and equipment, depreciation of right-of-use assets and staff costs, which are also included in the
+           respective total amounts disclosed separately above for each of these types of expenses.
+
+     **** There are no forfeited contributions that may be used by the Group as the employer to reduce the
+          existing level of contributions.
+
+
+
+
+                                                    – 10 –
+6.   INCOME TAX EXPENSE
+
+     The Group is subject to income tax on an entity basis on profits arising in or derived from the tax
+     jurisdictions in which members of the Group are domiciled and operated. Pursuant to the rules and
+     regulations of the Cayman Islands and BVI, the Company and the Group’s subsidiaries incorporated in
+     BVI are not subject to any income tax. For the Group’s subsidiaries incorporated in Hong Kong, pursuant
+     to the two-tiered profit tax rates regime, the first HKD2,000,000 of assessable profits under Hong Kong
+     profits tax during the reporting period were subject to a tax rate of 8.25%. The remaining assessable
+     profits above HKD2,000,000 will continue to be subject to a tax rate of 16.5% during the reporting period.
+
+     PRC corporate income tax has been provided at the rate of 25% on the taxable profits of the Group’s PRC
+     subsidiaries for the reporting period.
+
+     According to the notices (Zhe Zheng Ban [2015] No.66, Jing Wei Fa [2017] No.13 and Jing Zheng Ban
+     Investment Memorandum [2020] No.22) on the economic development of Jingning She Autonomous
+     County issued by the General Office of the People’s Government of Zhejiang Province, the People’s
+     Government of Jingning She Autonomous County, and the General Office of the People’s Government
+     of Jingning She Autonomous County, respectively, investment enterprises registered in the Jingning
+     She Autonomous County are entitled to a preferential income tax policy for 10 years since the date
+     of registration. Accordingly, certain of the Group’s PRC subsidiaries registered in the Jingning She
+     Autonomous County are entitled to a preferential income tax exemption for the reporting period.
+
+     According to the Notice of the Ministry of Finance and the State Administration of Taxation on the
+     Preferential Enterprise Income Tax Policies of the Guangdong-Macao In-Depth Cooperation Zone in
+     Hengqin (Cai Shui [2022] No. 19), qualified industrial enterprises located in the Guangdong-Macao In-
+     depth Cooperation Zone of Hengqin will be subject to a reduced enterprise income tax rate of 15%.
+     Accordingly, one of the Group’s PRC subsidiaries registered in the Guangdong-Macao In-Depth
+     Cooperation Zone in Hengqin is entitled to a preferential income tax rate of 15% for the reporting period.
+
+     Certain of the Group’s PRC subsidiaries are accredited as “High and New Technology Enterprises”
+     and were therefore entitled to a preferential income tax rate of 15% during the reporting period. Such
+     qualifications are subject to review by the relevant tax authority in the PRC for every three years.
+
+     One of the Group’s PRC subsidiaries is engaged in businesses in the “Encouraged Industries in the
+     Western Region” and was entitled to a preferential corporate income tax rate of 15% for the reporting
+     period.
+
+     Certain of the Group’s PRC subsidiaries are qualified as small and micro enterprises and were entitled to a
+     preferential corporate income tax rate of 5% for the reporting period.
+
+     According to the applicable PRC tax regulations, dividends distributed by a company established in the
+     PRC to a foreign investor with respect to profit derived after January 1, 2008 are generally subject to
+     a 10% PRC withholding tax. If a foreign investor incorporated in Hong Kong meets the conditions and
+     requirements under the double taxation treaty arrangement entered into between the PRC and Hong Kong,
+     the relevant withholding tax rate will be 5%.
+
+
+
+
+                                                   – 11 –
+The income tax expense of the Group for the reporting period is analysed as follows:
+
+                                                                                 Six months ended June 30,
+                                                                                       2026           2025
+                                                                                    RMB’000       RMB’000
+                                                                                 (Unaudited)    (Unaudited)
+
+Current – PRC income taxes
+  Charge for the period                                                               378,072           265,395
+Current – Hong Kong profits tax
+  Charge for the period                                                                  3,518            6,030
+Deferred                                                                                (5,808)         (18,125)
+
+Total                                                                                 375,782           253,300
+
+A reconciliation of the tax expense applicable to profit before tax at the statutory tax rates for the
+jurisdictions in which the Company and the majority of its subsidiaries are domiciled and/or operate to
+the tax expense at the effective tax rates, and a reconciliation of the applicable rates (i.e., the statutory tax
+rates) to the effective tax rates, are as follows:
+
+                                                                                 Six months ended June 30,
+                                                                                       2026           2025
+                                                                                    RMB’000       RMB’000
+                                                                                 (Unaudited)    (Unaudited)
+
+Profit before tax                                                                   1,943,985         1,879,768
+
+Tax at the PRC corporate income tax rate of 25%                                       485,996           469,942
+Effect of withholding tax on the distributable profits of
+   the Group’s PRC subsidiaries                                                        77,166            50,000
+Effect of tax concessions and differing tax rates in different jurisdictions         (157,286)         (112,354)
+Income not subject to tax                                                              (7,401)         (139,226)
+Expenses not deductible for tax                                                         1,577               779
+Research and development super deduction                                              (17,714)          (14,567)
+Tax losses and temporary differences utilized                                          (6,556)           (1,274)
+
+Tax charge at the Group’s effective rate                                              375,782           253,300
+
+
+
+
+                                                 – 12 –
+7.   DIVIDENDS
+
+                                                                                  Six months ended June 30,
+                                                                                        2026           2025
+                                                                                     RMB’000       RMB’000
+                                                                                  (Unaudited)    (Unaudited)
+
+     Dividends declared to existing shareholders prior to the Listing                        –        1,740,000
+     Dividends declared to existing shareholders                                     1,033,976                –
+     Dividends declared to non-controlling interests                                     2,308           33,000
+
+                                                                                     1,036,284        1,773,000
+
+     On June 22, 2026, the Company passed a shareholders resolution to declare a dividend of RMB1.03 billion
+     to existing shareholders, which will be settled in batches in August and December 2026. The dividend was
+     recommended by the Company’s board of directors at the board meeting held on March 25, 2026.
+
+     On April 17, 2026, one subsidiary of the Company passed a shareholders resolution to declare a dividend
+     to its shareholders, with RMB2.3 million to its non-controlling interests, all of which had been settled by
+     cash on May 14, 2026.
+
+8.   EARNINGS PER SHARE ATTRIBUTABLE TO ORDINARY EQUITY HOLDERS OF THE
+     PARENT
+
+     (a)   Basic
+
+           The calculation of the basic earnings per share amounts is based on the profit for the period
+           attributable to ordinary equity holders of the parent, and the weighted average number of ordinary
+           shares of 2,378,185,860 (2025: 2,260,163,805) outstanding during the period.
+
+           The calculation of basic earnings per share is based on:
+
+                                                                                  Six months ended June 30,
+                                                                                        2026           2025
+                                                                                  (Unaudited)    (Unaudited)
+
+           Earnings
+           Profit attributable to ordinary equity holders of
+              the parent (RMB’000)                                                   1,570,785        1,625,473
+
+           Shares
+           Weighted average number of ordinary shares outstanding
+             during the period                                                   2,378,185,860   2,260,163,805
+
+           Basic earnings per share (RMB)                                                 0.66             0.72
+
+
+
+
+                                                    – 13 –
+     (b)   Diluted
+
+           The calculation of the diluted earnings per share amounts is based on the profit for the period
+           attributable to ordinary equity holders of the parent, adjusted to reflect the changes in fair value
+           of financial liabilities at fair value through profit or loss, where applicable. The weighted average
+           number of ordinary shares used in the calculation is the number of ordinary shares outstanding
+           during the period, as used in the basic earnings per share calculation, and the weighted average
+           number of ordinary shares assumed to have been issued at no consideration on the deemed exercise
+           or conversion of all dilutive potential ordinary shares into ordinary shares.
+
+                                                                                   Six months ended June 30,
+                                                                                         2026           2025
+                                                                                   (Unaudited)    (Unaudited)
+
+           Earnings
+           Profit attributable to ordinary equity holders of the parent
+              (RMB’000)                                                              1,570,785        1,625,473
+
+           Less: Fair value changes of financial liabilities at fair value
+             through profit or loss (RMB’000)                                                –         556,904
+
+           Profit attributable to ordinary equity holders of the parent used in
+              the diluted earnings per share calculation (RMB’000)                   1,570,785        1,068,569
+
+           Shares
+           Weighted average number of ordinary shares outstanding during
+             the period used in the basic earnings per share calculation          2,378,185,860   2,260,163,805
+
+           Adjustment for:
+           Convertible redeemable preferred shares                                           –      66,956,526
+
+           Adjusted weighted average number of ordinary shares
+             outstanding during the period used in the diluted earnings
+             per share calculation                                                2,378,185,860   2,327,120,331
+
+           Diluted earnings per share (RMB)                                                0.66            0.46
+
+9.   LONG-TERM TRADE RECEIVABLES
+
+                                                                                      June 30,    December 31,
+                                                                                         2026            2025
+                                                                                     RMB’000         RMB’000
+                                                                                   (Unaudited)       (Audited)
+
+     Gross long-term trade receivables                                                 506,764          591,804
+     Less: Due within one year                                                        (423,672)        (427,663)
+
+     Net long-term trade receivables                                                    83,092         164,141
+
+
+
+
+                                                     – 14 –
+10.   TRADE RECEIVABLES
+
+      An ageing analysis of the trade receivables as at the end of the reporting period, based on the dates of
+      delivery of goods and equipment/rendering of franchising services, is as follows:
+
+                                                                                          June 30,     December 31,
+                                                                                             2026             2025
+                                                                                         RMB’000          RMB’000
+                                                                                       (Unaudited)        (Audited)
+
+      Within 1 month                                                                        163,763          169,170
+      1 to 3 months                                                                          65,901           69,959
+      3 to 6 months                                                                          48,320          113,224
+      6 months to 1 year                                                                    210,111          131,044
+      Over 1 year                                                                           143,721          104,593
+
+                                                                                            631,816          587,990
+
+11.   TRADE PAYABLES
+
+      An ageing analysis of the trade payables as at the end of the reporting period, based on the invoice date, is as
+      follows:
+
+                                                                                          June 30,     December 31,
+                                                                                             2026             2025
+                                                                                         RMB’000          RMB’000
+                                                                                       (Unaudited)        (Audited)
+
+      Within 3 months                                                                       922,243          966,722
+      3 to 6 months                                                                          35,531           24,405
+      6 months to 1 year                                                                      6,232              978
+
+                                                                                            964,006          992,105
+
+      As at June 30, 2026, included in the Group’s trade payables were amounts due to the related parties of
+      RMB4,300,000 (December 31, 2025: RMB4,057,000).
+
+
+
+
+                                                      – 15 –
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+BUSINESS REVIEW
+
+Overview
+
+We are a leading and fast-growing freshly-made beverage company in China, dedicated to
+serving fresh, tasty and value-for-money beverages of consistently high quality. We focus on
+the mid-priced segment of China’s freshly-made tea store market. The Company recorded total
+revenue of RMB7,470.0 million in the first half of 2026, representing a year-on-year growth
+of 31.9%; our gross profit amounted to RMB2,492.5 million, representing a year-on-year
+growth of 39.6%.
+
+Store Network and Store Performance
+
+We primarily operate under a franchise model under the “Good me” brand. We manage an
+extensive network of stores with steadily increasing GMV and a track record of profitability.
+Our store network, covering over 200 cities across all city tiers in China, encompassed 14,351
+stores as of June 30, 2026, representing an increase of 28.4% from 11,179 stores as of June
+30, 2025.
+
+The following table sets forth our store count across various city tiers and as a percentage of
+our total store count as of June 30, 2026 and 2025, respectively.
+
+                                                            As of June 30,
+                                                  2026                     2025
+                                        Store Count             % Store Count                %
+
+First-tier cities                                459             3           318             3
+New first-tier cities                          2,153            15         1,812            16
+Second-tier and below cities                  11,739            82         9,049            81
+  – Second-tier cities                         3,811            27         3,207            29
+  – Third-tier cities                          4,208            29         3,063            27
+  – Fourth-tier and below cities               3,720            26         2,779            25
+
+Total                                         14,351           100        11,179           100
+
+Under our regional densification strategy, we strategically allocate resources towards building
+store networks with high geographical density across all city tiers in target provinces.
+
+We believe that second-tier and below cities and towns (鎮) and townships (鄉) represent
+large untapped markets with significant potential. Our store count in second-tier and below
+cities accounted for 82% of our total store count as of June 30, 2026, representing a slight
+increase from 81% as of June 30, 2025. In addition, as of June 30, 2026, the proportion of
+our stores located in towns and townships, which are administrative areas typically located
+away from downtown urban areas of cities, further grew to 45% as compared with 43% as of
+June 30, 2025, demonstrating our ability to further deepen our presence in China’s lower-tier
+markets.
+
+
+                                            – 16 –
+The following table sets forth movement in the number of our stores for the six months ended
+June 30, 2026 and 2025, respectively.
+
+                                                                   For the six months ended
+                                                                            June 30,
+                                                                          2026          2025
+
+Store count at the beginning of the period                               13,554           9,914
+Stores opened during the period                                           1,318           1,570
+Stores closed during the period                                             521             305
+
+Store count at the end of the period                                     14,351          11,179
+
+For the six months ended June 30, 2026, we opened new stores at a slower pace than we did
+in the six months ended June 30, 2025, primarily because, as part of our increasing focus on
+store quality, we prioritized the upgrading of existing stores to sixth-generation stores and
+adopted stricter site-selection criteria for new stores. In addition, a greater number of stores
+were closed in the six months ended June 30, 2026 compared to the same period in 2025,
+primarily as a result of the higher store count at the beginning of the period.
+
+The following table sets forth certain key performance indicators of our stores for the six
+months ended June 30, 2026 and 2025, respectively.
+
+                                                                   For the six months ended
+                                                                            June 30,
+                                                                          2026          2025
+
+Total GMV (RMB in thousands)                                      19,746,631.2    14,094,001.2
+Per-store GMV (RMB in thousands)                                       1,417.5         1,370.5
+Per-store daily GMV (RMB in thousands)                                     7.8             7.6
+
+Total number of cups sold (in thousands)                            1,109,970.6      816,894.7
+Per-store number of cups sold (in thousands)                               79.7           79.4
+Per-store daily number of cups sold                                         440            439
+
+For the six months ended June 30, 2026, our per-store GMV, per-store daily GMV, per-
+store number of cups sold and per-store daily number of cups sold remained broadly stable
+compared with the six months ended June 30, 2025, primarily due to the enrichment of coffee
+beverage offerings and our expansion into the breakfast occasion, partially offset by the
+reduction in subsidies offered by third-party food delivery platforms. In line with our store
+network expansion and opening of new stores, the total GMV and total number of cups sold
+increased accordingly.
+
+
+
+
+                                             – 17 –
+Our Franchisees
+
+We operate our store network primarily in collaboration with our franchisees. Leveraging
+our franchisees’ local knowledge, including their insights into local consumer preferences,
+our franchise model drives efficient and high-quality growth. We aim to foster a mutually
+beneficial relationship with our franchisees, working closely together to deliver high-quality
+products and services to our consumers. Beginning with franchisee selections, we adopt
+a rigorous process to ensure we onboard individuals who resonate with our longtermist
+philosophy. When opening new stores, we offer various supports, such as site selection and
+comprehensive trainings, to ease the process. For day-to-day operations, we help optimize
+franchisee profitability by centrally sourcing and supplying quality ingredients at competitive
+prices and bearing a majority of the warehousing and logistics expenses to reduce their cost.
+We take a variety of approaches to monitor the business activities and daily operations of
+our franchisees. To ensure compliance with our protocols, we require our franchised stores
+to operate under the view of in-store cameras at all times, and arrange for store-specific
+supervisors to visit regularly to review the store’s management and operation.
+
+As of June 30, 2026, we collaborated with 7,153 franchisees (as of June 30, 2025: 5,875
+franchisees). The following table sets forth movement in the number of our franchisees for the
+six months ended June 30, 2026 and 2025, respectively.
+
+                                                                    For the six months ended
+                                                                             June 30,
+                                                                           2026          2025
+
+Number of franchisees at the beginning of the period                       6,675           4,868
+Number of franchisees enrolled during the period                             800           1,338
+Number of franchisees terminated during the period                           322             331
+Number of franchisees at the end of the period                             7,153           5,875
+
+Product Offerings
+
+The “Good me” stores offer three categories of beverages: (i) fruit tea beverages, (ii) milk tea
+beverages, and (iii) coffee beverages and others.
+
+We provide our consumers with a variety of product offerings of consistent quality. Our
+product development framework is firmly rooted in continuous research, analysis, and
+accumulation of fundamental food science knowledge. Leveraging our strong product
+development capabilities, we regularly launch new beverages to keep our offerings appealing.
+For the six months ended June 30, 2026, we launched 51 new beverages. Notably, we have
+made significant strides in enhancing our coffee beverage offerings this year: (i) as of June 30,
+2026, around 13,500 stores have been equipped with coffee machines; and (ii) during the six
+months ended June 30, 2026, we introduced 12 new coffee beverages.
+
+Our beverages are broadly embraced by consumers and have received excellent consumer
+reviews. We had accumulated approximately 236 million registered members on our mini
+programs as of June 30, 2026, with approximately 59 million quarterly active members in the
+three months ended June 30, 2026.
+
+
+                                             – 18 –
+Supply Chain Management
+
+Substantially all beverages on our menu are made from short-shelf-life fresh fruits, tea
+leaves and/or fresh milk that are stored and distributed through our cold-chain warehousing
+and logistics infrastructure. We developed sophisticated protocols to manage all stages of
+our supply chain, from supply procurement, to ingredient processing, to warehousing and
+then to transportation to stores. Our supply chain capabilities, combined with our regional
+densification strategy, enable us to consistently deliver fresh and quality ingredients to our
+thousands of stores at competitive prices.
+
+In particular, as of June 30, 2026, we operated 24 warehouses for our business operation.
+These warehouses have an aggregate floor area of approximately 277,000 square meters,
+including cold storage spaces of over 82,000 cubic meters supporting various temperature
+ranges. As of June 30, 2026, approximately 73% of our stores were located within 150
+kilometers of one of our warehouses. As a result, we could also provide cold-chain supply
+delivery to approximately 99% of our stores every two days upon request as of June 30, 2026.
+
+We also possess strong logistics capabilities to transport products between our warehouses
+and from our warehouses to our stores. We believe our cold-chain logistics capabilities set
+us apart from many other players in the industry. All vehicles used for cold-chain delivery
+are equipped with professional temperature control systems, and we adopt centralized
+management to ensure efficient coordination among logistics, warehouses and stores. This
+effectively guarantees the efficiency of new product launches and consistent product quality.
+
+With our regional densification strategy, combined with our extensive warehousing and
+logistics infrastructure, we supply our franchised stores at relatively low cost. For the six
+months ended June 30, 2026, the logistics cost for delivery from our warehouses to stores was
+less than 1% of our total GMV.
+
+OUTLOOK
+
+China’s freshly-made tea beverage market continues to present significant growth
+opportunities, driven by increasing consumer demand for quality beverages. We believe our
+extensive store network, strong brand recognition, established supply chain infrastructure,
+product research and development and technologies position us well to capture this growth.
+At the same time, we are mindful of challenges including intensifying market competition
+and evolving consumer preferences. In the second half of 2026, we will continue to pursue
+different strategies, with an aim to capitalize on the market opportunities available to us while
+addressing the competitive and operational challenges we face. We will continue to expand
+our store network and solidify our position in the industry. We will continue to enhance our
+technologies to improve operating efficiency. We will also continue to invest in product
+research and development to refine and expand our product offerings. Moreover, we will
+continue to strengthen our branding and consumer engagement efforts. We will continue to
+enhance our supply chain capabilities and invest in our infrastructure to support operations.
+
+
+
+
+                                             – 19 –
+FINANCIAL REVIEW
+
+Revenue
+
+During the six months ended June 30, 2026, the vast majority of our revenue was contributed
+by our franchised stores, which accounted for 97.3% of our total revenue (six months ended
+June 30, 2025: 95.8%).
+
+Our revenue increased by 31.9% from RMB5,662.9 million for the six months ended June 30,
+2025 to RMB7,470.0 million for the six months ended June 30, 2026. We generate revenue
+mainly from the sales of goods and equipment and the provision of services to our franchisees.
+Our revenue from sales of goods and equipment accounted for the majority of the Group’s
+revenue, representing 79.9% and 79.4% of our total revenue for the six months ended June
+30, 2026 and 2025, respectively. Such revenue increased by 32.8% from RMB4,496.2 million
+for the six months ended June 30, 2025 to RMB5,969.3 million for the six months ended June
+30, 2026 as our store network expanded and the total GMV increased, which led to higher
+demands for goods from us.
+
+Cost of Sales
+
+Our cost of sales increased by 28.4% from RMB3,876.9 million for the six months ended June
+30, 2025 to RMB4,977.5 million for the six months ended June 30, 2026. The increase in our
+cost of sales is generally in line with our revenue growth.
+
+Gross Profit and Gross Profit Margin
+
+As a result of the foregoing, our gross profit increased by 39.6% from RMB1,786.0 million
+for the six months ended June 30, 2025 to RMB2,492.5 million for the six months ended June
+30, 2026. Our gross profit margin increased to 33.4% for the six months ended June 30, 2026
+from 31.5% for the six months ended June 30, 2025.
+
+Other Income and Gains
+
+Our other income and gains increased by 86.3% from RMB171.3 million for the six months
+ended June 30, 2025 to RMB319.1 million for the six months ended June 30, 2026, primarily
+due to an increase of RMB97.7 million in bank interest income and an increase of RMB24.0
+million in fair value changes of financial assets at fair value through profit or loss.
+
+Selling and Distribution Expenses
+
+Our selling and distribution expenses increased by 20.8% from RMB312.5 million for the six
+months ended June 30, 2025 to RMB377.6 million for the six months ended June 30, 2026.
+Selling and distribution expenses increased at a slightly slower rate than revenue, primarily
+due to the different timing and pace of major marketing campaigns in the six months ended
+June 30, 2026 as compared to the same period last year.
+
+Administrative Expenses
+
+Our administrative expenses increased by 12.4% from RMB185.3 million for the six
+months ended June 30, 2025 to RMB208.3 million for the six months ended June 30, 2026.
+Administrative expenses as a percentage of revenue decreased year-on-year mainly due to
+operating leverage.
+
+
+                                           – 20 –
+Research and Development Expenses
+
+Our research and development expenses increased by 9.6% from RMB112.8 million for the
+six months ended June 30, 2025 to RMB123.6 million for the six months ended June 30,
+2026. Research and development expenses as a percentage of revenue decreased year-on-year
+mainly due to operating leverage.
+
+Other Expenses
+
+Our other expenses increased from RMB4.4 million for the six months ended June 30, 2025 to
+RMB86.7 million for the six months ended June 30, 2026, primarily due to foreign exchange
+losses.
+
+Fair Value Changes of Financial Liabilities at Fair Value through Profit or Loss
+
+In 2020, we issued redeemable ordinary shares to certain investors, who have the right to
+mandate us to repurchase their equity interests at the price agreed under certain circumstances.
+In 2022, we replaced the redeemable ordinary shares with warrants and convertible
+redeemable Series A Preferred Shares, which have been converted to ordinary shares upon
+the Listing. The investments from these investors were classified as financial liabilities and
+designated at fair value through profit or loss.
+
+We recorded nil from fair value changes of financial liabilities at fair value through profit or
+loss and gains from fair value changes of financial liabilities at fair value through profit or loss
+of RMB556.9 million for the periods ended June 30, 2026 and June 30, 2025, respectively.
+As the preferred shares liabilities have been re-designated and reclassified from liabilities
+to equity as a result of the automatic conversion into ordinary shares upon the Listing in
+February 2025, no further fair value changes of financial liabilities at fair value through profit
+or loss have been or will be recorded after the Listing.
+
+Income Tax Expense
+
+Our income tax expense increased by 48.4% from RMB253.3 million for the six months ended
+June 30, 2025 to RMB375.8 million for the six months ended June 30, 2026. The increase in
+our income tax expense was primarily due to the increase of our taxable profits and the effect
+of withholding tax on the distributable profits of the Group’s PRC subsidiaries.
+
+Profit for the Period
+
+As a result of the foregoing, our profit for the period decreased slightly by 3.6% from a
+net profit of RMB1,626.5 million for the six months ended June 30, 2025 to a net profit of
+RMB1,568.2 million for the six months ended June 30, 2026. The year-on-year decrease in
+profit for the period was mainly due to the fact that we recorded gains from fair value changes
+of financial liabilities at fair value through profit or loss of RMB556.9 million for the six
+months ended June 30, 2025. As the preferred shares liabilities have been re-designated and
+reclassified from liabilities to equity as a result of the automatic conversion into ordinary
+shares upon the Listing in February 2025, no further fair value changes of financial liabilities
+at fair value through profit or loss have been or will be recorded after the Listing.
+
+
+
+
+                                              – 21 –
+Non-IFRS Measures
+
+To supplement our unaudited interim condensed consolidated financial statements, which
+are presented in accordance with IFRS Accounting Standards, we also use adjusted profit
+(non-IFRS measure), adjusted core profit (non-IFRS measure) and adjusted EBITDA
+(non-IFRS measure) as additional financial measures, which are not required by, or presented
+in accordance with, IFRS Accounting Standards. We believe these non-IFRS measures
+facilitate comparisons of operating performance from year to year and company to company
+by eliminating potential impacts of certain items.
+
+The following table reconciles our adjusted profit (non-IFRS measure) for the period
+presented in accordance with IFRS Accounting Standards, which is profit for the period.
+
+                                                                                     For the six months ended
+                                                                                              June 30,
+                                                                                            2026          2025
+                                                                                     (unaudited)    (unaudited)
+                                                                                      (RMB’000)      (RMB’000)
+
+Reconciliation of profit for the period to adjusted profit
+  (non-IFRS measure):
+Profit for the period                                                                   1,568,203          1,626,468
+
+Add:
+Fair value changes of financial liabilities at fair value
+   through profit or loss (1)                                                                      –        (556,904)
+Listing expenses (2)                                                                               –          16,184
+
+Adjusted profit (non-IFRS measure)                                                      1,568,203          1,085,748
+
+Adjusted profit margin (non-IFRS measure)                                                   21.0%               19.2%
+Notes:
+
+(1)      Fair value changes of financial liabilities at fair value through profit or loss mainly represent changes in
+         the fair value of the convertible redeemable preferred shares issued by us and relate to changes in our
+         valuation. As the preferred shares liabilities have been re-designated and reclassified from liabilities to
+         equity as a result of the automatic conversion into ordinary shares upon the Listing in 2025, no further fair
+         value changes of financial liabilities at fair value through profit or loss have been or will be recorded after
+         the Listing.
+
+(2)      Listing expenses relate to the Global Offering of the Company.
+
+Our adjusted profit for the six months ended June 30, 2026 increased by 44.4% to
+RMB1,568.2 million as compared with RMB1,085.7 million for the six months ended June 30,
+2025. Our adjusted profit margin for the six months ended June 30, 2026 increased to 21.0%
+from 19.2% for the six months ended June 30, 2025.
+
+
+
+
+                                                         – 22 –
+The following table reconciles our adjusted core profit (non-IFRS measure) for the period
+presented in accordance with IFRS Accounting Standards, which is profit for the period.
+
+                                                                                For the six months ended
+                                                                                         June 30,
+                                                                                       2026          2025
+                                                                                (unaudited)    (unaudited)
+                                                                                 (RMB’000)      (RMB’000)
+
+Reconciliation of profit for the period to adjusted core
+  profit (non-IFRS measure):
+Profit for the period                                                              1,568,203          1,626,468
+
+Add:
+Fair value changes of financial liabilities at fair value through
+   profit or loss                                                                             –        (556,904)
+Listing expenses                                                                              –          16,184
+Withholding tax on the distributable profits of the Group’s
+   PRC subsidiaries (1)                                                                77,166            50,000
+Foreign exchange differences, net                                                      84,721            (7,358)
+
+Adjusted core profit (non-IFRS measure)                                            1,730,090          1,128,390
+
+Adjusted core profit margin (non-IFRS measure)                                         23.2%              19.9%
+Note:
+
+(1)     Pursuant to the PRC Corporate Income Tax Law, a 10% withholding tax is levied on dividends declared
+        to foreign investors from the foreign investment enterprises established in Chinese Mainland. If a foreign
+        investor incorporated in Hong Kong meets the conditions and requirements under the double taxation
+        treaty arrangement entered into between the PRC and Hong Kong, the relevant withholding tax rate will
+        be 5%. The Group is therefore liable for withholding taxes on dividends distributed by those subsidiaries
+        established in Chinese Mainland in respect of earnings generated from January 1, 2008.
+
+Our adjusted core profit for the six months ended June 30, 2026 increased by 53.3% to
+RMB1,730.1 million as compared with RMB1,128.4 million for the six months ended June
+30, 2025. Our adjusted core profit margin for the six months ended June 30, 2026 increased to
+23.2% from 19.9% for the six months ended June 30, 2025.
+
+
+
+
+                                                      – 23 –
+The following table reconciles our adjusted EBITDA (non-IFRS measure) for the period
+presented in accordance with IFRS Accounting Standards, which is profit for the period.
+
+                                                                       For the six months ended
+                                                                                June 30,
+                                                                              2026          2025
+                                                                       (unaudited)    (unaudited)
+                                                                        (RMB’000)      (RMB’000)
+
+Reconciliation of profit for the period to adjusted EBITDA
+  (non-IFRS measure):
+Profit for the period                                                    1,568,203        1,626,468
+
+Add:
+Income tax expense                                                         375,782          253,300
+Finance costs                                                               71,435           19,441
+Depreciation and amortization                                               83,302           82,789
+
+Less:
+Interest income                                                           (158,957)         (61,274)
+
+EBITDA                                                                   1,939,765        1,920,724
+
+Add:
+Fair value changes of financial liabilities
+   at fair value through profit or loss                                           –        (556,904)
+Listing expenses                                                                  –          16,184
+Foreign exchange differences, net                                            84,721          (7,358)
+
+Adjusted EBITDA (non-IFRS measure)                                       2,024,486        1,372,646
+
+We define adjusted EBITDA (non-IFRS measure) as profit for the period, excluding income
+tax expense, finance costs, interest income, depreciation and amortization, fair value changes
+of financial liabilities at fair value through profit or loss, listing expenses and foreign
+exchange differences, net. For the same reasons stated above, we have made the adjustments
+of fair value changes of financial liabilities at fair value through profit or loss, listing expenses
+and foreign exchange differences, net.
+
+Our adjusted EBITDA for the six months ended June 30, 2026 increased by 47.5% to
+RMB2,024.5 million as compared with RMB1,372.6 million for the six months ended June 30,
+2025.
+
+
+
+
+                                               – 24 –
+We believe that adjusted profit (non-IFRS measure), adjusted core profit (non-IFRS measure)
+and adjusted EBITDA (non-IFRS measure) provide useful information to investors and others
+in understanding and evaluating our consolidated results of operations in the same manner
+as they helped our management. However, our presentation of adjusted profit (non-IFRS
+measure), adjusted core profit (non-IFRS measure) and adjusted EBITDA (non-IFRS measure)
+may not be comparable to similarly titled measures presented by other companies. The use
+of adjusted profit (non-IFRS measure), adjusted core profit (non-IFRS measure) and adjusted
+EBITDA (non-IFRS measure) has limitations as an analytical tool, and you should not
+consider them in isolation from, or as a substitute for an analysis of, our results of operations
+or financial condition as reported under IFRS Accounting Standards.
+
+Inventories
+
+Our inventories for the period decreased by 14.4% from RMB1,300.0 million as of December
+31, 2025 to RMB1,113.4 million as of June 30, 2026. The decrease in our inventories is
+primarily due to the reduction of the finished goods inventory due to seasonal product
+variations.
+
+Financial Assets at Fair Value through Profit or Loss
+
+Our financial assets at fair value through profit or loss represent wealth management products,
+which we purchased, issued by high-credit-quality financial institutions with a maturity period
+within one year or due on demand. Our financial assets at fair value through profit or loss
+decreased by 29.2% from RMB1,347.3 million as of December 31, 2025 to RMB953.5 million
+as of June 30, 2026. The decrease in our financial assets at fair value through profit or loss
+was primarily due to adjustments in our investment amounts in wealth management products
+in response to changes in the risk and return profiles of such products.
+
+Cash and Bank Balances, Restricted Cash and Interest-bearing Bank Borrowings
+
+Our cash and bank balances primarily consist of (i) cash on hand and cash at banks, and
+(ii) short-term bank deposits. Our cash and bank balances decreased from RMB4,320.6
+million as of December 31, 2025 to RMB3,295.4 million as of June 30, 2026, primarily due
+to the repayment of borrowings and payment of dividends. Our restricted cash increased
+slightly from RMB6,481.9 million as of December 31, 2025 to RMB6,525.5 million as of
+June 30, 2026. The majority of the restricted cash balances were short-term bank deposits
+held by our offshore entities and functioned as collateral to secure our bank facilities. Our
+interest-bearing bank borrowings decreased from RMB6,461.8 million as of December 31,
+2025 to RMB5,639.7 million as of June 30, 2026. As of June 30, 2026, all of these borrowings
+were short-term bank loans. The decrease in interest-bearing bank borrowings was primarily
+attributable to the repayment of borrowings during the period.
+
+Trade Payables
+
+Our trade payables remained broadly stable at RMB964.0 million as of June 30, 2026, as
+compared to RMB992.1 million as of December 31, 2025. Our trade payable turnover days
+remained stable at 36 days in 2025 and in the first half of 2026.
+
+
+
+                                             – 25 –
+Liquidity and Capital Resources
+
+During the six months ended June 30, 2026, we funded our cash requirements principally
+from cash flows from operating activities. Our net cash flows from operating activities for
+the Reporting Period was approximately RMB2,061.7 million, adjusted for certain non-cash
+and non-operating items. Adjustments for such non-cash and non-operating items primarily
+include (i) interest income; (ii) finance costs; and (iii) foreign exchange differences, net.
+
+As of June 30, 2026, we had cash and cash equivalents of RMB3,062.1 million (as of
+December 31, 2025: RMB3,885.8 million), comprising cash on hand and cash at banks,
+which were primarily held in Renminbi and USD. As of June 30, 2026, our interest-bearing
+bank borrowings amounted to approximately RMB5,639.7 million (as of December 31, 2025:
+RMB6,461.8 million). As of June 30, 2026, our bank facilities amounted to RMB8,456.1
+million, of which RMB5,913.0 million had been utilized with effective interest rates of 1.62%
+to 3.25% per annum. All of these bank facilities are guaranteed by the Group and secured by
+the buildings and restricted cash held by the Group.
+
+The Group adopts a prudent financial management approach for its treasury policy to ensure
+that the Group’s liquidity structure comprising assets, liabilities and other commitments is
+able to always meet its capital requirements. Taking into account the financial resources
+available to us, including cash generated from our operating activities, cash and cash
+equivalents, available facilities of the Company and the net proceeds from the Global
+Offering, our Directors are of the view that we have sufficient working capital required for the
+Group’s operations.
+
+Gearing Ratio
+
+As of June 30, 2026, the Group’s gearing ratio, which is calculated as total liabilities minus
+financial liabilities at fair value through profit or loss, divided by total assets, was 59.2%, as
+compared with 64.9% as of December 31, 2025. The decrease in gearing ratio was primarily
+due to the repayment of borrowings and payment of dividends.
+
+Foreign Currency Risk
+
+During the six months ended June 30, 2026, we operated mainly in the PRC with most of
+the transactions settled in Renminbi. Our foreign currency exposures mainly arise from the
+assets and liabilities denominated in foreign currencies other than the functional currencies
+of the respective entities in the Group. Foreign exchange risk arises from the fluctuations
+in exchange rates. The Group has continued to closely track and manage its exposure to
+fluctuations in foreign exchange rates on the Group’s assets and liabilities denominated in
+foreign currencies.
+
+Contingent Liabilities
+
+As of June 30, 2026, the Group had no material contingent liabilities.
+
+
+
+
+                                             – 26 –
+Capital Commitments
+
+As of June 30, 2026, the Group’s capital commitments amounted to RMB717.0 million (as of
+December 31, 2025: RMB21.0 million), which are mainly related to the ongoing construction
+of our new office building in Hangzhou.
+
+Material Acquisitions and Disposals and Significant Investments
+
+As of June 30, 2026, the Group neither had any significant investments (including any
+investments in an investee with a value of 5% or more of the Group’s total assets as of
+June 30, 2026), nor material acquisitions and disposals of subsidiaries, associates and joint
+ventures. We subscribed for wealth management products from financial institutions for
+cash management during the Reporting Period. For the six months ended June 30, 2026 and
+as of the date of this announcement, there was no information in respect of subscription for
+such wealth management products from single financial institution required to be disclosed
+pursuant to Chapter 14, Chapter 14A or Appendix D2 of the Listing Rules.
+
+Future Plan for Material Investments or Capital Assets
+
+As of June 30, 2026, save as disclosed in the section headed “Future Plans and Use of
+Proceeds” in the Prospectus and further explained in the section headed “Use of Proceeds
+from the Global Offering” below, the Group had no future plan for material investments or
+capital assets.
+
+Pledge of Assets
+
+As of June 30, 2026, all of the Group’s bank facilities are guaranteed by the Group or secured
+by the buildings with net carrying amounts of approximately RMB240.5 million or restricted
+cash with amounts of approximately RMB6.5 billion held by the Group (as of December 31,
+2025, buildings with net carrying amounts of approximately RMB240.5 million and restricted
+cash with amounts of approximately RMB6.5 billion held by subsidiaries of the Company
+were pledged for the Group’s interest-bearing bank borrowings).
+
+Capital Expenditure
+
+For the six months ended June 30, 2026, our total capital expenditure was approximately
+RMB390.6 million, compared to approximately RMB111.3 million for the six months ended
+June 30, 2025. Our capital expenditures are primarily incurred for purchases of property,
+plant and equipment and payment for the right-of-use of a parcel of leasehold land. We
+intend to fund our future capital expenditures with our existing cash balance, as well as cash
+generated primarily from operating activities. See the section headed “Future Plans and Use
+of Proceeds” in the Prospectus for more details. We may reallocate the fund to be utilized on
+capital expenditures and long-term investments based on our ongoing business needs.
+
+
+
+
+                                           – 27 –
+Employees and Remuneration Policies
+
+As of June 30, 2026, we had 3,231 full-time employees (as of December 31, 2025: 3,016
+employees). The employee benefit expense (including directors’ and chief executive’s
+remuneration), comprising wages and salaries, as well as pension scheme contributions and
+social welfare, were approximately RMB460.8 million for the six months ended June 30,
+2026.
+
+We recruit our employees primarily from the open market through recruitment advertisements,
+agencies, online platforms and referrals. We attract and retain suitable personnel by offering
+competitive wages and benefits. The level of salaries and benefits of the Group’s employees
+is determined with reference to the market and their respective individual qualifications and
+abilities, and incentive mechanisms such as performance bonuses have been established.
+
+We encourage everyone within our organization to pursue professional development
+opportunities. In furtherance of this goal, we have been offering trainings and career
+development programs to our employees to support their growth and upward mobility. We
+encourage our young employees to take leadership roles. We provide a large variety of
+professional development training. We conduct employee assessments at the end of each year
+to provide feedback and guidance, and, depending on their performance and responsibilities,
+provide promotion and training opportunities.
+
+The Post-IPO Share Scheme was approved by way of Shareholders’ resolutions dated January
+27, 2025 with effect from Listing Date. The purpose of the Post-IPO Share Scheme is to
+provide selected participants with the opportunity to acquire shareholding interests in the
+Company so as to align the interests of the selected participants with those of the Company
+and to encourage selected participants to work towards enhancing the value of the Company
+and its Shares for the benefit of the Company and Shareholders as a whole. The Post-IPO
+Share Scheme will provide the Company with a flexible means of retaining, incentivizing,
+rewarding, remunerating, compensating and/or providing benefits to selected participants. The
+principal terms of the Post-IPO Share Scheme are summarized in the section headed “Statutory
+and General Information – Post-IPO Share Scheme” in Appendix IV to the Prospectus.
+
+USE OF PROCEEDS FROM THE GLOBAL OFFERING
+
+The Shares were listed on the Main Board of the Stock Exchange on February 12, 2025. The
+net proceeds received from the Global Offering (taking into account the partial exercise of the
+over-allotment option and after deduction of the underwriting fees and commissions and other
+estimated offering expenses payable by the Company in connection with the Global Offering)
+were approximately HK$1,930 million.
+
+
+
+
+                                            – 28 –
+As of June 30, 2026, the net proceeds utilized was approximately HK$566.6 million and the
+remaining net proceeds was approximately HK$1,363.4 million. The Company intends to
+continue to utilize the remaining net proceeds in the future for the purposes as set out in the
+Prospectus. The table below sets out the planned usage of the net proceeds from the Global
+Offering and actual usage up to June 30, 2026:
+
+                                                             Net      Utilized    Unutilized
+                                                        proceeds       amount       amount
+                                                        from the         up to         as of Expected timeline for
+                                                          Global      June 30,     June 30, fully utilizing the
+Use of proceeds                            Allocation   Offering          2026         2026 unutilized amount (1)
+                                                  (%)          (HK$ in million)
+
+To strengthen our information
+  technology team and continue to
+  digitalize our business management
+  and store operations                            25       482.5         118.4        364.1 By December 31, 2028
+To enhance our supply chain capabilities          25       482.5         134.5        348.0 By December 31, 2028
+  and improve our supply chain
+  management efficiency
+To strengthen our branding and                    20       386.0         138.4        247.6 By December 31, 2028
+  consumer engagement efforts and
+  implement diversified approaches to
+  build our brand image and increase
+  consumer awareness
+To recruit additional employees for               10       193.0          53.3        139.7 By December 31, 2028
+  franchisee management as we
+  continue to execute our regional
+  densification strategy, strengthen our
+  support for franchisees and further
+  foster a close franchisee community
+To recruit experts in product                     10       193.0          49.5        143.5 By December 31, 2028
+  development and enhance our product
+  development capabilities
+For working capital and other general             10       193.0          72.5        120.5 By December 31, 2028
+  corporate purposes
+
+Total                                          100%        1,930         566.6       1,363.4
+
+Notes:
+
+(1)      The expected timeline for utilization of the unutilized proceeds disclosed above is based on the best
+         estimation of the Board in accordance with latest information as of the date of this announcement.
+
+(2)      Any discrepancies in this table between the total and sums of amounts are due to rounding.
+
+
+
+
+                                                        – 29 –
+OTHER INFORMATION
+
+Dividends
+
+The Board did not recommend the payment of any interim dividend for the six months ended
+June 30, 2026.
+
+As set out in the Prospectus, in January 2025, the Company passed a Board resolution and
+Shareholders’ resolution, declaring a dividend of RMB1.74 billion based on the Company’s
+share premium and retained profits from our subsidiaries as of September 30, 2024 to the
+existing Shareholders whose names appeared in the register of members of the Company on
+December 31, 2024 (the “Dividend”). We have not and will not apply any proceeds from
+the Global Offering for settlement of the Dividend. As of the date of this announcement, the
+Company has fully settled the Dividend with the funds received from the dividend declared by
+our subsidiaries and/or other financial resources.
+
+For details of the Group’s general dividend policy, see the section headed “Financial
+Information – Dividends” in the Prospectus.
+
+Purchase, Sale or Redemption of the Company’s Listed Securities
+
+During the six months ended June 30, 2026, the Company entered into a private arrangement
+to repurchase a total of 34,000,400 Shares on June 24, 2026 at a price of HK$20.38 per Share
+or approximately HK$692,928,152 in aggregate (excluding commissions and other expenses).
+The repurchase was completed on July 2, 2026.
+
+The above repurchase was conducted as part of the issuance of the Bonds (as defined and
+further described under the section headed “Events after Reporting Period” below). The
+repurchase was conducted to facilitate hedging arrangements in connection with the offering
+of the Bonds, support execution of the Bonds offering and mitigate potential negative impact
+on the market price of the Shares that may otherwise arise in connection with such hedging
+activities. The Board considers that the share repurchase is in the interests of the Company
+and the Shareholders as a whole.
+
+As of the date of this announcement, the 34,000,400 Shares repurchased have been cancelled.
+
+Save as disclosed above, neither the Company nor any of its subsidiaries purchased, sold or
+redeemed any of the Company’s listed securities (including sale of treasury shares (as defined
+under the Listing Rules)) for the six months ended June 30, 2026. As of June 30, 2026, no
+treasury shares (as defined under the Listing Rules) were held by the Company.
+
+
+
+
+                                           – 30 –
+

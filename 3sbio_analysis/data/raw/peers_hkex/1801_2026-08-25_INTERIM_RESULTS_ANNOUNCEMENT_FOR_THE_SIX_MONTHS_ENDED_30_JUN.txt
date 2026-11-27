@@ -1,0 +1,2295 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for 
+the contents of this announcement, make no representation as to its accuracy or completeness and expressly disclaim 
+any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents 
+of this announcement.
+
+信 達 生 物 製 藥
+INNOVENT BIOLOGICS, INC.
+(Incorporated in the Cayman Islands with limited liability)
+(Stock Code: 1801)
+
+INTERIM RESULTS ANNOUNCEMENT
+FOR THE SIX MONTHS ENDED 30 JUNE 2026
+
+The  board  (the  “Board”)  of  directors  (the  “Directors”)  of  Innovent  Biologics,  Inc.  (the 
+“Company”  or  “Innovent”,  and  together  with  its  subsidiaries,  the  “Group”)  is  pleased  to 
+announce  the  unaudited  condensed  consolidated  results  of  the  Group  for  the  six  months  ended 
+30  June  2026  (the  “Reporting  Period”).  These  interim  results  have  been  reviewed  by  the  audit 
+committee of the Company (the “Audit Committee”) and the Company’s auditor, Messrs. Deloitte 
+Touche Tohmatsu.
+
+In this announcement, “we”, “us” and “our” refer to the Company and where the context otherwise 
+requires,  the  Group.  Certain  amounts  and  percentage  figures  included  in  this  announcement  have 
+been  subject  to  rounding  adjustments,  or  have  been  rounded  to  one  or  two  decimal  places.  Any 
+discrepancies  in  any  table,  chart  or  elsewhere  between  totals  and  sums  of  amounts  listed  therein 
+are due to rounding.
+
+1
+
+FINANCIAL HIGHLIGHTS
+
+IFRS measures: 
+
+Product Revenue
+Total Revenue
+Gross profit
+Profit for the period
+
+Non-IFRS measures1: 
+
+Six Months Ended 30 June
+
+2026
+RMB’000
+(unaudited)
+
+2025 Year-over-year
+change
+
+RMB’000
+(unaudited)
+
+8,201,469
+8,617,801
+7,321,757
+1,253,142
+
+5,233,773
+5,953,094
+5,119,642
+834,321
+
+56.7%
+44.8%
+43.0%
+50.2%
+
+Non-IFRS profit for the period
+Non-IFRS EBITDA for the period
+
+1,703,910
+2,078,769
+
+1,213,152
+1,412,829
+
+40.5%
+47.1%
+
+Strong Revenue and Profit Growth Marks a New Stage of High-Quality Development
+
+In  the  first  half  of  2026,  the  Company  achieved  total  revenue  of  RMB8,617.8  million  and 
+product revenue of RMB8,201.5 million, representing year-on-year growth of 44.8% and 56.7%, 
+respectively. This strong performance was driven by the successful execution of our dual-engine 
+growth  strategy,  supported  by  accelerating  contributions  from  the  general  biomedicine  portfolio 
+and the continued ramp-up of oncology products newly included in the National Reimbursement 
+Drug List (“NRDL”).
+
+International  Financial  Reporting  Standards  (“IFRS”)  net  profit  improved  by  50.2%  to 
+RMB1,253.1  million,  while  Non-IFRS  net  profit  rose  by  40.5%  to  RMB1,703.9  million.  The 
+strong  profit  growth  was  supported  by  rapid  revenue  ramp-up  and  continued  improvement  in 
+operational efficiency.
+
+The  results  in  the  first  half  of  2026  represent  not  only  a  continuation  of  our  track  record  of 
+achievement,  but  also  demonstrate  that  the  Company  has  entered  a  new  stage  of  high-quality 
+growth in both revenue and profit, as we advance toward the goal of becoming a global premier 
+biopharmaceutical company.
+
+1 
+
+We  adopted  Non-IFRS  measures  in  order  to  more  clearly  illustrate  our  normal  operating  results  by  eliminating 
+potential  impacts  of  items  that  the  management  do  not  consider  to  be  indicative  of  the  Company’s  operating 
+performance,  and  thus  facilitate  comparisons  of  operating  performance  from  period  to  period  and  company  to 
+company  to  the  extent  applicable.  Non-IFRS  measures  are  not  financial  measures  defined  under  the  IFRS,  and 
+represent corresponding financial measures under IFRS excluding the effect brought by certain non-cash items, 
+including  (a)  share-based  compensation  expenses;  and  (b)  net  foreign  exchange  gains  or  losses.  Please  refer  to 
+“Management  Discussion  and  Analysis  –  Financial  Review  –  10.  Non-IFRS  measures”  for  more  information 
+about the Non-IFRS measures.
+
+2
+
+IFRS measures:
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Total  revenue  was  RMB8,617.8  million  for  the  six  months  ended  30  June  2026, 
+representing  an  increase  of  44.8%  from  RMB5,953.1  million  for  the  six  months  ended  30 
+June  2025.  Total  revenue  primarily  comprised  product  revenue  and  license  fee  income. 
+Product revenue increased by 56.7% to RMB8,201.5 million for the six months ended 30 
+June 2026, as compared with RMB5,233.8 million for the six months ended 30 June 2025. 
+Such  growth  reflects  the  successful  execution  of  our  dual-engine  growth  strategy,  fueled 
+by accelerated contributions from the general biomedicine portfolio and ramp-up of newly 
+NRDL-listed products in the oncology portfolio.
+
+Gross  profit  was  RMB7,321.8  million  for  the  six  months  ended  30  June  2026,  increased 
+by RMB2,202.2 million from RMB5,119.6 million for the six months ended 30 June 2025. 
+Gross profit margin was 85.0% for the six months ended 30 June 2026, as compared with 
+86.0%  for  the  six  months  ended  30  June  2025.  This  represents  a  minor  fluctuation  as  our 
+product portfolio continues to expand and diversify.
+
+Research  and  Development  (“R&D”)  expenses  were  RMB1,683.7  million  for  the  six 
+months ended 30 June 2026 compared to RMB1,008.8 million for the six months ended 30 
+June 2025. The growth in R&D investment during the Reporting Period is in line with our 
+systematic  portfolio  planning  and  growing  globalization  efforts  to  support  the  Company’s 
+long-term strategic development objectives.
+
+Selling and marketing expenses were RMB3,235.9 million, accounting for 37.5% of total 
+revenue, or 39.5% of product revenue for the six months ended 30 June 2026, as compared 
+with  RMB2,375.1  million,  or  39.9%  of  total  revenue,  or  45.4%  of  product  revenue  for  the 
+six  months  ended  30  June  2025.  The  improvement  in  the  expense  ratio  was  mainly  driven 
+by strong revenue ramp-up and continued improvement in operating efficiency.
+
+Profit for the period reached RMB1,253.1 million for the six months ended 30 June 2026, 
+representing  an  increase  of  50.2%,  or  RMB418.8  million,  from  the  profit  of  RMB834.3 
+million  for  the  six  months  ended  30  June  2025.  As  discussed  above,  the  sustained 
+improvement  in  profitability  was  underpinned  by  robust  revenue  growth  as  well  as 
+continuous enhancements in operating efficiency.
+
+3
+
+Non-IFRS measures:
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Non-IFRS  gross  profit  margin  was  85.5%  for  the  six  months  ended  30  June  2026,  as 
+compared with 86.8% for the six months ended 30 June 2025.
+
+Non-IFRS  R&D  expenses  were  RMB1,542.6  million  for  the  six  months  ended  30  June 
+2026, as compared with RMB903.0 million for the six months ended 30 June 2025.
+
+Non-IFRS  administrative  and  other  expenses  were  RMB347.2  million  and  RMB299.0 
+million for the six months ended 30 June 2026 and 2025, respectively.
+
+Non-IFRS  selling  and  marketing  expenses  were  RMB3,183.5  million,  accounting  for 
+36.9%  of  total  revenue,  or  38.8%  of  product  revenue  for  the  six  months  ended  30  June 
+2026,  as  compared  with  RMB2,329.4  million,  accounting  for  39.1%  of  total  revenue,  or 
+44.5% of product revenue for the six months ended 30 June 2025.
+
+Non-IFRS  profit  was  RMB1,703.9  million  for  the  six  months  ended  30  June  2026, 
+representing  an  increase  of  40.5%,  as  compared  with  RMB1,213.2  million  for  the  six 
+months ended 30 June 2025.
+
+Non-IFRS  Earnings  Before  Interest,  Taxes,  Depreciation  and  Amortization 
+(“EBITDA”)  was  RMB2,078.8  million  for  the  six  months  ended  30  June  2026, 
+representing  an  increase  of  47.1%,  as  compared  with  RMB1,412.8  million  for  the  six 
+months ended 30 June 2025.
+
+4
+
+BUSINESS HIGHLIGHTS
+
+For  the  six  months  ended  30  June  2026  and  up  to  the  date  of  this  announcement,  the  Company 
+recorded  accelerated  revenue  growth  and  continued  profit  expansion,  preserved  a  strong  cash 
+position, advanced a series of global collaboration arrangements, and observed increasing global 
+value  emerging  from  its  pipeline  assets.  The  accumulated  achievements  represented  a  pivotal 
+progress  as  the  Company  strategically  refines  its  roadmap  to  transform  from  a  regional  leader 
+into a global-premier biopharmaceutical company in the next stage. Specifically:
+
+For  the  six  months  ended  30  June  2026,  the  Company  recorded  total  revenue  of  RMB8,617.8 
+million, including product revenue of RMB8,201.5 million, representing year-on-year increases 
+of 44.8% and 56.7%, respectively, benefiting from the Company’s dual-engine growth strategy.
+
+Meanwhile,  profitability  continued  to  expand  with  strong  revenue  growth  and  efficiency 
+improvement. Net profit under IFRS increased by 50.2% year over year to RMB1,253.1 million. 
+Non-IFRS net profit increased by 40.5% year over year to RMB1,703.9 million, while Non-
+IFRS EBITDA rose by 47.1% year over year to RMB2,078.8 million.
+
+Product portfolio expanded to 20 marketed products, of which 13 are listed on the NRDL.
+
+• 
+
+• 
+
+• 
+
+Since  1  January  2026,  the  updated  NRDL  list  features  a  new  indication  of  TYVYT® 
+(sintilimab  injection),  and  first-time  inclusions  of  SYCUME®  (teprotumumab  N01 
+injection),  limertinib,  Dupert®  (fulzerasib),  DOVBLERON®  (taletrectinib),  Retsevmo® 
+(selpercatinib), and Jaypirca® (pirtobrutinib).
+
+In  oncology,  we  added  two  commercialized  products  –  Verzenios®  (abemaciclib)  and 
+Vanflyta®  (quizartinib).  Meanwhile,  two  products  expanded  new  indications  –  TYVYT® 
+(sintilimab  injection)  approved  for  its  tenth  indication  in  renal  cell  carcinoma  (“RCC”), 
+and  Jaypirca®  (pirtobrutinib)  approved  for  the  treatment  of  chronic  lymphocytic  leukemia/
+small  lymphocytic  lymphoma  (“CLL/SLL”)  –  further  strengthening  our  leadership  in 
+oncology area.
+
+In  general  biomedicine,  we  expanded  our  commercial  footprint  and  established  it  as  a 
+new  growth  pillar  for  the  Company.  Specifically,  mazdutide,  SINTBILO®  (tafolecimab 
+injection),  SYCUME®  (teprotumumab  N01  injection)  and  PECONDLE®  (picankibart 
+injection) have contributed as crucial new growth drivers.
+
+The  global  innovation  pipeline  is  progressing  smoothly:  three  high-potential  assets  have 
+entered  or  are  about  to  enter  global  Phase  3  clinical  trials,  with  a  combined  potential 
+addressable  market  exceeding  US$60  billion,  and  will  potentially  be  important  drivers  of 
+the Company’s future value.
+
+• 
+
+IBI363  (PD-1/IL-2α-biased,  Takeda  R&D  code:  TAK-928):  The  first-in-class  next 
+generation  immune-oncology  (“IO”)  therapy,  registrational  clinical  studies  of  four 
+indications and multiple Proof-of-Concept (“PoC”) clinical studies are undergoing.
+
+• 
+
+The  first  global  registrational  Phase  3  clinical  trial  (MarsLight-11)  is  currently 
+ongoing,  evaluating  IBI363  monotherapy  for  IO-resistant  squamous  non-small  cell 
+lung cancer (“NSCLC”).
+
+5
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+IBI363 as a monotherapy for IO-resistant non-squamous NSCLC is also planned to be 
+included in global registrational Phase 3 clinical trial (MarsLight-11).
+
+The  first  China  pivotal  clinical  study  is  going,  evaluating  IBI363  monotherapy  in 
+head-to-head  comparison  with  pembrolizumab  in  IO-naïve  melanoma.  Data  readout 
+of  the  study  and  a  potential  new  drug  application  (“NDA”)  submission  of  IBI363 
+is  expected  by  end  of  2026  to  early  2027,  subject  to  study  results  and  regulatory 
+communications.
+
+The  second  China  Phase  3  clinical  study  was  initiated  recently,  evaluating  IBI363 
+in  combination  with  bevacizumab  for  advanced  colorectal  cancer  (“CRC”)  that  is 
+refractory or intolerant to standard treatment.
+
+Encouraging  PoC  results  of  IBI363  were  presented  at  the  2026  American  Society  of 
+Clinical  Oncology  (“ASCO”)  Annual  Meeting,  including  the  first-line  NSCLC  and 
+IO-resistant NSCLC.
+
+IBI363 is being developed as the next-generation IO therapy. Multiple PoC studies are 
+currently  undergoing,  including  in  first-line  NSCLC,  first-line  CRC,  and  exploration 
+of  several  new  indications.  IBI363  has  been  granted  three  Breakthrough  Therapy 
+Designations  (“BTD”)  by  the  China  National  Medical  Products  Administration 
+(“NMPA”)  and  two  Fast  Track  Designations  (“FTD”)  by  the  United  States  (“U.S.”) 
+Food and Drug Administration (“FDA”).
+
+• 
+
+Arcotatug  tavatecan  (IBI343/TAK-921):  Global  first  CLDN18.2  antibody-drug 
+conjugate (“ADC”) under NDA review.
+
+• 
+
+• 
+
+• 
+
+The  multi-regional  Phase  3  clinical  study  G-HOPE-001  in  China  and  Japan  in  third-
+line  gastric  or  gastroesophageal  cancer  (“G/GEJA”)  met  its  primary  endpoint, 
+supporting  acceptance  of  arcotatug  tavatecan’s  first  NDA  and  the  grant  of  priority 
+review by the NMPA in June 2026.
+
+A Phase 3 clinical study G-HOPE-002 in third-line pancreatic ductal adenocarcinoma 
+(“PDAC”) in China is ongoing.
+
+Additional  PoC  studies  are  ongoing  including  in  first-line  PDAC  and  first-line  G/
+GEJA.
+
+• 
+
+IBI324  (VEGF/ANG2):  The  potential  best-in-disease  retinal  therapy,  with  global 
+Phase 3 clinical studies planned to commence in second half of 2026.
+
+• 
+
+• 
+
+Positive  topline  data  of  IBI324  were  announced  by  our  partner  Ollin  Biosciences   
+(“Ollin”)  from  the  head-to-head  Phase  1b  JADE  study  versus  faricimab  (Vabysmo®) 
+in the first quarter of 2026. IBI324 showed faster and greater (superior) retinal drying 
+in  diabetic  macular  edema  (“DME”)  and  faster,  greater,  and  more  durable  control 
+of  pigment  epithelial  detachments  (“PED”)  in  neovascular  age-related  macular 
+degeneration  (“nAMD”).  Additionally,  IBI324  delivered  numerically  greater  best 
+corrected visual acuity (“BCVA”) improvements in both DME and nAMD.
+
+The  global  multi-regional  Phase  3  clinical  studies  in  DME  and  nAMD  are  planned 
+to  initiate  by  our  partner  Ollin  Biosciences  in  the  second  half  of  2026.  Under  the 
+collaboration,  we  will  be  responsible  for  patient  enrollments  in  China  and  South 
+Korea.
+
+6
+
+The  Company  continues  to  advance  its  marketed  products  and  late-stage  pipeline,  with 
+multiple NDAs and registrational trials underway. Comprehensive lifecycle management of 
+high-value assets and steady new product launches are the core engines driving continuous 
+growth.
+
+• 
+
+TYVYT®  (sintilimab  injection):  the  tenth  indication  is  approved  by  the  NMPA,  in 
+combination  with  fruquintinib  as  second-line  treatment  of  RCC.  As  part  of  life  cycle 
+management, multiple Phase 3 clinical studies of sintilimab are ongoing or in plan.
+
+•  Mazdutide  (GCG/GLP-1):  the  world’s  first  approved  glucagon  (“GCG”)/glucagon-
+like  peptide-1  (“GLP-1”)  dual  receptor  agonist  for  adult  weight  management  and  type  2 
+diabetes (“T2D”).
+
+• 
+
+The  NDA  for  the  9mg  dose  of  mazdutide  for  adult  weight  management  is  currently 
+under review.
+
+•  Mazdutide pre-filled multi-dose pen (2ml; 24mg) was approved by the NMPA in May 
+
+2026, bringing new options for long-term treatment of patients with T2D.
+
+• 
+
+• 
+
+Five  Phase  3  clinical  studies  have  met  study  endpoints,  and  four  Phase  3  programs 
+were  ongoing  to  expand  into  new  indications  such  as  adolescent  obesity,  obesity 
+with  obstructive  sleep  apnea  (“OSA”),  overweight  or  obesity  accompanied  metabolic 
+dysfunction-associated fatty liver disease (“MAFLD”), and obesity with hypertension.
+
+Additional  Ph1b/Ph2  clinical  studies  were  ongoing  in  metabolic  dysfunction-
+associated  steatohepatitis  (“MASH”),  heart  failure  with  preserved  ejection  fraction 
+(“HFpEF”),  a  head-to-head  comparison  of  mazdutide  versus  tirzepatide  for  the 
+treatment of moderate-to-severe obesity.
+
+SYCUME®  (teprotumumab  N01  injection):  Approved  and  included  in  the  NRDL  as 
+China’s  first  domestic  IGF-1R  monoclonal  antibody  for  thyroid  eye  disease  (“TED”).  A 
+new Phase 3 clinical study in inactive TED is anticipated to readout data in the second half 
+of  2026,  and  a  head-to-head  clinical  study  comparing  with  glucocorticoid  therapy  in  the 
+first-line treatment for TED is ongoing.
+
+SINTBILO®  (tafolecimab  injection):  China’s  first  anti-PCSK9  monoclonal  antibody 
+included  in  the  NRDL  for  hypercholesterolemia.  A  Phase  3  clinical  study  is  currently 
+ongoing  for  the  first-line  treatment  of  hypercholesterolemia  with  NDA  submission  in  plan 
+by the end of 2026.
+
+PECONDLE®  (picankibart  injection):  China’s  first  domestic  IL-23p19  monoclonal 
+antibody  for  psoriasis.  A  Phase  3  clinical  study  is  currently  ongoing  in  inadequate 
+responders to prior anti-IL-17 therapies. Additionally, new clinical studies are ongoing for 
+adolescent psoriasis and adult psoriatic arthritis.
+
+Efdamrofusp  Alfa  (VEGF/complement):  A  Phase  3  clinical  study  (STAR)  in  Chinese 
+patients  with  nAMD  met  the  52-week  primary  endpoint  in  the  first  half  of  2026.  NDA 
+submission is in plan for this indication by the end of 2026.
+
+Tigulixostat  (xanthine  oxidase  inhibitor  (“XOI”)):  A  Phase  3  clinical  study  for 
+hyperuricemia in gout patients completed first patient dosing in March 2026.
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+7
+
+• 
+
+• 
+
+IBI354  (HER2  ADC):  Two  pivotal  Phase  3  clinical  studies  were  initiated  and  ongoing  in 
+China  in  platinum-resistant  ovarian  cancer  (“PROC”)  and  first-line  HER2-positive  breast 
+cancer  (“BC”).  In  addition,  the  new  Phase  3  clinical  studies  of  IBI354  as  neoadjuvant 
+therapy and adjuvant therapy of BC are in plan.
+
+IBI3003  (GPRC5D/BCMA/CD3):  A  pivotal  Phase  3  clinical  study  in  China  for  second 
+to  fifth-line  relapsed  or  refractory  multiple  myeloma  (“R/R  MM”)  completed  first  patient 
+dosing  in  June  2026.  IBI3003  is  globally  second  and  China’s  first  domestic  GPRC5D/
+BCMA/CD3 tri-specific antibody that has advanced into Phase 3 clinical stage.
+
+The  Company  continues  to  strengthen  its  global  early-stage  innovative  pipeline  by 
+accumulating  clinical  data,  aiming  to  advance  high-potential  candidates  into  global  late-
+stage clinical development.
+
+In  oncology,  our  focus  is  on  leveraging  next-generation  ‘IO+ADC’  candidates  to  Phase  1/2 
+clinical studies.
+
+• 
+
+• 
+
+IBI3003  (GPRC5D/BCMA/CD3)  was  granted  FTD  and  Orphan  Drug  Designation 
+(“ODD”)  by  the  FDA  for  the  treatment  of  R/R  MM  patients  who  have  received  at  least 
+four or more lines of previous anti-myeloma therapies. A Phase 1 clinical study is currently 
+undergoing in the U.S..
+
+Based  on  our  proprietary  SoloTx®  and  DuetTx®  ADC  platforms,  multiple  ADC  assets  are 
+underway or planning to enter into Phase 1 clinical studies. Among these, IBI3001 (EGFR/
+B7H3  ADC),  IBI3005  (EGFR/HER3  ADC),  and  IBI3014  (PD-L1/TROP2  ADC)  are 
+under  dose  optimization.  IBI3009  (DLL3  ADC),  IBI3020  (CEACAM5  dual-payload 
+ADC),  and  IBI3028  (EGFR/c-Met  dual-payload  ADC)  continue  to  advance  through 
+early-stage exploration.
+
+In  general  biomedicine,  a  new  wave  of  novel  candidates  were  advanced  into  the  Phase  1/2 
+clinical stage.
+
+• 
+
+• 
+
+• 
+
+• 
+
+IBI3032 (daily oral GLP-1 small molecule): Phase 1 clinical studies in China and the U.S. 
+are undergoing.
+
+IBI3016  (AGT  siRNA):  A  Phase  2  clinical  study  in  hypertension  was  initiated  in  China; 
+clinical  development  in  plan  concurrently  in  Japan  as  Japan’s  Ministry  of  Health,  Labour 
+and Welfare (“MHLW”) granted investigational new drug (“IND”) approval recently.
+
+IBI3002  (TSLP/IL-4Rα):  Positive  preliminary  Phase  1  clinical  data  readout  achieved, 
+with  multiple  Phase  2  clinical  studies  undergoing  or  planning  to  initiate,  including  atopic 
+dermatitis  (“AD”),  seasonal  allergic  rhinitis  (“SAR”),  persistent  allergic  rhinitis  (“PAR”), 
+and chronic rhinosinusitis with nasal polyps (“CRSwNP”).
+
+IBI355  (CD40L):  A  Phase  2  clinical  trial  in  China  is  planned  to  initiate  for  Sjögren’s 
+disease  (“SjD”)  based  on  the  positive  result  of  Phase  1  clinical  study.  Our  partner  Spero 
+Therapeutics  (“Spero”)  plans  to  initiate  a  Phase  2  trial  in  the  second  quarter  of  2027  in 
+IgG4-related disease (“IgG4-RD”).
+
+8
+
+• 
+
+• 
+
+IBI3011 (IL-1RAP): A Phase 1 clinical study in healthy volunteers and patients with acute 
+gouty arthritis is ongoing.
+
+Additionally,  multiple  innovative  pipeline  assets  in  general  biomedicine  have  advanced 
+or  are  planning  to  enter  clinical  stage,  including  IBI3013  (IL-15),  IBI3042  (weekly  oral 
+GLP-1),  IBI3040  (Amylin),  IBI3046  (INHBE  siRNA),  IBI3031  (IGF-1R/TSHR)  and 
+IBI3038 (IGF-1R/IL-6).
+
+Furthermore, Innovent Academy kept advancing new molecules into the IND-enabling stage. The 
+Company  has  established  a  systematic  approach  that  propels  our  innovation  pipeline  leveraging 
+the end-to-end platform capabilities.
+
+We  consolidated  our  commercial  leadership  and  accelerated  globalization  through 
+diversified strategic partnerships:
+
+•  We continued to  advance the strategic collaboration with Takeda (TSE:  4502, NYSE: 
+TAK),  accelerating  the  global  development  and  exploration  of  multiple  clinical  trials  for 
+next-generation  IO  and  ADC  therapies,  including  IBI363  (Takeda  R&D  code:  TAK-928; 
+PD-1/IL-2α-biased)  and  arcotatug  tavatecan  (CLDN18.2  ADC,  Innovent/Takeda  R&D  code: 
+IBI343/TAK-921).
+
+•  We  entered  into  a  strategic  collaboration  with  Pfizer  (NYSE:  PFE)  for  the  R&D 
+of  12  promising  new  breakthrough  early-stage  and de novo  cancer  medicines.  The 
+partnership  includes  licensing,  co-development,  and  co-commercialization  (“Co-Co”) 
+opportunities  across  a  diverse  portfolio  of  ADCs  with  novel  differentiated  payloads  and 
+multi-specific antibodies with differentiated immune-engaging features and unique designs. 
+We  have  received  a  US$650  million  upfront  payment  and  are  eligible  for  up  to  US$9.85 
+billion  in  development,  regulatory  and  commercial  milestone  payments,  bringing  the  total 
+value of the deal to up to US$10.5 billion. Additionally, we will receive up to double-digit 
+royalties  on  sales  of  each  licensed  product  if  approved.  For  the  Co-Co  programs,  the  two 
+companies will share the profits in the U.S. and Europe.
+
+•  We  entered  into  the  seventh  partnership  with  Eli  Lilly  and  Company  (“Eli  Lilly” 
+or  “Lilly”)  to  advance  novel  medicines  in  oncology  and  immunology,  establishing  a 
+new  model  for  Innovent  to  accelerate  the  global  development  of  our  innovative  pipeline. 
+We  will  lead  the  development  of  programs  from  concept  through  clinical  PoC  (Phase 
+2  clinical  trial  completion)  in  China,  while  Lilly  gains  exclusive  license  to  develop 
+and  commercialize  the  programs  worldwide  outside  Greater  China.  We  received  a 
+US$350  million  upfront  payment  and  are  eligible  to  receive  development,  regulatory  and 
+commercial milestone payments totaling up to approximately US$8.5 billion. Additionally, 
+we  will  be  eligible  for  tiered  royalties  on  net  sales  of  each  product  outside  of  Greater 
+China.
+
+•  We entered into collaboration with Spero for IBI355, a Phase 2-ready third-generation 
+anti-CD40L antibody. Spero will receive exclusive global rights, excluding Greater China, 
+to  develop,  research,  manufacture,  and  commercialize  IBI355.  We  received  an  upfront 
+payment,  and  are  eligible  to  receive  development,  regulatory  and  commercial  milestone 
+payments, totaling approximately US$1.1 billion, as well as tiered royalties on net sales.
+
+•  We  entered  into  the  eighth  partnership  with  Lilly  to  commercialize  Verzenios® 
+(abemaciclib)  in  Mainland  China.  This  further  strengthens  our  strategic  partnership  with 
+Lilly and proactively expanding into the BC field.
+
+9
+
+•  We  entered  into  exclusive  agreement  with  Daiichi  Sankyo  for  VANFLYTA®  (quizartinib) 
+commercialization  in  Mainland  China.  We  will  hold  sole  commercialization  rights  for 
+Vanflyta®  (quizartinib)  in  China  and  lead  market  promotion,  while  Daiichi  Sankyo  will  be 
+responsible for the development, manufacturing and supply.
+
+Our high-quality R&D data were featured in top-notch scientific journals and conferences, 
+including:
+
+• 
+
+At  the  2026  ASCO  Annual  Meeting,  we  presented  long-term  follow-up  results  from  a 
+Phase  1b  study  of  IBI363  (PD-1/IL-2α-biased)  in  IO-resistant  NSCLC  and  preliminary  PoC 
+data of IBI363 plus chemotherapy in the first-line treatment of advanced NSCLC.
+
+•  Multiple oral and poster presentations of mazdutide featured at the 2026 American Diabetes 
+Association (“ADA”) 86th Scientific Sessions, as well as early clinical and preclinical data 
+for  next-generation  weight-loss  and  metabolic  pipeline,  including  preclinical  and  Phase 
+1  data  for  IBI3032  (daily  oral  GLP-1  small  molecule),  and  preclinical  research  data  for 
+IBI3042  (weekly  oral  GLP-1  small  molecule),  IBI3040  (Amylin),  and  IBI3046  (INHBE 
+siRNA).
+
+• 
+
+• 
+
+• 
+
+At  the  2026  American  Association  for  Cancer  Research  (“AACR”)  Annual  Meeting,  the 
+Company  presented  long-term  data  from  the  TRUST-I  and  TRUST-II  clinical  studies  via 
+oral  and  poster  presentations,  while  updated  results  from  TRUST-I  were  simultaneously 
+published  in  the Journal of Clinical Oncology.  The  data  confirmed  that  DOVBLERON® 
+(taletrectinib)  demonstrated  significant  efficacy  in  both  TKI-naïve  and  TKI-pretreated 
+patients, with manageable safety, low incidence of neurological adverse events, and no new 
+safety signals identified.
+
+Journal of the American Medical Association (“JAMA”)  published  the  Phase  3  clinical 
+study  of  Mazdutide  9mg  in  Chinese  patients  with  moderate  to  severe  obesity  (GLORY-2). 
+Mazdutide is the only GCG/GLP-1 therapy ever to achieve top-tier publications in Nature, 
+the New England Journal of Medicine (“NEJM”), and JAMA.
+
+Journal of the American Academy of Dermatology  published  results  from  the  Phase  3 
+clinical study (CLEAR-1) of PECONDLE® (picankibart injection) in Chinese patients with 
+moderate to severe plaque psoriasis.
+
+•  The Lancet Oncology  published  results  from  the  Phase  2  clinical  study  of  fulzerasib  plus 
+cetuximab  (KROCUS).  KROCUS  is  the  world’s  first  clinical  regimen  to  combine  KRAS 
+and EGFR dual inhibition as first-line therapy for KRAS G12C mutant NSCLC.
+
+10
+
+We  run  a  state-of-the-art  manufacturing  facility  engineered  to  international  standards. 
+We  own  full  in-house  chemistry,  manufacturing  and  controls  (CMC)  capability  across  process 
+development,  manufacturing,  quality,  supply  chain  and  engineering.  The  total  of  140,000  liters 
+of  manufacturing  capacity  currently  in  operation  and  the  world-leading  single-batch  antibody 
+production  scale  ensured  sufficient  resources  to  support  both  our  growing  drug  pipeline  and 
+ongoing  business  expansions,  at  competitive  production  costs.  Our  Suzhou  manufacturing 
+facility  recently  obtained  an  EMA  GMP  certificate,  demonstrating  compliance  with  EU  GMP 
+requirements.
+
+The  Company  is  a  constituent  stock  of  the  Hang  Seng  Index  (“HSI”),  among  the  ranks  of 
+blue-chip companies representing Hong Kong’s core assets. Innovent has been the first company 
+that  has  grown  from  a  biotech  into  a  leading  biopharma  and  been  included  in  the  HSI.  The 
+Company  has  been  concurrently  included  in  the  Hang  Seng  China  Enterprises  Index  (HSCEI) 
+and the Hang Seng ESG Enhanced Index.
+
+During  the  Reporting  Period,  the  Company  maintained  its  industry-leading  ESG  performance, 
+retaining its MSCI ESG AAA rating as the only biotech company in China and one of the two 
+globally to receive this recognition.
+
+For  details  of  any  of  the  foregoing,  please  refer  to  the  rest  of  this  announcement  and,  where 
+applicable,  the  Company’s  prior  announcements  published  on  the  websites  of  The  Stock 
+Exchange of Hong Kong Limited (the “Stock Exchange”) and the Company.
+
+11
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+OVERVIEW
+
+Innovent  is  a  leading  biopharmaceutical  company  founded  in  2011  with  the  mission  to  empower 
+patients  worldwide  with  affordable,  high-quality  biopharmaceuticals.  Leveraging  an  established 
+fully  integrated  platform,  the  Company  discovers,  develops,  manufactures  and  commercializes 
+innovative  medicines  that  treat  some  of  the  most  intractable  diseases.  Its  pioneering  therapies 
+address  cancer,  cardiovascular  and  metabolic  (“CVM”),  autoimmune  and  eye  diseases,  supported 
+by  a  robust  pipeline  spanning  multiple  novel  modalities,  including  monoclonal  antibodies, 
+multi-specific antibodies, immuno-cytokines, ADCs, cell therapy and small molecules.
+
+Guided  by  the  motto,  “Start  with  Integrity,  Succeed  through  Action”,  the  Company  maintains  the 
+highest  standard  of  industry  practices  and  works  collaboratively  to  advance  the  biopharmaceutical 
+industry so that first-rate pharmaceutical drugs can become widely accessible.
+
+Transforming  from  Regional  Leader  to  Global  Premier:  A  Clear  Strategic  Path  for  Growth 
+and Globalization
+
+Looking  back  over  Innovent’s  15-year  journey,  the  Company  has  completed  two  pivotal 
+transformations: from a R&D-driven biotech to a full-value-chain biopharmaceutical company; and 
+from a full-value-chain biopharmaceutical company to achieving scalable revenue and profitability. 
+In 2025, Innovent’s revenue surpassed RMB10 billion and the Company recorded its first full-year 
+IFRS profit since inception.
+
+In  the  first  half  of  2026,  the  Company  recorded  accelerated  revenue  growth  and  profit  expansion, 
+maintained  a  strong  cash  position,  advanced  several  global  collaboration  agreements,  and  saw 
+increasing  global  value  emerge  from  its  pipeline.  These  developments  underpin  our  view  that 
+Innovent  is  positioned  in  one  of  the  most  favourable  periods  since  establishment.  Building  on 
+this  foundation,  the  Company  aims  to  commence  the  third  transformation  over  the  next  five  to 
+ten  years:  progressing  from  a  regional  leader  towards  a  global  premier  biopharma  with  emerging 
+multinational operating capabilities.
+
+Around the third transformation, we have identified our strategic focus:
+
+First,  our  leading  position  in  China’s  innovative  biopharmaceutical  industry  will  become  more 
+prominent, with both rapid revenue and profit growth in parallel and high visibility in our operating 
+outlook.
+
+Second, globalization has become a key value driver. Three core assets have entered or are entering 
+global  multi-regional  Phase  3  clinical  trials,  and  over  20  early  clinical  and  preclinical  assets  are 
+under  global  collaboration,  expected  to  provide  meaningful  incremental  value  to  the  Company  in 
+the coming years.
+
+12
+
+Scale and Profitability Advancing in Parallel, with a Visible Growth Path
+
+In  2025,  Innovent’s  revenue  exceeded  RMB10  billion  for  the  first  time,  and  the  Company 
+achieved  first  full-year  profit  since  establishment  –  an  important  milestone  in  our  development. 
+On  this  new  base,  the  Company  maintained  strong  momentum  in  the  first  half  of  2026,  with  total 
+revenue  reaching  approximately  RMB8.6  billion,  representing  year-on-year  growth  of  45%.  On 
+the  profitability  side,  supported  by  robust  top-line  growth,  ongoing  improvements  in  operating 
+efficiency,  our  profit  profile  continued  to  improve;  IFRS  net  profit  for  the  first  half  of  2026  was 
+approximately  RMB1.3  billion,  up  about  50%  year-on-year.  This  indicates  that  the  Company 
+has  entered  a  new  stage  where  scale  expansion  and  earnings  quality  improve  simultaneously.  As 
+of  July  31,  2026,  the  Company  had  cash  on  hand  of  RMB30.2  billion  (approximately  US$4.5 
+billion),  providing  ample  financial  resources  to  support  the  achievement  of  its  long-term  strategic 
+development goals.
+
+Looking  ahead  over  the  next  few  years,  as  core  products  in  our  portfolios  continue  to  ramp  up, 
+new products and indications are approved – we have good visibility on the growth trajectory, and 
+are confident that we can further enhance profitability while maintaining solid revenue expansion, 
+setting a new paradigm for high-quality development among biopharmaceutical industry.
+
+Systematic Strategic Layout: Forming a Portfolio-Driven Growth Engine
+
+Innovent’s  rapid,  high-quality  development  is  supported  by  a  clear  strategic  framework  and  core 
+capabilities built up over the past years.
+
+At the technology and R&D level, the Company has become a multi-modality hub with capabilities 
+in  monoclonal  antibodies,  bi-specifics,  immune  engagers,  multiple  ADC  formats,  small  molecules 
+and  siRNA.  This  enables  long-term,  end-to-end  planning  around  priority  diseases  and  coordinated 
+advancement  of  related  assets.  In  pipeline  management,  we  are  moving  from  a  “project-driven” 
+to  a  “portfolio-driven”  model,  planning  by  therapeutic  area  and  building  integrated  portfolios  that 
+link discovery, clinical development and commercialization to ensure seamless product succession 
+in core diseases.
+
+In  China,  the  Company  has  built  a  mature  commercial  network  and  is  strengthening  channel 
+coverage  and  medical  education,  enabling  innovative  drugs  to  reach  more  patients  and  convert 
+more  efficiently  into  stable,  recurring  cash  flows.  Globally,  we  have  established  a  multi-layered 
+partnership  network  with  companies  such  as  Eli  Lilly,  Takeda,  Pfizer,  Roche,  Ollin  and  Spero, 
+expanding  from  out-licensing  to  co-development,  co-commercialization  and  joint  innovation,  and 
+in the process enhancing our global development and operating capabilities.
+
+On  this  basis,  the  Company  is  focusing  on  core  disease  areas  across  oncology  and  general 
+biomedicine  and  is  shifting  from  product-focused  management  to  a  portfolio-driven  model,  to 
+support sustained rapid growth and underpin our globalization strategy.
+
+Oncology: Consolidating Core Strengths and Building IO+ADC Portfolio Advantages
+
+In  oncology,  Innovent  has  built  strong  product  portfolios  and  brand  influence  in  key  indications 
+such  as  lung  cancer,  gastrointestinal  cancers  and  hematologic  malignancies.  Anchored  in  our 
+long-term  “IO+ADC”  strategy,  we  are  advancing  a  new  generation  of  products  including  IBI363 
+(PD-1/IL-2α-biased),  IBI343  (CLDN18.2  ADC),  IBI3003  (GPRC5D/BCMA/CD3),  IBI3001  (EGFR/
+B7H3  ADC),  IBI3005  (EGFR/HER3  ADC)  and  IBI3014  (PD-L1/TROP2  ADC),  and  are  laying 
+out  medium-  to  long-term  growth  drivers  and  competitive  advantages  across  these  key  oncology 
+therapeutic areas.
+
+In  addition,  through  our  collaboration  with  Eli  Lilly  on  Verzenio®  (abemaciclib)  in  BC,  the 
+Company  has  gained  a  strategic  entry  point  into  breast  cancer,  which  is  another  major,  high-
+incidence  tumor  type.  Over  time,  this  will  be  complemented  by  follow-on  assets  such  as  IBI354 
+(HER2 ADC) and IBI3014 (PD-L1/TROP2 ADC), providing the basis for a more systematic build-
+out in BC and related indications.
+
+13
+
+General  Biomedicine:  A  Clear  Framework  and  Long-Term  Opportunity  Across  Four  Major 
+Chronic Disease Areas
+
+In  general  biomedicine,  the  Company  has  established  flagship  products  across  four  major  chronic 
+disease areas – metabolic, cardiovascular, ophthalmology and autoimmune – and this franchise has 
+become another core pillar of Innovent.
+
+Mazdutide,  the  world’s  first  GCG/GLP-1  dual  receptor  agonist,  has  demonstrated  clear 
+differentiation  across  multiple  metabolic  clinical  endpoints,  including  body  weight  reduction, 
+glycemic control, reduction of liver fat and lowering of uric acid. Through a broad set of ongoing 
+clinical  programs  in  OSA,  MASH,  adolescent  obesity,  obesity  with  heart  failure,  obesity  with 
+hypertension,  and  reducing  cardiovascular  (CV)  risk  of  atherosclerotic  cardiovascular  disease 
+(ASCVD),  we  are  positioning  mazdutide  as  a  cornerstone  solution  for  a  range  of  metabolic  and 
+cardiovascular diseases.
+
+At  the  same  time,  our  next-generation  metabolic  and  obesity  pipeline  –  including  IBI3032  (once-
+daily oral GLP-1), IBI3042 (once-weekly oral GLP-1), IBI3040 (amylin analog), IBI3046 (INHBE 
+siRNA)  and  IBI3030  (monthly  PCSK9-GGG)  –  provides  long-term  growth  reserves  in  global 
+obesity  and  metabolic  disease.  In  cardiovascular,  autoimmune  and  ophthalmology,  the  Company 
+is  similarly  adopting  a  “current  high-potential  products  +  next-generation  molecules”  strategy  to 
+build focused product clusters and durable competitive positions in each area.
+
+Three Late-Stage Global Assets Targeting Over US$60 Billion Potential Addressable Market, 
+20+ Partnered Assets Building a Global Expansion Opportunity
+
+We  are  advancing  the  global  development  of  our  core  pipeline  through  a  range  of  collaboration 
+models. Three key assets have entered, or are about to enter, global multi-regional Phase 3 clinical 
+trials, with a combined addressable market estimated at over US$60 billion, and are expected to be 
+major value drivers in the coming years:
+
+–  IBI363  (PD-1/IL-2α-biased)  has  initiated  a  global  MRCT  Phase  3  study  in  second-line  IO-resistant 
+squamous NSCLC and plans to include the second-line IO-resistant non-squamous NSCLC into the 
+global MRCT Phase 3 study. IBI363 has also achieved promising preliminary PoC results in first-
+line NSCLC, laying the foundation for its potential as a next-generation IO backbone therapy.
+
+–  IBI343  (CLDN18.2  ADC)  met  the  primary  endpoint  in  the  first  interim  analysis  of  its 
+international  multi-center  Phase  3  study  in  CLDN18.2-positive  advanced  G/GEJA,  and  an  NDA 
+has  been  submitted  to  the  NMPA.  Registrational  study  in  third-line  PDAC  is  progressing,  while 
+PoC trials in first-line PDAC and first-line G/GEJA are ongoing. IBI343 is expected to become an 
+important innovative therapy for CLDN18.2-positive tumors.
+
+– IBI324 (VEGF/ANG2) has shown highly encouraging, superior retinal anatomical improvements 
+in a head-to-head Phase 1b clinical trial versus global standard-of-care therapies, and global MRCT 
+Phase 3 studies in DME and nAMD are expected to commence later this year.
+
+At  the  same  time,  the  Company  is  advancing  early-stage  global  development  for  a  broad 
+next-generation  portfolio  –  including:  IO  and  ADC  assets  such  as  IBI3003  (GPRC5D/BCMA/
+CD3),  IBI3001  (EGFR/B7H3  ADC),  IBI3005  (EGFR/HER3  ADC),  IBI3014  (PD-L1/TROP2 
+ADC),  IBI3020  (CEACAM5  dual-payload  ADC)  and  IBI3028  (EGFR/cMet  dual-payload 
+ADC);  next-generation  metabolic  assets  including  IBI3032,  IBI3042,  IBI3040,  IBI3046  and 
+IBI3030;  ophthalmology  assets  such  as  IBI3031  (IGF-1R/TSHR)  and  IBI3038  (IGF-1R/IL-6); 
+and  autoimmune  assets  including  IBI3002  (TSLP/IL-4R),  IBI3034  (TACI/BCMA)  and  IBI3055 
+(BCMA/CD19/CD3).  These  programmes  are  being  advanced  from  Phase  1  through  PoC  studies 
+with the aim of steadily supplying additional candidates for late-stage global development.
+
+14
+
+To  accelerate  globalization,  we  have  put  in  place  multi-layered  collaboration  structures,  including 
+co-development,  co-commercialization  and  licensing.  Over  the  past  ten  months,  the  Company  has 
+signed strategic multi-asset agreements with global pharmaceutical companies such as Takeda, Eli 
+Lilly and Pfizer, and partnered with specialist biotech companies including Ollin and Spero. These 
+collaborations,  with  aggregate  potential  deal  value  of  approximately  US$34  billion  and  covering 
+more  than  20  assets  from  global  Phase  3  to  preclinical  stages,  are  creating  a  structured  ladder  of 
+partnered assets for global expansion.
+
+Notably,  five  programs  among  these  collaborations  follow  a  “Co-Co”  model  –  global  co-
+development,  co-commercialization  and  profit  sharing.  Through  this  model,  the  Company  aims  to 
+build  overseas  R&D  and  commercial  capabilities  over  time  and  move  towards  operating  as  a  true 
+global pharmaceutical company with independent, end-to-end value-chain capabilities.
+
+2030 Outlook: Alignment in Scale, Profitability and Global Capabilities
+
+On  the  back  of  sustained  high-quality  growth  and  a  more  systematic  layout,  we  have  formed  our 
+ambition  for  where  Innovent  could  stand  by  2030.  Based  on  our  current  business  trajectory  and 
+indicative  pipeline  progress,  we  believe  Innovent  has  the  potential  to  maintain  rapid  revenue 
+growth to reach RMB35 billion to RMB40 billion total revenue by 2030.
+
+On  profitability,  as  revenue  scales  up,  we  aim  to  further  improve  our  margin  profile  through 
+manufacturing  and  operational  efficiency  gains,  with  the  ambition  of  approaching  the  level  of 
+leading innovative biopharmaceutical peers.
+
+In  terms  of  globalization,  by  2030  we  aim  to  have  innovative  product  launch  in  major  overseas 
+markets  such  as  the  United  States  and  European  markets,  so  that  overseas  operations  become  an 
+increasingly  meaningful  growth  driver  beyond  2030.  We  also  plan  to  have  at  least  five  assets 
+in  global  MRCT  Phase  3  clinical  trials  and  a  group  of  molecules  in  early-stage  global  clinical 
+development, thereby building a globalization-oriented pipeline. In parallel, we expect to continue 
+strengthening  localized  clinical  development,  regulatory  and  commercial  capabilities  in  key 
+overseas  markets,  with  the  ambition  of  gradually  evolving  into  a  global  pharmaceutical  company 
+with independent, end-to-end capabilities.
+
+Conclusion
+
+The  first  half  of  2026  marks  an  important  milestone  in  translating  our  long-term  roadmap  into 
+concrete  progress.  Our  path  for  the  next  decade  is  clear:  to  evolve  from  a  regional  leader  into  a 
+global, premier biopharma with genuine multinational capabilities.
+
+Looking ahead, we will execute our strategy with discipline to deliver sustained revenue and profit 
+growth  amid  a  complex  external  environment.  By  consolidating  our  strengths  in  oncology  and 
+general  medicine  and  accelerating  our  globalization,  we  remain  committed  to  creating  enduring 
+value for our shareholders and society.
+
+15
+
+PRODUCT PORTFOLIO AND PIPELINE SUMMARY
+
+Leveraging  the  Company’s  fully  integrated,  multi-functional  platform  and  strategic  partnerships 
+and  collaborations,  we  develop  pioneering  therapies  to  treat  cancer,  CVM,  autoimmune  and  eye 
+diseases.  The  Company  has  launched  20  products  in  the  market,  one  asset  under  NMPA  review, 
+five assets in Phase 3 or pivotal clinical trials and 14 molecules in early clinical stage.
+
+The  following  chart  summarizes  the  therapeutic  targets,  therapeutic  areas,  and  development  status 
+of our pipeline assets as of the date of this announcement.
+
+Products/Drug Candidates
+
+TYVYT® (sin(cid:31)limab)
+
+BYVASDA® (bevacizumab)
+
+HALPRYZA® (rituximab)
+
+Pemazyre® (pemiga(cid:31)nib)
+
+Olveremba(cid:31)nib (BCR-ABL TKI)
+
+Cyramza® (ramucirumab)
+
+Retsevmo® (selperca(cid:31)nib)
+
+FUCASO® (equecabtagene autoleucel)
+
+DUPERT®  (fulzerasib(cid:12)
+
+Jaypirca® (pirtobru(cid:31)nib)
+
+DOVBLERON® (taletrec(cid:31)nib adipate)
+
+Limer(cid:31)nib
+
+TABOSUN® (cid:11)lpilimumab N01(cid:12)
+
+Verzenios® (abemaciclib)
+
+Vanﬂyta® (quizar(cid:31)nib)
+
+Target(s)
+
+PD-1
+
+VEGF-A
+
+CD20
+
+FGFR1/2/3
+
+BCR/ABL
+
+VEGFR-2
+
+RET
+
+BCMA
+
+KRAS G12C
+
+BTK
+
+ROS1
+
+EGFR
+
+CTLA-4
+
+CDK4/6
+
+FLT3
+
+Modality
+
+Therapeu(cid:31)c Area
+
+Monoclonal an(cid:31)body
+
+Monoclonal an(cid:31)body
+
+Monoclonal an(cid:31)body
+
+Small molecule
+
+Small molecule
+
+Monoclonal an(cid:31)body
+
+Small molecule
+
+Cell therapy
+
+Small molecule
+
+Small molecule
+
+Small molecule
+
+Small molecule
+
+Monoclonal an(cid:31)body
+
+Small molecule
+
+Small molecule
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Mainland China
+
+Worldwide
+
+Mainland China
+
+Mainland China
+
+Rights
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Pre-clinical
+
+IND
+
+Phase 1
+
+Phase 1b/2
+
+Pivotal Phase 2/3
+
+NDA 
+
+Launched
+
+Approved: 1L nsqNSCLC, 1L sqNSCLC, 1L HCC, 1L GC, 1L ESCC, 2L EGFRm  nsqNSCLC, cHL, EMC, neoadj . Colon cancer; RCC
+
+Approved: NSCLC, mCRC, HCC, rGBM, r/r CC, OC, 2L EGFRm nsqNSCLC
+
+Approved: nHL, CLL 
+
+Mainland China, Hong Kong, Taiwan, Macau
+
+Approved: 2L CCA
+
+Mainland China, Hong Kong, Taiwan, Macau
+
+Approved: 2L TKI-resistant CML
+
+Mainland China
+
+Mainland China
+
+Worldwide
+
+Approved: 2L GC, 2L HCC
+
+Approved: RETm NSCLC / TC/MTC
+
+Approved: r/r MM
+
+Mainland China, Hong Kong, Taiwan, Macau
+
+Approved: KRAS+ NSCLC 
+
+Mainland China
+
+Approved: MCL; CLL/SLL
+
+Mainland China, Hong Kong, Taiwan, Macau
+
+Approved: 1L ROS1+ NSCLC; 2L ROS1+ NSCLC
+
+IBI363
+
+PD-1/IL-2α-biased
+
+Bispeciﬁc an(cid:31)body
+
+Oncology
+
+Worldwide
+
+IBI343
+
+IBI354
+
+IBI3003
+
+IBI3005
+
+IBI3009
+
+IBI3001
+
+IBI3014
+
+IBI3020
+
+IBI3026
+
+IBI3028
+
+CLDN18.2
+
+An(cid:31)body drug conjugate
+
+Oncology
+
+Worldwide
+
+HER2
+
+An(cid:31)body drug conjugate
+
+Oncology
+
+GPRC5D/BCMA/CD3
+
+Tri-speciﬁc an(cid:31)body
+
+EGFR/HER3 
+
+An(cid:31)body drug conjugate
+
+DLL3
+
+An(cid:31)body drug conjugate
+
+EGFR/B7H3
+
+An(cid:31)body drug conjugate
+
+PD-L1/TROP2
+
+An(cid:31)body drug conjugate
+
+CEACAM5
+
+PD-1/IL-12
+
+An(cid:31)body drug conjugate
+
+Bispeciﬁc an(cid:31)body
+
+EGFR/c-Met
+
+An(cid:31)body drug conjugate
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Oncology
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Approved: 1L EGFR 19DEL/L858R NSCLC; 2L EGFR T790M+ NSCLC
+
+Approved: Neoadjuvant colon cancer
+
+Approved: 1L/2L HR+ HER2- ABC/MBC; 2L+ ESR1mut ER+/HER2- MBC
+
+Approved: FLT3-ITD+ AML
+
+IO Naïve melanoma
+
+IO-resistant sqNSCLC
+
+IO-resistant nsqNSCLC
+
+3L CRC
+
+1L CRC, 1L NSCLC etc.
+
+3L GC
+
+3L PDAC
+
+1L GC; 1L PDAC
+
+2L PROC; 1L BC
+
+Neoadj. BC; adj.BC
+
+2-5L MM
+
+1L MM; 4L+ MM
+
+Advanced malignancies
+
+Advanced malignancies
+
+Advanced malignancies
+
+Advanced malignancies
+
+Advanced malignancies
+
+Advanced malignancies
+
+Advanced malignancies
+
+NSCLC: non small cell lung cancer; HCC: hepatocellular carcinoma; GC: gastric cancer; ESCC:  esophageal squamous cell carcinoma; GBM:  glioblastoma; CC: cervical cancer;  
+OC: ovarian cancer; cHL: classic Hodgkin lymphoma; CML: chronic myeloid leukemia; CLL: chronic lymphocy(cid:31)c leukemia;  SLL: Small Lymphocy(cid:31)c Lymphoma(cid:30)(cid:3)CCA: cholangiocarcinoma; TC: thyroid cancer; MTC: 
+medullary thyroid cancer; CRC: colorectal cancer; MDS: myelodysplas(cid:31)c syndrome; MM:  mul(cid:31)ple myeloma; PDAC: pancrea(cid:31)c ductal adenocarcinoma
+
+Approved drugs
+
+Pivotal/Registra(cid:31)onal trials
+
+Early stage trials
+
+Products/Drug Candidates
+
+Target(s)
+
+Modality
+
+Therapeu(cid:6)c Area
+
+Rights
+
+Pre-clinical
+
+IND
+
+Phase 1
+
+Phase 1b/2
+
+Pivotal Phase 2/3
+
+NDA 
+
+Launched
+
+Mazdu(cid:26)de
+
+GCG/GLP-1
+
+Polypep(cid:26)de
+
+Cardiovascular & Metabolic Mainland China, Hong Kong, Taiwan, Macau
+
+Obesity with MAFLD (head-to-head Semaglu(cid:26)de)
+
+Approved: Obesity (4/6mg)
+
+Approved: T2D (4/6mg)
+
+Moderate-to-severe Obesity (9mg)
+
+T2DM with obesity (head-to-head Semaglu(cid:26)de) 
+
+Obesity with OSA
+
+Adolescent obesity
+
+Obesity with hypertension
+
+MASH
+
+HFpEF
+
+Obesity (higher dose)
+
+SINTBILO® (tafolecimab)
+
+SYCUME® (teprotumumab N01)
+
+SULINNO® (adalimumab)
+
+PCSK9
+
+IGF-1R
+
+TNF-α
+
+Monoclonal an(cid:26)body
+
+Cardiovascular & Metabolic
+
+Monoclonal an(cid:26)body
+
+Ophthalmology
+
+Monoclonal an(cid:26)body
+
+Autoimmune
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Approved: Primary hypercholesterolemia  and mixed dyslipidemia
+
+Approved: TED
+
+Inac(cid:26)ve TED, 1L TED
+
+Approved: RA, AS, Pso, Pediatric plaque Pso, PJIA, Uvei(cid:26)s, CD, Pediatric CD
+
+PsO
+
+PECONDLE®(pincankibart)
+
+IL-23p19
+
+Monoclonal an(cid:26)body
+
+Autoimmune
+
+Worldwide
+
+PsO (Randomized withdrawal)
+
+IBI302 (efdamrofusp alfa)
+
+VEGF/Complement
+
+Fusion protein
+
+Ophthalmology
+
+Worldwide
+
+PsO (Biologic switching, IL-17 inadequately responded), adolescent PsO(cid:15)(cid:3)PsA
+
+nAMD
+
+DME 
+
+IBI128 (tigulixostat)
+
+XOI
+
+Small molecule
+
+Cardiovascular & Metabolic Mainland China, Hong Kong, Taiwan, Macau Gout with Hyperuricemia 
+
+IBI324
+
+IBI3002
+
+IBI3016
+
+IBI355
+
+IBI3032
+
+IBI3011
+
+IBI3013
+
+IBI3031
+
+IBI3038
+
+IBI3042
+
+IBI3040
+
+IBI3046
+
+VEGF-A/ANG-2
+
+Fusion protein
+
+Ophthalmology
+
+TSLP/IL-4Rα
+
+Fusion protein
+
+Autoimmune
+
+AGT
+
+CD40L
+
+siRNA
+
+Cardiovascular & Metabolic
+
+Monoclonal an(cid:26)body
+
+Autoimmune
+
+Oral GLP-1R (daily)
+
+Small molecule
+
+IL-1RAP
+
+IL-15
+
+TSHR/IGF-1R
+
+IL-6/IGF-1R
+
+Monoclonal an(cid:26)body
+
+Monoclonal an(cid:26)body
+
+Bispeciﬁc an(cid:26)body
+
+Bispeciﬁc an(cid:26)body
+
+Oral GLP-1R (weekly)
+
+Small molecule
+
+Metabolism
+
+Autoimmune
+
+Autoimmune
+
+Ophthalmology
+
+Ophthalmology
+
+Metabolism
+
+Amylin
+
+INHBE siRNA
+
+Polypep(cid:26)de
+
+Cardiovascular & Metabolic
+
+siRNA
+
+Cardiovascular & Metabolic
+
+Worldwide
+
+Worldwide
+
+Asia
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+DME
+
+nAMD
+
+AD; SAR/PAR/CWSwNP
+
+Hypertension
+
+SjD
+
+IgG4-RD
+
+Obesity; T2DM
+
+Acute Gouty Arthri(cid:26)s 
+
+Vi(cid:26)ligo; AA
+
+TED
+
+TED; Fibro(cid:26)c Diseases
+
+Obesity; T2DM
+
+Obesity; T2DM
+
+Obesity; T2DM
+
+MAFLD: metabolic associated fa¨y liver disease; MASH: Metabolic associated steatohepa(cid:26)(cid:26)s; HFpEF: heart failure with preserved ejec(cid:26)on frac(cid:26)on; TED: thyroid eye disease; AS: ankylosing spondyli(cid:26)s; RA: rheumatoid arthri(cid:26)s; PsA: psoria(cid:26)c 
+arthri(cid:26)s; PsO: psoriasis; CD: Crohn’s disease; PIJA: polyar(cid:26)cular juvenile idiopathic arthri(cid:26)s; HeFH: heterozygous familial (cid:3) hypercholesterolemia; Non-FH:non-familial hypercholesterolemia; TED: thyroid eye disease; DME: diabe(cid:26)c macular 
+edema; nAMD: Neovascular age-related macular degenera(cid:26)on; AD: atopic derma(cid:26)(cid:26)s; SjD(cid:29)(cid:3)Sjögren's disease; IgG4-RD:IgG4-related disease; AA: Alopecia Areata
+
+Approved drugs
+
+Pivotal/Registra(cid:6)onal trials
+
+Early stage trials
+
+16
+
+BUSINESS REVIEW
+
+Major Milestones and Achievements during the Reporting Period and Post-Reporting Period 
+(Expected)
+
+Our  commercial  stage  portfolio  contains  a  total  of  20  marketed  products:  TYVYT®  (sintilimab 
+injection),  BYVASDA ®  (bevacizumab  injection),  SULINNO ®  (adalimumab  injection), 
+HALPRYZA®  (rituximab  injection),  PEMAZYRE®  (pemigatinib),  olverematinib,  Cyramza® 
+(ramucirumab),  Retsevmo®  (selpercatinib),  FUCASO®  (Equecabtagene  Autoleucel),  SINTBILO® 
+(tafolecimab  injection),  Dupert ®  (fulzerasib),  DOVBLERON ®  (taletrectinib),  Jaypirca ® 
+(pirtobrutinib),  limertinib,  SYCUME®  (teprotumumab  N01  injection),  mazdutide,  PECONDLE® 
+(picankibart  injection),  TABOSUN®  (Ipilimumab  N01  injection),  Verzenios®  (abemaciclib)  and 
+Vanflyta® (quizartinib). 13 of our products have been included in the NRDL.
+
+Commercial Stage Products – Oncology (Selected)
+
+TYVYT® (sintilimab injection): an innovative fully human anti-PD-1 monoclonal antibody co- 
+developed with Lilly;
+
+Approved for ten indications in China, including lung cancer, liver cancer, gastric cancer, 
+esophageal cancer, Hodgkin’s lymphoma, endometrial cancer, colon cancer, renal cancer etc. Eight 
+of these indications were included in the NRDL.
+
+Regulatory Actions
+
+• 
+
+In  May  2026,  TYVYT®  (sintilimab  injection)’s  tenth  indication  has  been  granted  approval 
+by  the  NMPA,  in  combination  with  fruquintinib  for  the  treatment  of  patients  with  locally 
+advanced  or  metastatic  RCC  who  have  failed  prior  vascular  endothelial  growth  factor 
+receptor-tyrosine  kinase  inhibitors  (VEGFR-TKI)  therapy  and  have  not  received  PD-1  or 
+PD-L1 inhibitor therapy in the first-line setting.
+
+NRDL Coverage
+
+• 
+
+On  1  January  2026,  TYVYT®  (sintilimab  injection)  was  officially  included  in  the  NRDL 
+for  its  eighth  indication,  in  combination  with  fruquintinib  for  the  treatment  of  patients  with 
+advanced  endometrial  cancer  with  Mismatch  Repair  proficient  (pMMR)  tumors  that  have 
+failed prior systemic therapy and are not candidates for curative surgery or radiation.
+
+Development Progress
+
+• 
+
+Based  on  life  cycle  management,  more  Phase  3  clinical  studies  are  ongoing  or  in  plan, 
+including as perioperative therapy of NSCLC, CRC, and others.
+
+•  We  continue  to  carry  out  clinical  development  programs  for  TYVYT®  (sintilimab  injection) 
+as  a  backbone  immunotherapy,  in  multiple  clinical  studies  in  combination  with  other  novel 
+modalities,  such  as  ADCs  and  small  molecules  to  address  unmet  medical  needs  for  cancer 
+treatment.
+
+17
+
+Data Publication
+
+• 
+
+At  the  2026  ASCO  Annual  Meeting,  results  from  nine  studies  of  sintilimab  were  presented 
+across  multiple  tumor  types,  including  liver  cancer,  colorectal  cancer,  esophageal  cancer, 
+head and neck cancer, sarcoma, and malignant pleural mesothelioma.
+
+HALPRYZA® (Rituximab injection): a recombinant anti-CD20 monoclonal antibody co-
+developed with Lilly.
+
+It has been approved and included in the NRDL for the treatment of non-Hodgkin’s lymphoma and 
+chronic lymphocytic leukemia.
+
+Regulatory Actions
+
+• 
+
+In  May  2026,  HALPRYZA®  (Rituximab  injection)  received  the  NMPA  approval  for  two 
+new  indications:  in  combination  with  polatuzumab  vedotin,  cyclophosphamide,  doxorubicin, 
+and  prednisone  for  previously  untreated  adult  patients  with  diffuse  large  B-cell  lymphoma 
+(“DLBCL”);  and  in  combination  with  bendamustine  and  polatuzumab  vedotin  for  adult 
+patients  with  relapsed  or  refractory  DLBCL  who  are  not  candidates  for  hematopoietic  stem 
+cell transplantation.
+
+NRDL Coverage
+
+• 
+
+The  above-stated  two  newly  approved  indications  have  been  simultaneously  included  in  the 
+national reimbursement scheme, further expanding affordable treatment options for DLBCL.
+
+Limertinib: a third-generation EGFR TKI in-licensed from Jiangsu Aosaikang Pharmaceutical Co. 
+Ltd. (ASK Pharm, 002755.SZ) for exclusive commercialization rights in Mainland China.
+
+Approved and included in the NRDL for the treatment of advanced NSCLC.
+
+NRDL Coverage
+
+• 
+
+From  1  January  2026,  limertinib  was  newly  listed  in  the  NRDL  for  the  treatment  of  adult 
+patients  with  1)  locally  advanced  or  metastatic  EGFR  T790M-mutated  NSCLC  and  2) 
+first-line  treatment  in  adult  patients  with  locally  advanced  or  metastatic  NSCLC  carrying 
+EGFR exon 19 deletions or exon 21 L858R mutations.
+
+Data Publication
+
+• 
+
+In  March  2026,  long-term  overall  survival  data  from  the  Phase  3  study  of  limertinib  for  the 
+first-line  treatment  in  adult  patients  with  locally  advanced  or  metastatic  NSCLC  carrying 
+EGFR  exon  19  deletions  or  exon  21  L858R  mutations  were  presented  at  the  2026  European 
+Lung Cancer Congress (ELCC).
+
+18
+
+Dupert® (fulzerasib): a novel KRAS G12C inhibitor in-licensed from GenFleet Therapeutics 
+(Shanghai) Inc. (Genfleet, 2595.HK) for development and commercialization in Greater China.
+
+Approved and included in the NRDL for the treatment of advanced NSCLC.
+
+NRDL Coverage
+
+• 
+
+From 1 January 2026, Dupert® (fulzerasib) was newly listed in the NRDL for the treatment of 
+advanced NSCLC adult  patients harboring KRAS G12C mutation who  have  received at least 
+one systemic therapy.
+
+Clinical Update
+
+• 
+
+During  the  Reporting  Period,  we  continued  to  advance  the  Phase  1b/3  clinical  trial 
+investigating  fulzerasib  combination  therapy  in  patients  with  previously  untreated  advanced 
+NSCLC harboring KRAS G12C mutation.
+
+Data Publication
+
+• 
+
+In  April  2026,  The Lancet Oncology  published  results  from  the  Phase  2  clinical  study  of 
+fulzerasib  plus  cetuximab  (KROCUS).  KROCUS  is  the  world’s  first  clinical  regimen  to 
+combine  KRAS  and  EGFR  dual  inhibition  as  first-line  therapy  for  KRAS  G12C  mutant 
+NSCLC.
+
+DOVBLERON® (taletrectinib): a novel next-generation ROS1 TKI in-licensed from 
+AnHeart Therapeutics, a Nuvation Bio (NYSE: NUVB) Company, for co-development and 
+commercialization in Greater China.
+
+Approved and included in the NRDL in China for advanced NSCLC. IBTROZI™ (taletrectinib) 
+was also approved by the U.S. FDA and Japan MHLW.
+
+NRDL Coverage
+
+• 
+
+From  1  January  2026,  DOVBLERON® (taletrectinib)  was  newly  listed  in  the  NRDL  for  the 
+treatment of adult patients with locally advanced or metastatic ROS1-positive NSCLC.
+
+Regulatory Actions
+
+• 
+
+In  April  2026,  DOVBLERON®  (taletrectinib)  was  officially  granted  marketing  approval  by 
+the  Macao  Special  Administrative  Region  of  China  (“Macao”)  drug  regulatory  authority. 
+As  a  next-generation  ROS1  inhibitor,  it  brings  a  new  precision  targeted  therapy  option  for 
+patients in Macao with ROS1-positive locally advanced or metastatic NSCLC.
+
+19
+
+Data Publication
+
+• 
+
+At the 2026 AACR Annual Meeting, long-term data from the TRUST-I and TRUST-II clinical 
+studies  were  presented,  while  updated  results  from  TRUST-I  were  simultaneously  published 
+in  the Journal of Clinical Oncology.  The  data  confirmed  that  DOVBLERON®  demonstrated 
+significant  efficacy  in  both  TKI-naïve  and  TKI-pretreated  patients,  with  manageable  safety, 
+low incidence of neurological adverse events, and no new safety signals identified.
+
+Retsevmo® (selpercatinib): a highly selective and potent rearranged during transfection 
+gene (“RET”) kinase inhibitor that was owned by Lilly and licensed to the Company for 
+commercialization in mainland China.
+
+NRDL Coverage
+
+• 
+
+On  1  January  2026,  Retsevmo®  (selpercatinib)  is  newly  listed  on  NRDL  for  the  treatment 
+of:  1)  adult  patients  with  locally  advanced  or  metastatic  NSCLC  with  a  RET  gene  fusion,  2) 
+adult and pediatric patients 12 years of age and older with advanced or metastatic medullary 
+thyroid  cancer  (MTC)  with  a  RET  mutation  who  require  systemic  therapy,  and  3)  adult  and 
+pediatric patients 12 years of age and older with advanced or metastatic thyroid cancer with a 
+RET gene fusion who require systemic therapy and who are radioactive iodine-refractory.
+
+Clinical Update
+
+• 
+
+In  May  2026,  our  partner  Lilly  announced  results  from  the  Phase  3  LIBRETTO-432  clinical 
+study.  The  data  showed  that  selpercatinib  achieved  a  statistically  significant  and  clinically 
+meaningful  improvement  compared  with  placebo  as  an  adjuvant  therapy,  reducing  the  risk 
+of  disease  recurrence  or  death  by  83%  vs.  the  comparator.  The  results  were  simultaneously 
+published  in The New England Journal of Medicine  and  presented  at  the  plenary  session 
+of  the  2026  ASCO  Annual  Meeting,  and  were  also  selected  as  a  featured  highlight  in  the 
+meeting’s official press program.
+
+Jaypirca® (pirtobrutinib): a highly-selective non-covalent (reversible) inhibitor of the enzyme 
+Bruton tyrosine kinase (“BTK”) in-licensed from Lilly for sole commercialization rights in 
+Mainland China.
+
+NRDL Coverage
+
+• 
+
+On 1 January 2026, Jaypirca® (pirtobrutinib) is newly listed for the treatment of adult patients 
+with relapsed or refractory mantle cell lymphoma (MCL) after at least two types of systemic 
+therapy, including a BTK inhibitor.
+
+Regulatory Action
+
+• 
+
+In  February  2026,  Jaypirca®  (pirtobrutinib)  received  approval  by  the  NMPA  in  China  for  a 
+new  indication  for  the  treatment  of  adult  patients  with  CLL/SLL  after  at  least  one  line  of 
+systemic therapy including a BTK inhibitor.
+
+20
+
+Clinical Update
+
+• 
+
+In June 2026, our partner Lilly announced results from the Phase 3 BRUIN CLL-322 clinical 
+study.  The  data  demonstrated  that  the  addition  of  pirtobrutinib  to  a  two-year  regimen  of 
+venetoclax  plus  rituximab  significantly  reduced  the  risk  of  disease  progression  or  death  by 
+45% vs the combination alone (HR=0.55 [95% CI, 0.40-0.75]; p=0.0001). These results were 
+published in the Lancet and featured as a late-breaking oral presentation at the 2026 European 
+Hematology  Association  (EHA)  Annual  Meeting  and  were  also  included  in  the  congress’ 
+official press program.
+
+TABOSUN® (Ipilimumab N01 injection): an anti-CTLA-4 monoclonal antibody.
+
+Approved in China for the neoadjuvant treatment of colon cancer.
+
+Data Publication
+
+• 
+
+In June 2026, results from the Phase 3 clinical study of IBI310 in combination with sintilimab 
+versus  sorafenib  as  first-line  therapy  for  advanced  hepatocellular  carcinoma  (HCC)  were 
+presented at the 2026 ASCO Annual Meeting (Abstract #4148).
+
+Commercial Stage Products – General Biomedicine (Selected)
+
+Mazdutide: Globally the first GLP-1/GCG dual receptor agonist approved for chronic weight 
+management and T2D; and multiple clinical studies ongoing for the treatment of other metabolic 
+chronic diseases.
+
+The Company entered into an exclusive license agreement with Lilly for the development and 
+commercialization of mazdutide in China in 2019.
+
+Regulatory Actions
+
+• 
+
+• 
+
+In  January  2026,  mazdutide  was  approved  by  the  Macao  Pharmaceutical  Administration 
+Bureau (ISAF) for glycemic control of T2D adult patients.
+
+In  May  2026,  a  prefilled,  multi-dose  pen  for  mazdutide  injection  has  been  approved  by  the 
+NMPA,  providing  more  flexible  long-term  treatment  options  for  Chinese  clinicians  and  T2D 
+patients in disease management.
+
+Clinical Updates
+
+Five Phase 3 clinical trials of mazdutide have met study endpoints, including:
+
+• 
+
+• 
+
+GLORY-1: A Phase 3 clinical study conducted in Chinese adults with overweight or obesity;
+
+GLORY-2:  A  Phase  3  clinical  study  conducted  in  Chinese  adults  with  moderate-to-severe 
+obesity;
+
+21
+
+• 
+
+• 
+
+• 
+
+DREAMS-1:  A  Phase  3  clinical  study  conducted  in  Chinese  patients  with  T2D  inadequately 
+controlled by diet and exercise alone;
+
+DREAMS-2:  A  Phase  3  clinical  study  conducted  in  Chinese  patients  with  T2D  who  have 
+inadequate  glycemic  control  with  metformin  monotherapy  or  combination  therapy  of 
+metformin with other oral drugs; and
+
+DREAMS-3: A Phase 3 clinical trial comparing mazdutide head-to-head with semaglutide in 
+Chinese T2D patients with obesity.
+
+And the other four clinical studies of mazdutide are currently ongoing:
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+GLORY-3:  A  Phase  3  clinical  study  comparing  mazdutide  versus  semaglutide  in  Chinese 
+adults with overweight or obesity accompanied MAFLD;
+
+GLORY-OSA: A Phase 3 trial in Chinese patients with OSA and obesity;
+
+GLORY-YOUNG: A Phase 3 trial in Chinese adolescents with obesity; and
+
+GLORY-H: A Phase 3 trial in Chinese patients with obesity and hypertension.
+
+In addition, several clinical studies of mazdutide are ongoing, including studies in MASH and 
+HFpEF  and  a  head-to-head  comparison  of  mazdutide  versus  tirzepatide  for  the  treatment  of 
+moderate-to-severe obesity.
+
+Data Publication
+
+• 
+
+In June 2026, multiple clinical research results of mazdutide were presented at the 2026 ADA 
+Scientific Sessions, including the primary results from the Phase 3 DREAMS-3 study, results 
+from  the  Phase  1b  clinical  study  in  Chinese  adolescents  with  obesity,  and  key  data  from  the 
+Phase 3 GLORY-2 study in Chinese adults with moderate-to-severe obesity.
+
+•  Mazdutide  is  the  first  GLP-1/GCG  therapy  to  have  simultaneously  achieved  publications  in 
+
+the three leading medical journals: Nature, NEJM, and JAMA.
+
+SINTBILO® (Tafolecimab Injection): a fully human monoclonal antibody selectively binds to 
+PCSK9
+
+Approved and included in the NRDL in China, as adjunct to diet, in combination with statins 
+or statins and other lipid-lowering therapies, for the treatment of adult patients with primary 
+hypercholesterolemia (including heterozygous familial and non-familial hypercholesterolemia) and 
+mixed dyslipidemia who have failed to achieve goals by using moderate or higher doses of statins.
+
+22
+
+Clinical Updates
+
+• 
+
+The Phase 3 clinical study of SINTBILO® (Tafolecimab Injection) for the first-line treatment 
+of hypercholesterolemia is anticipated to read out in the second half of 2026.
+
+SYCUME® (teprotumumab N01 injection): the first IGF-1R monoclonal antibody approved in 
+China
+
+Approved and included in the NRDL in China for the treatment of TED.
+
+Clinical Updates
+
+• 
+
+• 
+
+A  new  Phase  3  clinical  study  of  SYCUME®  (teprotumumab  N01  injection)  for  the  treatment 
+of inactive TED is ongoing, with data readout expected in the second half of 2026.
+
+A new clinical study of SYCUME® (teprotumumab N01 injection) is ongoing in head-to-head 
+with steroid therapy for the treatment of TED.
+
+PECONDLE® (Picankibart Injection): a long-acting anti-IL-23 (p19 subunit) monoclonal 
+antibody
+
+Approved in China for the treatment of moderate-to-severe plaque psoriasis.
+
+Clinical Updates
+
+• 
+
+• 
+
+In  April  2026,  the Journal of the American Academy of Dermatology  published  results  from 
+the  Phase  III  CLEAR-1  clinical  study  of  picankibart  in  Chinese  patients  with  moderate-to-
+severe plaque psoriasis.
+
+A Phase 3 clinical study is currently ongoing evaluating picankibart in inadequate responders 
+to  prior  anti-IL-17  therapies.  Additionally,  new  clinical  studies  are  ongoing  for  adolescent 
+psoriasis and adult psoriatic arthritis.
+
+Selected Clinical-Stage Drug Pipeline Candidates – Oncology
+
+IBI363: a potential first-in-class alpha-biased IL-2 and anti-PD-1 immuno-cytokine; in 
+collaboration with Takeda to co-develop globally and co-commercialize in the U.S. (Takeda R&D 
+code: TAK-928)
+
+Registrational trials are underway including the first global Phase 3 study in IO-resistant NSCLC, 
+and additional PoC studies are underway or in plan, including first-line NSCLC, first-line CRC, 
+and more solid tumors. IBI363 has shown manageable safety, encouraging efficacy and potential 
+survival benefit in Phase 1/2 studies across multiple cancer types.
+
+23
+
+Clinical Updates
+
+Registrational/Pivotal studies:
+
+• 
+
+• 
+
+• 
+
+• 
+
+IO-naive  Melanoma:  The  pivotal  Phase  2  clinical  study  of  IBI363  is  ongoing,  in 
+head-to-head  comparison  with  Pembrolizumab  in  IO-naive  mucosal  and  acral  melanoma. 
+Data readout is expected in support of potential NDA submission by the end of 2026 or early 
+2027. IBI363 has received BTD by the NMPA for this indication.
+
+IO-resistant  squamous  NSCLC:  A  global  multi-regional,  randomized,  controlled  Phase  3 
+clinical  study  (MarsLight-11)  of  IBI363  is  ongoing.  The  study  evaluates  the  efficacy  and 
+safety  of  IBI363  monotherapy  compared  with  docetaxel  for  the  treatment  of  patients  with 
+advanced  squamous  NSCLC  who  have  progressed  after  at  least  one  checkpoint  inhibitor. 
+IBI363 has received FTD by the U.S. FDA and BTD by the NMPA for this indication.
+
+IO-resistant non-squamous NSCLC: A Phase 1b/2 clinical study is ongoing with promising 
+PoC  results  obtained,  which  demonstrated  encouraging  survival  benefits.  The  global  Phase 
+3  clinical  study  (MarsLight-11)  is  planned  to  expand  to  include  IO-resistant  non-squamous 
+NSCLC.
+
+Later-line CRC: The Phase 3 clinical study in IBI363 in combination with bevacizumab for 
+advanced CRC that is refractory or intolerant to standard treatment has completed first patient 
+dosing.
+
+PoC studies:
+
+• 
+
+• 
+
+• 
+
+First-line  NSCLC:  A  Phase  1b/2  PoC  clinical  study  is  ongoing  for  IBI363  in  combination 
+with  chemotherapy  in  the  first-line  treatment  of  NSCLC.  In  dose  optimization  stage,  IBI363 
+demonstrated  encouraging  efficacy  signals  and  manageable  safety  in  first-line  treatment 
+of  NSCLC  with  PD-L1  negative  or  low  expression.  The  second  stage  of  the  PoC  study  is 
+ongoing  of  IBI363  plus  chemotherapy  in  head-to-head  comparison  vs.  pembrolizumab  plus 
+chemotherapy in the first-line treatment of advanced NSCLC (all PD-L1 expression levels).
+
+First-line  CRC:  A  Phase  1b  PoC  clinical  study  is  ongoing  for  IBI363  in  combination  with 
+standard therapy for the treatment of first-line CRC.
+
+Other  solid  tumors:  multiple  Phase  1  or  Phase  2  studies  are  ongoing  and  will  expand  to 
+evaluate IBI363 monotherapy or combination therapy in a range of tumor types.
+
+Data Publication
+
+• 
+
+Results from the preliminary PoC clinical study of IBI363 in first-line NSCLC and long-term 
+follow-up data from the Phase 1b/2 study in IO-resistant NSCLC were presented as posters at 
+the 2026 ASCO Annual Meeting (Abstract #8586, #2618).
+
+24
+
+• 
+
+• 
+
+Preliminary  PoC  clinical  results  from  IBI363  in  first-line  NSCLC,  first-line  GC  (IIT),  and 
+IO-resistant  lung  adenocarcinoma  are  accepted  for  presentation  at  the  2026  ESMO  Congress 
+(Abstract #1044P, #1008RO, and #1952RO).
+
+IBI363  has  demonstrated  a  tolerable  safety  profile  and  promising  efficacy  in  IO-resistant 
+settings,  in  combination  with  chemotherapy,  and  in  later  lines  of  treatment,  confirming 
+its  unique  immune  mechanism  and  strong  therapeutic  potential  as  a  differentiated  next-
+generation  immunotherapy.  We  will  continue  to  update  the  study  results  of  IBI363  at  major 
+international academic conferences.
+
+Arcotatug tavatecan: a next generation Fc-silenced anti-CLDN18.2 ADC; collaborated and out-
+licensed to Takeda for ex-China rights (Innovent/Takeda R&D code: IBI343/TAK-921);
+
+In June 2026, the NDA for arcotatug tavatecan was accepted by the NMPA with priority review, 
+making it the world’s first CLDN18.2-targeted ADC to receive regulatory review.
+
+Arcotatug tavatecan has received BTD by the NMPA for G/GEJA and PDAC; FTD by the U.S. 
+FDA for PDAC
+
+Clinical Updates
+
+Registrational studies:
+
+• 
+
+• 
+
+Third-line  GC:  In  June  2026,  a  multi-regional  Phase  3  study  (G-HOPE-001)  of  IBI343 
+in  China  and  Japan  for  the  third-line  treatment  of  advanced  G/GJEA  has  completed  the 
+per-protocol first interim analysis and reached the primary endpoint. The NDA was accepted 
+and  granted  priority  review  by  the  NMPA,  for  the  treatment  of  previously  treated  locally 
+advanced  unresectable  or  metastatic  CLDN18.2-positive  G/GEJA  who  have  received  at  least 
+two prior systemic therapies.
+
+Third-line  PDAC:  A  Phase  3  study  (G-HOPE-002)  of  arcotatug  tavatecan  for  the  third-line 
+treatment of PDAC in China is ongoing. In June 2025, arcotatug tavatecan was granted BTD 
+by the NMPA CDE for this indication.
+
+PoC studies:
+
+• 
+
+• 
+
+First-line PDAC: A multi-regional Phase 1 clinical study is initiated and ongoing for IBI343 
+in combination with chemotherapy for the treatment of first-line PDAC.
+
+First-line GC: A multi-regional Phase 1 clinical study is initiated and ongoing for IBI343 in 
+combination with chemotherapy for the treatment of first-line GC.
+
+IBI354: a recombinant anti-HER2 monoclonal antibody-camptothecin derivative-conjugate.
+
+25
+
+Clinical Updates
+
+Registrational studies:
+
+• 
+
+• 
+
+• 
+
+PROC:  A  Phase  3  clinical  study  (HeriCare-Ovarian01)  of  IBI354  monotherapy  in  patients 
+with PROC in China is ongoing, and the study results are anticipated to readout in support of 
+an NDA submission in the second half of 2026.
+
+BC:  A  Phase  3  clinical  study  (HeriCare-Breast01)  of  IBI354  as  first-line  treatment  for 
+patients  with  unresectable  locally  advanced  or  metastatic  HER2-positive  BC  in  China  is 
+initiated and ongoing.
+
+The  new  Phase  3  clinical  studies  of  IBI354  as  neoadjuvant  therapy  and  adjuvant  therapy  of 
+BC are in plan.
+
+Data Publication
+
+• 
+
+A Phase 2 clinical study of IBI354 in combination with pertuzumab for first-line treatment of 
+patients with unresectable locally advanced or metastatic HER2-positive BC is planned to be 
+presented as a poster at the 2026 ESMO Congress (Abstract #1776P).
+
+IBI3003: a GPRC5D/BCMA/CD3 tri-specific antibody developed from proprietary Sanbody® 
+platform; IBI3003 has received FTD and ODD by the FDA for fourth-line and above R/R MM
+
+Clinical Updates
+
+• 
+
+• 
+
+• 
+
+In  June  2026,  a  pivotal  Phase  3  clinical  study  completed  first  patient  dosed,  evaluating 
+IBI3003 monotherapy for the second to fifth-line treatment of R/R MM.
+
+In July 2026, a PoC clinical study was initiated in China, evaluating IBI3003 in combination 
+with CD38 antibody for the first-line treatment of MM.
+
+A Phase 1 clinical study is initiated and ongoing in the U.S., evaluating IBI3003 in R/R MM 
+in patients who have received three or more lines of previous anti-myeloma therapies.
+
+Data Publication
+
+•  We  will  continue  to  update  the  ongoing  clinical  study  results  of  IBI3003  at  future 
+
+international scientific conferences.
+
+IBI3001: a first-in-class bispecific ADC against B7-H3 and EGFR; option rights out-licensed to 
+Takeda for ex-China rights
+
+26
+
+Clinical Update
+
+• 
+
+IBI3001  is  under  dose  optimization  stage  of  Phase  1  clinical  study  across  multiple  advanced 
+solid tumor types.
+
+Data Publication
+
+• 
+
+Preliminary  results  from  the  Phase  1  clinical  study  of  IBI3001  in  patients  with  advanced 
+solid tumors are scheduled to be presented as a proffered oral presentation at the 2026 ESMO 
+Congress (Abstract #1001O).
+
+IBI3005: a potentially best-in-class bispecific ADC against EGFR and HER3
+
+• 
+
+IBI3005  is  under  dose  optimization  stage  of  Phase  1  clinical  study  across  multiple  advanced 
+solid tumor types.
+
+IBI3014: a first-in-class PD-L1/TROP2 bispecific ADC
+
+• 
+
+IBI3014  is  under  dose  optimization  stage  of  Phase  1  clinical  study  across  multiple  advanced 
+solid tumor types.
+
+IBI3009: a potential best-in-class DLL3-targeting ADC in Phase 1; collaborated and out-licensed 
+to Roche for global rights
+
+• 
+
+A multi-regional Phase 1 study of IBI3009 is ongoing for small cell lung cancer (SCLC).
+
+IBI3020: a first-in-class dual payload ADC targeting CEACAM5
+
+• 
+
+A Phase 1 clinical study of IBI3020 is ongoing across multiple advanced solid tumor types.
+
+IBI3028: a first-in-class EGFR/c-MET dual-payload ADC, collaborated with Pfizer.
+
+• 
+
+A Phase 1 study of IBI3028 was initiated in first half of 2026
+
+IBI3026: a first-in-class PD-1/IL-12 bispecific fusion protein.
+
+• 
+
+A Phase 1 study of IBI3026 was initiated in first half of 2026
+
+IBI115: a DLL3 and CD3 bispecific antibody
+
+• 
+
+A Phase 1 study of IBI115 in SCLC was initiated in first half of 2026
+
+In addition to the above programs, a series of novel multi-specific antibody and ADC programs are 
+preparing to advance into the IND stage.
+
+27
+
+Selected Clinical-Stage Drug Pipeline Candidates – General Biomedicine
+
+Cardiovascular and metabolism (CVM)
+
+Tigulixostat: a potential best-in-class non-purine XOI in-licensed from LG Chem for the 
+development and commercialization in China. (R&D code: IBI128)
+
+Clinical Updates
+
+• 
+
+In  March  2026,  first  patient  was  successfully  dosed  in  a  Phase  3  study  for  Tigulixostat  in 
+China. Previously, positive Phase 2 results for Tigulixostat were obtained in hyperuricemia in 
+Chinese patients with gout. Tigulixostat demonstrated superior reductions of serum urine acid 
+level and a favorable safety profile compared with Febuxostat.
+
+IBI3016: a siRNA drug candidate targeting AGT; collaborated with SanegeneBio
+
+Clinical Updates
+
+• 
+
+• 
+
+In  February  2026,  the  first  patient  was  dosed  in  a  Phase  2  study  of  IBI3016  in  hypertension 
+in China.
+
+In  July  2026,  IBI3016  received  IND  approval  from  the  Japan  MHLW  and  is  planned  for 
+clinical development in Japan.
+
+IBI3032: a potentially best-in-class oral GLP-1R small molecule with global proprietary rights
+
+Clinical Updates
+
+• 
+
+• 
+
+The  Phase  1  clinical  studies  of  IBI3032  are  ongoing  in  China  and  the  U.S.  in  healthy 
+volunteers  and  overweight  or  obese  participants,  and  preliminary  results  obtained  are 
+encouraging.
+
+The  Phase  1  clinical  studies  of  IBI3032  are  currently  ongoing  to  further  explore  and  refine 
+optimal  dose  titration  schemes.  Leveraging  its  differentiated  attributes  of  superior  oral 
+exposure  and  low  effective  therapeutic  dose,  the  program  aims  to  validate  the  molecule’s 
+potential of potent weight loss under acceptable safety and tolerability. Further clinical results 
+are expected in support of future Phase 2 clinical development.
+
+28
+
+Data Publication
+
+• 
+
+In  June  2026,  preliminary  results  from  the  Phase  I  clinical  study  of  IBI3032  were  presented 
+at  the  ADA  Scientific  Sessions  (Abstract  #1690-P).  The  single  ascending  dose  (“SAD”)  and 
+multiple  ascending  dose  (“MAD”)  studies  showed  that  IBI3032  had  an  overall  manageable 
+safety  profile,  with  the  vast  majority  of  adverse  events  being  mild  to  moderate  and  no 
+treatment-related  serious  adverse  events  reported.  The  4-week  MAD  multi-cohort  titration 
+comparisons  indicated  that  through  optimized  starting  dose  and  escalation  strategies, 
+substantial  weight  loss  could  be  achieved  while  significantly  improving  gastrointestinal 
+tolerability.  In  the  cohort  (N=12)  with  a  starting  dose  of  0.6mg  and  7-step  escalation  to 
+9mg,  the  mean  body  weight  reduction  after  4  weeks  was  10.11%,  with  an  8.3%  incidence  of 
+vomiting.
+
+IBI3040: An amylin and calcitonin dual receptor agonist
+
+Clinical Updates
+
+• 
+
+A first-in-human study is planned in the second half of 2026.
+
+Data Publication
+
+• 
+
+Preclinical  results  of  IBI3040  were  presented  at  the  ADA  Scientific  Sessions  (Abstract 
+#3077-LB).  The  results  showed  that  IBI3040  induced  dose-dependent  body  weight  reduction 
+in  obese  animal  models,  exhibited  additive  effects  when  combined  with  semaglutide,  and 
+demonstrated  a  favorable  pharmacokinetic  profile  and  superior  physicochemical  stability 
+compared  with  similar  agents,  supporting  its  development  potential  as  a  next-generation 
+obesity therapy.
+
+IBI3042: A potentially first-in-class once-weekly oral small-molecule GLP-1 receptor agonist
+
+Clinical Updates
+
+• 
+
+A first-in-human study is planned in the second half of 2026.
+
+Data Publication
+
+• 
+
+Preclinical  results  of  IBI3042  (a  once-weekly  oral  small-molecule  GLP-1)  were  presented  at 
+the  ADA  Scientific  Sessions  (Abstract  #2543-P).  The  results  showed  that  IBI3042  enabled 
+once-weekly  oral  administration  with  glucose-lowering  effects  sustained  for  at  least  7  days, 
+and in multiple animal models its weight-loss efficacy was superior or comparable to that of 
+once-daily Orforglipron.
+
+29
+
+IBI3046: An INHBE-targeting siRNA
+
+Clinical Updates
+
+• 
+
+A first-in-human study is planned in the second half of 2026.
+
+Data Publication
+
+• 
+
+Preclinical  results  of  IBI3046  (an  INHBE-targeting  siRNA)  were  presented  at  the  ADA 
+Scientific  Sessions  (Abstract  #2662-P).  The  results  showed  that  IBI3046  effectively  silenced 
+hepatic  INHBE  mRNA  expression,  inhibited  weight  gain  and  reduced  fat  mass  in  diet-
+induced  obese  (DIO)  models  while  preserving  lean  mass,  demonstrated  synergistic  potential 
+with GLP-1 analog, and may support down-titration of GLP-1 doses.
+
+Autoimmune
+
+IBI355: a third-generation anti-CD40L monoclonal antibody, in collaboration with Spero 
+Therapeutics (NASDAQ:SPRO) (Spero R&D Code: SP001)
+
+Clinical Updates
+
+• 
+
+In  June  2026,  data  from  the  Phase  1b  SjD  study  were  presented  in  a  poster  session  at  the 
+European Alliance of Associations for Rheumatology (EULAR) 2026 Congress.
+
+•  We plan to initiate a Phase 2 study of IBI355 in SjD in China.
+
+• 
+
+Our  partner  Spero  Therapeutics  plans  to  initiate  a  Phase  2  trial  for  IBI355  in  the  second 
+quarter of 2027 in IgG4-RD.
+
+IBI3002: a first-in-class IL-4Rα/TSLP bispecific antibody
+
+Clinical Updates
+
+• 
+
+Preliminary Phase 1 readout of IBI3002 is obtained in asthma, with encouraging efficacy and 
+good tolerability observed.
+
+•  We  will  continue  to  explore  IBI3002  in  respiratory  and  skin  diseases.  Multiple  Phase  2 
+
+studies undergoing or planning to initiate, including AD, SAR, PAR, and CRSwNP.
+
+30
+
+

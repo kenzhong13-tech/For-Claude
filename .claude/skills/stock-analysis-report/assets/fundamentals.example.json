@@ -1,0 +1,26 @@
+{
+ "_note": "Standard keys read by report_skeleton.html. Amounts in unit_label of currency (e.g. 百万元); ratios as decimals (0.168 = 16.8%). Add company-specific keys freely (segments, roads, pipeline, debt_stack, scenarios ...) and render them with extra tables/charts. Delete this _note.",
+ "currency": "CNY",
+ "unit_label": "百万元",
+ "annual": [
+  {"y": 2024, "revenue": 4569.9, "revenue_yoy": -0.063, "gross_margin": 0.643, "np": 1562.2, "np_yoy": -0.044, "np_adj": 1644.6, "np_adj_yoy": -0.035, "roe": 0.155, "ocf": 3256.0, "capex": 2037.0, "dps": 0.523},
+  {"y": 2025, "revenue": 4469.7, "revenue_yoy": -0.022, "gross_margin": 0.645, "np": 1801.3, "np_yoy": 0.153, "np_adj": 1523.0, "np_adj_yoy": -0.074, "roe": 0.168, "ocf": 3559.5, "capex": 2430.2, "dps": 0.604}
+ ],
+ "balance": [
+  {"p": "2025-12", "cash": 6545.0, "debt": 10589.0, "net_debt": 4044.0, "debt_asset": 0.47, "current_ratio": 2.71},
+  {"p": "2026-06", "cash": 6827.0, "debt": 10991.0, "net_debt": 4164.0, "debt_asset": 0.505, "current_ratio": 2.77}
+ ],
+ "solvency": {"date": "2026-06-30", "nd_ebitda": 0.96, "interest_cover": 16.1, "loan_rate_range": [0.021, 0.0294]},
+ "valuation": {"date": "2026-10-22", "price": 13.11, "mcap": 27410.0, "ev": 35069.0, "pe_ttm": 17.19, "pb": 2.59, "pe_pct": 0.83, "pb_pct": 0.93, "ev_ebitda": 8.11, "dy": 0.046, "dps": 0.604,
+  "broker_targets": [{"broker": "中金公司", "rating": "跑赢行业", "target": 15.23, "date": "2026 年一季报点评", "url": "https://m.gelonghui.com/news/5226120"}]},
+ "peers": [
+  {"code": "000429", "name": "粤高速A", "mcap": 27410.0, "revenue": 4469.7, "revenue_yoy": -0.022, "np": 1801.3, "np_yoy": 0.153, "roe": 0.168, "pe_ttm": 17.19, "pb": 2.59, "dy": 0.046, "nd_ebitda": 0.96},
+  {"code": "600377", "name": "宁沪高速", "mcap": 67707.0, "revenue": 20289.2, "revenue_yoy": -0.125, "np": 4593.9, "np_yoy": -0.071, "roe": 0.115, "pe_ttm": 14.49, "pb": 1.63, "dy": 0.036, "nd_ebitda": 3.21}
+ ],
+ "industry": [
+  {"label": "全国高速公路里程", "value": "19.07 万公里（2024 年末）", "url": "https://www.news.cn/politics/20251223/b87b38b902234cd0b3d0083b75175f10/c.html"}
+ ],
+ "sources": [
+  {"label": "2026 年半年度报告摘要", "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225495707.PDF"}
+ ]
+}

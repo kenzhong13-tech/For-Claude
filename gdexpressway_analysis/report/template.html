@@ -1,0 +1,746 @@
+<title>粤高速A财务分析报告</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="粤高速A（000429.SZ）中文财务分析：路产与财务表现、债务与偿债能力、对车流与利率的敏感性、改扩建规划、与 15 家 A 股高速公路公司的同业对比，以及以沪深 300、公路板块和国债收益率为基准的波动率与事件研究。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap">
+<style>
+/*__BASE_CSS__*/
+/* 粤高速 edition: expressway-sign green for headings and navigation; chart palette unchanged. */
+:root { --accent: #17693f; --accent-ink: #11552f; --info-bg: #eaf4ee; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #6cc994; --accent-ink: #92d9b0; --info-bg: #13231a; } }
+:root[data-theme="dark"] { --accent: #6cc994; --accent-ink: #92d9b0; --info-bg: #13231a; }
+.chart .vlab-in.dark { fill: #121722; }
+.tt-k.f3 { background: var(--s3); } .tt-k.f4 { background: var(--s4); } .tt-k.c7, .tt-k.f7 { background: var(--s7); } .tt-k.fmid { background: var(--mid); }
+.ticker { letter-spacing: .04em; }
+.tbl-val { min-width: 600px; }
+.tbl tr.me td { background: color-mix(in srgb, var(--accent) 9%, transparent); font-weight: 500; }
+@media print {
+  #tbl-peer-growth, #tbl-peer-vol, #tbl-peer-val, #tbl-roads, #tbl-annual, #tbl-exdiv, #tbl-half, #tbl-factors { font-size: 10.5px; }
+  #tbl-risk, #tbl-year { font-size: 10px; }
+  #tbl-peer-growth th, #tbl-peer-growth td, #tbl-peer-vol th, #tbl-peer-vol td, #tbl-peer-val th, #tbl-peer-val td, #tbl-risk th, #tbl-risk td,
+  #tbl-roads th, #tbl-roads td, #tbl-annual th, #tbl-annual td, #tbl-exdiv th, #tbl-exdiv td, #tbl-half th, #tbl-half td,
+  #tbl-year th, #tbl-year td, #tbl-factors th, #tbl-factors td { padding: 4px 4px; }
+  #tbl-risk td.n { white-space: normal; }
+  .tbl-wrap:has(#tbl-projects), .tbl-wrap:has(#tbl-expect) { break-inside: avoid; }
+}
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="kicker"><span class="ticker">SZSE: 000429</span><span>高速公路 · 广东交通集团控股 · 高股息</span><span>中文研究报告</span></div>
+    <h1>粤高速A财务分析报告</h1>
+    <p class="sub">覆盖路产与财务表现、债务与偿债能力、对车流和利率的敏感性、改扩建规划、与 15 家 A 股高速公路公司的同业对比，以及以沪深 300、公路板块和 10 年期国债收益率为基准的波动率分析与股价事件研究。</p>
+    <div class="stamp">股价与指数截至 2026 年 10 月 22 日收盘 · 财务数据截至 2026 年中报（2026 年 8 月 25 日公告）· 报告日期 2026 年 10 月 23 日 · 仅供研究学习，不构成投资建议</div>
+  </div>
+</header>
+
+<nav class="rail" aria-label="章节导航">
+  <div class="wrap">
+    <a href="#summary">摘要</a>
+    <a href="#company">公司与路产</a>
+    <a href="#financials">财务表现</a>
+    <a href="#debt">债务与偿债</a>
+    <a href="#sensitivity">增长敏感性</a>
+    <a href="#outlook">未来规划</a>
+    <a href="#peers">同业对比</a>
+    <a href="#valuation">估值</a>
+    <a href="#volatility">波动率</a>
+    <a href="#events">事件研究</a>
+    <a href="#risks">风险</a>
+    <a href="#conclusion">结论</a>
+    <a href="#appendix">方法与来源</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- ============ SUMMARY ============ -->
+<section id="summary">
+  <h2><span class="no">00</span>核心结论</h2>
+  <div class="tiles" role="list">
+    <div class="tile" role="listitem"><div class="lab">收盘价（10/22）</div><div class="val">¥13.11</div><div class="dl">市值 274 亿元；较 7/27 的历史高点低 9%；2026 年以来含分红 +16%</div></div>
+    <div class="tile" role="listitem"><div class="lab">股息率 / 10 年期国债</div><div class="val">4.6% <small>/ 1.64%</small></div><div class="dl">按 2025 年每股 0.604 元；按 2026 年一致预期约 4.0%</div></div>
+    <div class="tile" role="listitem"><div class="lab">ROE / 分红率（2025）</div><div class="val">16.8% <small>/ 70%</small></div><div class="dl">两项都是 16 家 A 股高速公路公司中最高</div></div>
+    <div class="tile" role="listitem"><div class="lab">净负债 / EBITDA</div><div class="val">0.96x</div><div class="dl">2026 年 6 月末净负债 41.6 亿元；两大改扩建将推高杠杆</div></div>
+    <div class="tile" role="listitem"><div class="lab">β（对沪深 300 / 对公路板块）</div><div class="val">0.39 / 0.69</div><div class="dl">2016 年以来日度；2023 年以来对沪深 300 仅 0.11</div></div>
+    <div class="tile" role="listitem"><div class="lab">年化波动率</div><div class="val">23%</div><div class="dl">公路板块 19%，沪深 300 19%；近一年 24%</div></div>
+  </div>
+  <ol class="keypoints">
+    <li><b>主业停滞，利润靠一次性项目撑高。</b>2025 年收入 44.7 亿元（−2.2%），归母净利润 18.0 亿元（+15.3%），但扣非净利润 15.2 亿元（−7.4%）：差额主要是广佛高速代垫管养费的坏账冲回（3.43 亿元）。2026 年上半年收入持平，扣非净利润 +6.0%，归母净利润因高基数 −19.6%。</li>
+    <li><b>三条控股路贡献 98% 的收入，深中通道是最大的分流因素。</b>广惠（51%）、佛开（100%）、广珠段（75%）2025 年通行费分别 20.0、14.2、9.6 亿元；深中通道 2024 年 6 月通车后，广珠段通行费 2025 年 −11.5%，佛开 −4.8%。2026 年上半年佛开回升 3.5%，广珠段仍 −4.6%。</li>
+    <li><b>现在偿债很轻松，但大规模改扩建刚开始。</b>净负债 41.6 亿元，净负债/EBITDA 0.96 倍（同业中位数 3.4 倍），借款利率 2.10%–2.94%，利息保障约 16 倍。但广惠（预算 305 亿元）和广珠东（137 亿元）改扩建合计剩余投资约 388 亿元。按示意测算，到 2030 年净负债可能升至约 310 亿元，相当于 EBITDA 的 7–8 倍。</li>
+    <li><b>对增长的敏感性：车流决定利润，利率决定估值。</b>三条控股路的通行费每变动 1%，扣非净利润约变动 1.6%。2023 年以来，10 年期国债收益率每上行 10 个基点，股价平均下跌约 0.75%（统计上较弱）。长期看，公司股息率与国债收益率的利差稳定在约 3 个百分点。</li>
+    <li><b>同业对比：质量最好，也最贵。</b>ROE、分红率、市净率（2.59 倍）均居 16 家之首，市盈率 17.2 倍排第 3（中位数 13.8 倍）。股息率 4.6% 排第 4；按 2026 年一致预期（每股收益约 0.755 元、分红率 70%），预期股息率约 4.0%。</li>
+    <li><b>股价与大盘几乎脱钩，跟随红利与公路板块。</b>2023 年以来对沪深 300 的 β 仅 0.11（R² 不到 1%）。2024 年上涨 83%（同业第 1），2025 年下跌 17%，2026 年至今上涨 16%（同业第 2）；近三年累计 +84%。</li>
+    <li><b>事件反应：除息日“贴权”最有规律。</b>2016 年以来 11 次除息日中有 9 次下跌，按分红复权后平均 −2.3%，2026 年 8 月更达 −6.7%。股东变动（山东高速转让股份，+4.1% 异常收益）和三季报会计估计变更（−4.6%）的反应显著；年报与中报的反应通常不大。</li>
+  </ol>
+</section>
+
+<!-- ============ COMPANY ============ -->
+<section id="company">
+  <h2><span class="no">01</span>公司概况与路产</h2>
+  <p class="lede">粤高速是广东省交通集团旗下唯一的上市高速公路公司，控股路段集中在珠三角，经营模式简单：收通行费、计提路产折旧、按 70% 分红。</p>
+  <div class="grid2">
+    <div class="card"><h4>基本信息</h4><ul>
+      <li>1996–1998 年先后发行 B 股、A 股上市，总股本 20.91 亿股（A 股与 B 股）。实际控制人为广东省国资委。</li>
+      <li>控股高速公路里程 306.78 公里，按权益折算的参控股里程 295.88 公里；2026 年 6 月末资产总额 284 亿元。</li>
+      <li>2025 年 11 月，山东高速将所持 9.68% 股份以 24.35 亿元转让给山东通汇资本（2020 年由复星系转入），12 月完成过户。</li>
+      <li>2020 年以 24.94 亿元现金收购广惠高速 21% 股权，持股升至 51% 并合并报表（同一控制下合并，2019 年数据已追溯调整）。</li>
+    </ul></div>
+    <div class="card"><h4>三条控股路</h4><ul>
+      <li><b>广惠高速</b>（51%）：全长 153 公里，广州东向连接粤东的通道；2025 年通行费 20.0 亿元，占收入 44.8%。2025 年 1 月改扩建获核准，折旧年限延长至 2054 年 8 月。</li>
+      <li><b>佛开高速</b>（100%）：大湾区西向连接大西南的通道；通行费 14.2 亿元，北段收费期至 2036 年 3 月，南段至 2044 年 6 月。</li>
+      <li><b>京珠高速广珠段</b>（75%）：位于珠江口西岸、南北走向的珠三角主骨架（广州—中山—珠海）；通行费 9.6 亿元，收费期至 2030 年 5 月，改扩建后的收费期尚待核定。</li>
+      <li><b>广佛高速</b>（75%）：2022 年 3 月 3 日收费期满停止收费，由政府收回管理。</li>
+    </ul></div>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-roads">
+    <caption>参控股路段经营数据（车流量：万辆；通行费：百万元）</caption>
+    <thead><tr><th>路段</th><th class="n">持股</th><th class="n">2025 车流量</th><th class="n">同比</th><th class="n">2025 通行费</th><th class="n">同比</th><th class="n">2026 上半年通行费同比</th><th>收费期限 / 状态</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">资料来源：公司 2025 年年报与 2026 年半年报。参股路段按权益法确认投资收益；持股比例来自年报“在合营企业或联营企业中的权益”。</p>
+  <div class="two">
+    <figure>
+      <figcaption>三条控股路的通行费收入<span class="cap-sub">百万元；2020 年含疫情期间免费通行</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>广惠</span><span class="leg-c2"><i class="box"></i>佛开</span><span class="leg-c3"><i class="box"></i>广珠段</span></div>
+      <div class="chart-box" id="ch-toll"></div>
+    </figure>
+    <figure>
+      <figcaption>日均车流量（折算）<span class="cap-sub">万辆 / 日；全年车流量 ÷ 365</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i></i>广惠</span><span class="leg-c2"><i></i>佛开</span><span class="leg-c3"><i></i>广珠段</span><span class="leg-c7"><i></i>广佛（免费）</span></div>
+      <div class="chart-box" id="ch-traffic"></div>
+    </figure>
+  </div>
+</section>
+
+<!-- ============ FINANCIALS ============ -->
+<section id="financials">
+  <h2><span class="no">02</span>财务表现分析</h2>
+  <p class="lede">收入在 2023 年基本恢复到疫情前水平（2019 年的 98%）后，连续两年小幅下滑。利润率很高（毛利率约 65%），利润的波动主要来自路网分流、疫情和一次性项目。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-annual">
+    <caption>年度财务摘要（百万元；2019 年为追溯调整后口径）</caption>
+    <thead><tr><th>年度</th><th class="n">收入</th><th class="n">同比</th><th class="n">毛利率</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">扣非净利润</th><th class="n">同比</th><th class="n">ROE</th><th class="n">每股分红</th><th class="n">分红率</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>收入、归母净利润与扣非净利润<span class="cap-sub">百万元</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>收入</span><span class="leg-c2"><i class="box"></i>归母净利润</span><span class="leg-c3"><i class="box"></i>扣非净利润</span></div>
+      <div class="chart-box" id="ch-rev"></div>
+    </figure>
+    <figure>
+      <figcaption>每股现金分红<span class="cap-sub">元 / 股（按会计年度）；2016 年起分红率约 70%</span></figcaption>
+      <div class="chart-box" id="ch-div"></div>
+    </figure>
+  </div>
+  <ul>
+    <li><b>一次性项目：</b>2025 年一季度，政府文件明确广佛高速由政府收回、代垫的管养费用经审计后返还，公司据此冲回坏账准备 3.43 亿元，使全年归母净利润增长 15.3%，扣非净利润则下降 7.4%。这也是 2026 年一季度归母净利润 −31%、上半年 −19.6% 的原因（高基数）。</li>
+    <li><b>少数股东分走近三成利润：</b>广惠（49% 少数股权）和广珠段（25%）利润丰厚，2025 年少数股东损益 6.87 亿元，占合并净利润的 28%。</li>
+    <li><b>利息收支接近打平：</b>账上现金约 68 亿元，2026 年上半年利息收入 0.76 亿元，利息费用 0.80 亿元。改扩建期间的借款利息资本化（2025 年广珠东项目资本化 0.78 亿元），利润表上的利息费用低估了真实融资成本。</li>
+    <li><b>2026 年目标：</b>营业收入 45.13 亿元（+1.0%），营业成本控制在 17.19 亿元以内。</li>
+  </ul>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-half">
+    <caption>半年度（百万元）</caption>
+    <thead><tr><th>期间</th><th class="n">收入</th><th class="n">同比</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">扣非净利润</th><th class="n">同比</th><th class="n">少数股东损益</th><th class="n">信用减值（+为冲回）</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+</section>
+
+<!-- ============ DEBT ============ -->
+<section id="debt">
+  <h2><span class="no">03</span>债务结构与偿债能力</h2>
+  <p class="lede">今天的资产负债表很健康，但公司正在进入一个规模接近 400 亿元的改扩建周期。偿债能力的关键不在当下，而在 2027–2030 年杠杆会升到多高，以及届时能否维持 70% 的分红率。</p>
+  <div class="two">
+    <figure>
+      <figcaption>现金、有息负债与在建工程<span class="cap-sub">百万元</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>货币资金</span><span class="leg-c2"><i class="box"></i>有息负债</span><span class="leg-c3"><i class="box"></i>在建工程</span></div>
+      <div class="chart-box" id="ch-liq"></div>
+    </figure>
+    <div class="tbl-wrap" style="margin:0"><table class="tbl">
+      <thead><tr><th>偿债指标（2026-06-30）</th><th class="n">数值</th></tr></thead>
+      <tbody>
+        <tr><td>货币资金</td><td class="n">¥68.3 亿</td></tr>
+        <tr><td>有息负债（长期借款 103.2 亿元）</td><td class="n">¥109.9 亿</td></tr>
+        <tr><td>净负债</td><td class="n">¥41.6 亿</td></tr>
+        <tr><td>净负债 / EBITDA（2025）</td><td class="n">0.96x</td></tr>
+        <tr><td>资产负债率</td><td class="n">50.5%</td></tr>
+        <tr><td>流动比率</td><td class="n">2.8</td></tr>
+        <tr><td>EBIT / 利息（含资本化，2025）</td><td class="n">≈ 16 倍</td></tr>
+        <tr><td>信用借款利率区间（2025 年末）</td><td class="n">2.10%–2.94%</td></tr>
+        <tr><td>经营现金流 / 资本开支（2025）</td><td class="n">¥35.6 亿 / ¥24.3 亿</td></tr>
+      </tbody>
+    </table></div>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-liq">
+    <caption>资产负债历史（百万元）</caption>
+    <thead><tr><th>期末</th><th class="n">货币资金</th><th class="n">有息负债</th><th class="n">净负债</th><th class="n">在建工程</th><th class="n">资产负债率</th><th class="n">流动比率</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <h3>3.1 改扩建项目</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-projects">
+    <thead><tr><th>项目</th><th class="n">预算（亿元）</th><th class="n">已投入</th><th class="n">持股</th><th>进度</th><th class="n">资本金 IRR</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">资料来源：2025 年年报、2026 年半年报“重要在建工程项目”附注及公司对外投资和关联交易公告。广珠东项目预算含政府承担的部分工程费用；资本金比例为总投资的 35%，其余以银行贷款解决。</p>
+  <h3>3.2 改扩建期间的杠杆（示意测算）</h3>
+  <div class="two">
+    <figure>
+      <figcaption>净负债与净负债 / EBITDA 的示意路径<span class="cap-sub">亿元；EBITDA 按 2025 年剔除一次性冲回后的 40.1 亿元保持不变</span></figcaption>
+      <div class="chart-box" id="ch-debtpath"></div>
+    </figure>
+    <div class="tbl-wrap" style="margin:0"><table class="tbl" id="tbl-debtpath">
+      <thead><tr><th>期末</th><th class="n">当期资本开支</th><th class="n">净负债</th><th class="n">净负债 / EBITDA</th></tr></thead>
+      <tbody></tbody>
+    </table></div>
+  </div>
+  <p class="small muted">假设：广惠改扩建 2026 年下半年至 2030 年投入约 298 亿元，广珠东剩余约 81 亿元主要在 2027 年前投入；资本金 35%，少数股东按持股比例出资；经营现金流每年 36 亿元，归母分红 10.9 亿元（70%），少数股东分红 7 亿元；净负债利率 2.5%；其他资本开支每年 3 亿元。此为示意计算，不是公司的投资计划或预测，实际进度、收费期限和政府补助都会改变结果。</p>
+  <ul>
+    <li><b>2030 年以后的回报：</b>改扩建完成后，广惠的经营期预计延长至 2054 年，车道扩容和新的收费标准有望提升收入。公司测算的项目资本金内部收益率在 5.2%–5.9% 之间，高于当前借款利率。</li>
+    <li><b>分红的约束：</b>现行分红规划（不低于 70%）覆盖 2024–2026 年。2027 年起，如果杠杆按上述路径上升，新的分红规划是否维持 70% 是最大的不确定性。</li>
+  </ul>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>维度</th><th>评估</th><th>依据</th></tr></thead>
+    <tbody>
+      <tr><td>短期流动性</td><td><span class="pill good"><i></i>强</span></td><td>货币资金 68.3 亿元，一年内到期借款 6.7 亿元；流动比率 2.8</td></tr>
+      <tr><td>当前杠杆</td><td><span class="pill good"><i></i>低</span></td><td>净负债 / EBITDA 0.96 倍，在 16 家同业中第 4 低</td></tr>
+      <tr><td>融资成本</td><td><span class="pill good"><i></i>低</span></td><td>信用借款利率 2.10%–2.94%，控股股东旗下财务公司提供存贷款服务</td></tr>
+      <tr><td>未来杠杆</td><td><span class="pill warn"><i></i>上升</span></td><td>剩余改扩建投资约 388 亿元（并表口径），2027–2030 年净负债可能升至 EBITDA 的 7–8 倍</td></tr>
+      <tr><td>分红可持续性</td><td><span class="pill warn"><i></i>需关注</span></td><td>2025 年经营现金流 35.6 亿元，资本开支 24.3 亿元，分红（含少数股东）约 18 亿元，自由现金流已不足以覆盖分红</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ============ SENSITIVITY ============ -->
+<section id="sensitivity">
+  <h2><span class="no">04</span>对市场增长的敏感性</h2>
+  <p class="lede">粤高速对“增长”的敏感性有两条线：经营上看车流与路网变化，估值上看利率。宏观经济本身的影响反而较弱。</p>
+  <h3>4.1 车流与通行费：经营杠杆</h3>
+  <p>高速公路的成本以折旧、养护和人工为主，基本固定，收入变化几乎全部落到利润上。三条控股路 2025 年按权益折算的通行费为 31.6 亿元，通行费每变动 1%，税后归母利润变动约 0.24 亿元，相当于 2025 年扣非净利润的 1.6%：</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-lev">
+    <thead><tr><th>控股路通行费变动</th><th class="n">权益通行费（百万元）</th><th class="n">扣非净利润（百万元）</th><th class="n">扣非净利润变动</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p>过去几年的通行费波动主要来自外部冲击而不是宏观增速：2020 年疫情期间全国免费通行 79 天，三条路通行费下降 17%–34%；2022 年疫情封控下降 11%–21%；2023 年恢复性增长 16%–28%；2024–2025 年深中通道、南中高速通车和改扩建施工造成分流。</p>
+  <h3>4.2 路网变化与收费期限</h3>
+  <ul>
+    <li><b>深中通道：</b>2024 年 6 月 30 日通车后约承担珠江每日过江车流的四分之一，直接分流珠江口西岸的广珠段与佛开。广珠段 2025 年车流量 −5.3%、通行费 −11.5%。</li>
+    <li><b>收费期限：</b>广珠段收费期至 2030 年 5 月，若改扩建后不能延长，将失去约 21% 的收入和约 19% 的归母净利润（按 2025 年计算）。改扩建后的收费年限需由省政府核定，公司在投资公告中把“收费年限不及预期”列为首要风险。</li>
+    <li><b>政策：</b>2026 年 9 月交通运输部就《公路法》修正草案征求意见，明确收费期满的高速公路由政府统一管理，可通过收取通行费等方式筹集养护资金。这意味着到期路段的收益归政府，而不是原经营公司，广佛高速的处理方式就是先例。</li>
+  </ul>
+  <h3>4.3 利率：股息率与国债收益率的利差</h3>
+  <div class="two">
+    <figure>
+      <figcaption>股息率、10 年期国债收益率与利差<span class="cap-sub">股息率按最近一次公告的年度分红计算</span></figcaption>
+      <div class="legend"><span class="leg-c2"><i></i>粤高速股息率</span><span class="leg-c1"><i></i>10 年期国债</span><span class="leg-c3"><i></i>利差</span></div>
+      <div class="chart-box" id="ch-gap"></div>
+    </figure>
+    <figure>
+      <figcaption>滚动利率敏感性<span class="cap-sub">252 日窗口；10 年期收益率每上行 10bp 对应的日收益</span></figcaption>
+      <div class="chart-box" id="ch-rate"></div>
+    </figure>
+  </div>
+  <p>2018–2023 年，公司平均股息率 6.1%，10 年期国债收益率平均 3.0%，利差约 3.0 个百分点。此后国债收益率降到 1.6% 附近，股价随之上涨，股息率降到约 4.6%，<b>利差却基本没变（目前 3.0 个百分点）</b>。2024 年末利差一度收窄到 2.0 个百分点，对应 18.8 倍市盈率和 2.94 倍市净率，随后股价在 2025 年回落 17%。</p>
+  <p>短期内利率的直接作用并不强：日度回归中，2023 年以来国债收益率每上行 10bp，股价下跌约 0.75%（t = −1.9）；按月计算的相关系数接近 0。更准确的理解是，<b>低利率决定了估值中枢，日常涨跌由红利板块的资金流向驱动</b>。</p>
+</section>
+
+<!-- ============ OUTLOOK ============ -->
+<section id="outlook">
+  <h2><span class="no">05</span>未来规划与公司议程</h2>
+  <p class="lede">公司的“十五五”路线是：用改扩建延长核心路产的收费期、守住高分红，并通过粤高资本做小规模的新兴产业投资。</p>
+  <ul class="tl">
+    <li><div class="when">2026 年 · 经营目标</div>营业收入 45.13 亿元、营业成本不超过 17.19 亿元；推进大雁山收费站扩建与智慧化改造。</li>
+    <li><div class="when">2026 年末 · 分红规划到期</div>2024–2026 年“分红率不低于 70%”的规划到期，2027 年起的新规划是观察重点。</li>
+    <li><div class="when">2027 年 · 广珠东改扩建完工</div>广澳高速南沙至珠海段改扩建（中山城区至珠海段已于 2024 年 9 月通车）其余路段计划完工；之后收费期限需省政府重新核定。</li>
+    <li><div class="when">2030 年 · 广惠改扩建完工 / 广珠段原收费期届满</div>广惠改扩建 2025 年 9 月开工，预算 305 亿元，经营期预计延长至 2054 年；广珠段原收费期 2030 年 5 月到期。</li>
+    <li><div class="when">进行中 · 广佛高速移交</div>广佛高速已停止收费，政府收回管理；代垫管养费用经审计后返还，已收回 1.5 亿元。</li>
+  </ul>
+  <div class="grid2">
+    <div class="card"><h4>① 改扩建换收费期</h4><p>广惠、广珠东、广肇、惠盐、江中等参控股路段都在改扩建或刚完成。惠盐高速深圳段改扩建后获批 25 年收费期（至 2047 年），江中高速 2025 年 6 月起执行新收费标准，2026 年上半年通行费 +52%。这说明“改扩建换收费期、换收费标准”的模式可行，但审批结果因项目而异。</p></div>
+    <div class="card"><h4>② 高分红承诺</h4><p>2016 年以来每年分红率约 70%，2025 年度每股 0.604 元（合计 12.63 亿元）。“质量回报双提升”行动方案中，公司把维持 70% 分红列为核心举措。</p></div>
+    <div class="card"><h4>③ 控股股东的资产储备</h4><p>广东交通集团旗下还有大量未上市的高速公路资产。券商普遍认为“参股→增持→控股”的路径有望延续（2020 年收购广惠 21% 股权即为一例），但目前没有新的注入公告。</p></div>
+    <div class="card"><h4>④ 服务区与新业务</h4><p>佛开高速址山服务区（北区）为广东首个“近零碳”服务区；粤高资本完成 3 个战新产业项目立项。这些业务规模很小，对利润影响有限。</p></div>
+  </div>
+</section>
+
+<!-- ============ PEERS ============ -->
+<section id="peers">
+  <h2><span class="no">06</span>同业对比：增长、行业规模、股价波动与经营预期</h2>
+  <p class="lede">对比对象是 15 家 A 股高速公路上市公司。粤高速的特点是盈利质量和分红率最高、当前杠杆很低、估值最贵，股价最不受公路板块整体涨跌的影响。</p>
+
+  <h3>6.1 行业规模</h3>
+  <ul>
+    <li><b>全国：</b>2024 年末全国高速公路里程 19.07 万公里（交通运输部统计公报），交通运输部预计 2025 年新增约 8,000 公里。行业整体进入“存量运营 + 改扩建”阶段。</li>
+    <li><b>广东：</b>2025 年末高速公路通车里程突破 1.2 万公里，连续 12 年全国第一；广东 2024 年 GDP 14.16 万亿元，连续 36 年全国第一。</li>
+    <li><b>上市公司：</b>本文对比的 16 家 A 股高速公路公司合计市值约 3,527 亿元，粤高速（274 亿元）排第 5。申万高速公路指数（20 只成分股）静态市盈率 14.6 倍、市净率 1.2 倍、股息率 3.8%。</li>
+  </ul>
+
+  <h3>6.2 增长与盈利</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-peer-growth">
+    <caption>增长与盈利（百万元；收入含按准则确认的建造收入，同比波动较大，比较时以扣非净利润为主）</caption>
+    <thead><tr><th>公司</th><th class="n">2025 收入</th><th class="n">同比</th><th class="n">2025 归母净利润</th><th class="n">扣非同比</th><th class="n">2026H1 收入同比</th><th class="n">2026H1 扣非同比</th><th class="n">ROE（2025）</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>ROE（2025）<span class="cap-sub">绿色为粤高速</span></figcaption>
+      <div class="chart-box" id="ch-peer-roe"></div>
+    </figure>
+    <figure>
+      <figcaption>2026 上半年扣非净利润同比<span class="cap-sub">绿色为粤高速</span></figcaption>
+      <div class="chart-box" id="ch-peer-growth"></div>
+    </figure>
+  </div>
+  <p>行业整体处于低增长：2025 年扣非净利润同比的中位数为 −4.8%，2026 年上半年为 +0.6%。粤高速 2025 年扣非 −7.4%（受深中通道分流），2026 年上半年 +6.0%，排第 5。ROE 16.8% 远高于同业中位数 7.9%，原因是路产折旧已较充分、资产负债表轻，且广惠的高利润路段并表。</p>
+
+  <h3>6.3 估值、分红与杠杆</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-peer-val">
+    <caption>估值与分红（2026-10-22 收盘；市值、市盈率、市净率来自东方财富；股息率按 2025 年度每股分红计算，含中期）</caption>
+    <thead><tr><th>公司</th><th class="n">市值（亿元）</th><th class="n">市盈率 TTM</th><th class="n">市净率</th><th class="n">股息率</th><th class="n">分红率</th><th class="n">净负债 / EBITDA</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>股息率（按 2025 年度分红）<span class="cap-sub">绿色为粤高速</span></figcaption>
+      <div class="chart-box" id="ch-peer-dy"></div>
+    </figure>
+    <figure>
+      <figcaption>净负债 / EBITDA<span class="cap-sub">2026 年 6 月末净负债 ÷ 2025 年 EBITDA；负值为净现金；绿色为粤高速</span></figcaption>
+      <div class="chart-box" id="ch-peer-lev"></div>
+    </figure>
+  </div>
+  <p>粤高速的市净率 2.59 倍是同业中位数（0.94 倍）的近 3 倍，但高 ROE 和 70% 分红率支撑了 4.6% 的股息率，与四川成渝、东莞控股、现代投资处于同一档。区别在于：四川成渝和现代投资的净负债已达 EBITDA 的 7–11 倍，粤高速目前只有 1 倍左右，但改扩建会使它向高杠杆一端移动。</p>
+
+  <h3>6.4 股价在公路板块中的波动</h3>
+  <figure>
+    <figcaption>2024 年以来的表现（2023 年末 = 100，含分红）<span class="cap-sub">粤高速、公路同业等权指数、沪深 300 全收益、中证红利全收益与部分同业</span></figcaption>
+    <div class="legend"><span class="leg-c2"><i></i>粤高速</span><span class="leg-c3"><i></i>公路同业指数</span><span class="leg-c1"><i></i>沪深 300 全收益</span><span class="leg-c4"><i></i>中证红利全收益</span><span class="leg-c7"><i></i>皖通高速</span></div>
+    <div class="chart-box" id="ch-rebased"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-peer-vol">
+    <caption>股价表现与风险（含分红；2026 年至 10/22；波动率为近 252 个交易日；β 与利率敏感性为 2023 年以来日度）</caption>
+    <thead><tr><th>公司</th><th class="n">2024</th><th class="n">2025</th><th class="n">2026 至今</th><th class="n">近三年</th><th class="n">近一年波动率</th><th class="n">对沪深 300 β</th><th class="n">对板块 β</th><th class="n">利率 +10bp</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>近一年年化波动率<span class="cap-sub">16 家 A 股高速公路公司；绿色为粤高速</span></figcaption>
+      <div class="chart-box" id="ch-peer-vol"></div>
+    </figure>
+    <figure>
+      <figcaption>2026 年至今收益（含分红）<span class="cap-sub">截至 10/22；绿色为粤高速</span></figcaption>
+      <div class="chart-box" id="ch-peer-ytd"></div>
+    </figure>
+  </div>
+  <ul>
+    <li><b>涨得多，也回撤过：</b>2024 年上涨 83%，同业第 1；2025 年下跌 17%，排第 13；2026 年至今 +16%，仅次于皖通高速（+22%）。近三年累计 +84%，与皖通、四川成渝、山东高速同属第一梯队。</li>
+    <li><b>与板块的联动最弱：</b>2023 年以来对公路同业指数的 β 为 0.66，是 16 家中最低的；与沪深 300 的 β 仅 0.11。它的股价更多由自身的分红预期和红利资金驱动。</li>
+    <li><b>对利率更敏感：</b>2023 年以来每 10bp 国债收益率上行对应约 −0.75% 的日收益，在 16 家中排倒数第 3，说明市场把它当作“类债券”资产。</li>
+  </ul>
+
+  <h3>6.5 经营预期对比</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-expect">
+    <caption>主要同业的分红承诺与近期看点</caption>
+    <thead><tr><th>公司</th><th>分红承诺</th><th>近期看点</th></tr></thead>
+    <tbody>
+      <tr class="me"><td>粤高速A</td><td>2024–2026 年不低于 70%</td><td>广惠、广珠东改扩建与收费期核定；深中通道分流趋稳；2027 年起的新分红规划</td></tr>
+      <tr><td>宁沪高速</td><td>近年分红率 50% 以上，2026 年起实施中期分红</td><td>二季度收费业务收入 +7.6%，控股路网流量转正；沪宁高速日均通行费同比增长</td></tr>
+      <tr><td>招商公路</td><td>不低于扣除永续债后归母净利润的 55%</td><td>参控股路网遍布多省；2026 年上半年收入 +27%，扣非净利润 +4%</td></tr>
+      <tr><td>山东高速</td><td>不低于 60%</td><td>改扩建投入大；永续债 164 亿元，净负债 / EBITDA 约 6.0 倍</td></tr>
+      <tr><td>皖通高速</td><td>不低于 60%</td><td>2026 年至今涨幅第一；ROE 14.0% 仅次于粤高速</td></tr>
+      <tr><td>四川成渝</td><td>不低于 60%</td><td>股息率 4.7%；净负债 / EBITDA 约 10.7 倍，同业最高之一</td></tr>
+      <tr><td>深高速</td><td>近年分红率约 54%</td><td>收费公路业务收入下降；股价较 2025 年初高点低 35%</td></tr>
+    </tbody>
+  </table></div>
+  <p class="small muted">分红承诺来自公司公告及券商对 2026 年分红率的整理；宁沪高速二季度数据来自券商半年报点评。</p>
+</section>
+
+<!-- ============ VALUATION ============ -->
+<section id="valuation">
+  <h2><span class="no">07</span>估值</h2>
+  <div class="tbl-wrap"><table class="tbl tbl-val">
+    <thead><tr><th>指标</th><th class="n">数值</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>股价（2026-10-22）</td><td class="n">¥13.11</td><td>7 月 27 日创历史新高（复权）后回落 9%</td></tr>
+      <tr><td>市值</td><td class="n">¥274.1 亿</td><td>总股本 20.91 亿股（A 股与 B 股）</td></tr>
+      <tr><td>市盈率（TTM / 2026E）</td><td class="n">17.2x / 17.4x</td><td>2026 年每股收益按券商预测均值 0.755 元</td></tr>
+      <tr><td>市净率</td><td class="n">2.59x</td><td>2018 年以来 93% 分位</td></tr>
+      <tr><td>EV / EBITDA</td><td class="n">8.1x</td><td>企业价值含净负债与少数股东权益</td></tr>
+      <tr><td>股息率（2025 / 2026E）</td><td class="n">4.6% / 4.0%</td><td>2026 年按 70% 分红率 × 0.755 元估算为每股约 0.53 元</td></tr>
+      <tr><td>券商目标价</td><td class="n">¥12.81–15.23</td><td>广发 12.81（增持）、华泰 13.52（增持）、中金 15.23（跑赢行业）</td></tr>
+    </tbody>
+  </table></div>
+  <h3>7.1 用“股息率利差”定价</h3>
+  <p>对高分红公路股，市场的定价锚是股息率相对国债的利差。下表给出不同利差下的隐含股价（10 年期国债收益率 1.64%）：</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-gapgrid">
+    <thead><tr><th>股息率利差</th><th class="n">隐含股息率</th><th class="n">按 2025 年分红 0.604 元</th><th class="n">按 2026E 分红 0.53 元</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p>按 2026 年预期分红，现价对应的利差约 2.4 个百分点，低于 2018 年以来约 3 个百分点的平均水平，接近 2024 年末的低点（2.0 个百分点）。若利差回到 3 个百分点，隐含股价约 11.4 元，比现价低约 13%。换言之，<b>当前价格已经计入了较低的利差</b>，未来回报更依赖国债收益率继续下行或分红增长。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-rategrid">
+    <caption>国债收益率变动的影响（利差保持 3.0 个百分点，按 2026E 分红）</caption>
+    <thead><tr><th>10 年期国债收益率</th><th class="n">隐含股价</th><th class="n">相对现价</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+</section>
+
+<!-- ============ VOLATILITY ============ -->
+<section id="volatility">
+  <h2><span class="no">08</span>波动率分析（以沪深 300、公路板块和国债收益率为基准）</h2>
+  <p class="lede">样本：2016 年 1 月 4 日至 2026 年 10 月 22 日，共 2,618 个日收益观测值；股价按分红复权（含分红再投资）。</p>
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">基准选择</span>“市场”用沪深 300 全收益指数；“公路板块”用 15 家 A 股高速公路公司的等权日收益（不含粤高速），与申万高速公路指数日收益的相关系数为 0.97；“红利风格”用中证红利全收益指数；利率因子为 10 年期国债收益率的日变动，无风险利率取 2 年期国债收益率。</div>
+  </div>
+
+  <h3>8.1 价格走势对比</h3>
+  <figure>
+    <figcaption>累计表现（2016-01-04 = 100，含分红，对数坐标）</figcaption>
+    <div class="legend"><span class="leg-c2"><i></i>粤高速</span><span class="leg-c3"><i></i>公路同业指数</span><span class="leg-c4"><i></i>中证红利全收益</span><span class="leg-c1"><i></i>沪深 300 全收益</span></div>
+    <div class="chart-box" id="ch-price"></div>
+  </figure>
+
+  <h3>8.2 风险统计总表</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-risk">
+    <thead><tr><th>指标（2016/01/04 – 2026/10/22）</th><th class="n">粤高速</th><th class="n">公路同业</th><th class="n">沪深 300 全收益</th><th class="n">中证红利全收益</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-year">
+    <caption>分年度表现与风险</caption>
+    <thead><tr><th>年份</th><th class="n">粤高速</th><th class="n">公路同业</th><th class="n">沪深 300</th><th class="n">中证红利</th><th class="n">粤高速波动率</th><th class="n">对沪深 300 β</th><th class="n">对板块 β</th><th class="n">10 年国债变动</th><th class="n">年内最大回撤</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+
+  <h3>8.3 滚动波动率与波动聚集</h3>
+  <figure>
+    <figcaption>63 日滚动年化波动率与 GARCH(1,1) 条件波动率</figcaption>
+    <div class="legend"><span class="leg-c2"><i></i>粤高速 63 日</span><span class="leg-c7"><i></i>粤高速 GARCH</span><span class="leg-c3"><i></i>公路同业 63 日</span><span class="leg-c1"><i></i>沪深 300 63 日</span></div>
+    <div class="chart-box" id="ch-vol"></div>
+  </figure>
+  <p id="garch-text"></p>
+
+  <h3>8.4 单指数模型与多因子模型</h3>
+  <div class="formula">R<sub>000429</sub> − R<sub>f</sub> = α + β<sub>M</sub>(R<sub>CSI300</sub> − R<sub>f</sub>) + β<sub>S</sub>·F<sub>板块⊥沪深300</sub> + β<sub>Y</sub>·Δy<sub>10Y</sub> + e　　F 为公路同业指数对沪深 300 回归的残差</div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-sim">
+    <thead><tr><th>模型估计（日度）</th><th class="n">对沪深 300</th><th class="n">对公路板块</th><th class="n">对中证红利</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-factors">
+    <caption>多因子模型：分时期估计</caption>
+    <thead><tr><th>样本期</th><th class="n">沪深 300 单因子 R²</th><th class="n">加入板块后 R²</th><th class="n">对沪深 300 β</th><th class="n">板块因子 β</th><th class="n">利率 +10bp</th><th class="n">利率 t 值</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+
+  <h3>8.5 β 与相关性的变化</h3>
+  <div class="two">
+    <figure>
+      <figcaption>252 日滚动 β</figcaption>
+      <div class="legend"><span class="leg-c1"><i></i>对沪深 300</span><span class="leg-c3"><i></i>对公路板块</span></div>
+      <div class="chart-box" id="ch-beta"></div>
+    </figure>
+    <figure>
+      <figcaption>126 日滚动相关系数</figcaption>
+      <div class="legend"><span class="leg-c3"><i></i>与公路板块</span><span class="leg-c1"><i></i>与沪深 300</span></div>
+      <div class="chart-box" id="ch-corr"></div>
+    </figure>
+  </div>
+  <ul id="beta-points"></ul>
+
+  <h3>8.6 收益分布与回撤</h3>
+  <div class="two">
+    <figure>
+      <figcaption>日收益分布<span class="cap-sub">各区间交易日占比（1 个百分点一档）</span></figcaption>
+      <div class="legend"><span class="leg-c2"><i class="box"></i>粤高速</span><span class="leg-c3"><i class="box"></i>公路同业</span></div>
+      <div class="chart-box" id="ch-hist"></div>
+    </figure>
+    <figure>
+      <figcaption>回撤（相对样本内最高点）</figcaption>
+      <div class="legend"><span class="leg-c2"><i></i>粤高速</span><span class="leg-c3"><i></i>公路同业</span><span class="leg-c1"><i></i>沪深 300</span></div>
+      <div class="chart-box" id="ch-dd"></div>
+    </figure>
+  </div>
+</section>
+
+<!-- ============ EVENTS ============ -->
+<section id="events">
+  <h2><span class="no">09</span>股价与事件：事件研究</h2>
+  <p class="lede">用“沪深 300 + 公路板块”两因子模型剔除大盘与行业的影响，计算事件反应日的异常收益（AR），并用残差标准差检验显著性。</p>
+  <div class="formula" id="ar-formula">AR<sub>t</sub> = R<sub>000429,t</sub> − (α̂ + β̂<sub>M</sub> R<sub>CSI300,t</sub> + β̂<sub>S</sub> F<sub>t</sub>)　　t = AR / σ(e)；|t| &gt; 1.96 视为在 5% 水平显著</div>
+  <figure>
+    <figcaption>股价走势与 25 个关键事件（2017–2026）<span class="cap-sub">编号对应下表；蓝点为正异常收益，红点为负异常收益；悬停或聚焦查看详情</span></figcaption>
+    <div class="legend"><span class="leg-pos"><i class="box"></i>正异常收益</span><span class="leg-neg"><i class="box"></i>负异常收益</span><span class="leg-c2"><i></i>收盘价（元，未复权）</span></div>
+    <div class="chart-box" id="ch-events"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-events">
+    <thead><tr><th>#</th><th>反应日</th><th>事件</th><th>类别</th><th class="n">000429</th><th class="n">板块</th><th class="n">异常收益AR</th><th class="n">t 值</th><th class="n">CAR[0,+5]</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">反应日为市场首次能够交易该信息的交易日：公告在收市后或周末发布的，以下一交易日为反应日。收益已按分红复权。t 值加粗表示 |t| &gt; 1.96。CAR[0,+5] 为反应日起 6 个交易日的累计异常收益。“板块”为当日公路同业指数收益。</p>
+  <div class="two">
+    <figure>
+      <figcaption>各事件的异常收益<span class="cap-sub">按时间排序</span></figcaption>
+      <div class="chart-box" id="ch-ar"></div>
+    </figure>
+    <figure>
+      <figcaption>按年度的累计异常收益<span class="cap-sub">两因子模型残差之和</span></figcaption>
+      <div class="chart-box" id="ch-car"></div>
+      <div class="src" id="car-note"></div>
+    </figure>
+  </div>
+
+  <h3>9.1 除息日效应</h3>
+  <div class="two">
+    <figure>
+      <figcaption>股权登记日与除息日的收益<span class="cap-sub">按分红复权；%</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>股权登记日</span><span class="leg-c2"><i class="box"></i>除息日</span></div>
+      <div class="chart-box" id="ch-exdiv"></div>
+    </figure>
+    <div class="tbl-wrap" style="margin:0"><table class="tbl" id="tbl-exdiv">
+      <thead><tr><th>除息日</th><th class="n">每股分红</th><th class="n">股息率</th><th class="n">登记日</th><th class="n">除息日</th><th class="n">除息后 6 日 CAR</th></tr></thead>
+      <tbody></tbody>
+    </table></div>
+  </div>
+  <p id="exdiv-text"></p>
+
+  <h3>9.2 规律总结</h3>
+  <ol>
+    <li><b>除息日“贴权”是最稳定的规律。</b>11 次除息日中 9 次下跌，按分红复权后平均 −2.3%，异常收益平均 −2.4%；股权登记日平均 +1.0%。这与“抢权”资金在登记日前买入、除息后卖出有关；A 股持有期越短，红利所得税越高（持有 1 个月以内为 20%），短线参与者的税后收益更低。</li>
+    <li><b>业绩公告的影响通常不大，超预期的业绩预告除外。</b>2017 年中报预增当天异常收益 +8.1%（t = 6.6）；2023–2026 年的年报、季报异常收益多在 ±2% 左右。例外是 2024 年三季报叠加会计估计变更（−4.6%，t = −3.7）。</li>
+    <li><b>股东变动有明显反应。</b>2025 年 12 月山东高速宣布转让 9.68% 股份给山东通汇资本，当天异常收益 +4.1%（t = 3.3），市场解读为减持压力解除；2020 年 7 月复星系转让同一部分股份时，前一日已随大盘大涨 7.6%，公告当天回落 3.5%。</li>
+    <li><b>路网与政策事件多数在公告日前后反应有限。</b>深中通道通车当天异常收益 −0.8%，《公路法》修正草案当天 −1.2%，影响通过后续的车流数据逐步体现。广佛高速停止收费的公告当天则下跌 3.3%（异常收益 −3.1%）。</li>
+    <li><b>市场冲击中表现防御。</b>2025 年 4 月 7 日关税冲击当天沪深 300 下跌 7%，粤高速下跌 3.2%，异常收益 +0.9%。反过来，在 2024 年 9 月 24 日至 10 月 8 日的政策行情中，沪深 300 全收益上涨 32.5%、公路板块上涨 16.7%，粤高速只上涨 3.4%，6 日累计异常收益 −6.8%。</li>
+  </ol>
+
+  <h3>9.3 典型案例</h3>
+  <div class="grid2">
+    <div class="card"><h4>案例 A：吸收合并佛开公司（2017/04）</h4><p>4 月 8 日公告吸收合并全资子公司佛开公司，市场随后意识到佛开的累计亏损可用于抵减所得税。4 月 11–12 日连续两日涨停，异常收益合计约 +19%；4 月 13 日公司发布异常波动公告和一季度预增，随后两天回落 14%。<b>启示：</b>税务等“非经营性”利好也能引发剧烈重估，但持续性取决于盈利能否兑现。</p></div>
+    <div class="card"><h4>案例 B：2025 年度分红除息（2026/08/10）</h4><p>股权登记日（8/7）上涨 4.3%，除息日按 0.604 元分红复权后仍下跌 6.7%，异常收益 −7.2%（t = −5.9），是样本中最大的单日负异常收益。<b>启示：</b>对高股息个股，在登记日前买入“抢分红”往往得不偿失。</p></div>
+    <div class="card"><h4>案例 C：山东高速转让股份（2025/12/01）</h4><p>11 月 29 日（周六）公告：山东高速以 24.35 亿元（约每股 12.03 元）把 9.68% 股份转让给山东通汇资本。下一交易日上涨 3.6%，板块下跌 0.7%，异常收益 +4.1%。<b>启示：</b>大股东以溢价协议转让、而不是二级市场减持，被视为利好。</p></div>
+    <div class="card"><h4>案例 D：三季报与会计估计变更（2024/10/28）</h4><p>10 月 25 日（周五）发布三季报，同时对广惠部分互通立交的折旧年限和车流量预测进行会计估计变更。下一交易日下跌 3.0%，板块上涨 2.1%，异常收益 −4.6%。<b>启示：</b>折旧与车流假设的调整会直接影响利润，市场对此很敏感。</p></div>
+  </div>
+</section>
+
+<!-- ============ RISKS ============ -->
+<section id="risks">
+  <h2><span class="no">10</span>主要风险因素</h2>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>风险</th><th>严重度</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>改扩建带来的杠杆上升</td><td><span class="pill crit"><i></i>高</span></td><td>剩余投资约 388 亿元，2027–2030 年净负债可能升至 EBITDA 的 7–8 倍；利息资本化结束后利润承压</td></tr>
+      <tr><td>收费期限核定不及预期</td><td><span class="pill crit"><i></i>高</span></td><td>广珠段 2030 年 5 月到期，改扩建后的收费年限由省政府核定；到期路段将由政府收回</td></tr>
+      <tr><td>分红率下调</td><td><span class="pill warn"><i></i>中</span></td><td>70% 分红规划覆盖到 2026 年；资本开支高峰期可能下调，估值对分红预期高度敏感</td></tr>
+      <tr><td>路网分流与施工影响</td><td><span class="pill warn"><i></i>中</span></td><td>深中通道、南中高速持续分流；改扩建施工期间通行能力下降</td></tr>
+      <tr><td>利率上行</td><td><span class="pill warn"><i></i>中</span></td><td>估值锚定国债收益率；收益率回升或红利风格退潮会压低估值（2025 年即下跌 17%）</td></tr>
+      <tr><td>收费政策</td><td><span class="pill warn"><i></i>中</span></td><td>节假日免费通行、货车差异化收费、收费标准调整都由政府决定</td></tr>
+      <tr><td>估值偏高</td><td><span class="pill warn"><i></i>中</span></td><td>市净率 2.59 倍为同业最高、2018 年以来 93% 分位；按历史平均利差，隐含股价低于现价</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ============ CONCLUSION ============ -->
+<section id="conclusion">
+  <h2><span class="no">11</span>结论</h2>
+  <p>粤高速是 A 股高速公路中“质量最高”的公司之一：三条核心路产位于珠三角，ROE 16.8%，分红率 70%，当前净负债只有 EBITDA 的 1 倍左右。2024 年以来，在国债收益率从 2.6% 降到 1.6% 的过程中，它是公路板块涨幅最大的股票之一。</p>
+  <p>但它的基本面在放缓：受深中通道分流，2025 年扣非净利润下降 7%，归母净利润的增长来自一次性的坏账冲回。更重要的是，公司已经进入一个以广惠高速（305 亿元）为主的改扩建周期，这将在 2027–2030 年显著推高杠杆，并考验 70% 的分红承诺。估值方面，市净率 2.59 倍为同业最高，按历史平均利差计算的价格低于现价，现价已经反映了较为乐观的利率与分红假设。</p>
+  <p><b>接下来最值得关注的五个信号：</b>① 2027 年起的新分红规划是否维持 70%；② 广珠东改扩建完工后的收费期限核定结果；③ 广惠改扩建的投资节奏与融资成本；④ 深中通道分流是否趋稳（佛开、广珠段的月度车流）；⑤ 10 年期国债收益率与红利板块的资金流向。</p>
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">与前三份报告的对比</span>CoreWeave 的风险在高杠杆，泡泡玛特在增长的可持续性，三生制药在单一资产的二元结果。粤高速的风险则是“慢变量”：利率决定估值，收费期限和改扩建决定长期现金流，股价的日常波动远小于前三家公司。</div>
+  </div>
+</section>
+
+<!-- ============ APPENDIX ============ -->
+<section id="appendix">
+  <h2><span class="no">12</span>方法说明与数据来源</h2>
+  <h3>方法</h3>
+  <ul class="small">
+    <li><b>收益率：</b>个股使用 Yahoo Finance 的复权收盘价（现金分红按乘法再投资）；东方财富的“后复权”价格以加法加回分红，会低估百分比收益，因此只用于核对原始价格。指数使用中证指数公司发布的沪深 300 全收益和中证红利全收益指数。样本截至 2026/10/22。</li>
+    <li><b>公路同业指数：</b>15 家 A 股高速公路公司日收益的等权平均（至少 8 家有数据的交易日计入），不含粤高速；同业表中每家公司的板块 β 使用剔除该公司后的指数。</li>
+    <li><b>多因子模型：</b>板块因子为同业指数对沪深 300 回归的残差；利率因子为 10 年期国债收益率的日变动（百分点），系数换算为每 10bp 的收益；标准误使用 HAC（Newey-West，5 阶）。</li>
+    <li><b>股息率利差：</b>股息率按最近一次公告的年度分红计算（公告日起生效），减去当日 10 年期国债收益率。</li>
+    <li><b>财务数据：</b>来自东方财富（通过 akshare 获取）的报表与指标；路段车流、通行费、收费期限、在建工程预算与借款利率取自公司年报、半年报与公告。2019 年数据为同一控制下合并追溯调整后口径，2019 年分红率按原始口径净利润计算。</li>
+    <li><b>示意测算：</b>改扩建期间的杠杆路径与隐含股价为示意性计算，关键假设已在表下列出，并非盈利预测或投资建议。</li>
+  </ul>
+  <h3>数据来源</h3>
+  <ol class="foot">
+    <li>公司公告（巨潮资讯网）：<a href="https://static.cninfo.com.cn/finalpage/2026-08-25/1225495707.PDF">2026 年半年度报告摘要</a>、<a href="https://static.cninfo.com.cn/finalpage/2026-03-14/1225008768.PDF">2025 年年度报告摘要</a>、<a href="https://static.cninfo.com.cn/finalpage/2024-03-16/1219314087.PDF">未来三年股东回报规划（2024–2026）</a>、<a href="https://static.cninfo.com.cn/finalpage/2025-03-15/1222804885.PDF">广佛高速管养费重大事项公告</a>、<a href="https://static.cninfo.com.cn/finalpage/2025-11-29/1224836458.PDF">股东权益变动提示性公告</a>、<a href="https://static.cninfo.com.cn/finalpage/2020-11-26/1208801452.PDF">收购广惠高速 21% 股权</a>；其余见事件表链接。</li>
+    <li>行情与指数：Yahoo Finance（000429.SZ 与 15 家同业）；中证指数公司（沪深 300 与中证红利，价格与全收益）；申万宏源研究（申万高速公路指数）；东方财富（估值历史、分红、财务报表、中美国债收益率，通过 akshare 获取）。</li>
+    <li>行业与政策：<a href="https://www.news.cn/20260907/f6202986d3ef4da79de2ed0e35e688a2/c.html">新华网：《公路法》修正草案征求意见</a>；<a href="https://news.ycwb.com/ikimvkltjl/content_54234590.htm">金羊网：广东高速公路里程</a>；<a href="https://www.news.cn/politics/20251223/b87b38b902234cd0b3d0083b75175f10/c.html">新华网：2025 年交通运输数据</a>；<a href="https://www.thepaper.cn/newsDetail_forward_27956536">澎湃：深中通道通车后车流</a>；<a href="https://www.rmzxw.com.cn/c/2020-02-17/2522138.shtml">人民政协网：疫情期间免收通行费</a>。</li>
+    <li>研究观点：<a href="https://m.gelonghui.com/news/5226120">格隆汇：1Q26 业绩略超预期（含中金目标价）</a>；<a href="https://m.gelonghui.com/news/5268117">格隆汇：流量略承压 高分红或穿越周期（天风证券）</a>；<a href="https://q.stock.sohu.com/cn/000429/index.shtml">搜狐证券：华泰、广发评级</a>；<a href="https://www.itiger.com/news/2653424792">东兴证券：公路板块配置重回避险逻辑</a>；<a href="https://m.jiemian.com/article/13722239.html">界面新闻：山东高速转让粤高速股权</a>。</li>
+  </ol>
+  <div class="disclaimer">本报告基于公开信息和作者的计算，用于研究与学习目的，不构成任何投资建议。部分数据（券商目标价、行业统计、同业分红承诺）来自媒体与第三方；杠杆路径、隐含股价等结果依赖假设，实际结果可能显著不同。</div>
+</section>
+</main>
+
+<script>
+const DATA = __DATA_JSON__;
+/*__CHARTS_JS__*/
+
+/* ---------- data prep ---------- */
+const S = DATA.series, F = DATA.fund;
+const CAT = { earnings: '业绩', deal: '收购', capital: '股东/分红政策', operations: '路网/经营', policy: '政策', macro: '宏观/市场', dividend: '除权除息' };
+const EV = DATA.events.map((e, i) => ({ ...e, n: i + 1 }));
+const idxOf = d => S.date.indexOf(d);
+const ME = '000429';
+const yi = v => num(v / 100, 1);
+const x2 = v => v === null || v === undefined ? '—' : v.toFixed(2);
+const sgn = (v, d = 2) => v === null || v === undefined ? '—' : (v < 0 ? '−' : '') + Math.abs(v).toFixed(d);
+
+function fillRows(tbody, rows) {
+  rows.forEach(cells => {
+    const tr = document.createElement('tr');
+    if (cells.me) tr.className = 'me';
+    (cells.cells || cells).forEach(c => {
+      const td = document.createElement('td');
+      if (typeof c === 'object' && c !== null) {
+        if (c.n) td.className = 'n';
+        if (c.cls) td.className = (td.className + ' ' + c.cls).trim();
+        if (c.href) { const a = document.createElement('a'); a.href = c.href; a.textContent = c.text; a.target = '_blank'; a.rel = 'noopener'; td.appendChild(a); }
+        else td.textContent = c.text;
+      } else td.textContent = c;
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+  return tbody;
+}
+const tone = v => v === null || v === undefined ? '' : (v < 0 ? 'neg-t' : 'pos-t');
+const tb = id => document.querySelector(`#${id} tbody`);
+
+/* ---------- tables ---------- */
+fillRows(tb('tbl-roads'), F.roads.map(r => ({ me: r.consolidated && r.name !== '广佛高速', cells: [r.name, { n: 1, text: pct(r.stake, 0) }, { n: 1, text: num(r.traffic_2025) }, { n: 1, text: spct(r.traffic_yoy_2025, 1), cls: tone(r.traffic_yoy_2025) }, { n: 1, text: r.toll_2025 ? num(r.toll_2025) : '—' }, { n: 1, text: r.toll_yoy_2025 === null ? '—' : spct(r.toll_yoy_2025, 1), cls: tone(r.toll_yoy_2025) }, { n: 1, text: r.h1_2026_toll_yoy === null ? '—' : spct(r.h1_2026_toll_yoy, 1), cls: tone(r.h1_2026_toll_yoy) }, { text: r.expiry, cls: 'small' }] })));
+fillRows(tb('tbl-annual'), F.annual.map(a => [a.y + ' 年', { n: 1, text: num(a.revenue) }, { n: 1, text: spct(a.yoy, 1), cls: tone(a.yoy) }, { n: 1, text: pct(a.gm, 1) }, { n: 1, text: num(a.np) }, { n: 1, text: spct(a.np_yoy, 1), cls: tone(a.np_yoy) }, { n: 1, text: num(a.dnp) }, { n: 1, text: spct(a.dnp_yoy, 1), cls: tone(a.dnp_yoy) }, { n: 1, text: pct(a.roe, 1) }, { n: 1, text: a.dps.toFixed(3) }, { n: 1, text: pct(a.payout, 0) }]));
+fillRows(tb('tbl-half'), F.halves.filter(h => h.p >= '2024').map(h => [h.p.replace('H1', ' 上半年').replace('H2', ' 下半年'), { n: 1, text: num(h.revenue) }, { n: 1, text: spct(h.revenue_yoy, 1), cls: tone(h.revenue_yoy) }, { n: 1, text: num(h.np) }, { n: 1, text: spct(h.np_yoy, 1), cls: tone(h.np_yoy) }, { n: 1, text: num(h.dnp) }, { n: 1, text: spct(h.dnp_yoy, 1), cls: tone(h.dnp_yoy) }, { n: 1, text: num(h.minority) }, { n: 1, text: (h.credit_impair >= 0 ? '+' : '−') + num(Math.abs(h.credit_impair)), cls: tone(h.credit_impair) }]));
+fillRows(tb('tbl-liq'), F.liquidity.map(l => [l.p.replace('-06', ' 年 6 月'), { n: 1, text: num(l.cash) }, { n: 1, text: num(l.debt) }, { n: 1, text: num(l.net_debt) }, { n: 1, text: num(l.cip) }, { n: 1, text: pct(l.debt_asset, 1) }, { n: 1, text: l.current_ratio.toFixed(1) }]));
+fillRows(tb('tbl-projects'), F.projects.map(p => [{ text: p.name, cls: 'w' }, { n: 1, text: num(p.budget / 100, 1) }, { n: 1, text: p.spent_2026h1 ? pct(p.spent_2026h1 / p.budget, 0) : '—' }, { n: 1, text: pct(p.stake, 0) + (p.consolidated ? '（并表）' : '') }, { text: p.schedule, cls: 'small' }, { n: 1, text: p.irr ? pct(p.irr, 2) : '—' }]));
+fillRows(tb('tbl-debtpath'), [{ cells: ['2026 年 6 月（实际）', { n: 1, text: '—' }, { n: 1, text: yi(F.solvency.net_debt) }, { n: 1, text: (F.solvency.net_debt / F.debt_projection.assumptions.ebitda_ex_oneoff).toFixed(1) + 'x' }] }, ...F.debt_projection.base.map(d => [d.y.replace('H2', ' 下半年'), { n: 1, text: yi(d.capex) }, { n: 1, text: yi(d.net_debt) }, { n: 1, text: d.nd_ebitda.toFixed(1) + 'x' }])]);
+fillRows(tb('tbl-lev'), F.leverage_table.map(l => [{ text: l.chg === 0 ? '基准（2025）' : spct(l.chg, 0) }, { n: 1, text: num(l.toll_attrib) }, { n: 1, text: num(l.dnp) }, { n: 1, text: l.chg === 0 ? '—' : spct(l.dnp_chg, 1), cls: tone(l.dnp_chg) }]));
+(() => {
+  const V = F.valuation, p = V.price;
+  fillRows(tb('tbl-gapgrid'), V.yield_gap_grid.map(g => [g.spread.toFixed(1) + ' 个百分点', { n: 1, text: pct((DATA.valuation_now.y10 + g.spread) / 100, 2) }, { n: 1, text: '¥' + g.price_2025dps.toFixed(2) + '（' + spct(g.price_2025dps / p - 1, 0) + '）', cls: tone(g.price_2025dps / p - 1) }, { n: 1, text: '¥' + g.price_26e.toFixed(2) + '（' + spct(g.price_26e / p - 1, 0) + '）', cls: tone(g.price_26e / p - 1) }]));
+  fillRows(tb('tbl-rategrid'), V.rate_grid.map(r => [r.y10.toFixed(1) + '%', { n: 1, text: '¥' + r.price.toFixed(2) }, { n: 1, text: spct(r.price / p - 1, 0), cls: tone(r.price / p - 1) }]));
+})();
+(() => {
+  const P = F.peers.slice().sort((a, b) => b.mcap - a.mcap);
+  fillRows(tb('tbl-peer-growth'), P.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.rev_2025) }, { n: 1, text: spct(p.rev_yoy_2025, 1), cls: tone(p.rev_yoy_2025) }, { n: 1, text: num(p.np_2025) }, { n: 1, text: spct(p.dnp_yoy_2025, 1), cls: tone(p.dnp_yoy_2025) }, { n: 1, text: spct(p.rev_h1_yoy, 1), cls: tone(p.rev_h1_yoy) }, { n: 1, text: spct(p.dnp_h1_yoy, 1), cls: tone(p.dnp_h1_yoy) }, { n: 1, text: pct(p.roe_2025, 1) }] })));
+  fillRows(tb('tbl-peer-val'), P.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap / 100) }, { n: 1, text: p.pe_ttm.toFixed(1) + 'x' }, { n: 1, text: p.pb.toFixed(2) + 'x' }, { n: 1, text: pct(p.dy_2025, 1) }, { n: 1, text: pct(p.payout_2025, 0) }, { n: 1, text: p.nd_ebitda < 0 ? '净现金' : p.nd_ebitda.toFixed(1) + 'x' }] })));
+  const MP = Object.fromEntries(DATA.peers.map(p => [p.code, p]));
+  fillRows(tb('tbl-peer-vol'), P.filter(p => MP[p.code]).map(p => { const m = MP[p.code]; return { me: p.code === ME, cells: [p.name, { n: 1, text: spct(m.ret_2024, 0), cls: tone(m.ret_2024) }, { n: 1, text: spct(m.ret_2025, 0), cls: tone(m.ret_2025) }, { n: 1, text: spct(m.ret_2026ytd, 0), cls: tone(m.ret_2026ytd) }, { n: 1, text: spct(m.ret_3y, 0), cls: tone(m.ret_3y) }, { n: 1, text: pct(m.vol_1y, 0) }, { n: 1, text: x2(m.beta_csi) }, { n: 1, text: x2(m.beta_sec) }, { n: 1, text: spct(m.rate_10bp, 2), cls: tone(m.rate_10bp) }] }; }));
+})();
+(() => {
+  const st = DATA.stats, k = ['gd', 'sec', 'csi', 'div'];
+  const row = (lab, f, cls) => [lab, ...k.map(x => ({ n: 1, text: f(st[x]), cls: cls ? cls(st[x]) : '' }))];
+  const dt = s => s.slice(2, 7).replace(/-/g, '/');
+  fillRows(tb('tbl-risk'), [
+    row('累计收益 / 年化收益', s => spct(s.total_return, 0) + ' / ' + spct(s.ann_return_geo, 1)),
+    row('年化波动率（对数收益）', s => pct(s.ann_vol, 1)),
+    row('年化下行偏差', s => pct(s.downside_dev_ann, 1)),
+    row('日 VaR 95% / CVaR 95%', s => pct(s.var95_hist, 1) + ' / ' + pct(s.cvar95_hist, 1)),
+    row('日 VaR 99% / CVaR 99%', s => pct(s.var99_hist, 1) + ' / ' + pct(s.cvar99_hist, 1)),
+    row('偏度 / 超额峰度', s => sgn(s.skew) + ' / ' + sgn(s.excess_kurtosis)),
+    row('单日涨跌幅 >3% / >5% 的天数', s => s.days_abs_gt_3pct + ' / ' + s.days_abs_gt_5pct),
+    row('最大回撤', s => pct(s.max_drawdown, 1) + '（' + dt(s.mdd_peak) + '→' + dt(s.mdd_trough) + '）', () => 'neg-t'),
+    row('当前回撤（相对样本内最高点）', s => pct(s.current_drawdown, 1), () => 'neg-t'),
+    row('夏普比率 / 索提诺比率', s => sgn(s.sharpe) + ' / ' + sgn(s.sortino)),
+  ]);
+  fillRows(tb('tbl-year'), DATA.by_year.map(y => [y.year === 2026 ? '2026（至10/22）' : String(y.year), { n: 1, text: spct(y.ret_gd, 1), cls: tone(y.ret_gd) }, { n: 1, text: spct(y.ret_sec, 1), cls: tone(y.ret_sec) }, { n: 1, text: spct(y.ret_csi, 1), cls: tone(y.ret_csi) }, { n: 1, text: spct(y.ret_div, 1), cls: tone(y.ret_div) }, { n: 1, text: pct(y.vol_gd, 1) }, { n: 1, text: x2(y.beta_csi) }, { n: 1, text: x2(y.beta_sec) }, { n: 1, text: (y.y10_chg >= 0 ? '+' : '−') + Math.abs(Math.round(y.y10_chg * 100)) + 'bp', cls: tone(-y.y10_chg) }, { n: 1, text: pct(y.mdd_gd, 1), cls: 'neg-t' }]));
+  const a = DATA.sim_csi, b = DATA.sim_sec, c = DATA.sim_div;
+  const r3 = (lab, f) => [lab, { n: 1, text: f(a) }, { n: 1, text: f(b) }, { n: 1, text: f(c) }];
+  fillRows(tb('tbl-sim'), [
+    r3('β（OLS）', s => s.beta.toFixed(2)),
+    r3('95% 置信区间', s => s.beta_ci95.map(v => v.toFixed(2)).join('–')),
+    r3('HAC 稳健标准误', s => s.beta_se_hac.toFixed(3)),
+    r3('R² / 相关系数', s => s.r2.toFixed(3) + ' / ' + s.corr.toFixed(2)),
+    r3('α（年化）', s => pct(s.alpha_ann, 1) + '（t=' + s.alpha_t.toFixed(2) + '）'),
+    r3('残差波动率 σ(e)', s => pct(s.resid_vol_ann, 1)),
+    ['周度 β', { n: 1, text: DATA.sim_csi_weekly.beta.toFixed(2) }, { n: 1, text: DATA.sim_sec_weekly.beta.toFixed(2) }, { n: 1, text: '—' }],
+    ['上涨日 β / 下跌日 β', { n: 1, text: DATA.up_beta_csi.toFixed(2) + ' / ' + DATA.down_beta_csi.toFixed(2) }, { n: 1, text: '—' }, { n: 1, text: '—' }],
+  ]);
+  const fr = (lab, f) => [lab, { n: 1, text: pct(f.r2_csi, 1) }, { n: 1, text: pct(f.r2_two, 1) }, { n: 1, text: f.beta_csi.toFixed(2) }, { n: 1, text: f.beta_sec_o.toFixed(2) }, { n: 1, text: spct(f.rate_beta_10bp, 2), cls: tone(f.rate_beta_10bp) }, { n: 1, text: f.rate_t.toFixed(1), cls: Math.abs(f.rate_t) > 1.96 ? 'sig' : '' }];
+  fillRows(tb('tbl-factors'), [fr('全样本 2016–2026', DATA.factors), fr('2016–2020', DATA.factors_2016_2020), fr('2021–2023', DATA.factors_2021_2023), fr('2024 年以来', DATA.factors_2024)]);
+})();
+fillRows(tb('tbl-events'), EV.map(e => [
+  { text: String(e.n) }, { text: e.day0, cls: 'num nw' }, { text: e.title, href: e.source, cls: 'w' }, { text: CAT[e.category], cls: 'nw' },
+  { n: 1, text: spct(e.ret_gd), cls: tone(e.ret_gd) }, { n: 1, text: spct(e.ret_sec) },
+  { n: 1, text: spct(e.ar), cls: tone(e.ar) + (Math.abs(e.ar_t) > 1.96 ? ' sig' : '') },
+  { n: 1, text: e.ar_t.toFixed(1), cls: Math.abs(e.ar_t) > 1.96 ? 'sig' : '' }, { n: 1, text: spct(e.car_0_p5), cls: tone(e.car_0_p5) }]));
+fillRows(tb('tbl-exdiv'), DATA.ex_dividend.map(e => [e.ex_date, { n: 1, text: e.dps.toFixed(3) }, { n: 1, text: pct(e.dps_yield, 1) }, { n: 1, text: spct(e.ret_record, 1), cls: tone(e.ret_record) }, { n: 1, text: spct(e.ret_ex, 1), cls: tone(e.ret_ex) }, { n: 1, text: spct(e.car_ex_p5, 1), cls: tone(e.car_ex_p5) }]));
+
+/* ---------- text filled from data ---------- */
+(() => {
+  const g = DATA.garch.gd;
+  document.getElementById('garch-text').textContent = `GARCH(1,1)（学生 t 分布）估计：α = ${g.alpha.toFixed(3)}，β = ${g.beta.toFixed(3)}，持续性 ${g.persistence.toFixed(3)}，波动冲击的半衰期约 ${Math.round(g.half_life_days)} 个交易日（公路同业约 ${Math.round(DATA.garch.sec.half_life_days)} 天，沪深 300 约 ${Math.round(DATA.garch.csi.half_life_days)} 天），长期均值约 ${pct(g.long_run_vol_ann, 0)}，当前条件波动率约 ${pct(g.current_cond_vol_ann, 0)}。粤高速的 α 较高、β 较低：冲击来得快、去得也快，这与除息日等单日事件的影响一致。`;
+  const f = DATA.factors, f23 = DATA.factors_2023;
+  const ul = document.getElementById('beta-points');
+  [[`全样本：`, `对沪深 300 β ${DATA.sim_csi.beta.toFixed(2)}（R² ${pct(DATA.sim_csi.r2, 1)}），对公路板块 β ${DATA.sim_sec.beta.toFixed(2)}（R² ${pct(DATA.sim_sec.r2, 1)}），对中证红利 β ${DATA.sim_div.beta.toFixed(2)}（R² ${pct(DATA.sim_div.r2, 1)}）。加入板块因子后 R² 升至 ${pct(f.r2_two, 1)}，约三分之二的波动仍是公司特有的。`],
+   [`脱钩大盘：`, `2023 年以来对沪深 300 的 β 只有 ${f23.beta_csi.toFixed(2)}，单因子 R² ${pct(f23.r2_csi, 1)}；它更像一只红利/类债券资产，而不是周期股。`],
+   [`非对称：`, `沪深 300 下跌日 β ${DATA.down_beta_csi.toFixed(2)}，上涨日 ${DATA.up_beta_csi.toFixed(2)}。大盘上涨时跟涨有限（防御股特征），下跌时也会受到一定拖累。`],
+   [`利率：`, `全样本每 10bp 收益率上行对应 ${spct(f.rate_beta_10bp, 2)}（t = ${f.rate_t.toFixed(1)}），2021–2023 年不显著，2024 年以来扩大到 ${spct(DATA.factors_2024.rate_beta_10bp, 2)}（t = ${DATA.factors_2024.rate_t.toFixed(1)}）。`]].forEach(([b, t]) => { const li = document.createElement('li'); const bb = document.createElement('b'); bb.textContent = b; li.appendChild(bb); li.appendChild(document.createTextNode(t)); ul.appendChild(li); });
+  const s = DATA.ex_dividend_summary;
+  document.getElementById('exdiv-text').textContent = `2016 年以来 ${s.n} 次除息日中 ${s.n_neg} 次下跌，按分红复权后的平均收益 ${spct(s.avg_ret_ex, 1)}、平均异常收益 ${spct(s.avg_ar_ex, 1)}；股权登记日平均 ${spct(s.avg_ret_record, 1)}。也就是说，除息当天的跌幅通常大于分红金额（“贴权”），而且除息后一周大多继续跑输板块。`;
+  const cy = DATA.car_by_year;
+  document.getElementById('car-note').textContent = `2024 年累计异常收益 ${spct(cy['2024'], 0)}，2025 年 ${spct(cy['2025'], 0)}，2026 年至 10/22 ${spct(cy['2026'], 0)}：相对板块与大盘的超额表现集中在 2024 年的红利行情中。`;
+  document.getElementById('ar-formula').innerHTML += `　σ(e) = ${(DATA.resid_sd_daily * 100).toFixed(2)}%（日残差标准差）`;
+})();
+
+/* ---------- charts ---------- */
+const A = F.annual;
+const PEER = F.peers.slice();
+const meCls = (code, base) => code === ME ? 'f3' : base;
+const fmt0 = v => Math.abs(v) < 0.005 ? '0%' : spct(v, 0);
+const RB = DATA.rebased_2024;
+const road = n => F.roads.find(r => r.name === n);
+const YRS = F.toll_years.map(String);
+const g0 = S.date.findIndex(d => d >= '2018-01-02');
+const sl0 = arr => arr.slice(g0);
+const charts = {
+  'ch-toll': el => barChart(el, { labels: YRS, series: [{ label: '广惠', values: road('广惠高速').toll_hist, cls: 'f1' }, { label: '佛开', values: road('佛开高速').toll_hist, cls: 'f2' }, { label: '广珠段', values: road('京珠高速广珠段').toll_hist, cls: 'f3' }], yfmt: v => num(v), tfmt: v => '¥' + num(v) + 'M', height: 250, aria: '三条控股路的通行费收入' }),
+  'ch-traffic': el => lineChart(el, { x: YRS, labels: YRS, series: [{ label: '广惠', values: road('广惠高速').traffic_hist.map(v => v / 365), cls: 'c1' }, { label: '佛开', values: road('佛开高速').traffic_hist.map(v => v / 365), cls: 'c2' }, { label: '广珠段', values: road('京珠高速广珠段').traffic_hist.map(v => v / 365), cls: 'c3' }, { label: '广佛（免费）', values: road('广佛高速').traffic_hist.map(v => v / 365), cls: 'c7', thin: true }], yfmt: v => v.toFixed(0), tfmt: v => v.toFixed(1) + ' 万辆/日', points: true, yMin: 0, height: 250, aria: '日均车流量' }),
+  'ch-rev': el => barChart(el, { labels: A.map(a => String(a.y)), series: [{ label: '收入', values: A.map(a => a.revenue), cls: 'f1' }, { label: '归母净利润', values: A.map(a => a.np), cls: 'f2' }, { label: '扣非净利润', values: A.map(a => a.dnp), cls: 'f3' }], yfmt: v => num(v), tfmt: v => '¥' + num(v) + 'M', height: 250, aria: '收入与利润' }),
+  'ch-div': el => barChart(el, { labels: F.dividends.map(d => String(d.y)), series: [{ label: '每股分红', values: F.dividends.map(d => d.dps), cls: 'f2' }], yfmt: v => v.toFixed(1), tfmt: v => '¥' + v.toFixed(3), vfmt: v => v.toFixed(2), valueLabels: i => i >= F.dividends.length - 6, height: 250, aria: '每股分红' }),
+  'ch-liq': el => barChart(el, { labels: F.liquidity.map(l => l.p.replace('20', '').replace('-06', 'H1')), series: [{ label: '货币资金', values: F.liquidity.map(l => l.cash), cls: 'f1' }, { label: '有息负债', values: F.liquidity.map(l => l.debt), cls: 'f2' }, { label: '在建工程', values: F.liquidity.map(l => l.cip), cls: 'f3' }], yfmt: v => num(v), tfmt: v => '¥' + num(v) + 'M', height: 250, aria: '现金与负债' }),
+  'ch-debtpath': el => { const D = F.debt_projection.base; barChart(el, { labels: ['26H1', ...D.map(d => d.y.replace('20', '').replace('H2', 'H2'))], series: [{ label: '净负债', values: [F.solvency.net_debt / 100, ...D.map(d => d.net_debt / 100)], cls: (v, i) => i === 0 ? 'f1' : 'f2' }], yfmt: v => num(v), tfmt: v => '¥' + num(v, 0) + ' 亿', vfmt: v => num(v, 0), valueLabels: true, height: 250, aria: '净负债路径' }); },
+  'ch-gap': el => lineChart(el, { x: sl0(S.date), series: [{ label: '粤高速股息率', values: sl0(S.dy_ttm).map(v => v === null ? null : v * 100), cls: 'c2', endLabel: true }, { label: '10 年期国债', values: sl0(S.y10), cls: 'c1', endLabel: true }, { label: '利差', values: sl0(S.spread), cls: 'c3', endLabel: true }], yfmt: v => v.toFixed(0) + '%', tfmt: v => v.toFixed(2) + '%', refs: [{ y: 3, label: '' }], height: 270, aria: '股息率与国债收益率' }),
+  'ch-rate': el => lineChart(el, { x: sl0(S.date), series: [{ label: '利率敏感性', values: sl0(S.rate252).map(v => v === null ? null : v * 100), cls: 'c2' }], yfmt: v => v.toFixed(1) + '%', tfmt: v => (v >= 0 ? '+' : '−') + Math.abs(v).toFixed(2) + '% / +10bp', refs: [{ y: 0, label: '' }], height: 270, aria: '滚动利率敏感性' }),
+  'ch-peer-roe': el => hbarChart(el, { items: PEER.slice().sort((a, b) => b.roe_2025 - a.roe_2025).map(p => ({ label: p.name, v: p.roe_2025, cls: meCls(p.code, 'f1'), sub: '市净率 ' + p.pb.toFixed(2) + 'x', title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 80, row: 21, aria: 'ROE' }),
+  'ch-peer-growth': el => hbarChart(el, { items: PEER.slice().sort((a, b) => b.dnp_h1_yoy - a.dnp_h1_yoy).map(p => ({ label: p.name, v: p.dnp_h1_yoy, cls: meCls(p.code, p.dnp_h1_yoy >= 0 ? 'f1' : 'fneg'), sub: '2025 年扣非 ' + spct(p.dnp_yoy_2025, 1), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '扣非净利润增速' }),
+  'ch-peer-dy': el => hbarChart(el, { items: PEER.slice().sort((a, b) => b.dy_2025 - a.dy_2025).map(p => ({ label: p.name, v: p.dy_2025, cls: meCls(p.code, 'f1'), sub: '分红率 ' + pct(p.payout_2025, 0), title: p.name })), fmt: v => pct(v, 1), tfmt: d => pct(d.v, 2), labelWidth: 80, row: 21, aria: '股息率' }),
+  'ch-peer-lev': el => hbarChart(el, { items: PEER.slice().sort((a, b) => b.nd_ebitda - a.nd_ebitda).map(p => ({ label: p.name, v: p.nd_ebitda, cls: meCls(p.code, p.nd_ebitda >= 0 ? 'f2' : 'f1'), sub: '净负债 ' + num(p.net_debt / 100) + ' 亿元', title: p.name })), fmt: v => v.toFixed(1) + 'x', tfmt: d => d.v.toFixed(2) + 'x', labelWidth: 80, row: 21, aria: '净负债与EBITDA之比' }),
+  'ch-rebased': el => lineChart(el, { x: RB.date, series: [{ label: '粤高速', values: RB['000429'], cls: 'c2', endLabel: true }, { label: '公路同业', values: RB.sec, cls: 'c3', endLabel: true }, { label: '沪深 300 全收益', values: RB.csi, cls: 'c1', endLabel: true }, { label: '中证红利全收益', values: RB.div, cls: 'c4', thin: true }, { label: '皖通高速', values: RB['600012'], cls: 'c7', thin: true }], yfmt: v => num(v), tfmt: v => num(v, 0), refs: [{ y: 100, label: '' }], height: 300, aria: '2024 年以来表现' }),
+  'ch-peer-vol': el => hbarChart(el, { items: DATA.peers.slice().sort((a, b) => b.vol_1y - a.vol_1y).map(p => ({ label: p.name, v: p.vol_1y, cls: meCls(p.code, 'f1'), sub: '对板块 β ' + p.beta_sec.toFixed(2), title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 80, row: 21, aria: '近一年波动率' }),
+  'ch-peer-ytd': el => hbarChart(el, { items: DATA.peers.slice().sort((a, b) => b.ret_2026ytd - a.ret_2026ytd).map(p => ({ label: p.name, v: p.ret_2026ytd, cls: p.code === ME ? 'f3' : (p.ret_2026ytd >= 0 ? 'f1' : 'fneg'), sub: '近三年 ' + spct(p.ret_3y, 0), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '2026 年至今收益' }),
+  'ch-price': el => lineChart(el, { x: S.date, series: [{ label: '粤高速', values: S.gd_idx, cls: 'c2', endLabel: true }, { label: '公路同业', values: S.sec_idx, cls: 'c3', endLabel: true }, { label: '中证红利', values: S.div_idx, cls: 'c4', endLabel: true }, { label: '沪深 300', values: S.csi_idx, cls: 'c1', endLabel: true }], yfmt: v => num(v), ylog: true, logTicks: [60, 80, 100, 150, 200, 300, 400], refs: [{ y: 100, label: '' }], height: 300, aria: '累计表现对比' }),
+  'ch-vol': el => lineChart(el, { x: S.date, series: [{ label: '粤高速 63日', values: S.vol63_gd, cls: 'c2' }, { label: '粤高速 GARCH', values: S.garch_gd, cls: 'c7', thin: true }, { label: '公路同业 63日', values: S.vol63_sec, cls: 'c3' }, { label: '沪深300 63日', values: S.vol63_csi, cls: 'c1' }], yfmt: v => pct(v, 0), height: 280, aria: '滚动波动率' }),
+  'ch-beta': el => lineChart(el, { x: S.date, series: [{ label: '对沪深 300', values: S.beta252_csi, cls: 'c1' }, { label: '对公路板块', values: S.beta252_sec, cls: 'c3' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), refs: [{ y: 1, label: 'β = 1', side: 'left' }], height: 240, aria: '滚动贝塔' }),
+  'ch-corr': el => lineChart(el, { x: S.date, series: [{ label: '与公路板块', values: S.corr126_sec, cls: 'c3' }, { label: '与沪深 300', values: S.corr126_csi, cls: 'c1' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), yMin: -0.2, yMax: 1, height: 240, aria: '滚动相关系数' }),
+  'ch-hist': el => { const Hh = DATA.hist; const tot = Hh.gd.reduce((a, b) => a + b, 0); const sg = v => (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(Math.round(v * 100)) + '%'; const labs = Hh.bins.slice(0, -1).map((b, i) => sg(b) + ' 至 ' + sg(Hh.bins[i + 1])); const ax = Hh.bins.slice(0, -1).map(b => Math.abs(Math.round(b * 100)) % 5 === 0 ? sg(b) : ''); barChart(el, { labels: labs, axisLabels: ax, series: [{ label: '粤高速', values: Hh.gd.map(v => v / tot), cls: 'f2' }, { label: '公路同业', values: Hh.sec.map(v => v / tot), cls: 'f3' }], yfmt: v => pct(v, 0), tfmt: v => pct(v, 1) + ' 的交易日', height: 250, aria: '日收益分布' }); },
+  'ch-dd': el => lineChart(el, { x: S.date, series: [{ label: '粤高速', values: S.dd_gd, cls: 'c2' }, { label: '公路同业', values: S.dd_sec, cls: 'c3' }, { label: '沪深 300', values: S.dd_csi, cls: 'c1', thin: true }], yfmt: v => pct(v, 0), yMax: 0, height: 250, aria: '回撤' }),
+  'ch-events': el => {
+    const from = S.date.findIndex(d => d >= '2017-01-03');
+    const markers = EV.map(e => { const i = idxOf(e.day0) - from; return { i, n: e.n, up: e.ar >= 0, cls: e.ar >= 0 ? 'fpos' : 'fneg', title: `#${e.n} ${e.day0} · ${CAT[e.category]}`, aria: `事件${e.n} ${e.title}`, desc: e.title, rows: [{ cls: e.ret_gd >= 0 ? 'fpos' : 'fneg', value: spct(e.ret_gd), label: '000429 当日' }, { cls: 'f3', value: spct(e.ret_sec), label: '公路板块' }, { cls: e.ar >= 0 ? 'fpos' : 'fneg', value: spct(e.ar), label: `异常收益（t=${e.ar_t.toFixed(1)}）` }] }; }).filter(m => m.i >= 0);
+    const sl = arr => arr.slice(from);
+    lineChart(el, { x: sl(S.date), series: [{ label: '收盘价', values: sl(S.gd), cls: 'c2' }], yfmt: v => num(v), tfmt: v => '¥' + v.toFixed(2), ylog: true, logTicks: [5, 6, 8, 10, 12, 15], markers, height: 380, aria: '股价与事件' });
+  },
+  'ch-ar': el => hbarChart(el, { items: EV.map(e => ({ label: `${e.n}. ${e.short}`, v: e.ar, title: `#${e.n} ${e.day0}`, sub: `t = ${e.ar_t.toFixed(1)}`, desc: e.title })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 140, row: 21, aria: '各事件异常收益' }),
+  'ch-car': el => barChart(el, { labels: Object.keys(DATA.car_by_year), series: [{ label: '累计异常收益', values: Object.values(DATA.car_by_year), cls: v => v >= 0 ? 'fpos' : 'fneg' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), vfmt: v => spct(v, 0), valueLabels: true, height: 250, aria: '按年度累计异常收益' }),
+  'ch-exdiv': el => barChart(el, { labels: DATA.ex_dividend.map(e => e.ex_date.slice(0, 4)), series: [{ label: '股权登记日', values: DATA.ex_dividend.map(e => e.ret_record), cls: 'f1' }, { label: '除息日', values: DATA.ex_dividend.map(e => e.ret_ex), cls: 'f2' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), height: 250, aria: '除息日效应' }),
+};
+function renderAll() {
+  for (const id in charts) { const el = document.getElementById(id); if (!el) continue; try { charts[id](el); } catch (err) { console.error(id, err); } }
+}
+renderAll();
+let lastW = window.innerWidth, rt;
+window.addEventListener('resize', () => { if (Math.abs(window.innerWidth - lastW) < 8) return; lastW = window.innerWidth; clearTimeout(rt); rt = setTimeout(renderAll, 150); });
+document.addEventListener('pointerdown', ev => { if (!ev.target.closest('.chart-box')) document.querySelectorAll('.tt').forEach(t => t.hidden = true); });
+(() => {
+  const links = [...document.querySelectorAll('.rail a')];
+  const secs = links.map(a => document.querySelector(a.getAttribute('href')));
+  const io = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting) { links.forEach(l => l.classList.toggle('on', l.getAttribute('href') === '#' + e.target.id)); const on = links.find(l => l.classList.contains('on')); const bar = document.querySelector('.rail .wrap'); if (on && bar) bar.scrollLeft = on.offsetLeft - bar.clientWidth / 2 + on.offsetWidth / 2; } });
+  }, { rootMargin: '-45% 0px -50% 0px' });
+  secs.forEach(s => s && io.observe(s));
+  const h = location.hash && document.querySelector(location.hash);
+  if (h) setTimeout(() => h.scrollIntoView(), 60);
+})();
+</script>

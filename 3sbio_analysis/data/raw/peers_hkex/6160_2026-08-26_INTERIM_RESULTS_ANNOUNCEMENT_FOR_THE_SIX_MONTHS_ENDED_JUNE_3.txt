@@ -1,0 +1,3241 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility 
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly 
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the 
+contents of this announcement.
+
+BeOne Medicines Ltd.
+百濟神州有限公司
+(a corporation incorporated under the laws of Switzerland)
+(Stock Code: 06160)
+
+INTERIM RESULTS ANNOUNCEMENT
+FOR THE SIX MONTHS ENDED JUNE 30, 2026
+
+BeOne  Medicines  Ltd.  together  with  its  subsidiaries  (the  “Company”  or  “BeOne”  or  “we”  or 
+“us”)  hereby  announces  the  unaudited  condensed  consolidated  results  of  the  Company  for  the  six 
+months  ended  June  30,  2026  (the  “Reporting  Period”),  together  with  the  comparative  figures  for 
+the  corresponding  period  in  2025,  which  have  been  prepared  under  generally  accepted  accounting 
+principles  in  the  United  States  (the  “U.S.  GAAP”  or  “GAAP”)  and  reviewed  by  the  audit 
+committee  (the  “Audit  Committee”)  of  the  Board  of  Directors  (the  “Board”  or  “Directors”)  of  the 
+Company.
+
+FINANCIAL HIGHLIGHTS
+
+• 
+
+• 
+
+• 
+
+• 
+
+Total  revenues  for  the  six  months  ended  June  30,  2026  increased  by  approximately 
+US$785.9  million  or  approximately  32.3%  to  approximately  US$3,218.5  million, 
+as  compared  to  the  six  months  ended  June  30,  2025.  Product  revenue  increased  by 
+approximately  US$756.5  million  or  approximately  31.4%  to  approximately  US$3,167.1 
+million, as compared to the six months ended June 30, 2025.
+
+Total  operating  expenses  for  six  months  ended  June  30,  2026,  increased  by  approximately 
+US$297.8  million  or  approximately  14.9%  to  approximately  US$2,301.8  million,  as 
+compared to the six months ended June 30, 2025.
+
+Net income for the six months ended June 30, 2026 increased by approximately US$368.8 
+million  or  approximately  385.8%  to  approximately  US$464.4  million,  as  compared  to  the 
+six months ended June 30, 2025.
+
+Basic and diluted earnings per share for the six months ended June 30, 2026 were US$0.32 
+and US$0.31 per share, respectively, as compared to basic and diluted earnings per share of 
+US$0.07 and US$0.07 for the six months ended June 30, 2025.
+
+1
+
+U N A U D I T E D   I N T E R I M   C O N D E N S E D   C O N S O L I D A T E D   S T A T E M E N T S   O F 
+OPERATIONS
+
+Revenues
+  Product revenue, net
+  Other revenue
+
+  Total revenues
+
+Cost of sales – product
+
+Gross profit
+Operating expenses
+  Research and development
+  Selling, general and administrative
+
+  Total operating expenses
+
+Income from operations
+
+Interest income
+Interest expense
+  Other income, net
+
+Income before income taxes
+Income tax expense
+
+Net income
+
+Earnings per share (in US$)
+  Basic
+
+  Diluted
+
+Weighted-average shares outstanding – basic
+
+Weighted-average shares outstanding – diluted
+
+Earnings per American Depositary Share (“ADS”) 
+
+(in US$)
+
+  Basic
+
+  Diluted
+
+Note
+
+Six Months Ended June 30,
+2025
+US$’000
+
+2026
+US$’000
+
+13
+3
+
+3,167,123
+51,386
+
+2,410,606
+21,973
+
+3,218,509
+
+2,432,579
+
+341,745
+
+329,608
+
+2,876,764
+
+2,102,971
+
+1,153,504
+1,148,311
+
+1,006,783
+997,201
+
+2,301,815
+
+2,003,984
+
+574,949
+55,564
+(72,626)
+13,787
+
+571,674
+107,310
+
+98,987
+24,342
+(14,997)
+12,117
+
+120,449
+24,859
+
+464,364
+
+95,590
+
+0.32
+
+0.31
+
+0.07
+
+0.07
+
+1,446,490,904
+
+1,399,159,898
+
+1,505,389,182
+
+1,454,296,475
+
+4.17
+
+4.01
+
+0.89
+
+0.85
+
+9
+
+15
+
+15
+
+15
+
+15
+
+Weighted-average ADSs outstanding – basic
+
+111,268,531
+
+107,627,684
+
+Weighted-average ADSs outstanding – diluted
+
+115,799,168
+
+111,868,960
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+2
+
+ 
+ 
+ 
+U N A U D I T E D   I N T E R I M   C O N D E N S E D   C O N S O L I D A T E D   S T A T E M E N T S   O F 
+COMPREHENSIVE INCOME
+
+Note
+
+Six Months Ended June 30,
+2025
+US$’000
+
+2026
+US$’000
+
+Net income
+Other comprehensive income, net of tax of nil:
+  Foreign currency translation adjustments
+  Other adjustments
+
+17
+17
+
+Comprehensive income
+
+464,364
+
+52,351
+463
+
+95,590
+
+34,988
+302
+
+517,178
+
+130,880
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+3
+
+UNAUDITED INTERIM CONDENSED CONSOLIDATED BALANCE SHEETS
+
+Assets
+Current assets:
+  Cash and cash equivalents
+  Accounts receivable, net
+
+Inventories, net
+
+  Prepaid expenses and other current assets
+
+Total current assets
+
+Non-current assets:
+  Property, plant and equipment, net
+  Operating lease right-of-use assets
+
+Intangible assets, net
+  Other non-current assets
+
+Total non-current assets
+
+Total assets
+
+Liabilities and shareholders’ equity
+Current liabilities:
+  Accounts payable
+  Accrued expenses and other payables
+  Tax payable
+  Operating lease liabilities, current portion
+
+ Research and development cost share liability,  
+  current portion
+
+  Sale of future royalty liability, current portion
+  Short-term debt
+
+Note
+
+As of
+
+June 30, December 31,
+2025
+US$’000
+(audited)
+
+2026
+US$’000
+(unaudited)
+
+6
+10
+10
+
+7
+
+8
+10
+
+11
+10
+9
+
+3
+4
+12
+
+5,098,041
+1,056,177
+732,603
+328,984
+
+4,547,530
+865,080
+608,227
+212,752
+
+7,215,805
+
+6,233,589
+
+1,643,286
+145,987
+60,956
+109,581
+
+1,641,678
+148,184
+62,704
+102,418
+
+1,959,810
+
+1,954,984
+
+9,175,615
+
+8,188,573
+
+470,299
+1,264,264
+76,315
+21,953
+
+6,182
+89,278
+190,896
+
+479,035
+1,109,120
+41,625
+20,698
+
+64,345
+56,714
+57,293
+
+Total current liabilities
+
+2,119,187
+
+1,828,830
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+4
+
+ 
+ 
+ 
+U N A U D I T E D   I N T E R I M   C O N D E N S E D   C O N S O L I D A T E D   B A L A N C E   S H E E T S 
+(CONTINUED)
+
+Note
+
+As of
+
+June 30, December 31,
+2025
+US$’000
+(audited)
+
+2026
+US$’000
+(unaudited)
+
+Non-current liabilities:
+  Long-term debt
+  Sale of future royalty liability, non-current portion
+  Operating lease liabilities, non-current portion
+  Deferred tax liabilities
+  Other long-term liabilities
+
+Total non-current liabilities
+
+Total liabilities
+
+Commitments and contingencies
+
+Shareholders’ equity:
+  Ordinary shares, US$0.0001 par value per share; 
+
+  1,540,975,898 and 1,540,975,898 shares issued and 
+  1,469,278,815 and 1,441,075,618 shares outstanding 
+  as of June 30, 2026 and December 31, 
+  2025, respectively
+
+  Additional paid-in capital
+  Accumulated other comprehensive loss
+  Accumulated deficit
+
+Total shareholders’ equity
+
+12
+4
+
+9
+10
+
+19
+
+17
+
+882,163
+817,035
+48,200
+57,388
+77,644
+
+961,913
+850,242
+52,940
+53,209
+80,245
+
+1,882,430
+
+1,998,549
+
+4,001,617
+
+3,827,379
+
+147
+13,054,760
+(25,370)
+(7,855,539)
+
+144
+12,759,137
+(78,184)
+(8,319,903)
+
+5,173,998
+
+4,361,194
+
+Total liabilities and shareholders’ equity
+
+9,175,615
+
+8,188,573
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+5
+
+ 
+ 
+ 
+ 
+UNAUDITED  INTERIM  CONDENSED  CONSOLIDATED  STATEMENTS  OF  CASH 
+FLOWS
+
+Operating activities:
+Net income
+Adjustments to reconcile net income to net 
+  cash provided by operating activities:
+  Depreciation and amortization expense
+  Share-based compensation expenses
+  Acquired in-process research and development
+  Amortization of research and development cost 
+
+  share liability
+  Other items, net
+Changes in operating assets and liabilities:
+  Accounts receivable
+
+Inventories
+  Other assets
+  Accounts payable
+  Accrued expenses and other payables
+  Other liabilities
+
+Note
+
+Six Months Ended June 30,
+2025
+US$’000
+
+2026
+US$’000
+
+464,364
+
+95,590
+
+16
+
+3
+
+81,659
+260,760
+20,518
+
+(58,163)
+14,412
+
+(192,876)
+(118,988)
+3,893
+(4,657)
+195,616
+(2,382)
+
+68,418
+246,287
+500
+
+(45,569)
+15,128
+
+(73,369)
+6,174
+(45,316)
+(35,852)
+75,625
+64
+
+Net cash provided by operating activities
+
+664,156
+
+307,680
+
+Investing activities:
+  Purchases of property, plant and equipment
+  Purchase of intangible assets
+  Proceeds from sale or maturity of investments
+  Purchase of in-process research and development
+  Other investing activities
+
+(68,265)
+–
+5,872
+(20,518)
+(11,952)
+
+(100,233)
+(20,000)
+1,800
+(60,000)
+(10,113)
+
+Net cash used in investing activities
+
+(94,863)
+
+(188,546)
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+6
+
+ 
+ 
+UNAUDITED  INTERIM  CONDENSED  CONSOLIDATED  STATEMENTS  OF  CASH 
+FLOWS (CONTINUED)
+
+Note
+
+Six Months Ended June 30,
+2025
+US$’000
+
+2026
+US$’000
+
+Financing activities:
+  Repayment of long-term loan
+  Proceeds from short-term loans
+  Repayment of short-term loans
+  Repayment of sale of future royalties liability
+  Payments of withholding taxes from share-based awards
+  Proceeds from option exercises and employee 
+
+12
+12
+12
+4
+
+  share purchase plan
+  Other financing activities
+
+(24,693)
+58,204
+–
+(2,556)
+–
+
+34,923
+(3,300)
+
+(16,799)
+221,521
+(275,782)
+–
+(24,195)
+
+96,503
+–
+
+Net cash provided by financing activities
+
+62,578
+
+1,248
+
+Effect of foreign exchange rate changes, net
+Net increase in cash, cash equivalents, and restricted cash
+Cash, cash equivalents, and restricted cash at 
+  beginning of period
+
+39,156
+671,027
+
+26,957
+147,339
+
+4,609,647
+
+2,638,747
+
+Cash, cash equivalents, and restricted cash at 
+  end of period
+
+Supplemental cash flow information:
+  Cash and cash equivalents
+  Short-term restricted cash
+  Long-term restricted cash
+
+Income taxes paid
+Interest expense paid
+
+Supplemental non-cash information:
+  Capital expenditures included in accounts payable 
+
+  and accrued expenses
+
+  ROU assets obtained in exchange for new 
+
+  operating lease liabilities
+
+5,280,674
+
+2,786,086
+
+5,098,041
+161,046
+21,587
+67,860
+26,320
+
+2,756,056
+15,802
+14,228
+77,033
+24,018
+
+49,147
+
+14,757
+
+57,923
+
+18,141
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+7
+
+ 
+ 
+ 
+ 
+ 
+U N A U D I T E D   I N T E R I M   C O N D E N S E D   C O N S O L I D A T E D   S T A T E M E N T S   O F 
+SHAREHOLDERS’ EQUITY
+
+Ordinary
+Shares 
+Issued
+
+Effect of 
+Redomiciliation1
+Shares
+
+Total 
+Outstanding 
+Shares
+
+Ordinary 
+Shares 
+Issued
+US$’000
+
+Additional
+Paid-In
+Capital
+US$’000
+
+Accumulated
+Other 
+Comprehensive 
+Loss
+US$’000
+
+Accumulated
+Deficit
+US$’000
+
+Total
+US$’000
+
+1,540,975,898
+
+(99,900,280)
+
+1,441,075,618
+
+144
+
+12,759,137
+
+(78,184)
+
+(8,319,903)
+
+4,361,194
+
+–
+–
+–
+–
+
+28,203,197
+–
+–
+–
+
+28,203,197
+–
+–
+–
+
+3
+–
+–
+–
+
+34,863
+260,760
+–
+–
+
+–
+–
+52,814
+–
+
+–
+–
+–
+464,364
+
+34,866
+260,760
+52,814
+464,364
+
+Balance at December 31, 2025
+Exercise of options, ESPP and 
+
+release of RSUs
+
+Share-based compensation
+Other comprehensive income
+Net income
+
+Balance at June 30, 2026
+
+1,540,975,898
+
+(71,697,083)
+
+1,469,278,815
+
+147
+
+13,054,760
+
+(25,370)
+
+(7,855,539)
+
+5,173,998
+
+Balance at December 31, 2024
+Issuance of shares reserved for 
+
+share option exercises1
+Exercise of options, ESPP and 
+
+release of RSUs
+
+Share-based compensation
+Withholding taxes from share-
+
+based awards
+
+Other comprehensive income
+Net income
+
+1,387,367,704
+
+–
+
+1,387,367,704
+
+138
+
+12,087,908
+
+(148,988)
+
+(8,606,836)
+
+3,332,222
+
+109,709,434
+
+(112,772,594)
+
+(3,063,160)
+
+43,898,760
+–
+
+–
+–
+–
+
+–
+–
+
+–
+–
+–
+
+43,898,760
+–
+
+–
+–
+–
+
+–
+
+5
+–
+
+–
+–
+–
+
+–
+
+96,604
+246,287
+
+(35,523)
+–
+–
+
+–
+
+–
+–
+
+–
+
+–
+–
+
+–
+35,290
+–
+
+–
+–
+95,590
+
+–
+
+96,609
+246,287
+
+(35,523)
+35,290
+95,590
+
+Balance at June 30, 2025
+
+1,540,975,898
+
+(112,772,594)
+
+1,428,203,304
+
+143
+
+12,395,276
+
+(113,698)
+
+(8,511,246)
+
+3,770,475
+
+1. 
+
+Upon  effectiveness  of  the  Continuation,  ordinary  shares  (including  in  the  form  of  ADS)  held  by  the  Company 
+or  one  of  its  controlled  subsidiaries  immediately  prior  to  the  effective  date  of  the  Continuation  became  part  of 
+the  Company’s  issued  but  not  outstanding  share  capital  and  are  considered  ordinary  shares  of  the  Company,  or 
+“treasury  shares”  under  Swiss  law.  The  Company  expects  to  use  these  treasury  shares  in  the  future  to  satisfy 
+obligations to deliver shares in connection with awards granted under the Company’s equity incentive plans and 
+agreements.
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+8
+
+NOTES TO THE UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+
+1. 
+
+Description of Business, Basis of Presentation and Consolidation and Significant Accounting Policies
+
+Description of business
+
+Formerly  known  as  BeiGene,  Ltd.,  BeOne  Medicines  Ltd.  (the  “Company”  or  “BeOne”)  is  a  global  oncology 
+company  discovering  and  developing  innovative  treatments  that  are  more  accessible  to  cancer  patients 
+worldwide.
+
+Effective  May  27,  2025,  the  Company  changed  its  jurisdiction  of  incorporation  from  the  Cayman  Islands 
+to  Switzerland  through  a  transaction  known  as  a  continuation  under  Section  206  of  the  Companies  Act  (as 
+amended)  of  the  Cayman  Islands  and  Article  161  of  the  Swiss  Federal  Act  on  Private  International  Law  (such 
+transaction, the “Continuation”). The Continuation did not change the accounting basis under U.S. GAAP of any 
+of the Company’s consolidated assets, liabilities, equity, or any previous results of operations or cash flows.
+
+In  connection  with  the  Continuation,  ordinary  shares  held  by  the  Company  or  one  of  its  controlled  subsidiaries 
+immediately  prior  to  the  effective  date  of  the  Continuation  became  part  of  the  Company’s  issued  share  capital 
+and  are  considered  ordinary  shares  of  the  Company,  or  “treasury  shares”  under  Swiss  law.  See  the  Company’s 
+final  prospectus  filed  with  the  U.S.  Securities  and  Exchange  Commission  pursuant  to  Rule  424(b)(3)  and  the 
+proxy  statement/circular  filed  with  The  Stock  Exchange  of  Hong  Kong  Limited  (the  “HKEX”)  on  March  10, 
+2025 for a full description of the changes related to the Company’s ordinary shares following the Continuation.
+
+Since  its  inception  in  2010,  the  Company  has  become  a  fully  integrated  global  organization  with  over  12,000 
+employees worldwide.
+
+As of June 30, 2026, the Company had the following principal subsidiaries:
+
+Name of Company
+
+BeOne Medicines (Beijing) Co., Ltd.
+
+BeOne Guangzhou Biologics Manufacturing Co., Ltd.
+
+BeOne Medicines (Shanghai) Co., Ltd.
+
+BeOne Pharmaceutical (Suzhou) Co., Ltd.
+
+BeOne Medicines (Shanghai) Research &  
+
+Development Co., Ltd.
+BeOne Medicines USA, Inc.
+
+BeOne Medicines AUS Pty Ltd.
+
+Place of 
+Incorporation
+
+Particulars 
+of issued/
+paid-in capital
+
+Percentage of 
+Ownership by 
+the Company
+
+Principal Activities and Place of Operation
+
+PRC*
+
+PRC*
+
+PRC*
+
+PRC*
+
+PRC*
+
+RMB2,722,787,023
+
+100%
+
+Medical and pharmaceutical research and 
+
+RMB16,428,299,854
+
+100%
+
+Medical and pharmaceutical research 
+
+development, PRC
+
+and development, manufacturing and 
+commercialization, PRC
+
+RMB1,434,344,310
+
+100%
+
+Medical and pharmaceutical research and 
+
+RMB4,973,218,389
+
+RMB620,000,000
+
+development, PRC
+
+100%
+
+100%
+
+Medical and pharmaceutical research and 
+manufacturing and commercial, PRC
+Medical and pharmaceutical research, PRC
+
+Delaware, United 
+
+USD1
+
+100%
+
+Medical, pharmaceutical research and development 
+
+States
+Australia
+
+USD56,947,230
+
+100%
+
+Medical, pharmaceutical research and development 
+
+and commercial, Australia
+
+and commercial, U.S.
+
+BeOne Medicines I GmbH
+
+Switzerland
+
+CHF20,000
+
+100%
+
+Medical, pharmaceutical research and development 
+
+BeOne Medicines Hopewell Urban Renewal, LLC
+
+New Jersey,  
+
+United States
+
+USD693,693,128
+
+100%
+
+and commercial, Switzerland
+
+Medical and pharmaceutical research and 
+development and manufacturing. U.S.
+
+* 
+
+Limited liability company established in PRC
+
+The above table lists the subsidiaries of the Company which, in the opinion of the directors, principally affected 
+the results for the year or formed a substantial portion of the net assets of the Company. To give details of other 
+subsidiaries would, in the opinion of the directors, result in particulars of excessive length.
+
+9
+
+Basis of presentation and consolidation
+
+The  accompanying  condensed  consolidated  balance  sheet  as  of  June  30,  2026,  the  condensed  consolidated 
+statements  of  operations  and  comprehensive  income  for  the  six  months  ended  June  30,  2026  and  2025,  the 
+condensed  consolidated  statements  of  cash  flows  for  the  six  months  ended  June  30,  2026  and  2025,  and  the 
+condensed  consolidated  statements  of  shareholders’  equity  for  the  six  months  ended  June  30,  2026  and  2025, 
+and the related footnote disclosures are unaudited. The accompanying unaudited interim condensed consolidated 
+financial  statements  were  prepared  in  accordance  with  U.S.  GAAP,  including  guidance  with  respect  to  interim 
+financial  information  and  in  conformity  with  the  instructions  to  Form  10-Q  and  Article  10  of  Regulation  S-X. 
+Accordingly,  they  do  not  include  all  of  the  information  and  footnotes  required  by  GAAP  for  annual  financial 
+statements.  These  financial  statements  should  be  read  in  conjunction  with  the  consolidated  financial  statements 
+and related footnotes included in the Company’s Annual Report on Form 10-K for the year ended December 31, 
+2025 (the “Annual Report”).
+
+The  unaudited  interim  condensed  consolidated  financial  statements  have  been  prepared  on  the  same  basis  as 
+the  annual  financial  statements  and,  in  the  opinion  of  management,  reflect  all  normal  recurring  adjustments, 
+necessary  to  present  a  fair  statement  of  the  results  for  the  interim  periods  presented.  Results  of  operations  for 
+the six months ended June 30, 2026 are not necessarily indicative of the results expected for the full fiscal year 
+or for any future annual or interim period.
+
+The  unaudited  interim  condensed  consolidated  financial  statements  include  the  financial  statements  of  the 
+Company and its subsidiaries. All significant intercompany transactions and balances between the Company and 
+its subsidiaries are eliminated upon consolidation.
+
+Use of estimates
+
+The  preparation  of  the  consolidated  financial  statements  in  conformity  with  GAAP  requires  management  to 
+make  estimates  and  assumptions  that  affect  the  reported  amounts  of  assets  and  liabilities,  and  disclosures  of 
+contingent  assets  and  liabilities  at  the  date  of  the  financial  statements  and  the  reported  amounts  of  revenues 
+and  expenses  during  the  period.  Areas  where  management  uses  subjective  judgment  include,  but  are  not 
+limited  to,  estimating  the  useful  lives  of  long-lived  assets,  estimating  variable  consideration  in  product  sales 
+and  collaboration  revenue  arrangements,  assessing  the  subsequent  measurement  of  certain  long-lived  assets, 
+initial  measurement  and  recognition  of  share-based  compensation  expenses,  realizability  of  deferred  tax  assets, 
+estimating  uncertain  tax  positions,  subsequent  measurement  of  inventory,  estimating  the  allowance  for  credit 
+losses, measurement of right-of-use assets and lease liabilities, estimates related to the cost of accrued research 
+and  development  activities,  estimates  related  to  the  interest  cost  component  of  the  sale  of  future  royalty 
+liability  and  the  measuring  at  fair  value  of  financial  instruments.  Management  bases  the  estimates  on  historical 
+experience, known trends and various other assumptions that are believed to be reasonable, the results of which 
+form the basis for making judgments about the carrying values of assets and liabilities and reported amounts of 
+revenues and expenses. Actual results could differ from these estimates.
+
+10
+
+Recent accounting pronouncements
+
+New accounting standards which have been adopted
+
+In  September  2025,  the  Financial  Accounting  Standards  Board  (“FASB”)  issued  Accounting  Standards  Update 
+(“ASU”)  2025-07, Derivatives and Hedging  (Topic  815) and Revenue from Contracts with Customers  (Topic 
+606):  Derivatives  Scope  Refinements  and  Scope  Clarification  for  Share-Based  Noncash  Consideration  from  a 
+Customer in a Revenue Contract. This update adds a new exception for contracts that are not traded on exchange 
+that  contain  an  underlying  based  on  operations  or  activities  specific  to  one  of  the  parties  to  the  contract, 
+regardless  of  whether  the  operations  or  activities  are  within  the  company’s  control.  The  ASU  also  clarifies 
+that  an  entity  should  apply  the  guidance  in  Topic  606  to  a  contract  with  share-based  noncash  consideration 
+(for  example,  shares,  share  options,  or  other  equity  instruments)  from  a  customer  for  the  transfer  of  goods  or 
+services.  ASU  2025-07  is  effective  for  fiscal  years  beginning  after  December  15,  2026,  and  interim  reporting 
+periods within those fiscal years, with early adoption permitted. The Company adopted the amendments to Topic 
+815 on a prospective basis, effective January 1, 2026. There was no material impact to the Company’s financial 
+position or results of operations for prior transactions. The impact in subsequent periods will be dependent upon 
+the nature of future business development activities.
+
+New accounting standards which have not yet been adopted
+
+In  December  2025,  the  FASB  issued  ASU  2025-10,  Government Grants  (Topic  832):  Accounting  for 
+Government  Grants  Received  by  Business  Entities  (ASU  2025-10),  which  establishes  authoritative  guidance 
+on  the  recognition,  measurement,  presentation,  and  disclosure  of  government  grants.  Under  ASU  2025-10, 
+government  grants  are  recognized  when  it  is  probable  that  the  entity  will  both  comply  with  the  conditions  of 
+the  grant  and  the  grant  will  be  received.  The  ASU  provides  specific  accounting  models  for  grants  related  to 
+assets  and  grants  related  to  income,  including  options  to  recognize  government  grants  as  deferred  income  or 
+as  a  reduction  of  the  asset’s  cost  basis.  The  ASU  also  requires  enhanced  disclosures  regarding  the  nature  of 
+government grants, significant terms and conditions, accounting policies applied, and amounts recognized in the 
+financial  statements.  ASU  2025-10  is  effective  for  fiscal  years  beginning  after  December  15,  2028,  including 
+interim  periods  within  those  fiscal  years,  with  early  adoption  permitted.  The  Company  is  currently  evaluating 
+the impact of adopting ASU 2025-10 on its consolidated financial statements and related disclosures.
+
+In  September  2025,  the  FASB  issued  ASU  2025-06, Intangibles – Goodwill and Other – Internal-Use Software 
+(Subtopic  350-40):  Targeted  Improvements  to  the  Accounting  for  Internal-Use  Software.  This  update  removes 
+all  references  to  prescriptive  and  sequential  software  development  stages  throughout  Subtopic  350-40.  The 
+update  requires  an  entity  to  start  capitalizing  software  costs  when  management  has  authorized  and  committed 
+to  funding  the  software  project,  and  it  is  probable  that  the  project  will  be  completed  and  the  software  will  be 
+used  to  perform  the  function  intended.  The  update  further  specifies  that  the  disclosures  in  Subtopic  360-10  are 
+required  for  all  capitalized  internal-use  software  costs.  This  update  is  effective  for  annual  reporting  periods 
+beginning  after  December  15,  2027,  and  interim  reporting  periods  within  those  annual  reporting  periods.  Early 
+adoption is permitted. The guidance can be applied using a prospective transition approach, a modified transition 
+approach that is based on the status of the project and whether software costs were capitalized before the date of 
+adoption, or a retrospective transition approach. The Company is currently evaluating the impact on its financial 
+statements of adopting this guidance.
+
+In  November  2024,  the  FASB  issued  ASU  2024-03, Income Statement – Reporting Comprehensive Income 
+– Expense Disaggregation Disclosures  (Subtopic  220-40):  Disaggregation  of  Income  Statement  Expenses. 
+This  update  requires  that  at  each  interim  and  annual  reporting  period  public  entities  disclose  (1)  the  amounts 
+of  purchases  of  inventory,  employee  compensation,  depreciation,  amortization,  and  depletion  in  commonly 
+presented  expense  captions;  (2)  certain  amounts  that  are  already  required  to  be  disclosed  under  current  GAAP 
+in  the  same  disclosure  as  the  other  disaggregation  requirements;  (3)  a  qualitative  description  of  the  amounts 
+remaining  in  relevant  expense  captions  that  are  not  separately  disaggregated  quantitatively;  and  (4)  the  total 
+amount  of  selling  expenses  and,  in  annual  reporting  periods,  the  definition  of  selling  expenses.  In  January 
+2025,  the  FASB  issued  ASU  2025-01,  Income Statement – Reporting Comprehensive Income – Expense 
+Disaggregation Disclosures  (Subtopic  220-40):  Clarifying  the  Effective  Date.  This  update  clarifies  that  ASU 
+2024-03 is effective for annual reporting periods beginning after December 15, 2026, and interim periods within 
+annual  reporting  periods  beginning  after  December  15,  2027.  Early  adoption  is  permitted.  The  Company  is 
+currently evaluating the impact on its financial statements of adopting this guidance.
+
+11
+
+Significant accounting policies
+
+For  a  more  complete  discussion  of  the  Company’s  significant  accounting  policies  and  other  information,  the 
+unaudited  interim  condensed  consolidated  financial  statements  and  notes  thereto  should  be  read  in  conjunction 
+with the consolidated financial statements included in the Annual Report.
+
+There  have  been  no  material  changes  to  the  Company’s  significant  accounting  policies  as  of  and  for  the  six 
+months ended June 30, 2026, as compared to the significant accounting policies described in the Annual Report.
+
+2. 
+
+Fair Value Measurements
+
+The  Company  measures  certain  financial  assets  and  liabilities  at  fair  value.  Fair  value  is  determined  based 
+upon the exit price that would be received to sell an asset or paid to transfer a liability in an orderly transaction 
+between  market  participants,  as  determined  by  either  the  principal  market  or  the  most  advantageous  market. 
+Inputs  used  in  the  valuation  techniques  to  derive  fair  values  are  classified  based  on  a  three-level  hierarchy,  as 
+follows:
+
+Level  1  –  Observable  inputs  that  reflect  quoted  prices  (unadjusted)  for  identical  assets  or  liabilities  in  active 
+markets.
+
+Level  2  –  Observable  inputs  other  than  Level  1  prices  such  as  quoted  prices  for  similar  assets  or  liabilities; 
+quoted  prices  in  markets  with  insufficient  volume  or  infrequent  transactions  (less  active  markets);  or  model-
+derived  valuations  in  which  all  significant  inputs  are  observable  or  can  be  derived  principally  from  or 
+corroborated by observable market data for substantially the full term of the assets or liabilities.
+
+Level  3  –  Unobservable  inputs  that  are  supported  by  little  or  no  market  activity  and  that  are  significant  to  the 
+fair value of the asset or liability.
+
+The  Company  considers  an  active  market  to  be  one  in  which  transactions  for  the  asset  or  liability  occur  with 
+sufficient  frequency  and  volume  to  provide  pricing  information  on  an  ongoing  basis,  and  considers  an  inactive 
+market  to  be  one  in  which  there  are  infrequent  or  few  transactions  for  the  asset  or  liability,  the  prices  are  not 
+current, or price quotations vary substantially either over time or among market makers.
+
+The  following  tables  present  the  Company’s  financial  assets  and  liabilities  measured  and  recorded  at  fair  value 
+on a recurring basis using the above input categories as of June 30, 2026 and December 31, 2025:
+
+As of June 30, 2026
+
+Cash equivalents
+
+Money market funds
+
+Other non-current assets (Note 5):
+Convertible debt instrument
+Other
+
+Total
+
+Quoted Price in 
+Active Market 
+for Identical 
+Assets
+(Level 1)
+US$’000
+
+Significant 
+Other 
+Observable 
+Inputs
+(Level 2)
+US$’000
+
+Significant 
+Unobservable 
+Inputs
+(Level 3)
+US$’000
+
+2,231,035
+
+–
+3,293
+
+2,234,328
+
+–
+
+–
+–
+
+–
+
+–
+
+6,474
+–
+
+6,474
+
+12
+
+As of December 31, 2025
+
+Quoted Price in 
+Active Market 
+for Identical 
+Assets
+(Level 1)
+US$’000
+
+Significant 
+Other 
+Observable 
+Inputs
+(Level 2)
+US$’000
+
+Significant 
+Unobservable 
+Inputs
+(Level 3)
+US$’000
+
+Cash equivalents
+
+Money market funds
+
+Other non-current assets (Note 5):
+
+Equity securities with readily determinable fair values
+Convertible debt instrument
+Other
+
+Total
+
+2,384,656
+
+–
+–
+1,271
+
+2,385,927
+
+–
+
+2
+–
+–
+
+2
+
+–
+
+–
+6,135
+–
+
+6,135
+
+The Company’s cash equivalents are highly liquid investments with original maturities of 3 months or less. The 
+Company determines the fair value of cash equivalents using a market approach based on quoted prices in active 
+markets.
+
+The Company holds convertible notes issued by private biotech companies. The Company elected the fair value 
+option  method  of  accounting  for  the  convertible  notes.  Accordingly,  the  convertible  notes  are  remeasured  at 
+fair value on a recurring basis using Level 3 inputs, with any changes in the fair value option recorded in other 
+income, net. The Company recorded net gains on fair value adjustment of US$160,000 for the six months ended 
+June 30, 2026, and US$1,211,000 for the six months ended June 30, 2025. Refer to Note 5, Restricted Cash and 
+Investments for details of the determination of the carrying amount of private equity investments without readily 
+determinable fair values and equity method investments.
+
+As  of  June  30,  2026  and  December  31,  2025,  the  Company  held  time  deposits  of  US$31,281,000  and  nil, 
+respectively,  that  were  classified  as  cash  equivalents.  As  of  June  30,  2026  and  December  31,  2025,  the  fair 
+values of cash and cash equivalents, restricted cash, accounts receivable, accounts payable, and short-term debt 
+approximated their carrying values due to their short-term nature. Long-term debt’s carrying values approximate 
+their fair values due to the fact that the related interest rates approximate the rates currently offered by financial 
+institutions for similar debt instrument of comparable maturities.
+
+3. 
+
+Collaborative, Licensing and Other Arrangements
+
+The  Company  enters  into  collaborative  arrangements  for  the  research  and  development,  manufacture  and/
+or  commercialization  of  drug  products  and  drug  candidates.  To  date,  these  collaborative  arrangements  have 
+included  out-licenses  of  and  options  to  out-license  internally  developed  products  and  drug  candidates  to 
+other  parties,  in-licenses  of  products  and  drug  candidates  from  other  parties,  and  profit  –  and  cost-sharing 
+arrangements.  These  arrangements  may  include  non-refundable  upfront  payments,  contingent  obligations 
+for  potential  development,  regulatory  and  commercial  performance  milestone  payments,  cost-sharing 
+and  reimbursement  arrangements,  royalty  payments,  and  profit  sharing.  For  detailed  descriptions  of  each 
+arrangement, see the Company’s Annual Report.
+
+For the six months ended June 30, 2026 and 2025, the Company’s other revenue consisted primarily of royalty 
+revenue  from  IMDELLTRA®  sales  outside  of  China  under  the  Amgen  collaboration  agreement  and  revenue 
+generated under the Novartis broad markets agreement.
+
+13
+
+The  following  table  summarizes  total  other  revenue  recognized  for  the  six  months  ended  June  30,  2026  and 
+2025:
+
+Other Revenue
+
+Amgen royalty revenue
+Novartis broad markets revenue
+Other
+
+Other Revenue
+
+In-Licensing Arrangements – Commercial
+
+Amgen
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+2025
+US$’000
+
+37,120
+10,219
+4,047
+
+51,386
+
+14,552
+6,842
+579
+
+21,973
+
+During  the  six  months  ended  June  30,  2026  and  2025,  the  Company  recorded  the  following  amounts  related 
+to  its  collaboration  arrangement  with  Amgen.  For  a  detailed  description  of  the  arrangement  and  related  rights 
+and  obligations,  see  the  Company’s  Annual  Report.  The  Company  is  still  in  the  commercialization  period  for 
+XGEVA®, KYPROLIS® and BLINCYTO® in China.
+
+Amounts  recorded  related  to  the  Company’s  portion  of  the  co-development  funding  on  the  pipeline  assets  for 
+the six months ended June 30, 2026 and 2025 were as follows:
+
+BeOne’s portion of the development funding
+Less: Amortization of research and development cost share liability
+
+Research and development expense
+
+Remaining portion of development funding cap
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+117,866
+58,163
+
+59,703
+
+2025
+US$’000
+
+92,715
+45,569
+
+47,146
+
+As of
+June 30, 2026
+US$’000
+
+12,527
+
+As  of  June  30,  2026  and  December  31,  2025,  the  research  and  development  cost  share  liability  recorded  in  the 
+Company’s balance sheet was as follows:
+
+Research and development cost share liability, current portion
+
+Total research and development cost share liability
+
+As of
+
+June 30,
+2026
+US$’000
+
+December 31,
+2025
+US$’000
+
+6,182
+
+6,182
+
+64,345
+
+64,345
+
+14
+
+The  total  reimbursement  paid  under  the  commercial  profit-sharing  agreement  for  product  sales  is  classified  in 
+the income statement for the six months ended June 30, 2026 and 2025 as follows:
+
+Cost of sales – product
+Research and development
+Selling, general and administrative
+
+Total
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+23,913
+(1,325)
+(53,525)
+
+2025
+US$’000
+
+17,027
+(2,109)
+(48,985)
+
+(30,937)
+
+(34,067)
+
+The  Company  purchases  commercial  inventory  from  Amgen  to  distribute  in  China.  Inventory  purchases 
+amounted to US$255,710,000 for the six months ended June 30, 2026, and US$136,032,000 for the six months 
+ended  June  30,  2025.  Net  amounts  payable  to  Amgen  was  US$110,503,000  and  US$79,097,000  as  of  June  30, 
+2026 and December 31, 2025, respectively.
+
+In-Licensing Arrangements – Development
+
+The  Company  has  in-licensed  the  rights  to  develop,  manufacture  and,  if  approved,  commercialize  multiple 
+development stage drug candidates globally or in specific territories. These arrangements typically include non-
+refundable  upfront  payments,  contingent  obligations  for  potential  development,  regulatory  and  commercial 
+performance milestone payments, cost-sharing arrangements, royalty payments, and profit sharing.
+
+Upfront and milestone payments incurred under these arrangements for the six months ended June 30, 2026 and 
+2025  are  set  forth  below.  All  upfront  and  development  milestones  were  expensed  to  research  and  development 
+expense. All regulatory and commercial milestones were capitalized as intangible assets and are being amortized 
+over the remainder of the respective product patent or term of the commercialization agreements.
+
+Payments due to collaboration partners
+
+Classification
+
+Upfront payments
+Development milestones incurred
+Regulatory and commercial milestone payments
+
+Research and development expense
+Research and development expense
+Intangible asset
+
+Total
+
+4. 
+
+Sale of Future IMDELLTRA® Royalties
+
+Six Months Ended June 30,
+2025
+US$’000
+
+2026
+US$’000
+
+20,518
+3,313
+–
+
+500
+–
+20,000
+
+23,831
+
+20,500
+
+On  August  25,  2025,  the  Company  entered  into  an  agreement  (the  “Royalty  Agreement”)  to  sell  its  royalty 
+rights  on  the  worldwide  sales,  excluding  China,  of  Amgen’s  IMDELLTRA®  (tarlatamab-dlle)  for  up  to 
+US$950,000,000  to  Royalty  Pharma  Investments  2023  ICAV  (“Royalty  Pharma”).  Under  the  terms  of  the 
+Royalty Agreement, the Company received a non-refundable upfront payment of US$885,000,000 upon closing 
+of  the  Royalty  Agreement.  Subsequently,  the  Company  exercised  its  option  to  sell  additional  royalties  to 
+Royalty Pharma and received US$26,000,000 in the fourth quarter of 2025. The Company will share in a portion 
+of the royalty on annual sales above US$1.5 billion, and will maintain royalty and all other rights to other assets 
+under the terms of its collaboration agreement with Amgen.
+
+15
+
+The  Company  evaluated  the  arrangement  and  determined  that  the  proceeds  from  the  sale  of  future 
+IMDELLTRA®  royalties,  as  well  as  the  option  to  sell  remaining  royalties  when  and  if  exercised,  should  be 
+treated as a financing liability according to ASC 470, Debt due to the Company’s continuing involvement with 
+the  Amgen  collaboration.  At  the  transaction  date,  the  Company  recognized  the  upfront  proceeds  received  from 
+Royalty  Pharma  of  US$885,000,000  and,  subsequently,  the  option  proceeds  of  US$26,000,000,  as  liabilities 
+and  is  amortizing  them  using  the  effective  interest  method  over  the  life  of  the  arrangement.  The  Company 
+imputes  interest  expense  associated  with  the  liability  using  the  effective  interest  rate  method.  The  effective 
+interest  rate  is  the  rate  that  equates  the  present  value  of  the  estimate  of  remaining  royalty  revenues  payable  to 
+Royalty Pharma with the carrying amount of the liability. The interest rate on the sale of future royalty liability 
+may  vary  during  the  term  of  the  agreement  depending  on  a  number  of  factors,  including  the  royalty  revenues 
+forecast. The Company evaluates the interest rate quarterly based on its expectations of future royalty revenues, 
+historical  experience  and  current  market  conditions  using  the  prospective  method.  A  significant  increase  or 
+decrease  in  future  royalty  revenues  will  materially  impact  the  timing  of  royalty  sale  liability  amortization, 
+interest expense and the time period for repayment. The Company will assess the expected payments to Royalty 
+Pharma  quarterly,  and,  to  the  extent  the  amount  or  timing  of  such  payments  is  materially  different  than  its 
+initial estimates, the Company will prospectively adjust the amortization of the liability and the related interest 
+expense.
+
+The  repayment  of  this  obligation  to  Royalty  Pharma  will  be  made  upon  the  receipt  of  royalties  from  Amgen 
+throughout  the  royalty  period.  The  repayment  does  not  follow  a  fixed  repayment  schedule  and  will  be 
+recognized  over  the  life  of  the  royalty  stream,  which  is  expected  to  occur  through  at  least  2041.  The  Royalty 
+Agreement also contains customary representations, warranties, covenants, and indemnification provisions.
+
+As  of  June  30,  2026  and  December  31,  2025,  the  royalty  financing  obligation  recorded  in  the  Company’s 
+balance sheet was as follows:
+
+Sale of future royalty liability, current portion
+Sale of future royalty liability, non-current portion
+
+As of
+
+June 30,
+2026
+US$’000
+
+89,278
+817,035
+
+December 31,
+2025
+US$’000
+
+56,714
+850,242
+
+Total sale of future royalty liability
+
+906,313
+
+906,956
+
+The following table summarizes the royalty sale liability activity during the six months ended June 30, 2026:
+
+Balance at December 31, 2025
+Debt portion of royalties recognized and settled to Royalty Pharma
+Accretion of liability
+
+Balance at June 30, 2026
+
+Royalty Sale 
+Liability
+US$’000
+
+906,956
+(2,556)
+1,913
+
+906,313
+
+The carrying value of the sale of future royalty liability approximates fair value as of June 30, 2026 and is based 
+on  the  Company’s  current  estimates  of  future  royalties  expected  to  be  paid  to  Royalty  Pharma  over  the  life  of 
+the royalty stream, which are considered Level 3 inputs.
+
+16
+
+Interest expense related to this arrangement was as follows:
+
+Interest expense
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+43,379
+
+2025
+US$’000
+
+–
+
+As of June 30, 2026, US$24,883,000 of interest expense was accrued. The effective annual imputed interest rate 
+was 11.0% as of June 30, 2026.
+
+5. 
+
+Restricted Cash and Investments
+
+Restricted Cash
+
+The  Company’s  restricted  cash  primarily  consists  of  RMB-denominated  cash  deposits  held  in  designated  bank 
+accounts as collateral for letters of credit and cash used to settle employee benefit obligations and related taxes. 
+The Company classifies restricted cash as current or non-current based on the term of the restriction. Restricted 
+cash as of June 30, 2026 and December 31, 2025 was as follows:
+
+Short-term restricted cash
+Long-term restricted cash
+
+Total
+
+Investments in Equity Securities
+
+The following table summarizes the Company’s investments in equity securities:
+
+Equity securities with readily determinable fair values
+Equity securities without readily determinable fair values
+Equity-method investments 1
+
+Total
+
+1 
+
+As of
+
+June 30,
+2026
+US$’000
+
+161,046
+21,587
+
+182,633
+
+December 31,
+2025
+US$’000
+
+41,284
+20,833
+
+62,117
+
+As of
+
+June 30,
+2026
+US$’000
+
+December 31,
+2025
+US$’000
+
+–
+36,317
+23,265
+
+59,582
+
+2
+33,154
+22,387
+
+55,543
+
+In  the  first  quarter  of  2025,  in  connection  with  the  wind-down  of  the  operations  and  related  financial 
+obligations of one of the Company’s equity-method investments, the investment’s fair value was assessed 
+to  be  zero.  The  Company  recognized  an  other-than-temporary  impairment  loss  of  US$12,376,000  during 
+the six months ended June 30, 2025, within unrealized losses from equity-method investments.
+
+17
+
+The following table summarizes net gains and losses related to investments in equity securities recorded in other 
+(expense) income, net for the six months ended June 30, 2026 and 2025:
+
+Equity securities with readily determinable fair values
+Equity securities without readily determinable fair values
+Equity-method investments
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+(2)
+3,188
+(1,207)
+
+2025
+US$’000
+
+(2,063)
+(3,118)
+(15,274)
+
+The following table summarizes the portion of unrealized losses that relates to equity securities still held by the 
+Company as of June 30, 2026:
+
+Net gains (losses) recognized on equity securities
+Less: net gains recognized on equity securities sold
+
+Net unrealized gains (losses) on equity securities held at end of period
+
+6. 
+
+Accounts Receivable, net
+
+Accounts receivable
+Less: Allowance for credit losses
+
+Total
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+2025
+US$’000
+
+3,188
+3,134
+
+54
+
+(3,118)
+–
+
+(3,118)
+
+As of
+
+June 30,
+2026
+US$’000
+
+December 31,
+2025
+US$’000
+
+1,057,684
+(1,507)
+
+866,518
+(1,438)
+
+1,056,177
+
+865,080
+
+The  Company’s  trading  terms  with  its  customers  are  mainly  on  credit  and  the  credit  period  generally  ranges 
+from 30 to 120 days. The Company seeks to maintain strict control over its outstanding receivables and overdue 
+balances  are  regularly  reviewed.  The  Company  does  not  hold  any  collateral  or  other  credit  enhancements  over 
+its accounts receivable balances. Accounts receivable is non-interest-bearing. An aging analysis of the accounts 
+receivable, based on the invoice date, is as follows:
+
+Within 1 year
+Over 1 year
+
+Total
+
+As of
+
+June 30,
+2026
+US$’000
+
+1,055,160
+1,017
+
+December 31,
+2025
+US$’000
+
+863,927
+1,153
+
+1,056,177
+
+865,080
+
+18
+
+Changes in the allowance for credit losses related to trade accounts receivable consist of the following:
+
+Beginning balance, as of January 1
+Provision for expected credit losses
+Written-off
+Exchange rate changes
+
+Ending balance, as of June 30
+
+7. 
+
+Property, Plant and Equipment, Net
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+2025
+US$’000
+
+1,438
+37
+24
+8
+
+1,507
+
+992
+53
+(43)
+(58)
+
+944
+
+Property, plant and equipment, net are recorded at cost and consisted of the following:
+
+Land
+Building
+Manufacturing equipment
+Laboratory equipment
+Leasehold improvement
+Software, electronics and office equipment
+
+Property, plant and equipment, at cost
+Less: accumulated depreciation
+Construction in progress
+
+As of
+
+June 30,
+2026
+US$’000
+
+71,434
+1,205,301
+289,068
+328,807
+79,529
+136,248
+
+2,110,387
+(619,773)
+152,672
+
+December 31,
+2025
+US$’000
+
+71,434
+1,187,836
+273,769
+309,471
+76,568
+124,136
+
+2,043,214
+(528,695)
+127,159
+
+Property, plant and equipment, net
+
+1,643,286
+
+1,641,678
+
+The Company has made a significant investment in its recently opened manufacturing and clinical R&D facility 
+in  Hopewell,  New  Jersey.  As  of  June  30,  2026,  the  Company  had  construction  in  progress  of  US$95,763,000 
+related to the Hopewell facility, the majority of which will be put into service in 2026.
+
+Depreciation expense for the six months ended June 30, 2026 and 2025 was as follows:
+
+Depreciation expense
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+2025
+US$’000
+
+78,291
+
+61,468
+
+19
+
+8. 
+
+Intangible Assets
+
+Intangible assets as of June 30, 2026 and December 31, 2025 are summarized as follows:
+
+As of
+
+June 30, 2026
+
+December 31, 2025
+
+Gross
+carrying
+amount
+US$’000
+
+Accumulated
+amortization
+US$’000
+
+Intangible
+assets, net
+US$’000
+
+Gross
+carrying
+amount
+US$’000
+
+Accumulated
+amortization
+US$’000
+
+Intangible
+assets, net
+US$’000
+
+Finite-lived intangible assets:
+
+Developed products
+Other
+
+79,510
+8,987
+
+(19,029)
+(8,512)
+
+60,481
+475
+
+77,486
+8,987
+
+(15,291)
+(8,478)
+
+62,195
+509
+
+Total finite-lived intangible assets
+
+88,497
+
+(27,541)
+
+60,956
+
+86,473
+
+(23,769)
+
+62,704
+
+Developed  products  represent  post-approval  milestone  payments  under  license  and  commercialization 
+agreements.  The  Company  is  amortizing  the  developed  products  over  the  remainder  of  the  respective  product 
+patent or the term of the commercialization agreements.
+
+Amortization  expense  for  developed  products  is  included  in  cost  of  sales  –  product  in  the  accompanying 
+consolidated  statements  of  operations.  Amortization  expense  for  other  intangible  assets  is  included  in  selling, 
+general and administrative expense in the accompanying consolidated statements of operations.
+
+The  weighted-average  life  for  each  finite-lived  intangible  assets  is  approximately  10  years.  Amortization 
+expense was as follows:
+
+Amortization expense – Cost of sales – product
+Amortization expense – Selling, general and administrative
+
+Total
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+2025
+US$’000
+
+3,334
+34
+
+3,368
+
+6,922
+28
+
+6,950
+
+As of June 30, 2026, estimated amortization expense for each of the five succeeding years and thereafter was as 
+follows:
+
+Year Ending December 31,
+
+2026 (remainder of year)
+2027
+2028
+2029
+2030
+2031 and thereafter
+
+Total
+
+Cost of Sales – 
+Product
+US$’000
+
+Selling, 
+General and 
+Administrative
+US$’000
+
+3,190
+6,382
+6,382
+6,382
+6,382
+31,763
+
+60,481
+
+34
+67
+67
+67
+67
+173
+
+475
+
+Total
+US$’000
+
+3,224
+6,449
+6,449
+6,449
+6,449
+31,936
+
+60,956
+
+20
+
+9. 
+
+Income Taxes
+
+Income  tax  expense  was  US$107,310,000  for  the  six  months  ended  June  30,  2026,  and  US$24,859,000  for  the 
+six months ended June 30, 2025. The income tax expense for the six months ended June 30, 2026 and 2025 was 
+primarily attributable to the application of our expected current worldwide effective tax rate for the full year to 
+the  year-to-date  actual  pre-tax  income,  reflecting  the  mix  of  taxable  income  across  jurisdictions  as  well  as  the 
+impact of certain discrete items. Specifically, the provision for income taxes for the three months ended June 30, 
+2026  included  a  discrete  net  tax  expense  of  approximately  US$49,276,000.  This  figure  primarily  relates  to  the 
+settlement of the audit of one of our China subsidiaries amounting to US$59,034,000, partially offset by certain 
+discrete  items  mainly  related  to  U.S.  share-based  compensation.  The  income  tax  expense  for  the  six  months 
+ended June 30, 2025 included a discrete net tax benefit of US$8,688,000, primarily related to updated provision 
+estimates for U.S. R&D credits for prior periods.
+
+On a quarterly basis, the Company evaluates the realizability of deferred tax assets by jurisdiction and assesses 
+the  need  for  a  valuation  allowance.  In  assessing  the  realizability  of  deferred  tax  assets,  the  Company  considers 
+historical  profitability,  evaluation  of  scheduled  reversals  of  deferred  tax  liabilities,  projected  future  taxable 
+income  and  tax-planning  strategies.  Valuation  allowances  have  been  provided  on  deferred  tax  assets  where, 
+based on all available evidence, it was considered more likely than not that some portion or all of the recorded 
+deferred  tax  assets  will  not  be  realized  in  future  periods.  After  consideration  of  all  positive  and  negative 
+evidence,  as  of  June  30,  2026,  the  Company  will  maintain  a  full  valuation  allowance  against  its  net  deferred 
+tax  assets.  The  Company  may  release  all  or  a  portion  of  the  valuation  allowance  in  the  near-term;  however, 
+the  release  of  the  valuation  allowance,  as  well  as  the  exact  timing  and  the  amount  of  such  release,  continue 
+to  be  subject  to,  among  other  things,  the  Company’s  level  of  profitability,  revenue  growth,  clinical  program 
+progression  and  expectations  regarding  future  profitability.  The  Company’s  total  deferred  tax  asset  balance 
+subject to the valuation allowance was approximately US$3.6 billion as of June 30, 2026.
+
+As of June 30, 2026, the Company had gross unrecognized tax benefits of US$26,046,000. Due to the uncertain 
+and  complex  application  of  income  tax  regulations  by  certain  tax  authorities  outside  of  the  U.S.,  it  is  possible 
+that  the  ultimate  resolution  of  ongoing  audits  may  result  in  liabilities  that  could  be  materially  different  from 
+current  estimates.  The  ongoing  tax  audits  in  various  jurisdictions  could  impact  future  tax  expenses  if  tax 
+authorities  in  their  administration  of  tax  laws  during  open  audits  may  lead  us  to  change  our  assessment  of 
+whether  or  not  it  is  more  likely  than  not  that  certain  tax  benefit  positions  will  be  sustained.  The  Company’s 
+reserve for uncertain tax positions decreased by US$1,789,000 in the six months ended June 30, 2026, primarily 
+due to the settlement of the China audit, partially offset by an increase in U.S. federal and state tax attributes.
+
+10. 
+
+Supplemental Balance Sheet Information
+
+Inventories, net consisted of the following:
+
+Raw materials
+Work in process
+Finished goods
+
+Total
+
+As of
+
+June 30,
+2026
+US$’000
+
+267,266
+114,321
+351,016
+
+December 31,
+2025
+US$’000
+
+236,190
+122,681
+249,356
+
+732,603
+
+608,227
+
+21
+
+Prepaid expenses and other current assets consisted of the following:
+
+Short-term restricted cash
+Prepaid research and development costs
+Prepaid taxes
+Prepaid general and administrative expenses
+Other current assets
+Other receivables
+
+Total
+
+Other non-current assets consisted of the following:
+
+Long-term investments
+Long-term restricted cash
+Rental deposits and other
+Prepayment of property and equipment
+Prepaid VAT
+Prepaid supply cost
+
+As of
+
+June 30,
+2026
+US$’000
+
+161,046
+48,221
+34,368
+23,625
+46,946
+14,778
+
+December 31,
+2025
+US$’000
+
+41,284
+52,594
+42,232
+22,209
+32,652
+21,781
+
+328,984
+
+212,752
+
+As of
+
+June 30,
+2026
+US$’000
+
+December 31,
+2025
+US$’000
+
+66,056
+21,587
+12,719
+4,618
+3,773
+828
+
+61,678
+20,833
+10,470
+4,964
+3,504
+969
+
+Total
+
+109,581
+
+102,418
+
+Accrued expenses and other payables consisted of the following:
+
+Revenue rebates and returns related
+External research and development activities related
+Compensation related
+Commercial activities
+Individual income tax and other taxes
+Accrued general and administrative expenses
+Other
+
+As of
+
+June 30,
+2026
+US$’000
+
+December 31,
+2025
+US$’000
+
+485,870
+167,026
+247,322
+132,085
+149,380
+42,364
+40,217
+
+398,533
+156,525
+305,055
+118,449
+60,359
+36,635
+33,564
+
+Total
+
+1,264,264
+
+1,109,120
+
+22
+
+Other long-term liabilities consisted of the following:
+
+Deferred government grant income
+Pension liability
+Asset retirement obligation
+Other
+
+Total
+
+11.  Accounts Payable
+
+As of
+
+June 30,
+2026
+US$’000
+
+December 31,
+2025
+US$’000
+
+28,455
+17,762
+3,748
+27,679
+
+77,644
+
+28,979
+18,170
+3,565
+29,531
+
+80,245
+
+An aging analysis of the accounts payable as of the end of the reporting period, based on the invoice date, is as 
+follows:
+
+Within 1 year
+Over 1 year
+
+Total
+
+As of
+
+June 30,
+2026
+US$’000
+
+470,008
+291
+
+December 31,
+2025
+US$’000
+
+478,383
+652
+
+470,299
+
+479,035
+
+The accounts payable are non-interest-bearing and repayable within the normal operating cycle or on demand.
+
+12.  Debt
+
+Facilities Agreement
+
+In  November  2025,  BeOne  Medicines  Ltd.  entered  into  the  Facilities  Agreement  (the  “Facilities  Agreement”), 
+by  and  among  certain  subsidiaries  of  the  Company,  as  guarantors,  the  Hongkong  and  Shanghai  Banking 
+Corporation  Limited  (“HSBC”),  as  global  coordinator,  original  mandated  lead  arranger  and  bookrunner,  agent 
+and security agent, and certain financial institutions listed in the Facilities Agreement, as lenders. The Facilities 
+Agreement  provides  for  a  US$140,000,000  U.S.  dollar-denominated,  2-year  B1  revolving  credit  facility  (the 
+“B1  Revolving  Loan  Facility”),  a  US$560,000,000  U.S.  dollar-denominated,  2-year,  B2  term  loan  facility  (the 
+“B2  Term  Loan  Facility”  and,  together  with  the  B1  Revolving  Loan  Facility,  the  “B  Loan  Facilities”),  and  a 
+RMB2,150,000,000  Renminbi-denominated,  3-year,  A  term  loan  facility  (the  “A  Loan  Facility”)  (collectively, 
+the “Loan Facilities”).
+
+23
+
+The following table presents outstanding borrowings under the Facilities Agreement:
+
+A Loan Facility
+B2 Term Loan Facility
+Less: unamortized debt issuance costs
+
+Total short-term debt
+
+A Loan Facility
+B2 Term Loan Facility
+Less: unamortized debt issuance costs
+
+Total long-term debt
+
+As of
+
+June 30,
+2026
+US$’000
+
+December 31,
+2025
+US$’000
+
+25,349
+56,000
+(10,167)
+
+12,298
+–
+(3,235)
+
+71,182
+
+9,063
+
+291,518
+504,000
+(6,837)
+
+295,152
+560,000
+(18,783)
+
+788,681
+
+836,369
+
+The A Loan Facility requires repayment of 4% of the aggregate amount outstanding every six months beginning 
+on November 24, 2026, with all remaining principal outstanding due on November 24, 2028. The B2 Term Loan 
+Facility requires repayment of 10% of the aggregate amount outstanding every three months beginning on June 
+15, 2027, with all remaining principal outstanding due on December 15, 2027, unless the final repayment date is 
+extended. The Company may voluntarily prepay borrowings, in whole or in part, under the Facilities Agreement 
+without  premium  or  penalty.  The  Facilities  Agreement  also  contains  certain  customary  mandatory  prepayment 
+provisions in the event that the Company undergoes a change of control and in relation to disposal and insurance 
+proceeds.
+
+The A Loan Facility is subject to an interest rate equal to the Reference Rate (RMB) (as defined in the Facilities 
+Agreement) plus a margin of 0.65% per annum. The B Loan Facilities are subject to an interest rate equal to the 
+Reference  Rate  (USD)  (as  defined  in  the  Facilities  Agreement)  plus  a  margin  of  2.40%  per  annum.  In  addition 
+to paying interest on the outstanding principal, the Company is also required to pay a commitment fee of 0.85% 
+on  the  undrawn  and  uncancelled  amounts  under  the  Loan  Facilities.  Excluding  commitment  fees,  the  interest 
+rate for the A Loan Facility and B2 Term Loan Facility was 3.7% and 6.1%, respectively, as of June 30, 2026.
+
+As of June 30, 2026, the B1 Revolving Loan Facility was available for borrowing. Subject to certain limitations, 
+the  Loan  Facilities  are  secured  on  a  first  priority  basis  granted  in  favor  of  HSBC  (as  security  agent  on  behalf 
+of  the  secured  parties)  by:  (a)  a  security  interest  in  the  equity  interests  of  a  member  of  the  Company  and  its 
+subsidiaries  and  (b)  security  interests  in,  and  mortgage  on,  the  Company’s  manufacturing  and  clinical  R&D 
+facility in New Jersey.
+
+The Company is required to satisfy certain financial and non-financial covenants under the Facilities Agreement. 
+The Company was compliant with the required covenants as of June 30, 2026.
+
+24
+
+Other Bank Loans
+
+The  following  table  summarizes  the  Company’s  working  capital  and  project  loans  as  of  June  30,  2026  and 
+December 31, 2025:
+
+Lender
+
+Borrower
+
+Term
+
+Maturity Date
+
+Note
+
+As of
+
+June 30, 
+2026
+US$’000
+
+December 31, 
+2025
+US$’000
+
+China Construction Bank
+China Merchants Bank
+China Merchants Bank
+China CITIC Bank
+China Merchants Bank
+
+BeOne Guangzhou Biologics Manufacturing Co., Ltd.
+BeOne Guangzhou Biologics Manufacturing Co., Ltd.
+BeOne Guangzhou Biologics Manufacturing Co., Ltd.
+BeOne Pharmaceutical (Suzhou) Co., Ltd.
+BeOne Guangzhou Biologics Manufacturing Co., Ltd.
+
+Total short-term debt
+
+China Construction Bank
+China Merchants Bank
+China Merchants Bank
+China CITIC Bank
+
+BeOne Guangzhou Biologics Manufacturing Co., Ltd.
+BeOne Guangzhou Biologics Manufacturing Co., Ltd.
+BeOne Guangzhou Biologics Manufacturing Co., Ltd.
+BeOne Pharmaceutical (Suzhou) Co., Ltd.
+
+9-year
+9-year
+9-year
+10-year
+1-year
+
+9-year
+9-year
+9-year
+10-year
+
+June 11, 2027
+January 20, 2029
+November 8, 2029
+July 28, 2032
+March 18, 2027
+
+June 11, 2027
+January 20, 2029
+November 8, 2029
+July 28, 2032
+
+1
+2
+3
+4
+5
+
+1
+2
+3
+4
+
+33,161
+9,264
+8,757
+9,580
+58,952
+
+119,714
+
+–
+16,212
+22,386
+54,884
+
+21,450
+8,989
+8,497
+9,294
+–
+
+48,230
+
+21,450
+20,224
+25,970
+57,900
+
+Total long-term debt
+
+93,482
+
+125,544
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+The  credit  facility  offers  a  borrowing  capacity  of  RMB580,000,000,  denominated  in  RMB,  and  bears 
+floating  interest  rates  benchmarking  RMB  loan  interest  rates  of  financial  institutions  in  the  PRC.  The 
+loan  interest  rate  was  3.8%  as  of  June  30,  2026.  The  outstanding  principal  balance  is  payable  in  semi-
+annual installments. The Company repaid US$11,080,000 (RMB75,000,000) during the six months ended 
+June  30,  2026.  The  loan  is  secured  by  BeOne  Guangzhou  Biologics  Manufacturing  Co.,  Ltd.’s  property 
+ownership certificate and fixed assets.
+
+The  credit  facility  offers  a  borrowing  capacity  of  RMB350,000,000,  denominated  in  RMB,  and  bears 
+floating  interest  rates  benchmarking  against  prevailing  interest  rates  of  financial  institutions  in  the  PRC. 
+The  loan  interest  rate  was  3.3%  as  of  June  30,  2026.  The  outstanding  principal  balance  is  payable  in 
+quarterly  installments.  The  Company  repaid  US$4,560,000  (RMB31,429,000)  during  the  six  months 
+ended June 30, 2026. The loan is secured by Guangzhou Factory’s south district land use right and certain 
+fixed assets.
+
+The  credit  facility  offers  a  borrowing  capacity  of  RMB378,000,000,  denominated  in  RMB,  and  bears 
+floating  interest  rates  benchmarking  RMB  loan  interest  rates  of  financial  institutions  in  the  PRC.  The 
+loan interest rate was 3.2% as of June 30, 2026. The outstanding principal balance is payable in quarterly 
+installments.  The  Company  repaid  US$4,343,000  (RMB29,710,000)  during  the  six  months  ended  June 
+30,  2026.  The  loan  is  secured  by  fixed  assets  placed  into  service  in  the  third  phase  of  the  Guangzhou 
+manufacturing facility’s buildout.
+
+The  credit  facility  offers  a  borrowing  capacity  of  RMB480,000,000,  denominated  in  RMB,  and  bears 
+floating interest rates benchmarking RMB loan interest rates of financial institutions in the PRC. The loan 
+interest  rate  was  3.3%  as  of  June  30,  2026.  The  outstanding  principal  balance  is  payable  in  semi-annual 
+installments. The Company repaid US$4,710,000 (RMB32,500,000) during the six months ended June 30, 
+2026.  The  loan  is  secured  by  BeOne  Pharmaceutical  (Suzhou)  Co.,  Ltd.’s  property  ownership  certificate 
+of the small molecule manufacturing campus in Suzhou, China.
+
+In  March  2026,  the  Company  entered  into  a  credit  facility  agreement  with  China  Merchants  Bank  for 
+an  aggregate  facility  of  RMB950,000,000,  denominated  in  RMB,  available  for  a  period  of  36  months 
+for  drawdown  as  revolving  and/or  one-time  borrowings.  The  Company  drew  down  US$58,204,000 
+(RMB400,000,000)  during  the  six  months  ended  June  30,  2026.  The  borrowing  bears  floating  interest 
+rates  benchmarking  RMB  loan  interest  rates  of  financial  institutions  in  the  PRC.  The  loan  interest  was 
+2.6% as of June 30, 2026.
+
+25
+
+The  Company  has  numerous  financial  and  non-financial  covenants  on  its  debt  obligations  with  the  lenders 
+above.  Some  of  these  covenants  include  default  and/or  cross-default  provisions  that  could  require  acceleration 
+of  repayment  of  loans  in  the  event  of  default.  As  of  June  30,  2026,  the  Company  was  in  compliance  with  all 
+covenants of its material debt agreements.
+
+Interest Expense
+
+Interest expense related to bank loans was as follows:
+
+Interest expense, excluding amortization of debt issuance costs
+Amortization of debt issuance costs
+Capitalized interest expense
+
+13. 
+
+Product Revenue
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+26,504
+5,243
+2,153
+
+2025
+US$’000
+
+25,009
+–
+10,013
+
+The  Company’s  product  revenue  is  primarily  derived  from  the  sale  of  its  internally  developed  products 
+BRUKINSA®  and  TEVIMBRA®  in  the  U.S.,  China,  EU,  and  other  regions;  XGEVA®,  BLINCYTO®  and 
+KYPROLIS® in China under a license from Amgen; and POBEVCY® in China under a license from Bio-Thera.
+
+The table below presents the Company’s net product revenue for the six months ended June 30, 2026 and 2025:
+
+Product revenue – gross
+Less: rebates and sales returns
+
+Product revenue – net
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+4,099,089
+(931,966)
+
+2025
+US$’000
+
+3,057,904
+(647,298)
+
+3,167,123
+
+2,410,606
+
+The  following  table  disaggregates  net  product  revenue  by  product  for  the  six  months  ended  June  30,  2026  and 
+2025:
+
+BRUKINSA®
+TEVIMBRA®
+XGEVA®
+BLINCYTO®
+KYPROLIS®
+POBEVCY®
+Other
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+2,342,483
+434,756
+194,419
+70,572
+32,118
+21,760
+71,015
+
+2025
+US$’000
+
+1,741,504
+364,688
+151,741
+49,493
+39,144
+24,987
+39,049
+
+Total product revenue – net
+
+3,167,123
+
+2,410,606
+
+26
+
+The  following  table  presents  the  roll-forward  of  accrued  revenue  rebates  and  returns  for  the  six  months  ended 
+June 30, 2026 and 2025:
+
+Balance at December 31, 2025
+Accrual
+Payments
+
+Rebates, Returns 
+and Other 
+Deductions
+US$’000
+
+398,533
+449,474
+(362,137)
+
+Contra AR 
+Accruals
+US$’000
+
+79,126
+482,492
+(499,012)
+
+Total
+
+477,659
+931,966
+(861,149)
+
+Balance at June 30, 2026
+
+485,870
+
+62,606
+
+548,476
+
+Balance at December 31, 2024
+Accrual
+Payments
+
+235,600
+283,525
+(221,808)
+
+50,699
+363,773
+(361,633)
+
+286,299
+647,298
+(583,441)
+
+Balance at June 30, 2025
+
+297,317
+
+52,839
+
+350,156
+
+14. 
+
+Income before Income Taxes
+
+The Company’s income before income taxes is derived after charging/(crediting) the following significant items 
+(among others):
+
+Cost of inventories sold
+Depreciation of property, plant and equipment
+Research and development costs (note)
+Operating lease cost
+Amortization of license rights
+Employee benefit expense (including directors’ and chief executive’s 
+
+remuneration):
+
+  Wages, salaries and other benefits
+  Share-based compensation expenses
+  Pension scheme contributions (defined contribution scheme)
+
+Foreign exchange differences, net
+Provision for expected credit losses
+Impairment of inventories
+Bank interest income
+Profit (loss) on sale of property, plant and equipment
+
+Note:
+
+Note
+
+Six Months Ended June 30,
+2025
+US$’000
+
+2026
+US$’000
+
+7
+
+8
+
+16
+
+6
+
+341,745
+78,291
+1,153,504
+12,819
+3,368
+
+329,608
+61,468
+1,006,783
+12,540
+6,950
+
+841,032
+260,815
+50,594
+
+704,137
+246,004
+44,641
+
+1,152,441
+
+994,782
+
+6,837
+37
+198
+(55,564)
+96
+
+(6,502)
+53
+8,485
+(24,342)
+(6)
+
+During  the  six  months  ended  June  30,  2026  and  2025,  research  and  development  costs  of  approximately 
+US$502,398,000 and US$432,686,000 were also included in employee benefit expense.
+
+27
+
+ 
+15.  Earnings Per Share/ADS
+
+The following table reconciles the numerator and denominator in the computations of earnings per share/ADS:
+
+Numerator:
+  Net income
+
+Denominator:
+  Weighted-average shares outstanding – basic
+  Dilutive common share equivalents
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+2025
+US$’000
+
+464,364
+
+95,590
+
+1,446,490,904
+58,898,278
+
+1,399,159,898
+55,136,577
+
+  Weighted-average shares outstanding – diluted
+
+1,505,389,182
+
+1,454,296,475
+
+  Antidilutive common share equivalents excluded from above
+
+710,393
+
+1,496,899
+
+Earnings per share (in US$):
+  Basic
+
+  Diluted
+
+Earnings per ADS (in US$):
+  Basic
+
+  Diluted
+
+0.32
+
+0.31
+
+4.17
+
+4.01
+
+0.07
+
+0.07
+
+0.89
+
+0.85
+
+For the six months ended June 30, 2026 and 2025, diluted earnings per share was computed using the weighted-
+average  number  of  ordinary  shares  and  the  effect  of  potentially  dilutive  shares  outstanding  during  the  periods. 
+Potentially  dilutive  shares  consist  of  stock  options,  restricted  stock  units,  performance  stock  units  and  ESPP 
+shares. The dilutive effect of outstanding stock options, restricted stock units, performance stock units and ESPP 
+shares is reflected in diluted net earnings per share using the treasury stock method.
+
+Each  ADS  represents  13  ordinary  shares.  Basic  and  diluted  earnings  per  ADS  was  derived  from  the  basic  and 
+diluted earnings per share, respectively.
+
+16. 
+
+Share-Based Compensation Expense
+
+Share Option, Restricted Share Units and Performance Share Units
+
+During  the  six  months  ended  June  30,  2026,  the  Company  granted  options  for  1,222,884  ordinary  shares, 
+restricted share units for 21,152,651 ordinary shares, and performance share units for 2,093,507 ordinary shares 
+under  the  Company’s  share  option  and  incentive  plan.  As  of  June  30,  2026,  options,  restricted  share  units, 
+and  performance  share  units  for  ordinary  shares  outstanding  totaled  46,769,997,  69,650,256,  and  6,530,381, 
+respectively. As of June 30, 2026, share-based awards to acquire 113,721,802 ordinary shares were available for 
+future grant under the Company’s share option and incentive plan.
+
+Employee Share Purchase Plan
+
+The  Company’s  employee  share  purchase  plan  (the  “ESPP”)  allows  eligible  employees  to  purchase  the 
+Company’s  ordinary  shares  (including  in  the  form  of  ADSs)  at  the  end  of  each  offering  period,  which  will 
+generally be six months, at a 15% discount to the market price of the Company’s ADSs at the beginning or the 
+end  of  each  offering  period,  whichever  is  lower,  using  funds  deducted  from  their  payroll  during  the  offering 
+period.  Eligible  employees  are  able  to  authorize  payroll  deductions  of  up  to  10%  of  their  eligible  earnings, 
+subject to applicable limitations.
+
+28
+
+As of June 30, 2026, 5,688,481 ordinary shares were available for future issuance under the ESPP.
+
+The following table summarizes the shares issued under the ESPP:
+
+Issuance Date
+
+February 28, 2026
+August 31, 2025
+February 28, 2025
+
+Number of 
+Ordinary 
+Shares Issued
+
+Market Price1
+ADS
+US$
+
+Ordinary
+US$
+
+741,299
+818,506
+955,396
+
+316.99
+245.53
+188.26
+
+24.38
+18.89
+14.48
+
+Purchase Price2
+
+ADS
+US$
+
+269.44
+208.70
+160.02
+
+Ordinary
+US$
+
+Proceeds
+US$000
+
+20.73
+16.05
+12.31
+
+15,364
+13,140
+11,760
+
+1 
+
+2 
+
+The market price is the lower of the closing price on the Nasdaq Stock Market on the issuance date or the 
+offering date, in accordance with the terms of the ESPP.
+
+The  purchase  price  is  the  price  which  was  discounted  from  the  applicable  market  price,  in  accordance 
+with the terms of the ESPP.
+
+Share-Based Compensation Expense
+
+The  following  table  summarizes  total  share-based  compensation  expense  recognized  for  the  six  months  ended 
+June 30, 2026 and 2025:
+
+Research and development
+Selling, general and administrative
+
+Total
+
+17.  Accumulated Other Comprehensive Loss
+
+The movement of accumulated other comprehensive loss was as follows:
+
+Six Months Ended June 30,
+
+2026
+US$’000
+
+112,392
+148,423
+
+2025
+US$’000
+
+106,159
+139,845
+
+260,815
+
+246,004
+
+Balance as of December 31, 2025
+Other comprehensive income before reclassifications
+Amounts reclassified from accumulated other
+
+ comprehensive loss
+
+Net-current period other comprehensive income
+
+Foreign 
+Currency
+Translation
+Adjustments
+US$’000
+
+Other
+Adjustments
+US$’000
+
+(66,252)
+52,351
+
+–
+
+52,351
+
+(11,932)
+114
+
+349
+
+463
+
+Total
+US$’000
+
+(78,184)
+52,465
+
+349
+
+52,814
+
+Balance as of June 30, 2026
+
+(13,901)
+
+(11,469)
+
+(25,370)
+
+29
+
+ 
+18.  Restricted Net Assets
+
+The  Company’s  ability  to  pay  dividends  may  depend  on  the  Company  receiving  distributions  of  funds  from  its 
+PRC subsidiaries. Relevant PRC statutory laws and regulations permit payments of dividends by the Company’s 
+PRC  subsidiaries  only  out  of  the  subsidiary’s  retained  earnings,  if  any,  as  determined  in  accordance  with  PRC 
+accounting standards and regulations. The results of operations reflected in the condensed consolidated financial 
+statements prepared in accordance with GAAP differ from those reflected in the statutory financial statements of 
+the Company’s PRC subsidiaries.
+
+In  accordance  with  the  company  law  of  the  PRC,  a  domestic  enterprise  is  required  to  provide  statutory 
+reserves  of  at  least  10%  of  its  annual  after-tax  profit  until  such  reserve  has  reached  50%  of  its  respective 
+registered  capital  based  on  the  enterprise’s  PRC  statutory  accounts.  A  domestic  enterprise  is  also  required  to 
+provide  discretionary  surplus  reserve,  at  the  discretion  of  the  board  of  directors,  from  the  profits  determined 
+in  accordance  with  the  enterprise’s  PRC  statutory  accounts.  The  aforementioned  reserves  can  only  be  used  for 
+specific purposes and are not distributable as cash dividends. The Company’s PRC subsidiaries were established 
+as domestic enterprises and therefore are subject to the above-mentioned restrictions on distributable profits.
+
+As  a  result  of  these  PRC  laws  and  regulations,  including  the  requirement  to  make  annual  appropriations  of 
+at  least  10%  of  after-tax  income  and  set  aside  as  general  reserve  fund  prior  to  payment  of  dividends,  the 
+Company’s  PRC  subsidiaries  are  restricted  in  their  ability  to  transfer  a  portion  of  their  net  assets  to  the 
+Company.
+
+Foreign  exchange  and  other  regulations  in  the  PRC  may  further  restrict  the  Company’s  PRC  subsidiaries  from 
+transferring  funds  to  the  Company  in  the  form  of  dividends,  loans  and  advances.  As  of  June  30,  2026  and 
+December  31,  2025,  amounts  restricted  were  the  net  assets  of  the  Company’s  PRC  subsidiaries,  which,  after 
+intercompany eliminations, amounted to US$2,134,091,000 and US$2,012,019,000, respectively.
+
+19.  Commitments and Contingencies
+
+Purchase Commitments
+
+As  of  June  30,  2026,  the  Company  had  non-cancellable  purchase  commitments  amounting  to  US$262,816,000, 
+of  which  US$22,579,000  related  to  non-utilization  fees  and  minimum  purchase  requirements  for  supply 
+purchased from contract manufacturers and US$240,237,000 related to binding purchase obligations of inventory 
+from Amgen. The Company does not have any minimum purchase requirements for inventory from Amgen.
+
+Capital Commitments
+
+The  Company  had  capital  commitments  amounting  to  US$22,245,000  for  the  acquisition  of  property,  plant  and 
+equipment as of June 30, 2026, related to various facilities across the globe.
+
+Co-Development Funding Commitment
+
+Under  the  Amgen  Collaboration  Agreement,  the  Company  is  responsible  for  co-funding  global  development 
+costs for the Amgen oncology pipeline assets up to a total cap of US$1.25 billion. The Company is funding its 
+portion of the co-development costs by contributing cash and/or development services. As of June 30, 2026, the 
+Company’s remaining co-development funding commitment was US$12,527,000.
+
+Funding Commitment
+
+The Company had committed capital related to equity investments in the amount of US$15,057,000. As of June 
+30,  2026,  the  remaining  capital  commitment  was  US$2,157,000  and  is  expected  to  be  paid  from  time  to  time 
+over the investment period.
+
+30
+
+

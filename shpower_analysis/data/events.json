@@ -1,0 +1,274 @@
+[
+ {
+  "date": "2016-12-12",
+  "category": "deal",
+  "short": "停牌后复牌",
+  "title": "停牌近 4 个月后复牌：拟以 17.7 亿美元收购 K-Electric 66.4% 股权，并发行股份及支付现金收购集团江苏电力",
+  "desc": "2016-08-24 起停牌；10-28 签署 KE 股份买卖协议，11-26 披露收购国家电投江苏电力的预案；12-12 复牌即涨停。停牌期间股价不变，复牌日的异常收益包含停牌期间的市场变动。",
+  "source": "https://static.cninfo.com.cn/finalpage/2016-12-12/1202869091.PDF"
+ },
+ {
+  "date": "2017-09-22",
+  "category": "deal",
+  "short": "江苏电力过会",
+  "title": "发行股份及支付现金收购国家电投江苏电力获证监会并购重组委审核通过，复牌",
+  "desc": "9/14–9/21 停牌审核；11 月获证监会核准，11 月底完成资产交割。",
+  "source": "https://static.cninfo.com.cn/finalpage/2017-09-22/1203994064.PDF"
+ },
+ {
+  "date": "2019-01-14",
+  "category": "earnings",
+  "short": "18年预增",
+  "title": "2018 年业绩预增公告",
+  "desc": "1/12（周六）公告，反应日为 1/14。",
+  "source": "https://static.cninfo.com.cn/finalpage/2019-01-12/1205765925.PDF"
+ },
+ {
+  "date": "2021-05-31",
+  "category": "financing",
+  "short": "定增预案",
+  "title": "非公开发行预案：向国家电投、长江电力募资不超过 22.31 亿元",
+  "desc": "5/29（周六）公告，募资投向盐城滨海南 H3#、如东 H4# 海上风电等项目。",
+  "source": "https://static.cninfo.com.cn/finalpage/2021-05-29/1210122986.PDF"
+ },
+ {
+  "date": "2021-09-24",
+  "category": "sector",
+  "short": "限电潮涨停",
+  "title": "多地限电、电价上浮预期升温，电力股涨停潮，上海电力连续涨停",
+  "desc": "9/23、9/24 两个交易日涨停，公司发布股票交易异常波动公告，称无应披露未披露事项。",
+  "source": "https://static.cninfo.com.cn/finalpage/2021-09-24/1211136169.PDF"
+ },
+ {
+  "date": "2021-10-12",
+  "category": "policy",
+  "short": "1439号文",
+  "title": "国家发改委 1439 号文：燃煤发电电量全部进入市场，交易电价浮动范围扩大至 ±20%",
+  "desc": "10/12 发布；随后 10/13 电力股集体回落，上海电力跌停。",
+  "source": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202110/t20211012_1299461.html"
+ },
+ {
+  "date": "2021-10-14",
+  "category": "earnings",
+  "short": "21Q3预减",
+  "title": "2021 年前三季度业绩预减公告（煤价大涨）",
+  "desc": "煤价上涨导致火电成本大增。",
+  "source": "https://static.cninfo.com.cn/finalpage/2021-10-14/1211252999.PDF"
+ },
+ {
+  "date": "2021-12-29",
+  "category": "financing",
+  "short": "长电退出认购",
+  "title": "终止与长江电力的股份认购协议，定增方案二次修订",
+  "desc": "2022 年最终发行仅由国家电投认购；当日跌停。",
+  "source": "https://static.cninfo.com.cn/finalpage/2021-12-29/1212045877.PDF"
+ },
+ {
+  "date": "2022-01-10",
+  "category": "earnings",
+  "short": "21年预亏",
+  "title": "2021 年业绩预亏：归母净利润预计亏损 17.85 亿至 19.85 亿元",
+  "desc": "1/8（周六）公告；公司称全年燃料成本增加约 53 亿元。",
+  "source": "https://static.cninfo.com.cn/finalpage/2022-01-08/1212120117.PDF"
+ },
+ {
+  "date": "2022-07-29",
+  "category": "financing",
+  "short": "定增完成",
+  "title": "非公开发行完成：国家电投以 6.17 元/股认购 1.996 亿股（锁定 36 个月）",
+  "desc": "募资约 12.3 亿元。",
+  "source": "https://static.cninfo.com.cn/finalpage/2022-07-29/1214156292.PDF"
+ },
+ {
+  "date": "2023-01-13",
+  "category": "earnings",
+  "short": "22年扭亏",
+  "title": "2022 年业绩预告：预计归母净利润 3.01 亿至 3.53 亿元，扭亏为盈",
+  "desc": "扭亏主要来自境外项目（土耳其煤电投产）和清洁能源。",
+  "source": "https://static.cninfo.com.cn/finalpage/2023-01-13/1215589622.PDF"
+ },
+ {
+  "date": "2023-09-29",
+  "category": "operations",
+  "short": "漕泾二期核准",
+  "title": "漕泾综合能源中心二期 2×100 万千瓦获上海市发改委核准；闵行 H 级燃机投产",
+  "desc": "漕泾二期预算 92.85 亿元。",
+  "source": "https://static.cninfo.com.cn/finalpage/2023-09-29/1217983964.PDF"
+ },
+ {
+  "date": "2024-01-22",
+  "category": "earnings",
+  "short": "23年预增",
+  "title": "2023 年业绩预增：归母净利润预计 13.75 亿至 16.36 亿元（+328%～+410%）",
+  "desc": "1/20（周六）公告；煤电边际收益改善。",
+  "source": "https://static.cninfo.com.cn/finalpage/2024-01-20/1218956986.PDF"
+ },
+ {
+  "date": "2024-03-07",
+  "category": "earnings",
+  "short": "23年快报",
+  "title": "2023 年业绩快报（归母净利润 15.93 亿元）及“提质增效重回报”方案",
+  "desc": "",
+  "source": "https://static.cninfo.com.cn/finalpage/2024-03-07/1219251379.PDF"
+ },
+ {
+  "date": "2025-01-20",
+  "category": "earnings",
+  "short": "24年预增",
+  "title": "2024 年业绩预增公告",
+  "desc": "1/18（周六）公告；2024 年归母净利润 20.46 亿元（+28.5%）。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-01-18/1222365089.PDF"
+ },
+ {
+  "date": "2025-07-14",
+  "category": "earnings",
+  "short": "25H1预增",
+  "title": "2025 年半年度业绩预增公告",
+  "desc": "上半年归母净利润 19.09 亿元（+43.9%）。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-07-14/1224157882.PDF"
+ },
+ {
+  "date": "2025-07-30",
+  "category": "strategic",
+  "short": "“电投国际”",
+  "title": "7 月底，国家电投在公开信息中首次把上海电力称为“电投国际”，市场开始预期集团海外资产注入",
+  "desc": "日期按“7 月底”取 7/30；据澎湃新闻，此后两个月股价累计上涨超过 130%。集团从未公布注入方案。",
+  "source": "https://www.thepaper.cn/newsDetail_forward_31620935"
+ },
+ {
+  "date": "2025-08-15",
+  "category": "strategic",
+  "short": "注入预期发酵",
+  "title": "海外资产注入预期发酵，8/15、8/18 连续涨停",
+  "desc": "公司未发布相关公告；8/20、9/3 两次发布异常波动公告，称不存在应披露未披露的重大事项。",
+  "source": "https://www.thepaper.cn/newsDetail_forward_31620935"
+ },
+ {
+  "date": "2025-08-29",
+  "category": "earnings",
+  "short": "25年中报",
+  "title": "2025 年半年报：归母净利润 19.09 亿元（+43.9%）",
+  "desc": "",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224607124.PDF"
+ },
+ {
+  "date": "2025-09-10",
+  "category": "deal",
+  "short": "终止收购KE",
+  "title": "终止收购巴基斯坦 K-Electric 66.4% 股权（历时 9 年）",
+  "desc": "9/9 晚公告：交易对方未能满足交割先决条件，巴基斯坦营商环境变化；当日跌停，次日反弹 5.9%。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-09-10/1224648490.PDF"
+ },
+ {
+  "date": "2025-10-13",
+  "category": "strategic",
+  "short": "估值风险提示",
+  "title": "异常波动公告：无重组事项，市净率 3.43 倍、行业 1.82 倍，提示估值风险",
+  "desc": "10/10（周五）晚公告，反应日 10/13；此后股价仍在 10 月下旬创出新高。",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-10-11/1224705489.PDF"
+ },
+ {
+  "date": "2025-10-30",
+  "category": "earnings",
+  "short": "25年三季报",
+  "title": "2025 年三季报：前三季度归母净利润 30.50 亿元",
+  "desc": "",
+  "source": "https://static.cninfo.com.cn/finalpage/2025-10-30/1224766698.PDF"
+ },
+ {
+  "date": "2026-01-06",
+  "category": "strategic",
+  "short": "托管中电国际",
+  "title": "为中电国际约 982.75 万千瓦境外资产提供管理服务（托管，不并表）",
+  "desc": "服务期 2026–2028 年，费用约 6,543 万元/年，对托管公司有优先购买权；注入变为托管。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-01-06/1224920474.PDF"
+ },
+ {
+  "date": "2026-01-30",
+  "category": "policy",
+  "short": "容量电价50%",
+  "title": "发改委、能源局完善发电侧容量电价机制：煤电容量电价回收固定成本比例提高到不低于 50%",
+  "desc": "发改价格〔2026〕114 号；2024–2025 年约为 30%。",
+  "source": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202601/t20260130_1403524.html"
+ },
+ {
+  "date": "2026-02-02",
+  "category": "earnings",
+  "short": "25年预告",
+  "title": "2025 年业绩预告：归母净利润预计 25.11 亿至 29.88 亿元",
+  "desc": "1/31（周六）公告。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-01-31/1224958698.PDF"
+ },
+ {
+  "date": "2026-03-05",
+  "category": "operations",
+  "short": "海风核准",
+  "title": "江苏滨海南区 H5#（40 万千瓦）、东台 H7#（20 万千瓦）海上风电项目获核准",
+  "desc": "",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-03-05/1224996019.PDF"
+ },
+ {
+  "date": "2026-03-16",
+  "category": "strategic",
+  "short": "托管黄河境外",
+  "title": "为黄河公司约 121.01 万千瓦权益装机的境外资产提供管理服务",
+  "desc": "3/14（周六）公告；同日发布终止 KE 收购的进展公告。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-03-14/1225008686.PDF"
+ },
+ {
+  "date": "2026-04-14",
+  "category": "earnings",
+  "short": "25年报",
+  "title": "2025 年年报：归母净利润 27.67 亿元（+35.3%），每股派息 0.37 元",
+  "desc": "同时提请授权 2026 年中期分红。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-04-14/1225098781.PDF"
+ },
+ {
+  "date": "2026-04-28",
+  "category": "earnings",
+  "short": "26Q1",
+  "title": "2026 年一季报：归母净利润 5.67 亿元（−31.6%）",
+  "desc": "一季度发电量 −4.6%，上网电价 0.54 元/千瓦时（上年同期 0.59）。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225201527.PDF"
+ },
+ {
+  "date": "2026-05-19",
+  "category": "policy",
+  "short": "算电协同涨停",
+  "title": "“算电协同”政策与上海绿电基地规划带动电力股大涨，上海电力涨停",
+  "desc": "四部门文件把绿电使用比例作为算力设施布局的参考指标；同日上海提出打造 4 个千万千瓦级绿电基地。",
+  "source": "https://stock.10jqka.com.cn/20260519/c676794917.shtml"
+ },
+ {
+  "date": "2026-07-14",
+  "category": "operations",
+  "short": "滨海5号机",
+  "title": "国电投滨海 2×100 万千瓦扩建项目 5 号机组投产（6 号机组 8 月投产）",
+  "desc": "",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-07-14/1225421986.PDF"
+ },
+ {
+  "date": "2026-07-17",
+  "category": "sector",
+  "short": "负荷创新高",
+  "title": "全国用电负荷创历史新高，电力板块异动拉升",
+  "desc": "7/10 全国最大用电负荷首次突破 15 亿千瓦；7/21 公司发布异常波动公告。",
+  "source": "https://news.10jqka.com.cn/20260717/c678245472.shtml"
+ },
+ {
+  "date": "2026-08-31",
+  "category": "earnings",
+  "short": "26年中报",
+  "title": "2026 年半年报：归母净利润 10.01 亿元（−47.6%）",
+  "desc": "8/29（周六）公告；售电量减少、上网电价下降。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531518.PDF"
+ },
+ {
+  "date": "2026-11-02",
+  "category": "earnings",
+  "short": "26年三季报",
+  "title": "2026 年三季报：第三季度归母净利润 0.13 亿元（−98.8%）",
+  "desc": "10/30（周五）晚公告；电价下降、燃料成本上升、境外所得税增加。",
+  "source": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225648194.PDF"
+ }
+]

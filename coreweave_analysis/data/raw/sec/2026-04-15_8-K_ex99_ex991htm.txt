@@ -1,0 +1,39 @@
+
+
+EX-99.1
+
+2
+
+ex991.htm
+
+EX-99.1
+
+Document
+ EXHIBIT 99.1
+JANE STREET SIGNS $6 BILLION AI CLOUD AGREEMENT WITH COREWEAVE 
+
+Jane Street will invest $6B in CoreWeave’s AI cloud and $1B in equity, expanding their partnership to power large-scale machine learning and trading.
+
+LIVINGSTON, N.J. and NEW YORK — April 15, 2026 —
+ CoreWeave, Inc. (Nasdaq: CRWV), the Essential Cloud for AI™, and Jane Street, a global technology-driven trading firm, today announced that Jane Street has committed approximately $6 billion to use CoreWeave’s AI cloud platform.
+Under the new commitment which expands the existing relationship between the companies, CoreWeave will provide Jane Street with access to next-generation compute  across multiple facilities, including NVIDIA’s Vera Rubin technology and the software and services required to deploy and scale its AI solutions.
+Jane Street has also made an equity investment of $1 billion in CoreWeave Class A common stock at a purchase price of $109.00 per share. Taken together, the commitment and investment reflect Jane Street’s continued focus on applying machine learning across its business and scaling those efforts over time.
+
+“We are deeply committed to investing in cutting-edge technologies that support our research in global financial markets, training large, complex models on massive volumes of noisy data, refining them continuously, and deploying at a scale to help make markets more efficient,” 
+said Jane Street. 
+“Access to CoreWeave’s leading AI cloud platform, enables our researchers to move at the pace our competitive business demands.” 
+
+“Jane Street operates like a frontier lab, continually  breaking new ground in deep learning and pushing the scale and complexity of their models,” said Max Hjelm, Senior Vice President of Revenue at CoreWeave. “CoreWeave was built for this purpose and we’re excited to expand our collaboration with Jane Street.”
+
+CoreWeave was selected for its ability to combine high-performance compute with its integrated software layer that enables systems to operate efficiently and consistently in real-world conditions. CoreWeave Cloud is tailored  to the specific 
+requirements of Jane Street’s research operations, including dedicated connectivity, custom storage configurations, and responsive technical support. 
+###
+About CoreWeave
+CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to move at the pace of innovation, building and scaling AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave serves as a force multiplier by combining superior infrastructure performance with deep technical expertise to accelerate breakthroughs. Established in 2017, CoreWeave completed its public listing on Nasdaq (CRWV) in March 2025. Learn more at www.coreweave.com.
+About Jane Street
+Jane Street is a global technology-driven trading firm. Founded in 2000, the firm brings a research-driven approach and quantitative expertise to markets worldwide, with over 3,500 employees across offices in New York, London, Hong Kong, Singapore, and Amsterdam. If you're interested in using large-scale compute to solve hard problems that matter, visit 
+janestreet.com/join-jane-street/machine-learning/
+.
+press@coreweave.com
+media@janestreet.com
+

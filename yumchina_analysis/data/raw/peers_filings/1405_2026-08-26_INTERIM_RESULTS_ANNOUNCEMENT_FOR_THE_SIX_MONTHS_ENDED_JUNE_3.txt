@@ -1,0 +1,1494 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the
+contents of this announcement.
+
+
+
+
+                                           DPC Dash Ltd
+                                          達勢股份有限公司
+                           (incorporated in the British Virgin Islands with limited liability)
+                                                (Stock code: 1405)
+
+                        INTERIM RESULTS ANNOUNCEMENT
+                      FOR THE SIX MONTHS ENDED JUNE 30, 2026
+The board (the “Board”) of directors (the “Directors”, and each a “Director”) of DPC Dash Ltd
+(the “Company”, together with its subsidiaries, the “Group”) is pleased to announce the unaudited
+interim condensed consolidated results of the Group for the six months ended June 30, 2026 (the
+“ Reporting Period ” ). The interim condensed consolidated financial information is unaudited
+but has been reviewed by the Company’s audit and risk committee and the Company’s auditors,
+PricewaterhouseCoopers, in accordance with International Standard on Review Engagements 2410
+“Review of interim financial information performed by the independent auditor of the entity”
+issued by the International Auditing and Assurance Standards Board.
+
+ KEY HIGHLIGHTS
+
+                                                                      Six months ended June 30,
+                                                                                             change (%)/
+                                                                                              percentage
+                                                                      2026          2025 points change
+                                                                (RMB ’000)   (RMB ’000)
+                                                                (Unaudited)   (Unaudited)
+
+
+ Revenue                                                           3,133,808            2,593,390            20.8%
+ Store-level operating profit(1)                                     390,350              379,188             2.9%
+ Store-level operating profit margin(2)                               12.5%                14.6%               -2.1
+ Profit before income tax                                            116,176              110,097             5.5%
+ Profit for the period attributable to owners of
+   the Company                                                         81,045               65,924           22.9%
+ Basic Profit per share (RMB)                                            0.62                 0.50           24.0%
+ Diluted Profit per share (RMB)                                          0.61                 0.49           24.5%
+
+ Non-IFRS Measures
+ Store-level EBITDA(3)                                                544,452             502,818             8.3%
+ Store-level EBITDA margin (%)(4)                                      17.4%               19.4%               -2.0
+ Adjusted EBITDA(5)                                                   350,675             322,877             8.6%
+ Adjusted EBITDA margin (%)(6)                                         11.2%               12.4%               -1.2
+ Adjusted Net Profit (7)                                               98,153              91,420             7.4%
+ Adjusted Net Profit margin (%)(8)                                      3.1%                3.5%               -0.4
+
+                                                            1
+Notes:
+
+(1)      Store-level operating profit represents revenue less operational costs incurred at the store level, comprising
+         salary-based expense, raw materials and consumables cost, depreciation of right-of-use assets, depreciation
+         of plant and equipment, amortization of intangible assets, variable lease rental payment and short-term rental
+         expenses, utilities expenses, advertising and promotion expenses, store operating and maintenance expenses
+         and other expenses.
+
+(2)      Store-level operating profit margin is calculated by dividing store-level operating profit by revenue for the
+         same period.
+
+(3)      “Store-level EBITDA” is defined as store-level operating profit for the period and adding back depreciation
+         of plant and equipment and amortization of intangible assets in store-level.
+
+(4)      “Store-level EBITDA margin” is calculated by dividing Store-level EBITDA by revenue for the same period.
+
+(5)      “Adjusted EBITDA” is defined as Adjusted Net Profit for the period and adding back depreciation and
+         amortization (excluding depreciation of right-of-use assets), income tax expense and interest income and
+         expenses, net.
+
+(6)      “Adjusted EBITDA margin” is calculated by dividing Adjusted EBITDA by revenue for the same period.
+
+(7)      “Adjusted Net Profit” is defined as profit for the period and adding back share-based compensation.
+
+(8)      “Adjusted Net Profit margin” is calculated by dividing Adjusted Net Profit by revenue for the same period.
+
+Non-IFRS Measures
+
+To supplement the Group’s consolidated financial statements that are presented in accordance
+with the International Financial Reporting Standards (“IFRS”), we also use Adjusted Net Profit
+(non-IFRS measure), Adjusted Net Profit margin (non-IFRS measure), Adjusted EBITDA
+(non-IFRS measure), Adjusted EBITDA margin (non-IFRS measure), Store-level EBITDA
+(non-IFRS measure) and Store-level EBITDA margin (non-IFRS measure) as additional financial
+measures, which are not required by, or presented in accordance with, IFRS. We believe that
+these non-IFRS measures facilitate comparisons of operating performance from period to period
+and company to company. We believe that these measures provide useful information to investors
+and others in understanding and evaluating our results of operations in the same manner as they
+help our management. However, our presentation of Adjusted Net Profit (non-IFRS measure),
+Adjusted Net Profit margin (non-IFRS measure), Adjusted EBITDA (non-IFRS measure),
+Adjusted EBITDA margin (non-IFRS measure), Store-level EBITDA (non-IFRS measure) and
+Store-level EBITDA margin (non-IFRS measure) may not be comparable to similarly titled
+measures presented by other companies. The use of such non-IFRS measures has limitations
+as an analytical tool, and you should not consider them in isolation from, or as substitute for
+analysis of, our results of operations or financial condition as reported under IFRS.
+
+
+
+
+                                                           2
+BUSINESS HIGHLIGHTS
+
+We are pleased to announce the key operating metrics, as set forth below, in relation to the
+Group’s business for the six months ended June 30, 2026 (as compared with the six months
+ended June 30, 2025 and the year ended December 31, 2025):
+
+Store counts
+
+                                                       As of       As of              As of
+                                                    June 30, December 31,          June 30,
+                                                       2026         2025              2025
+
+Tier 1 City markets                                      532            517             515
+Non-Tier 1 City markets                                1,018            798             683
+
+Total                                                  1,550           1,315          1,198
+
+Initial City markets(1)                                  903            867             841
+New City markets(1)                                      647            448             357
+
+Total                                                  1,550           1,315          1,198
+
+Number of cities entered
+
+                                                       As of       As of              As of
+                                                    June 30, December 31,          June 30,
+                                                       2026         2025              2025
+
+Number of cities entered                                  75              60             48
+
+Same-store Performance
+
+                                                         Six            Six             Six
+                                                     months         months          months
+                                                      ended          ended           ended
+                                                    June 30,      December         June 30,
+                                                       2026        31, 2025           2025
+
+Same-store Transaction Count Growth
+  (“SSTG”)(2)                                          7.1%            8.4%            3.9%
+  SSTG – Initial City markets                          8.5%           12.0%            6.8%
+  SSTG – New City markets                              2.2%           -7.9%          -19.1%
+
+Same-store Sales Growth (“SSSG”)(3)                   -4.8%           -1.9%           -1.0%
+  SSSG – Initial City markets(1)                      -3.5%            0.5%            1.1%
+  SSSG – New City markets(1)                          -9.4%          -13.2%          -19.6%
+
+
+
+
+                                             3
+                                                               Six months    Six months               Six months
+                                                                    ended         ended                    ended
+                                                                  June 30, December 31,                  June 30,
+                                                                     2026          2025                     2025
+
+Average Transaction Price (ATP)                                         72.9               74.9                80.7
+
+Loyalty membership numbers
+
+                                                                      As of       As of                     As of
+                                                                   June 30, December 31,                 June 30,
+                                                                      2026         2025                     2025
+
+Loyalty membership numbers (million)                                    41.9               35.6                30.1
+
+Notes:
+
+(1)      Initial City markets are the markets we entered before the end of 2022, including Beijing, Shanghai,
+         Shenzhen, Guangzhou, Tianjin, Hangzhou, Nanjing, Suzhou, Wuxi, Ningbo, Dongguan, Foshan, Zhongshan
+         and Zhuhai. New City markets are the markets we entered in 2023 and onwards. Wuhan and Jinan, although,
+         the first stores were opened in late December 2022, they are grouped into New City markets. New City
+         markets include Wuhan, Jinan, Chengdu, Qingdao, Wenzhou, Changzhou, Jiaxing, Changsha, Nantong,
+         Yangzhou, Hefei, Tangshan, Xi’an, Xiamen, Fuzhou, Jiangmen, Taizhou (台州), Jinhua, Huizhou, Shenyang,
+         Chongqing, Taizhou (泰州), Zhengzhou, Shaoxing, Nanning, Zhangzhou, Quanzhou, Zhanjiang, Nanchang,
+         Shijiazhuang, Yantai, Shantou, Zhenjiang, Langfang, Handan, Yichang, Liuzhou, Xuzhou, Yancheng,
+         Luzhou, Haikou, Wuhu, Putian, Huaian, Huhehaote, Huzhou, Kunming, Guiyang, Weifang, Dalian, Taiyuan,
+         Changchun, Jieyang, Mianyang, Xiangyang, Luoyang, Sanya, Hengyang, Yibing, Guilin and Lianyungang.
+
+(2)      SSTG compares the transaction counts generated by same stores during the relevant period year-on-year: the
+         SSTG for the six months ended June 30, 2026 compares the same-store transaction counts of the six months
+         ended June 30, 2026 and that of the six months ended June 30, 2025; the SSTG for the six months ended
+         December 31, 2025 compares the same-store transaction counts of the six months ended December 31, 2025
+         and that of the six months ended December 31, 2024; and the SSTG for the six months ended June 30, 2025
+         compares the same-store transaction counts of the six months ended June 30, 2025 and that of the six months
+         ended June 30, 2024.
+
+(3)      SSSG compares the sales generated by same stores during the relevant period year-on-year: the SSSG for the
+         six months ended June 30, 2026 compares the same-store sales of the six months ended June 30, 2026 and
+         that of the six months ended June 30, 2025; the SSSG for the six months ended December 31, 2025 compares
+         the same-store sales of the six months ended December 31, 2025 and that of the six months ended December
+         31, 2024; and the SSSG for the six months ended June 30, 2025 compares the same-store sales of the six
+         months ended June 30, 2025 and that of the six months ended June 30, 2024.
+
+
+
+
+                                                          4
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+We are Domino’s Pizza’s exclusive master franchisee in the Chinese mainland, the Hong Kong
+Special Administrative Region of China and the Macau Special Administrative Region of China.
+As of June 30, 2026, we directly operated 1,550 stores across 75 cities in the Chinese mainland.
+Our global franchisor, Domino’s Pizza, Inc., is one of the world’s largest pizza companies, with
+more than 22,500 stores in over 90 markets around the world as at the end of the Reporting Period.
+
+Business Review for the Six Months Ended June 30, 2026
+
+During the first six months of 2026, we generated a total revenue of RMB3,133.8 million,
+representing a 20.8% year-over-year growth as compared with the revenue of RMB2,593.4 million
+during the same period of 2025, reflecting strong growth of transaction volumes, partially offset by
+lower realized transaction prices.
+
+During the first six months of 2026, our transaction volume increased by 33.7% year-over-year
+as compared to the same period in 2025. This was primarily attributable to our continued national
+store network expansion. During the first six months of 2026, we had a net store count growth
+of 235 and ended the period with a total network of 1,550 stores across 75 cities in the Chinese
+mainland. In addition, our same-store transaction volumes increased by 7.1%.
+
+During the first six months of 2026, our average daily sales per store (“ADS”) declined by 8.4%,
+primarily due to lower realized average transaction prices (“ATP”). Our ATP declined by 9.6%
+in the first six months of 2026. Heavy subsidies offered to consumers by third-party aggregator
+platforms’ (“3PP”) campaigns from mid-2025 contributed to the growth of delivery volumes in
+the industry broadly and our delivery order volumes specifically. It also led to our customers more
+frequently placing orders via 3PP instead of our own online channel. These factors led to a lower
+realized ATP since the start of the 3PP campaigns.
+
+Our ADS was also impacted by the effects of the expansion of our stores into new markets. We
+have been expanding the Domino’s Pizza store footprint in the Chinese mainland substantially in
+recent years. Many of our stores opened in new markets have delivered very strong transaction
+volumes and revenues during the initial months of operations and are ranked as the top performing
+stores globally within the Domino’s Pizza system. As transaction volumes at such stores normalize
+over time, it has created headwinds for year-over-year comparisons and for same-store-sales
+growth (“SSSG”) when they enter the SSSG cycle.
+
+
+
+
+                                                 5
+The following table sets out the average daily orders per store (“ADTC”) for our initial cities and
+new cities as well as the Group.
+
+                                                                   Six months         Six months          Six months
+                                                                        ended              ended               ended
+                                                                          June         December                  June
+ADTC                                                                  30, 2026           31, 2025            30, 2025
+
+Initial City markets                                                        149                 152                 141
+New City markets                                                            183                 177                 216
+Group                                                                       162                 160                 160
+
+Note:
+
+(1)     Average daily orders per store is calculated by dividing the transaction counts generated from the relevant store
+        for a particular period by the aggregate number of days of operation of such store during the same period.
+
+ADTC in our initial cities increased in the first six months of 2026 as compared to the same
+period of 2025, reflecting the continued stickiness of our delivery service after the 3PP campaign
+in 2H2025 and our marketing and promotion efforts including combo meal programs, product
+innovation, IP collaboration promotions, helped by media efficiency and enhanced branding
+communication, partially offset by the initial reduction of subsidies by 3PP during the first half of
+2026.
+
+ADTC in our new cities decreased in the first six months of 2026 as compared to the same period
+of 2025, reflecting the normalization after initial high volumes at launch. We launched delivery
+services in various new cities and started to include stores in the value promotion programs from
+the second half of 2025. These initiatives helped grow the transaction volumes and partially offset
+the normalization impact from second half of 2025 to first half of 2026.
+
+The following table sets out the ADS for our initial cities and new cities as well as the Group.
+
+                                                                   Six months         Six months          Six months
+                                                                        ended              ended               ended
+                                                                          June         December                  June
+ADS                                                                   30, 2026           31, 2025            30, 2025
+
+Initial City markets                                                     10,702             11,284              11,358
+New City markets                                                         13,590             13,519              17,438
+Group                                                                    11,833             12,007              12,915
+
+Note:
+
+(1)     Average daily sales per store is calculated by dividing the revenues generated from the relevant store for a
+        particular period by the aggregate number of days of operation of such store during the same period.
+
+
+
+
+                                                            6
+Same-Store Performance:
+
+The table below sets out the half-year same store transaction counts growth (“SSTG”) and SSSG
+for our Initial City markets, New City markets and the Group.
+
+                                                     Six months      Six months      Six months
+                                                          ended           ended           ended
+                                                            June      December              June
+SSTG                                                    30, 2026        31, 2025        30, 2025
+
+Group                                                      7.1%            8.4%            3.9%
+Initial City markets                                       8.5%           12.0%            6.8%
+New City markets                                           2.2%           -7.9%          -19.1%
+
+                                                     Six months      Six months      Six months
+                                                          ended           ended           ended
+                                                            June      December              June
+SSSG                                                    30, 2026        31, 2025        30, 2025
+
+Group                                                     -4.8%           -1.9%           -1.0%
+Initial City markets                                      -3.5%            0.5%            1.1%
+New City markets                                          -9.4%          -13.2%          -19.6%
+
+We continued to expand our stores into new markets. During the first half of 2026, we entered
+27 new cities and a total of 93 new stores (including the 12 new stores opened in late 2025).
+These new stores continued to make impressive sales with an ADS of RMB28,230 during the first
+half of 2026 and the weighted average expected payback period of 14.8 months. The high sales
+performance in these stores and new markets continued to reflect the strength of Domino’s Pizza
+brand name.
+
+We continue to innovate our product and collaborate with popular IP to engage with our customers.
+For example, we launched the Crispy Croissant Crust, American Inspired Pulled BBQ Pork Pizza,
+football-themed Mexican Inspired Salsa Roast Chicken and Beef Rectangular Pizza, and the new
+“Energy Bowl” series, providing customers with a broader range of dining choices and enhancing
+their overall dining experience. We collaborated with the game Arknights in May 2026 to drive
+sales and engage with more young customers.
+
+During the Reporting period, we continue to roll out our delivery service in our new markets and
+enhance our delivery service quality across the market. Our “Delivery-On-Time” (“DOT”) rate
+remained at 93.6%. Our delivery sales contribution rate increased significantly in the new city
+markets, reaching 25% during the first half of 2026.
+
+
+
+
+                                               7
+Our loyalty program had 41.9 million members as of June 30, 2026, compared to 30.1 million as
+of June 30, 2025. Over the past 12 months, 18.1 million new customers placed their first orders,
+demonstrating the Company’s effective approach to recruiting new customers. The rapid store
+network expansion coupled with rapid growth in digital adoption have enabled us to significantly
+broaden our customer base while simultaneously deepening its understanding of consumer
+preferences. Our loyalty members contributed 60.1% of our total revenue during the first half of
+2026, decreased from 66.0% during the same period of 2025. The decline is primarily due to heavy
+subsidies on 3PP which attracted our customers in order placing. Despite this temporary shift, we
+continue to see great opportunities in attracting new customers and recruiting more members to our
+loyalty program and provide tailor-made member benefits to maintain and increase the stickiness
+of our customers.
+
+On August 21, 2026, our Wuhan Supply Chain Centre (“SCC”) commenced operation. It is our
+fourth SCC and has a production capacity to support over 200 stores. The Wuhan SCC will service
+our stores in Wuhan and surrounding areas which are currently supported by our Shanghai SCC,
+Beijing SCC and Dongguan SCC jointly. This operation will help optimize the logistics costs for
+dough delivery. We will continue to invest in SCCs to improve our dough production capacity and
+logistic network as we further roll out our store network. We have secured locations for our SCCs
+in Chengdu and Nanjing, with target operation commencement in the second half of 2027.
+
+Our Store-level EBITDA increased by 8.3% year-over-year from RMB502.8 million in the first
+half of 2025 to RMB544.5 million for the Reporting Period, and the Store-level EBITDA margin
+declined to 17.4% for the Reporting Period as compared with 19.4% for the same period of 2025.
+Our store-level operating profit increased by 2.9% year-over-year from RMB379.2 million in the
+first half of 2025 to RMB390.4 million for the Reporting Period. The store-level operating profit
+margin declined to 12.5% for the Reporting Period as compared with 14.6% for the same period
+of 2025. This primarily reflected lower ATP as well as the increasing delivery sales percentage,
+partially offset by the results of our cost reduction initiatives.
+
+Total cost charges at the Group level, including corporate level cash-based labour cost;
+depreciation and amortization, and corporate general administrative expense, decreased from
+8.1% of total revenue to 7.5% of total revenue, a 0.6% improvement as corporate level efficiency
+further unfolds. The Group’s Adjusted EBITDA increased by 8.6% year-over-year from RMB322.9
+million in the first half of 2025 to RMB350.7 million for the Reporting Period, with respective
+margin movement from 12.4% to 11.2%. Accordingly, our Adjusted Net Profit increased by
+7.4% year-over-year from RMB91.4 million in the first half of 2025 to RMB98.2 million for the
+Reporting Period, with respective margin moving down from 3.5% to 3.1%.
+
+Business Outlook
+
+We plan to open approximately 350 stores in 2026, net of store closures. During the first half of
+2026, we have a net opening of 235 new stores. As of 14 August, 2026, we have opened additional
+27 stores, with 38 stores under construction and 36 stores signed or approved, well on track to
+deliver the 2026 full year opening target.
+
+
+
+
+                                                8
+Looking ahead, we will continue to expand our store network and revenue base, given the
+substantial growth opportunities in the Chinese pizza market. The number of pizza stores per
+million population in China is estimated at 13.9, whereas Domino’s store density in China stands
+at only 1.1 stores per million population. As of June 30, 2026, across the 75 cities where we have
+a presence, Domino’s store density reached an aggregate average of approximately 2.5 stores
+per million population. These metrics demonstrate considerable growth potential, covering both
+untapped new cities and our existing operational markets.
+
+New store openings will remain an important growth driver for our business. In addition, we will
+target sales improvement at existing outlets.
+
+The gradual reduction of 3PP subsidies and the optimization of our channel mix are expected to
+lead to structural improvement of ATP over time. We will also advance a series of operational
+initiatives to drive consistent growth in transaction volume and ATP, and deliver sustainable sales
+expansion across our entire store network.
+
+In our initial city markets, we will explore further in our channel optimization effort. Notably,
+delivery orders placed via our proprietary channels, including our official mobile app and WeChat
+mini-program, have consistently maintained an ATP above RMB90 over the past several years,
+representing our highest-value customer base. Through developing differentiated operational
+strategies for different sales channels, supported by our loyalty membership program, we aim to
+migrate more users to our proprietary channels and enhance long-term customer stickiness, with
+an aim to gradually increase the ATP. Across our own channels, we will continue to iterate our
+combo meal portfolio with diverse offerings and enhanced embedded value to enrich customer
+choices. Leveraging our proven product innovation capabilities, we will launch new iterations
+of pizzas, crusts, side dishes and beverages. This balanced product renewal and upgrade strategy
+will strengthen our core product competitiveness and boost customer revisit rates and hence the
+transaction volume.
+
+In our new city markets, in addition to ATP and volume improvement efforts through channel
+optimization, product innovation, and combo meal offering, we will also continue to roll out our
+delivery service. The delivery penetration currently stands at only around 25% for stores in new
+cities, presenting substantial upside potential. We will further scale up delivery operations in
+these markets to drive order volume growth, while sustaining high service quality to solidify our
+premium delivery brand positioning and strengthen customer mindshare and stickiness over time.
+Apart from delivery penetration, we will also roll out the dine-in experience upgrade effort at our
+stores in lower-tier cities to better cater to local consumer preferences and drive sales.
+
+In parallel with revenue expansion, we will consistently enhance cost efficiency to drive margin
+improvement. Scaling effects will unlock multiple efficiency gains, including better food and
+packaging costs through larger procurement volumes and supplier optimization, improved
+marketing efficiency and greater leverage of headquarters overhead. As delivery volume increases,
+we will also optimize store-level staffing and labour structure to improve delivery cost efficiency.
+In addition, we aim to lower new-store capital expenditure to improve cash payback cycles. Our
+average capital expenditure for a new store, excluding landlord rental deposits and relevant taxes,
+is approximately RMB1.3 million per store.
+
+
+
+
+                                                 9
+To fortify our long-term competitive moat, we will sustain targeted investments over the next two
+years in supply chain centers and logistics networks, brand building, and digital infrastructure.
+The cost-efficiency dividends from these investments will be realized progressively over time.
+Our fourth SCC in Wuhan will serve local stores and surrounding regions, alleviating operational
+pressure on our three existing SCCs. We have also secured site locations for new SCCs in Chengdu
+and Nanjing, with both facilities scheduled to commence operations in the second half of 2027.
+As our national store footprint expands, we will continue to invest in brand building to solidify
+Domino’s market mindshare and underpin sustainable long-term growth. We will also upgrade our
+end-to-end digital capabilities, empowering front-end marketing and customer engagement as well
+as back-end operational and managerial efficiency.
+
+Events after the Reporting Period
+
+On May 28, 2026, the Company conditionally granted 1,650,000 options and 1,655,000 share
+awards to Ms. Yi Wang, the executive Director and Chief Executive Officer of the Company,
+under the 2022 First Share Incentive Plan of the Company (“Grants to Ms. Wang”). The Grants
+to Ms. Wang were approved by the shareholders of the Company ( “ Shareholders ” ) at the
+extraordinary general meeting held on July 10, 2026. The Grants to Ms. Wang are a recognition
+of her significant contribution to the Group and also provide a means by which she could benefit
+from increases in value of the shares of the Company (“Shares”) in the future; they also form part
+of her remuneration as the executive Director and the Chief Executive Officer of the Company. For
+details of the Grants to Ms. Wang, please refer to the announcement of the Company dated May
+28, 2026 and the circular of the Company dated June 18, 2026.
+
+On July 10, 2026, the Shareholders at the extraordinary general meeting also approved the
+refreshment of the scheme mandate limit to grant share options and share awards under the 2022
+First Share Incentive Plan of the Company (the scheme mandate limit as refreshed, the “Refreshed
+Scheme Mandate Limit”). Under the Refreshed Scheme Mandate Limit, the total number of
+Shares which may be issued by the Company in respect of all new share options and share awards
+to be granted under the 2022 First Share Incentive Plan and any other share schemes of the
+Company shall not exceed 13,161,925 Shares, being approximately 10% of the number of issued
+Shares (excluding any treasury shares) as at the date of approval of the refreshment.
+
+Save as disclosed above, there has been no material event that is required to be disclosed by the
+Company after the Reporting Period and up to the date of this announcement.
+
+
+
+
+                                               10
+Financial Review
+
+1.   Revenue
+
+     Our revenue increased by 20.8% from RMB2,593.4 million for the six months ended June 30,
+     2025 to RMB3,133.8 million for the six months ended June 30, 2026, mainly attributable to
+     the increased number of stores in operation during the respective periods. In the first half of
+     2026, we sustained our successful expansion in China through the addition of new stores in
+     established cities and entry into emerging markets. We added 190 net new stores during the
+     first six months of 2025 and brought the total store counts to 1,198 as of June 30, 2025, while
+     we added 235 net new stores during the first six months of 2026 leading to a total store count
+     of 1,550 as of June 30, 2026.
+
+     The following table sets forth the breakdown of the Group’s revenue by markets for the
+     periods indicated.
+
+                                                        Six months ended June 30,
+                                                      2026                    2025
+                                               RMB ’000          %    RMB ’000                   %
+
+     Tier 1 City markets                        1,074,087          34.3     1,084,740          41.8
+     Non-Tier 1 City markets                    2,059,721          65.7     1,508,650          58.2
+
+     Total revenue                              3,133,808         100.0     2,593,390         100.0
+
+                                                       Six months ended June 30,
+                                                     2026                    2025
+                                                  ’
+                                               RMB 000          %         ’
+                                                                     RMB 000                     %
+
+     Initial City markets                       1,723,853          55.0     1,696,747          65.4
+     New City markets                           1,409,955          45.0       896,643          34.6
+
+     Total revenue                              3,133,808         100.0     2,593,390         100.0
+
+     The following table sets forth the breakdown of the Group’s revenue by fulfillment methods.
+
+                                                     Six months ended June 30,
+                                                2026                             2025
+                                                  % of      YoY %                  % of      YoY %
+                                  RMB ’000       Total        Chg RMB ’000         Total       Chg
+
+     Delivery Sales – 3PP         1,233,531      39.4%       81.0%   681,640       26.3%      23.1%
+     Delivery Sales – Own Channel   385,297      12.3%      -11.8%   436,811       16.8%      10.7%
+     Total Delivery               1,618,828      51.7%       44.7% 1,118,451       43.1%      18.0%
+     Non-Delivery Sales           1,514,980      48.3%        2.7% 1,474,939       56.9%      34.9%
+
+     Total                         3,133,808    100.0%      20.8% 2,593,390      100.0%       27.0%
+
+
+
+
+                                                11
+     Our total delivery sales grew 44.7% during the first half of 2026, reaching RMB1,618.8
+     million, compared to RMB1,118.5 million during the same period of 2025. The growth was
+     largely driven by ADTC growth in delivery as we continue to penetrate in our old cities
+     and more new stores in the new city markets are offering delivery services, partially offset
+     by lower realized ATP. The delivery sales from 3PP grew 81% while the delivery sales
+     from own channel declined 11.8%, largely due to deep subsidies offered by 3PP campaigns
+     allured more customers to place orders via 3PP, but partially offset by higher realized ATP of
+     RMB94 on delivery orders from our own channel.
+
+     For other detailed discussion on the sales movement and growth initiatives, please refer to the
+     business review section of this announcement for more information.
+
+2.   Raw materials and consumables cost
+
+     For the six months ended June 30, 2026, the raw materials and consumables cost of the Group
+     amounted to RMB865.4 million, representing an increase of RMB158.6 million or 22.4% as
+     compared with RMB706.8 million for the corresponding period in 2025. The increase was
+     primarily due to our revenue growth, which has increased our need for raw materials and
+     consumables. As a percentage of revenue, our raw materials and consumables cost remained
+     relatively stable for the six months ended June 30, 2025 and 2026.
+
+3.   Staff compensation expenses
+
+     For the six months ended June 30, 2026, the staff compensation expenses of the Group
+     amounted to RMB1,076.9 million, representing an increase of RMB199.5 million or 22.7%
+     as compared with RMB877.4 million for the corresponding period in 2025, which is in-line
+     with our continued expansion of store network. The following table sets forth a breakdown
+     of our staff compensation expenses at the store level and the corporate level for the periods
+     indicated.
+
+                                                        Six months ended June 30,
+                                                      2026                    2025
+                                                          % of total               % of total
+                                               RMB ’000     revenue   RMB ’000      revenue
+
+     Cash-based compensation expenses
+       for store-level staff                      907,076          28.9       718,430          27.7
+     Cash-based compensation expenses
+       for corporate-level staff                  152,737            4.9      133,458           5.1
+     Share-based compensation                      17,108            0.5       25,496           1.0
+
+     Total staff compensation expenses          1,076,921          34.4       877,384          33.8
+
+
+
+
+                                                12
+     The increase of cash-based compensation expenses for store-level staff was primarily due
+     to the increase in the number of our store level employees arising from the expansion of
+     our store network. As a percentage of revenue, our cash-based compensation expenses for
+     store-level staff increased from 27.7% for the six months ended June 30, 2025 to 28.9% for
+     the same period in 2026 primarily attributable to (i) relatively higher staffing to our new
+     stores in new markets, an investment needed during our fast expansion to ensure our service
+     standard, (ii) the decreasing ADS that resulted in less sharing of fixed portion of store labour
+     cost, such as our full time store management team; and (iii) an increased rider cost associated
+     with higher delivery sales, however, at a decreasing ATP environment.
+
+     The increase of cash-based compensation expenses for corporate-level staff was primarily
+     due to (i) an increase in headcount to support our rapid expansion; and (ii) the merit-based
+     increase in salary. As a percentage of revenue, our cash-based compensation expenses for
+     corporate-level staff decreased from 5.1% for the six months ended June 30, 2025 to 4.9% for
+     the same period in 2026 primarily as we continue to improve the efficiency of operation at
+     our corporate level and the benefit of scale of economy on cost efficiency continue to unfold
+     at Group headquarter.
+
+     The decrease of share-based compensation was mainly driven by the decrease in share options
+     granted and lower percentage portion of the granted option fair value charged to our income
+     statement during the Reporting Period as compared to previous corresponding six months in
+     2025.
+
+4.   Rental expenses
+
+     Our rental expenses include depreciation of right-of-use assets and variable lease rental
+     payment, short-term rental and other related expenses. The Group ’ s depreciation of
+     right-of-use assets represents the depreciation of capitalized lease incurred by long-term
+     leased properties in accordance with IFRS 16. For the six months ended June 30, 2026,
+     our rental expenses amounted to RMB332.5 million, representing an increase of RMB73.3
+     million or 28.3% as compared with RMB259.2 million for the corresponding period in 2025.
+     The increase was primarily due to the expansion of our store network from a total of 1,198
+     stores as of June 30, 2025 to a total of 1,550 stores as of June 30, 2026. Our rental expenses
+     as a percentage of revenue increased from 10.0% for the six months ended June 30, 2025 to
+     10.6% for the same period in 2026 was primarily attributable to the lower ADS at certain
+     stores that pay fixed rental resulted less sharing of fixed rental cost at these stores.
+
+5.   Depreciation of plant and equipment
+
+     For the six months ended June 30, 2026, the depreciation of plant and equipment of the Group
+     amounted to RMB153.7 million, representing an increase of RMB29.8 million or 24.1% as
+     compared with RMB123.9 million for the corresponding period in 2025. The increase was
+     primarily due to increased equipment needs in conjunction with the expansion of our store
+     network, resulting in the corresponding increase in depreciation expenses. Our depreciation
+     of plant and equipment as a percentage of total revenue remained relatively stable during the
+     Reporting Period as compared with the six months ended June 30, 2025.
+
+
+
+
+                                                13
+6.    Amortization of intangible assets
+
+      For the six months ended June 30, 2026, the amortization of intangible assets of the Group
+      amounted to RMB31.7 million, representing an increase of RMB3.0 million or 10.4% as
+      compared with RMB28.7 million for the corresponding period in 2025. The increase was
+      primarily driven by the acquisition of software and the addition in store franchise fees in line
+      with the expansion of our store network. Our amortization of intangible assets as a percentage
+      of total revenue remained relatively stable during the Reporting Period as compared with the
+      six months ended June 30, 2025.
+
+7.    Utilities expenses
+
+      For the six months ended June 30, 2026, the utilities expenses of the Group amounted to
+      RMB108.2 million, representing an increase of RMB20.8 million or 23.8% as compared with
+      RMB87.4 million for the corresponding period in 2025. The increase was mainly attributable
+      to the expansion of our store network and our revenue growth which demanded additional
+      usage of utilities. Our utilities expenses as a percentage of total revenue remained broadly
+      stable during the Reporting Period as compared with the corresponding period in 2025.
+
+8.    Advertising and promotion expenses
+
+      For the six months ended June 30, 2026, the advertising and promotion expenses of the Group
+      amounted to RMB156.7 million, representing an increase of RMB19.3 million or 14.0%
+      as compared with RMB137.4 million for the corresponding period in 2025. The increase
+      was mainly driven by the spending in advertising and promotion to grow our revenue. Our
+      advertising and promotion expenses as a percentage of total revenue decreased from 5.3% for
+      the six months ended June 30, 2025 to 5.0% for the same period in 2026.
+
+9.    Store operation and maintenance expenses
+
+      For the six months ended June 30, 2026, the store operation and maintenance expenses of
+      the Group amounted to RMB189.4 million, representing an increase of RMB30.0 million
+      or 18.8% as compared with RMB159.4 million for the corresponding period in 2025. The
+      increase was primarily due to the expansion of our store network and growth of our business.
+      Our store operation and maintenance expenses as a percentage of total revenue decreased
+      from 6.1% for the six months ended June 30, 2025 to 6.0% for the same period in 2026, but
+      in general stayed relatively stable.
+
+10.   Other expenses
+
+      Our other expenses consist of (a) telecommunication and information technology related
+      expenses, (b) travelling and related expenses, (c) professional service expenses, (d) auditor’s
+      remuneration and (e) others, including training fee, business meal, stamp duty tax and other
+      office expenses.
+
+
+
+
+                                                 14
+      For the six months ended June 30, 2026, the other expenses of the Group amounted to
+      RMB84.8 million, representing an increase of RMB10.2 million or 13.8% as compared
+      with RMB74.6 million for the corresponding period in 2025. The increase was primarily
+      due to increase in travelling and related expenses and telecommunication and information
+      technology related expenses along with our business expansion. Our other expenses as a
+      percentage of total revenue decreased from 2.9% for the six months ended June 30, 2025
+      to 2.7% for the same period in 2026. The decrease reflected the Group’s ongoing efforts to
+      optimize resource allocation, enhance operational efficiency and maintain disciplined cost
+      management.
+
+11.   Finance costs, net
+
+      For the six months ended June 30, 2026, the net finance costs of the Group amounted
+      to RMB31.2 million, representing a decrease of RMB3.4 million or 9.7% as compared
+      with RMB34.6 million for the corresponding period in 2025. The decrease was primarily
+      attributable to a decline in interest expenses on both bank borrowings and lease liabilities
+      recognized in accordance with IFRS 16.
+
+12.   Taxation
+
+      Income tax expense of the Group decreased from RMB44.2 million for the six months ended
+      June 30, 2025 to RMB35.1 million for the six months ended June 30, 2026.
+
+13.   Profit for the Reporting Period
+
+      As a result of the foregoing, the Group recorded a net profit of RMB81.0 million for the six
+      months ended June 30, 2026, as compared to a net profit of RMB65.9 million for the six
+      months ended June 30, 2025.
+
+14.   Non-IFRS Measures — Adjusted Net Profit, Adjusted Net Profit margin, Adjusted
+      EBITDA and Adjusted EBITDA margin, Store-level EBITDA and Store-level EBITDA
+      margin
+
+      To supplement the Group’s consolidated financial statements that are presented in accordance
+      with the IFRS, we also use Adjusted Net Profit (non-IFRS measure), Adjusted Net Profit
+      margin (non-IFRS measure), Adjusted EBITDA (non-IFRS measure), Adjusted EBITDA
+      margin (non-IFRS measure), Store-level EBITDA (non-IFRS measure) and Store-level
+      EBITDA margin (non-IFRS measure) as additional financial measures, which are not
+      required by, or presented in accordance with, IFRS. We believe that these non-IFRS measures
+      facilitate comparisons of operating performance from period to period and company to
+      company. We believe that these measures provide useful information to investors and others
+      in understanding and evaluating our results of operations in the same manner as they help
+      our management. However, our presentation of Adjusted Net Profit (non-IFRS measure),
+      Adjusted Net Profit margin (non-IFRS measure), Adjusted EBITDA (non-IFRS measure),
+      Adjusted EBITDA margin (non-IFRS measure), Store-level EBITDA (non-IFRS measure) and
+      Store-level EBITDA margin (non-IFRS measure) may not be comparable to similarly titled
+      measures presented by other companies. The use of such non-IFRS measures has limitations
+      as an analytical tool, and you should not consider them in isolation from, or as substitute for
+      analysis of, our results of operations or financial condition as reported under IFRS.
+
+
+
+
+                                                 15
+“Store-level EBITDA” is defined as store-level operating profit for the period and adding
+back depreciation of plant and equipment and amortization of intangible assets in store-level.
+
+“Store-level EBITDA margin” is calculated by dividing Store-level EBITDA by revenue for
+the same period.
+
+“Adjusted Net Profit ” is defined as profit for the period and adding back share-based
+compensation.
+
+“Adjusted Net Profit margin” is calculated by dividing Adjusted Net Profit by revenue for the
+same period.
+
+“Adjusted EBITDA ” is defined as Adjusted Net Profit for the period and adding back
+depreciation and amortization (excluding depreciation of right-of-use assets), income tax
+expense and interest income and expenses, net.
+
+“Adjusted EBITDA margin” is calculated by dividing Adjusted EBITDA by revenue for the
+same period.
+
+The following table sets forth the reconciliation of our non-IFRS financial measures for the
+six months ended June 30, 2026 and 2025 to the nearest measure prepared in accordance with
+IFRS.
+
+                                                                   For the six months
+                                                                     ended June 30,
+                                                                       2026           2025
+                                                                 RMB ’000        RMB ’000
+                                                                (Unaudited)     (Unaudited)
+
+Reconciliation of net profit and Adjusted Net Profit
+  and Adjusted EBITDA
+
+Profit for the period                                                 81,045           65,924
+Add:
+Share-based compensation                                              17,108           25,496
+
+Adjusted Net Profit                                                   98,153           91,420
+
+Adjusted Net Profit margin                                             3.1%             3.5%
+
+Add:
+Depreciation and amortization                                        185,416          152,606
+Income tax expense                                                    35,131           44,173
+Interest income and expenses, net                                     31,975           34,678
+
+Adjusted EBITDA                                                      350,675          322,877
+
+Adjusted EBITDA margin                                                11.2%            12.4%
+
+
+                                           16
+                                                                                          For the six months
+                                                                                            ended June 30,
+                                                                                              2026           2025
+                                                                                        RMB ’000        RMB ’000
+                                                                                       (Unaudited)     (Unaudited)
+
+      Reconciliation of store-level operating profit and
+        Store-level EBITDA
+
+      Store-level operating profit                                                           390,350             379,188
+      Add:
+        Depreciation of plant and equipment – store level (1)                                151,108             121,788
+        Amortization of intangible assets – store level (2)                                    2,994               1,842
+
+      Store-level EBITDA                                                                     544,452             502,818
+
+      Store-level EBITDA margin                                                                17.4%                19.4%
+
+      Notes:
+
+      (1)      Depreciation of plant and equipment – store level is calculated based on depreciation of plant and
+               equipment incurred at our stores and central kitchens.
+
+      (2)      Amortization of intangible assets – store level is calculated based on amortization of store franchise fees.
+
+15.   Liquidity and Source of Funding and Borrowing
+
+      As at June 30, 2026, the Group ’ s cash and bank balances decreased by 6.7% from
+      RMB1,001.5 million as at December 31, 2025 to RMB934.7 million, among which the Group
+      had cash and cash equivalents of RMB934.5 million (December 31, 2025: RMB1,001.3
+      million) and restricted cash of RMB0.2 million (December 31, 2025: RMB0.2 million).
+      The decrease was primarily due to capital expenditures in opening new stores, partially
+      compensated by cash generated from operations minus rental payment.
+
+      As at June 30, 2026, the Group had total cash and bank balances of RMB934.7 million
+      (December 31, 2025: RMB1,001.5 million), among which RMB1.1 million (December
+      31, 2025: RMB47.6 million) were denominated in Hong Kong dollar, RMB530.6 million
+      (December 31, 2025: RMB609.4 million) were denominated in RMB and RMB403.0 million
+      (December 31, 2025: RMB344.5 million) were denominated in US dollar.
+
+      Our net cash generated from operating activities was RMB504.9 million for the Reporting
+      Period, as compared to the net cash inflow of RMB361.1 million for the six months ended
+      June 30, 2025. The increase was primarily attributable to the growth in revenue.
+
+      As at June 30, 2026, the current assets of the Group amounted to RMB1,341.1 million,
+      including RMB934.7 million in cash and bank balances and RMB406.4 million in other
+      current assets. The current liabilities of the Group amounted to RMB1,587.6 million, of
+      which RMB757.5 million was accruals and other payables, RMB438.6 million was lease
+      liabilities, RMB319.7 million was trade payables and RMB71.8 million was other current
+      liabilities. As at June 30, 2026, the current ratio of the Group, which is equivalent to the
+      current assets divided by the current liabilities, was 0.84 (December 31, 2025: 0.9).
+
+                                                             17
+      As at June 30, 2026, the Group’s total borrowings were RMB199.6 million (December 31,
+      2025: RMB199.8 million). Pursuant to the repayment schedule, we repaid RMB200,000
+      of principal in the first half of 2026. The borrowings were all denominated in RMB and
+      fully guaranteed by a subsidiary of the Group. As at June 30, 2026, all the bank borrowings
+      bear interests at a floating interest rate. The Group had unutilized available credit banking
+      facilities of RMB300.0 million as of June 30, 2026, which we will be able to draw down to
+      support our working capital requirements as needed.
+
+      Taking into account the financial resources available to the Group, including cash and cash
+      equivalents, cash generated from operations and available credit banking facilities of the
+      Group, the Directors are of the view that the Group has sufficient working capital required
+      for the Group’s operations at present.
+
+16.   Treasury policy
+
+      The Group adopts a prudent financial management approach for its treasury policy to ensure
+      that the Group’s liquidity structure, comprising assets, liabilities and other commitments, is
+      able to always meet its capital requirements.
+
+17.   Gearing Ratio
+
+      As at June 30, 2026, the gearing ratio of the Group, which was calculated as total
+      interest-bearing bank loans divided by total equity, was approximately 7.9%, representing
+      a decrease of 0.3 percentage points as compared with 8.2% as at December 31, 2025. The
+      decrease was primarily due to the profit generated by the Group and therefore an enhanced
+      level of total equity.
+
+18.   Significant Investments
+
+      The Group did not make or hold any significant investments (including any investment in an
+      investee company with a value of 5% or more of the Group’s total assets as of June 30, 2026)
+      during the six months ended June 30, 2026.
+
+19.   Material Acquisitions and Disposals
+
+      The Group did not have any material acquisitions or disposals of subsidiaries, associates or
+      joint ventures during the six months ended June 30, 2026.
+
+20.   Pledge of Assets
+
+      As at June 30, 2026, the Group had no pledge of assets.
+
+21.   Contingent Liabilities
+
+      The Group had no contingent liabilities as at June 30, 2026.
+
+
+
+
+                                                 18
+22.   Foreign Exchange Exposure
+
+      During the six months ended June 30, 2026, the Group mainly operated in China and the
+      majority of the transactions were settled in Renminbi (“RMB”), the Company’s primary
+      subsidiaries ’ functional currency. As at June 30, 2026, except for the bank deposits
+      denominated in foreign currencies, the Group did not have significant foreign currency
+      exposure from its operations. During the Reporting Period, the Group has not entered into
+      any derivative instruments to hedge its foreign exchange exposures, but will closely monitor
+      the exposure and will take measures when necessary to make sure the foreign exchange risks
+      are manageable.
+
+23.   Employee and Remuneration Policy
+
+      As at June 30, 2026, the Group had 10,497 full-time employees (December 31, 2025: 11,052).
+      Substantially all of our employees are based in China, primarily in Beijing, Shanghai,
+      Guangzhou, Shenzhen and other cities in which we have operations. The following table sets
+      forth the numbers of our full-time employees categorized by function as at June 30, 2026:
+
+                                                                                    Number of
+                                                                                    employees           % of total
+      Function
+
+      Store development and operation(1)                                                   9,989             95.2%
+      Sales, marketing and product development                                                52              0.5%
+      Supply chain, central kitchens and quality control                                     263              2.5%
+      General administration and others                                                      193              1.8%
+
+      Total                                                                              10,497            100.0%
+
+      Note:
+
+      (1)     Comprises (i) full-time store development and operation employees at the corporate level and (ii) full-
+              time employees at our stores who also act as delivery riders when needed.
+
+      Besides our full-time employees, we also had a total of 26,932 part-time employees as at June
+      30, 2026 (December 31, 2025: 28,024). These part-time employees primarily work as riders
+      and in-store assistants.
+
+      For the six months ended June 30, 2026, the Group has incurred a total staff costs (inclusive
+      of Directors ’ remuneration, salaries, wages, allowance and benefits and share based
+      compensations) of RMB1,076.9 million (June 30, 2025: RMB877.4 million).
+
+      During the Reporting Period, the Group did not experience any significant labour disputes or
+      any difficulty in recruiting employees.
+
+
+
+
+                                                         19
+      We believe in the importance of attraction, recruitment and retention of quality talents in
+      achieving the Group ’ s success. We seek to offer attractive remuneration to employees,
+      who earn both a basic salary and discretionary bonuses. For store management teams, their
+      discretionary bonus is tied to the performance of the store. For riders, we provide incentive
+      bonuses that are payable for, among others, the number of orders delivered and working
+      during peak hours or in poor weather. Our riders are covered by group commercial insurance,
+      which insures our riders for personal injuries and additional medical care to help protect
+      against the risk of personal injuries.
+
+      Our training department oversees the training of our employees. We provide all of our
+      restaurant employees, including store management teams, store assistants, with consistent,
+      systematic training to ensure that through the training employees have the operational,
+      management and business skills needed to meet our safety standards and deliver outstanding
+      customer service.
+
+      In addition, we conduct standardized training with our riders, and distribute to our delivery
+      riders a Delivery Safety Work Manual before they take the first trips. We also provide our
+      riders with training to help them navigate urban traffic and make deliveries safely.
+
+      Compensation for key executives of the Group is determined by the Company’s remuneration
+      committee which reviews and recommends to the Board the executives’ compensation based
+      on the Group’s performance and the executives’ respective contributions to the Group. The
+      Company has also adopted various equity-based incentive plans and cash-based incentive
+      plans. Please refer to the section headed “Share Schemes” in the 2025 annual report of
+      the Company published on April 29, 2026. Further, for details of the Grants to Ms. Wang,
+      please refer to the section headed “Management Discussion and Analysis – Events after the
+      Reporting Period” above, the announcement of the Company dated May 28, 2026 and the
+      circular of the Company dated June 18, 2026.
+
+24.   Future Plans for Material Investments and Capital Assets
+
+      As of June 30, 2026, save as disclosed in this announcement under the heading “Management
+      Discussion and Analysis – Business Outlook ”, the Group did not have other plans for material
+      investments and capital assets.
+
+
+
+
+                                                20
+INTERIM DIVIDEND
+
+The Board did not recommend the distribution of an interim dividend for the six months ended
+June 30, 2026.
+
+CORPORATE GOVERNANCE AND OTHER INFORMATION
+
+The Board is committed to achieving high corporate governance standards. The Board believes
+that high corporate governance standards are essential in providing a framework for the Group to
+safeguard the interests of shareholders and to enhance corporate value and accountability.
+
+Compliance with the Code on Corporate Governance Practices
+
+The Company has adopted the principles and code provisions of the Corporate Governance Code
+(the “CG Code”) as set out in Part 2 of the Appendix C1 to the Rules Governing the Listing
+of Securities (the “Listing Rules”) on The Stock Exchange of Hong Kong Limited (the “Stock
+Exchange”) as the basis of the Company’s corporate governance practices.
+
+During the Reporting Period, the Company has complied with all applicable code provisions of the
+CG Code, except for the deviation of the code provision C.1.5 of the CG Code as described below.
+
+Pursuant to code provision C.1.5 of part 2 of the CG Code, independent non-executive Directors
+and other non-executive Directors should attend general meetings to gain and develop a
+comprehensive understanding of the views of shareholders. Mr. James Leslie Marshall, a non-
+executive Director, was unable to attend the annual general meeting of the Company held on May
+28, 2026 due to a short notice of urgent business trip.
+
+The Company will continue to regularly review and monitor its corporate governance practices
+to ensure compliance with the CG Code and maintain a high standard of corporate governance
+practices of the Company.
+
+Compliance with the Model Code for Securities Transactions by Directors
+
+The Company has adopted the Model Code for Securities Transactions by Directors of Listed
+Issuers (the “Model Code”) as set out in Appendix C3 to the Listing Rules as its own securities
+dealing code to regulate all dealings by Directors and relevant employees of securities in the
+Company and other matters covered by the Model Code.
+
+Specific enquiry has been made of all the Directors and the relevant employees and they have
+confirmed that they have complied with the Model Code during the Reporting Period. No incident
+of non-compliance of the Model Code was noted by the Company during the Reporting Period.
+
+Audit and Risk Committee
+
+The Company has established an audit and risk committee with written terms of reference in
+accordance with the Listing Rules. The audit and risk committee comprises two non-executive
+Directors and three independent non-executive Directors, namely, Mr. Zohar Ziv, Mr. Matthew
+James Ridgwell, Mr. David Brian Barr, Ms. Lihong Wang and Ms. Bin Yu. Ms. Bin Yu is the
+chairperson of the audit and risk committee.
+
+
+
+
+                                              21
+The audit and risk committee has reviewed the unaudited interim condensed consolidated financial
+information of the Group for the Reporting Period and has met with the independent auditors,
+PricewaterhouseCoopers, who have reviewed the interim condensed consolidated financial
+information in accordance with International Standard on Review Engagements 2410. The audit
+and risk committee has also discussed matters with respect to the accounting policies and practices
+adopted by the Company and internal control with senior management members of the Group.
+
+Other Board Committees
+
+In addition to the audit and risk committee, the Company has also established a nomination
+committee and a remuneration committee.
+
+Purchase, Sale or Redemption of the Company’s Listed Securities
+
+During the Reporting Period, neither the Company nor any of its subsidiaries purchased, sold or
+redeemed any of the Company’s securities (including any sale of treasury shares) listed on the
+Stock Exchange. As of June 30, 2026, the Company did not hold any treasury shares.
+
+Material Litigation
+
+The Company was not involved in any material litigation or arbitration during the Reporting
+Period. The Directors are also not aware of any material litigation or claims that are pending or
+threatened against the Group during the Reporting Period.
+
+Use of Proceeds
+
+The Company’s shares were listed on the Main Board of the Stock Exchange on March 28,
+2023 and the net proceeds raised during the Global Offering (as defined in the prospectus of
+the Company dated March 16, 2023 (the “Prospectus”)) were approximately HK$499.9 million
+(including the additional proceeds received upon the partial exercise of the Over-allotment Option
+(as defined in the Prospectus)) (equivalent to approximately RMB437.8 million).
+
+As of June 30, 2026, HK$406.0 million of the net proceeds of the completion of the Global
+Offering had been utilized and HK$93.9 million remained unutilized. As disclosed in the 2025
+annual results announcement of the Company dated March 25, 2026, the Board has resolved to
+extend the expected timeline for the use of the net proceeds from the end of 2026 to the end of
+2027. Save as disclosed above, there has been no other change in the intended use of net proceeds
+as previously disclosed in the Prospectus and the Company expects to fully utilize the residual
+amount of the net proceeds in accordance with such intended purpose by December 31, 2027.
+
+The following table sets forth a summary of the utilisation of the net proceeds as of June 30, 2026
+and the updated expected timeline of the use of the net proceeds:
+                                                            Unutilized   Utilization    Unutilized   Updated expected
+                                                          amount as of    during the amount as of    timeline of full
+                               % of use of                  January 1,    Reporting      June 30,    utilization of the
+                              net proceeds Net proceeds          2026        Period          2026    unutilized proceeds
+                                           (HK$ million) (HK$ million) (HK$ million) (HK$ million)
+Expanding our store network          90%          450.0         230.0          142.2          87.8 By December 31, 2027
+General corporate purposes           10%           49.9           6.1              –           6.1 By December 31, 2027
+
+Total                              100%           499.9         236.1          142.2          93.9
+
+The unutilized net proceeds from the Global Offering were deposited with licensed banks or
+financial institutions in Hong Kong for short-term deposits as at June 30, 2026.
+
+
+
+                                                           22
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE
+INCOME
+
+                                                                       Six months ended June 30,
+                                                               Notes          2026          2025
+                                                                          RMB ’000      RMB ’000
+                                                                       (Unaudited)    (Unaudited)
+
+Revenue                                                         4         3,133,808     2,593,390
+Raw materials and consumables cost                                         (865,444)     (706,819)
+Staff compensation expenses                                     6        (1,076,921)     (877,384)
+Depreciation of right-of-use assets                                        (230,984)     (188,301)
+Depreciation of plant and equipment                                        (153,721)     (123,886)
+Amortization of intangible assets                                           (31,695)      (28,720)
+Utilities expenses                                                         (108,216)      (87,438)
+Advertising and promotion expenses                                         (156,677)     (137,401)
+Store operation and maintenance expenses                                   (189,378)     (159,368)
+Variable lease rental payment, short-term rental and
+  other related expenses                                                  (101,520)       (70,870)
+Other expenses                                                  5          (84,848)       (74,561)
+Other income                                                                10,046          7,327
+Other gains/(losses), net                                                    2,939         (1,298)
+Finance costs, net                                              7          (31,213)       (34,574)
+
+Profit before income tax                                                   116,176        110,097
+Income tax expense                                              8          (35,131)       (44,173)
+
+Profit for the period attributable to equity
+  holders of the Company                                                    81,045         65,924
+
+Other comprehensive loss
+Item that may be subsequently reclassified to profit or loss
+Currency translation differences                                            15,436          1,172
+Item that may not be subsequently reclassified to profit
+   or loss
+Currency translation differences                                           (29,750)        (3,112)
+
+Other comprehensive loss for the period, net of tax                        (14,314)        (1,940)
+
+Total comprehensive income for the period
+  attributable to equity holders of the Company                             66,731         63,984
+
+Earnings per share for profit attributable to
+  equity holders of the Company
+– Basic earnings per share (RMB)                                9              0.62          0.50
+– Diluted earnings per share (RMB)                              9              0.61          0.49
+
+
+
+
+                                                 23
+INTERIM CONDENSED CONSOLIDATED BALANCE SHEET
+
+                                                                As at         As at
+                                                             June 30,   December 31,
+                                                  Notes         2026           2025
+                                                            RMB ’000       RMB ’000
+                                                          (Unaudited)
+
+ASSETS
+Non-current assets
+Plant and equipment                                         1,154,963      1,038,359
+Right-of-use assets                                         1,991,076      1,747,209
+Intangible assets                                           1,201,744      1,208,671
+Deposits                                                      117,979        104,798
+Deferred income tax assets                                    168,458        161,863
+
+                                                            4,634,220      4,260,900
+
+Current assets
+Inventories                                                   129,038        132,065
+Trade receivables                                  11          17,530         17,349
+Prepayment, deposits and other receivables                    259,810        234,766
+Cash and bank balances                                        934,706      1,001,511
+
+                                                            1,341,084      1,385,691
+
+Total assets                                                5,975,304      5,646,591
+
+
+
+
+                                             24
+                                                                       As at           As at
+                                                                    June 30,     December 31,
+                                                        Notes          2026             2025
+                                                                   RMB ’000         RMB ’000
+                                                                 (Unaudited)
+
+EQUITY
+Equity attributable to equity holders of the Company
+Share capital                                                         890,057         888,950
+Share premium                                                       2,335,061       2,324,731
+Other reserves                                                        141,024         148,368
+Accumulated losses                                                   (844,077)       (925,122)
+Shares held for restricted share units (“RSUs”)                          (275)           (525)
+
+Total equity                                                        2,521,790       2,436,402
+
+LIABILITIES
+Non-current liabilities
+Borrowings                                                            199,200         199,400
+Lease liabilities                                                   1,592,489       1,413,606
+Other payables                                            13           74,182          60,178
+
+                                                                    1,865,871       1,673,184
+
+Current liabilities
+Borrowings                                                                400             400
+Lease liabilities                                                     438,612         393,684
+Trade payables                                            12          319,655         279,126
+Contract liabilities                                     4(a)          52,109          56,008
+Accruals and other payables                               13          757,544         778,543
+Current income tax liabilities                                         19,323          29,244
+
+                                                                    1,587,643       1,537,005
+
+Total liabilities                                                   3,453,514       3,210,189
+
+Total equity and liabilities                                        5,975,304       5,646,591
+
+The above interim condensed consolidated balance sheet should be read in conjunction with the
+accompanying notes.
+
+
+
+
+                                             25
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+
+                                                                  Six months ended June 30,
+                                                         Note            2026          2025
+                                                                     RMB ’000      RMB ’000
+                                                                  (Unaudited)    (Unaudited)
+
+Cash flows from operating activities
+Cash generated from operations                                         556,553        440,379
+Income tax paid                                                        (51,648)       (79,233)
+
+Net cash generated from operating activities                           504,905        361,146
+
+Cash flows from investing activities
+Proceeds from withdrawals of financial assets                          205,258              –
+Purchases of financial assets                                         (205,258)             –
+Purchases of plant and equipment                                      (249,970)      (174,059)
+Purchases of intangible assets                                         (35,084)       (25,114)
+Interest received                                                        7,242          9,370
+Proceeds from disposal of plant and equipment                               12             19
+
+Net cash used in from investing activities                            (277,800)      (189,784)
+
+Cash flows from financing activities
+Rental deposit payment                                                 (11,647)       (13,932)
+Proceeds from borrowings                                                     –        200,000
+Repayment to borrowings                                                   (200)      (200,000)
+Payment of principal element of lease liabilities                     (233,309)      (168,959)
+Payment of interest element of lease liabilities                       (35,344)       (38,659)
+Interests paid                                                          (2,575)        (4,007)
+Proceeds from exercise of share options                                  1,549          3,366
+
+Net cash used in financing activities                                 (281,526)      (222,191)
+
+Net decrease in cash and cash equivalents                              (54,421)       (50,829)
+Cash and cash equivalents at beginning of the period                 1,001,311      1,069,102
+Exchange difference on cash and cash equivalents                       (12,384)        (1,637)
+
+Cash and cash equivalents at end of the period                         934,506      1,016,636
+
+The above interim condensed consolidated statement of cash flows should be read in conjunction
+with the accompanying notes.
+
+
+
+
+                                                    26
+NOTES TO THE INTERIM CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+
+1   General information
+
+    DPC Dash Ltd (the “Company”) is a limited liability company incorporated in British Virgin Islands on April
+    30, 2008. The address of its registered office is Kingston Chambers, P.O.Box 173 Road Town, Tortola, British
+    Virgin Islands.
+
+    The Company, an investment holding company, and its subsidiaries (collectively, the “Group”) are principally
+    engaged in the operation of fast-food restaurant chains in the People’s Republic of China (the “PRC”). The
+    Group was Domino’s Pizza’s master franchisee in the Chinese mainland, the Hong Kong Special Administrative
+    Region of China and the Macau Special Administrative Region of China.
+
+    The master franchise agreement with Domino’s Pizza International Franchising Inc. (“DPIF”) provides the
+    Group with the exclusive right to develop and operate Domino’s Pizza stores and to use and license Domino’s
+    system and the associated trademarks in the operation of the pizza stores in the Chinese mainland, the Hong
+    Kong Special Administrative Region of China and the Macau Special Administrative Region of China. The
+    term of the master franchise agreement continues until June 1, 2027 and is renewable for two additional 10-year
+    terms, subject to the fulfilment of certain conditions. These conditions have been satisfied, and the Company is
+    already in communication with DPIF regarding the renewal.
+
+    The Company’s shares have been listed on the Main Board of the Stock Exchange of Hong Kong Limited (the
+    “Listing”) since March 28, 2023.
+
+    The interim condensed consolidated financial information is presented in thousands of Renminbi (“RMB’000”),
+    unless otherwise stated. This interim condensed consolidated financial information was approved for issue by
+    the Board of Directors on August 26, 2026.
+
+2   Basis of preparation
+
+    This interim condensed consolidated financial information for the six months ended June 30, 2026 has been
+    prepared in accordance with International Accounting Standard (“IAS”) 34 Interim Financial Reporting . The
+    interim condensed consolidated financial information should be read in conjunction with the consolidated
+    financial statements for the year ended December 31, 2025, which have been prepared in accordance with
+    International Financial Reporting Standards (“IFRSs”).
+
+    (a)   Going concern
+
+          As at June 30, 2026, the Group recorded net current liabilities of approximately RMB246,559,000 and the
+          Group had net profit of approximately RMB81,045,000 for the six months ended June 30, 2026. During
+          the six months ended June 30, 2026, the Group has generated net cash inflow from operating activities of
+          approximately RMB504,905,000.
+
+          Despite the Group’s net current liability position as of June 30, 2026, the Directors have assessed the
+          Group’s ability to continue as a going concern. Taking into account the financial resources available to
+          the Group, including cash and cash equivalents and cash generated from operations, the Directors believe
+          that the Group has sufficient funds to meet its liabilities and continue its operations for at least twelve
+          months from June 30, 2026.
+
+          Accordingly, the interim condensed consolidated financial information for the six months ended June 30,
+          2026 have been prepared on the basis that the Group will continue as a going concern.
+
+
+
+
+                                                       27
+3   New standards and interpretations
+
+    Except as described below, the accounting policies applied are consistent with those of the consolidated
+    financial statements for the year ended December 31, 2025.
+
+    Taxes on income in the interim periods are accrued using the tax rate that would be applicable to expected total
+    earnings.
+
+    (a)   New and amended standards adopted by the Group
+
+          A number of amended standards became applicable for the current reporting period. The Group did not
+          have to change its accounting policies as a result of adopting these standards.
+
+          IFRS 9 and IFRS 7 (Amendments)                Amendments to the classification and        1 January 2026
+                                                         measurement of financial instruments
+          IFRS 9 and IFRS 7 (Amendments)                Amendments to contracts Referencing         1 January 2026
+                                                         Nature-dependent Electricity
+          Annual Improvements to IFRS Accounting        Annual Improvements to IFRS                 1 January 2026
+            Standards – Volume 11                        Accounting Standards – Volume 11
+
+    (b)   New standards and amendments to standards and interpretations not yet adopted
+
+          The following new standards, new interpretations and amendments to standards and interpretations have
+          been issued but are not effective for the financial year beginning January 1, 2026 and have not been early
+          adopted by the Group in preparing this interim condensed consolidated financial information.
+
+                                                                                                Effective for annual
+                                                                                                  periods beginning
+                                                                                                          on or after
+
+          IFRS 18                               Presentation and disclosure in financial            1 January 2027
+                                                  statements
+          IFRS 19                               Subsidiaries without public accountability:         1 January 2027
+                                                  disclosures
+          IAS 21 (Amendments)                   Amendments to translation to a                      1 January 2027
+                                                  Hyperinflationary Presentation Currency
+          IFRS 10 and IAS 28 (Amendments)       Amendments to sale or Contribution of Assets      To be determined
+                                                  Between an Investor and its Associate or
+                                                  Joint Venture
+
+          The Group has already commenced an assessment of the impact of these new or amended standards.
+          According to the preliminary assessment made by the directors of the Company (the “Directors”), no
+          significant impact on the financial performance and position of the Group is expected when they become
+          effective.
+
+4   Revenue and segment information
+
+    The Group is the exclusive master franchisee of Domino’s Pizza in the Chinese mainland, the Hong Kong
+    Special Administrative Region of China and the Macau Special Administrative Region of China.
+
+    The chief operating decision-maker (“CODM”) has been identified as the directors of the Company. The
+    directors review the Group’s internal reporting in order to assess performance and allocate resources. The
+    directors have determined the operating segment based on these internal reports.
+
+    The directors consider the Group’s operation from a business perspective and determine that the Group is
+    managed as one single reportable operating segment.
+
+
+
+
+                                                       28
+    During the six months ended June 30, 2026, all the Group’s revenue are generated from the Chinese mainland.
+
+                                                                                    Six months ended June 30,
+                                                                                           2026            2025
+                                                                                      RMB ’000         RMB ’000
+                                                                                    (Unaudited)      (Unaudited)
+
+    Revenue from sales of goods and services recognized
+      – at a point in time                                                               3,133,808       2,593,390
+
+
+    (a)   Contract liabilities
+
+          The Group has recognized the following revenue-related contract liabilities:
+
+                                                                                          As at            As at
+                                                                                       June 30,      December 31,
+                                                                                          2026              2025
+                                                                                      RMB ’000          RMB ’000
+                                                                                    (Unaudited)
+
+          Contract liabilities                                                             52,109             56,008
+
+
+          (i)   Revenue recognized in relation to contract liabilities
+
+                                                                                    Six months ended June 30,
+                                                                                           2026            2025
+                                                                                      RMB ’000         RMB ’000
+                                                                                    (Unaudited)      (Unaudited)
+
+                 Revenue recognized that was included in the balance of
+                   contract liabilities at the beginning of the period                     36,655             41,416
+
+
+          Each order with customers is considered as a contract. All contracts entered by the Group are for periods
+          of one year or less. The Group has applied the practical expedient as permitted by IFRS 15 and the
+          transaction price allocated to the remaining performance obligations is not disclosed.
+
+    (b)   Non-current assets by geographical location
+
+          As at June 30, 2026, most of the Group’s non-current assets were located in the Chinese mainland.
+
+5   Other expenses
+
+                                                                                    Six months ended June 30,
+                                                                                           2026            2025
+                                                                                      RMB ’000         RMB ’000
+                                                                                    (Unaudited)      (Unaudited)
+
+    Telecommunication and information technology related expenses                          31,240             22,548
+    Travelling and related expenses                                                        16,340             14,540
+    Professional service expenses                                                          14,280             13,656
+    Auditor’s remuneration                                                                  3,003              3,395
+    Others                                                                                 19,985             20,422
+
+                                                                                           84,848             74,561
+
+
+
+
+                                                       29
+6   Staff compensation expenses (including director service emolument)
+
+                                                                         Six months ended June 30,
+                                                                                2026            2025
+                                                                           RMB ’000         RMB ’000
+                                                                         (Unaudited)      (Unaudited)
+
+    Salaries, wages and bonuses                                              910,786         725,065
+    Contributions to pension plan                                             69,840          59,364
+    Housing fund, medical insurance and other social insurances               68,642          57,902
+    Other benefits                                                            10,545           9,557
+
+    Total salary-based expenses                                            1,059,813         851,888
+
+
+    Share-based compensation                                                  17,108          25,496
+
+    Total staff compensation expenses                                      1,076,921         877,384
+
+
+7   Finance costs, net
+
+                                                                         Six months ended June 30,
+                                                                                2026            2025
+                                                                           RMB ’000         RMB ’000
+                                                                         (Unaudited)      (Unaudited)
+
+    Interest income on cash at bank                                            7,186            8,940
+    Interest expenses                                                        (39,161)         (43,618)
+      – Bank borrowings                                                       (2,561)          (3,842)
+      – Lease liabilities                                                    (35,344)         (38,659)
+      – Long-term payables                                                    (1,256)          (1,117)
+    Net foreign exchange gains on financing activities                           762             104
+
+                                                                             (31,213)         (34,574)
+
+
+8   Income tax expense
+
+                                                                         Six months ended June 30,
+                                                                                2026            2025
+                                                                           RMB ’000         RMB ’000
+                                                                         (Unaudited)      (Unaudited)
+
+    Current income tax
+    – The Chinese mainland corporate income tax                               41,727           58,846
+    Deferred income tax                                                       (6,596)         (14,673)
+
+    Income tax expense                                                        35,131          44,173
+
+
+
+
+                                                         30
+

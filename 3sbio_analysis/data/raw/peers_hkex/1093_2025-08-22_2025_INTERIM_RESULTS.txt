@@ -1,0 +1,3139 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no 
+responsibility  for  the  contents  of  this  announcement,  makes  no  representation  as  to  its  accuracy  or 
+completeness and expressly disclaim any liability whatsoever for any loss howsoever arising from or 
+in reliance upon the whole or any part of the contents of this announcement.
+
+CSPC PHARMACEUTICAL GROUP LIMITED
+石 藥 集 團 有 限 公 司
+(Incorporated in Hong Kong with limited liability)
+(Stock Code: 1093)
+
+2025 INTERIM RESULTS
+
+The  Board  of  Directors  (the  “Board”)  of  CSPC  Pharmaceutical  Group  Limited  (the  “Company”) 
+is  pleased  to  announce  the  unaudited  consolidated  results  of  the  Company  and  its  subsidiaries  (the 
+“Group”) for the six months ended 30 June 2025.
+
+FINANCIAL HIGHLIGHTS
+(in RMB’000, unless otherwise stated)
+
+Revenue by business units:
+
+Finished drugs
+Bulk products
+Functional food and others
+
+Six months ended 30 June
+2024
+
+2025
+
+10,247,652
+2,074,708
+951,056
+
+13,549,079
+1,854,794
+880,409
+
+Change
+
+-24.4%
++11.9%
++8.0%
+
+Total revenue
+
+13,273,416
+
+16,284,282
+
+-18.5%
+
+Profit attributable to shareholders of the Company
+
+Reported
+Underlying (note)
+
+2,547,851
+2,319,521
+
+3,020,374
+3,216,870
+
+-15.6%
+-27.9%
+
+Earnings per shares (RMB cents)
+
+Based on reported profit attributable to shareholders of  
+
+the Company
+— Basic
+— Diluted
+
+Interim dividend per share (HK cents)
+
+22.29
+22.29
+
+14.00
+
+25.51
+25.51
+
+16.00
+
+-12.6%
+-12.6%
+
+-12.5%
+
+Note:  Underlying profit attributable to shareholders of the Company, a non-HKFRS measure, represents profit 
+attributable  to  shareholders  of  the  Company  before  taking  into  account  fair  value  changes  on  financial 
+assets  measured  at  fair  value  through  profit  or  loss  and  employee  share-based  compensation  expense.  A 
+reconciliation between the reported and underlying profit is provided on page 26 of this announcement.
+
+– 1 –
+
+ 
+ 
+ 
+ 
+RESULTS
+
+In  the  first  half  of  the  year,  the  Group  recorded  revenue  of  RMB13,273  million  and  reported  profit 
+attributable  to  shareholders  of  the  Company  of  RMB2,548  million,  representing  decreases  of  18.5% 
+and 15.6%, respectively, as compared with the same period last year. Excluding fair value changes on 
+financial  assets  measured  at  fair  value  through  profit  or  loss  (“FVTPL”)  and  employee  share-based 
+compensation  expense,  underlying  profit  attributable  to  shareholders  of  the  Company  amounted  to 
+RMB2,320 million, representing a decrease of 27.9% as compared with the same period last year.
+
+In the first half of 2025, basic earnings per share based on reported profit attributable to shareholders 
+of  the  Company  for  the  period  amounted  to  RMB22.29  cents,  representing  a  decrease  of  12.6%  as 
+compared  with  the  same  period  last  year.  Due  to  a  reduction  in  the  weighted  average  number  of 
+ordinary shares used in the calculation of earnings per share, the year-on-year decline in basic earnings 
+per share for the period was less than that of profit attributable to shareholders of the Company.
+
+DIVIDEND AND SHARE BUY-BACKS
+
+The  Board  has  declared  an  interim  dividend  of  HK14  cents  per  share  for  2025  (interim  dividend 
+for  2024:  HK16  cents  per  share).  The  dividend  will  be  payable  on  Tuesday,  18  November  2025 
+to  shareholders  whose  names  appear  on  the  register  of  members  of  the  Company  on  Thursday,  23 
+October 2025.
+
+Since April 2024, the Company has actively repurchased shares in the open market in order to enhance 
+earnings per share and maximise returns to shareholders of the Company. In the first half of 2025, the 
+Company  utilised  HK$300  million  to  repurchase  and  cancel  an  aggregate  of  64,300,000  shares  and 
+will continue to conduct share buy-backs according to market conditions to safeguard the best interests 
+of the Company and shareholders as a whole.
+
+COMPANY OVERVIEW
+
+The  Group  is  an  innovation-driven  comprehensive  pharmaceutical  enterprise  integrating  R&D, 
+manufacture  and  sales.  With  the  corporate  mission  of  “All  for  Better  Medicine,  All  for  a  Healthier 
+World”,  we  are  committed  to  developing  innovative  products  to  overcome  bottlenecks  in  clinical 
+treatment and provide cutting-edge treatment options for patients.
+
+“Leading Innovation and Creating an Excellent CSPC” is our core vision. Under the leadership of the 
+Chairman and guided by the dual-engine strategy of “Innovation and Internationalisation”, the Group 
+continues to increase its investment in R&D and strengthen team building to enhance its domestic and 
+international competitiveness, which provides the driving force for the sustainable development.
+
+The  Group  has  an  internationalised  R&D  team  with  more  than  2,000  professionals  and  R&D  centers 
+located  in  Shijiazhuang,  Shanghai,  Beijing  and  the  US,  with  focus  on  key  therapeutic  areas  such 
+as  oncology,  psychiatry  and  neurology,  cardiovascular,  immunology  and  respiratory,  digestion  and 
+metabolism,  and  anti-infectives,  etc..  Meanwhile,  it  seeks  to  strengthen  platform  advantages  by 
+building eight core technology platforms to raise the technical barriers to entry, thereby taking the lead 
+in  establishing  industry-leading  AI  drug  discovery  technology  platform  and  global  leading  delivery 
+technology system, forging differentiated advantages.
+
+– 2 –
+
+The  Group  remains  committed  to  innovation-driven  growth,  with  R&D  achievements  continuously 
+materialising  to  inject  new  momentum  into  its  development.  We  focus  on  high-demand  therapeutic 
+areas  including  breast  cancer,  lung  cancer,  and  endocrine-metabolic  diseases,  expediting  the 
+commercialisation  of  core  products  such  as  paclitaxel  (albumin-bound)  II,  KN026,  SYS6010 
+(EGFR  ADC),  TG103  (GLP-1).  The  Group’s  R&D  achievements  have  been  repeatedly  selected  for 
+presentation  at  international  conferences  including  the  American  Association  for  Cancer  Research 
+(AACR), the American Society of Clinical Oncology (ASCO), and the European Society for Medical 
+Oncology (ESMO), garnering strong international recognition and wide attention from the industry.
+
+Driven  by  innovative  R&D  as  our  engine,  the  Group  is  advancing  its  global  strategic  deployment  to 
+build  a  worldwide  pharmaceutical  value  ecosystem.  In  terms  of  global  R&D  positioning,  with  the 
+strategy  of  “dual  China-US  regulatory  submission”,  we  initiate  a  number  of  multi-center  clinical 
+trials across Europe and America and have established R&D systems and quality platforms that meet 
+international  standards,  laying  a  solid  foundation  for  global  product  launches.  Regarding  overseas 
+expansion  of  innovative  products,  Nectin  4  ADC,  ROR-1  ADC,  LP(a)  small  molecules  and  other 
+products  independently  developed  by  the  Group  have  been  out-licensed  overseas.  Year-to-date,  the 
+Group  has  completed  four  out-licensing  projects  with  aggregate  contract  value  of  up  to  US$9.71 
+billion.  Notably,  in  June  2025,  we  entered  into  a  strategic  R&D  collaboration  with  AstraZeneca,  a 
+leading  international  pharmaceutical  company,  on  an  AI  platform,  accelerating  the  transformation  of 
+China’s innovative pharmaceutical enterprises from “product export” to “technology platform export” 
+and progressively elevating from “technology licensor” to “global co-developer”.
+
+The  Group  boasts  a  robust  and  innovative  pipeline  and  has  been  included  in  the  global  top 
+25  pharmaceutical  companies  by  size  of  pipeline  for  three  consecutive  years  by  Citeline,  an 
+internationally  renowned  consulting  firm,  ranking  19th  this  year  and  climbing  five  places  from  last 
+year.  The  Group  has  been  recognised  as  “National  Innovative  Enterprise”  and  “National  Enterprise 
+Technology  Center”  with  two  national  key  laboratories,  i.e.  “National  Key  Laboratory  for  New 
+Pharmaceutical Preparations and Excipients” and “National Engineering Laboratory for Chiral Drugs”, 
+and has jointly established the only national-level innovative platform in the nanotechnology industry, 
+“National  Nano  Intelligent  Manufacturing  Industry  Innovation  Center”,  with  several  well-known 
+enterprises in China. At present, the Group has more than 200 innovative drugs and preparations under 
+research and development, including over 90 large molecule drugs, over 60 small molecule drugs, over 
+50 new preparations and more than 160 clinical trials in progress, nearly 60 of which were in the phase 
+III clinical trials. It is expected that, by the end of 2028, there will be more than 50 new drugs or new 
+indications to be submitted for marketing approval.
+
+The  Group  possesses  strong  commercialisation  capabilities  and  has  established  a  professional  sales 
+team  of  over  10,000  individuals,  extensively  covering  medical  institutions  across  the  country.  This 
+robust sales team and extensive commercialisation experience provide strong safeguards for the future 
+sales performance of the Group’s innovative drugs to be launched on the market.
+
+The Group is committed to driving the high-quality development of China’s pharmaceutical industry 
+through  continuous  innovation  and  solid  commercialisation  capabilities,  thereby  benefiting  more 
+patients.
+
+– 3 –
+
+BUSINESS REVIEW
+
+Finished Drug Business
+
+In the first half of 2025, during a pivotal period of deepening reforms in the pharmaceutical industry, 
+the  Group  proactively  addressed  market  challenges  brought  about  by  the  full  rollout  of  centralised 
+procurement  policies.  Despite  significant  price  adjustments  for  core  products  such  as  Duomeisu  and 
+Jinyouli,  which  resulted  in  temporary  pressure  on  revenue  from  finished  drug  business,  the  Group 
+achieved  encouraging  interim  results  amid  adversity  through  forward-looking  strategic  planning  and 
+an innovation-driven development approach. The key initiatives and business reviews are as follows:
+
+Proactively addressing market challenges and enhancing channel deployment and academic promotion
+
+The  Group  continuously  optimised  its  market  strategies  by  intensifying  hospital  channel  penetration, 
+expanding into lower-tier markets, and developing the retail channel, thereby significantly improving 
+product  coverage  and  accessibility.  At  the  same  time,  we  focused  on  clinical  needs,  broadened 
+application scenarios, and strengthened professional academic promotion to deepen the understanding 
+of  our  products’  clinical  value,  thereby  boosting  market  penetration  and  influence.  These  measures 
+not  only  effectively  mitigated  the  pressure  from  market  changes  but  also  further  strengthened  our 
+competitiveness, driving the sustained and steady sales growth in the future.
+
+Accelerating conversion of the innovative pipeline to build core product competitiveness
+
+We continue to increase investment in innovation and R&D, staying guided by unmet clinical needs of 
+patients to advance clinical researches for multiple key products and indications, while expediting the 
+path to market of new products. In parallel, through strengthening our internal innovation capabilities 
+and proactively in-licensing external innovative programs, we promoted the development of products 
+with  differentiated  competitive  advantages  to  further  enrich  our  product  portfolio.  This  enhances  the 
+long-term competitiveness of our overall pipeline and provides robust support for future performance 
+growth.
+
+Advancing international expansion to realise the worldwide value of innovation
+
+Aligned with the “Innovation + Internationalisation” dual-driven strategy, the Group leveraged its rich 
+innovation assets to deepen collaborations with global innovative pharmaceutical enterprises. Through 
+diversified  approaches  including  out-licensing,  proprietary  development  and  R&D  collaborations,  we 
+are  actively  expanding  into  overseas  markets  and  accelerating  the  translation  and  commercialisation 
+of  innovative  outcomes  globally.  This  strategy  has  already  yielded  notable  results.  In  the  first  half 
+of  2025,  the  Group’s  licence  fee  income  reached  RMB1,075  million,  not  only  injecting  new  growth 
+momentum  into  our  finished  drug  business  but  also  demonstrating  the  high  level  of  recognition  and 
+trust  that  the  global  pharmaceutical  industry  places  in  the  Group’s  innovation  pipeline.  We  will 
+continue  to  cultivate  our  out-licensing  business  and  aim  to  develop  it  into  a  core  component  of  the 
+Group’s recurring revenue.
+
+– 4 –
+
+Looking  ahead,  the  pharmaceutical  industry  is  entering  a  new  phase  of  high-quality  development. 
+The  Group  will  proactively  capitalise  on  opportunities  arising  from  industry  transformation.  In 
+an  increasingly  complex  and  volatile  market  environment,  we  will  further  strengthen  our  core 
+competitiveness  to  achieve  sustainable  high-quality  development  and  strive  to  become  a  globally 
+leading pharmaceutical entrerprise.
+
+The  finished  drug  business  recorded  a  revenue  of  RMB10,248  million  (including  licence  fee  income 
+of RMB1,075 million) for the first half of the year, representing a decrease of 24.4% as compared with 
+the same period last year. The analysis of revenue from finished drug business is as follows:
+
+By Therapeutic Area
+Nervous system
+Oncology
+Anti-infectives
+Cardiovascular
+Respiratory system
+Digestion and metabolism
+Others
+Sales of goods
+Licence fee income
+Total revenue
+
+Nervous System
+
+Six months ended 30 June
+
+2025
+RMB’000
+
+2024
+RMB’000
+
+3,754,814
+1,050,606
+1,656,912
+868,336
+575,441
+528,099
+738,777
+9,172,985
+1,074,667
+10,247,652
+
+5,235,700
+2,683,139
+2,307,375
+1,228,902
+756,025
+646,697
+691,241
+13,549,079
+–
+13,549,079
+
+Change
+
+-28.3%
+-60.8%
+-28.2%
+-29.3%
+-23.9%
+-18.3%
++6.9%
+-32.3%
+N/A
+-24.4%
+
+Major  products  include  NBP  (恩必普®)  (butylphthalide  soft  capsules/injection),  Mingfule  (明復樂®) 
+(recombinant  human  TNK  tissue-type  plasminogen  activator  for  injection),  Shuanling  (舒安靈®) 
+(pentoxifylline  extended-release  tablets/injection),  Enliwei  (恩理維®)  (lacosamide  injection/tablets), 
+Enxi  (恩悉®)  (pramipexole  dihydrochloride  tablets),  Oushuan  (歐舒安®)  (paliperidone  extended-
+release tablets) and Oulaining (歐來寧®) (oxiracetam capsules/oxiracetam for injection).
+
+NBP (恩必普®)
+NBP  is  a  Class  1  new  chemical  drug  and  a  patent-protected  exclusive  product.  It  has  been 
+recommended  by  over  30  professional  organisations  and  guidelines  and  is  mainly  used  for  the 
+treatment of ischemic stroke and related diseases and is one of the major drugs for this indication.
+
+Mingfule (明復樂®)
+Mingfule  is  a  third-generation  specific  thrombolytic  drug  independently  developed  with  complete 
+independent intellectual property rights. As the first Tenecteplase approved in China for the indication 
+of  acute  ischemic  stroke  (AIS),  it  has  been  included  in  multiple  clinical  treatment  guidelines.  In 
+2025,  the  BRIDGE-TNK  study  (bridging  therapy)  and  ANGEL-TNK  study  (non-bridging  therapy) 
+of  Mingfule  were  respectively  published  in  the New  England  Journal  of  Medicine  (NEJM)  and  the 
+Journal  of  the  American  Medical  Association  (JAMA),  providing  high-level  evidence-based  support 
+
+– 5 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+for its use in endovascular treatment of acute stroke combined with thrombolysis and in special patient 
+populations,  and  further  consolidating  its  leading  position  in  the  global  stroke  treatment  field.  In  the 
+future, we will continue to promote clinical research and market expansion of Mingfule, contribute to 
+the construction of China’s stroke treatment system, and provide patients with better treatment options.
+
+Shuanling (舒安靈®)
+Shuanling  is  a  non-selective  phosphodiesterase  inhibitor  that  can  comprehensively  improve 
+microcirculation  through  multiple  mechanisms  of  action.  The  market  potential  has  further  expanded 
+with  the  doctors  at  tiered-hospitals  having  an  enhanced  understanding  of  the  product  and  the 
+continuous penetration into lower-tier markets.
+
+In  the  first  half  of  2025,  NBP  experienced  a  decline  in  sales  revenue  due  to  price  cuts  following  the 
+National  Reimbursement  Drug  List  negotiation.  However,  this  initiative  has  benefited  more  patients, 
+further  improving  product  accessibility  and  laying  a  foundation  for  further  expanding  market  reach. 
+The  sales  revenue  of  Shuanling  decreased  significantly  due  to  the  inclusion  of  the  injection  in  the 
+tenth National Reimbursement Drug List (NRDL). Mingfule posted a substantial year-on-year increase 
+in sales revenue in the first half of the year, and its indication for treatment of acute ischemic stroke 
+was  successfully  included  in  the  NRDL,  further  expanding  the  market  potential  and  laying  a  solid 
+foundation for realising the future revenue growth of this product. Oushuan and Oulaining maintained 
+steady year-on-year growth.
+
+Oncology
+
+Major  products  include  Jinyouli  (津優力®)  (PEG-rhG-CSF  injection),  Duoenyi  (多恩益®)  (irinotecan 
+hydrochloride  liposome  injection),  Keaili  (克艾力®)  (paclitaxel  for  injection  (albumin-bound)), 
+Duoenda  (多恩達 ®)  (mitoxantrone  hydrochloride  liposome  injection),  Enshuxing  (恩舒幸 ®) 
+(enlonstobart injection), Duomeisu (多美素®) (doxorubicin hydrochloride liposome injection), Geruite 
+(戈瑞特®) (lenvatinib mesilate capsules) and Jinlitai (津立泰®) (narlumosbart injection).
+
+Jinyouli (津優力®)
+Jinyouli is the first long-acting white blood cell booster drug developed in China. It is a Class 1 new 
+therapeutic  biological  drug  used  to  prevent  and  treat  incidence  of  infection  and  pyrexia  due  to  low 
+neutrophil  count  in  patients  receiving  chemotherapy.  The  product  is  unanimously  recommended  by 
+domestic  and  foreign  guidelines  and  has  won  multiple  national  awards.  Marketing  efforts  of  this 
+product  currently  focus  on  promoting  the  long-acting  formulation,  expanding  the  coverage  in  core 
+hospitals in prefecture-level cities, lower-tier market penetration and driving sales ramp-up in regions 
+under centralised volume-based procurement policy.
+
+Duoenyi (多恩益®)
+Duoenyi  is  the  first  generic  irinotecan  hydrochloride  liposome  injection  in  China.  It  was  approved 
+in  September  2023  for  use  in  combination  with  5-fluorouracil  (5-FU)  and  leucovorin  (LV)  for 
+the  treatment  of  patients  with  metastatic  pancreatic  cancer  that  have  progressed  after  receiving 
+gemcitabine  treatment.  The  2024  CSCO  Guidelines  recommend  the  combination  regimen  as  a  Class 
+I  recommendation  for  the  treatment  of  metastatic  pancreatic  cancer  in  second-line  and  beyond  and  a 
+
+– 6 –
+
+Class  II  recommendation  for  inclusion  in  the  first-line  treatment  of  pancreatic  cancer.  Its  marketing 
+efforts  currently  focus  on  gastrointestinal  stromal  tumors,  including  pancreatic  cancer,  biliary  tract 
+tumors, and colorectal cancer.
+
+Duoenda (多恩達®)
+Duoenda,  a  Class  2  new  chemical  drug  developed  by  the  Group,  which  was  approved  for  marketing 
+in  early  2022  and  included  in  the  NRDL  in  2023  for  the  treatment  of  relapsed/refractory  peripheral 
+T-cell lymphoma, is the world’s first mitoxantrone liposomal formulation on the market with patents 
+in  several  countries.  Currently,  the  product  is  under  active  exploration  and  research  in  the  field  of 
+hematological tumors including front-line treatment of peripheral T-cell lymphoma, diffuse large B-cell 
+lymphoma, and acute myeloid leukemia.
+
+Enshuxing (恩舒幸®)
+Enshuxing  is  a  Class  1  new  therapeutic  biological  drug,  for  which  the  Group  owns  the  invention 
+patent  and  complete  independent  property  rights.  The  product  obtained  marketing  approval  in  June 
+2024  and  was  included  in  the  NRDL  in  the  same  year.  The  median  survival  (mOS)  of  patients  with 
+recurrent  metastatic  cervical  cancer  treated  with  monotherapy  for  second-line  and  beyond  treatment 
+was  up  to  21.3  months.  Data  from  the  Phase  III  first-stage  trial  for  first-line  treatment  of  recurrent 
+metastatic  cervical  cancer  indicated  a  median  progression-free  survival  (mPFS)  up  to  15.1  months, 
+demonstrating  significantly  superior  efficacy  compared  to  similar  products.  Given  its  outstanding 
+clinical  data,  Enshuxing  has  been  included  in  the  treatment  guidelines  recommended  by  three  major 
+medical  associations,  namely  the  Chinese  Medical  Association,  the  Chinese  Society  of  Clinical 
+Oncology  (CSCO),  and  the  China  Anti-Cancer  Association  (CACA).  Since  its  market  launch,  the 
+product  has  rapidly  increased  in  sales  volume.  The  marketing  efforts  of  the  product  currently  focus 
+on  gynecological  tumors,  including  cervical  cancer  and  endometrial  cancer,  and  will  be  expanded  to 
+esophageal squamous carcinoma, colorectal cancer and other solid tumors in the future.
+
+In  the  first  half  of  2025,  sales  revenue  of  this  therapeutic  area  recorded  a  significant  year-on-
+year  decline,  mainly  due  to  the  inclusion  of  Duomeisu  in  the  tenth  batch  of  national  volume-based 
+procurement,  resulting  in  substantial  price  reductions.  At  the  same  time,  the  expanded  scope  of  the 
+centralised  procurement  policy  in  the  Beijing-Tianjin-Hebei  “3+N”  Alliance  led  to  a  significant 
+decline  in  sales  revenue  of  Jinyouli.  On  the  other  hand,  benefiting  from  the  shifts  in  prescribers’ 
+medication  concepts,  Duoenyi  posted  a  strong  year-on-year  increase  in  sales  revenue.  In  addition, 
+Enshuxing, a newly launched product, also brought new growth momentum to the business.
+
+Anti-infectives
+
+Major  products  include  Anfulike  (安複利克®)  (amphotericin  B  cholesteryl  sulfate  complex  for 
+injection),  Ansulike  (安速利克 ®)  (amphotericin  B  liposome  for  injection),  Weihong  (維宏 ®) 
+(azithromycin  tablets/capsules/enteric  tablets,  azithromycin  for  injection),  Shuluoke  (舒羅克®) 
+(meropenem for injection), Nuomoling (諾莫靈®) (amoxicillin capsules), Xianqu (先曲®) (ceftriaxone 
+sodium for injection), Xianwu (先伍®) (cefazolin sodium for injection) and Oujian (歐健®) (cefixime 
+capsules), etc.
+
+– 7 –
+
+Anfulike (安複利克®)
+Anfulike  was  approved  for  marketing  through  priority  review  in  March  2021  and  included  in  the 
+NRDL in the same year for the treatment of patients with invasive fungal infections. This product has 
+undergone modifications of lipid structure, which significantly reduce the incidence of nephrotoxicity 
+and  hypokalaemia,  expand  the  applicable  population,  and  lower  the  medical  cost.  It  is  recommended 
+jointly  by  the  Ministry  of  Industry  and  Information  Technology  and  National  Health  Commission  of 
+the People’s Republic of China as a “clinically urgent, market-deficient” drug.
+
+In  the  first  half  of  2025,  the  sales  revenue  of  products  such  as  Anfulike,  Weihong  and  Nuomoling 
+declined due to the weakening market demand, while the sales revenue of Shuluoke increased.
+
+Cardiovascular
+
+Major  products  include  Xuanning  (玄寧®)  (maleate  levamlodipine  tablets/dispersible  tablets),  Encun 
+(恩存®)  (clopidogrel  bisulfate  tablets),  Abikang  (阿比康®)  (aspirin  enteric  tablets),  Yishuning  (意舒
+寧®) (nifedipine controlled-release tablets), Mingfule (明復樂®) (recombinant human TNK tissue-type 
+plasminogen  activator  for  injection  (rhTNK-tPA)),  Daxinning  (達新寧®)  (dronedarone  hydrochloride 
+tablets) and Meiluolin (美洛林®) (ticagrelor tablets).
+
+Xuanning (玄寧®)
+Xuanning is mainly used for the treatment of hypertension, chronic stable angina and variant angina, 
+and  is  a  product  in  the  NRDL  and  essential  drug  list.  The  Group  will  continue  to  implement  all-
+channel  promotion,  deepen  the  expansion  into  lower-tier  and  private  markets  to  fully  channelise 
+patients, and at the same time enhance promotion in retail markets and online sales channel, so as to 
+fully unleash the brand influence of the product.
+
+Encun (恩存®)
+Encun  is  a  platelet  aggregation  inhibitor,  which  is  mainly  used  to  prevent  atherosclerotic  thrombotic 
+events  such  as  myocardial  infarction  and  ischemic  stroke.  The  product  is  the  only  domestically 
+produced clopidogrel in China that has obtained the US FDA approval and was included in the national 
+volume-based  procurement.  We  will  continue  to  strengthen  lower-tier  market  penetration  to  further 
+improve accessibility of the product.
+
+Mingfule (明復樂®)
+Mingfule is a domestic innovative third-generation specific thrombolytic drug independently developed 
+by  the  Group  based  on  the  Chinese  genome  sequence,  focusing  on  the  thrombolysis  treatment  in 
+patients  with  acute  myocardial  infarction  within  6  hours  of  onset.  It  is  a  preferred  thrombolytic  drug 
+recommended by multiple authoritative guidelines on myocardial infarction, including the Guidelines 
+for the Rational  Medication  for Thrombolytic Treatment of Acute ST-Segment Elevation Myocardial 
+Infarction  (2nd  Edition),  Chinese  Expert  Consensus  on  Microcirculation  Protection  Strategies  for 
+Emergency PCI in Patients with ST-Segment Elevation Myocardial Infarction, and Expert Consensus 
+on  Intracoronary  Thrombolysis  during  Percutaneous  Coronary  Intervention  for  Acute  ST-Segment 
+Elevation Myocardial Infarction (2025), occupying a leading position in the cardiovascular emergency 
+field.
+
+– 8 –
+
+In  the  first  half  of  2025,  the  sales  revenue  of  Xuanning  recorded  a  year-on-year  decline,  mainly  due 
+to  the  execution  of  centralised  volume-based  procurement  policy,  which  affected  its  sales  in  public 
+medical  institutions.  Meanwhile,  as  market  demand  shifted,  sales  revenue  of  products  such  as  Encun 
+and Abikang also declined, while Daxinning achieved steady sales growth.
+
+Respiratory System
+
+Major  products  include  Yiluoda  (伊絡達 ®)  (nintedanib  capsules),  Qixin  (琦昕 ®)  (oseltamivir 
+phosphate capsules), Nuoyian (諾一安®) (montelukast sodium tablets/chewable tablets), Qixiao (琦效®) 
+(arbidol  hydrochloride  tablets),  Zhongnuo  Like  (中諾立克®)  (ambroxol  hydrochloride  oral  solution), 
+Zhongnuoping  (中諾平®)  (ambroxol  hydrochloride  extended-release  tablets)  and  Enyitan  (恩益坦®) 
+(omalizumab for injection).
+
+Yiluoda (伊絡達®)
+Yiluoda is the first-to-market generic nintedanib drug in China, which is indicated for the treatment of 
+systemic  sclerosis-associated  interstitial  lung  disease  (SSc-ILD)  and  progressive  fibrosing  interstitial 
+lung  diseases  (PF-ILD).  All  three  indications  of  the  product  have  been  included  in  the  National 
+Reimbursement Drug List (NRDL), which contributed to the product’s sustained growth.
+
+Enyitan (恩益坦®)
+Enyitan  is  the  first  biosimilar  drug  of  Xolair®  developed  as  Class  3.3  therapeutic  biological  product 
+in  China.  The  product  was  approved  for  marketing  in  October  2024  and  indicated  for  adults  and 
+adolescents  (12  years  of  age  and  older)  with  chronic  spontaneous  urticaria  who  remain  symptomatic 
+despite  H1  antihistamine  treatment,  and  was  also  approved  for  the  indication  of  moderate  to  severe 
+persistent  allergic  asthma  in  February  2025.  The  Global  Strategy  for  Asthma  Management  and 
+Prevention  (GINA  2024)  report  states  that  for  patients  6  years  of  age  and  older  with  severe  allergic 
+asthma, IgE therapy (such as omalizumab) is strongly recommended.
+
+In  the  first  half  of  2025,  the  evolving  concepts  of  anti-fibrotic  therapy  drove  sustained  growth  in 
+market  demand,  presenting  new  development  opportunities  for  the  industry.  Against  this  backdrop, 
+Yiluoda  achieved  steady  sales  revenue  growth  through  effective  promotional  strategies  and  efficient 
+team  collaboration.  Enyitan  received  approval  for  its  allergic  asthma  indication  in  the  first  half  of 
+the  year,  further  diversifying  the  product  lines  in  respiratory  system  sector  and  contributing  revenue 
+growth of this field. However, the sales revenue of products such as Qixin, Nuoyian, Qixiao recorded 
+decrease due to market conditions, resulting in a year-on-year decrease in the overall sales revenue of 
+this segment.
+
+Digestion and Metabolism
+
+Major  products  include  Shuanglexin  (雙樂欣®)  (metformin  hydrochloride  tablets/extended-release 
+tablets),  Oubeituo  (歐倍妥®)  (esomeprazole  capsules),  Debixin  (得必欣®)  (omeprazole  capsules/
+tablets/injection),  Xinweiping  (欣維平®)  (acarbose  tablets)  and  Linmeixin  (林美欣®)  (glimepiride 
+dispersible tablets).
+
+– 9 –
+
+Oubeituo (歐倍妥®)
+Oubeituo  is  indicated  for  acid-related  disorders  such  as  gastro-esophageal  reflux  disease,  stomach 
+ulcers caused by non-steroidal anti-inflammatory drugs (NSAIDs), and the eradication of Helicobacter 
+pylori  (Hp)  in  combination  with  antibiotics.  As  an  optically  isomeric  proton  pump  inhibitor  (PPI) 
+with a relatively wide range of indications, esomeprazole meets the needs of drug treatment for acid-
+related  diseases  and  has  been  widely  recommended  by  the  Chinese  Journal  of  Gastroenterology  and 
+the Chinese Journal of General Practitioners.
+
+Debixin (得必欣®)
+Debixin,  a  classic  proton  pump  inhibitor  (PPI),  is  included  in  the  National  Essential  Medicines  List 
+and  classified  as  Category  A  under  the  medical  insurance.  Recommended  by  numerous  domestic 
+and  international  authoritative  guidelines,  it  is  indicated  for  the  treatment  of  various  gastric  diseases 
+caused by excessive gastric acid.
+
+In  the  first  half  of  2025,  Xinweiping  achieved  steady  revenue  growth,  while  Debixin’s  unit  price 
+declined  due  to  adjustments  in  its  sales  strategy  amid  intense  market  competition,  which  in  turn 
+dragged down the overall sales revenue in this segment.
+
+Other Therapeutic Areas
+
+Major  products  include  Qimaite  (奇邁特 ®)  (tramadol  hydrochloride  tablets),  Gubang  (固邦 ®) 
+(alendronate sodium tablets/enteric tablets), Xianpai (先派®) (omeprazole sodium for injection), Gujie 
+(固杰®) (tofacitinib citrate extended-release tablets) and Oubida (歐必達®) (apremilast tablets).
+
+Bulk Product Business
+
+In  the  first  half  of  2025,  the  bulk  product  business  recorded  sales  revenue  of  RMB2,075  million, 
+representing  a  year-on-year  increase  of  11.9%.  The  Group  will  adopt  a  market-oriented  approach, 
+continue to enhance its product chain, accelerate registration and development in the high-end market, 
+and constantly optimise processes such as production, quality control, registration, and sales.
+
+Vitamin C
+
+Sales  revenue  of  Vitamin  C  products  amounted  to  RMB1,196  million,  representing  an  increase  of 
+21.6% as compared with the same period last year, primarily driven by a marked increase in overseas 
+market  demand,  which  led  to  a  substantial  uplift  in  sales  revenue.  The  Group  will  focus  on  product 
+quality and continuously develop overseas sales networks to further increase its market share.
+
+Antibiotics
+
+Sales revenue of antibiotics products amounted to RMB879 million, roughly flat year-on-year.
+
+– 10 –
+
+Functional Food and Other Businesses
+
+In the first half of 2025, the functional food and other businesses recorded sales revenue of RMB951 
+million, increasing 8.0% as compared with the same period last year, mainly due to the growth in sales 
+volume of caffeine during the period.
+
+Research and Development
+
+Research  and  development  expenses  for  the  period  increased  by  5.5%  to  RMB2,683  million  as 
+compared with the same period last year, accounting for approximately 26.2% of the revenue from the 
+finished drug business. Currently, there are nearly 90 products in various stages of clinical trial, with 
+12 of them having submitted application for marketing approval and more than 30 key products in the 
+registration stage of clinical trials.
+
+Regulatory Updates
+
+Since  the  beginning  of  the  year,  the  regulatory  progress  of  the  Group  in  the  PRC  is  as  follows:  3 
+innovative  drugs  have  obtained  marketing  approvals;  applications  for  marketing  approval  of  5  drugs 
+have  been  accepted;  4  drugs  have  been  granted  breakthrough  therapy  designations;  28  drugs  have 
+obtained  clinical  trial  approvals;  and  7  generic  drugs  have  obtained  drug  registration  approvals.  In 
+addition, the Group received clinical trial approval for 9 innovative drugs and 1 Fast Track designation 
+in North America.
+
+China
+Marketing Approvals Obtained
+Month
+
+Drug Candidate
+
+January 2025
+
+February 2025
+
+June 2025
+
+Shanzeping (善澤平®) (prusogliptin 
+
+tablets)
+
+Enyitan (恩益坦®) (omalizumab for 
+
+injection)
+
+Meiluotai (美洛泰®) (Meloxicam 
+
+Injection (III))
+
+Indication
+
+The improvement of glycemic control in adults with type 
+2 diabetes (including monotherapy and combination 
+therapy when metformin hydrochloride alone does not 
+provide adequate glycemic control)
+
+Treatment of moderate to severe persistent allergic asthma
+
+Moderate to severe pain in adults
+
+Applications for Marketing Approval Accepted
+Month
+
+Drug Candidate
+
+Indication
+
+March 2025
+March 2025
+March 2025
+
+June 2025
+
+Aprepitant injection
+Irinotecan liposome injection
+Paliperidone palmitate injection (1M)
+
+Pregabalin extended-release tablets
+
+Prevention of postoperative nausea and vomiting
+First-line metastatic pancreatic cancer
+Schizophrenia
+Diabetic peripheral neuropathic pain and postherpetic 
+
+neuralgia
+
+August 2025
+
+Semaglutide injection
+
+Glycemic control in adult patients with type 2 diabetes
+
+– 11 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Breakthrough Therapy Designations (BTD) Granted
+Month
+
+Drug Candidate
+
+Indication
+
+SYS6010 (humanised anti-human 
+
+EGFR monoclonal antibody-JS-1 
+conjugate injection)
+
+Monotherapy for EGFR mutation-positive advanced non-
+small cell lung cancer (NSCLC) after failure of EGFR-
+TKIs and platinum-based chemotherapy
+
+January 2025
+
+February 2025
+
+Sirolimus for Injection (albumin-
+
+bound)
+
+Malignant perivascular epithelioid cell tumor (PEComa)
+
+All-comer population of patients with platinum-resistant 
+recurrent epithelial ovarian cancer, primary peritoneal 
+carcinoma, or fallopian tube cancer
+
+RAS, RAF, EGFR ECD and PIK3CA exon 20 wild-type 
+advanced colorectal cancer after failure of standard 
+treatment in second-line or beyond
+
+March 2025
+
+JSKN003
+
+May 2025
+
+JMT101
+
+Clinical Trial Approvals Obtained
+First Indication
+Month
+
+Drug Candidate
+
+Indication
+
+January 2025
+
+January 2025
+
+January 2025
+
+February 2025
+
+March 2025
+
+March 2025
+
+March 2025
+
+April 2025
+
+April 2025
+
+April 2025
+
+May 2025
+
+July 2025
+
+SYH2059 tablets (PDE4B inhibitor)
+
+Interstitial lung disease
+
+SYS6045 for injection (ADC)
+
+SYS6041 for injection (ADC)
+
+SYS6017 injection (VZV-mRNA 
+
+vaccine)
+
+Advanced solid tumors
+
+Advanced solid tumors
+
+Prevention of herpes zoster
+
+JMT108 injection (PD-1/IL15)
+
+Advanced malignant tumors
+
+SYH2067 capsules
+
+SYS6040 (ADC)
+
+SYH2046 tablets
+
+Weight-loss
+
+Advanced solid tumors
+
+Heart failure after acute myocardial infarction
+
+Prusogliptin and metformin extended-
+
+release tablets
+
+Diabetes
+
+SYH2068 injection (siRNA)
+
+Hyperlipoproteinemia (a)
+
+JMT106 injection (GPC3/IFN)
+
+Advanced solid tumors
+
+High-concentration hydroxocobalamin 
+
+hydrochloride injection
+
+Methylmalonic academia (MMA)
+
+August 2025
+
+Dupilumab Injection
+
+Moderate-to-severe atopic dermatitis in adults
+
+– 12 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional Indication
+
+Month
+
+Drug Candidate
+
+Indication
+
+January 2025
+
+Paclitaxel cationic liposome for 
+
+In combination with systemic therapy for the treatment of 
+
+injection
+
+liver metastases of advanced solid tumors
+
+January 2025
+
+SYHX1901 tablets
+
+January 2025
+
+JMT101 injection
+
+January 2025
+
+SYHA1813 oral solution
+
+February 2025
+
+SYS6002 for injection
+
+March 2025
+
+JMT101
+
+March 2025
+
+Glumetinib tablets
+
+April 2025
+
+JSKN003 for injection
+
+April 2025
+
+April 2025
+
+April 2025
+
+Recombinant human TNK tissue-type 
+plasminogen activator for injection
+
+JMT601 injection
+
+CM326 injection
+
+April 2025
+
+Docetaxel (albumin-bound)
+
+April 2025
+
+April 2025
+
+Prusogliptin tablets 
+(DBPR108 tablets)
+
+Sirolimus for injection (albumin-
+
+bound)
+
+In combination with other drugs for the treatment of solid 
+
+tumors and hematological tumors
+
+In combination with irinotecan liposome with or without 
+
+glumetinib tablets for second-line treatment of colorectal 
+cancer with MET amplification or high expression
+
+In combination with enlonstobart injection (SG001) for 
+
+consolidation after synchronous/sequential radiotherapy 
+in limited stage small cell lung cancer
+
+In combination with sirolimus for injection (albumin-bound) 
+for the treatment of advanced renal cell carcinoma in 
+second-line and beyond
+
+In combination with JMT101 and SG001 for the first-
+
+line treatment of advanced head and neck squamous cell 
+carcinoma
+
+In combination with mitoxantrone liposome versus 
+
+investigator’s choice of chemotherapy as the treatment of 
+nasopharyngeal cancer in third-line and beyond
+
+In combination with oxetinib for the first-line treatment 
+of EGFR classical mutated and MET amplification or 
+overexpression in non-small cell lung cancer
+
+First-line and perioperative combination treatment of 
+
+HER2-positive gastric cancer
+
+Acute ischemic stroke of longer time window (within 4.5–24 
+
+hours of onset)
+
+Primary membranous nephropathy
+
+Adolescent asthma
+
+In combination with glumetinib tablets for the treatment of 
+MET amplification or overexpression in gastric cancer 
+and other solid tumors in second line and beyond
+
+In combination with dapagliflozin and metformin for the 
+
+treatment of type 2 diabetes
+
+In combination with palbociclib and fluvestrant for the 
+
+first-line treatment of HR-positive/HER2-negative breast 
+cancer
+
+– 13 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Registration Approvals Obtained
+Since  the  beginning  of  2025,  a  total  of  7  generic  drugs  have  obtained  drug  registration  approvals, 
+namely regorafenib tablets, ilaprazole enteric-coated tablets, oseltamivir phosphate for oral suspension, 
+peramivir  injection  (300mg/60ml  bag),  vonoprazan  fumarate  tablets  (20mg  and  10mg),  cobamamide 
+capsules and mesalazine enteric-coated tablets.
+
+North America
+Clinical Trial Approvals Granted by the U.S. FDA
+Month
+
+Drug Candidate
+
+Indication
+
+January 2025
+
+February 2025
+
+March 2025
+
+April 2025
+
+April 2025
+
+April 2025
+
+April 2025
+
+May 2025
+
+June 2025
+
+SYS6043 (ADC)
+
+Advanced/metastatic solid tumors
+
+SYH2059 tablets (PDE4B inhibitor)
+
+Interstitial lung disease
+
+SYH2051 tablets (selective ATM 
+inhibitor)
+
+JMT203 (GFRAL)
+
+JMT108 (PD–1/IL15)
+
+SYS6041 (ADC)
+
+JMT202 (FGFR1c/βKlotho)
+SYH2046 tablets
+
+Advanced solid tumors
+
+Cancer cachexia
+
+Advanced malignant tumors
+
+Advanced solid tumors
+
+Hypertriglyceridemia (HTG)
+
+Heart failure after acute myocardial infarction
+
+SYS6040 (ADC)
+
+Advanced solid tumors
+
+Fast Track Designation Granted by the U.S. FDA
+Month
+
+Drug Candidate
+
+Indication
+
+May 2025
+
+CPO301 (EGFR-ADC, also known as 
+
+SYS6010 in China)
+
+Adult patients with advanced or metastatic non-squamous 
+
+non-small cell lung cancer (Nsq-NSCLC) without 
+EGFR mutations or other actional genomic alterations 
+(AGA), with prior disease progression on platinum-based 
+chemotherapy and an anti-PD-(L)1 antibody
+
+Major Clinical Trial Progress
+Initiation/Enrollment of Pivotal Clinical Trial
+JSKN003
+•	
+
+In	 January	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 initiated	 in	 China	
+comparing  investigator’s  choice  of  chemotherapy  for  the  second-line  and  third-line  treatment  of 
+HER2 low expressing recurrent/metastatic breast cancer.
+
+•	
+
+In	 February	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 initiated	 in	 China	
+comparing  TDM1  for  the  treatment  of  HER2-positive  advanced  breast  cancer  in  second-line  and 
+beyond.
+
+– 14 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ammuxetine hydrochloride enteric-coated tablets
+•	
+
+In	February	2025,	the	phase	III	clinical	trial	comparing	positive	control	therapy	for	the	treatment	
+of depression was initiated in China and is currently in the enrollment stage.
+
+Valsartan levoamlodipine maleate tablets
+•	
+
+In	 February	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 conducted	 in	 China	
+for the treatment of primary mild and moderate hypertension that cannot be effectively controlled 
+by monotherapy.
+
+SYS6010 for injection (humanised anti-human EGFR monoclonal antibody-JS-1 conjugate injection)
+•	
+
+In	 April	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 conducted	 in	 China	 for	
+the second-line treatment of EGFR mutant NSCLC.
+
+Dextromethorphan bupropion extended-release tablets
+•	
+
+In	 April	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 conducted	 in	 China	 for	
+the treatment of depression in adults.
+
+JMT101 injection (recombinant humanised anti-epidermal growth factor receptor monoclonal antibody 
+injection)
+•	
+
+In	 June	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 Part	 2	 of	 Phase	 III	 clinical	 trial	 of	 JMT101	
+injection  in  combination  with  osimertinib  for  the  treatment  of  first-line  EGFR  classical  mutated 
+non-small cell lung cancer.
+
+Glumetinib tablets
+•	
+
+In	 April	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 conducted	 in	 China	 for	
+use  in  combination  with  oxetinib  compared  with  platinum-based  chemotherapy  for  the  treatment 
+of MET amplification or overexpression in NSCLC after EGFR-TKI resistance.
+
+•	
+
+In	June	2025,	the	first	subject	was	enrolled	in	the	phase	II/III	clinical	trial	conducted	in	China	for	
+use  in  combination  with  oxetinib  compared  with  oxetinib  for  the  first-line  treatment  of  classical 
+EGFR mutations with MET amplification or overexpression in NSCLC.
+
+Paclitaxel cationic liposome for injection
+•	
+
+In	June	2025,	the	first	subject	was	enrolled	in	the	Phase	Ib/III	clinical	trial	conducted	in	China	of	
+combination systemic therapy for first-line treatment of colorectal cancer liver metastases.
+
+Sirolimus for injection (albumin-bound)
+•	
+
+In	 May	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 conducted	 in	 China	 for	
+use in combination with fulvestrant for the treatment of HR-positive/HER2-negative breast cancer 
+in second-line and above.
+
+•	
+
+In	 June	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 Ib/III	 clinical	 trial	 conducted	 in	 China	
+for use in combination with palbociclib and fluvestrant for the first-line treatment of HR-positive/
+HER2-negative breast cancer.
+
+– 15 –
+
+SYHA1813 oral solution
+•	
+
+In	June	2025,	the	first	subject	was	enrolled	in	the	phase	II/III clinical trial conducted in China in 
+combination with SG001 (Enshuxing (恩舒幸®)) for consolidation after radiotherapy in small cell 
+lung cancer.
+
+SYHX1901 tablets
+•	
+
+In	 June	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III  clinical  trial  conducted  in  China  for 
+the treatment of moderate-to-severe plaque psoriasis.
+
+Prusogliptin tablets
+•	
+
+In	 July	 2025,	 the	 first	 subject	 was	 enrolled	 in	 the	 phase	 III  clinical  trial  conducted  in  China  in 
+combination with dapagliflozin and metformin for the treatment of type 2 diabetes.
+
+Last Subject Enrollment/Database Lock/Statistical Analysis Results of Pivotal Clinical Trials
+KN026 injection
+•	
+
+In	 April	 2025,	 the	 last	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 conducted	 in	 China	
+of  KN026  in  combination  with  docetaxel  (albumin-bound)  compared  with  trastuzumab  and 
+pertuzumab in combination with docetaxel injection for the first-line treatment of HER2-positive 
+breast cancer.
+
+•	
+
+In	 July	 2025,	 the	 clinical	 summary	 report	 was	 completed	 for	 the	 phase	 II/III	 clinical	 trial	
+conducted  in  China  of  KN026  in  combination  with  Paclitaxel  or  irinotecan  for  the  treatment  of 
+HER2-positive  gastric  cancer  in  second  line  and  beyond  (including  gastroesophageal  junction 
+adenocarcinoma).
+
+DP303c  injection  (recombinant  humanised  anti-HER2  monoclonal  antibody-MMAE  conjugate 
+injection)
+•	
+
+In	 April	 2025,	 the	 last	 subject	 was	 enrolled	 in	 the	 phase	 III	 clinical	 trial	 conducted	 in	 China	 for	
+the treatment of HER2-positive advanced breast cancer in second-line and beyond.
+
+Daunorubicin cytarabine liposome for injection
+•	
+
+In	 April	 2025,	 the	 database	 lock	 was	 completed	 for	 bioequivalence	 clinical	 trials	 conducted	 in	
+China for the treatment of AML in the elderly patients who have not been previously treated.
+
+TG103 injection (GLP-1 receptor agonists)
+•	
+
+In	June	2025,	the	clinical	summary	report	was	completed	for	the	phase	III	clinical	trial	conducted	
+in China for the treatment of overweight and obesity.
+
+Mitoxantrone hydrochloride liposome injection
+•	
+
+In	 June	 2025,	 the	 database	 lock	 was	 completed	 for	 the	 phase	 III	 clinical	 trial	 conducted	 in	 China	
+for the treatment of relapsed/refractory peripheral T-cell lymphoma in second-line and beyond.
+
+– 16 –
+
+Pertuzumab injection
+•	
+
+In	 June	 2025,	 the	 topline	 results	 were	 obtained	 from	 the	 phase	 III	 clinical	 trial	 conducted	 in	
+China, which evaluated the trastuzumab in combination with docetaxel for the treatment of early 
+or locally advanced HER2-positive breast cancer.
+
+Semaglutide injection
+•	
+
+In	 June	 2025,	 the	 clinical	 study	 summary	 report	 was	 completed	 for	 the	 phase	 III	 clinical	 trial	
+conducted in China for the treatment of type 2 diabetes.
+
+Publication of Major Results
+
+Product
+
+Study Title
+
+Journals/Meetings
+
+HA121-28 tablets (small 
+
+molecule tyrosine kinase 
+inhibitor)
+
+Duoenda (多恩達®) 
+
+(mitoxantrone liposome)
+
+Phase I clinical trial of HA121-28 
+
+for the treatment of advanced solid 
+tumors
+
+Phase II clinical study of HA121-28 
+for the treatment of patients with 
+RET fusion-positive NSCLC
+
+Phase Ib clinical trial of mitoxantrone 
+liposomal drug for the treatment 
+of head and neck squamous cell 
+carcinoma
+
+SWY321(EGFR/c-MET ADC)
+
+Non-clinical study
+
+SYH2039 (MAT2A small 
+
+molecule inhibitor)
+
+Non-clinical study
+
+SYS6041(FRαADC)
+
+Non-clinical study
+
+SYS6042(TROP2 ADC)
+
+Non-clinical study
+
+SYS6051(TF-ADC)
+
+Non-clinical study
+
+JMT601 (CD20/CD47 
+
+bispecific fusion protein)
+
+Omalizumab for injection
+
+Phase I trial of JMT601 for the 
+
+treatment of CD20-positive B-cell 
+non-Hodgkin’s lymphoma
+
+Phase III equivalence clinical study 
+of omalizumab for injection in 
+combination with Xolair (茁樂®) 
+for the treatment of patients with 
+chronic spontaneous urticaria
+
+Signal Transduct Target Ther (IF40.8)
+
+Oral Oncology (IF 4.0)
+
+2025 American Association for Cancer Research 
+(AACR) Annual Meeting — poster presentation
+
+2025 American Association for Cancer Research 
+(AACR) Annual Meeting — oral presentation
+
+2025 American Association for Cancer Research 
+(AACR) Annual Meeting — poster presentation
+
+2025 American Association for Cancer Research 
+(AACR) Annual Meeting — poster presentation
+
+2025 American Association for Cancer Research 
+(AACR) Annual Meeting — poster presentation
+
+2025 American Association for Cancer Research 
+(AACR) Annual Meeting — poster presentation
+
+Chinese Medical Journal (IF 7.1)
+
+– 17 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+
+Study Title
+
+Journals/Meetings
+
+DBPR108 tablets (Prusogliptin 
+
+PK/PD study of DBPR108 tablets in 
+
+Tablets)
+
+patients with type 2 diabetes
+
+JMT101 injection (recombinant 
+humanised anti-epidermal 
+growth factor receptor 
+monoclonal antibody for 
+injection)
+
+Phase II clinical trial of JMT101 in 
+combination with irinotecan and 
+SG001 versus regorafenib for the 
+treatment of patients with ≥3L 
+colorectal cancer
+
+Clinical Pharmacokinetics (IF 4.6)
+
+2025 American Society of Clinical Oncology 
+
+(ASCO) Annual Meeting — oral presentation
+
+2025 Chinese Society of Clinical Oncology (CSCO) 
+
+— poster presentation
+
+Sirolimus for injection 
+(albumin-bound)
+
+ALMB–0166
+
+ALMB–0168
+
+SYS6010 (humanised anti-
+
+human EGFR monoclonal 
+antibody-JS-1 conjugate 
+injection)
+
+Paclitaxel cationic liposome
+
+Ustekinumab injection
+
+Phase I Clinical Trial of Sirolimus for 
+injection (albumin-bound) for the 
+treatment of PEComa
+
+Breast cancer-Phase II trial
+
+European Society for Medical Oncology (ESMO 
+
+Sarcoma) Congress — oral presentation
+
+European Society for Medical Oncology (ESMO) 
+
+Congress — poster presentation
+
+Phase I/II clinical trial of ALMB–
+
+American Academy of Neurology (AAN) Annual 
+
+0166 in patients with acute spinal 
+cord injury
+
+Meeting — oral presentation and poster 
+presentation  
+
+Phase I clinical trial of ALMB–0168 
+
+2025 American Society of Clinical Oncology 
+
+in patients with osteosarcoma
+
+(ASCO) Annual Meeting — oral presentation
+
+Phase I clinical trial of SYS6010 for 
+the treatment of advanced solid 
+tumors
+
+Investigator initiated trial (IIT) of 
+SYS6010 in combination with 
+SYH2051 for the treatment of 
+patients with gastrointestinal 
+cancers symposium
+
+Investigator initiated trial (IIT) of 
+
+paclitaxel cationic liposome for the 
+treatment of patients with advanced 
+solid tumors (arterial infusion 
+chemotherapy)
+
+2025 American Association for Cancer Research 
+(AACR) Annual Meeting — oral presentation
+
+2025 American Society of Clinical Oncology 
+
+(ASCO) Annual Meeting — poster presentation
+
+2025 American Society of Clinical Oncology 
+
+(ASCO) Annual Meeting — online presentation
+
+Phase III equivalence clinical 
+
+Journal of American Academy of Dermatology 
+
+trial of ustekinumab injection in 
+combination with Stelara (喜達諾®)  
+for the treatment of moderate-to-
+severe plaque psoriasis
+
+(JAAD, IF 12.8)
+
+American Academy of Dermatology (AAD) Annual 
+
+Meeting — poster presentation
+
+– 18 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+
+Study Title
+
+Journals/Meetings
+
+Enlonstobart  injection 
+
+(SG001)
+
+Narlumosbart injection 
+
+(JMT103)
+
+Phase III clinical trial of Enlonstobart  
+injection (SG001) in combination 
+with chemotherapy for the treatment 
+of cervical cancer
+
+Phase Ib clinical trial of Narlumosbart 
+
+injection (JMT103) for the 
+treatment of bone metastases
+
+Phase II trial for postmenopausal 
+
+osteoporosis
+
+Society of Gynecologic Oncology (SGO) — poster 
+
+presentation
+
+International journal of cancer (IF5.7)
+
+eClinicalMedicine (IF9.6)
+
+Docetaxel for injection 
+
+(albumin-bound) (HB1801)
+
+Phase II trial of Docetaxel for injection 
+(HB1801) comparing to Taxotere for 
+the treatment of gastric cancer
+
+American Society of Clinical Oncology Annual 
+Meeting — Gastrointestinal Diseases Session 
+(ASCO GI) — oral presentation
+
+KN026
+
+Simmitinib
+
+JMT203
+
+Ammuxetine
+
+SYHA1813
+
+Phase III trial in ≥2L of KN026 
+injection in combination with 
+paclitaxel or irinotecan for the 
+treatment of HER2 positive gastric 
+cancer
+
+Phase I trial for advanced solid tumor
+
+Phase II trial of Simmitinib in 
+combination with Irinotecan 
+liposome for the treatment of 
+advanced esophageal squamous 
+carcinoma
+
+Phase I trial for Cachexia
+
+European Society For Medical Oncology Congress 
+
+(ESMO) — Late Breaking Abstract
+
+European Society For Medical Oncology Congress 
+
+(ESMO) — poster presentation
+
+European Society For Medical Oncology Congress 
+
+(ESMO) — poster presentation
+
+European Society For Medical Oncology Congress 
+
+(ESMO) — poster presentation
+
+Phase II trial for Depression
+
+JAMA Network Open (IF10.5) — acceptance
+
+Phase I trial for Glioma
+
+Annals of Clinical and Translational Neurology 
+
+(IF5.1) — acceptance
+
+– 19 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clinical Pipeline Overview
+Registration and Pivotal Trial of Key Products
+Applications for Marketing Approval Submitted in China
+Drug candidate
+
+Target
+
+Type
+
+Meloxicam nanocrystal injection
+
+Nanodrug
+
+Selective COX-2 
+
+inhibitor
+
+Indication
+
+Moderate-to-severe pain in adults
+
+Clevidipine butyrate injectable 
+
+emulsion
+
+Batoclimab
+
+Ustekinumab injection
+
+Paclitaxel for injection (albumin-
+
+bound) II (SYHX2011)
+
+Nanodrug
+
+Calcium channel blocker Hypertension
+
+Biological drug 
+(monoclonal 
+antibody)
+Biological drug 
+(monoclonal 
+antibody)
+
+FcRn
+
+Myasthenia gravis
+
+IL–12/IL–23p40
+
+Psoriasis
+
+Nanodrug
+
+Microtubule inhibitor
+
+Breast cancer
+
+Aprepitant injection
+
+Chemical drug
+
+NK1 receptor antagonist
+
+Prevention of postoperative 
+nausea and vomiting
+
+Irinotecan liposome injection
+
+Chemical drug
+
+Paliperidone palmitate injection 
+
+(1M)
+
+Pregabalin extended-release 
+
+tablets
+
+Chemical drug
+
+Chemical drug
+
+DNA topoisomerase 
+
+First-line treatment of metastatic 
+
+inhibitor
+
+pancreatic cancer
+
+D2 and 5-HT2A receptor 
+
+antagonist
+
+Schizophrenia
+
+GABA receptor 
+modulator
+
+Semaglutide injection
+
+Chemical drug
+
+GLP–1 receptor agonist
+
+Applications for Marketing Approval Submitted in the U.S.
+Drug candidate
+
+Target
+
+Type
+
+Amphotericin B liposome for 
+
+injection
+
+Irinotecan hydrochloride 
+liposome injection
+
+Nanodrug
+
+Nanodrug
+
+Diabetic peripheral neuropathic 
+
+pain and post-herpetic 
+neuralgia
+
+Glycemic control in adults with 
+
+type 2 diabetes
+
+Indication
+
+Invasive fungal infection
+
+Anti-infective, 
+
+nonspecific drug
+
+Topoisomerase inhibitor
+
+Pancreatic cancer
+
+– 20 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EGFR exon 20 insertion non-
+
+small cell lung cancer/EGFR 
+mutant non-small cell lung 
+cancer
+
+Gastric cancer/Breast cancer/
+
+Neoadjuvant therapy for breast 
+cancer
+
+Pivotal Trials in China
+Drug candidate
+
+DP303c injection (recombinant 
+
+humanised anti-HER2 
+monoclonal antibody-MMAE 
+conjugate injection)
+
+JMT101 injection (recombinant 
+humanised anti-epidermal 
+growth factor receptor 
+monoclonal antibody injection)
+
+Type
+
+Target
+
+Indication
+
+Biological drug
+
+HER2 receptor (ADC)
+
+Breast cancer
+
+Biological drug 
+(monoclonal 
+antibody)
+
+EGFR
+
+KN026 injection
+
+Biological drug 
+
+(bispecific antibody)
+
+HER2 bispecific antibody
+
+Pertuzumab injection
+
+TG103 injection
+
+Daunorubicin cytarabine liposome 
+
+for injection
+
+Docetaxel for injection (albumin-
+
+bound)
+
+Biological drug 
+(monoclonal 
+antibody)
+
+Biological drug 
+(monoclonal 
+antibody)
+
+Nanodrug
+
+HER2
+
+Breast cancer
+
+GLP-1 receptor agonist
+
+Obesity and overweight/Diabetes
+
+RNA/DNA polymerase 
+
+Primary treatment of secondary 
+
+inhibitor
+
+AML
+
+Nanodrug
+
+Microtubule inhibitor
+
+Gastric cancer/Pancreatic cancer
+
+Semaglutide injection
+
+Chemical drug
+
+Mitoxantrone hydrochloride 
+
+liposome injection
+
+JMT103 (Narlumosbart injection)
+
+Pilocarpine hydrochloride eye 
+
+drops
+
+Secukinumab injection
+
+Nanodrug
+
+Biological drug 
+(monoclonal 
+antibody)
+
+Chemical drug
+
+Biological drug 
+(monoclonal 
+antibody)
+
+SYHX1901 tablets
+
+Chemical drug
+
+GLP-1Ra/GLP-1 receptor 
+
+agonist
+
+Cell-cycle non-specific 
+
+drug
+
+RANKL
+
+Weight management
+
+Nasopharyngeal cancer
+
+Bone metastasis of malignant 
+
+solid tumors/Giant-cell tumor 
+of bone
+
+Cholinergic muscarinic 
+
+agonist
+
+Presbyopia
+
+IL-17 monoclonal 
+
+antibody
+
+Psoriasis
+
+JAK&TYK dual-target 
+
+inhibitor
+
+Psoriasis
+
+Sirolimus for injection (albumin-
+
+bound)
+
+Nanodrug
+
+mTOR inhibitor
+
+Perivascular epithelioid cell 
+
+tumor (PEComa)/First-line and 
+second-line treatment of breast 
+cancer
+
+– 21 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Drug candidate
+
+Type
+
+Target
+
+Indication
+
+Irinotecan hydrochloride 
+liposome injection
+
+Nanodrug
+
+Topoisomerase inhibitor
+
+Adjuvant therapy for pancreatic 
+
+cancer
+
+Simmitinib hydrochloride tablets
+
+Chemical drug
+
+FGFR1-3& 
+
+KDR&CSF1R multi-
+targeted small 
+molecule kinase 
+inhibitor
+
+SYS6010 for injection
+
+Biological drug
+
+EGFR(ADC)
+
+SYSA1801 injection
+
+Biological drug
+
+CLDN18.2(ADC)
+
+Esophageal squamous cell 
+
+carcinoma
+
+Treatment-naive and TKI-
+
+resistant EGFR mutant non-
+small cell lung cancer
+
+CLDN18.2-positive 
+
+HER2-negative gastric 
+adenocarcinoma
+
+Valsartan Levoamlodipine 
+
+Maleate Tablets
+
+Ammuxetine hydrochloride 
+enteric-coated tablets
+
+Chemical drug
+
+Chemical drug
+
+Dextromethorphan bupropion 
+extended-release tablets
+
+Chemical drug
+
+Angiotensin II receptor 
+
+blocker
+
+5-Hydroxytryptamine 
+and norepinephrine 
+reuptake inhibitors
+
+NMDA receptor 
+antagonist
+
+Hypertension
+
+Depression
+
+Depression
+
+JSKN003
+
+Biological drug
+
+HER2 bispecific anti-
+
+ADC
+
+SYHA1813 oral solution
+
+Chemical drug
+
+VEGFR/CSF1R
+
+Treatment of patients with HER2-
+
+positive breast cancer in 
+second-line and beyond/HER2 
+low expression breast cancer/
+platinum resistant recurrent 
+epithelial ovarian cancer, 
+primary peritoneal carcinoma, 
+or fallopian tube cancer in 
+second-line and beyond
+
+Consolidation therapy after 
+
+chemoradiotherapy for small 
+cell lung cancer
+
+Prusogliptin tablets
+
+Chemical drug
+
+DPP4 inhibitor
+
+Diabetes (combination treatment)
+
+– 22 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Drug candidate
+
+Type
+
+Target
+
+Indication
+
+MET amplification or 
+
+overexpression in EGFR-TKI-
+resistant non-small cell lung 
+cancer/first-line treatment 
+of EGFR classical mutated 
+and MET amplification or 
+overexpression in non-small 
+cell lung cancer
+
+First-line treatment of recurrent 
+or metastatic cervical cancer
+
+Ischemic stroke (within 4.5-24 
+
+hours of onset)
+
+Colorectal liver metastasis
+
+Glumetinib tablets
+
+Chemical drug
+
+MET inhibitor
+
+Enshuxing (恩舒幸®) (SG001)
+
+Biological drug
+
+PD–1
+
+Mingfule (明復樂®) 
+
+(Recombinant human TNK 
+tissue-type plasminogen 
+activator for injection
+
+Paclitaxel cationic liposome 
+
+for injection
+
+High-concentration 
+hydroxocobalamin 
+hydrochloride injection
+
+Biological drug
+
+Chemical drug
+
+Recombinant human 
+
+tissue-type 
+plasminogen activator
+
+Microtubule 
+
+depolymerization 
+inhibitor
+
+Chemical drug
+
+cbl(VitB12)
+
+Methylmalonic academia (MMA)
+
+Awards and Patents
+•	
+
+In	 March	 2025,	 the	 Group’s	 project	 on	 “Key	 Technology	 and	 Industrial	 Application	 of	
+Novel  Excipients  for  High-end  Preparations”  was  awarded  the  Second  Prize  of  Scientific  and 
+Technological  Innovation  Achievements  of  the  China  Industry-University-Research  Institute 
+Collaboration Association.
+
+•	
+
+•	
+
+In	 July	 2025,	 the	 Group’s	 project	 on	 “Key	 Technology	 Research	 and	 Industrialisation	 of	
+Dronedarone Hydrochloride” was awarded the Second Prize of Science and Technology Award of 
+the China Pharmaceutical Association.
+
+From	 January	 to	 July	 2025,	 21	 international	 patent	 applications	 under	 the	 Patent	 Cooperation	
+Treaty (the “PCT”) and 197 patent applications (137 domestic and 60 overseas) were filed by the 
+Group, and 46 patents (18 domestic and 28 overseas) were granted to the Group.
+
+•	 As	 at	 31	 July	 2025,	 cumulatively	 229	 international	 patent	 applications	 under	 the	 PCT	 and	 2,282	
+patent applications (1,492 domestic and 790 overseas) were filed by the Group, and 1024 patents 
+(662 domestic and 362 overseas) were granted to the Group.
+
+– 23 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Development
+The  Group  continues  to  strengthen  its  internal  innovation  capabilities  and  has  increased  R&D 
+investment  year  by  year.  At  present,  we  have  built  a  robust  pipeline  and  accumulated  numerous 
+high-quality  innovative  assets.  In  recent  years,  by  out-licensing  innovative  products  and  forming 
+strategic collaborations with multinational pharmaceutical companies, we have actively advanced the 
+internationalisation of our pipeline and accelerated the global commercialisation  of our innovations.
+
+Out-Licensing
+SYS6005 (ADC)
+•	
+
+In	 February	 2025,	 the	 Group	 entered	 into	 an	 exclusive	 license	 agreement	 with	 Radiance	
+Biopharma, Inc. to out-license the development and commercialisation rights of SYS6005 (ADC) 
+in the United States (the “U.S.”), the European Union, the United Kingdom, Switzerland, Norway, 
+Iceland,  Liechtenstein,  Albania,  Montenegro,  North  Macedonia,  Serbia,  Australia,  and  Canada. 
+The Group will receive upfront payments of US$15 million and is also entitled to receive potential 
+development milestone payments of up to US$150 million and potential sales milestone payments 
+of up to US$1,075 million, plus tiered royalties.
+
+Irinotecan Liposome Injection
+•	
+
+In	 May	 2025,	 the	 Group	 entered	 into	 an	 exclusive	 license	 agreement	 with	 Cipla	 USA,	 Inc.	 to	
+out-license  the  commercialisation  right  of  irinotecan  liposome  injection  in  the  U.S.  The  Group 
+will  receive  upfront  payments  of  US$15  million  and  is  also  entitled  to  receive  potential  first 
+commercial  sales  and  regulatory  milestone  payments  of  up  to  US$25  million  and  potential 
+additional  commercial  sales  milestone  payments  of  up  to  US$1,025  million,  plus  tiered  double-
+digit royalties based on the annual net sales in the U.S.
+
+Strategic Research Collaboration on AI-driven Drug Discovery Platform
+•	
+
+In	 June	 2025,	 the	 Group	 has	 entered	 into	 a	 strategic	 research	 collaboration	 agreement	 with	
+AstraZeneca for the discovery and development of novel oral small molecule candidates utilising 
+the  Group’s  AI-driven,  dual-engine  efficient  drug  discovery  platform.  The  Group  agreed  to 
+discover  pre-clinical  candidates  (“PCC”)  for  multiple  targets  as  selected  by  AstraZeneca  with 
+potential to treat diseases across indications, including a pre-clinical small molecule oral therapy 
+for immunological diseases. For each PCC program, AstraZeneca shall have rights to exercise the 
+option for an exclusive license for development, manufacturing and commercialisation worldwide. 
+The Group will receive an upfront payment of US$110 million, and is also entitled to receive up 
+to US$1,620 million in potential development milestone payments and up to US$3,600 million in 
+potential sales milestone payments, plus tiered royalties.
+
+SYH2086
+•	
+
+In	 July	 2025,	 the	 Group	 has	 entered	 into	 an	 exclusive	 license	 agreement	 with	 Madrigal	
+Pharmaceuticals,  Inc.  to  out-license  the  exclusive  rights  to  develop,  manufacture  and 
+commercialise  the  Group’s  oral  small  molecule  glucagon-like  peptide-1  (“GLP-1”)  receptor 
+agonist,  SYH2086  worldwide,  while  retaining  the  Group’s  right  to  develop  and  commercialise 
+other orally administered small-molecule GLP-1 receptor agonist products in China. The Group is 
+entitled to receive a total consideration of up to US$2.075 billion, including an upfront payment 
+of US$120 million plus potential development, regulatory and commercial milestone payments of 
+up to US$1.955 billion, and up to double-digit royalties.
+
+– 24 –
+
+FINANCIAL REVIEW
+
+Financial Results
+
+Revenue and Gross Profit Margin
+
+Revenue  for  the  first  half  of  2025  amounted  to  RMB13,273  million,  a  decrease  of  18.5%  compared 
+to RMB16,284 million in the first half of 2024. The decrease was mainly due to two products of the 
+Group, Duomeisu and Jinyouli, were included in centralised volume-based procurement. Gross profit 
+margin for the period decreased by 6.0 percentage points to 65.6% as compared with the same period 
+last year, mainly due to the decrease in the proportion of revenue from the finished drug business.
+
+Other Income
+
+Other  income  for  the  first  half  of  2025  amounted  to  RMB419  million  (first  half  of  2024:  RMB315 
+million), mainly consisting of interest income on bank deposits and balances of RMB95 million (first 
+half of 2024: RMB125 million) and government grant income of RMB143 million (first half of 2024: 
+RMB49 million).
+
+Other Gains or Losses, Net
+
+A  net  gain  of  RMB185  million  was  reported  in  the  first  half  of  2025  (first  half  of  2024:  net  loss  of 
+RMB108  million),  mainly  consisting  of  fair  value  gain  on  financial  assets  measured  at  FVTPL  of 
+RMB165  million  (first  half  of  2024:  loss  of  RMB84  million),  net  foreign  exchange  gain  of  RMB17 
+million (first half of 2024: loss of RMB14 million) and fair value gain on structured bank deposits of 
+RMB17 million (first half of 2024: RMB23 million).
+
+Operating Expenses
+
+Selling and distribution expenses for the first half of 2025 amounted to RMB3,049 million, a decrease 
+of 36.2% as compared with RMB4,777 million in the first half of 2024. During the period, the Group 
+continued  to  expand  the  market  coverage  of  its  products  and  actively  promote  the  newly  launched 
+products,  while  selling  expenses  for  products  included  in  the  centralised  volume-based  procurement 
+have been substantially reduced.
+
+Administrative expenses for the first half of 2025 amounted to RMB402 million, a decrease of 36.5% 
+as  compared  with  RMB633  million  in  the  first  half  of  2024  and  the  decrease  was  mainly  due  to  the 
+enhancement and optimisation of expenses.
+
+– 25 –
+
+R&D  expenses  for  the  first  half  of  2025  amounted  to  RMB2,683  million,  an  increase  of  5.5%  as 
+compared  with  RMB2,542  million  in  the  first  half  of  2024,  which  was  primarily  attributable  to  the 
+stable increase in spending on ongoing and newly initiated clinical trials.
+
+Income Tax Expense
+
+Income  tax  expense  for  the  first  half  of  2025  amounted  to  RMB544  million  (first  half  of  2024: 
+RMB750  million),  which  represented  provision  of  income  tax  expense  based  on  the  taxable  profit  of 
+the subsidiaries and PRC withholding tax on dividend distributions by the subsidiaries.
+
+Non-HKFRS Measure
+
+For  the  purpose  of  assessing  the  performance  of  the  Group,  the  Company  has  also  presented  the 
+underlying  profit  attributable  to  shareholders  of  the  Company  as  an  additional  financial  measure, 
+which  is  not  required  by  or  presented  in  accordance  with  the  Hong  Kong  Financial  Reporting 
+Standards (“HKFRS”). The Group believes that this non-HKFRS financial measure better reflects the 
+underlying operational performance of the Group by eliminating certain non-operating items which the 
+Group does not consider indicative of the Group’s operational performance. However, the presentation 
+of this non-HKFRS financial measure is not intended to be a substitute for, or superior to, the financial 
+information prepared and presented in accordance with HKFRS.
+
+Additional  information  is  provided  below  to  reconcile  the  reported  and  underlying  profit  attributable 
+to shareholders of the Company:
+
+Reported profit attributable to shareholders of the Company
+Adjustment for:
+— Fair value (gain) loss on financial assets measured at FVTPL  
+
+(note a)
+
+— (Reversal of) employee share-based compensation expense (note b)
+— Effect of corresponding income tax
+
+Six months ended 30 June
+
+2025
+RMB’000
+
+2,547,851
+
+2024
+RMB’000
+
+3,020,374 
+
+(164,591)
+(72,010)
+8,271
+
+84,071 
+118,237 
+(5,812)
+
+Underlying profit attributable to shareholders of the Company
+
+2,319,521
+
+3,216,870 
+
+Notes:
+
+(a)  Fair  value  (gain)/loss  on  financial  assets  measured  at  FVTPL  arises  from  the  measurement  of  the  Group’s 
+
+investments in certain partnerships, funds and listed equity securities at fair value.
+
+(b)  Of  the  total  employee  share-based  compensation  expense  recognised  during  the  period,  a  reversal  of 
+RMB72,280,000  (first  half  of  2024:  RMB98,618,000)  was  in  respect  of  share  awards  granted  to  selected 
+employees of the Group by Key Honesty Limited (a shareholder of the Company).
+
+– 26 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Liquidity and Financial Position
+
+For  the  first  half  of  2025,  the  Group’s  operating  activities  generated  a  cash  inflow  of  RMB3,187 
+million  (first  half  of  2024:  RMB1,425  million).  Turnover  days  of  trade  receivables  (ratio  of  balance 
+of  trade  receivables  to  sales,  inclusive  of  value  added  tax  for  sales  in  China)  was  76  days,  higher 
+than 62 days in 2024, which was mainly due to the slower settlement by customers during the period. 
+The  Group  will  strengthen  the  control  and  management  in  this  aspect.  Turnover  days  of  inventories 
+(ratio of balance of inventories to cost of sales) was 114 days, lower than 132 days in 2024. Current 
+ratio  was  2.2  as  at  30  June  2025,  which  remains  stable  as  compared  with  2.3  as  at  the  end  of  2024. 
+Capital expenditure for the period amounted to RMB925 million, which was mainly spent to construct 
+production facilities and improve production efficiency.
+
+The  Group’s  financial  position  remained  solid.  As  at  30  June  2025,  the  Group  had  bank  deposits, 
+balances  and  cash  of  RMB10,291  million  (31  December  2024:  RMB9,187  million),  structured  bank 
+deposits  of  RMB1,936  million  (31  December  2024:  RMB1,307  million)  and  bank  borrowings  of 
+RMB247  million  (31  December  2024:  RMB392  million).  As  at  30  June  2025,  gearing  ratio  (ratio  of 
+bank borrowings to total equity) was 0.7% (31 December 2024: 1.2%).
+
+The Group’s sales revenues are denominated in Renminbi for domestic sales in China and US dollars 
+for  export  sales.  The  Group  manages  its  foreign  exchange  risks  by  closely  monitoring  its  foreign 
+exchange  exposures  and  mitigating  the  impact  of  foreign  currency  fluctuations  by  using  appropriate 
+hedging arrangements when considered necessary.
+
+Pledge of Assets
+
+As at 30 June 2025, bank deposits of approximately RMB4 million (31 December 2024: approximately  
+RMB44 million) have been pledged to secure short-term banking facilities.
+
+Contingent Liabilities
+
+The Group did not have any material contingent liabilities as at 30 June 2025.
+
+Employees
+
+The  Group  employed  a  total  of  19,266  employees  as  at  30  June  2025,  with  a  majority  of  them 
+employed  in  mainland  China.  The  Group  continues  to  offer  competitive  remuneration  packages, 
+discretionary  share  options,  share  awards  and  bonuses  to  eligible  staff,  based  on  the  performance  of 
+the Group and the individual employee.
+
+– 27 –
+
+CONDENSED CONSOLIDATED INCOME STATEMENT
+For the six months ended 30 June 2025 — Unaudited
+
+Revenue
+Cost of sales
+
+Gross profit
+Other income
+Other gains or losses, net
+Selling and distribution expenses
+Administrative expenses
+Research and development expenses
+Other expenses
+Share of results of associates
+Share of results of joint ventures
+Finance costs
+
+Profit before tax
+Income tax expense
+
+Profit for the period
+
+Profit for the period attributable to:
+
+Owners of the Company
+Non-controlling interests
+
+Earnings per share
+
+— Basic
+— Diluted
+
+Note
+
+3
+
+Six months ended 30 June
+
+2025
+RMB’000
+
+13,273,416
+(4,563,224)
+
+2024
+RMB’000
+
+16,284,282
+(4,629,735) 
+
+8,710,192
+419,259
+185,035
+(3,049,160)
+(401,715)
+(2,682,631)
+(28,892)
+(14,709)
+1,940
+(21,652)
+
+3,117,667
+(543,617)
+
+2,574,050
+
+11,654,547
+314,988
+(107,667)
+(4,777,410)
+(632,842)
+(2,541,991)
+(34,851)
+(27,239)
+(24,430)
+(21,975)
+
+3,801,130
+(749,664)
+
+3,051,466
+
+2,547,851
+26,199
+
+2,574,050
+
+3,020,374
+31,092
+
+3,051,466
+
+RMB cents
+
+RMB cents
+
+22.29
+22.29
+
+25.51
+25.51
+
+4
+5
+
+6
+
+– 28 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+For the six months ended 30 June 2025 — Unaudited
+
+Profit for the period
+
+Other comprehensive (expense) income:
+Item that will not be reclassified to profit or loss:
+Fair value (loss) gain on financial assets measured at  
+fair value through other comprehensive income,  
+net of income tax
+
+Item that may be reclassified subsequently to  
+
+profit or loss:
+
+Six months ended 30 June
+
+2025
+RMB’000
+
+2,574,050
+
+2024
+RMB’000
+
+3,051,466
+
+(120,631)
+
+931,249
+
+Exchange differences on translation of foreign operations
+
+7,357
+
+(9,449)
+
+Other comprehensive (expense) income for the period,  
+
+net of income tax
+
+Total comprehensive income for the period
+
+Total comprehensive income for the period  
+
+attributable to:
+Owners of the Company
+Non-controlling interests
+
+(113,274)
+
+921,800
+
+2,460,776
+
+3,973,266
+
+2,434,577
+26,199
+
+2,460,776
+
+3,942,174
+31,092
+
+3,973,266
+
+– 29 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+As at 30 June 2025 — Unaudited
+
+Non-current assets
+Property, plant and equipment
+Right-of-use assets
+Investment property
+Goodwill
+Intangible assets
+Interests in associates
+Interests in joint ventures
+Other financial assets
+Deferred tax assets
+Deposits, prepayments and other receivables
+Bank deposits
+
+Current assets
+Inventories
+Trade receivables
+Deposits, prepayments and other receivables
+Bills receivables
+Amounts due from related companies
+Amounts due from joint ventures
+Other financial assets
+Structured bank deposits
+Bank deposits, balances and cash
+
+30 June
+2025
+RMB’000
+
+31 December
+2024
+RMB’000
+
+Note
+
+11,771,719
+1,242,424
+54,474
+234,904
+2,655,352
+800,385
+722,739
+2,370,593
+203,302
+616,374
+2,720,000
+
+11,374,442
+1,128,458
+56,127
+234,904
+2,609,506
+815,094
+711,799
+2,334,120
+250,297
+576,100
+2,410,000
+
+23,392,266
+
+22,500,847
+
+2,870,785
+5,841,885
+1,184,227
+2,580,340
+310,399
+119,021
+196,049
+1,936,451
+7,570,931
+
+3,130,014
+5,160,672
+887,059
+4,035,490
+359,123
+65,475
+166,105
+1,307,007
+6,777,199
+
+22,610,088
+
+6,777,199
+
+21,888,144
+
+9
+
+8
+9
+10
+
+11
+
+– 30 –
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

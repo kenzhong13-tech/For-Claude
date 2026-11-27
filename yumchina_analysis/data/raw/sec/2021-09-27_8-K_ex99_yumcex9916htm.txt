@@ -1,0 +1,353 @@
+
+
+EX-99.1
+
+2
+
+yumc-ex991_6.htm
+
+EX-99.1
+
+yumc-ex991_6.htm
+
+Exhibit 10.1
+
+YUM CHINA HOLDINGS, INC.
+
+EXECUTIVE SEVERANCE PLAN
+
+(Effective September 23, 2021)
+
+In order to secure the continued services of certain key management employees of Yum China Holdings, Inc. ( “
+Yum China
+” or the “
+Company
+” which may also refer to an Affiliate of Yum China as the case may be) and Affiliates of the Company, the Compensation Committee of the Board of Directors of Yum China (the “
+Board
+”) has adopted this Executive Severance Plan (as it may be amended pursuant to the terms hereof, this “
+Plan
+”), which shall become an integral part of the Participant’s employment contract with Yum China once duly acknowledged by the Participant.
+
+SECTION 1. 
+Definitions
+. For purposes of this Plan, the following terms shall have the meanings set forth below:
+
+“
+Accrued Bonus
+” shall mean a Participant’s accrued, but unpaid as of a Participant’s Termination Date, annual cash bonus for any completed fiscal year of the Company or its applicable Affiliate preceding a Participant’s Termination Date.
+
+“
+Affiliate
+” shall mean, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, controls, is controlled by or is under common control with, the Person in question. As used herein, the term “control” means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through ownership of voting securities, by contract or otherwise.
+
+“
+Annual Bonus
+” shall mean a Participant’s target annual cash bonus for the calendar year in which the Participant’s Termination Date occurs. For the avoidance of doubt, (i) Annual Bonus shall include annual cash bonus payable to the Participant from the Company and all of its Affiliates and (ii) Annual Bonus shall not include the amount that may be payable on a pro-rata basis under the annual cash bonus plan, as set forth in 
+Section 3(a)(ii)
+.
+
+“
+Beneficiary
+” shall mean the person or entity designated by Participant, by written instrument delivered to the Company, to receive the benefits payable under this Plan in the event of Participant’s death. If Participant fails to designate a Beneficiary, or if no Beneficiary survives Participant, such death benefits shall be paid to the Participant’s estate.
+
+“
+Cause
+” shall have the meaning set forth in any then applicable employment or other similar written agreement (including such similar term or concept, as determined by the Committee) between Participant and the Company or an Affiliate, subject to the relevant provisions of the PRC Law to the extent mandatorily and preemptively applicable. If there is no such written agreement or if such agreement does not define “Cause,” the term “Cause” shall mean (i
+) the willful failure by Participant to perform Participant’s duties with the Company or its Affiliates (other than any such failure resulting from Participant’s incapacity due to physical or mental illness), (ii) Participant’s willful misconduct that is demonstrably and materially injurious to the Company or its Affiliates, monetarily or otherwise, (iii) Participant’s commission of acts of dishonesty, fraud, misrepresentation or other acts of moral turpitude, (iv) Participant’s conviction or plea of no contest to a felony (or equivalent crime in the People’s Republic of China) or a crime of moral turpitude, or (v) any terminable events under the Company’s Code of Conduct, subject to the relevant provisions of the PRC Law to the extent mandatorily and preemptively applicable.
+
+“
+Code
+” shall mean the U.S. Internal Revenue Code of 1986, as amended from time to time, and the regulations promulgated thereunder.
+
+“
+Committee
+” means the Board or the Compensation Committee of the Board or such other committee as may be appointed by the Board to administer the Plan.
+
+“Economic Compensation
+” shall mean the amount equal to the Severance Multiple times the sum of (x) Participant’s Monthly Base Salary plus (y) one-twelfth (1/12) of Participant’s Annual Bonus (at target).  For the avoidance of doubt, Economic Consideration shall be the minimum amount payable under Section 3(a) and shall be considered inclusive of amounts payable with respect to Statutory Severance Pay and Non-compete Compensation to the extent that the total sum of the Statutory Severance Pay and Non-compete Compensation is less than the Economic Compensation.
+
+“
+Effective Date
+” shall mean September 23, 2021.
+
+“
+Employment
+” shall mean employment with the Company or any Affiliate of the Company. A Participant’s Employment shall be deemed to have continued notwithstanding a transfer of employment between the Company and any of its Affiliates, or between any two Affiliates.
+
+“
+Exchange Act
+” shall mean the U.S. Securities Exchange Act of 1934, as amended from time to time, and the regulations promulgated thereunder.
+
+“
+Long-Term Incentive Plan
+” shall mean the Yum China Holdings, Inc. Long-Term Incentive Plan, as may be amended from time to time, or any successor program or plan.
+
+“
+Monthly Base Salary
+” shall mean Participant’s monthly base salary at the rate in effect on the date of a Qualifying Termination. For the avoidance of doubt, Monthly Base Salary shall include base salary received by the Participant from the Company and all of its Affiliates. 
+
+“
+Non-compete Compensation
+” shall mean the amount equivalent to five (5) times the Participant’s average monthly salary in the twelve (12) months prior to the Participant’s Qualifying Termination, which shall be the consideration for compliance with the restrictive covenants (including covenants relating to non-competition and non-solicitation) set forth in the restrictive covenant agreement or similar agreement entered into between the Participant and the Company.
+
+“
+Participant
+” shall mean any employee of the Company (or one of its Affiliates) selected by the Committee in accordance with 
+Section 2
+.
+
+“
+Person
+” shall have the meaning ascribed to such term in Section 3(a)(9) of the Exchange Act and used in Sections 13(d) and 14(d) thereof, including a “group” as defined in Section 13(d)(3).
+
+“
+PRC Law
+” means the then valid laws, administrative and ministerial regulations and rules, local regulations, judicial interpretations and other binding regulatory documents of the People’s Republic of China applicable to the Mainland of the People’s Republic of China. 
+
+“
+Qualifying Termination
+” shall mean termination of the Participant’s Employment without Cause or, in the case of a Participant subject to PRC Law, termination for any statutory reason and subject to severance pay under the PRC Law.  For the avoidance of doubt, Qualifying Termination eligible for severance pay under the PRC Law shall be deemed a termination based on the advanced mutual consent of the parties in accordance with PRC Law, notwithstanding the fact that such termination may be subsequently announced by the Company only.
+
+“
+Severance Benefits
+” shall mean the severance benefits under 
+Section 3(a)
+.
+
+“
+Severance Multiple
+” shall mean 24 for the Chief Executive Office and 12 for each other Participant in the Plan.  
+
+“
+Statutory Severance Pay
+” shall mean the amount equal to the statutory severance payable to an eligible employee under the PRC Law (subject to the local salary cap to the extent applicable) or as determined pursuant to legal proceedings governed by the PRC Law.
+
+“
+Termination Date
+” shall mean, with respect to any Participant, the effective date of such Participant’s termination of Employment.
+
+“
+Yum China
+” shall mean Yum China Holdings, Inc., a Delaware corporation.
+
+SECTION 2. 
+Eligibility
+. Without prejudice to all employees’ rights to the Statutory Severance Pay and other statutory benefits when payable under the PRC Law, the Committee shall from time to time, in its sole discretion, select and designate in writing, which of the Company’s (including any of its Affiliates) employees are eligible to participate in this Plan and such employee shall become a Participant under this Plan, conditioned upon the employee acknowledging acceptance to the terms of this Plan and the Participant accepting and executing the Company’s standard form of restrictive covenant agreement for similarly situated employees of the Company, within thirty (30) days after such agreement is delivered to the employee if such employee has not previously accepted and executed such restrictive covenant agreement.  The term of this Plan with respect to a Participant shall commence on the date on which an employee commences participation in the Plan and shall continue until terminated by the Company in accordance with 
+Section 5(l)
+.
+
+SECTION 3. 
+Compensation, Benefits and Effect of Termination of Employment
+.
+
+2
+
+(a) 
+Effect of Termination of Employment
+. Subject to 
+Section 3
+ (b) and 
+(c)
+, in the event of a Participant’s Qualifying Termination, then the Company shall provide Participant the payments and benefits set forth below (the “
+Severance Benefits
+”), all subject to tax withholding and pa
+yment under the applicable laws. For the avoidance of doubt, without prejudice to all employees’ rights to the Statutory Severance Pay and other statutory benefits when payable under the PRC Law, a Participant shall not be entitled to any of the Severance Benefits if such Participant’s Employment terminates due to death, disability, for Cause
+, retirement
+
+or such Participant’s termination of Employment is not otherwise eligible for any severance pay 
+under 
+the 
+PRC Law.
+
+(i) The Company shall pay to Participant  the greater of (1) the total sum of Statutory Severance Pay and Non-compete Compensation and (2) the Economic Compensation, with an amount equal to the Statutory Severance Pay payable in a single lump sum in the month in which the Termination Date occurs and the remaining amount due to the Participant under this Section 3(a)(i), payable during the 12-month period following the Termination Date, subject to (x) any contrary agreement governing the timing of payment of the Non-compete Compensation in effect on the date hereof or the date on which the Participant commences participation under the Plan and (y) the Company’s ability to accelerate to the extent permitted by Section 409A of the Code to the extent applicable.  For the avoidance of doubt, the Severance Benefits shall be in lieu of any statutory and contractual severance, termination, restrictive covenant payment or similar benefits payable to Participant by the Company and the payment of the Severance Benefits shall constitute full satisfaction of any such severance, termination, restrictive covenant payment or similar benefits. 
+
+(ii) The Company shall pay Participant (y) any Accrued Bonus, with such Accrued Bonus payable in a single lump sum within sixty (60) days following the Termination Date and (z) if the Qualifying Termination occurs on or after June 30th of the calendar year, an amount equal to the Annual Bonus multiplied by the performance factor under the annual cash bonus plan, determined by the Committee based on actual performance during the performance year, and pro-rated based on the number of days served during the performance year, and payable in single lump sum within sixty (60) days following the conclusion of the performance year. 
+
+(iii) Participant shall receive any and all benefits accrued through the date of termination of Employment under any retirement plan, health or welfare plan or other plan or program in which Participant participates as of the Termination Date, with the amount, form and time of payment of such benefits determined by the terms of such retirement plan, health or welfare plan and other plan or program.
+
+(iv) If upon the Termination Date, Participant holds any awards granted under the Long-Term Incentive Plan, including options, unit appreciation rights, restricted stock units, performance stock units, phantom units, unit awards, any other unit-based award or cash-based awards, all such awards shall be governed by the terms of the Long-Term Incentive Plan and the applicable award agreements and shall become vested, exercisable, and payable only to the extent provided for under the terms of the Long-Term Incentive Plan and the applicable award agreements.
+
+(v) After the Termination Date, Participant shall not be entitled to reimbursement for fringe benefits, including without limitation, housing allowances, automobile expenses, and other similar perquisites, except as otherwise provided for under applicable Company policy.
+
+(b) 
+Release of Claims
+. Without prejudice to all employees’ rights to the Statutory Severance Pay when payable under the PRC Law and in exchange for (i) an additional payment of 10,000 RMB
+
+(the “
+Release Payment
+”) and (ii) any excess amount that the Company and its Affiliates are obligated to pay under this 
+Section 3
+ over the sum of Statutory Severance Pay and Non-compete Compensation, shall be subject to such Participant’s execution, within 45 days after the Termination Date (or such shorter period of time required by the Company) of a release of all rights and claims the Participant may have for any personal or monetary relief arising from the Participant’s employment with the Company or the termination of employment with the Company.  The Release Payment shall be paid within 60 days following the Qualifying Termination. 
+
+(c) 
+Recoupment
+. Notwithstanding any provisions in this Plan to the contrary,
+ but without prejudice to all employees’ rights to the Statutory Severance Pay and other statutory benefits when payable under the PRC Law, the Committee may, in its sole and absolute discretion, in the event of Participant’s material breach of a material obligation of Participant to the Company pursuant to any award or agreement between Participant and the Company, including a material breach of the restrictive covenants set forth in any offer letter, restrictive covenant or other agreement entered into by the Participant with the Company or a determination that an event constituting Cause has occurred, regardless of whether this event constituting Cause happened prior to or following the Termination Date: (i) terminate the right of such Participant to receive any payment under this 
+Section 3
+ , to the extent it has not been paid; and (ii) seek the recoupment of any payment paid to such Participant under this 
+Section 3
+ , including through exercise rights of set-off, forfeiture or cancellation, to the full extent permitted by law, with respect to any other awards, benefits or payments otherwise due Participant from the Company or any of its Affiliates, to the extent the Committee in its sole discretion deems appropriate after considering the relevant facts and circumstances. Any termination and/or recoupment of a Participant’s benefits under this Plan shall be in addition and without prejudice to any other remedies that the Company might elect to assert.   
+
+3
+
+(d) 
+Death
+. If Participant’s Employment terminates 
+due to a Qualifying Termination
+, then upon Participant’s subsequent death, all unpaid amounts payable to Participant under 
+Section 3(a)(
+i
+)
+ or 
+(ii)
+, if any, shall be paid to Participant’s Beneficiary
+ and, to the extent permitted by Section 409A of the Code to the extent applicable, shall be paid in a lump sum to the Participant’s Beneficiary within sixty (60) days following the date of the Participant’s death in the case of the amounts due under 
+Section 3(a)(
+i
+)
+.
+
+SECTION 4. 
+Offset; No Mitigation
+.
+
+(a) To the extent permitted by applicable law, the amount of a Participant’s payments under this Plan shall be reduced to the extent necessary to defray amounts owed by Participant due to unused expense account balances, overpayment of salary, awards or bonuses, advances or loans.
+
+(b) In no event shall any Participant be obligated to seek other employment or take any other action by way of mitigation of the amounts payable to Participant under any of the provisions of this Plan and, such amounts shall not be reduced whether or not Participant obtains other employment, except as expressly provided in 
+Section 3(c)
+.
+
+SECTION 5. 
+Miscellaneous
+.
+
+(a) 
+Administration
+. The Committee shall, subject to the terms of this Plan, administer and interpret this Plan and the application thereof, establish rules and regulations it deems necessary or desirable for the administration of this Plan and may impose, incidental to the grant of a participation right in the Plan, conditions with respect to participation, such as limiting competitive employment or other activities. All such interpretations, rules, regulations and conditions shall be conclusive and binding on all parties.
+
+(b) 
+Notices
+. All notices, requests, consents and other communications hereunder to any party shall be deemed to be sufficient if delivered in writing in person or by telecopy (or similar electronic means with a copy following by nationally recognized overnight courier) or sent by nationally-recognized overnight courier or first class registered or certified mail, return receipt requested, postage prepaid, addressed to such party at the address set forth below or at such other address as may hereafter be designated in writing by such party to the other parties.
+
+If to the Company: | Yum China Holdings, Inc.
+
+7100 Corporate Drive
+
+Plano, Texas 75024
+
+Attention: Chief Legal Officer
+
+If to a Participant: | At the most recent address
+
+on file with the Company
+
+or such other address or to the attention of such other person as the recipient party shall have specified by prior written notice to the sending party. Any notice under this Plan shall be deemed to have been given when so delivered, sent or mailed.
+
+(c) 
+No Waiver
+. No failure by the Company or a Participant at any time to give notice of any breach by the Company or a Participant, or to require compliance with, any condition or provision of this Plan shall be deemed a waiver of similar or dissimilar provisions or conditions at the same or at any prior or subsequent time.
+
+(d) 
+Severability
+. If a court of competent jurisdiction determines that any provision of this Plan is invalid or unenforceable, then the invalidity or unenforceability of that provision shall not affect the validity or enforceability of any other provision of this Plan, and all other provisions shall remain in full force and effect.
+
+(e) 
+Withholding of Taxes and Other Employee Deductions
+. The Company may withhold from any benefits and payments made pursuant to this Plan all federal/national, state/provincial, city and other taxes as may be required pursuant to any law or governmental regulation or ruling and all other normal employee deductions made with respect to the Company’s employees generally.
+
+(f) 
+Headings
+. The paragraph headings have been inserted for purposes of convenience and shall not be used for interpretive purposes.
+
+(g) 
+Interpretations
+. For purposes of this Plan, the words “include” and “including,” and variations thereof, shall not be deemed to be terms of limitation but rather shall be deemed to be followed by the words “without limitation”. The term “or” is not exclusive. The word “extent” in the phrase “to the extent” shall mean the degree to which a subject or other thing extends, and such phrase shall not mean simply “if.” Wherever the context so requires, the masculine gender includes the feminine or neuter, and the singular number includes the plural and conversely.
+
+4
+
+(h) 
+Successors
+. This Plan shall be binding upon and inure to the benefit of the Company and any successor of the Company, including without limitation any person, association, or entity which may hereafter acquire or succeed to all or substantially all of the business or assets of the Company by any means whether direct or indirect, by purchase, merger, consolidation, or otherwise and the Company shall require any such acquirer successor to assume this Plan and the obligations and liabilities contemplated thereunder. Participants’ rights, benefits and obligations under this Plan are personal and shall not be voluntarily or involuntarily assigned, alienated, or transferred, whether by operation of law or otherwise, without the prior written consent of the Company.
+
+(i) 
+Non-Duplication
+. The Severance Benefits provided under this Plan are not intended to result in any duplicative benefits to Participant and this Plan shall be administered accordingly. Accordingly, the Committee, in good faith, shall exercise its discretion and to the extent permitted under applicable law, equitably offset against Participant’s severance benefits under this Plan against any other severance, termination, restrictive covenant payment or similar benefits payable to Participant by the Company or amounts paid to comply with, or satisfy liability under, any federal/national, state/provincial, or local law requiring payments in connection with any termination of Employment or workforce reduction, including, but not limited to, amounts paid in connection with paid leaves of absence, back pay, benefits, and other payments intended to satisfy such liability or alleged liability. For the avoidance of doubt, this Plan shall replace any agreements entered into between the Company and the Participant providing the Participant with severance or related benefits and the Participant shall not be entitled to benefits under both this Plan and any other severance plan or policy maintained by the Company or its Affiliates and amounts payable under this Plan shall be reduced by any amounts received or payable under any such severance plan or policy.  For the avoidance of doubt, to the extent the participant becomes entitled to payments and benefits under the Yum China Holdings, Inc. Change in Control Severance Plan, such payments and benefits shall be in lieu of the payments and benefits under this Plan and the Participant shall not receive payments and benefits under both the Yum China Holdings, Inc. Change in Control Severance Plan and this Plan.
+
+(j) 
+Deemed Resignations
+. Any termination of a Participant’s Employment shall constitute an automatic resignation of such Participant as an officer of the Company and each Affiliate of the Company, an automatic resignation from the board of directors, if applicable, of the Company and each Affiliate of the Company and from the board of directors or similar governing body of any corporation, limited liability company or other entity in which the Company or any Affiliate holds an equity interest and with respect to which board or similar governing body such Participant serves as the Company’s or such Affiliate’s designee or other representative. Such Participant shall sign/issue any and all necessary documents and take any and all necessary actions as may be required to complete all legal procedures for such resignations/terminations.
+
+(k) 
+No Guarantee of Employment
+. This Plan shall not be construed as creating any contract of Employment between the Company and its Affiliates, on the one hand, and any Participant, on the other hand, nor shall this Plan be construed as restricting in any way the rights of the Company or any of its Affiliates to terminate the Employment of any Participant at any time and for any reason subject, however, to any rights of a Participant under this Plan and the relevant provisions of the PRC Law to the extent mandatorily and preemptively applicable.
+
+(l) 
+Amendment and Termination of this Plan
+. The Committee may amend, modify or terminate this Plan at any time (including removing a Participant from this Plan); 
+provided
+, 
+however
+, that (i) no such amendment, modification or termination will be effective unless each affected Participant has received written notice thereof at least three (3) months prior to such amendment, modification or termination becoming effective, and (ii) no such amendment, modification or termination may materially impair the rights of a Participant whose Termination Date previously occurred. The failure of the Company or a Participant to insist upon strict adherence to any term of this Plan on any occasion shall not be considered as a waiver of the rights of the Company or such Participant or deprive the Company or such Participant of the right thereafter to insist upon strict adherence to that term or any other term of this Plan. No failure or delay by the Company or any Participant in exercising any right or power hereunder will operate as a waiver thereof, nor will any single or partial exercise of any such right or power, or any abandonment of any steps to enforce such right or power, preclude any other or further exercise thereof or the exercise of any other right or power. For the avoidance of doubt, a Participation’s participation in this Plan shall terminate upon the earliest to occur of (i) the date of termination of the Participant’s Employment by the Company if no benefits are payable under the Plan, (ii) the date the Company satisfies its obligation, if any, to make payments and provide benefits to the Participant pursuant to the Plan, (iii) the removal of the Participant from participation in this Plan in accordance with 
+Section 2
+, and (iv) termination of the Plan in accordance with this 
+Section 5(l)
+ prior to the date the Participant terminates Employment with the Company.
+
+SECTION 6. 
+Survival
+. The provisions of this Plan, including 
+Section 3
+, 
+Section 4
+, and 
+Section 5
+ shall survive and remain binding and enforceable, notwithstanding the expiration or termination of this Plan, the termination of a Participant’s Employment for any reason or any settlement of the financial rights and obligations arising from such Participant’s participation hereunder, to the extent necessary to preserve the intended benefits of such provisions.
+
+* * * * * *
+
+5
+
+U.S. Tax Addendum
+
+This addendum is applicable to Participants who may also be subject to U.S. tax laws.
+
+Code Section 280G
+
+If any payment or benefit (including payments and benefits pursuant to the Plan) Participant would receive in connection with or as a result of a change in control from the Company or its Affiliates or otherwise (the “Payment”) would (i) constitute a “parachute payment” within the meaning of Section 280G of the Code, and (ii) but for this paragraph, be subject to the excise tax imposed by Section 4999 of the Code (the “
+Excise Tax
+”), then the Company shall cause to be determined, before any amounts of the Payment are paid to Participant, which of the following two alternative forms of payment shall be paid to Participant: (A) payment in full of the entire amount of the Payment (a “
+Full Payment
+”), or (B) payment of only a part of the Payment so that Participant receives the largest payment possible without the imposition of the Excise Tax (a “
+Reduced Payment
+”). A Full Payment shall be made in the event that the amount received by Participant on a net after-tax basis is greater than what would be received by Participant on a net after-tax basis if the Reduced Payment were made, otherwise a Reduced Payment shall be made. If a Reduced Payment is made, (i) the Payment shall be paid only to the extent permitted under the Reduced Payment alternative, and Participant shall have no rights to any additional payments and/or benefits constituting the Payment, and (ii) reduction in payments and/or benefits shall occur in the following order: (A) reduction of cash payments (in the reverse chronological order in which such cash would otherwise be paid); (B) cancellation of accelerated vesting of equity awards other than options (in the reverse chronological order in which such equity awards would vest in the absence of a change in control); (C) cancellation of accelerated vesting of options (in the reverse chronological order in which such options would vest in the absence of a change in control); and (D) reduction of other benefits paid to Participant (in the reverse chronological order in which such benefits would otherwise be provided).
+
+The independent registered public accounting firm engaged by the Company for general audit purposes as of the day prior to the effective date of the change in control, or a nationally recognized law firm selected by the Committee, shall make all determinations required to be made under the foregoing paragraph. If the independent registered public accounting firm so engaged by the Company is serving as accountant or auditor for the individual, entity or group effecting the change in control, the Company shall appoint a nationally recognized law firm or independent registered public accounting firm to make the determinations required hereunder. The Company shall bear all expenses with respect to the determinations by such independent registered public accounting firm or law firm required to be made hereunder. Any good faith determinations of the accounting firm or law firm made hereunder shall be final, binding and conclusive upon the Company and Participant.
+
+Code Section 409A
+
+It is the intention of the Company that the provisions of the Plan comply with Section 409A of the Code, and all provisions of this Plan shall be construed and interpreted in a manner consistent with Section 409A of the Code. In the event that the Company determines that any provision of this Plan does not comply with Section 409A of the Code or any such rules, regulations or guidance and that as a result any Participant may become subject to a tax under Section 409A of the Code, notwithstanding 
+Section 5(l)
+ of the Plan, the Company shall have the discretion to amend or modify such provision to avoid the application of such tax, and in no event shall any Participant’s consent be required for such amendment or modification. Notwithstanding any provision of this Plan to the contrary, each Participant shall be solely responsible and liable for the satisfaction of all taxes and penalties that may arise in connection with amounts payable pursuant to this Plan (including any taxes arising under Section 409A of the Code), and the Company not shall have any obligation to indemnify or otherwise hold such Participant harmless from any or all of such taxes.
+
+In the event that the Company determines that any provision of this Plan violates, or would result in any material liability (other than liabilities for the Severance Benefits) to the Company under, any law, regulation, rule or similar authority of any governmental agency the Company shall be entitled, notwithstanding 
+Section 5(l)
+ of the Plan, to amend or modify such provision as the Company determines in its discretion to be necessary or desirable to avoid such violation or liability, and in no event shall any Participant’s consent be required for such amendment or modification.
+
+The payments under this Plan are designated as separate payments for purposes of the short-term deferral rule under Treasury Regulation Section 1.409A 1(b)(4), the exemption for involuntary terminations under separation pay plans under Treasury Regulation Section 1.409A 1(b)(9)(iii), and the exemption for medical expense reimbursements under Treasury Regulation Section 1.409A 1(b)(9)(v)(B). As a result, (i) payments that are made on or before the 15th day of the third month of the calendar year following the year that includes Participant’s Termination Date, (ii) any additional payments that are made on or before the last day of the second calendar year following the year of Participant’s Termination Date and do not exceed the lesser of two times Participant’s annual rate of pay in the year prior to the Termination Date or two times the limit under Code Section 401(a)(17) then in effect, and (iii) continued medical expense reimbursements during the applicable COBRA period, are intended to be exempt from the requirements of Section 409A of the Code.
+
+6
+
+To the extent any amounts under this Plan are payable by reference to a Participant’s termination of Employment, such term and similar terms shall be deemed to refer to such Participant’s “separation from service,” within the meaning of Section 409A of the Code. Notwithstanding any other provision in this Plan, to the extent any payments hereunder constitute “nonqualified deferred compensation,” within the meaning of Section 409A of the Code (a “
+Section 409A Payment
+”), and Participant is a specified employee, within the meaning of Treasury Regulation Section 1.409A 1(
+i
+), as determined by the Company in accordance with any method permitted under Section 409A of the Code, as of the date of Participant’s separation from service, each such Section 409A Payment that is payable upon such Participant’s separation from service and would have been paid prior to the six-month anniversary of such Participant’s separation from service, shall be delayed until the earlier to occur of (
+i
+) the six-month anniversary of Participant’s separation from service and (ii) the date of Participant’s death. Further, to the extent that any amount is a Section 409A Payment and such payment is conditioned upon Participant’s execution of a release and which is to be paid or provided during a designated period that begins in one taxable year and ends in a second taxable year, then such Section 409A Payment shall be paid or provided in the later of the two taxable years.
+
+Any reimbursements payable to a Participant pursuant to the Plan or otherwise shall be paid to such Participant in no event later than the last day of the calendar year following the calendar year in which such Participant incurred the reimbursable expense. Any amount of expenses eligible for reimbursement, or in-kind benefit provided, during a calendar year shall not affect the amount of expenses eligible for reimbursement, or in-kind benefit to be provided, during any other calendar year. The right to any reimbursement or in-kind benefit pursuant to the Plan shall not be subject to liquidation or exchange for any other benefit.
+
+To the extent that the Severance Benefits payable under the Plan are deemed to be a substitute for a Section 409A Payment provided under another agreement with Participant, then the Severance Benefits payable hereunder shall be paid at the same time and in the same form as such substituted Section 409A Payment to the extent required to comply with Section 409A of the Code.
+
+7
+

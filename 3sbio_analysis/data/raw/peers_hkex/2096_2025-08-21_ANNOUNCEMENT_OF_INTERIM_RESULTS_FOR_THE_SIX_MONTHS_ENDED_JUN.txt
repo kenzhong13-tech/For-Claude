@@ -1,0 +1,1881 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this 
+announcement,  make  no  representation  as  to  its  accuracy  or  completeness  and  expressly  disclaim  any  liability  whatsoever  for  any  loss 
+howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.
+
+Simcere Pharmaceutical Group Limited
+先 聲 藥 業 集 團 有 限 公 司
+(Incorporated in Hong Kong with limited liability)
+(Stock code: 2096)
+
+ANNOUNCEMENT OF INTERIM RESULTS 
+FOR THE SIX MONTHS ENDED JUNE 30, 2025
+
+FINANCIAL HIGHLIGHTS
+
+For the six months ended June 30, 2025, the Group recorded the following unaudited financial results:
+
+• 
+
+• 
+
+• 
+
+• 
+
+Revenue was RMB3,585 million, representing an increase of 15.1% as compared to RMB3,114 million 
+for the same period of 2024.
+
+Revenue from the innovative pharmaceutical business was RMB2,776 million, accounting for 77.4% of 
+the total revenue and representing an increase of 26.0% as compared to RMB2,203 million for the same 
+period of 2024.
+
+Revenue of the Group was mainly derived from the therapeutic areas where its businesses are focused. 
+Of  which,  revenue  from  the  field  of  neuroscience  was  RMB1,249  million,  accounting  for  34.8%  of 
+the total revenue and representing an increase of 37.3% as compared to RMB909 million for the same 
+period of 2024. Revenue from the field of anti-oncology was RMB874 million, accounting for 24.4% of 
+the total revenue and representing an increase of 41.1% as compared to RMB619 million for the same 
+period of 2024. Revenue from the field of autoimmune was RMB878 million, accounting for 24.5% of 
+the total revenue and representing an increase of 3.3% as compared to RMB850 million for the same 
+period  of  2024.  Revenue  from  other  fields  was  RMB584  million,  accounting  for  16.3%  of  the  total 
+revenue and representing a decrease of 20.5% as compared to RMB736 million for the same period of 
+2024.
+
+Profit  attributable  to  equity  shareholders  of  the  Company  was  RMB604  million,  representing  an 
+increase of RMB147 million or 32.2% as compared to RMB457 million for the same period of 2024. 
+Adjusted profit attributable to equity shareholders of the Company1 was RMB651 million, representing 
+an increase of RMB113 million or 21.1% as compared to RMB538 million for the same period of 2024.
+
+1 
+
+To supplement the financial information presented in accordance with Hong Kong Financial Reporting Standards, the Group also uses 
+adjusted profit attributable to equity shareholders of the Company as a non-Hong Kong Financial Reporting Standards measure. Such 
+measure is unaudited in nature and is not required by, or presented in accordance with, Hong Kong Financial Reporting Standards.
+
+The  adjusted  profit  attributable  to  equity  shareholders  of  the  Company  is  defined  by  the  Group  as  profit  attributable  to  equity 
+shareholders of the Company adjusted for the following items: (i) net realized and unrealized losses on financial assets at fair value 
+through  profit  or  loss;  (ii)  net  realized  and  unrealized  gain  on  associates  at  fair  value  through  profit  or  loss;  (iii)  interest  expenses 
+arising from redemption liability; and (iv) income tax effect related to the above items.
+
+– 1 –
+
+The  board  (the  “Board”)  of  directors  (the  “Directors”)  of  Simcere  Pharmaceutical  Group  Limited  (the 
+
+“Company”)  is  pleased  to  announce  the  unaudited  condensed  consolidated  financial  results  of  the  Company 
+
+together with its subsidiaries (collectively the “Group”) for the six months ended June 30, 2025 (the “Reporting 
+
+Period”  or  the  “Period”),  together  with  the  comparative  figures  for  the  same  period  in  2024.  The  unaudited 
+
+condensed consolidated financial information for the Reporting Period have been reviewed by the audit committee 
+
+of the Company (the “Audit Committee”).
+
+GROUP OVERVIEW
+
+The Group is an innovation and R&D-driven pharmaceutical company with a focus on the areas of neuroscience, 
+
+anti-oncology, autoimmune and anti-infection, with forward-looking layout of disease areas that have significant 
+
+clinical needs in the future, aiming to achieve the corporate mission of “born for the patients”.
+
+The  Group  has  ten  innovative  drugs  approved  for  marketing  and  sale  in  the  focus  areas.  As  of  June  30,  2025, 
+
+the  Group  had  been  recommended  in  guidelines  and  consensuses  issued  by  over  100  prestigious  professional 
+
+associations, and had over 45 products included in the National Reimbursement Drug List (the “NRDL”).
+
+The  Group  pays  high  attention  to  the  establishment  of  innovative  pharmaceutical  R&D  capability,  and  has 
+
+established R&D innovation centers in Shanghai, Nanjing, Beijing, Boston and Hong Kong, as well as a State Key 
+
+Laboratory  of  Neurology  and  Oncology  Drug  Development.  The  Group’s  R&D  system  has  achieved  functions 
+
+covering the whole process from drug discovery, pre-clinical development, clinical trial to registration, and owns 
+
+leading platforms of protein engineering, PAb/TCE, ADC, AI-aided drug discovery and protein degradation. As of 
+
+June 30, 2025, the Group had a R&D team of approximately 963 personnel in total with approximately 183 doctors 
+
+and 532 masters.
+
+The Group has a nationwide marketing network and leading commercialization capability, and will continuously 
+
+strengthen its professional marketing capability, so as to enhance the coverage and accessibility of medicines. As 
+
+of June 30, 2025, the Group’s sales department, which was divided into four business units (neuroscience, anti-
+
+oncology, autoimmune & comprehensive and retail) and other support departments had a total of approximately 
+
+4,179 personnel across 31 provinces, municipalities and autonomous regions in China, with its products covering 
+
+over 3,000 Class III hospitals, approximately 17,000 other hospitals and medical institutions as well as more than 
+
+200 large-scale national or regional chain pharmacies.
+
+– 2 –
+
+The  Group  has  established  manufacturing  infrastructures  and  quality  management  systems  in  line  with 
+
+international  standards  and  has  continuously  improved  its  manufacturing  capabilities  of  pharmaceuticals.  The 
+
+Group has put into use six PRC GMP certified production facilities for the manufacturing of its pharmaceutical 
+
+products, and has received the EU GMP certification or passed the U.S. Food and Drug Administration (“FDA”) 
+
+inspection for some of its production workshops.
+
+Driven by  its  in-house R&D efforts and synergistic innovation, the Group  has established  strategic cooperation 
+
+partnerships  with  many  innovative  companies,  research  institutes  and  clinical  centers  at  home  and  abroad, 
+
+exploring multiple collaborative modes in various aspects such as cooperative R&D and achievement transfer, and 
+
+continuously  developing  products  that  patients  urgently  need  and  have  significant  market  potential.  The  Group 
+
+has established the Scientific Advisory Board (SAB) comprising over 10 world-renowned scientists in the areas 
+
+of anti-oncology, neuroscience and autoimmune, etc., so as to bring their professional capabilities and industrial 
+
+experiences to provide scientific advice for the Group’s early drug discovery and clinical development and explore 
+
+and create unprecedented treatments.
+
+MAJOR PRODUCTS
+
+Neuroscience Products
+
+Sanbexin® (Edaravone and Dexborneol Concentrated Solution for Injection)
+
+Sanbexin® sublingual tablets (Edaravone and Dexborneol sublingual tablets)
+
+QUVIVIQ® (daridorexant hydrochloride tablets)
+
+Anti-oncology Products
+
+Endostar® (Recombinant Human Endostatin Injection)
+
+ENWEIDA® (Envafolimab Injection)
+
+COSELA® (Trilaciclib Hydrochloride for Injection)
+
+ENLITUO® (Cetuximab Beta Injection)
+
+ENZESHU® (Suvemcitug Injection)
+
+Autoimmune Products
+
+Iremod® (Iguratimod Tablets)
+
+ANTINE® (Diclofenac Sodium Sustained Release Capsules/Gel)
+
+Anti-infection Products
+
+XIANNUOXIN® (Simnotrelvir Tablets/Ritonavir Tablets (co-packaged))
+
+– 3 –
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+INDUSTRY REVIEW
+
+In the first half of 2025, the pharmaceutical industry of China continued to deepen reforms, with innovation-driven 
+
+becoming  increasingly  clear.  In  January,  the  NMPA  issued  the  Deepening  Drug  Review  and  Approval  Reform 
+
+Plan (Draft for Comment), introducing a “rolling submission + staged review” mechanism; on June 16, it issued 
+
+the Announcement on Optimizing Clinical Trial Reviews for Innovative Drugs (Draft for Comment), reducing the 
+
+time for IND approvals from 60 days to 30 days, significantly improving review efficiency. In June, the NMPA and 
+
+the National Health Commission of the PRC jointly issued the Measures to Support High-Quality Development of 
+
+Innovative Drugs, which for the first time proposed a full-chain support policy, including a commercial insurance 
+
+directory  for  innovative  drugs,  to  provide  diversified  payment  guarantees  for  innovative  drugs.  With  policy 
+
+support, China’s pharmaceutical industry is booming, with innovative drugs and internationalization becoming the 
+
+most prominent themes. The transition from a “pharmaceutical powerhouse” to a “pharmaceutical superpower” is 
+
+accelerating, and the industry as a whole is moving toward a new stage of high-quality development.
+
+BUSINESS REVIEW
+
+Innovative  drug  products  have  been  commercialized  continuously,  which  bring  long-term  healthy 
+
+growth  momentum  for  the  Group.  As  of  the  date  of  this  announcement,  innovative  drugs  that  entered 
+
+the  commercialization  stage  increased  to  ten  (Endostar ®,  Iremod ®,  Sanbexin ®,  ENWEIDA ®,  COSELA ®, 
+
+XIANNUOXIN®, ENLITUO®, Sanbexin® sublingual tablets, QUVIVIQ® and ENZESHU®), two innovative drugs 
+
+(QUVIVIQ®  and  ENZESHU®)  were  approved  for  marketing,  and  the  New  Drug  Application  (“NDA”)  of  two 
+
+innovative drugs (Deunoxavir Marboxil Tablets (adults/adolescentes) and Rademikibart®) were accepted.
+
+Based on the unmet clinical demands, the Group promotes the R&D pipelines of innovative drugs effectively. As 
+
+of the date of this announcement, the Group has over 60 R&D pipelines of innovative drugs. The Group added four 
+
+investigational  new  drug  applications  (“IND(s)”)1,  completed  three  First-in-human  (“FIH(s)”)2  and  three  Last-
+
+Patient-In (“LPI(s)”) 3.
+
+1 
+
+2 
+
+3 
+
+Four  INDs  added  namely  SIM0505  (advanced  solid  tumors,  January  2025,  China),  SIM0686  (advanced  solid  tumors,  April  2025, 
+
+China;  July  2025,  the  United  States),  SIM0508  (in  combination  with  Olaparib  to  be  used  in  advanced  solid  tumors,  August  2025, 
+
+China)
+
+Three  studies  completed  FIH,  namely  SIM0505  (advanced  solid  tumors,  phase  I,  January  2025),  SIM0686  (advanced  solid  tumors, 
+
+phase I, May 2025), SIM0500 (relapsed/refractory multiple myeloma, phase I, June 2025, the United States)
+
+A total of three studies completed LPI, namely Deunoxavir Marboxil (influenza in children, phase  III, February  2025), LNK01001 
+
+(RA, phase III, March 2025) and TGRX-326 (non-small cell lung cancer, phase III)
+
+– 4 –
+
+KEY MILESTONES
+
+During  the  Reporting  Period  and  up  to  the  date  at  this  announcement,  the  Group  made  a  series  of  advances  in 
+
+respect  of  its  product  candidates,  business  operations  and  business  development,  including  the  following  key 
+
+milestones and achievements:
+
+January 13, 2025
+
+The  Group’s  self-developed  drug  candidate  SIM0500  (GPRC5D-BCMA-CD3) 
+
+has  entered  into  an  option  to  license  agreement  (the  “Agreement”)  with  AbbVie 
+
+(AbbVie). Under terms of the Agreement, AbbVie would have the option to license 
+
+SIM0500, while the Group would retain its rights in the Greater China region.
+
+January 17, 2025
+
+The  Group  has  entered  into  a  cooperation  agreement  with  Guangzhou  Fermion 
+
+Technology  Co.,  Ltd.  (廣州費米子科技有限責任公司)  in  respect  of  FZ002-037, 
+
+an analgesic innovative drug candidates in clinical stage targeting SSTR4, pursuant 
+
+to  which,  the  Group  obtained  exclusive  rights  to  develop  and  commercialize  the 
+
+product in the Greater China region.
+
+March 15, 2025
+
+The  NDA  of  Deunoxavir  Marboxil,  a  category  1  innovative  anti-influenza  drug, 
+
+jointly  developed  by  the  Group  and  Andicon  Bio,  was  accepted  by  the  NMPA, 
+
+Deunoxavir Marboxil are for treating uncomplicated influenza A and B in adults and 
+
+adolescents.
+
+June 16, 2025
+
+The  Group  has  achieved  strategic  cooperation  with  NextCure,  Inc.  (NextCure)  in 
+
+relation to a new ADC drug SIM0505 (CDH6-ADC), NextCure obtains global rights 
+
+(excluding the Greater China region) to SIM0505.
+
+June 20, 2025
+
+QUVIVIQ®  (daridorexant  hydrochloride  tablets),  an  anti-hypnotic  drug  jointly 
+
+developed  by  the  Group  and  Idorsia,  was  approved  for  marketing  by  the  NMPA. 
+
+The  indication  of  QUVIVIQ®  is  for  the  treatment  of  adult  patients  with  insomnia 
+
+characterized  by  difficulties  with  sleep  onset  and/or  sleep  maintenance  and 
+
+QUVIVIQ® has not been designated as a controlled substance.
+
+– 5 –
+
+June 30, 2025
+
+ENZESHU® (Suvemcitug for injection), a next-generation anti-tumor angiogenesis 
+
+(anti-VEGF  antibody)  category  1  biological  new  drug  jointly  developed  by  the 
+
+Group and Pyxis Oncology, was approved for marketing by the NMPA. ENZESHU® 
+
+is indicated for the treatment of recurrent ovarian cancer, fallopian tube cancer, or 
+
+primary  peritoneal  cancer  in  combination  with  paclitaxel,  liposomal  doxorubicin, 
+
+or topotecan in adults who have received no more than one systemic therapy after 
+
+platinum resistance.
+
+July 9, 2025
+
+The  NDA  of  the  innovative  drug  Rademikibart,  jointly  developed  by  the  Group 
+
+and  Connect  Biopharma,  was  accepted  by  the  NMPA  for  the  treatment  of  atopic 
+
+dermatitis.
+
+For  details  of  each  milestone  above,  please  refer  to  the  following  sections  of  this  announcement  and,  where 
+
+appropriate, previous announcements of the Company published on the websites of The Stock Exchange of Hong 
+
+Kong Limited (the “Stock Exchange”) and the Company.
+
+SUMMARY OF PRODUCT PIPELINES
+
+As  of  the  date  of  this  announcement,  the  Group  has  over  60  R&D  pipelines  of  innovative  drugs.  Six  drug 
+
+candidates  are  in  NDA/pivotal  clinical  stage 1  and  12  molecules  entered  early  clinical  stage.  The  forms  of 
+
+innovative  drugs  under  development  contain  monoclonal  antibodies,  bispecific  antibodies,  multi-specific 
+
+antibodies,  fusion  proteins,  antibody-drug  conjugates  (“ADC”)  and  small  molecule  drugs,  etc.  The  extensive 
+
+pipeline reserves have huge clinical and commercialization potential, which are expected to help more patients.
+
+The table below summarizes the therapeutic targets, therapeutic areas, rights and development of principal R&D 
+
+pipelines of the Group as of the date of this announcement.
+
+1 
+
+Including products with commercial rights, namely Deunoxavir Marboxil, LNK01001 and TGRX-326
+
+– 6 –
+
+Territory
+
+Product candidate
+(Target/Mechanism)
+
+Pre-clinical
+
+IND
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA/IDL
+
+Global
+
+Global
+
+Endostar® New indication
+（Angiogenesis）
+
+Thoracoabdominal effusions（COREMAP study)
+
+SIM0270 （SERD BM） 
+
+Breast cancer
+
+Anti-Oncology
+
+China
+(commercialization right)
+
+TGRX-326 （ALK/ROS1）
+
+Non-small cell lung cancer
+
+Global
+
+Global
+
+Global
+
+Docetaxel polymeric micelles for
+injection
+SIM0237 （PD-L1/IL15v bispecific
+antibody） 
+
+ （Tubulin inhibitor）
+
+Malignant ascites 
+
+Non-muscle invasive bladder cancer
+
+SIM0501 （USP1） 
+
+Solid tumors（China and U.S.）
+
+China
+(Option to license from AbbVie
+for rights outside Greater
+China)
+
+China
+
+Global
+
+China
+(licensed-out to NextCure
+outside of China)
+
+Global
+
+China
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+Global
+
+China
+
+Global
+
+SIM0500
+ （GPRC5D-BCMA-CD3 trispecific antibody） 
+
+Multiple myeloma（China and U.S.）
+
+SIM0395 （PI3K/mTOR） 
+
+Glioblastoma 
+
+ ( GBM AGILE study) 
+
+SIM0508 （Polθ） 
+
+Solid tumors（China and U.S.）
+
+SIM0505 （CDH6-ADC）
+
+Solid tumors (China and U.S.)
+
+SIM0686 （FGFR2b-ADC）
+
+Solid tumors (China and U.S.)
+
+SIM0323 （CD80/IL2） 
+
+Solid tumors
+
+SIM0609
+
+ （CDH17-ADC） 
+
+Solid tumors
+
+SIM0610
+
+ （EGFR/cMet-ADC）
+
+Solid tumors
+
+SIM0613
+
+ （LRRC15-ADC）
+
+Solid tumors
+
+SIM0682
+
+ （B7H3/cMet-ADC）
+
+SIM0532
+
+ （PanRAS）
+
+SIM0512
+
+ （WRN）
+
+Solid tumors
+
+Solid tumors
+
+Solid tumors
+
+ Neuroscience
+
+Sanbexin® sublingual tablets
+（Free radicals and inflammatory cytokines）
+
+AIS (U.S.)
+
+Sanbexin® injection New Indication
+（Free radicals and inflammatory cytokines）
+
+PSCI
+
+ICH
+
+SIM0800 （AQP4） 
+
+Stroke with cerebral edema 
+
+SIM0811
+
+AIS, MI, etc.
+
+Autoimmune
+
+China
+
+Rademikibart （IL-4Rα） 
+
+Atopic Dermatitis
+
+China
+( licensed-out to Almirall
+outside of China)
+
+SIM0278 （IL-2-mu-Fc） 
+
+AD, LN, etc. 
+
+Asthma
+
+SIM0708 （IL-4Rα ADC）
+
+AD, COPD, Asthma，etc.
+
+) 
+
+Global
+
+Global
+
+Global
+
+SIM0711 （IRAK4 PROTAC）
+
+SIM0709 （TL1A/IL23p19）
+
+China
+(commercialization right)
+
+LNK01001 （JAK1）
+
+AD, etc.
+
+UC and CD
+
+RA and AS
+
+Anti-infective
+
+China
+(commercialization right)
+
+Deunoxavir Marboxil（PA）
+
+Influenza(adult/adolescent) 
+
+Influenza (child) 
+
+Post-exposure prophylaxis for influenza A and B (aged 2 years and above) 
+
+Development status of the Group
+
+Development status of partner(s)
+
+– 7 –
+
+INNOVATIVE DRUGS AT THE COMMERCIALIZATION STAGE
+
+Up  to  the  date  of  this  announcement,  the  Group  has  successfully  expanded  its  commercialized  portfolio  of 
+
+innovative drugs into ten: Endostar®, Iremod®, Sanbexin®, ENWEIDA®, COSELA®, XIANNUOXIN®, ENLITUO®, 
+
+Sanbexin® sublingual tablets, QUVIVIQ® and ENZESHU®, spanning over multiple areas, including neuroscience, 
+
+anti-oncology,  autoimmune  and  anti-infection,  which  have  significant  market  potentials  and  synergistic  effects. 
+
+For  the  six  months  ended  June  30,  2025,  revenue  from  innovative  pharmaceutical  business  was  approximately 
+
+RMB2,776 million, accounting for 77.4% of the total revenue.
+
+MILESTONES AND ACHIEVEMENTS DURING THE REPORTING PERIOD
+
+Neuroscience Products
+
+Sanbexin® (Edaravone and Dexborneol Concentrated Solution for Injection)
+
+Sanbexin® is a category I innovative drug developed by the Group with proprietary intellectual property right used 
+
+to treat acute ischemic stroke (“AIS”). Sanbexin ® was approved for marketing in China in July 2020 and has been 
+
+included in the NRDL since December 2020 and renewed its inclusion in the NRDL in November 2024.
+
+For the six months ended June 30, 2025, Sanbexin® Injection, accounting for approximately 29% of the market 
+
+share in stroke injection, covered approximately 0.91 million patients and over 5,900 medical institutions.
+
+Data Release
+
+• 
+
+In April 2025, the Chinese Expert Consensus on Clinical Practice for Cerebral Cell Protection in Bchemic 
+
+Stroke  was  published.  The  consensus  recommends  the  individualized  use  of  Edaravone  and  Dexborneol 
+
+during the hyperacute and acute phases of acute ischemic stroke, provided that it does not interfere with the 
+
+implementation of vascular recanalization therapy.
+
+– 8 –
+
+Sanbexin® sublingual tablets (Edaravone and Dexborneol sublingual tablets)
+
+Sanbexin® sublingual tablets is a brain cytoprotective agent composed of edaravone and dexborneol, two active 
+
+ingredients with synergistic anti-oxidant and anti-inflammatory effects, which can significantly reduce brain cell 
+
+injury or impairment caused by AIS. Such unique sublingual tablets formulation can quickly disintegrate once in 
+
+contact with the saliva under the tongue and can be absorbed into the blood through the sublingual venous plexus, 
+
+which  is  expected  to  increase  the  flexibility  of  stroke  treatment.  Sanbexin®  sublingual  tablets  are  expected  to 
+
+form a sequential therapy combined with Sanbexin® injection, enabling patients to receive a complete course of 
+
+treatment in and outside of the hospital.
+
+In December 2024, Sanbexin® sublingual tablets was approved for marketing in China, aiming at improving the 
+
+neuro symptoms, the daily living abilities and dysfunction caused by AIS. In August 2024, Sanbexin® sublingual 
+
+tablets  was  granted  the  “Breakthrough  Therapy”  designation  by  the  FDA,  which  was  the  first  innovative  drug 
+
+in  the  global  stroke  treatment  sector  receiving  such  designation  and  the  first  innovative  drug  in  the  Chinese 
+
+neuroscience sector receiving such designation.
+
+Data Release
+
+• 
+
+In  May  2025,  Peking  Union  Medical  College  Hospital’s  multi-center,  randomized,  double-blind  and 
+
+placebo-controlled TASTE-SVD study, which focuses on acute cerebral small vessel disease, premiered at 
+
+the  11th European Stroke Organisation Conference (ESOC). 
+
+– 9 –
+
+QUVIVIQ® (daridorexant hydrochloride tablets)
+
+QUVIVIQ®  is  a  dual  orexin  receptor  antagonist  (“DORA”).  Unlike  traditional  sedative-hypnotic  drugs  that 
+
+promote  sleep  by  sedating  the  brain,  QUVIVIQ®  works  by  blocking  the  binding  of  wake-promoting  orexin 
+
+neuropeptides  (orexin  A  and  orexin  B)  to  their  receptors.  As  a  result,  QUVIVIQ®  reduces  wake  drive  and 
+
+facilitates  the  onset  of  sleep,  decreases  wake  time  after  sleep  onset,  and  extends  total  sleep  duration,  without 
+
+altering  sleep  architecture.  Clinical  study  results  have  shown  that  QUVIVIQ®  has  a  favorable  safety  and 
+
+tolerability profile, with no evidence of rebound insomnia, withdrawal symptoms, or drug abuse. In addition to 
+
+improving nighttime sleep in adults with insomnia disorder, QUVIVIQ® also enhances daytime functioning. It is 
+
+the only DORA insomnia medication approved by the European Medicines Agency (EMA) for improving daytime 
+
+functioning.  The  Guidelines  for  the  Diagnosis  and  Treatment  of  Insomnia  Disorders  in  China  (2nd  Edition), 
+
+published  in  2025,  strongly  recommend  QUVIVIQ®  with  Grade  A  evidence.  Previously,  QUVIVIQ®  has  been 
+
+approved for marketing in 11 countries including the United States, the United Kingdom, Switzerland, Canada, as 
+
+well as in the Hong Kong SAR of China.
+
+Registration Progress
+
+• 
+
+On  June  17,  2025,  QUVIVIQ®  was  approved  for  marketing  in  China.  QUVIVIQ®  is  for  the  treatment  of 
+
+adult  patients  with  insomnia  characterized  by  difficulties  with  sleep  onset  and/or  sleep  maintenance  and 
+
+QUVIVIQ® has not been designated as a controlled substance.
+
+Data Release
+
+• 
+
+In  January  2025,  the  Guidelines  for  the  Diagnosis  and  Treatment  of  Insomnia  Disorders  in  the  PRC 
+
+(2nd  Edition),  which  was  edited  by  the  Chinese  Sleep  Research  Society  and  published  by  the  People’s 
+
+Medical  Publishing  House,  strongly  recommended  Daridorexant  with  Grade  A  evidence.  The  guidelines 
+
+recommended  Daridorexant’s  efficacy  in  improving  nighttime  sleep  and  daytime  functioning  in  adult 
+
+insomnia patients, coupled with favorable safety and requiring no dosage adjustment for elderly patients.
+
+• 
+
+In  June  2025,  the  multi-center,  randomized,  double-blind,  parallel  and  placebo-controlled  Daridorexant 
+
+Phase III clinical trial in China, which was led by the Xuanwu Hospital, Capital Medical University and 
+
+participated  by  33  research  centers,  published  preliminary  results  in  SLEEP  magazine,  demonstrating 
+
+Daridorexant  50mg’s  statistically  significant  improvements  in  both  objective  and  subjective  sleeping 
+
+conditions of the Chinese insomnia patients, coupled with favorable safety.
+
+– 10 –
+
+Oncology Products
+
+Endostar® (Recombinant Human Endostatin Injection)
+
+Endostar® is the first anti-angiogenic targeted drug in China and the first endostatin approved for sale worldwide. 
+
+Endostar® has been included in the NRDL since 2017 and is recommended as a first-line treatment for patients with 
+
+advanced non-small cell lung cancer (“NSCLC”) by a number of oncology clinical practice guidelines issued by 
+
+the National Health Commission of the PRC (“NHC”), Chinese Medical Association (中華醫學會) and Chinese 
+
+Society of Clinical Oncology (“CSCO”). Also, it has been included in the recommendations by various guidelines 
+
+in relation to nasopharyngeal carcinoma, melanoma, esophageal carcinoma and osteosarcoma.
+
+Data Release
+
+• 
+
+In  January  2025,  as  stated  in  the  China  Esophagus  Cancer  Radiotherapy  Guidelines  2024  (《 中 國 食 管
+
+癌 放 射 治 療 指 南（2024 年 版 ）》)  jointly  issued  by  the  Chinese  Society  of  Radiation  Oncology  (branch 
+
+association of the Chinese Medical Association) (中華醫學會放射腫瘤治療分會), the Chinese Association 
+
+for  Therapeutic  Radiation  Oncologists  (branch  association  of  the  Chinese  Medical  Doctor  Association) 
+
+(中國醫師協會放射腫瘤治療醫師分會)  and  the  Society  of  Radiation  Therapy  of  the  China  Anti-Cancer 
+
+Association (中國抗癌協會腫瘤放射治療專業委員會), Endostar® was recommended by the consensus in 
+
+the section on anti-angiogenic therapy for esophageal cancer again. The recommendation was as follows: 
+
+recombinant human endostatin + oxaliplatin + radiotherapy or recombinant human endostatin + Paclitaxel 
+
++  Nedaplatin  (squamous  cell  carcinoma,  first-line,  Grade  II  recommendation,  Category  2B  evidence),  or 
+
+recombinant  human  endostatin  +  Irinotecan  +  cisplatin  (squamous  cell  carcinoma,  second-line,  Grade  II 
+
+recommendation, Category 2B evidence).
+
+• 
+
+In  June  2025,  the  2025  American  Society  of  Clinical  Oncology  (ASCO)  Annual  Meeting  was  held 
+
+in  Chicago.  Two  studies  on  Endostar®  were  selected  for  this  meeting,  with  the  following  titles:  (1)
+
+Sintilimab + Nab-PP  Combined  with  Recombinant  Human  Vascular  Endothelial  Inhibitor  for  Locally 
+
+Advanced/Advanced and Recurrent Metastatic Squamous Non-Small Cell Lung Cancer: Study Protocol for 
+
+a Single-Arm, Multi-Centre Phase II Clinical Study; and (2) Real-world research on the effect and safety 
+
+of gemcitabine combined with PD-1 inhibitors and recombinant human endostatin in refractory recurrent 
+
+nasopharyngeal carcinoma.
+
+– 11 –
+
+ENWEIDA® (Envafolimab Injection)
+
+ENWEIDA®  is  the  world’s  first  PD-(L)1  antibody  to  be  administered  by  subcutaneous  injection  approved  for 
+
+marketing. Its unique method of injection differentiates itself from other PD-(L)1 products currently on the market, 
+
+with the differentiation advantages of short administration time and good safety. In March 2020, the Group entered 
+
+into a tripartite cooperation agreement in relation to ENWEIDA® with 3D (Beijing) Medicines Inc. (思路迪（北
+
+京）醫藥科技有限公司)  and  Jiangsu  Alphamab  Biopharmaceuticals  Co.,  Ltd.  (江蘇康寧傑瑞生物製藥有限公
+
+司). The above-mentioned agreement provides the Group with the exclusive right to promote ENWEIDA® for all 
+
+oncology indications and the right of first refusal of external licensing or assignment in the Chinese mainland.
+
+Data Release
+
+• 
+
+In January 2025, American Society of Clinical Oncology Gastrointestinal Cancers Symposium (ASCO GI) 
+
+was  held  in  San  Francisco,  California,  United  States.  ENWEIDA®  had  two  poster  presentations  selected 
+
+for  this  conference,  covering  the  latest  applications  of  ENWEIDA  in  gastric/gastroesophageal  junction 
+
+adenocarcinoma and pancreatic cancer.
+
+• 
+
+In  May  2025,  ENWEIDA ®  continued  to  be  included  in  two  key  CSCO  guidelines:  CSCO  Clinical 
+
+Application Guidelines for Gastric Cancer 2025 (《2025 CSCO胃癌臨床應用指南》) (Level I) and CSCO 
+
+Clinical  Application  Guidelines  for  Colorectal  Cancer  2025  (《 2025  CSCO 結 直 腸 癌 臨 床 應 用 指 南 》) 
+
+(Level II).
+
+• 
+
+In  June  2025,  the  2025  American  Society  of  Clinical  Oncology  (ASCO)  Annual  Meeting  was  held  in 
+
+Chicago.  ENWEIDA®  had  11  researches  selected  for  this  conference,  covering  aspects  of  non-small-cell 
+
+lung cancer, small-cell lung cancer, pancreatic cancer, biliary tract cancer, cholangiocarcinoma, esophageal 
+
+squamous cell carcinoma, osteosarcoma and soft tissue sarcoma.
+
+– 12 –
+
+COSELA® (Trilaciclib Hydrochloride for Injection)
+
+COSELA®  is  an  effective,  selective  and  reversiblecycl  in-dependent  kinases  4  and  6  (CDK4/6)  inhibitor. 
+
+COSELA® is the world’s first-in-class comprehensive myeloprotection innovative drug that can de-administered 
+
+prior  to  a  chemotherapy.  In  August  2020,  the  Group  entered  into  the  exclusive  license  agreement  with  G1 
+
+Therapeutics,  Inc.  to  develop  and  commercialize  COSELA®  in  the  Greater  China  region.  In  February  2021, 
+
+COSELA®  was  approved  for  marketing  by  the  FDA.  In  July  2022,  the  marketing  of  COSELA®  in  China  has 
+
+obtained  the  conditional  approval  by  the  NMPA.  In  April  2023,  the  Group  has  obtained  full  rights  to  the  sales 
+
+milestones of COSELA®. In December 2023, the localization application of COSELA® has been approved by the 
+
+NMPA  and  it  can  be  produced  by  the  production  enterprises  of  the  Group  in  Haikou,  Hainan  Province,  which 
+
+further improved its accessibility to patients with cancer in China. Currently, the product has been recommended 
+
+by the related key guidelines of National Comprehensive Cancer Network Guidelines (NCCN), CSCO and other 
+
+organizations. In November 2024, COSELA® was successfully included in NRDL.
+
+Data Release
+
+• 
+
+In May 2025, COSELA® continued to be included in CSCO Diagnosis and Treatment Guidelines for Small-
+
+Cell Lung Cancer 2025 (《2025 CSCO小細胞肺癌診療指南》) (Level I).
+
+• 
+
+In  June  2025,  the  2025  American  Society  of  Clinical  Oncology  (ASCO)  Annual  Meeting  was  held  in 
+
+Chicago. COSELA® had 4 researches selected for this conference, covering aspects of non-small-cell lung 
+
+cancer, small-cell lung cancer, etc.
+
+ENLITUO® (Cetuximab Beta Injection)
+
+ENLITUO®  is  a  recombinant  anti-epidermalgrowth  factor  receptor  (“EGFR”)  chimeric  monoclonal  antibody 
+
+for  first-line  treatment  of  RAS/BRAF  wild-type  metastatic  colorectal  cancer  (“mCRC”)  in  combination  with 
+
+FOLFIRI.  ENLITUO®  is  prepared  using  a  specific  expression  process,  effectively  avoiding  glycosylation 
+
+modification  that  may  lead  to  hypersensitivity  without  black  box  warnings  in  the  instruction.  In  June  2024, 
+
+ENLITUO® was approved for marketing in China by the NMPA and is the first anti-EGFR monoclonal antibody 
+
+innovative  drug  developed  in  China  with  independent  intellectual  property  rights  which  has  been  approved  by 
+
+the  NMPA  for  first-line  treatment  of  mCRC.  The  successful  launch  of  ENLITUO®  will  provide  high  quality 
+
+and  affordable  biological  targeted  remedy  for  Chinese  mCRC  patients.  In  November  2024,  ENLITUO®  was 
+
+successfully included in NRDL.
+
+– 13 –
+
+Data Release
+
+• 
+
+In April 2025, the 2025 CSCO Guideline Meeting was held in Jinan City. ENLITUO® was included in the 
+
+recommendations of the CSCO Guidelines for Colorectal Cancer 2025 (《2025 CSCO結直腸癌指南》) for 
+
+patients  of  first-line  treatment  with  wild-type  RAS  and  BRAF  that  are  potentially  resectable:  Left-sided 
+
+colorectal  cancer   –  Cetuximab  B  and  FOLFIRI  (Level  I);  Right-sided  colon  cancer   -  Cetuximab  B  and 
+
+FOLFIRI (Level II).
+
+• 
+
+In May 2025, research information from the ENLITUO® phase III registration clinical studies was published 
+
+in  Nature’s  journal  Signal  Transduction  and  Targeted  Therapy  (impact  factor  40.8).  Pivotal  clinical 
+
+information:  progression-free  survival  (“PFS”)  -  the  median  PFS  in  the  ENLITUO ®  combination  group 
+
+was 13.1 months, which was 3.5 months longer than that in the chemotherapy-only group; overall survival 
+
+(“OS”) – the median OS in the ENLITUO ® combination group was 28.3 months, which was significantly 
+
+better  than  the  23.1  months  of  the  chemotherapy  group.  The  study  results  marked  a  major  breakthrough 
+
+in the treatment of metastatic colorectal cancer in China and filled the gap in domestically produced anti-
+
+EGFR monoclonal antibodies.
+
+ENZESHU® (Suvemcitug for Injection)
+
+ENZESHU®  is  a  next-generation  recombinant  humanized  anti-vascular  endothelial  growth  factor  (“VEGF”) 
+
+monoclonal antibody developed by the Group and Pyxis Oncology, Inc., and is the first anti-angiogenic therapy for 
+
+patients with platinum-resistant ovarian cancer.
+
+By  potently  blocking  the  binding  of  VEGF  to  its  receptor,  ENZESHU®  inhibits  tumor  angiogenesis,  thereby 
+
+achieving an anti-tumor effect. With a unique molecular design featuring a differentiated VEGF-binding epitope, 
+
+ENZESHU®  has  demonstrated  significantly  greater  inhibitory  activity  against  the  binding  of  VEGF  to  its 
+
+receptor  (VEGFR2)  compared  to  bevacizumab,  as  well  as  stronger  suppression  of  human  vascular  endothelial 
+
+cell  proliferation.  Preclinical  studies  have  shown  that  ENZESHU®  exhibits  enhanced  biological  activity  and 
+
+superior tumor-inhibitory effects relative to bevacizumab at the same dosage across multiple tumor models. The 
+
+randomized  double-blind  placebo  controlled  registrational  Phase  III  clinical  trial  of  ENZESHU®  (the  SCORES 
+
+study)  demonstrated  significant  benefits  in  the  primary  efficacy  endpoint  of  PFS  assessed  by  the  Blinded 
+
+Independent Review Committee (BIRC) as well as investigator-assessed PFS. For the key secondary endpoint, OS 
+
+was prolonged in the treatment group compared to the control group.
+
+Registration Progress
+
+• 
+
+On June 30, 2025, ENZESHU® was approved for marketing in China. It is indicated for the treatment of 
+
+recurrent ovarian cancer, fallopian tube cancer, or primary peritoneal cancer in combination with paclitaxel, 
+
+liposomal doxorubicin, or topotecan in adults who have received no more than one systemic therapy after 
+
+platinum resistance.
+
+– 14 –
+
+Autoimmune Products
+
+Iremod® (Iguratimod Tablets)
+
+Iremod®  is  the  first  Iguratimod  pharmaceutical  product  approved  for  marketing  in  the  world.  Iremod®  has  been 
+
+included  in  the  NRDL  since  2017.  The  indication  is  the  active  rheumatoid  arthritis.  Iremod ®  is  recommended 
+
+as  the  primary  therapy  drug  for  the  treatment  of  active  rheumatoid  arthritis  by  a  number  of  clinical  practice 
+
+guidelines and pathways issued by the NHC, Chinese Medical Association, Asia Pacific League of Associations 
+
+for Rheumatology and Labor and Welfare of Japan. Since its launch in 2012, Iremod® has benefited over 1 million 
+
+patients in China, which further consolidated its leading market position in the traditional DMARDs sector.
+
+Data Release
+
+• 
+
+In May 2025, the  Regional Traditional Chinese Medicine (Rheumatology) Diagnosis and Treatment Center 
+
+of  the  National  Administration  of  Traditional  Chinese  Medicine   and  the  National  Regional  Diagnosis 
+
+and  Treatment  Center  Specialist  Alliance  of  Integrated  Traditional  Chinese  and  Western  Medicine 
+
+Rheumatology   jointly  released  the  Expert  Consensus  on  the  Diagnosis  and  Treatment  of  Rheumatoid 
+
+Arthritis  with  Integrated  Traditional  Chinese  and  Western  Medicine  (2025  Edition)  (《類風濕關節炎中
+
+西醫結合診療專家共識（2025版）》).  The  consensus  states:  if  monotherapy  with  csDMARDs  (including 
+
+Iremod®)  shows  no  clinical  improvement  after  three  months  or  fails  to  achieve  treatment  goals  by  six 
+
+months,  it  is  recommended  to  combine  with  other  csDMARDs.  Alternatively,  csDMARDs  may  be 
+
+combined with bDMARDs or tsDMARDs (strength of recommendation: A, evidence level: 1a), or it may be 
+
+combined with Tripterygium compound preparations (strength of recommendation: A, evidence level: 1a) 
+
+or nux vomica compound preparations or aconite compound preparations (strength of recommendation: B, 
+
+evidence level: 3).
+
+• 
+
+In  June  2025,  the  2025  European  League  Against  Rheumatism  (EULAR)  Annual  Meeting  was  held 
+
+in  Barcelona,  Spain.  Iremod®  had  one  study  selected  for  this  conference,  titled  Efficacy  and  Safety  of 
+
+Tofacitinib Combined with Iguratimod in Patients with Rheumatoid Arthritis with Inadequate Response to 
+
+csDMARDS.
+
+– 15 –
+
+Anti-infection Products
+
+XIANNUOXIN® (Simnotrelvir Tablets/Ritonavir Tablets (co-packaged))
+
+XIANNUOXIN®  is  the  first  domestic  3CL  small  molecule  anti-SARS-CoV-2  innovative  drug  with  independent 
+
+intellectual rights in China. On November 17, 2021, the Group entered into a technology transfer contract with 
+
+Shanghai Institute of Materia Medica and Wuhan Institute of Virology, Chinese Academy of Sciences, pursuant 
+
+to  which,  the  Group  obtained  the  development,  production  and  commercialization  rights  on  an  exclusive  basis 
+
+of  Simnotrelvir  worldwide.  In  July  2024,  XIANNUOXIN®  has  been  reviewed  and  approved  by  the  NMPA 
+
+for  conversions  from  conditional  approval  to  regular  approval,  which  became  the  first  oral  anti-SARS-CoV-2 
+
+innovative drug which has obtained regular approval in China.
+
+Data Release
+
+• 
+
+In  April  2025,  a  study  in  Antimicrobial  agents  and  chemotherapy  evaluated  the  efficacy  of  Simnotrelvir 
+
+against various Omicron variants, reaffirming its potent in vitro inhibitory activity against virus replication, 
+
+and also effectively suppressing some of the Nirmatrelvir variants. Clinical trials have demonstrated that the 
+
+combination of Simnotrelvir and Ritonavir has significantly shortened the relief of SARS-CoV-2 patients, 
+
+and that patients have not developed refractory mutation. 
+
+• 
+
+In  July  2025,  a  real-world  study  confirmed  that  while  Simnotrelvir/Ritonavir  was  comparable  to 
+
+Nirmatrelvir/Ritonavir in reducing the cumulative risks such as 28-day compound disease progression, all-
+
+cause mortality and respiratory support in hospitalized patients with SARS-CoV-2 infections, Simnotrelvir/
+
+Ritonavir  was  more  advantageous  in  improving  clinical  outcomes  in  hospitalized  patients  with  SARS-
+
+CoV-2.
+
+– 16 –
+
+DRUG CANDIDATES AT THE NDA TRIAL STAGE
+
+Anti-infection Products
+
+Deunoxavir Marboxil (PA)1
+
+Deunoxavir Marboxil is an inhibitor for influenza polymerase acidic (PA) protein. Preclinical studies have shown 
+
+that  Deunoxavir  Marboxil  demonstrates  several  benefits,  including  the  absence  of  central  nervous  system  side 
+
+effects, no effect of food intake on oral drug absorption and higher safety dose. The entire oral dose of Deunoxavir 
+
+Marboxil  is  merely  “one  tablet”  and  is  capable  of  stopping  influenza  virus  replication  in  24  hours,  having  a 
+
+prospect of bringing great convenience to a large number of patients, including child patients.
+
+Milestone of Clinical Progress
+
+• 
+
+• 
+
+In January 2025, the children’s granules of Deunoxavir Marboxil phase III clinical study has completed the 
+
+LPI.
+
+In February 2025, the children’s granules of Deunoxavir Marboxil has obtained the IND Approval issued by 
+
+the NMPA, which is intended for commencing the clinical trial for post-exposure prevention of influenza 
+
+type A and B among population aged 2 years old and above.
+
+Registration Progress
+
+• 
+
+In March 2025, the NDA of Deunoxavir Marboxil Tablets has been accepted by the NMPA, which can be 
+
+used to treat of uncomplicated influenza A and B in adults and adolescents.
+
+1 
+
+A product with commercial right
+
+– 17 –
+
+Autoimmune Products
+
+Rademikibart (IL-4Rα)
+
+Rademikibart is a fully human monoclonal antibody targeting IL-4R α, a common subunit of IL-4 receptor and 
+IL-13  receptor.  By  binding  with  IL-4R  α,  Rademikibart  can  block  the  functions  of  IL-4  and  IL-13  effectively, 
+thereby  blocking  the  Th2  inflammatory  pathway,  thus  achieving  the  goal  of  treating  Th2  related  inflammatory 
+
+diseases such as atopic dermatitis and asthma.
+
+Registration Progress
+
+• 
+
+In  July  2025,  the  NDA  of  Rademikibart  has  been  accepted  by  the  NMPA,  which  can  be  used  to  treat  of 
+
+atopic dermatitis in adults and adolescents.
+
+Milestone of Clinical Progress
+
+• 
+
+The phase III clinical study of Rademikibart in asthma is underway.
+
+– 18 –
+
+DRUG CANDIDATES AT PHASE III TRIAL STAGE
+
+Anti-oncology Products
+
+SIM0270 (SERD)
+
+SIM0270  is  a  second-generation  oral  SERD  with  blood-brain  barrier  penetration  characteristics  independently 
+
+developed  by  the  Group.  SIM0270  was  significantly  more  effective  than  fulvestrant  a  marketed  intramuscular 
+
+SERD product, in an in vivo model, comparable to the leading compound in the clinical trial phase, and reflected 
+
+a brain-blood ratio significantly better than competitive compounds and showed a much better tumor inhibition 
+
+effect than fulvestrant in the orthotropic model of breast cancer brain. It is expected to be used for the treatment of 
+
+breast cancer with brain metastases.
+
+Milestone of Clinical Progress
+
+• 
+
+SIM0270  in  combination  with  everolimus  compared  the  treatment  selected  by  investigators,  which  is 
+
+intended  for  ER+/HER2-locally  advanced  or  metastatic  breast  cancer  after  treatment  with  a  CDK4/6 
+
+inhibitor,  where  subjects  in  the  clinical  trial  were  randomized,  open  and  under  recruitment  for  phase  III 
+
+investigation.
+
+TGRX-326 (ALK/ROS1)1
+
+TGRX-326  is  the  latest  generation  of  novel  type  1  drug  for  the  treatment  of  NSCLC  driven  by  ALK/ROS1 
+
+positive fusion gene cooperated by the Group and Shenzhen TargetRx, Inc. (深圳市塔吉瑞生物醫藥有限公司), 
+
+pursuant to which, the Group obtained the exclusive commercialization rights of the product in Chinese Mainland. 
+
+TGRX-326  has  high  blood-brain  barrier  permeability,  and  is  effective  for  the  treatment  of  NSCLC  with  brain 
+
+metastasis.
+
+Milestone of Clinical Progress
+
+• 
+
+The phase III clinical study of TGRX-326 has completed the LPI.
+
+1 
+
+A product with commercial right
+
+– 19 –
+
+Autoimmune Products
+
+LNK01001 (JAK1)1
+
+LNK01001 is a highly selective JAK1 inhibitor which has completed 3 phase II clinical studies for patients with 
+
+rheumatoid arthritis (RA), ankylosing spondylitis (AS) and atopic dermatitis (AD), all of which have successfully 
+
+met their corresponding primary and secondary endpoints. No related adverse effects of approved JAK1 inhibitors, 
+
+such as major adverse cardiovascular events, blood clots, serious infection or formation of malignant tumors, were 
+
+observed. In March 2022, the Group entered into a cooperation agreement with Lynk Pharmaceuticals Co., Ltd. 
+
+( 淩 科 藥 業（杭 州）有 限 公 司 ) (“Lynk Pharmaceuticals”), pursuant to which, the Group obtained the exclusive 
+
+commercialization interest of LNK01001 for rheumatoid arthritis and ankylosing spondylitis indications in China 
+
+and be responsible for promotion after regulatory approval.
+
+Milestone of Clinical Progress
+
+• 
+
+In March 2025, the phase III clinical study of the RA indication of LNK01001 has completed LPI.
+
+1 
+
+A product with commercial right
+
+– 20 –
+
+DRUG CANDIDATES AT PHASE I TRIAL STAGE (SELECTED)
+
+Anti-oncology Products
+
+SIM0237 (PD-L1/IL15v bispecific antibody)
+
+SIM0237 is an anti-PD-L1 monoclonal antibody fused with IL-15/IL15R α sushi protein and developed in-house 
+
+by utilizing the Group’s protein engineering platform. It can block the PD1/PD-L1 immunosuppressive pathway 
+
+via  binding  to  PD-L1  and  activate  the  immune  system  through  its  IL-15  part,  thus  playing  a  synergistic  role  of 
+
+relieving  immunosuppression  and  boosting  the  immune  system  to  exhibit  antitumor  effect.  Preclinical  studies 
+
+showed that SIM0237 is more effective than PD-L1 or IL-15 mono treatment in mouse tumor models, suggesting 
+
+a high potential for clinical development.
+
+Milestone of Clinical Progress
+
+• 
+
+Phase  I  clinical  trial  of  SIM0237  mono  treatment  bladder  installation  for  non-muscle  invasive  bladder 
+
+cancer  (“NMIBC”)  is  under  active  recruitment,  which  has  positive  initial  clinical  effect  data  and  good 
+
+safety.
+
+• 
+
+The  Centre  for  Drug  Evaluation  (“CDE”)  has  approved  the  research  of  the  usage  of  SIM0237  in 
+
+combination with BCG in NMIBC, and has completed the FPI.
+
+SIM0501 (USP1 small molecule inhibitor)
+
+SIM0501 is an oral, non-covalent and highly selective small molecule inhibitor of Ubiquitin Specific Peptidase 1 
+
+(“USP1”) independently developed by the Group with global inerllectual property rights. In preclinical in vitro and 
+
+in vivo pharmacology studies, SIM0501 has shown significant anti-proliferation activity against HRD tumors as a 
+
+monotherapy or in combination with PARPi, which demonstrates high potential for clinical development.
+
+Milestone of Clinical Progress
+
+• 
+
+SIM0501 tablets mono treatment is under the progress of phase I clinical study of advanced malignant solid 
+
+tumors.
+
+– 21 –
+
+SIM0500 (humanized GPRC5D-BCMA-CD3 trispecific antibody)
+
+SIM0500 is a humanized trispecific antibody that targets GPRC5D, BCMA, and CD3, developed independently 
+
+by  the  Group  using  T-cell  engager  poly-specific  antibody  technology  platform.  This  molecule  features  a  low 
+
+affinity/high target-activating CD3 engaging arm and binding sites for the two tumor antigens: G-Protein-coupled 
+
+receptor class 5 member D (GPRC5D) and B-cell maturation antigen (BCMA). SIM0500 has shown strong T cell 
+
+cytotoxicity against multiple myeloma (MM) cells by leveraging a combination of various antitumor effects.
+
+Milestone of Clinical Progress
+
+• 
+
+In June 2025, the phase I clinical trial of SIM0500 completed the FIH in the United States.
+
+Milestone of Strategic Cooperation
+
+• 
+
+In  January  2025,  the  Group  has  entered  into  an  option  to  license  agreement  (the  “Agreement”)  with 
+
+AbbVie.  Under  terms  of  the  Agreement,  AbbVie  would  have  the  option  to  license  SIM0500,  an  IND 
+
+candidate.  Under  the  terms  of  the  Agreement,  the  Group  will  receive  an  upfront  payment  from  AbbVie, 
+
+and is eligible to receive option fees and milestone payments of up to US$1.055 billion, as well as tiered 
+
+royalties on net sales outside of the Greater China territory. AbbVie is eligible to receive tiered royalties on 
+
+net sales in the Greater China territory.
+
+SIM0395 (Paxalisib)
+
+SIM0395 is a BBB-penetrant inhibitor of the PI3K/mTOR pathway. A phase II clinical study showed that Paxalisib 
+
+has shown highly encouraging signals of clinical efficacy among glioblastoma patients with unmethylated MGMT 
+
+promoter  status.  Paxalisib  was  awarded  the  GBM  orphan  drug  certification  by  FDA  in  2018  and  the  fast  track 
+
+certification by FDA, the rare childhood disease and orphan drug certification of diffuse intrinsic pontine glioma 
+
+(DIPG) in 2020. In March 2021, the Group entered into an exclusive licensing agreement with Kazia to introduce 
+
+the development and commercialization rights of SIM0395 for all indications in the Greater China region.
+
+– 22 –
+
+SIM0508 (Pol θ small molecule inhibitor)
+
+Pol  θ  is  a  DNA  polymerase,  whose  mediation  of  MMEJ  repair  pathway  is  one  of  the  important  approaches  for 
+
+repairing DNA double strand breaks.
+
+Milestone of Clinical Progress
+
+• 
+
+SIM0508 tablets mono treatment is under the progress of phase I clinical research of advanced malignant 
+
+solid tumors.
+
+• 
+
+In August 2025, the IND application of SIM0508, which was in combination with Olaparib to be used in 
+
+locally advanced or metastatic solid tumors patients, was approved by the NMPA.
+
+SIM0505 (CDH6-ADC)
+
+CDH6, a Class II classical cadherin, is highly expressed in a variety of tumors but with very limited expression in 
+
+normal tissues. SIM0505 is a CDH6-targeting ADC molecule developed by the Group, which consists of CDH6 
+
+monoclonal  antibody  specifically  binding  to  tumor  cells  and  the  Group’s  proprietary  camptothecin  derivative 
+
+toxin, conjugated by a linker. By combining the tumor-specific targeting antibody with the high-efficiency killing 
+
+effect of toxin molecules, SIM0505 can specifically target tumor cells and reduce the toxic side effects compared 
+
+to traditional chemotherapies. Such ADC is intended for the treatment of malignant tumors such as ovarian and 
+
+renal cancer.
+
+Milestone of Clinical Progress
+
+• 
+
+In February 2025, the phase I clinical trial of SIM0505 completed the FIH at the Fudan University Shanghai 
+
+Cancer Center (復旦大學附屬腫瘤醫院).
+
+Milestone of Strategic Cooperation
+
+• 
+
+In June 2025, a subsidiary of the Company, Hainan Simcere Zaiming Pharmaceutical Co., Ltd. (海南先聲再
+
+明醫藥股份有限公司) (“Simcere Zaiming”), entered into a license agreement (the “License Agreement”) 
+
+with NextCure, Inc. (“NextCure”). Pursuant to the License Agreement, (i) NextCure obtains global rights 
+
+(excluding  the  Greater  China  region)  to  SIM0505;  (ii)  NextCure  is  eligible  to  access  Simcere  Zaiming’s 
+
+proprietary TOPO isomerase I inhibitor (“TOPOi”) payload for a NextCure novel target ADC in preclinical 
+
+development; and (iii) Simcere Zaiming will have Greater China rights to the novel target ADC.
+
+– 23 –
+
+SIM0686 (FGFR2b-ADC)
+
+SIM0686  is  an  ADC  drug  targeting  FGFR2b.  Fibroblast  growth  factor  receptor  (FGFR)  is  a  transmembrane 
+
+tyrosine  kinase  receptor  of  fibroblast  growth  factor  (FGF).  At  present,  there  are  four  known  subtypes,  namely 
+
+FGFR1,  FGFR2,  FGFR3  and  FGFR4.  Such  ADC  is  intended  to  be  developed  for  the  treatment  of  advanced 
+
+malignant tumors like gastric cancer and lung cancer.
+
+Milestone of Clinical Progress
+
+• 
+
+In  April  2025,  the  IND  application  for  SIM0686  was  approved  by  the  NMPA,  which  was  intended  for 
+
+commencing the clinical trial for advanced solid tumors.
+
+• 
+
+In May 2025, the FIH for the aforementioned clinical trial was completed at Nanjing Tianyinshan Hospital 
+
+(南京天印山醫院).
+
+• 
+
+In July 2025, the IND for SIM0686 was approved by the FDA.
+
+Autoimmune Products
+
+SIM0278 (IL2muFc)
+
+SIM0278 is an Fc fusion protein (IL2muFc) with an IL2 mutein of Regulatory T cells (“Treg”), developed based 
+
+on the Group’s protein engineering technology platform. By introducing the mutation, the affinity of SIM0278 to 
+
+effector T cells is reduced, while the high affinity of Treg cells is retained and then the selectivity of Treg cells 
+
+is improved. In September 2022, the Group entered into a licensing agreement with Almirall S.A. (“Almirall”), 
+
+which  is  an  international  biopharmaceutical  company.  Pursuant  to  the  agreement,  the  Group  grants  Almirall  an 
+
+exclusive rights and interests in the development and commercialization of SIM0278 outside Greater China, and 
+
+retains all rights and interests in the Greater China region.
+
+Neuroscience Products
+
+SIM0800 (AQP4)
+
+SIM0800  is  an  Aquaporin-4  (AQP4)  inhibitor  developed  based  on  the  Aquaporin  water  channel  theory  which 
+
+has  been  awarded  the  Nobel  Prize.  It  is  intended  for  the  treatment  of  acute  severe  ischemic  stroke  complicated 
+
+by cerebral oedema, as a first-in-class small molecule drug with a novel mechanism of action for brain oedema 
+
+therapy. The Group entered into a license agreement with Aeromics, Inc. in October 2019, pursuant to which, the 
+
+Group obtained a proprietary and sublicensable license for its self-funded research, development, production and 
+
+commercialization of SIM0800 in the Greater China region.
+
+– 24 –
+
+DRUG CANDIDATES AT THE IND/PRE-CLINICAL STAGE (SELECTED)
+
+The  Group  has  approximately  40  pre-clinical  drug  candidates  and  its  in-house  pipelines  focus  on  differentiated 
+
+targets  with  FIC  and  BIC  potential,  which  provide  strong  and  diversified  product  pipelines  for  the  long-term 
+
+sustainable growth of the Group. Certain research and development assets with high potential are as follows.
+
+SIM0609 (CDH17-ADC)
+
+SIM0609  is  a  new  antibody-drug  conjugate  targeting  CDH17.  It  comprises  a  humanized  monoclonal  antibody 
+
+conjugated  via  the  Group’s  proprietary  new  water-soluble  cleavable  linker  to  a  new  Topoisomerase  I  (TOP-I) 
+
+inhibitor independently developed by the Group. CDH17 is highly expressed in various cancers, including gastric 
+
+cancer, colorectal cancer, pancreatic cancer, and ovarian cancer, demonstrating potential as a therapeutic target for 
+
+advanced solid tumors, particularly gastrointestinal tumors.
+
+Milestone of Clinical Progress
+
+• 
+
+In July 2025, the IND application of SIM0609 has been submitted to the CDE.
+
+INTELLECTUAL PROPERTY RIGHTS
+
+The  Group  attaches  great  importance  to  the  protection  of  intellectual  property  rights.  For  the  six  months  ended 
+
+June 30, 2025, the Group had 149 new patent applications (including domestic and overseas unpublished patent 
+
+applications), being 148 invention patents and an appearance design patent. As of June 30, 2025, the Group has 
+
+accumulatively obtained 317 invention patents, 99 utility model patents and 32 appearance design patents.
+
+FINANCIAL REVIEW
+
+Revenue
+
+For  the  six  months  ended  June  30,  2025,  the  Group  recorded  revenue  of  approximately  RMB3,585  million, 
+
+representing an increase of approximately 15.1% as compared to RMB3,114 million for the same period of 2024.
+
+Revenue of the Group was mainly derived from the therapeutic areas where its businesses are focused. Of which, 
+
+revenue  from  the  field  of  neuroscience  was  RMB1,249  million,  accounting  for  34.8%  of  the  total  revenue  and 
+
+representing an increase of 37.3% as compared to RMB909 million for the same period of 2024. Revenue from 
+
+the  field  of  anti-oncology  was  RMB874  million,  accounting  for  24.4%  of  the  total  revenue  and  representing 
+
+an  increase  of  41.1%  as  compared  to  RMB619  million  for  the  same  period  of  2024.  Revenue  from  the  field  of 
+
+autoimmune was RMB878 million, accounting for 24.5% of the total revenue and representing an increase of 3.3% 
+
+as compared to RMB850 million for the same period of 2024. Revenue from other fields was RMB584 million, 
+
+accounting for 16.3% of the total revenue and representing a decrease of 20.5% as compared to RMB736 million 
+
+for the same period of 2024.
+
+– 25 –
+
+THE EXPENDITURE ON RESEARCH AND DEVELOPMENT ACTIVITIES
+
+The expenditure on research and development activities of the Group includes research and development costs and 
+
+the addition of intangible assets with in-licensed rights.
+
+• 
+
+For the six months ended June 30, 2025, the total expenditure on research and development activities of the 
+
+Group amounted to RMB1,028 million, representing an increase of 68.0% as compared to RMB612 million 
+
+for the same period of 2024. The expenditure on research and development activities accounted for 28.7% 
+
+of the revenue, representing an increase of 9 percentage points as compared to 19.7% for the same period of 
+
+2024.
+
+• 
+
+For  the  six  months  ended  June  30,  2025,  the  research  and  development  costs  amounted  to  RMB632 
+
+million, representing an increase of 11.7% as compared to RMB566 million for the same period in 2024. 
+
+The  research  and  development  costs  accounted  for  17.6%  of  the  revenue,  representing  a  decrease  of  0.6 
+
+percentage point as compared to 18.2% for the same period of 2024.
+
+• 
+
+For the six months ended June 30, 2025, the addition of intangible assets with in-licensed rights amounted 
+
+to RMB396 million, representing a significant increase as compared to RMB46 million for the same period 
+
+in  2024.  The  addition  of  intangible  assets  with  in-licensed  rights  accounted  for  11.0%  of  the  revenue, 
+
+representing an increase of 9.5 percentage points as compared to 1.5% for the same period in 2024.
+
+PROFIT ATTRIBUTABLE TO EQUITY SHAREHOLDERS OF THE COMPANY
+
+The Group recorded a profit attributable to equity shareholders of the Company of RMB604 million for the six 
+
+months  ended  June  30,  2025,  representing  an  increase  of  32.2%  as  compared  to  RMB457  million  for  the  same 
+
+period in 2024.
+
+NON-HKFRS MEASURE – ADJUSTED PROFIT ATTRIBUTABLE TO EQUITY SHAREHOLDERS OF 
+
+THE COMPANY
+
+To  supplement  the  financial  information  presented  in  accordance  with  HKFRS,  the  Group  also  uses  adjusted 
+
+profit attributable to equity shareholders of the Company as a non-HKFRS measure. Such measure is unaudited 
+
+in  nature  and  is  not  required  by,  or  presented  in  accordance  with,  HKFRS.  The  Group  defines  adjusted  profit 
+
+attributable to equity shareholders of the Company as profit attributable to equity shareholders of the Company 
+
+after adjusting the following items: (i) net realized and unrealized losses on financial assets at fair value through 
+
+profit or loss; (ii) net realized and unrealized gain on associates at fair value through profit or loss; (iii) interest 
+
+expenses arising from redemption liability; and (iv) income tax effect related to the above items. The Group is of 
+
+the view that the Group’s management and investors may benefit from referring to such measure in assessing the 
+
+financial  performance  of  the  Group’s  core  businesses  by  eliminating  the  impacts  of  certain  non-recurring,  non-
+
+cash and/or non-operating items. However, the presentation of adjusted profit attributable to equity shareholders of 
+
+– 26 –
+
+the Company may not be comparable to similarly titled measures presented by other companies as it does not have 
+
+a standardized meaning. The application of the non-HKFRS measure has limitations as an analytical tool, and the 
+
+Shareholders and investors should not consider it in isolation from, or as substitute for analysis of, the results of 
+
+operations or financial condition of the Group as reported under HKFRS.
+
+For the six months ended June 30, 2025, the adjusted profit attributable to equity shareholders of the Company 
+
+amounted to RMB651 million, representing an increase of 21.1% as compared to RMB538 million for the same 
+
+period of last year.
+
+The following table presents the Group’s adjusted profit attributable to equity shareholders of the Company and 
+
+the most directly comparable financial measure calculated and presented in accordance with HKFRSs, which is 
+
+profit attributable to equity shareholders of the Company:
+
+Six months ended June 30
+
+2025
+
+2024
+
+RMB’000
+
+RMB’000
+
+(unaudited)
+
+(unaudited)
+
+Profit attributable to equity shareholders of the Company
+
+603,607
+
+456,600
+
+Add/(less):
+
+Net realized and unrealized losses on financial assets  
+
+at fair value through profit or loss(1)
+
+21,388
+
+84,175
+
+Net realized and unrealized gain on associates at fair value through  
+
+profit or loss
+
+Interest expenses arising from redemption liability(2)
+
+Effect of corresponding income tax
+
+(4,893)
+
+34,865
+
+(3,745)
+
+–
+
+5,103
+
+(8,208)
+
+Adjusted profit attributable to equity shareholders of the Company
+
+651,222
+
+537,670
+
+Notes:
+
+(1) 
+
+Net realized and unrealized losses on financial assets at fair value through profit or loss arises from the remeasurement of the Group’s 
+
+investments in certain private companies and investment funds, listed equity securities, structured deposits and wealth management 
+
+products at fair value.
+
+(2) 
+
+Interest  expenses  arising  from  redemption  liability  represent  the  change  in  the  carrying  amount  of  the  financial  liability  issued  in 
+
+connection with the capital contributions in Simcere Zaiming (as defined below).
+
+– 27 –
+
+ 
+ 
+ 
+ 
+LIQUIDITY AND FINANCIAL RESOURCES
+
+The Group maintained a sound financial position. For the six months ended June 30, 2025, the net cash generated 
+
+from  operating  activities  was  RMB867  million,  while  the  net  cash  generated  from  operating  activities  for  the 
+
+same  period  of  last  year  was  RMB863  million.  As  of  June  30,  2025,  the  Group  had  cash  and  cash  equivalents 
+
+of  RMB2,671  million  (as  of  December  31,  2024:  RMB1,943  million),  time  deposits  of  RMB519  million  (as  of 
+
+December 31, 2024: RMB498 million). As of June 30, 2025, the Group had a balance of bank loans of RMB1,059 
+
+million (as of December 31, 2024: RMB1,059 million), of which RMB1,051 million (as of December 31, 2024: 
+
+RMB1,051 million) would mature within one year. As of June 30, 2025, RMB1,059 million of the Group’s bank 
+
+loan balances bore interest at fixed rates, and the effective interest rate range for these loans was 0.95% to 1.15% 
+
+per annum.
+
+As  of  June  30,  2025,  the  current  ratio  (calculated  by  total  current  assets  divided  by  total  current  liabilities)  of 
+
+the Group was 173.3% (as of December 31, 2024: 200.4%), while the gearing ratio (calculated by total liabilities 
+
+divided by total assets) was 42.6% (as of December 31, 2024: 38.6%). The decrease in current ratio was mainly 
+
+due to: (1) in January, 2025, the Company entered into an option to license SIM0500, an investigational new drug 
+
+candidate, with AbbVie Inc. and received an upfront payment of RMB358 million, (2) in June, 2025, the Group 
+
+entered into an amendment agreement with Idorsia and made upfront payment and a regulatory milestone payment 
+
+of RMB359 million, and (3) in June, 2025, the Company’s milestone payment for the approval for marketing of 
+ENZESHU® of RMB20 million were accrued, and these contract payments were all accounted as liabilities. The 
+increase in gearing ratio was mainly due to the receipt of an investment amount of RMB1,070 million by Simcere 
+
+Zaiming, a subsidiary of the Company, from third party investors which was accounted for as financial liabilities, 
+
+as well as the effect of the aforesaid contract payments were all accounted as liabilities.
+
+Currently, the Group follows a set of funding and treasury policies to manage its capital resources and prevent risks 
+
+involved.  The  Group  expects  to  fund  the  working  capital  and  other  capital  requirements  from  a  combination  of 
+
+various sources, including but not limited to external financing at reasonable market rates. In order to better control 
+
+and  minimize  the  cost  of  funds,  the  treasury  management  activities  of  the  Group  are  managed  on  a  centralized 
+
+basis.
+
+The assets and liabilities of the Group were denominated in RMB, USD, GBP and HKD. During the Reporting 
+
+Period, the Group did not employ financial derivatives or enter into foreign derivative contracts to hedge against 
+
+foreign  exchange  risk.  However,  the  Group  manages  the  foreign  exchange  risks  by  closely  monitoring  the  net 
+
+exposure of foreign exchange risk to minimize the impact of foreign exchange fluctuations.
+
+PLEDGE OF GROUP’S ASSETS
+
+As of June 30, 2025, the Group pledged bills receivable of approximately RMB41 million for issuance of bank 
+
+acceptance bills and pledged bank deposits of approximately RMB22 million for issuance of letter of guarantee. As 
+
+of June 30, 2025, leasehold land with net book value of approximately RMB109 million was pledged as security 
+
+for banking facilities, which were not utilized as of June 30, 2025. Save as disclosed above, as of June 30, 2025, 
+
+none of the Group’s assets were pledged.
+
+– 28 –
+
+CONTINGENT LIABILITIES
+
+As of June 30, 2025, the Group did not have material contingent liabilities.
+
+MATERIAL LITIGATION
+
+One of the Group’s subsidiaries was involved in an economic dispute with a customer. In May 2025, an arbitration 
+
+award  confirmed  that  the  Group  was  required  to  make  a  compensation  to  the  customer  and  bear  the  related 
+
+litigation costs amounting to RMB20.93 million. As a result, the Group recorded a litigation loss of RMB20.93 
+
+million during the Reporting Period.
+
+Save as disclosed above, during the Reporting Period and as of the date of this announcement, no member of the 
+
+Group has been involved in any other material litigation, arbitration or claims. So far as is known to the Directors, 
+
+no member of the Group has any other pending or threatened material litigation, arbitration or claims.
+
+SIGNIFICANT INVESTMENTS HELD
+
+As of June 30, 2025, the Group did not hold any significant investments.
+
+FUTURE PLANS FOR MATERIAL INVESTMENTS AND CAPITAL ASSETS
+
+Save as disclosed in “Use of Proceeds from the Listing” in this announcement, as of June 30, 2025, the Group did 
+
+not have any other future plans for material investments and capital assets.
+
+MATERIAL ACQUISITIONS AND DISPOSALS
+
+For  the  six  months  ended  June  30,  2025,  the  Group  had  no  material  acquisition  or  disposal  of  subsidiaries, 
+
+associates and joint ventures.
+
+– 29 –
+
+EMPLOYEES AND REMUNERATION POLICY
+
+As of June 30, 2025, the Group had a total of 6,815 full-time employees. The Group attached great importance 
+
+to the recruitment, training and retention of outstanding employees, maintaining a high standard in selecting and 
+
+recruiting  talents  worldwide,  and  offered  competitive  compensation  packages.  The  remuneration  of  employees 
+
+mainly included basic salary, performance-based bonus and long-term incentives. Remuneration of the Directors 
+
+and  senior  management  who  worked  full  time  for  the  Company  shall  be  determined  by  the  remuneration  and 
+
+appraisal  committee  of  the  Company  under  the  Board  with  reference  to  the  principal  duties,  the  results  of 
+
+performance  assessment  as  well  as  the  remuneration  level  in  the  market  of  the  relevant  managerial  positions. 
+
+During the six months ended June 30, 2025, staff costs of the Group (including emoluments of the Directors, social 
+
+insurance  and  other  benefits)  amounted  to  RMB1,101  million.  The  Group  established  Simcere  Institute,  which 
+
+provides  employees  with  training  on  a  regular  basis,  including  orientation  programs  and  technical  training  for 
+
+new employees, professional and management training for middle and senior management and health and safety 
+
+training across all staff. In addition, the Group has also adopted a restricted share unit (“RSU”) scheme on May 
+
+20,  2021  (the  “2021  RSU  Scheme”),  with  an  aim  to  (1)  incentivise  the  existing  and  incoming  directors,  senior 
+
+management  and  employees  for  their  contribution  to  the  Group;  and  (2)  attract,  motivate  and  retain  skilled  and 
+
+experienced personnel to strive for the future development and expansion of the Group by providing them with the 
+
+opportunity to own equity interests in the Company.
+
+During  the  Reporting  Period,  the  Board  resolved  on  March  25,  2025  to  grant  an  aggregate  of  1,777,000  RSUs, 
+
+representing 1,777,000 underlying Shares, to an aggregate of 45 eligible participants (all of whom are employees 
+
+of  the  Group)  under  the  2021  RSU  Scheme  at  nil  consideration.  For  details  of  such  grant,  please  refer  to  the 
+
+announcement of Company dated March 25, 2025.
+
+INTERIM DIVIDEND
+
+The Board resolved not to declare any interim dividend for the six months ended June 30, 2025.
+
+– 30 –
+
+

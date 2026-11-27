@@ -1,0 +1,36 @@
+
+
+EX-99.1
+
+4
+
+ex991pr.htm
+
+EX-99.1
+
+Document
+EXHIBIT 99.1
+COREWEAVE CLOSES $2.6 BILLION LOAN FACILITY, EXPANDING FINANCING FLEXIBILITY FOR AI INFRASTRUCTURE
+●
+Facility is backed by a diverse group of leading AI, financial services, and technology customers
+●
+Facility’s approximate five-year maturity extends beyond the average three-year length of underlying customer contracts, reflecting lender confidence in long-term GPU demand
+●
+Innovative structure allows CoreWeave to efficiently finance shorter-dated contracts, unlocking a broader base of enterprise customers and higher-margin deals
+LIVINGSTON, N.J. — AUGUST 10, 2026 —
+
+CoreWeave, Inc.
+ (Nasdaq: CRWV), The Essential Cloud for AI™, today announced it has closed its $2.6 billion delayed draw term loan facility (“DDTL 5.5 Facility”), supporting the continued expansion of its AI cloud platform and committed customer deployments.
+The DDTL 5.5 Facility extends CoreWeave’s HPC infrastructure-backed financing platform by broadening the scope of customer contracts eligible for publicly syndicated infrastructure financing. Unlike prior delayed draw term loan facilities backed by customer contracts extending through the maturity of the debt, the DDTL 5.5 Facility carries an approximate five-year maturity while its underlying customer contracts average approximately three years in length. By financing these shorter-date commitments, lenders are signalling confidence in the long-term value of NVIDIA GPUs running on CoreWeave’s cloud platform and a willingness to underwrite renewal risk. These shorter duration customer contracts also often command higher prices, which CoreWeave expects to allow it to capture higher margins while expanding market reach.
+“This transaction demonstrates the continued evolution and growing flexibility of AI infrastructure financing and represents a major unlock for CoreWeave,” said Brannin McBee, co-founder and chief development officer at CoreWeave. “Lenders are now comfortable financing shorter-dated contracts, which  allows us to target a wider variety of customers, including global enterprises that typically favor shorter-term agreements.”
+The facility received ratings of Ba2 from Moody’s and BB+ from Fitch, reflecting the strength of the collateral and structural protections supporting the transaction.
+Proceeds from the DDTL 5.5 Facility will support the purchase and deployment of HPC-backed infrastructure dedicated to customer contracts. The facility includes the option for CoreWeave to either renew existing contracts or re-lease capacity to other customers at the end of the initial underlying contracts, subject to the criteria described in the credit agreement for the  DDTL 5.5 Facility.
+The transaction was meaningfully oversubscribed, attracting exceptional investor demand, and  priced at SOFR + 5.50%. The DDTL 5.5 Facility was issued through CoreWeave Financing DDTL V-V, LLC.
+JPMorgan and Mitsubishi UFJ Financial Group served as joint lead arrangers and bookrunners for the transaction.
+The DDTL 5.5 Facility builds on CoreWeave’s continued capital markets momentum and follows the company’s previously announced $3.1 billion DDTL 5.0 facility completed earlier this year. With the closing of this transaction, CoreWeave has secured more than $30 billion of debt and equity capital year-to-date, representing a significant step in CoreWeave's evolution as it continues to scale its global footprint and service offerings for a larger and more diverse set of customers.
+About CoreWeave
+CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to move at the pace of innovation, building and scaling AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave serves as a force multiplier by combining superior infrastructure performance with deep technical expertise to accelerate breakthroughs. Established in 2017, CoreWeave completed its public listing on Nasdaq (CRWV) in March 2025. Learn more at 
+www.coreweave.com
+.
+###
+

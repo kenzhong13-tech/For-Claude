@@ -1,0 +1,2 @@
+https://www.barchart.com/proxies/core-api/v1/historical/get?symbol=YUMC&fields=tradeTime.format(Y-m-d),impliedVolatility,historicVolatility,ivRank,ivPercentile&type=eod&orderBy=tradeTime&orderDir=desc&limit=3000&raw=1
+<HTTPError 403: 'Forbidden'>

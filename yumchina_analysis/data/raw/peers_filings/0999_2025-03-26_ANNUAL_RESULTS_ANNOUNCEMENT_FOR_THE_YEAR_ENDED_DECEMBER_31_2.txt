@@ -1,0 +1,1468 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the
+contents of this announcement.
+
+
+
+
+            XIAOCAIYUAN INTERNATIONAL HOLDING LTD.
+                                    小菜園國際控股有限公司
+                             (Incorporated in the Cayman Islands with limited liability)
+                                               (Stock Code: 0999)
+
+                         ANNUAL RESULTS ANNOUNCEMENT
+                       FOR THE YEAR ENDED DECEMBER 31, 2024
+
+ FINANCIAL HIGHLIGHTS:
+
+                                                                   For the year ended December 31,
+                                                                      2024          2023       Change
+                                                                  RMB ’000      RMB ’000
+
+ Revenue                                                           5,209,874         4,549,415              14.5%
+ Profit before taxation                                              771,254           744,119               3.6%
+ Income tax                                                         (190,632)         (212,060)            -10.1%
+ Profit for the year                                                 580,622           532,059               9.1%
+ Attributable to:
+ Equity shareholders of the Company                                  580,622           532,059               9.1%
+ Total comprehensive income for the year                             585,417           530,876              10.3%
+ Basic earnings per share (RMB)                                         0.56              0.53               5.7%
+ Diluted earnings per share (RMB)                                       0.56              0.53               5.7%
+
+ The Board has resolved to recommend the distribution of final dividends of RMB0.3187 per
+ share for the year ended December 31, 2024.
+
+The board (the “Board”) of directors (the “Director(s)”) of Xiaocaiyuan International Holding
+Ltd. (the “Company”) hereby announces the audited consolidated annual results of the Company
+and its subsidiaries (collectively, the “Group”, “we” or “us”) for the year ended December 31,
+2024 (the “Reporting Period”) and the comparative figures for the same period in 2023. The
+aforementioned annual results have been prepared in accordance with the International Financial
+Reporting Standards ( “IFRS”) Accounting Standards and reviewed by the audit committee of the
+Company (the “Audit Committee”).
+
+
+
+
+                                                          1
+FINANCIAL STATEMENTS
+
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+for the year ended 31 December 2024
+(Expressed in Renminbi)
+
+                                                    Note      2024          2023
+                                                           RMB ’000      RMB ’000
+
+Revenue                                              2      5,209,874     4,549,415
+Other revenue                                        3         42,509        43,811
+Raw materials and consumables used                         (1,661,021)   (1,433,379)
+Staff costs                                         4(b)   (1,421,596)   (1,334,181)
+Depreciation of right-of-use assets                          (256,474)     (196,270)
+Other rentals and related expenses                            (93,053)      (58,525)
+Depreciation and amortization of other assets                (175,536)     (133,947)
+Utility expenses                                             (171,774)     (139,602)
+Advertising and promotion expenses                            (63,407)      (48,270)
+Delivery service expenses                                    (354,814)     (257,886)
+Other expenses                                      4(c)     (273,467)     (210,575)
+Other net income/(losses)                           4(d)       31,135        (4,918)
+Finance costs                                       4(a)      (41,122)      (31,554)
+
+Profit before taxation                                       771,254       744,119
+
+Income tax                                          5(a)    (190,632)     (212,060)
+
+Profit for the year                                          580,622       532,059
+
+Attributable to:
+Equity shareholders of the Company                           580,622       532,059
+
+Earnings per share                                   6
+
+Basic                                                            0.56          0.53
+
+Diluted                                                          0.56          0.53
+
+
+
+
+                                                2
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE
+INCOME
+for the year ended 31 December 2024
+(Expressed in Renminbi)
+
+                                                                    2024         2023
+                                                                 RMB ’000     RMB ’000
+
+Profit for the year                                               580,622      532,059
+
+Other comprehensive income for the year (after tax and
+  reclassification adjustments)
+
+Item that will not be reclassified to profit or loss:
+Exchange differences on translation of financial statements
+   of the Company                                                   6,005          613
+
+Item that are or may be reclassified subsequently to profit or
+   loss
+Exchange differences on translation of financial statements of
+   overseas subsidiaries                                            (1,210)     (1,796)
+
+Other comprehensive income for the year                             4,795       (1,183)
+
+
+Total comprehensive income for the year                           585,417      530,876
+
+Attributable to:
+
+Equity shareholders of the Company                                585,417      530,876
+
+Total comprehensive income for the year                           585,417      530,876
+
+
+
+
+                                                 3
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(Expressed in Renminbi)
+
+                                                               31 December    31 December
+                                                        Note          2024           2023
+                                                                  RMB’000        RMB ’000
+
+Non-current assets
+
+Property, plant and equipment                                      699,251        583,120
+Right-of-use assets                                                788,591        694,092
+Intangible assets                                                    2,512          2,912
+Deferred tax assets                                                 16,401              –
+Rental deposits                                                     41,419         39,765
+
+                                                                  1,548,174     1,319,889
+
+Current assets
+
+Inventories                                              7         109,566        104,898
+Trade and other receivables                              8         301,863        270,137
+Financial assets at fair value through profit or loss
+  (“FVPL”)                                                         788,280              –
+Restricted bank deposits                                                 –         25,000
+Time deposits                                                      223,356              –
+Cash and cash equivalents                                          616,661        620,153
+
+                                                                  2,039,726     1,020,188
+
+Current liabilities
+
+Bank loans and other borrowings                                          –         50,000
+Trade and other payables                                 9         228,500        280,477
+Contract liabilities                                                77,334         67,860
+Lease liabilities                                                  223,830        192,171
+Current taxation                                                    77,024         70,526
+
+                                                                   606,688        661,034
+
+Net current assets                                                1,433,038       359,154
+
+Total assets less current liabilities                             2,981,212     1,679,043
+
+
+
+
+                                                   4
+                                              31 December    31 December
+                                       Note          2024           2023
+                                                 RMB’000        RMB ’000
+
+Non-current liabilities
+Lease liabilities                                 586,641        518,960
+Provisions                                         29,156         24,962
+Deferred tax liabilities                                –         10,137
+Redemption liability                                    –        413,242
+Derivative financial instruments                        –         88,650
+
+                                                  615,797      1,055,951
+
+Net assets                                       2,365,415       623,092
+
+Capital and reserves
+Share capital                          10               77            64
+Reserves                                         2,365,338       623,028
+
+Total equity                                     2,365,415       623,092
+
+
+
+
+                                   5
+NOTES TO THE FINANCIAL STATEMENTS
+(Expressed in Renminbi unless otherwise indicated)
+1    General information
+
+     Xiaocaiyuan International Holding Ltd. (the “Company”) was incorporated in the Cayman Islands on 19 October
+     2021 as an exempted company with limited liability under the Companies Act (as revised) of the Cayman
+     Islands.
+
+     The Company is an investment holding company. The Company and its subsidiaries (together, the “Group”)
+     are principally engaged in restaurant operations, catering delivery services and supply chain management in the
+     People’s Republic of China.
+
+     The Company’s shares were listed on the Main Board of The Stock Exchange of Hong Kong Limited (the
+     “Listing”) on 20 December 2024.
+
+2    Material accounting policies
+
+     (a)   Statement of compliance
+
+           These financial statements have been prepared in accordance with all applicable IFRS Accounting
+           Standards, which collective term includes all applicable individual International Financial Reporting
+           Standards, International Accounting Standards and Interpretations issued by the International Accounting
+           Standards Board ( “ IASB ” ) and International Accounting Standards ( “ IASs ” ) and the disclosure
+           requirements of the Hong Kong Companies Ordinance. These financial statements also comply with the
+           applicable disclosure provisions of the Rules Governing the Listing of Securities on The Stock Exchange
+           of Hong Kong Limited. Material accounting policies adopted by the Group are disclosed below.
+
+           The IASB has issued certain amendments to IFRS Accounting Standards that are first effective
+           or available for early adoption for the current accounting period of the Group. Note 2(c) provides
+           information on any changes in accounting policies resulting from initial application of these developments
+           to the extent that they are relevant to the Group for the current accounting period reflected in these
+           financial statements.
+
+     (b)   Basis of preparation of the financial statements
+
+           The consolidated financial statements for the year ended 31 December 2024 comprise the Company and
+           its subsidiaries.
+
+           Items included in these consolidated financial statements of each entity in the Group are measured using
+           the currency that best reflects the economic substance of the underlying events and circumstances relevant
+           to the entity (“functional currency”). The functional currency of the Company is Renminbi (“RMB”).
+           The consolidated financial statements are presented in RMB, rounded to nearest thousands, which is the
+           presentation currency.
+
+           The measurement basis used in the preparation of the financial statements is the historical cost basis
+           except that the following assets and liabilities are stated at their fair value as explained in the accounting
+           policies set out below:
+
+           –      Other investments in securities; and
+
+           –      Financial instruments issued to an investor
+
+           The preparation of financial statements in conformity with IFRS Accounting Standards requires
+           management to make judgements, estimates and assumptions that affect the application of policies and
+           reported amounts of assets, liabilities, income and expenses. The estimates and associated assumptions
+           are based on historical experience and various other factors that are believed to be reasonable under the
+           circumstances, the results of which form the basis of making the judgements about carrying values of
+           assets and liabilities that are not readily apparent from other sources. Actual results may differ from these
+           estimates.
+
+           The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting
+           estimates are recognised in the period in which the estimate is revised if the revision affects only that
+           period, or in the period of the revision and future periods if the revision affects both current and future
+           periods.
+
+                                                          6
+    (c)   Changes in accounting policies
+
+          The Group has applied the following amendments to IFRS Accounting Standards issued by the IASB to
+          these financial statements for the current accounting period:
+
+          •      Amendments to IAS 1, Presentation of financial statements – Classification of liabilities as
+                 current or non-current (“2020 amendments”) and amendments to IAS 1, Presentation of financial
+                 statements – Non-current liabilities with covenants (“2022 amendments”)
+
+          •      Amendments to IFRS 16, Leases – Lease liability in a sale and leaseback
+
+          •      Amendments to IAS 7, Statement of cash flows and IFRS 7, Financial instruments: Disclosures –
+                 Supplier finance arrangements
+
+          None of these amendments have had a material impact on how the Group’s results and financial position
+          for the current or prior periods have been prepared or presented. The Group has not applied any new
+          standard or interpretation that is not yet effective for the current accounting period.
+
+2   Revenue and segment reporting
+
+    (a)   Revenue
+
+          The principal activities of the Group are restaurant operations and delivery business in the PRC.
+
+          (i)    Disaggregation of revenue
+
+                 Disaggregation of revenue from contracts with customers by major products or service lines is as
+                 follows:
+
+                                                                                          2024                 2023
+                                                                                       RMB ’000             RMB ’000
+
+                 Revenue from contracts with customers within the
+                   scope of IFRS 15
+
+                 – Restaurant operations                                                3,191,554           3,051,094
+                 – Delivery business                                                    2,004,766           1,491,354
+                 – Others                                                                  13,554               6,967
+
+                                                                                        5,209,874           4,549,415
+
+
+                 Disaggregated by timing of revenue recognition
+
+                 – Point in time                                                        5,209,874           4,549,415
+
+
+                 No revenue from individual customer contributed over 10% of total revenue of the Group for the
+                 year ended 31 December 2024 and 2023.
+
+          (ii)   Revenue expected to be recognised in the future arising from contracts with customers in existence
+                 at the reporting date
+
+                 The Group has applied the practical expedient in paragraph 121 of IFRS 15 to its contracts for
+                 rendering service such that information about revenue expected to be recognized in the future is
+                 not disclosed in respect of revenue that the Group will be entitled to when it satisfies the remaining
+                 performance obligations under the contracts for rendering service that had an expected duration of
+                 one year or less.
+
+
+
+
+                                                         7
+    (b)    Segment reporting
+
+           The directors of the Company have been identified as the Group’s most senior executive management.
+           The Group manages its businesses as a whole by the most senior executive management for the purposes
+           of resource allocation and performance assessment. The Group has one operating segment, which is
+           restaurant operations and delivery business. The Group’s most senior executive management reviews
+           the Group’s consolidated results of operations in assessing performance of and making decisions about
+           allocations to this segment. Accordingly, no reportable segment information is presented.
+
+           As substantially all of the Group’s operations and assets are in the PRC, no geographic information is
+           presented.
+
+3   Other revenue
+
+                                                                                   2024                   2023
+                                                                                RMB ’000               RMB ’000
+
+    Other revenue
+    Interest income on:
+    – bank deposits                                                                 22,514                 7,286
+    – rental deposits                                                                2,109                 1,736
+
+                                                                                    24,623                 9,022
+
+    Investment income on wealth management products                                  4,191                 2,556
+    Government grants (Note (i))                                                    13,695                32,233
+
+                                                                                    42,509                43,811
+
+
+    (i)    Government grants mainly represent additional deduction and exemption on value-added tax and various
+           forms of incentives and subsidies granted to the Group by the local government authorities in the PRC.
+
+4   Profit before taxation
+
+    Profit before taxation is arrived at after charging/(crediting):
+
+    (a)    Finance costs
+
+                                                                                   2024                   2023
+                                                                                RMB ’000               RMB ’000
+
+           Interest on bank loans                                                      470                 2,299
+           Interest on lease liabilities                                            39,204                28,218
+           Interest on provisions                                                    1,448                 1,037
+
+                                                                                    41,122                31,554
+
+
+    (b)    Staff costs
+
+                                                                                   2024                   2023
+                                                                                RMB ’000               RMB ’000
+
+           Salaries, wages and other benefits                                    1,387,954             1,303,795
+           Contributions to defined contribution retirement plan (i)                33,642                30,386
+
+                                                                                 1,421,596             1,334,181
+
+
+
+                                                           8
+      Note:
+
+      (i)     The employees of the subsidiaries of the Group established in the PRC participate in a defined
+              contribution scheme managed by the local municipal governments, whereby these companies are
+              required to contribute to the scheme at certain rates of the employees’ salaries as agreed by the
+              local municipal governments. Employees of these companies are entitled to benefits, calculated
+              based on a percentage of the average salaries level in the PRC, from the above mentioned
+              retirement scheme at their normal retirement age.
+
+              The Group has no further obligation for payment of other retirement benefits beyond the above
+              contributions.
+
+(c)   Other expenses
+
+                                                                                 2024                   2023
+                                                                              RMB ’000               RMB ’000
+
+      Property management expenses                                              132,316                104,768
+      Transportation and related expenses                                        31,308                 25,563
+      Administrative expenses                                                    12,450                 15,613
+      Professional service expenses                                               6,908                  8,390
+      Listing expenses                                                           36,911                  8,493
+      Cleaning fees                                                              14,409                 14,870
+      Taxes and surcharges                                                       12,338                  9,184
+      Business development expenses                                               6,878                  4,450
+      Impairment losses of property, plant and equipment and
+        right-of-use assets                                                       3,378                    658
+      Others                                                                     16,571                 18,586
+
+                                                                                273,467                210,575
+
+
+(d)   Other net (income)/losses
+
+                                                                                 2024                   2023
+                                                                              RMB ’000               RMB ’000
+
+      Net losses on disposal of property, plant and equipment and
+        right-of-use assets                                                       6,043                  4,465
+      Changes in carrying amount of the redemption liability                     80,889                  1,699
+      Changes in fair value of the convertible bonds and
+        derivative financial instruments                                       (112,233)                 3,733
+      Changes in fair value of the wealth management products                      (428)                     –
+      Exchange gains                                                               (322)                (1,988)
+      Other income                                                               (5,084)                (2,991)
+
+                                                                                (31,135)                 4,918
+
+
+
+
+                                                    9
+5   Income tax in the consolidated statement of profit or loss
+
+    (a)   Taxation in the consolidated statement of profit or loss represents:
+
+                                                                                      2024                    2023
+                                                                                   RMB ’000                RMB ’000
+
+          Current tax
+
+          Provision for the year                                                      196,337                210,008
+
+                                                                                      196,337                210,008
+
+          Deferred tax
+
+          Origination and reversal of temporary differences                            (5,705)                 2,052
+
+                                                                                      190,632                212,060
+
+
+          Notes:
+
+          (i)      Pursuant to the tax rules and regulations of the Cayman Islands and the BVI, the Group is not
+                   subject to any income tax in the Cayman Islands and the BVI.
+
+          (ii)     The applicable profits tax rate of the Group’s subsidiaries incorporated in Hong Kong was 16.5%
+                   for the year ended 2024 and 2023. A two-tiered profits tax rates regime was introduced in 2018
+                   whereby the first HKD2 million in assessable profits earned by a company will be taxed at half of
+                   the current tax rate (8.25%) while the remaining profits will continue to be taxed at 16.5%.
+
+          (iii)    Taxable income for the subsidiaries of the Company in the PRC are subject to PRC income tax rate
+                   of 25% for the year ended 31 December 2024 and 2023, unless otherwise specified below.
+
+                   For the year ended 31 December 2024, the Group ’ s certain subsidiaries fulfilled the criteria
+                   required for preferential income tax rate granted to small and low profit-making enterprise in the
+                   PRC, and were entitled to a preferential income tax rate of 5% (2023:5%) on taxable income for
+                   the amounts within RMB3,000,000.
+
+    (b)   Reconciliation between tax expense and accounting profit at applicable tax rates
+
+                                                                                      2024                    2023
+                                                                                   RMB ’000                RMB ’000
+
+          Profit before taxation                                                      771,254                744,119
+
+
+          Notional tax on profit before taxation, calculated at the
+            applicable rates in the tax jurisdictions concerned                       185,567                187,291
+          Tax benefit of subsidiaries subject to preferential tax rates                  (945)                  (383)
+          Tax effect of non-deductible expenses                                         4,643                  4,855
+          Tax effect of unused tax losses not recognized                                1,665                    774
+          Tax effect of utilization of tax losses not recognized in
+            previous years                                                               (298)                (1,310)
+          PRC dividend withholding tax                                                      –                 20,833
+
+          Actual tax expense                                                          190,632                212,060
+
+
+
+
+                                                         10
+6   Earnings per share
+
+    (a)   Basic earnings per share
+
+          The calculation of basic earnings per share is based on the profit attributable to ordinary equity
+          shareholders of the Company and the weighted average number of ordinary shares in issue during the
+          year.
+
+          On 10 February 2023, 40,000 shares were repurchased at nil consideration and cancelled by the Company,
+          and each share in the Company’s issued and unissued share capital was subdivided into 100,000 shares
+          in December 2024. Accordingly, the weighted average number of ordinary shares throughout the periods
+          presented has been adjusted retrospectively for the impacts of the share repurchase and the share
+          subdivision.
+
+          (i)    Profit attributable to ordinary equity shareholders of the company
+
+                                                                                         2024               2023
+                                                                                      RMB ’000           RMB ’000
+
+                 Profit attributable to equity shareholders of the company               580,622           532,059
+                 Effect of discretionary dividend distributed to the
+                   preferred share holder                                                (13,152)                –
+
+                 Profit attributable to ordinary equity shareholders
+                   of the Company                                                        567,470           532,059
+
+          (ii)   Weighted average number of ordinary shares
+
+                                                                                            2024              2023
+                                                                                            ’000              ’000
+
+                 Issued ordinary shares at 1 January                                          10                50
+                 Effect of the share repurchase                                                –               (40)
+                 Effect of the share subdivision                                         999,990           999,990
+                 Effect of shares issued upon the completion of initial
+                    public offering                                                        3,326                 –
+                 Effect of conversion of convertible preferred shares
+                    into ordinary shares                                                   2,477                 –
+
+                 Weighted average number of ordinary shares
+                  at 31 December                                                       1,005,803         1,000,000
+
+    (b)   Diluted earnings per share
+
+          For the year ended 31 December 2024, preferred shares were not included in the calculation of diluted
+          earnings per share because their effect would have been anti-dilutive. Accordingly, diluted earnings per
+          share were the same as basic earnings per share.
+
+          For the year ended 31 December 2023, the calculation of diluted earnings per share is based on the profit
+          attributable to equity shareholders of the Company of RMB543,594,000 and the weighted average of
+          1,021,919,000 ordinary shares, calculated as follows:
+
+          (i)    Profit attributable to ordinary equity shareholders of the company (diluted)
+
+                                                                                                            2023
+                                                                                                         RMB ’000
+
+                 Profit attributable to ordinary equity shareholders of the Company                        532,059
+                 Effect of changes in carrying amount of the redemption liability                            1,699
+                 Effect of changes in fair value of the convertible bonds                                    9,836
+
+                 Profit attributable to ordinary equity shareholders of the Company (diluted)              543,594
+
+
+                                                        11
+          (ii)    Weighted average number of ordinary shares (diluted)
+
+                                                                                                         2023
+                                                                                                         ’000
+
+                  Weighted average number of ordinary shares at 31 December                         1,000,000
+                  Effect of conversion of convertible bonds and redemption liability                   21,919
+
+                  Weighted average number of ordinary shares (diluted) at 31 December               1,021,919
+
+
+
+7   Inventories
+
+                                                                                      2024             2023
+                                                                                   RMB ’000         RMB ’000
+
+    Food ingredients                                                                     82,738        80,567
+    Condiment products                                                                   13,375        10,051
+    Beverage                                                                              3,507         3,524
+    Others                                                                                9,946        10,756
+
+                                                                                        109,566       104,898
+
+
+    (a)   The analysis of the amount of inventories recognised as an expense and included in profit or loss is
+          as follows:
+
+                                                                                      2024             2023
+                                                                                   RMB ’000         RMB ’000
+
+          Carrying amount of inventories sold and consumed                             1,661,021    1,433,379
+
+
+          All of the inventories are expected to be recovered within one year.
+
+8   Trade receivables, other receivables
+
+                                                                                      2024             2023
+                                                                                   RMB ’000         RMB ’000
+
+    Trade debtors                                                                        30,730        33,707
+    Other receivables and deposits                                                       84,678        88,901
+    Prepayments                                                                         173,715       134,107
+    Value added tax recoverable                                                          12,740        13,422
+
+                                                                                        301,863       270,137
+
+
+    Prepayments mainly represent prepayments for prepayments of procurement, rental and property management
+    expenses, utilities expenses.
+
+
+
+
+                                                        12
+    Ageing analysis
+
+    As of the end of the reporting period, the ageing analysis of trade debtors (which are included in trade and other
+    receivables), based on the revenue recognition date, is as follows:
+
+                                                                                       2024                   2023
+                                                                                    RMB ’000               RMB ’000
+
+    Within 1 month                                                                     28,116                  31,580
+    1 to 3 months                                                                       1,832                   1,489
+    3 to 6 months                                                                         367                     224
+    Over 6 months but within 1 year                                                       415                     414
+
+                                                                                       30,730                  33,707
+
+
+    Trade debtors are due within 1 year from the date of revenue recognition.
+
+9   Trade and other payables
+
+                                                                                       2024                   2023
+                                                                                    RMB ’000               RMB ’000
+
+    Trade payables                                                                     56,932                 81,577
+    Staff cost payable                                                                 96,992                108,190
+    Other taxes payable                                                                11,142                  8,558
+    Other payables and accrued charges                                                 63,434                 82,152
+
+                                                                                      228,500                280,477
+
+
+    As of the end of the reporting period, the ageing analysis of trade creditors and bills payable (which are
+    included in trade and other payables), based on the invoice date, is as follows:
+
+                                                                                       2024                   2023
+                                                                                    RMB ’000               RMB ’000
+
+    Within one year                                                                    56,932                  81,577
+
+
+
+
+                                                        13
+10   Share capital
+
+     The Company was incorporated in the Cayman Islands on 19 October 2021 with authorized share capital of
+     USD50,000 divided into 50,000 ordinary shares with a par value of USD1.00 each.
+
+                                                                Number of shares             Amount         Share capital
+                                                                            '000            USD ’000          RMB ’000
+
+     Ordinary shares
+
+     At 1 January 2023                                                         50                  50                 322
+     Repurchase of shares (i)                                                 (40)                (40)               (258)
+
+     At 31 December 2023                                                       10                  10                  64
+
+
+     Effect of the share subdivision (ii)                                999,990                    –                   –
+     Shares issued upon the completion of initial public
+       offering (iii)                                                    101,181                    1                   7
+     Conversion of convertible preferred shares into
+       ordinary shares (iv)                                               75,338                    1                   6
+
+     At 31 December 2024                                               1,176,519                   12                  77
+
+
+     Notes:
+
+     (i)      On 10 February 2023, 40,000 shares have been repurchased and cancelled by the Company.
+
+     (ii)     Pursuant to a board resolution dated 2 December 2024, each share in the Company’s issued and unissued
+              share capital with a par value of USD1 was subdivided into 100,000 shares of the corresponding class
+              with a par value of USD0.00001 each.
+
+     (iii)    On 20 December 2024, the Company issued 101,180,000 ordinary shares at an offer price of HKD8.50
+              per share through the Listing. Net proceeds from the Listing amounted to RMB776,579,000 equivalent,
+              after deducting all capitalised listing expenses. Out of the net proceeds, RMB7,000 and RMB776,572,000
+              were credited to the Company’s share capital and share premium account, respectively.
+
+     (iv)     Upon the completion of the Listing, 753.38 preferred shares were converted into 75,338,000 ordinary
+              shares of the Company in aggregate (after adjusting for the effect of the share subdivision), resulting in a
+              transfer of the carrying amount of financial instruments issued to investors of RMB592,313,000 and other
+              reserve of RMB121,626,000 (negative) to ordinary share capital of RMB6,000 and share premium of
+              RMB470,681,000 respectively.
+
+
+
+
+                                                           14
+11   Dividends
+
+     (i)    Dividend payable to equity shareholders of the Company attribute to the year:
+
+                                                                                          2024                2023
+                                                                                       RMB ’000            RMB ’000
+
+            Final dividend proposed after the end of the reporting period of
+              RMB0.3187 per share (2023: RMB17,435 per share) (Note)                     375,000             187,500
+
+
+            The final dividend proposed after the end of the reporting period has not been recognized as a liability at
+            the end of the reporting period.
+
+     (ii)   Dividends payable to equity shareholders of the Company attributable to the previous financial years,
+            declared and approved during the year:
+
+                                                                                          2024                2023
+                                                                                       RMB ’000            RMB ’000
+
+            Final dividend in respect of the previous financial year,
+              approved and paid during the year, of RMB17,435 per share
+              (2023: RMB2,705 per share) (Note)                                          187,500             135,276
+
+
+            Note:
+
+            During the year ended 31 March 2024, the Company declared a final dividend of RMB187,500,000
+            in respect of the year ended 31 December 2023, among which, RMB13,152,000 was declared to the
+            preferred share holder, and the amount was settled in May 2024.
+
+            The Company has carried out a share subdivision with a ratio of 1 to 100,000 on 2 December 2024. The
+            dividend per share disclosed for the year ended 31 December 2023 were not adjusted for subdivision.
+
+
+
+
+                                                         15
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Industry Review
+
+China’s economic and social landscapes are experiencing complex and significant transformations.
+Firstly, the per capita disposable income of urban households remains stable growth but at a
+slower rate, fueling a growing demand for mass Chinese cuisine. Secondly, the mass Chinese
+cuisine market is further propelled by urbanization in China. Thirdly, substantial changes in
+the demographic structure also transform the development of the catering industry in China, in
+particular stimulating the growth of the sub-segment with average spending per consumer below
+RMB100. As a result, the dynamic and evolving mass Chinese cuisine market accommodates the
+persistent and increasing demand of the vast consumer base for affordable dining experiences,
+demonstrating its immense size and growth potential. Given the long-term established leadership
+of our Xiaocaiyuan brand in the mass Chinese cuisine market with average spending per consumer
+between RMB50 and RMB100, coupled with our expansion into the sub-segment with average
+spending per consumer below RMB50, we believe that the present market dynamics and future
+growth prospects present favorable external conditions and opportunities for our continued
+development.
+
+Business Review
+
+We are one of the renowned self-operated chain restaurants in China ’s mass Chinese cuisine
+market. Capitalizing on our deep comprehension of China ’ s evolving catering industry, the
+anticipated modernization and industrialization in the industry, and the inherent consumer demand,
+we strategically ventured into the growing mass Chinese cuisine sector. Since our establishment in
+2013, we have been striving to offer consumers home-style flavor dishes and attentive services at
+affordable prices. We aspire to establish our Xiaocaiyuan restaurants as the “home kitchen” widely
+acknowledged by Chinese consumers.
+
+Revenue
+
+We mainly generated revenue from restaurant operations and delivery business. The following
+table sets out a breakdown of our revenue by business line for the periods indicated:
+
+                                                     For the year ended December 31,
+                                                      2024                    2023
+                                               RMB ’000           %    RMB ’000                %
+
+Restaurant operations                          3,191,554          61.3    3,051,094          67.1
+Delivery business                              2,004,766          38.5    1,491,354          32.8
+Others                                            13,554           0.2        6,967           0.1
+
+Total                                          5,209,874         100.0    4,549,415         100.0
+
+The Group’ s revenue increased by 14.5% from RMB4,549.4 million in 2023 to RMB5,209.9
+million in 2024, primarily reflecting an increase of RMB140.5 million in our restaurant operations
+and an increase of RMB513.4 million in our delivery business.
+
+
+
+
+                                               16
+Restaurant Operations
+
+Revenue from our restaurant operations increased by 4.6% from RMB3,051.1 million in 2023
+to RMB3,191.6 million in 2024, primarily due to an increase in the number of restaurants in
+operation, we had 667 Xiaocaiyuan restaurants in operation as of December 31, 2024 as compared
+to 536 Xiaocaiyuan restaurants as of December 31, 2023.
+
+Delivery Business
+
+Revenue from our delivery business increased by 34.4% from RMB1,491.4 million in 2023 to
+RMB2,004.8 million in 2024, primarily due to an increase in the number of our delivery orders of
+our Xiaocaiyuan restaurants from 18.9 million in 2023 to 29.0 million in 2024, attributable to (i)
+an increase in the number of restaurants which offered delivery service aligned with the expansion
+of our restaurant network, and (ii) our increased appeal in online food delivery platforms.
+
+Key Performance Indicators
+
+The following table sets forth the distribution of the number and revenue of our Xiaocaiyuan
+restaurants across different tiers of cities in China as of the dates and for the periods indicated:
+
+                                                                For the year ended December 31,
+                                                      2024(1)
+                                                                                                  2023
+                                                          Total                                      Total
+                                                       revenue                                    revenue
+                                       Number of      (RMB in                    Number of       (RMB in
+                                     restaurants    thousands)              %    restaurants   thousands)       %
+
+First-tier cities                            106       929,899            18.0           84         756,580    16.8
+New first-tier cities                        189     1,525,477            29.6          149       1,296,081    28.8
+Second-tier cities                            81       630,825            12.2           61         532,861    11.8
+Third-tier cities and below
+  (including county-level cities
+  and counties)                              291     2,071,966            40.2          242       1,922,446    42.6
+
+Total                                        667     5,158,167           100.0          536       4,507,968   100.0
+
+Note:
+
+(1)     There were transformations of Xiaocaiyuan restaurants from Fuxinglou restaurants in June 2024 (initially
+        opened in December 2020).
+
+
+
+
+                                                        17
+We use a number of financial and operating indicators to evaluate the performance of our
+Xiaocaiyuan restaurants. The following table sets forth certain key performance indicators of our
+Xiaocaiyuan restaurants during the periods indicated:
+
+                                                                                         For the year ended
+                                                                                           December 31,
+                                                                                           2024(1)          2023
+
+Average spending per dine-in customer(2) (RMB)
+First-tier cities                                                                              61.1               66.3
+New first-tier cities                                                                          59.1               67.2
+Second-tier cities                                                                             59.9               66.6
+Third-tier cities and below
+  (including county-level cities and counties)                                                 58.4               63.4
+
+Total                                                                                          59.2               65.2
+
+Table turnover rate(3)
+First-tier cities                                                                               3.1                 3.4
+New first-tier cities                                                                           3.0                 3.4
+Second-tier cities                                                                              3.2                 3.4
+Third-tier cities and below
+  (including county-level cities and counties)                                                  2.8                 3.0
+
+Overall                                                                                         3.0                 3.2
+
+Notes:
+
+(1)      There were transformations of Xiaocaiyuan restaurants from Fuxinglou restaurants in June 2024 (initially
+         opened in December 2020).
+
+(2)      Average spending per dine-in customer is calculated by dividing the revenue generated from restaurant
+         operations by total number of dine-in customers served for the period in the same tier cities.
+
+(3)      Table turnover rate is calculated by dividing the aggregate number of orders placed by dine-in customers by the
+         product of total restaurant operation days and average table count of Xiaocaiyuan restaurants for the period in
+         the same tier cities.
+
+
+
+
+                                                           18
+The following table sets forth certain same store performance indicators for our Xiaocaiyuan
+restaurants during the periods indicated:
+
+                                                                    For the year ended
+                                                                      December 31,
+                                                                      2024(1)          2023
+
+Number of same stores(2)
+First-tier cities                                                           57
+New first-tier cities                                                       98
+Second-tier cities                                                          42
+Third-tier cities and below
+  (including county-level cities and counties)                              193
+
+Total                                                                       390
+
+Same store sales(3) (RMB in thousands)
+First-tier cities                                                  565,031.4        652,450.1
+New first-tier cities                                              922,827.9      1,098,721.0
+Second-tier cities                                                 406,470.8        457,307.3
+Third-tier cities and below
+  (including county-level cities and counties)                    1,556,875.2     1,718,405.9
+
+Total                                                             3,451,205.3     3,926,884.3
+
+Average same store sales per day(4) (RMB in thousands)
+First-tier cities                                                       27.2            31.5
+New first-tier cities                                                   26.1            30.9
+Second-tier cities                                                      26.8            30.1
+Third-tier cities and below
+  (including county-level cities and counties)                          22.1            24.6
+
+Overall                                                                 24.4            27.8
+
+Same store table turnover rate(5) (times/day)
+First-tier cities                                                         3.0             3.3
+New first-tier cities                                                     3.0             3.4
+Second-tier cities                                                        3.3             3.6
+Third-tier cities and below
+  (including county-level cities and counties)                            2.9             3.1
+
+Overall                                                                   3.0             3.3
+
+
+
+
+                                                 19
+Notes:
+
+(1)      There were transformations of Xiaocaiyuan restaurants from Fuxinglou restaurants in June 2024 (initially
+         opened in December 2020).
+
+(2)   For purposes of calculating same store performance, between two periods, we define same stores as those
+      Xiaocaiyuan restaurants that were open for at least 300 days in both 2023 and 2024.
+
+(3)      Same store sales refer to the aggregate restaurant revenue from our same stores, including revenue generated
+         from restaurant operations and delivery business.
+
+(4)      Average same store sales per day are calculated by dividing the aggregate restaurant revenue of our same stores,
+         including revenue generated from restaurant operations and delivery business, by the total restaurant operation
+         days of our same stores for the period in the same tier cities.
+
+(5)      Same store table turnover rate is calculated by dividing the aggregate number of orders placed by dine-in
+         customers at our same stores by the product of total restaurant operation days and average table count of our
+         same stores for the period in the same tier cities.
+
+Our same store sales decreased by 12.1% from RMB3,926.9 million in 2023 to RMB3,451.2
+million in 2024, primarily due to (i) the base effect as a result of the rapid surge in spendings of
+consumers in China’s catering market during the first several months in 2023 following the gradual
+phasing-out of the COVID-19 pandemic, which was in line with the spending patterns in other
+consumer sectors according to Frost & Sullivan (Beijing) Inc., Shanghai Branch Co., and (ii) our
+adjustments to the menu item prices to accommodate the preferences of consumers, demonstrating
+our long-term commitment to bringing cost-effective experience to our customers.
+
+Other Revenue
+
+Our other revenue decreased by 3.0% from RMB43.8 million in 2023 to RMB42.5 million in 2024,
+primarily due to the large amount of government grants received in the early stages of recovery
+from the COVID-19 epidemic in 2023.
+
+Raw Materials and Consumables Used
+
+Our raw materials and consumables used increased by 15.9% from RMB1,433.4 million in 2023
+to RMB1,661.0 million in 2024, aligned with our revenue growth in the same period. Our raw
+materials and consumables used as a percentage of our revenue increased from 31.5% in 2023 to
+31.9% in 2024, primarily due to the increase in our raw materials and consumables used was larger
+than the increase in revenue as we proactively adjusted the menu item prices to accommodate the
+preferences of consumers, demonstrating our long-term commitment to bringing cost-effective
+experience to our customers.
+
+Staff Costs
+
+Our staff costs increased by 6.6% from RMB1,334.2 million in 2023 to RMB1,421.6 million in
+2024, primarily due to an increase in the number of our employees due to the expansion of our
+restaurant network. Our staff costs as a percentage of our revenue continued to optimize, reaching
+29.3% in 2023 and 27.3% in 2024.
+
+
+
+
+                                                            20
+Depreciation of Right-of-use Assets
+
+Our depreciation of right-of-use assets increased by 30.7% from RMB196.3 million in 2023
+to RMB256.5 million in 2024, primarily due to an increase in the number of our restaurants
+in operation. Our depreciation of right-of-use assets as a percentage of our revenue remained
+relatively stable at 4.3% in 2023 and 4.9% in 2024.
+
+Depreciation and Amortization of Other Assets
+
+Our depreciation and amortization of other assets increased by 31.0% from RMB133.9 million in
+2023 to RMB175.5 million in 2024, primarily due to an increase in the number of our restaurants
+in operation. Our depreciation and amortization of other assets as a percentage of our revenue
+remained relatively stable at 2.9% in 2023 and 3.4% in 2024.
+
+Other Rentals and Related Expenses
+
+Our other rentals and related expenses increased by 59.0% from RMB58.5 million in 2023 to
+RMB93.1 million in 2024, primarily due to an increase in lease payments for leases with a term of
+12 months or less in relation to the expansion of our restaurant network.
+
+Utility Expenses
+
+Our utility expenses increased by 23.0% from RMB139.6 million in 2023 to RMB171.8 million in
+2024, primarily due to an increase in the number of restaurants in operation.
+
+Advertising and Promotion Expenses
+
+Our advertising and promotion expenses increased by 31.4% from RMB48.3 million in 2023 to
+RMB63.4 million in 2024, primarily due to an increase in promotional activities on online food
+delivery platforms in line with the growth of our delivery business.
+
+Delivery Service Expenses
+
+Our delivery service expenses increased by 37.6% from RMB257.9 million in 2023 to RMB354.8
+million in 2024, which was in line with the increase in revenue generated from our delivery
+business. Our delivery service expenses as a percentage of our revenue increased from 5.7%
+in 2023 to 6.8% in 2024, which was in relation to the increase in the revenue generated by our
+delivery business as a percentage of our total revenue from 32.8% in 2023 to 38.5% in 2024.
+
+Other Expenses
+
+Our other expenses increased by 29.9% from RMB210.6 million in 2023 to RMB273.5 million in
+2024, primarily due to (i) an increase in property management expenses and transportation and
+related expenses as a result of the expansion of our restaurant network, and (ii) an increase in
+professional service expenses and listing expenses in relation to our Global Offering.
+
+
+
+
+                                               21
+Other Net Income/(Losses)
+
+We recorded other net losses of RMB4.9 million in 2023 and recorded other net income of
+RMB31.1 million in 2024, which was primarily due to a gain in changes in fair value of the
+convertible bonds and derivative financial instruments in 2024, partially offset by a loss in changes
+in carrying amount of the redemption liability in 2024, in relation to the financial instruments
+issued to Harvest Delicacy Infinite Corporation in 2023 and 2024.
+
+Finance Costs
+
+Our finance costs increased by 30.3% from RMB31.6 million in 2023 to RMB41.1 million in 2024,
+primarily due to an increase in interest on lease liabilities in line with the increase in the number
+of our leases as a result of the expansion of our restaurant network, partially offset by a decrease
+in interest on bank loans from a decrease in our bank loans.
+
+Income Tax
+
+Our income tax decreased by 10.1% from RMB212.1 million in 2023 to RMB190.6 million in
+2024, primarily due to a decrease in our China dividend withholding tax. Our effective tax rate,
+calculated by dividing our income tax by our profit before taxation, decreased from 28.5% in
+2023 to 24.7% in 2024, primarily due to an increase in profits from our subsidiaries that enjoyed
+preferential income tax rates in 2024.
+
+Profit for the Period
+
+As a result of the cumulative effect of the above factors, our profit for the period increased by
+9.1%, amounting to RMB532.1 million in 2023 and RMB580.6 million in 2024.
+
+Non-IFRS Measures
+
+To supplement our consolidated financial statements, which are presented in accordance with IFRS,
+we also use adjusted net profit (non-IFRS measure) and adjusted EBITDA (non-IFRS measure) as
+additional financial measures, which are not required by, or presented in accordance with, IFRS.
+
+We believe these measures provide useful information to investors and others in understanding
+and evaluating our consolidated results of operations in the same manner as they help our
+management. However, our presentation of adjusted net profit (non-IFRS measure) and adjusted
+EBITDA (non-IFRS measure) may not be comparable to similarly titled measures presented by
+other companies. The use of these non-IFRS measures has limitations as an analytical tool, and
+you should not consider them in isolation from, or as a substitute for an analysis of, our results of
+operations or financial condition as reported under IFRS.
+
+Adjusted Net Profit (non-IFRS measure)
+
+We define adjusted net profit (non-IFRS measure) as net profit for the year adjusted by adding (i)
+equity-settled share-based payment expenses, (ii) changes in fair value of the convertible bonds and
+derivative financial instruments, (iii) changes in carrying amount of the redemption liability and
+(iv) listing expenses. We then add back (i) income tax, (ii) net finance costs, and (iii) depreciation
+and amortization of other assets to derive adjusted EBITDA (non-IFRS measure).
+
+
+
+                                                 22
+The following table sets out a reconciliation from net profit to adjusted net profit (non-IFRS
+measure) and adjusted EBITDA (non-IFRS measure) for the years indicated:
+
+                                                                          For the year ended
+                                                                            December 31,
+                                                                              2024           2023
+                                                                        (RMB ’000)     (RMB ’000)
+Reconciliation of net profit to adjusted
+  net profit (non-IFRS measure) and
+  adjusted EBITDA (non-IFRS measure)
+Net profit                                                                  580,622          532,059
+Add:
+Changes in fair value of the convertible bonds and derivative
+  financial instruments                                                    (112,233)           3,733
+Changes in carrying amount of the redemption liability                       80,889            1,699
+Listing expenses                                                             36,911            8,493
+Adjusted net profit (non-IFRS measure)                                      586,189          545,984
+Add:
+Income tax                                                                  190,632          212,060
+Net finance costs                                                            16,499           22,532
+Depreciation and amortization of other assets                               175,536          133,947
+Adjusted EBITDA (non-IFRS measure)                                          968,856          914,523
+
+Right-of-use Assets
+
+Our right-of-use assets consisted of the leases for our restaurants. Our right-of-use assets increased
+by 13.6% from RMB694.1 million as of December 31, 2023 to RMB788.6 million as of December
+31, 2024, mainly attributed to an increase in the number of restaurants and land acquisition of our
+new central kitchen in Ma’anshan in January 2024.
+
+Inventories
+
+Our inventories primarily consisted of food ingredients, condiment products, beverage and others.
+Our inventories increased from RMB104.9 million as of December 31, 2023 to RMB109.6 million
+as of December 31, 2024, primarily due to the expansion of our restaurant network.
+
+Our inventory turnover days (being the average of opening balance and closing balance of
+inventory for the year divided by raw materials and consumables used for the relevant year and
+multiplied by 365 days) decreased from 24.1 days in 2023 to 23.6 days in 2024, primarily due to
+our enhanced inventory management capabilities.
+
+Trade and Other Receivables
+
+The majority of our trade and other receivables were primarily in connection with (i) bills settled
+through third-party payment platforms such as Alipay or WeChat Pay, and (ii) bills for our delivery
+business settled through online food delivery platforms. Our trade and other receivables increased
+from RMB270.1 million as of December 31, 2023 to RMB301.9 million as of December 31, 2024,
+primarily due to the expansion of our restaurant network and growth in delivery business.
+
+Our trade receivables turnover days (being the average of opening balance and closing balance of
+trade receivables for the year divided by revenue and multiplied by 365 days) remained relatively
+stable at 2.4 days in 2023 and 2.3 days in 2024, respectively.
+
+                                                 23
+Trade and Other Payables
+
+The majority of our trade and other payables were in connection with payables to our suppliers for
+raw materials and consumables and payables of utility expenses.
+
+Our trade and other payables decreased from RMB280.5 million as of December 31, 2023 to
+RMB228.5 million as of December 31, 2024, primarily because we accelerated the settlement
+process with our suppliers.
+
+Our trade payables turnover days (being the average of opening balance and closing balance of
+trade payables for the year divided by raw materials and consumables used for the relevant year
+and multiplied by 365 days) decreased from 18.7 days in 2023 to 15.2 days in 2024, primarily
+due to an increase in the procurement of food ingredients through centralized procurement as a
+percentage of our total procurement during the Reporting Period, which facilitated our settlement
+process.
+
+Liquidity and Capital Resources
+
+For the year ended December 31, 2024, we had funded our cash requirements principally from
+equity and debt financing and cash generated from operations. We had cash and cash equivalents
+of RMB616.7 million for the year ended December 31, 2024 as compared to RMB620.2 million
+for the year ended December 31, 2023. We had net cash generated from operating activities of
+RMB902.9 million for the year ended December 31, 2024 as compared to RMB866.3 million for
+the year ended December 31, 2023.
+
+We monitor our cash flows and cash balance on a regular basis and strive to maintain an optimum
+liquidity that can meet our working capital needs while supporting continuing business expansion.
+
+Bank Loans and Other Borrowings
+
+As at December 31, 2024, we did not have any outstanding bank loans and other borrowings. Our
+bank loans were guaranteed by Xiaocaiyuan Catering. All borrowings were denominated in RMB
+and born interest at fixed rates. The Group did not implement any interest rate hedging policy.
+
+Pledged Assets
+
+As at December 31, 2024, the Group did not pledge any of its assets.
+
+Contingent Liabilities
+
+As at December 31, 2024, the Group did not have any contingent liabilities.
+
+Gearing Ratio
+
+Our gearing ratio (calculated as bank loans and other borrowings divided by total equity and
+multiplied by 100%) was nil as at December 31, 2024 as compared to 8.0% as at December 31,
+2023, primarily due to a decrease in bank loans and other borrowings to nil.
+
+
+
+
+                                               24
+Foreign Exchange Risk and Hedging
+
+The Group operates primarily in Mainland China with most of the transactions denominated and
+settled in RMB. The Group is exposed to currency risk which is primarily attributable to financial
+liabilities that are denominated in a foreign currency, i.e. a currency other than the functional
+currency of the operations to which the transactions relate. The Group does not hedge foreign
+exchange risk, but will closely monitor the situation and take measures when necessary, to ensure
+that foreign exchange risk is within control.
+
+Employee and Remuneration Policy
+
+As at December 31, 2024, the Group had a total of 12,034 employees (December 31, 2023:
+12,295), most of whom were located in Tongling, Anhui Province, China. For the year ended
+December 31, 2024, the Group ’ s total staff costs (including salaries, wages, allowances and
+benefits) amounted to RMB1,421.6 million.
+
+We recruit our employees from the open market, as well as through internal referrals. The
+restaurant manager and our human resources department are responsible for recruiting restaurant
+frontline staff of that particular restaurant. Our recruitment process usually includes interviews
+and an evaluation of a candidate’s qualifications and experiences. We are committed to providing
+fair and equal opportunities in all of our employment practices and have adopted policies and
+procedures to ensure a fair hiring, selection and promotion process. As required by regulations of
+the PRC, we participate in various employee social security plans that are organized by municipal
+and provincial governments, including pension insurance, unemployment insurance, maternity
+insurance, work-related injury insurance, medical insurance and housing funds. For example, for
+regional managers, their compensation package includes base salary depending on the number
+of restaurants they manage and a discretionary bonus depending on the performance of such
+restaurants. In terms of our key restaurant employees, their compensation packages include base
+salary and a certain percentage of the profits from their respective restaurants as a discretionary
+bonus. In particular, for the key restaurant employees who are engaged to run new restaurants, they
+are entitled to the discretionary bonus from both the new restaurants and their original restaurants
+for a certain period. In terms of restaurant frontline staff, their compensation package includes base
+salary, overtime pay and incentive bonus based on individual performance. We have developed
+and implemented a compensation mechanism that considers every task in the restaurant for bonus
+review, such as the number of signature dishes sold and positive customer reviews received.
+
+We hold monthly training programs for newly promoted restaurant managers and head chefs and
+other outstanding employees, where they share their working experiences and our management
+reiterates our values, motivating our employees to embrace our values, improve operational skills
+and develop management competencies for their career advancement.
+
+Material Investments, Acquisitions and Disposals of Subsidiaries, Associates and Joint
+Ventures
+
+During the period from December 20, 2024 (the “ Listing Date ” ) up to December 31, 2024,
+the Company did not have any material investments, acquisitions or disposals of subsidiaries,
+associates and joint ventures.
+
+
+
+
+                                                 25
+Future Plans for Material Investments and Capital Asset Investments
+
+As at December 31, 2024, save as disclosed in this results announcement and the prospectus of the
+Company (the “Prospectus”), the Group did not have any material investments and capital asset
+plans.
+
+Future Outlook
+
+Looking ahead, we will continue to consolidate our leading position in China’s rapidly growing
+mass Chinese cuisine sector. We remain committed to our cultural philosophy of “Gratitude,
+Responsibility, Growth and Win-Win ” , providing our customers with an exceptional dining
+experience and offering green, healthy and nutritious dishes at affordable prices. Leveraging
+our modern management system and market acumen, we will continue to harness the growth
+potential in the market, establishing a substantial competitive advantage and a formidable business
+stronghold against our rivals in the industry. In our future development plan, we will continue to
+enhance the dining experience of the operational restaurants, by optimizing service capabilities
+and introducing more value-added services to create greater value for our customers. We will
+continue to enhance our business intelligence system based on data insight, continue to strengthen
+and upgrade our supply chain management system, strategically expand our restaurant network,
+achieving a broader coverage and deeper market penetration, and continue our expansion and
+exploration in the Chinese cuisine community catering market, striving to build ourselves into a
+world-class chain restaurant group with a modern scientific management system.
+
+OTHER EVENTS
+
+PURCHASE, SALE AND REDEMPTION OF THE COMPANY’S LISTED SECURITIES
+
+For the period from the Listing Date to December 31, 2024, neither the Company nor any of its
+subsidiaries had purchased, sold or redeemed any of the Company’s securities (including the sale
+of treasury shares).
+
+As of December 31, 2024, the Company did not hold any treasury shares.
+
+SIGNIFICANT EVENTS AFTER THE REPORTING PERIOD
+
+Save for the matters disclosed in this results announcement, no material events have occurred in
+the Group since December 31, 2024 up to the date of this announcement.
+
+COMPLIANCE WITH THE CORPORATE GOVERNANCE CODE
+
+The Company is committed to achieving high standards of corporate governance with a view
+to safeguarding the interests of our shareholders. The principle of the Company ’ s corporate
+governance is to promote effective internal control measures and to enhance the transparency
+and accountability of the Board to all shareholders. Our Directors recognize the importance of
+incorporating elements of good corporate governance in the management structures and internal
+control procedures of the Group to achieve effective accountability. The Company’s corporate
+governance practices are based on the principles and code provisions prescribed in the Corporate
+Governance Code (the “Corporate Governance Code”) contained in Appendix C1 to the Rules
+Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited (the “Hong
+Kong Stock Exchange”) (the “Listing Rules”).
+
+
+                                                26
+The Company has complied with all applicable code provisions set out in the Corporate
+Governance Code for the period from the Listing Date to December 31, 2024, except for the
+deviation from code provision C.2.1 of the Corporate Governance Code.
+
+Pursuant to code provision C.2.1 of the Corporate Governance Code, the roles of chairman
+and general manager should be separate and should not be performed by the same individual.
+The division of responsibilities between the chairman and general manager should be clearly
+established and set out in writing. The Company does not separate the roles of chairman and
+general manager, and Mr. Wang Shugao currently holds both positions concurrently. In view
+of Mr. Wang’s substantial contribution to the Group since our establishment and his extensive
+experience, the Company considers that having Mr. Wang acting as both our chairman and general
+manager will provide strong and consistent leadership to the Group and facilitate the efficient
+execution of the Company’s business strategies. The Board believes that this arrangement will
+not impair the balance of power and authority between the Board and the management of our
+Company, given that: (i) there are sufficient checks and balances in the Board, as a decision to
+be made by our Board requires approval by at least a majority of our Directors, and our Board
+comprises four independent non-executive Directors, which is in compliance with the requirement
+under the Listing Rules; (ii) Mr. Wang and other Directors are aware of and undertake to
+fulfill their fiduciary duties as Directors, which require, among other things, that he/she acts
+for the benefit and in the best interests of our Company and will make decisions for the Group
+accordingly; and (iii) the balance of power and authority is ensured by the operations of the Board
+which comprises experienced and high caliber individuals who meet regularly to discuss issues
+affecting the operations of our Company. Moreover, the overall strategic and other key business,
+financial, and operational policies of the Group are made collectively after thorough discussion at
+both Board and senior management levels. The Board will continue to review the effectiveness of
+the corporate governance structure of the Group in order to assess whether the separation of the
+roles of chairman and general manager is necessary.
+
+COMPLIANCE WITH THE MODEL CODE FOR SECURITIES TRANSACTIONS BY
+DIRECTORS OF LISTED ISSUERS
+
+The Board has adopted the Model Code for Securities Transactions by Directors of Listed Issuers
+(“Model Code”) in Appendix C3 to the Listing Rules as the code of conduct governing Directors’
+trading in the securities of the Company. As the Company’s shares were listed on the Hong Kong
+Stock Exchange on December 20, 2024, the Model Code became applicable to the Company from
+the Listing Date. Upon specific enquiries made by the Board, all Directors confirmed that they
+have complied with the provisions of the Model Code during the period from the Listing Date to
+December 31, 2024.
+
+
+
+
+                                                27
+THE USE OF PROCEEDS FROM THE GLOBAL OFFERING
+
+On December 20, 2024, the Company was listed on the Main Board of the Hong Kong Stock
+Exchange. The number of shares under the Global Offering was 101,180,800 shares, comprising
+the offer of 10,118,400 shares under the Hong Kong Public Offering and the offer of 91,062,400
+shares under the International Offering at a nominal value of US$0.00001 per share. Based on the
+final Offer Price of HK$8.50 per Offer Share, the net proceeds received by the Company from
+the Global Offering after deducting the underwriting commission and other estimated expenses in
+connection with the Global Offering amounted to approximately HK$794.8 million, which will be
+used in accordance with the use of proceeds as disclosed in the Prospectus as follows:
+
+                                                                         Unutilized   Expected
+                                                              Utilized    proceeds    timetable
+                                                             proceeds     as at the   for the
+                                       % of                 during the   end of the   fully utilizing of
+                                      use of         Net    Reporting    Reporting    unutilized
+Purpose                            proceeds    proceeds        Period       Period    proceeds
+                                                (HK$ in       (HK$ in      (HK$ in
+                                               millions)     millions)    millions)
+
+Expansion of our restaurant
+  network to broaden our
+  geographical coverage and
+  deepen our market penetration      40.0%          317.9           –        317.9    December 31, 2026
+Strengthen our supply chain
+  capabilities                       37.0%          294.1           –        294.1    December 31, 2026
+Promote our information
+  technology capabilities
+  through upgrading our smart
+  devices and digital systems        13.0%          103.3           –        103.3    December 31, 2026
+Working capital and general
+  corporate purposes                 10.0%           79.5           –          79.5   December 31, 2026
+
+Total                                 100%          794.8           –        794.8
+
+There has been no change in the intended use of net proceeds as detailed in the Prospectus and
+disclosed above since the Listing Date and up to the date of this announcement. We have deposited
+the unutilized net proceeds into short-term interest-bearing accounts at licensed commercial banks
+and/or other authorized financial institutions.
+
+
+
+
+                                               28
+FINAL DIVIDENDS AND CLOSURE OF REGISTER OF MEMBERS
+
+The Board has resolved to recommend a final dividend of RMB0.3187 per share, amounting to
+RMB375 million in total, for the year ended December 31, 2024, which is subject to the approval
+of the shareholders at the forthcoming annual general meeting. The final dividends are expected to
+be paid on May 16, 2025. The Group is not aware of any arrangement under which a shareholder
+has waived or agreed to waive any dividends.
+
+The proposed final dividends are subject to the approval of the shareholders at the forthcoming
+annual general meeting. The record date for entitlement to the proposed final dividends is May
+6, 2025. For determining the shareholder entitlement to the proposed final dividends, the register
+of members of the Company will be closed on May 6, 2025, on which day no transfer of shares
+of the Company will be registered. In order to qualify for the proposed final dividends, all
+transfer documents of shares accompanied by the relevant share certificates must be lodged with
+the Company’s Hong Kong Share Registrar, Tricor Investor Services Limited, at 17/F, Far East
+Finance Centre, 16 Harcourt Road, Hong Kong not later than 4:30 p.m. on May 2, 2025.
+
+ANNUAL GENERAL MEETING AND CLOSURE OF REGISTER OF MEMBERS
+
+The forthcoming annual general meeting is scheduled to be held on April 28, 2025. To determine
+the entitlement to attend and vote at the annual general meeting, the register of members of the
+Company will be closed from April 23, 2025 to April 28, 2025, both days inclusive, during which
+period no transfer of shares will be registered. In order to qualify for attending and voting at
+the annual general meeting, all transfer documents of shares accompanied by the relevant share
+certificates must be lodged with the Company’ s Hong Kong Share Registrar, Tricor Investor
+Services Limited, at 17/F, Far East Finance Centre, 16 Harcourt Road, Hong Kong not later than
+4:30 p.m. on April 22, 2025. Shareholders whose names appear on the register of members of the
+Company on April 28, 2025 are eligible to attend and vote at the annual general meeting.
+
+SCOPE OF WORK OF THE AUDITOR
+
+The financial figures in respect of the Group ’s consolidated statement of profit or loss, consolidated
+statement of profit or loss and other comprehensive income, consolidated statement of financial
+position and the related notes thereto for the year ended December 31, 2024 as set out in this
+announcement have been agreed by the Company’s auditor, KPMG, Certified Public Accountants
+(the “Auditor ” ), to the amounts set out in the Group ’ s consolidated financial statements for
+the year ended December 31, 2024. The work performed by the Auditor in this respect did not
+constitute an assurance engagement and consequently no opinion or assurance conclusion has been
+expressed by the Auditor on this announcement.
+
+
+
+
+                                                  29
+AUDIT COMMITTEE
+
+The Audit Committee comprises Mr. Zhu Nanjun (chairman), Mr. Qian Mingxing and Ms. Fang
+Xuan, all of whom are independent non-executive Directors. The Audit Committee has reviewed
+the annual results of the Group for the year ended December 31, 2024.
+
+PUBLICATION OF THE ANNUAL RESULTS ANNOUNCEMENT AND ANNUAL REPORT
+
+This results announcement has been published on the website of the Hong Kong Stock Exchange
+(www.hkexnews.hk) and the website of the Company (www.xiaocaiyuan.com). The Company will
+publish the 2024 annual report of the Company in due course on the above websites of the Hong
+Kong Stock Exchange and the Company.
+
+                                                             By order of the Board
+                                                    Xiaocaiyuan International Holding Ltd.
+                                                               Mr. Wang Shugao
+                                                  Chairman of the Board and Executive Director
+
+Hong Kong, March 26, 2025
+
+As at the date of this announcement, the Board comprises Mr. Wang Shugao, Mr. Li Daoqing, Mr.
+Tian Chunyong, Mr. Zhou Bin, Ms. Wang Weifang and Mr. Tao Xu ’an as executive directors; Ms.
+Zhu Xuejing as the non-executive director; and Mr. Qian Mingxing, Mr. Zhu Nanjun, Mr. Zeng
+Xiaosong and Ms. Fang Xuan as independent non-executive directors.
+
+
+
+
+                                             30
+

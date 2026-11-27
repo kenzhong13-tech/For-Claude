@@ -1,0 +1,2 @@
+https://www.barchart.com/proxies/core-api/v1/options-historical/get?symbol=YUMC&fields=date,impliedVolatility,historicVolatility&orderBy=date&orderDir=desc&limit=3000&raw=1
+<HTTPError 403: 'Forbidden'>

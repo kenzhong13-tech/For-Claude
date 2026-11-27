@@ -1,0 +1,65 @@
+
+
+EX-99.1
+
+2
+
+ex991pressrelease_final.htm
+
+EX-99.1
+
+Document
+EXHIBIT 99.1
+
+NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories
+CoreWeave to Adopt NVIDIA CPU and Storage Platforms 
+and Multiple NVIDIA Generations
+Expanded Relationship to Offer CoreWeave Software to Global CSPs and Enterprises
+
+SANTA CLARA, Calif., and LIVINGSTON, N.J — January 26, 2026—
+NVIDIA (Nasdaq: NVDA) and CoreWeave, Inc. (Nasdaq: CRWV) today announced an expansion of their long-standing complementary relationship to enable CoreWeave to accelerate the buildout of more than 5 gigawatts of AI factories by 2030 to advance AI adoption at global scale. 
+In addition, NVIDIA has invested $2 billion in CoreWeave Class A common stock at a purchase price of $87.20 per share. The investment reflects NVIDIA’s confidence in CoreWeave’s business, team and growth strategy as a cloud platform built on NVIDIA infrastructure.
+
+Demand for AI continues to grow exponentially and the need for compute has never been greater. To help meet this demand, NVIDIA and CoreWeave are deepening their infrastructure, software, and platform alignment. The companies intend to:  
+●
+Build AI factories developed and operated by CoreWeave using NVIDIA’s leading accelerated computing platform technology to meet customer demand.
+●
+Leverage NVIDIA’s financial strength to accelerate CoreWeave’s procurement of land, power and shell to build AI factories.
+●
+Test and validate CoreWeave’s AI-native software and reference architecture, including SUNK and CoreWeave Mission Control, to unlock deeper interoperability and work towards including those offerings within NVIDIA’s reference architectures for NVIDIA’s cloud partners and enterprise customers.
+●
+Deploy multiple generations of NVIDIA infrastructure across CoreWeave’s platform through early adoption of NVIDIA computing architectures, including the Rubin platform, Vera CPUs and Bluefield storage systems.
+“AI is entering its next frontier and driving the largest infrastructure buildout in human history,” said Jensen Huang, founder and CEO of NVIDIA. “CoreWeave’s deep AI factory expertise, platform software, and unmatched execution velocity are recognized across the industry. Together, we’re racing to meet extraordinary demand for NVIDIA AI factories—the foundation of the AI industrial revolution.”
+“From the very beginning, our collaboration has been guided by a simple conviction: AI succeeds when software, infrastructure, and operations are designed together,” said Michael Intrator, co-founder, chairman, and CEO, CoreWeave. “NVIDIA is the leading and most requested computing platform at 
+every phase of AI – from pre-training to post-training – and Blackwell provides the lowest cost architecture for inference. This expanded collaboration underscores the strength of demand we are seeing across our customer base and the broader market signals as AI systems move into large-scale production.”
+The collaboration builds on CoreWeave’s purpose-built cloud, software, and operational expertise, extending proven capabilities that enable customers to run the most demanding AI workloads efficiently, reliably and at scale.
+About NVIDIA
+NVIDIA
+ (NASDAQ: NVDA) is the world leader in AI and accelerated computing. 
+NVIDIA Forward-Looking Statements
+Certain statements in this press release including, but not limited to, statements as to: AI entering its next frontier and driving the largest infrastructure buildout in human history; together, NVIDIA and CoreWeave racing to meet extraordinary demand for NVIDIA AI factories—the foundation of the AI industrial revolution; the benefits, impact, and performance of NVIDIA’s products, services, and technologies; expectations with respect to the expansion of the relationship between NVIDIA and CoreWeave; expectations with respect to technology developments; expectations with respect to demand for AI; and other statements that are not historical facts are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections based on management’s beliefs and assumptions and on information currently available to management and are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing product and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+About CoreWeave
+CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to move at the pace of innovation, building and scaling AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave serves as a force multiplier by combining superior infrastructure performance with deep 
+technical expertise to accelerate breakthroughs. Established in 2017, CoreWeave completed its public listing on Nasdaq (CRWV) in March 2025. Learn more at https://coreweave.com/?utm_source=coreweave.com&utm_medium=site.               
+
+CoreWeave Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of applicable securities laws. These statements include statements related to the following: the expansion of the relationship between CoreWeave and NVIDIA; building more than 5 gigawatts of AI factories by 2030; the possible inclusion of CoreWeave’s software within NVIDIA’s reference architectures for its cloud partners and enterprise customers; and the deployment of multiple generations of NVIDIA infrastructure across CoreWeave’s platform. These forward-looking statements are only predictions of future events and may differ materially from actual results due to a variety of factors.  The risks and uncertainties that could cause actual results to differ from the results predicted are more fully detailed in CoreWeave’s filings with the “SEC” under the heading “Risk Factors,” including in its Quarterly Report on Form 10-Q filed with the SEC for the quarter ended September 30, 2025, copies of which may be obtained by visiting CoreWeave’s Investor Relations website at https://investors.coreweave.com or the SEC’s website at www.sec.gov. Forward-looking statements speak only as of the date the statements are made and are based on information available to CoreWeave  at the time those statements are made and/or management’s good faith belief as of that time with respect to future events. Such statements are subject to the terms and conditions of the collaboration framework and future execution of additional agreements and/or order forms and the satisfaction of certain conditions relating to matters described herein. Such agreements may not be completed or may contain different terms than those currently contemplated. CoreWeave assumes no obligation to update forward-looking statements to reflect events or circumstances after the date they were made, except as required by law.
+
+# # # 
+For further information, contact:
+
+NVIDIA Corporation
+Corporate Communications 
+press@nvidia.com
+
+Toshiya Hari
+Investor Relations
+NVIDIA
+toshiyah@nvidia.com
+CoreWeave
+CoreWeave Media
+press@coreweave.com
+
+CoreWeave Investor Relations
+Investor-Relations@coreweave.com
+

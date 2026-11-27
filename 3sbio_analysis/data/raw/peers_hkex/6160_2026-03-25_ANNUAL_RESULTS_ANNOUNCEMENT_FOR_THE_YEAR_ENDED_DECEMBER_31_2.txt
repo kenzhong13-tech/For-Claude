@@ -1,0 +1,3280 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility 
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly 
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the 
+contents of this announcement.
+
+BeOne Medicines Ltd.
+百濟神州有限公司
+(a corporation incorporated under the laws of Switzerland)
+(Stock Code: 06160)
+
+ANNUAL RESULTS ANNOUNCEMENT
+FOR THE YEAR ENDED DECEMBER 31, 2025
+
+BeOne Medicines Ltd. together with its subsidiaries (the “Company” or “BeOne” or “we” or “us”), 
+hereby  announces  the  consolidated  results  of  the  Company  for  the  year  ended  December  31,  2025 
+(the  “Reporting  Period”),  together  with  the  comparative  figures  for  the  corresponding  period  in 
+2024,  which  have  been  prepared  under  U.S.  generally  accepted  accounting  principles  (the  “U.S. 
+GAAP”  or  “GAAP”)  and  reviewed  by  the  audit  committee  (the  “Audit  Committee”)  of  the  Board 
+of Directors (the “Board”) of the Company.
+
+FINANCIAL HIGHLIGHTS
+
+•  Total revenues for the year ended December 31, 2025, increased by approximately US$1.5 
+billion or approximately 40.2% to approximately US$5.3 billion, as compared to the year 
+ended December 31, 2024. Product revenue increased by approximately US$1.5 billion 
+or approximately 39.8% to approximately US$5.3 billion, as compared to the year ended 
+December 31, 2024.
+
+•  Total operating expenses for the year ended December 31, 2025, increased by 
+approximately US$443.0 million or approximately 11.7% to approximately US$4,227.4 
+million, as compared to the year ended December 31, 2024.
+
+•  Net income for the year ended December 31, 2025 was approximately US$286.9 million, as 
+compared to net loss of approximately US$644.8 million for the year ended December 31, 
+2024.
+
+•  Basic and diluted earnings per share for the year ended December 31, 2025 was US$0.20 
+and US$0.19 per share respectively, as compared to basic and diluted loss of US$0.47 per 
+share for the year ended December 31, 2024.
+
+1
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+Revenues
+  Product revenue, net
+  Other revenue
+
+  Total revenues
+
+Cost of sales – product
+Gross profit
+Operating expenses
+  Research and development
+  Selling, general and administrative
+
+  Total operating expenses
+
+Income (loss) from operations
+
+Interest income
+Interest expense
+
+  Other (expense) income, net
+
+Income (loss) before income taxes
+Income tax expense
+
+Net income (loss)
+
+Earnings (loss) per share (in US$)
+  Basic
+
+  Diluted
+
+Weighted-average shares outstanding – basic
+
+Weighted-average shares outstanding – diluted
+
+Earnings (loss) per American Depositary Share (“ADS”) 
+
+(in US$)
+
+  Basic
+
+  Diluted
+
+Note
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+15
+3
+
+5,282,061
+60,972
+
+3,779,546
+30,695
+
+5,343,033
+
+3,810,241
+
+668,540
+4,674,493
+
+2,145,868
+2,081,489
+
+594,089
+3,216,152
+
+1,953,295
+1,831,056
+
+4,227,357
+
+3,784,351
+
+447,136
+70,505
+(58,234)
+(42,553)
+
+416,854
+129,921
+
+(568,199)
+69,641
+(21,805)
+(12,638)
+
+(533,001)
+111,785
+
+286,933
+
+(644,786)
+
+0.20
+
+0.19
+
+(0.47)
+
+(0.47)
+
+1,417,803,727
+
+1,368,746,793
+
+1,474,829,908
+
+1,368,746,793
+
+2.63
+
+2.53
+
+(6.12)
+
+(6.12)
+
+6
+
+11
+
+17
+
+17
+
+17
+
+17
+
+Weighted-average ADSs outstanding – basic
+
+109,061,825
+
+105,288,215
+
+Weighted-average ADSs outstanding – diluted
+
+113,448,454
+
+105,288,215
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+2
+
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+
+Note
+
+Year Ended December 31,
+2025
+US$’000
+
+2024
+US$’000
+
+Net income (loss)
+Other comprehensive income (loss), net of tax of nil:
+  Foreign currency translation adjustments
+  Other adjustments
+
+286,933
+
+(644,786)
+
+19
+19
+
+69,300
+1,504
+
+(47,565)
+(1,977)
+
+Comprehensive income (loss)
+
+357,737
+
+(694,328)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+3
+
+CONSOLIDATED BALANCE SHEETS
+
+Assets
+Current assets:
+  Cash and cash equivalents
+  Accounts receivable, net
+
+Inventories, net
+
+  Prepaid expenses and other current assets
+
+Total current assets
+
+Non-current assets:
+  Property, plant and equipment, net
+  Operating lease right-of-use assets
+
+Intangible assets, net
+  Other non-current assets
+
+Total non-current assets
+
+Total assets
+
+Liabilities and shareholders’ equity
+Current liabilities:
+  Accounts payable
+  Accrued expenses and other payables
+  Tax payable
+  Operating lease liabilities, current portion
+  Research and development cost share liability, 
+
+  current portion
+
+  Sale of future royalty liability, current portion
+  Short-term debt
+
+Note
+
+As of December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+7
+12
+12
+
+9
+8
+10
+12
+
+13
+12
+11
+8
+
+3
+4
+14
+
+4,547,530
+865,080
+608,227
+212,752
+
+2,627,410
+676,278
+494,986
+192,919
+
+6,233,589
+
+3,991,593
+
+1,641,678
+148,184
+62,704
+102,418
+
+1,578,423
+139,309
+51,095
+160,490
+
+1,954,984
+
+1,929,317
+
+8,188,573
+
+5,920,910
+
+479,035
+1,109,120
+41,625
+20,698
+
+64,345
+56,714
+57,293
+
+404,997
+803,713
+25,930
+17,576
+
+111,154
+–
+851,529
+
+Total current liabilities
+
+1,828,830
+
+2,214,899
+
+4
+
+ 
+ 
+ 
+CONSOLIDATED BALANCE SHEETS (Continued)
+
+Note
+
+As of December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+Non-current liabilities:
+  Long-term debt
+  Sale of future royalty liability, non-current portion
+  Operating lease liabilities, non-current portion
+  Deferred tax liabilities
+  Research and development cost share liability, 
+
+  non-current portion
+  Other long-term liabilities
+
+Total non-current liabilities
+
+Total liabilities
+
+Commitments and contingencies
+
+Shareholders’ equity:
+  Ordinary shares, US$0.0001 par value per share; 
+
+  1,540,975,898 and 1,387,367,704 shares issued and 
+  1,441,075,618 and 1,387,367,704 shares outstanding 
+  as of December 31, 2025 and 2024, respectively
+
+  Additional paid-in capital
+  Accumulated other comprehensive loss
+  Accumulated deficit
+
+Total shareholders’ equity
+
+14
+4
+8
+11
+
+3
+12
+
+22
+
+19
+
+961,913
+850,242
+52,940
+53,209
+
+–
+80,245
+
+166,484
+–
+44,277
+42,007
+
+54,286
+66,735
+
+1,998,549
+
+373,789
+
+3,827,379
+
+2,588,688
+
+144
+12,759,137
+(78,184)
+(8,319,903)
+
+138
+12,087,908
+(148,988)
+(8,606,836)
+
+4,361,194
+
+3,332,222
+
+Total liabilities and shareholders’ equity
+
+8,188,573
+
+5,920,910
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+5
+
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+Cash flows from operating activities:
+  Net income (loss)
+Adjustments to reconcile net income (loss) to net cash 
+  provided by (used in) operating activities:
+  Depreciation and amortization expense
+  Share-based compensation expense
+  Acquired in-process research and development
+  Amortization of research and development cost 
+
+  share liability
+Impairment of equity investments
+
+  Loss on long-term investments
+  Non-cash interest expense
+  Deferred income tax expense
+  Other items, net
+Changes in operating assets and liabilities:
+  Accounts receivable
+
+Inventories
+  Other assets
+  Accounts payable
+  Accrued expenses and other payables
+  Deferred revenue
+  Other liabilities
+
+Note
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+286,933
+
+(644,786)
+
+18
+3
+
+3
+
+6
+
+141,686
+510,857
+691
+
+(101,095)
+75,626
+596
+14,872
+9,469
+(2,953)
+
+(164,954)
+(93,168)
+37,164
+79,833
+311,762
+1,293
+18,968
+
+171,762
+441,618
+60,000
+
+(73,226)
+6,838
+17,184
+–
+25,983
+11,163
+
+(329,443)
+(91,496)
+45,126
+121,497
+111,354
+633
+(14,838)
+
+  Net cash provided by (used in) operating activities
+
+1,127,580
+
+(140,631)
+
+Cash flows from investing activities:
+  Purchases of property and equipment
+  Purchase of in-process research and development
+  Purchase of intangible assets
+  Purchase of long-term investments
+  Proceeds from sale or maturity of 
+
+  short-term investments
+  Other investing activities
+
+10
+6
+
+(185,839)
+(60,691)
+(20,000)
+(11,834)
+
+3,446
+(1,237)
+
+(492,663)
+(31,800)
+(4,674)
+(19,006)
+
+2,655
+(2,862)
+
+  Net cash used in investing activities
+
+(276,155)
+
+(548,350)
+
+6
+
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENTS OF CASH FLOWS (Continued)
+
+Cash flows from financing activities:
+  Proceeds from sale of future royalties
+  Proceeds from long-term loan
+  Repayment of long-term loan
+  Proceeds from short-term loans
+  Repayment of short-term loans
+  Payments of debt issuance costs
+  Payments of withholding taxes from 
+
+  share-based awards
+
+  Proceeds from option exercises and employee 
+
+  share purchase plan
+
+  Repayment of sale of future royalties liability
+  Other financing activities
+
+Note
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+4
+14
+14
+14
+14
+14
+
+4
+
+911,000
+850,586
+(35,680)
+233,676
+(1,044,781)
+(23,392)
+
+(24,195)
+
+196,281
+(4,044)
+–
+
+–
+9,053
+(28,031)
+868,270
+(704,216)
+–
+
+–
+
+45,373
+–
+3,000
+
+  Net cash provided by financing activities
+
+1,059,451
+
+193,449
+
+Effect of foreign exchange rate changes, net
+
+60,024
+
+(51,705)
+
+Net increase (decrease) in cash, cash equivalents, 
+  and restricted cash
+
+Cash, cash equivalents, and restricted cash, 
+  beginning of year
+
+1,970,900
+
+(547,237)
+
+2,638,747
+
+3,185,984
+
+Cash, cash equivalents, and restricted cash, end of year
+
+4,609,647
+
+2,638,747
+
+Supplemental cash flow disclosures:
+  Cash and cash equivalents
+  Short-term restricted cash
+  Long-term restricted cash
+
+Interest paid
+
+Supplemental non-cash activities:
+  Accruals for capital expenditures
+  Purchase of in-process research and development 
+
+included in accounts payable
+
+4,547,530
+41,284
+20,833
+52,452
+
+2,627,410
+9,312
+2,025
+51,175
+
+57,283
+
+–
+
+70,314
+
+60,000
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+7
+
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+
+Ordinary 
+Shares 
+Issued
+
+Effect of 
+Redomiciliation1
+
+Shares
+
+Total 
+Outstanding 
+Shares
+
+Ordinary
+ Shares 
+Issued
+US$’000
+
+Additional
+Paid-In
+Capital
+US$’000
+
+Accumulated
+Other
+Comprehensive
+Income/(Loss)
+US$’000
+
+Accumulated
+Deficit
+US$’000
+
+Total
+US$’000
+
+Balance at December 31, 2023
+
+1,359,513,224
+
+  Use of shares reserved for share 
+
+  option exercises
+
+  Exercise of options, ESPP and 
+
+release of RSUs
+
+  Deconsolidation of a subsidiary
+  Share-based compensation
+  Other comprehensive loss
+  Net loss
+
+(2,258,161)
+
+30,112,641
+–
+–
+–
+–
+
+Balance at December 31, 2024
+
+1,387,367,704
+
+–
+
+–
+
+–
+–
+–
+–
+–
+
+–
+
+1,359,513,224
+
+135
+
+11,598,688
+
+(99,446)
+
+(7,962,050)
+
+3,537,327
+
+(2,258,161)
+
+30,112,641
+–
+–
+–
+–
+
+–
+
+3
+–
+–
+–
+–
+
+–
+
+45,550
+2,052
+441,618
+–
+–
+
+–
+
+–
+
+–
+
+–
+–
+–
+(49,542)
+–
+
+–
+–
+–
+–
+(644,786)
+
+45,553
+2,052
+441,618
+(49,542)
+(644,786)
+
+1,387,367,704
+
+138
+
+12,087,908
+
+(148,988)
+
+(8,606,836)
+
+3,332,222
+
+Issuance of shares reserved for 
+  share option exercises
+
+  Exercise of options, ESPP and release of 
+
+  RSUs
+
+  Share-based compensation
+  Withholding taxes from share-based awards
+  Other comprehensive income
+  Net income
+
+109,709,434
+
+(112,772,594)
+
+(3,063,160)
+
+43,898,760
+–
+–
+–
+–
+
+12,872,314
+–
+–
+–
+–
+
+56,771,074
+–
+–
+–
+–
+
+–
+
+6
+–
+–
+–
+–
+
+–
+
+195,895
+510,857
+(35,523)
+–
+–
+
+–
+
+–
+–
+–
+70,804
+–
+
+–
+
+–
+
+–
+–
+–
+–
+286,933
+
+195,901
+510,857
+(35,523)
+70,804
+286,933
+
+Balance at December 31, 2025
+
+1,540,975,898
+
+(99,900,280)
+
+1,441,075,618
+
+144
+
+12,759,137
+
+(78,184)
+
+(8,319,903)
+
+4,361,194
+
+1. 
+
+Upon  effectiveness  of  the  Continuation,  ordinary  shares  (including  in  the  form  of  ADS)  held  by  the  Company 
+or  one  of  its  controlled  subsidiaries  immediately  prior  to  the  effective  date  of  the  Continuation  became  part  of 
+the  Company’s  issued  but  not  outstanding  share  capital  and  are  considered  ordinary  shares  of  the  Company,  or 
+“treasury  shares”  under  Swiss  law.  The  Company  expects  to  use  these  treasury  shares  in  the  future  to  satisfy 
+obligations to deliver shares in connection with awards granted under the Company’s equity incentive plans and 
+agreements.
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+8
+
+ 
+ 
+ 
+ 
+ 
+ 
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+1. 
+
+Description of Business
+
+Formerly  known  as  BeiGene,  Ltd.,  BeOne  Medicines  Ltd.  (the  “Company”  or  “BeOne”)  is  a  global  oncology 
+company  focused  on  discovering  and  developing  innovative  treatments  that  are  more  affordable  and  accessible 
+to cancer patients worldwide.
+
+Effective  May  27,  2025,  the  Company  changed  its  jurisdiction  of  incorporation  from  the  Cayman  Islands 
+to  Switzerland  through  a  transaction  known  as  a  continuation  under  Section  206  of  the  Companies  Act  (as 
+amended)  of  the  Cayman  Islands  and  Article  161  of  the  Swiss  Federal  Act  on  Private  International  Law  (such 
+transaction,  the  “Continuation”),  The  Continuation  did  not  change  the  accounting  basis  under  GAAP  of  any  of 
+the Company’s consolidated assets, liabilities, equity, or any previous results of operations or cash flows.
+
+In  connection  with  the  Continuation,  ordinary  shares  held  by  the  Company  or  one  of  its  controlled  subsidiaries 
+immediately  prior  to  the  effective  date  of  the  Continuation  became  part  of  the  Company’s  issued  share  capital 
+and  are  considered  ordinary  shares  of  the  Company,  or  “treasury  shares”  under  Swiss  law.  See  the  Company’s 
+final  prospectus  filed  with  the  U.S.  Securities  and  Exchange  Commission  pursuant  to  Rule  424(b)(3)  on 
+March  10,  2025  for  a  full  description  of  the  changes  related  to  the  Company’s  ordinary  shares  following  the 
+Continuation.
+
+Since its inception in 2010, the Company has become a fully integrated global organization with nearly 12,000 
+employees worldwide.
+
+As of December 31, 2025, the Company had the following principal subsidiaries:
+
+Name of Company
+
+Place of 
+Incorporation
+
+Particulars of 
+issued/paid-in
+capital
+
+Percentage of 
+Ownership by 
+the Company
+
+Principal Activities and Place of 
+Operation
+
+BeOne Medicines (Beijing) Co., Ltd. (formerly 
+known as BeiGene (Beijing) Co., Ltd.)
+BeOne Guangzhou Biologics Manufacturing 
+Co., Ltd.(formerly known as BeiGene  
+Guangzhou Biologics Manufacturing  
+Co., Ltd.)
+
+PRC*
+
+PRC*
+
+RMB2,722,787,023
+
+100% Medical and pharmaceutical research 
+
+RMB16,420,122,114
+
+and development, PRC
+
+100% Medical and pharmaceutical research 
+and development, manufacturing and 
+commercialization, PRC
+
+BeOne Medicines (Shanghai) Co., Ltd.  
+
+PRC*
+
+RMB1,434,344,310
+
+100% Medical and pharmaceutical research 
+
+(formerly known as BeiGene (Shanghai) 
+Co., Ltd.)
+
+BeOne Pharmaceutical (Suzhou) Co., Ltd. 
+(formerly known as BeiGene (Suzhou)  
+Co., Ltd.)
+
+PRC*
+
+RMB4,973,218,389
+
+100% Medical and pharmaceutical 
+
+research and manufacturing and 
+commercialization, PRC
+
+and development, PRC
+
+BeOne Medicines (Shanghai) Research & 
+
+PRC*
+
+RMB620,000,000
+
+100% Medical and pharmaceutical research 
+
+Development Co., Ltd. (formerly known 
+as BeiGene (Shanghai) Research & 
+Development Co., Ltd.)
+
+BeOne Medicines USA, Inc. (formerly  
+known as BeiGene USA, Inc.)
+
+Delaware, United 
+States
+
+USD1
+
+BeOne Medicines AUS Pty Ltd. (formerly  
+known as BeiGene AUS Pty Ltd.)
+
+Australia
+
+USD56,947,230
+
+and development, PRC
+
+100% Medical, pharmaceutical research and 
+development and commercialization, 
+U.S.
+
+100% Medical, pharmaceutical research and 
+development and commercialization, 
+Australia
+
+9
+
+Name of Company
+
+Place of 
+Incorporation
+
+Particulars of 
+issued/paid-in
+capital
+
+Percentage of 
+Ownership by 
+the Company
+
+Principal Activities and Place of 
+Operation
+
+BeOne Medicines I GmbH (formerly  
+
+Switzerland
+
+CHF20,000
+
+known as BeiGene Switzerland GmbH)
+
+BeOne Medicines Hopewell Urban Renewal, 
+
+LLC (formerly known as BeiGene 
+Hopewell Urban Renewal, LLC)
+
+New Jersey, United 
+States
+
+USD693,693,128
+
+100% Medical, pharmaceutical research and 
+development and commercialization, 
+Switzerland
+
+100% Medical and pharmaceutical research 
+and development and manufacturing. 
+U.S.
+
+* 
+
+Limited liability company established in PRC
+
+The above table lists the subsidiaries of the Company which, in the opinion of the directors, principally affected 
+the results for the year or formed a substantial portion of the net assets of the Company. To give details of other 
+subsidiaries would, in the opinion of the directors, result in particulars of excessive length.
+
+2. 
+
+Summary of Significant Accounting Policies
+
+Basis of Presentation and Principles of Consolidation
+
+The  consolidated  financial  statements  of  the  Company  have  been  prepared  in  accordance  with  U.S.GAAP  and 
+the  disclosure  requirements  of  the  Hong  Kong  Companies  Ordinance.  The  consolidated  financial  statements 
+include  the  financial  statements  of  the  Company  and  its  subsidiaries.  All  significant  intercompany  transactions 
+and balances between the Company and its wholly-owned subsidiaries are eliminated upon consolidation.
+
+Use of Estimates
+
+The  preparation  of  the  consolidated  financial  statements  in  conformity  with  U.S.GAAP  requires  management 
+to  make  estimates  and  assumptions  that  affect  the  reported  amounts  of  assets  and  liabilities,  and  disclosures 
+of  contingent  assets  and  liabilities  at  the  date  of  the  financial  statements  and  the  reported  amounts  of  revenues 
+and  expenses  during  the  period.  Areas  where  management  uses  subjective  judgment  include,  but  are  not 
+limited  to,  estimating  the  useful  lives  of  long-lived  assets,  estimating  variable  consideration  in  product 
+sales  and  collaboration  revenue  arrangements,  assessing  the  impairment  of  long-lived  assets,  valuation  and 
+recognition  of  share-based  compensation  expenses,  realizability  of  deferred  tax  assets,  estimating  uncertain 
+tax  positions,  valuation  of  inventory,  estimating  the  allowance  for  credit  losses,  determining  defined  benefit 
+pension  plan  obligations,  measurement  of  right-of-use  assets  and  lease  liabilities,  estimates  related  to  research 
+and development accruals, estimates related to the sale of future royalty liability and the fair value of financial 
+instruments.  Management  bases  the  estimates  on  historical  experience,  known  trends  and  various  other 
+assumptions that are believed to be reasonable, the results of which form the basis for making judgments about 
+the carrying values of assets and liabilities and reported amounts of revenues and expenses. Actual results could 
+differ from these estimates.
+
+Recent Accounting Pronouncements
+
+New accounting standards which have been adopted
+
+In  December  2023,  the  Financial  Accounting  Standards  Board  (“FASB”)  issued  Accounting  Standards  Update 
+(“ASU”)  2023-09, Income Taxes  (Topic  740):  Improvements  to  Income  Tax  Disclosures.  This  update  requires 
+that  public  entities  on  an  annual  basis,  (1)  in  the  rate  reconciliation,  disclose  specific  categories  and  provide 
+additional  information  for  reconciling  items  that  meet  a  quantitative  threshold;  (2)  about  income  taxes  paid, 
+disclose  the  amount  of  income  taxes  paid  (net  of  refunds  received)  disaggregated  by  federal,  state,  and  foreign 
+taxes  and  by  individual  jurisdiction  in  which  income  taxes  paid  (net  of  refunds  received)  is  equal  to  or  greater 
+than  5  percent  of  total  income  taxes  paid  (net  of  refunds  received);  and  (3)  disclose  income  (or  loss)  from 
+continuing  operations  before  income  tax  expense  (or  benefit)  disaggregated  between  domestic  and  foreign 
+and  income  tax  expense  (or  benefit)  disaggregated  by  federal,  state,  and  foreign.  The  Company  adopted  ASU 
+2023-09  effective  December  31,  2025  on  a  prospective  basis.  Refer  to  Footnote  11  for  income  taxes  related 
+disclosures.
+
+10
+
+New accounting standards which have not yet been adopted
+
+In  December  2025,  the  FASB  issued  ASU  2025-10,  Government Grants (Topic 832): Accounting for 
+Government Grants Received by Business Entities  (ASU  2025-10),  which  establishes  authoritative  guidance 
+on  the  recognition,  measurement,  presentation,  and  disclosure  of  government  grants.  Under  ASU  2025-10, 
+government  grants  are  recognized  when  it  is  probable  that  the  entity  will  both  comply  with  the  conditions  of 
+the  grant  and  the  grant  will  be  received.  The  ASU  provides  specific  accounting  models  for  grants  related  to 
+assets  and  grants  related  to  income,  including  options  to  recognize  government  grants  as  deferred  income  or 
+as  a  reduction  of  the  asset’s  cost  basis.  The  ASU  also  requires  enhanced  disclosures  regarding  the  nature  of 
+government grants, significant terms and conditions, accounting policies applied, and amounts recognized in the 
+financial  statements.  ASU  2025-10  is  effective  for  fiscal  years  beginning  after  December  15,  2028,  including 
+interim  periods  within  those  fiscal  years,  with  early  adoption  permitted.  The  Company  is  currently  evaluating 
+the impact of adopting ASU 2025-10 on its consolidated financial statements and related disclosures.
+
+In  September  2025,  the  FASB  issued  ASU  2025-06, Intangibles – Goodwill and Other – Internal-Use Software 
+(Subtopic  350-40):  Targeted  Improvements  to  the  Accounting  for  Internal-Use  Software.  This  update  removes 
+all  references  to  prescriptive  and  sequential  software  development  stages  throughout  Subtopic  350-40.  The 
+update  requires  an  entity  to  start  capitalizing  software  costs  when  management  has  authorized  and  committed 
+to  funding  the  software  project,  and  it  is  probable  that  the  project  will  be  completed  and  the  software  will  be 
+used  to  perform  the  function  intended.  The  update  further  specifies  that  the  disclosures  in  Subtopic  360-10  are 
+required  for  all  capitalized  internal-use  software  costs.  This  update  is  effective  for  annual  reporting  periods 
+beginning  after  December  15,  2027,  and  interim  reporting  periods  within  those  annual  reporting  periods.  Early 
+adoption is permitted. The guidance can be applied using a prospective transition approach, a modified transition 
+approach that is based on the status of the project and whether software costs were capitalized before the date of 
+adoption, or a retrospective transition approach. The Company is currently evaluating the impact on its financial 
+statements of adopting this guidance.
+
+In  November  2024,  the  FASB  issued  ASU  2024-03, Income Statement – Reporting Comprehensive Income 
+– Expense Disaggregation Disclosures  (Subtopic  220-40):  Disaggregation  of  Income  Statement  Expenses. 
+This  update  requires  that  at  each  interim  and  annual  reporting  period  public  entities  disclose  (1)  the  amounts 
+of  purchases  of  inventory,  employee  compensation,  depreciation,  amortization,  and  depletion  in  commonly 
+presented  expense  captions;  (2)  certain  amounts  that  are  already  required  to  be  disclosed  under  current  GAAP 
+in  the  same  disclosure  as  the  other  disaggregation  requirements;  (3)  a  qualitative  description  of  the  amounts 
+remaining  in  relevant  expense  captions  that  are  not  separately  disaggregated  quantitatively;  and  (4)  the  total 
+amount  of  selling  expenses  and,  in  annual  reporting  periods,  the  definition  of  selling  expenses.  In  January 
+2025,  the  FASB  issued  ASU  2024-03,  Income Statement – Reporting Comprehensive Income – Expense 
+Disaggregation Disclosures  (Subtopic  220-40):  Clarifying  the  Effective  Date.  This  update  clarifies  that  ASU 
+2024-03 is effective for annual reporting periods beginning after December 15, 2026, and interim periods within 
+annual  reporting  periods  beginning  after  December  15,  2027.  Early  adoption  is  permitted.  The  Company  is 
+currently evaluating the impact on its financial statements of adopting this guidance.
+
+3. 
+
+Collaborative, Licensing and Other Arrangements
+
+The  Company  enters  into  collaborative  arrangements  for  the  research  and  development,  manufacture  and/
+or  commercialization  of  drug  products  and  drug  candidates.  To  date,  these  collaborative  arrangements  have 
+included  out-licenses  of  and  options  to  out-license  internally  developed  products  and  drug  candidates  to 
+other  parties,  in-licenses  of  products  and  drug  candidates  from  other  parties,  and  profit-  and  cost-sharing 
+arrangements.  These  arrangements  may  include  non-refundable  upfront  payments,  contingent  obligations 
+for  potential  development,  regulatory  and  commercial  performance  milestone  payments,  cost-sharing  and 
+reimbursement arrangements, royalty payments, and profit sharing.
+
+During  the  two  years  ended  December  31,  2025,  the  Company’s  other  revenue  consisted  primarily  of  royalty 
+revenue  from  IMDELLTRA®  sales  outside  of  China  under  the  Amgen  collaboration  agreement  and  revenue 
+generated under the Novartis broad markets agreement.
+
+11
+
+The  following  table  summarizes  total  other  revenue  recognized  for  the  years  ended  December  31,  2025  and 
+2024:
+
+Other Revenue
+
+Amgen royalty revenue
+Novartis broad markets revenue
+Other
+
+Total
+
+In-Licensing Arrangements – Commercial
+
+Amgen
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+40,733
+17,598
+2,641
+
+60,972
+
+7,841
+18,259
+4,595
+
+30,695
+
+In October 2019, the Company entered into a global strategic oncology collaboration with Amgen (as amended, 
+the  “Amgen  Collaboration  Agreement”)  for  the  commercialization  and  development  in  China  (excluding 
+Hong  Kong,  Macao  and  Taiwan)  (the  “Collaboration  Territory”),  of  Amgen’s  XGEVA®,  KYPROLIS®,  and 
+BLINCYTO®, and the joint global development of a portfolio of oncology assets in Amgen’s pipeline, with the 
+Company  responsible  for  development  and  commercialization  in  the  Collaboration  Territory.  The  agreement 
+became  effective  on  January  2,  2020,  following  approval  by  the  Company’s  shareholders  and  satisfaction  of 
+other closing conditions.
+
+Under  the  agreement,  the  Company  is  responsible  for  the  commercialization  of  XGEVA®,  KYPROLIS®  and 
+BLINCYTO®  in  the  Collaboration  Territory  for  so  long  as  each  product  is  sold  in  the  Collaboration  Territory 
+following  each  product’s  regulatory  approval  in  the  Collaboration  Territory.  Amgen  is  responsible  for 
+manufacturing  the  products  globally  and  supplying  the  products  to  the  Company  at  an  agreed  upon  price.  The 
+Company  and  Amgen  share  equally  in  the  Collaboration  Territory  commercial  profits  and  losses  during  the 
+commercialization period.
+
+Amgen  and  the  Company  are  also  jointly  developing  a  portfolio  of  Amgen  oncology  pipeline  assets  under  the 
+collaboration.  The  Company  is  responsible  for  conducting  clinical  development  activities  in  the  Collaboration 
+Territory  and  co-funding  global  development  costs  by  contributing  cash  and  development  services  up  to  a  total 
+cap  of  US$1,250,000,000.  Amgen  is  responsible  for  all  development,  regulatory  and  commercial  activities 
+outside  of  the  Collaboration  Territory.  For  each  pipeline  asset  that  is  approved  in  the  Collaboration  Territory, 
+the  Company  will  receive  commercial  rights  for  seven  years  from  approval.  The  Company  has  the  right  to 
+retain  approximately  one  out  of  every  three  approved  pipeline  assets,  other  than  LUMAKRAS®  (sotorasib) 
+(“AMG  510”),  Amgen’s  KRAS  G12C  inhibitor,  for  commercialization  in  the  Collaboration  Territory.  The 
+Company  and  Amgen  will  share  equally  in  the  Collaboration  Territory  commercial  profits  and  losses  during 
+the  commercialization  period.  The  Company  is  entitled  to  receive  royalties  from  sales  in  the  Collaboration 
+Territory  for  pipeline  assets  returned  to  Amgen  for  five  years  after  the  seven-year  commercialization  period. 
+The Company is also entitled to receive royalties from global sales of each product outside of the Collaboration 
+Territory (with the exception of AMG 510).
+
+In April 2022, the parties entered into the First Amendment to Amgen Collaboration Agreement, which amends 
+certain  terms  and  conditions  relating  to  the  financial  responsibilities  of  the  parties  in  connection  with  the 
+development and commercialization of certain Amgen proprietary products for the treatment of oncology-related 
+diseases  and  conditions.  In  connection  with  the  Company’s  ongoing  assessment  of  the  Amgen  Collaboration 
+Agreement  cost-share  contributions,  the  Company  determined  that  further  investment  in  the  development  of 
+LUMAKRAS® was no longer commercially viable for the Company. As a result, in February 2023, the Company 
+and  Amgen  entered  into  the  Second  Amendment  to  the  Amgen  Collaboration  Agreement  to  (i)  stop  sharing 
+costs with Amgen for the further development of LUMAKRAS® during the period starting January 1, 2023 and 
+ending  August  31,  2023;  and  (ii)  cooperate  in  good  faith  to  prepare  a  transition  plan  with  the  termination  of 
+LUMAKRAS® from the Amgen Collaboration Agreement.
+
+12
+
+In  October  2025,  the  parties  entered  into  the  Third  Amendment  to  Amgen  Collaboration  Agreement,  which 
+amends  certain  terms  and  conditions  relating  to  financial  responsibility  for  early  access  programs  in  certain 
+regions of the Collaboration Territory and commercial supply of IMDELLTRA® (tarlatamab-dlle). In November 
+2025, the parties entered into the Fourth Amendment to the Amgen Collaboration Agreement, which extends the 
+Company’s commercialization rights to certain products in the Collaboration Territory.
+
+The Amgen Collaboration Agreement is within the scope of ASC 808, as both parties are active participants and 
+are exposed to the risks and rewards dependent on the commercial success of the activities performed under the 
+agreement.  The  Company  is  the  principal  for  product  sales  to  customers  in  the  Collaboration  Territory  during 
+the  commercialization  period  and  will  recognize  100%  of  net  product  revenue  on  these  sales.  Amounts  due  to 
+Amgen for its portion of net product sales will be recorded as cost of sales. Cost reimbursements due to or from 
+Amgen  under  the  profit  share  will  be  recognized  as  incurred  and  recorded  to  cost  of  sales;  selling,  general  and 
+administrative  expense;  or  research  and  development  expense,  based  on  the  underlying  nature  of  the  related 
+activity  subject  to  reimbursement.  Costs  incurred  for  the  Company’s  portion  of  the  global  co-development 
+funding are recorded to research and development expense as incurred.
+
+In  connection  with  the  Amgen  Collaboration  Agreement,  a  Share  Purchase  Agreement  (“Amgen  SPA”)  was 
+entered into by the parties on October 31, 2019. On January 2, 2020, the closing date of the transaction, Amgen 
+purchased  15,895,001  of  the  Company’s  ADSs  for  US$174.85  per  ADS,  representing  a  20.5%  ownership  stake 
+in  the  Company.  Per  the  Amgen  SPA,  the  cash  proceeds  shall  be  used  as  necessary  to  fund  the  Company’s 
+development  obligations  under  the  Amgen  Collaboration  Agreement.  Pursuant  to  the  Amgen  SPA,  Amgen 
+also  received  the  right  to  designate  one  member  of  the  Company’s  Board,  and  Anthony  Hooper  joined  the 
+Company’s Board as the Amgen designee in January 2020. Amgen relinquished its right to appoint a designated 
+director to the Company’s board of directors in January 2023.
+
+In  determining  the  fair  value  of  the  common  stock  at  closing,  the  Company  considered  the  closing  price  of  the 
+common  stock  on  the  closing  date  of  the  transaction  and  included  a  lack  of  marketability  discount  because  the 
+shares  are  subject  to  certain  restrictions.  The  fair  value  of  the  shares  on  the  closing  date  was  determined  to  be 
+US$132.74 per ADS, or US$2,109,902,000 in the aggregate. The Company determined that the premium paid by 
+Amgen on the share purchase represents a cost share liability due to the Company’s co-development obligations. 
+The fair value of the cost share liability on the closing date was determined to be US$601,857,000 based on the 
+Company’s  discounted  estimated  future  cash  flows  related  to  the  pipeline  assets.  The  estimation  of  future  cash 
+flows  involved  management  assumptions  of  revenue  growth  rates  and  probability  of  technical  and  regulatory 
+success of the pipeline assets. The total cash proceeds of US$2,779,241,000 were allocated based on the relative 
+fair  value  method,  with  US$2,162,407,000  recorded  to  equity  and  US$616,834,000  recorded  as  a  research  and 
+development  cost  share  liability.  The  cost  share  liability  is  being  amortized  proportionately  as  the  Company 
+contributes cash and development services to its total co-development funding cap.
+
+Amounts  recorded  related  to  the  Company’s  portion  of  the  co-development  funding  on  the  pipeline  assets  for 
+the years ended December 31, 2025 and 2024 were as follows:
+
+BeOne’s portion of the development funding
+Less: Amortization of research and development cost share liability
+
+Year Ended December 31,
+
+2025
+US$’000
+
+205,238
+101,095
+
+2024
+US$’000
+
+148,391
+73,226
+
+Research and development expense
+
+104,143
+
+75,165
+
+Remaining portion of development funding cap
+
+As of December 
+31, 2025
+
+130,393
+
+13
+
+As  of  December  31,  2025  and  2024,  the  research  and  development  cost  share  liability  recorded  in  the 
+Company’s balance sheet was as follows:
+
+Research and development cost share liability, current portion
+Research and development cost share liability, non-current portion
+
+Total research and development cost share liability
+
+As of December 31,
+
+2025
+US$’000
+
+64,345
+–
+
+64,345
+
+2024
+US$’000
+
+111,154
+54,286
+
+165,440
+
+The net reimbursement paid under the commercial profit-sharing agreement for in-line product sales is classified 
+in the consolidated statements of operations for the two years ended December 31, 2025 as follows:
+
+Cost of sales – product
+Selling, general and administrative
+Research and development
+
+Total
+
+Year Ended December 31,
+
+2025
+US$’000
+
+35,985
+(99,448)
+(3,115)
+
+2024
+US$’000
+
+37,150
+(83,674)
+(2,438)
+
+(66,578)
+
+(48,962)
+
+The  Company  purchases  commercial  inventory  from  Amgen  to  distribute  in  the  Collaboration  Territory. 
+Total  inventory  purchases  amounted  to  US$263,896,000  and  US$247,655,000,  respectively,  during  the  years 
+ended  December  31,  2025  and  2024.  Net  amounts  payable  to  Amgen  as  of  December  31,  2025  and  2024  were 
+US$79,097,000 and US$116,563,000, respectively.
+
+Out-Licensing Arrangements
+
+Novartis
+
+Tislelizumab Collaboration and License
+
+In  January  2021,  the  Company  entered  into  a  collaboration  and  license  agreement  with  Novartis,  granting 
+Novartis  rights  to  develop,  manufacture  and  commercialize  tislelizumab  in  North  America,  Europe,  and 
+Japan  (the  “Novartis  Territory”).  The  Company  and  Novartis  agreed  to  jointly  develop  tislelizumab  in  these 
+licensed  countries,  with  Novartis  responsible  for  regulatory  submissions  after  a  transition  period  and  for 
+commercialization  upon  regulatory  approvals.  In  addition,  both  companies  had  the  ability  to  conduct  clinical 
+trials  globally  to  explore  combinations  of  tislelizumab  with  other  cancer  treatments,  and  the  Company  has  an 
+option to co-detail the product in North America, funded in part by Novartis.
+
+Under  the  agreement  the  Company  received  an  upfront  cash  payment  of  US$650,000,000  from  Novartis.  A 
+portion  of  the  transaction  price  was  allocated  to  the  R&D  services  to  be  performed  under  the  agreement  and 
+deferred  and  was  being  recognized  as  collaboration  revenue  as  the  R&D  services  were  performed  using  a 
+percentage-of-completion method.
+
+14
+
+In  September  2023,  the  Company  and  Novartis  agreed  to  mutually  terminate  the  collaboration  and  license 
+agreement,  effective  immediately.  Pursuant  to  the  termination  agreement,  the  Company  regained  full,  global 
+rights  to  develop,  manufacture  and  commercialize  tislelizumab  with  no  royalty  payments  due  to  Novartis. 
+Novartis  may  continue  its  ongoing  clinical  trials  and  has  the  ability  to  conduct  future  combination  trials  with 
+tislelizumab  subject  to  the  Company’s  approval.  The  Company  agreed  to  provide  Novartis  with  ongoing 
+clinical  supply  of  tislelizumab  to  support  its  clinical  trials.  Pursuant  to  the  termination  agreement,  Novartis 
+agreed to provide transition services to the Company to enable key aspects of the tislelizumab development and 
+commercialization  plan  to  proceed  without  disruption,  including  manufacturing,  regulatory,  safety  and  clinical 
+support. Upon termination of the agreement in September 2023, there were no further performance obligations, 
+and  the  remaining  deferred  revenue  balance  associated  with  the  tislelizumab  R&D  services  was  recognized  in 
+full.
+
+The  following  table  summarizes  collaboration  revenue  recognized  in  connection  with  the  tislelizumab 
+collaboration and license agreement for the years ended December 31, 2025 and 2024:
+
+Other 1
+
+Total
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+–
+
+–
+
+2,113
+
+2,113
+
+1 
+
+Represents revenue recognized on sale of tislelizumab clinical supply to Novartis in conjunction with the 
+collaboration.
+
+Ociperlimab Option, Collaboration and License Agreement and China Broad Market Development 
+Agreement
+
+In  December  2021,  the  Company  expanded  its  collaboration  with  Novartis  by  entering  into  an  option, 
+collaboration  and  license  agreement  with  Novartis  to  develop,  manufacture  and  commercialize  the  Company’s 
+investigational  TIGIT  inhibitor  ociperlimab  in  the  Novartis  Territory.  In  addition,  the  Company  and  Novartis 
+entered  into  an  agreement  granting  the  Company  rights  to  market,  promote  and  detail  five  approved  Novartis 
+oncology  products,  TAFINLAR ®  (dabrafenib),  MEKINIST ®  (trametinib),  VOTRIENT ®  (pazopanib), 
+AFINITOR® (everolimus), and ZYKADIA® (ceritinib), across designated regions of China referred to as “broad 
+markets.” In the first quarter of 2022, the Company initiated marketing and promotion of these five products.
+
+Under  the  terms  of  the  option,  collaboration  and  license  agreement,  the  Company  received  an  upfront  cash 
+payment  of  US$300,000,000.  At  inception,  a  portion  of  the  upfront  cash  payment  was  deferred  related  to 
+performance obligations to be satisfied at a later point in time or over time.
+
+In  July  2023,  the  Company  and  Novartis  mutually  agreed  to  terminate  the  ociperlimab  option,  collaboration 
+and  license  agreement,  effective  immediately.  Pursuant  to  the  termination  agreement,  the  Company  regained 
+full, global rights to develop, manufacture and commercialize ociperlimab. Upon termination the Company had 
+no  further  performance  obligations  under  the  collaboration,  and  all  remaining  deferred  revenue  balances  were 
+recognized in full. The China broad markets agreement remains in place.
+
+15
+
+The  following  table  summarizes  collaboration  revenue  recognized  in  connection  with  the  ociperlimab  option, 
+collaboration and license agreement for the years ended December 31, 2025 and 2024:
+
+Novartis broad markets revenue
+
+Total
+
+In-Licensing Arrangements – Development
+
+Year Ended December 31,
+
+2025
+US$’000
+
+17,598
+
+17,598
+
+2024
+US$’000
+
+18,259
+
+18,259
+
+The  Company  has  in-licensed  the  rights  to  develop,  manufacture  and,  if  approved,  commercialize  multiple 
+development  stage  drug  candidates  globally  or  in  specific  territories.  These  arrangements  typically  include 
+non-refundable  upfront  payments,  contingent  obligations  for  potential  development,  regulatory  and  commercial 
+performance milestone payments, cost-sharing arrangements, royalty payments, and profit sharing.
+
+Upfront  and  milestone  payments  made  under  these  arrangements  for  the  years  ended  December  31,  2025  and 
+2024  are  set  forth  below.  All  upfront  and  development  milestones  were  expensed  to  research  and  development 
+expense. All regulatory and commercial milestones were capitalized as intangible assets and are being amortized 
+over the remainder of the respective product patent or the term of the commercialization agreements.
+
+Payments due to collaboration partners Classification
+
+Upfront payments
+Development milestone payments
+Regulatory and commercial milestone 
+  payments
+
+Research and development expense
+Research and development expense
+
+Intangible asset
+
+Total
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+691
+–
+
+20,000
+
+60,027
+54,000
+
+–
+
+20,691
+
+114,027
+
+The  Company  has  entered  into  a  number  of  in-licensing  collaborative  arrangements  during  the  years  ended 
+December  31,  2025  and  2024.  A  summary  of  amounts  incurred  under  these  arrangements  is  included  above. 
+The  Company  may  be  required  to  pay  additional  amounts  upon  the  achievement  of  various  development 
+and  commercial  milestones  under  these  agreements.  The  Company  may  also  incur  significant  research  and 
+development  costs  if  the  related  product  candidate  were  to  advance  to  late-stage  clinical  trials.  In  addition, 
+if  any  products  related  to  these  collaborations  are  approved  for  sale,  the  Company  may  be  required  to  pay 
+significant  milestones  upon  approval  and  milestones  and/or  royalties  on  future  sales.  The  payment  of  these 
+amounts,  however,  is  contingent  upon  the  occurrence  of  various  future  events,  which  have  a  high  degree  of 
+uncertainty of occurrence.
+
+4. 
+
+Sale of Future IMDELLTRA® Royalties
+
+On August 25, 2025, the Company entered into an agreement (“Royalty Agreement”) to sell its royalty rights on 
+the  worldwide  sales,  excluding  China,  of  Amgen’s  IMDELLTRA®  (tarlatamab-dlle)  for  up  to  US$950,000,000 
+to  Royalty  Pharma  Investments  2023  ICAV  (“Royalty  Pharma”).  Under  the  terms  of  the  Royalty  Agreement, 
+the  Company  received  a  non-refundable  upfront  payment  of  US$885,000,000  upon  closing  of  the  Royalty 
+Agreement.  Subsequently,  the  Company  exercised  its  option  to  sell  additional  royalties  to  Royalty  Pharma  and 
+received  US$26,000,000  in  the  fourth  quarter  of  2025.  The  Company  will  share  in  a  portion  of  the  royalty  on 
+annual sales above US$1.5 billion, and will maintain royalty and all other rights to other assets under the terms 
+of its collaboration agreement with Amgen.
+
+16
+
+The  Company  evaluated  the  arrangement  and  determined  that  the  proceeds  from  the  sale  of  future 
+IMDELLTRA®  royalties,  as  well  as  the  option  to  sell  remaining  royalties  when  and  if  exercised,  should  be 
+treated  as  a  financing  liability  according  to  ASC  470, Debt  due  to  the  Company’s  continuing  involvement 
+with  the  Amgen  collaboration.  At  the  transaction  date,  the  Company  recognized  the  upfront  proceeds  of 
+US$885,000,000 and, subsequently, the option proceeds of US$26,000,000, as liabilities and is amortizing them 
+using  the  effective  interest  method  over  the  life  of  the  arrangement.  The  Company  imputes  interest  expense 
+associated  with  the  liability  using  the  effective  interest  rate  method.  The  effective  interest  rate  is  the  rate  that 
+equates  the  present  value  of  the  estimate  of  remaining  royalty  revenues  payable  to  Royalty  Pharma  with  the 
+carrying  amount  of  the  liability.  The  interest  rate  on  the  sale  of  future  royalty  liability  may  vary  during  the 
+term of the agreement depending on a number of factors, including the royalty revenues forecast. The Company 
+evaluates  the  interest  rate  quarterly  based  on  its  expectations  of  future  royalty  revenues,  historical  experience 
+and current market conditions using the prospective method. A significant increase or decrease in future royalty 
+revenues  will  materially  impact  the  timing  of  royalty  sale  liability  amortization,  interest  expense  and  the  time 
+period for repayment. The Company will assess the expected payments to Royalty Pharma quarterly, and, to the 
+extent the amount or timing of such payments is materially different than its initial estimates, the Company will 
+prospectively adjust the amortization of the liability and the related interest expense.
+
+The  repayment  of  this  obligation  to  Royalty  Pharma  will  be  made  upon  the  receipt  of  royalties  from  Amgen 
+throughout  the  royalty  period.  The  repayment  does  not  follow  a  fixed  repayment  schedule  and  will  be 
+recognized  over  the  life  of  the  royalty  stream,  which  is  expected  to  occur  through  at  least  2041.  The  Royalty 
+Agreement also contains customary representations, warranties, covenants, and indemnification provisions.
+
+As  of  December  31,  2025,  the  royalty  financing  obligation  recorded  in  the  Company’s  balance  sheet  was  as 
+follows:
+
+Sale of future royalty liability, current portion
+Sale of future royalty liability, non-current portion
+
+Total sale of future royalty liability
+
+As of
+December 31, 
+2025
+US$’000
+
+56,714
+850,242
+
+906,956
+
+The following table summarizes the sale of future royalty liability activity during the year ended December 31, 
+2025:
+
+Balance at August 25, 2025
+Proceeds from option exercise
+Payments to Royalty Pharma, excluding effective interest payments
+
+Balance at December 31, 2025
+
+Royalty Sale 
+Liability
+US$’000
+
+885,000
+26,000
+(4,044)
+
+906,956
+
+The  carrying  value  of  the  sale  of  future  royalty  liability  approximates  fair  value  as  of  December  31,  2025  and 
+is  based  on  the  Company’s  current  estimates  of  future  royalties  expected  to  be  paid  to  Royalty  Pharma  over 
+the  life  of  the  royalty  stream,  which  are  considered  Level  3  inputs.  The  Company  recognized  interest  expense 
+of US$19,760,000 related to this arrangement for the year ended December 31, 2025,  of which  US$14,180,000 
+was accrued as of December 31, 2025. The effective annual imputed interest rate was 6.4% as of December 31, 
+2025.
+
+17
+
+5. 
+
+Restricted Cash
+
+The  Company’s  restricted  cash  primarily  consist  of  RMB-denominated  cash  deposits  held  in  designated  bank 
+accounts for collateral for letters of credit and cash used to settle employee benefit obligations and related taxes. 
+The Company classifies restricted cash as current or non-current based on term of restriction. Restricted cash as 
+of December 31, 2025 and 2024 was as follows:
+
+Short-term restricted cash
+Long-term restricted cash
+
+Total
+
+As of December 31,
+
+2025
+US$’000
+
+41,284
+20,833
+
+62,117
+
+2024
+US$’000
+
+9,312
+2,025
+
+11,337
+
+In addition to the restricted cash balances above, the Company is required by the PRC securities law to use the 
+proceeds  from  the  STAR  Offering  in  strict  compliance  with  the  planned  uses  as  disclosed  in  the  PRC  offering 
+prospectus  as  well  as  those  disclosed  in  the  Company’s  proceeds  management  policy  approved  by  the  Board 
+of  the  Company.  As  of  December  31,  2025,  the  Company  had  cash  remaining  related  to  the  STAR  Offering 
+proceeds of US$146,253,000.
+
+6. 
+
+Investments
+
+The following table summarizes the Company’s investments in equity securities:
+
+As of December 31,
+
+2025
+US$’000
+
+2
+
+422
+32,732
+22,387
+
+55,543
+
+2024
+US$’000
+
+2,281
+
+40,798
+48,157
+33,081
+
+124,317
+
+Equity securities with readily determinable fair values 1
+Equity securities without readily determinable fair values
+  Pi Health, Inc. 2
+  Other 3
+Equity-method investments 4
+
+Total
+
+1 
+
+2 
+
+3 
+
+Represents  common  stock  and  warrants  to  purchase  additional  shares  of  common  stock  of  a 
+publicly-traded biotechnology company. The Company measures the investment in the common stock and 
+warrants  at  fair  value,  with  changes  in  fair  value  recorded  to  other  (expense)  income,  net.  In  the  fourth 
+quarter of 2025, the Company sold its common stock holdings.
+
+In  the  first  quarter  of  2024,  the  Company  divested  the  net  assets  comprising  substantially  all  of  its  Pi 
+Health  business  with  a  carrying  value  of  US$38,063,000.  The  consideration  received  for  the  divestiture 
+consisted of preferred stock in a newly formed entity, Pi Health, Inc., with a fair value of US$40,798,000 
+and  cash  consideration  of  US$1,000,000.  The  transaction  resulted  in  a  pre-tax  gain  of  US$3,735,000 
+recorded  within  other  (expense)  income,  net  during  year  ended  December  31,  2024.  The  Company 
+accounts  for  its  investment  as  a  private  equity  security  without  a  readily  determinable  fair  value,  and 
+the  divestiture  was  not  treated  as  a  discontinued  operation  in  the  Statement  of  Operations  and  therefore 
+the  historical  results  of  operations  of  the  Pi  Health  business  will  remain  in  the  Company’s  continuing 
+operations. In the fourth quarter of 2025, the Company recognized an impairment loss of US$40,376,000 
+within other (expense) income, net resulting from a decline in enterprise value in business reorganization.
+
+In the third quarter of 2025, the Company recognized an impairment loss of US$15,552,000 within other 
+(expense) income, net, resulting from a decline in the enterprise value related to a business acquisition of 
+one of its investees.
+
+18
+
+4 
+
+In  the  first  quarter  of  2025,  as  a  result  of  the  wind-down  of  the  operations  and  related  financial 
+obligations of one of the Company’s equity-method investments, the investment’s fair value was assessed 
+to  be  zero.  The  Company  recognized  an  other-than-temporary  impairment  loss  of  US$12,376,000  within 
+unrealized losses from equity-method investments.
+
+The  following  table  summarizes  realized  and  unrealized  losses  related  to  investments  in  equity  securities 
+recorded in other (expense) income, net:
+
+Equity securities with readily determinable fair values
+Equity securities without readily determinable fair values
+Equity-method investments
+
+Year Ended December 31,
+
+2025
+US$’000
+
+(1,252)
+(58,282)
+(14,982)
+
+2024
+US$’000
+
+(1,307)
+(7,596)
+(10,275)
+
+The following table summarizes the portion of unrealized losses that relates to equity securities still held by the 
+Company for the year ended December 31, 2025:
+
+Net losses recognized on equity securities
+Less: net losses recognized on equity securities sold
+
+Net unrealized losses on equity securities held at end of period
+
+7. 
+
+Accounts Receivable, Net
+
+Accounts receivable
+Less: Allowance for credit losses
+
+Total
+
+Year Ended 
+December 31,
+2025
+US$’000
+
+(74,516)
+(16,638)
+
+(57,878)
+
+As of December 31,
+
+2025
+US$’000
+
+866,518
+(1,438)
+
+2024
+US$’000
+
+677,270
+(992)
+
+865,080
+
+676,278
+
+The  Company’s  trading  terms  with  its  customers  are  mainly  on  credit  and  the  credit  periods  generally  range 
+from 30 to 120 days. The Company seeks to maintain strict control over its outstanding receivables and overdue 
+balances  are  regularly  reviewed.  The  Company  does  not  hold  any  collateral  or  other  credit  enhancements  over 
+its accounts receivable balances. Accounts receivable are non-interest-bearing. An aging analysis of the accounts 
+receivable, based on the invoice date, is as follows:
+
+As of December 31,
+
+2025
+US$’000
+
+863,927
+1,153
+
+2024
+US$’000
+
+676,278
+–
+
+865,080
+
+676,278
+
+Within 1 year
+Over 1 year
+
+Total
+
+19
+
+Changes in the allowance for credit losses related to trade accounts receivable consist of the following:
+
+Beginning balance, as of January 1
+Provision/(Reversal) for expected credit losses
+Written-off
+Exchange rate changes
+
+Ending balance, as of December 31
+
+8. 
+
+Leases
+
+As of December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+992
+527
+(79)
+(2)
+
+1,438
+
+2,026
+(1,034)
+(1)
+1
+
+992
+
+The  Company  has  operating  leases  for  office  and  manufacturing  facilities  in  the  U.S.,  Switzerland,  and  China. 
+The  leases  have  remaining  lease  terms  of  up  to  five  years,  some  of  which  include  options  to  extend  the  leases 
+that have not been included in the calculation of the Company’s lease liabilities and ROU assets. The Company 
+has  land  use  rights,  which  represent  land  acquired  for  the  biologics  manufacturing  facility  in  Guangzhou,  the 
+land  acquired  for  the  Company’s  research,  development  and  office  facility  in  Changping,  Beijing,  the  land 
+acquired for the Company’s research, development and manufacturing facility in Suzhou, and the land acquired 
+for  the  Company’s  research  and  development  facility  in  Shanghai.  The  Company  also  has  certain  leases  with 
+terms of 12 months or less for certain equipment, office and lab space, which are expensed and not recorded on 
+the balance sheet.
+
+The components of lease expense were as follows:
+
+Operating lease cost
+Variable lease cost
+Short-term lease cost
+
+Total lease cost
+
+Supplemental balance sheet information related to leases was as follows:
+
+Operating lease right-of-use assets
+Land use rights, net
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+24,899
+4,282
+1,804
+
+30,985
+
+26,575
+4,580
+2,897
+
+34,052
+
+As of December 31,
+
+2025
+US$’000
+
+69,306
+78,878
+
+2024
+US$’000
+
+60,639
+78,670
+
+Total operating lease right-of-use assets
+
+148,184
+
+139,309
+
+Current portion of operating lease liabilities
+Operating lease liabilities, non-current portion
+
+Total lease liabilities
+
+20,698
+52,940
+
+73,638
+
+17,576
+44,277
+
+61,853
+
+20
+
+Maturities of operating lease liabilities are as follows:
+
+Year ending December 31, 2026
+Year ending December 31, 2027
+Year ending December 31, 2028
+Year ending December 31, 2029
+Year ending December 31, 2030
+Thereafter
+
+Total lease payments
+Less imputed interest
+
+Present value of lease liabilities
+
+Other supplemental information related to leases is summarized below:
+
+Operating cash flows used in operating leases
+ROU assets obtained in exchange for new operating lease liabilities
+
+Weighted-average remaining lease term (years)
+Weighted-average discount rate
+
+9. 
+
+Property, Plant and Equipment, Net
+
+Amounts
+US$’000
+
+23,653
+21,761
+16,453
+11,173
+6,641
+888
+
+80,569
+(6,931)
+
+73,638
+
+Year ended December 31,
+
+2025
+US$’000
+
+24,000
+29,826
+
+2024
+US$’000
+
+56,005
+47,066
+
+As of December 31,
+
+2025
+
+4
+5.02%
+
+2024
+
+4
+5.23%
+
+Property,  plant  and  equipment,  net  are  recorded  at  cost  less  accumulated  depreciation  and  consisted  of  the 
+following:
+
+Land
+Building
+Manufacturing equipment
+Laboratory equipment
+Software, electronics and office equipment
+Leasehold improvements
+
+Property and equipment, at cost
+Less: Accumulated depreciation
+Construction in progress
+
+As of December 31,
+
+2025
+US$’000
+
+71,434
+1,187,836
+273,769
+309,471
+124,136
+76,568
+
+2,043,214
+(528,695)
+127,159
+
+2024
+US$’000
+
+65,485
+607,857
+244,255
+240,885
+100,348
+64,680
+
+1,323,510
+(399,105)
+654,018
+
+Property, plant and equipment, net
+
+1,641,678
+
+1,578,423
+
+21
+
+The  Company  has  made  a  significant  investment  in  its  newly  opened  manufacturing  and  R&D  center  in 
+Hopewell,  New  Jersey.  In  the  year  ended  December  31,  2025,  US$469,006,000  of  assets  were  placed  into 
+service.  As  of  December  31,  2025,  the  Company  had  construction  in  progress  of  US$91,390,000  related  to  the 
+Hopewell facility, the majority of which will be put into service in 2026.
+
+Construction  in  progress  (“CIP”)  as  of  December  31,  2025  and  2024  primarily  related  to  the  Hopewell  facility 
+and the research and development facility acquired in 2024. CIP by fixed asset class are summarized as follows:
+
+Manufacturing equipment
+Laboratory equipment
+Building
+Other
+
+Total
+
+As of December 31,
+
+2025
+US$’000
+
+92,673
+7,997
+16,442
+10,047
+
+2024
+US$’000
+
+89,897
+9,805
+528,629
+25,687
+
+127,159
+
+654,018
+
+Depreciation  expense  for  the  years  ended  December  31,  2025  and  2024  were  US$131,615,000  and 
+US$166,938,000,  respectively.  Included  within  depreciation  expense  for  the  year  ended  December  31,  2024  is 
+US$59,792,000  of  accelerated  depreciation  expense  resulting  from  the  move  of  production  to  more  efficient, 
+larger scale equipment for TEVIMBRA.
+
+10. 
+
+Intangible Assets, Net
+
+Intangible assets as of December 31, 2025 and 2024 are summarized as follows:
+
+December 31, 2025
+
+December 31, 2024
+
+Gross
+carrying
+amount
+US$’000
+
+77,486
+8,987
+
+Accumulated
+amortization
+US$’000
+
+Intangible
+assets, net
+US$’000
+
+(15,291)
+(8,478)
+
+62,195
+509
+
+Gross
+carrying
+amount
+US$’000
+
+62,889
+8,987
+
+Accumulated
+amortization
+US$’000
+
+Intangible
+assets, net
+US$’000
+
+(12,370)
+(8,411)
+
+50,519
+576
+
+Finite-lived intangible assets:
+Developed products
+Other
+
+Total finite-lived intangible assets
+
+86,473
+
+(23,769)
+
+62,704
+
+71,876
+
+(20,781)
+
+51,095
+
+Developed  products  represent  post-approval  milestone  payments  under  license  and  commercialization 
+agreements.  The  Company  is  amortizing  the  developed  products  over  the  remainder  of  the  respective  product 
+patent or the term of the commercialization agreements.
+
+Amortization  expense  for  developed  products  is  included  in  cost  of  sales-product  in  the  accompanying 
+consolidated  statements  of  operations.  Amortization  expense  for  other  intangible  assets  is  included  in 
+selling,  general  and  administrative  expense  in  the  accompanying  consolidated  statements  of  operations.  The 
+weighted-average life for each finite-lived intangible assets is approximately 10 years. Amortization expense is 
+as follows:
+
+Amortization expense – Cost of sales – product
+Amortization expense – Selling, general and administrative
+
+Total
+
+22
+
+Year Ended December 31,
+
+2025
+US$’000
+
+10,004
+67
+
+10,071
+
+2024
+US$’000
+
+4,729
+95
+
+4,824
+
+Estimated amortization expense for each of the five succeeding years and thereafter, as of December 31, 2025 is 
+as follows:
+
+Year Ending December 31,
+
+2026
+2027
+2028
+2029
+2030
+2031 and thereafter
+
+Total
+
+11. 
+
+Income Taxes
+
+Cost of Sales – 
+Product
+US$’000
+
+Selling, 
+General and 
+Administrative 
+Expense
+US$’000
+
+6,226
+6,226
+6,226
+6,226
+6,226
+31,065
+
+62,195
+
+67
+67
+67
+67
+67
+174
+
+509
+
+Total
+US$’000
+
+6,293
+6,293
+6,293
+6,293
+6,293
+31,239
+
+62,704
+
+The components of income (loss) before income taxes are as follows:
+
+Switzerland
+U.S.
+PRC
+Other
+
+Total
+
+Year Ended December 31,
+
+2025
+US$’000
+
+189,967
+203,189
+(66,300)
+89,998
+
+2024
+US$’000
+
+277,710
+201,516
+(263,159)
+(749,068)
+
+416,854
+
+(533,001)
+
+The  current  and  deferred  components  of  the  income  tax  expense  (benefit)  from  continuing  operations  are  as 
+follows:
+
+Current tax expense
+Switzerland
+U.S.
+PRC
+Other
+
+Total
+
+Deferred tax expense (benefit)
+Switzerland
+U.S.
+PRC
+Other
+
+Total
+
+Income tax expense
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+82
+39,305
+23,133
+57,932
+
+120,452
+
+–
+6,039
+5,450
+(2,020)
+
+9,469
+
+2
+57,222
+12,331
+16,223
+
+85,778
+
+–
+23,556
+180
+2,271
+
+26,007
+
+129,921
+
+111,785
+
+23
+
+The  Company  established  tax  residency  in  Switzerland  upon  the  Continuation  and  adopted  ASU  2023-09  on  a 
+prospective  basis  beginning  with  the  year  ended  December  31,  2025.  The  following  table  presents  the  required 
+disclosure pursuant to ASC 2023-09 and reconciles the Switzerland federal statutory tax amount and rate to the 
+Company’s actual global effective income tax amount and rate for the year ended December 31, 2025:
+
+Income before income taxes
+Switzerland federal statutory tax rate
+State and local income tax, net of federal income tax effect1
+
+Foreign tax effects
+  United States
+
+  Statutory tax rate difference between the U.S. and Switzerland
+  State and local income tax, net of federal income tax effect2
+  Share-based payment awards
+  Foreign-derived intangible income
+  Unremitted earnings
+  Research tax credits and incentives
+  Changes in valuation allowances
+  Other
+
+  China
+
+  Statutory tax rate difference between China and Switzerland
+  Share-based payment awards
+  Non-deductible business expenses
+  Research tax credits and incentives
+  Effect of changes in tax rates
+  Deferred asset adjustment
+  Changes in valuation allowances
+  Other
+  Australia
+
+  Statutory tax rate difference between Australia and Switzerland
+  Share-based payment awards
+  Changes in valuation allowances
+  Other
+  Germany
+
+  Statutory tax rate difference between Germany and Switzerland
+  Share-based payment awards
+  Other
+Italy
+  Changes in valuation allowances
+  Other
+
+  Cayman Islands
+
+  Statutory tax rate difference between Cayman Islands and 
+
+  Switzerland
+
+  Other
+
+  Japan
+  Brazil
+Other foreign jurisdictions
+Changes in valuation allowance
+Changes in unrecognized tax benefits
+Other adjustments
+
+Effective tax rate
+
+Year Ended December 31, 2025
+
+US$’000
+
+416,854
+35,433
+(1,789)
+
+Percent
+
+8.5%
+(0.4)%
+
+25,399
+9,610
+(17,702)
+(15,337)
+6,039
+(35,048)
+47,084
+960
+
+(2,122)
+37,822
+12,676
+(23,404)
+5,283
+10,239
+(19,272)
+3,839
+
+9,089
+3,076
+16,013
+421
+
+2,453
+2,158
+(2,671)
+
+4,260
+2,360
+
+4,253
+59
+1,928
+1,827
+3,055
+(12,725)
+16,208
+(1,553)
+
+129,921
+
+6.1%
+2.3%
+(4.2)%
+(3.7)%
+1.4%
+(8.4)%
+11.3%
+0.2%
+
+(0.5)%
+9.1%
+3.0%
+(5.6)%
+1.3%
+2.5%
+(4.6)%
+0.9%
+
+2.2%
+0.7%
+3.8%
+0.1%
+
+0.6%
+0.5%
+(0.6)%
+
+1.0%
+0.6%
+
+1.0%
+0.0%
+0.5%
+0.4%
+0.7%
+(3.1)%
+3.9%
+(0.4)%
+
+31.2%
+
+1. 
+
+2. 
+
+Local  taxes  in  Basel-Stadt  canton  made  up  the  majority  (greater  than  50%)  of  the  tax  effect  in  this 
+category.
+
+State  taxes  in  Kentucky,  Tennessee,  New  York,  and  New  York  City  made  up  the  majority  (greater  than 
+50%) of the tax effect in this category.
+
+24
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  following  table  presents  the  required  disclosures  prior  to  the  adoption  of  ASU  2023-09  and  reconciles  the 
+U.S. statutory tax rate to the Company’s effective income tax rate for the year ended December 31, 2024:
+
+Year Ended 
+December 31,
+2024
+US$’000
+
+(533,001)
+21%
+(111,930)
+
+93,741
+1,130
+53,446
+(7,988)
+157,286
+–
+(43,602)
+(13,644)
+23,743
+(40,397)
+
+111,785
+
+(21.0)%
+
+Year Ended December 31,
+
+2025
+US$’000
+
+168,454
+1,338,800
+42,236
+40,224
+704,928
+1,020,858
+14,960
+361,557
+
+2024
+US$’000
+
+121,549
+1,137,890
+38,397
+34,561
+704,928
+1,081,442
+11,882
+277,061
+
+3,692,017
+(3,648,017)
+
+3,407,710
+(3,403,505)
+
+44,000
+
+(53,199)
+(29,995)
+(14,015)
+
+4,205
+
+(10,795)
+(23,735)
+(11,682)
+
+(97,209)
+
+(46,212)
+
+(53,209)
+
+(42,007)
+
+Loss before tax
+U.S. statutory tax rate
+Expected taxation at U.S. statutory tax rate
+
+Foreign and preferential tax rate differential
+Non-deductible expenses
+Share-based payment awards
+State tax (benefit)
+Change in valuation allowance
+Tax relief credits
+Research tax credits and incentives
+Deductible research expenses
+Tax on unremitted earnings
+Foreign-derived intangible income
+
+Taxation for the year
+
+Effective tax rate
+
+Significant components of deferred tax assets (liabilities) are as follows:
+
+Accruals and reserves
+Net operating losses carryforward
+Share-based compensation
+Research tax credits
+Tax relief credits
+Intangible asset amortization
+Lease liability
+R&D and other capitalized costs
+
+Total gross deferred tax assets
+Less: valuation allowance
+
+Net deferred tax assets
+
+Property, plant and equipment, net
+Tax on unremitted earnings
+Right of use asset
+
+Total gross deferred tax liabilities
+
+Net deferred tax assets/(liabilities)
+
+25
+
+Valuation  allowances  have  been  provided  on  deferred  tax  assets  where,  based  on  all  available  evidence,  it 
+was  considered  more  likely  than  not  that  some  portion  or  all  of  the  recorded  deferred  tax  assets  will  not  be 
+realized  in  future  periods.  After  consideration  of  all  positive  and  negative  evidence,  the  Company  believes 
+that as of  December 31, 2025, it is more likely than not that certain deferred tax assets will not be realized for 
+the  Company’s  subsidiaries  in  Australia,  Switzerland,  the  U.S.  and  certain  subsidiaries  in  China.  For  the  years 
+ended  December  31,  2025  and  2024,  there  was  an  increase  in  the  valuation  allowance  of  US$158,816,000  and 
+US$157,286,000,  respectively.  Adjustments  could  be  required  in  the  future  if  the  Company  estimates  that  the 
+amount of deferred tax assets to be realized is more or less than the net amount recorded.
+
+During  2025,  the  Company  reevaluated  its  indefinite  reinvestment  assertions  and  concluded  that  a  portion  of 
+earnings from certain subsidiaries, primarily in the U.S., Canada, Argentina and Israel, are no longer indefinitely 
+reinvested.  Accordingly,  the  Company  recognized  a  deferred  tax  liability  of  US$29,995,000,  representing  the 
+estimated withholding taxes that would be incurred upon the future distribution of these earnings. The Company 
+continues  to  assert  that  earnings  in  its  other  jurisdictions  remain  indefinitely  reinvested.  The  Company  has  not 
+recorded a deferred tax liability for these jurisdictions because the determination of the amount of the associated 
+unrecognized deferred tax liability is not practicable, as it depends on the timing, manner, and tax consequences 
+of potential future distributions, all of which remain uncertain.
+
+The valuation allowances for the years ended December 31, 2025 and 2024 were as follows:
+
+Beginning balance, as of January 1
+Additions/(subtractions) charged to income tax provision
+Additions/(subtractions) charged to equity
+Currency translation and other
+
+Year Ended December 31,
+
+2025
+US$’000
+
+3,403,505
+158,816
+50,721
+34,975
+
+2024
+US$’000
+
+2,771,470
+157,286
+497,823
+(23,074)
+
+Ending balance, as of December 31
+
+3,648,017
+
+3,403,505
+
+As of December 31, 2025 and 2024, the Company had net operating losses of approximately US$7,598,546,000 
+and  US$6,720,659,000,  respectively.  As  of  December  31,  2025,  net  operating  losses  were  primarily  comprised 
+of: US$2,239,157,000 from entities in the PRC which expire in years 2026 through 2035; and US$5,359,251,000 
+derived  from  Switzerland  which  expires  in  years  2026  through  2032.  The  Company  has  approximately 
+US$50,843,000  of  U.S.  research  tax  credits  which  will  expire  between  2037  and  2045  and  approximately 
+US$704,928,000 of Switzerland tax relief credits which will expire in 2028, if not utilized.
+
+The gross unrecognized tax benefits for the years ended December 31, 2025 and 2024 were as follows:
+
+Beginning balance, as of January 1
+Additions based on tax positions related to prior tax years
+Reductions based on tax positions related to prior tax years
+Additions based on tax positions related to the current tax year
+Reductions based on lapse of statute of limitations
+
+Ending balance, as of December 31
+
+Year Ended December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+17,239
+5,957
+–
+4,639
+–
+
+27,835
+
+14,264
+–
+–
+2,975
+–
+
+17,239
+
+Current  and  prior  year  additions  include  assessment  of  U.S.  federal  and  state  tax  credits  and  incentives  and 
+intercompany  positions  taken  in  China.  As  of  December  31,  2025,  the  Company  had  US$27,835,000  of 
+unrecognized  tax  benefits  substantially  all  of  which,  if  recognized,  would  reduce  the  effective  tax  rate.  The 
+Company  does  not  anticipate  that  the  amount  of  existing  unrecognized  tax  benefits  will  significantly  change 
+within the next 12 months.
+
+26
+
+The  Company  has  elected  to  record  interest  and  penalties  related  to  income  taxes  as  a  component  of  income 
+tax  expense.  For  the  year  ended  December  31,  2025,  the  Company’s  accrued  interest  and  penalties  were 
+US$2,676,000  related  to  positions  taken  in  the  U.S.  and  US$3,264,000  related  to  positions  taken  in  China.  For 
+the  year  ended  December  31,  2024,  the  Company’s  accrued  interest  and  penalties,  where  applicable,  related  to 
+uncertain tax positions were not material.
+
+The  Company  conducts  business  in  a  number  of  tax  jurisdictions  and,  as  such,  is  required  to  file  income 
+tax  returns  in  multiple  jurisdictions  globally.  As  of  December  31,  2025,  Australia  tax  matters  are  open  to 
+examination  for  the  years  2014  through  2025,  China  tax  matters  are  open  to  examination  for  the  years  2015 
+through  2025,  Switzerland  tax  matters  are  open  to  examination  for  the  years  2021  through  2025,  and  U.S. 
+federal  tax  matters  are  open  to  examination  for  years  2016  through  2025.  Other  U.S.  states  and  non-US  tax 
+jurisdictions in which the Company files tax returns remain open to examination for 2015 through 2025. Various 
+U.S.,  foreign  and  state  income  tax  returns  are  currently  under  examination  by  taxing  authorities,  with  potential 
+income  tax  liabilities  estimated  and  updated  in  light  of  available  facts  and  circumstances.  Due  to  the  uncertain 
+and  complex  application  of  income  tax  regulations  globally,  it  is  possible  that  the  ultimate  resolution  of  audits 
+may result in liabilities that could be materially different from original estimates. In such an event, the Company 
+will record additional income tax expense or income tax benefit in the period in which such resolution occurs.
+
+The  following  table  summarizes  income  taxes  paid,  net  of  refunds  received,  for  the  year  ended  December  31, 
+2025, as required by ASU 2023-09:
+
+U.S. federal
+U.S. state and local
+  Kentucky
+  Other
+Foreign
+  China
+  Australia
+Italy
+  Other
+
+Total income taxes paid
+
+The following table presents income taxes paid for the year ended December 31, 2024:
+
+Income taxes paid
+
+Year Ended
+ December 31,
+2025
+US$’000
+
+40,500
+
+6,065
+3,831
+
+15,472
+14,575
+5,691
+14,547
+
+100,681
+
+Year Ended
+ December 31,
+2024
+US$’000
+
+69,430
+
+The  Company  qualifies  for  the  Technology  Advanced  Service  Enterprises  and  High  and  New  Technology 
+Enterprise  status  for  certain  subsidiaries  in  China,  which  began  to  expire  at  the  end  of  2025.  The  income  tax 
+benefits attributable to this status for the year ended December 31, 2025 is approximately US$5,953,000, or less 
+than US$0.01 per share outstanding.
+
+27
+
+ 
+12. 
+
+Supplemental Balance Sheet Information
+
+Inventories, net consisted of the following:
+
+Raw materials
+Work in process
+Finished goods
+
+Total inventories, net
+
+Prepaid expenses and other current assets consist of the following:
+
+Prepaid research and development costs
+Short-term restricted cash
+Prepaid taxes
+Other receivables
+Prepaid general and administrative expenses
+Prepaid insurance
+Prepaid manufacturing cost
+Other current assets
+
+As of December 31,
+
+2025
+US$’000
+
+236,190
+122,681
+249,356
+
+2024
+US$’000
+
+170,584
+60,118
+264,284
+
+608,227
+
+494,986
+
+As of December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+52,594
+41,284
+42,232
+21,781
+22,209
+9,759
+3,935
+18,958
+
+64,277
+9,312
+23,792
+32,828
+21,253
+6,242
+19,333
+15,882
+
+Total
+
+212,752
+
+192,919
+
+Other non-current assets consist of the following:
+
+Long-term investments
+Long-term restricted cash
+Rental deposits and other
+Prepayment of property and equipment
+Prepaid VAT
+Prepaid supply cost
+
+As of December 31,
+
+2025
+US$’000
+
+61,678
+20,833
+10,470
+4,964
+3,504
+969
+
+2024
+US$’000
+
+128,933
+2,025
+8,481
+5,927
+2,875
+12,249
+
+Total
+
+102,418
+
+160,490
+
+28
+
+Accrued expenses and other payables consisted of the following:
+
+Compensation related
+Sales rebates and returns related
+External research and development activities related
+Commercial activities
+Accrued general and administrative expenses
+Individual income tax and other taxes
+Other
+
+As of December 31,
+
+2025
+US$’000
+
+305,055
+398,533
+156,525
+118,449
+36,635
+60,359
+33,564
+
+2024
+US$’000
+
+248,348
+235,600
+154,269
+77,530
+31,106
+34,904
+21,956
+
+Total
+
+1,109,120
+
+803,713
+
+Other long-term liabilities consist of the following:
+
+Deferred government grant income
+Pension liability
+Asset retirement obligation
+Other
+
+Total
+
+13.  Accounts Payable
+
+As of December 31,
+
+2025
+US$’000
+
+2024
+US$’000
+
+28,979
+18,170
+3,565
+29,531
+
+80,245
+
+30,324
+16,405
+3,794
+16,212
+
+66,735
+
+An aging analysis of the accounts payables as of December 31, 2025 and 2024, based on the invoice date, is as 
+follows:
+
+Within 1 year
+Over 1 year
+
+Total
+
+As of December 31,
+
+2025
+US$’000
+
+478,383
+652
+
+2024
+US$’000
+
+404,738
+259
+
+479,035
+
+404,997
+
+The accounts payable are non-interest-bearing and repayable within the normal operating cycle or on demand.
+
+29
+
+14.  Debt
+
+Facilities Agreement
+
+In  November  2025,  BeOne  Medicines  Ltd.  entered  into  the  Facilities  Agreement  (the  “Facilities  Agreement”), 
+by  and  among  certain  subsidiaries  of  the  Company,  as  guarantors,  the  Hongkong  and  Shanghai  Banking 
+Corporation  Limited  (“HSBC”),  as  global  coordinator,  original  mandated  lead  arranger  and  bookrunner,  agent 
+and security agent, and certain financial institutions listed in the Facilities Agreement, as lenders. The Facilities 
+Agreement  provides  for  a  US$140,000,000  U.S.  dollar-denominated,  2-year,  B1  revolving  credit  facility  (the 
+“B1  Revolving  Loan  Facility”),  a  US$560,000,000  U.S.  dollar-denominated,  2-year,  B2  term  loan  facility  (the 
+“B2  Term  Loan  Facility”  and,  together  with  the  B1  Revolving  Loan  Facility,  the  “B  Loan  Facilities”),  and  a 
+RMB2,150,000,000  Renminbi-denominated,  3-year,  A  term  loan  facility  (the  “A  Loan  Facility”)  (collectively, 
+the  “Loan  Facilities”).  Subsequently,  the  Company  consummated  the  refinancing  of  its  short-term  working 
+capital loans of US$768,375,000 in aggregate through the proceeds from the B2 Term Loan Facility and A Loan 
+Facility.
+
+The following table presents outstanding borrowings under the Facilities Agreement:
+
+A Loan Facility
+Less: unamortized debt issuance costs
+
+Total short-term debt
+
+A Loan Facility
+B2 Term Loan Facility
+Less: unamortized debt issuance costs
+
+Total long-term debt
+
+As of 
+December 31,
+2025
+US$’000
+
+12,298
+(3,235)
+
+9,063
+
+295,152
+560,000
+(18,783)
+
+836,369
+
+The A Loan Facility requires repayment of 4% of the aggregate amount outstanding every six months beginning 
+on November 24, 2026, with all remaining principal outstanding due on November 24, 2028. The B2 Term Loan 
+Facility requires repayment of 10% of the aggregate amount outstanding every three months beginning on June 
+15, 2027, with all remaining principal outstanding due on December 15, 2027, unless the final repayment date is 
+extended. The Company may voluntarily prepay borrowings, in whole or in part, under the Facilities Agreement 
+without  premium  or  penalty.  The  Facilities  Agreement  also  contains  certain  customary  mandatory  prepayment 
+provisions in the event that the Company undergoes a change of control and in relation to disposal and insurance 
+proceeds.
+
+The A Loan Facility is subject to an interest rate equal to the Reference Rate (RMB) (as defined in the Facilities 
+Agreement) plus a margin of 0.65% per annum. The B Loan Facilities are subject to an interest rate equal to the 
+Reference  Rate  (USD)  (as  defined  in  the  Facilities  Agreement)  plus  a  margin  of  2.40%  per  annum.  In  addition 
+to paying interest on the outstanding principal, the Company is also required to pay a commitment fee of 0.85% 
+on the undrawn and uncancelled amounts under the Loan Facilities.
+
+As of December 31, 2025, the B1 Revolving Loan Facility was available for borrowing. Excluding commitment 
+fees, the interest rate for the A Loan Facility and B2 Term Loan Facility was 3.65% and 6.10%, respectively, as 
+of December 31, 2025.
+
+The Loan Facilities are guaranteed by BeOne Medicines UK, Ltd., BeOne Medicines US Holdings, LLC, BeOne 
+Medicines I GmbH, BeOne Medicines (Hong Kong) Co., Limited, BeOne Medicines Aus Pty Ltd, BG NC, Ltd., 
+BG  NC,  Ltd.,  BeOne  Medicines  Hopewell  Urban  Renewal,  LLC,  BeOne  Medicines  US  Manufacturing  Co., 
+Inc.,  BeOne  Medicines  Treasury  Ltd.,  and  BeOne  Medicines  USA,  Inc.  (collectively,  “Guarantors”).  Except  as 
+otherwise  provided  by  applicable  law,  all  obligations  under  the  Loan  Facilities  are  unconditionally  guaranteed 
+jointly and severally by the Guarantors.
+
+30
+
+

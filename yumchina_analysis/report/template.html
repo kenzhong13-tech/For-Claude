@@ -1,0 +1,1030 @@
+<title>百胜中国财务分析报告</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="百胜中国（HKEX: 9987 / NYSE: YUMC）中文财务分析：肯德基、必胜客业务与财务表现、现金与债务、对同店销售与汇率的敏感性、未来规划、与 15 家港股餐饮企业的同业对比、以恒生指数为基准的波动率分析和事件研究，以及波动率套利可行性与周期性的统计检验。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap">
+<style>
+/*__BASE_CSS__*/
+/* Edition accent: a muted cranberry for a quick-service restaurant operator, used for headings and navigation only.
+   The chart palette keeps its fixed roles: the company orange (c2/f2), the market blue (c1), the sector green (c3),
+   with purple (c7) for a model or a second series. */
+:root { --accent: #a3283c; --accent-ink: #8a1f31; --info-bg: #fbedef; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #f08a99; --accent-ink: #f5a9b4; --info-bg: #2a161a; } }
+:root[data-theme="dark"] { --accent: #f08a99; --accent-ink: #f5a9b4; --info-bg: #2a161a; }
+.chart .vlab-in.dark { fill: #121722; }
+.tt-k.f3 { background: var(--s3); } .tt-k.f4 { background: var(--s4); } .tt-k.c7, .tt-k.f7 { background: var(--s7); } .tt-k.fmid { background: var(--mid); }
+.ticker { letter-spacing: .04em; }
+.tbl tr.me td { background: color-mix(in srgb, var(--accent) 9%, transparent); font-weight: 500; }
+.tbl td.sub, .tbl th.sub { color: var(--muted); }
+#tbl-dep td:nth-child(-n+2), #tbl-cal td:first-child, #tbl-season td:first-child, #tbl-sens td:nth-child(-n+2), #tbl-peer-fin td:first-child,
+#tbl-rule td:nth-child(-n+2), #tbl-leadlag td:first-child, #tbl-cycles td, #tbl-fdr td:first-child, #tbl-oos td:first-child, #tbl-bal td:first-child,
+#tbl-quarters td:first-child, #tbl-kpi td:first-child, #tbl-iv td:first-child { white-space: nowrap; }
+.verdict { display: grid; gap: 6px; margin: 10px 0 4px; padding: 0; list-style: none; }
+.verdict li { display: grid; grid-template-columns: 6.5em 1fr; gap: 10px; align-items: baseline; padding: 8px 12px; border-radius: 8px; background: var(--chip); }
+.verdict .pill { font-size: 12px; font-weight: 700; text-align: center; padding: 2px 6px; border-radius: 999px; color: var(--surface); }
+.verdict .no { background: var(--neg); } .verdict .weak { background: var(--warn); color: #1a1a1a; } .verdict .yes { background: var(--pos); }
+@media print {
+  #tbl-peer-vol, #tbl-peer-fin, #tbl-annual, #tbl-factors, #tbl-exdiv, #tbl-kpi, #tbl-quarters, #tbl-bal, #tbl-sens, #tbl-iv, #tbl-oos,
+  #tbl-cal, #tbl-dep, #tbl-season, #tbl-fdr, #tbl-rule, #tbl-leadlag, #tbl-global, #tbl-cycles, #tbl-guidance, #tbl-cat { font-size: 10.5px; }
+  #tbl-risk, #tbl-year { font-size: 10px; }
+  #tbl-risk th, #tbl-risk td, #tbl-year th, #tbl-year td, #tbl-peer-vol th, #tbl-peer-vol td, #tbl-peer-fin th, #tbl-peer-fin td,
+  #tbl-annual th, #tbl-annual td, #tbl-factors th, #tbl-factors td, #tbl-exdiv th, #tbl-exdiv td, #tbl-kpi th, #tbl-kpi td,
+  #tbl-quarters th, #tbl-quarters td, #tbl-bal th, #tbl-bal td, #tbl-sens th, #tbl-sens td, #tbl-iv th, #tbl-iv td, #tbl-oos th, #tbl-oos td,
+  #tbl-cal th, #tbl-cal td, #tbl-dep th, #tbl-dep td, #tbl-season th, #tbl-season td, #tbl-fdr th, #tbl-fdr td, #tbl-rule th, #tbl-rule td,
+  #tbl-leadlag th, #tbl-leadlag td, #tbl-global th, #tbl-global td, #tbl-cycles th, #tbl-cycles td { padding: 4px 4px; }
+  #tbl-risk td.n { white-space: normal; }
+  #tbl-year th, #tbl-risk th, #tbl-peer-vol th, #tbl-peer-fin th, #tbl-annual th, #tbl-factors th, #tbl-kpi th, #tbl-quarters th, #tbl-bal th,
+  #tbl-sens th, #tbl-iv th, #tbl-oos th, #tbl-cal th, #tbl-dep th, #tbl-season th, #tbl-rule th, #tbl-leadlag th, #tbl-global th { white-space: normal; }
+  .tbl-wrap.keep, .verdict { break-inside: avoid; }
+  #ar-pair { display: block; } #ar-pair figure { margin-bottom: 14px; }
+}
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="kicker"><span class="ticker">HKEX: 9987 · NYSE: YUMC</span><span>中国最大的餐饮企业 · 肯德基、必胜客</span><span>中文研究报告</span></div>
+    <h1>百胜中国财务分析报告</h1>
+    <p class="sub">业务与财务、现金与债务、对同店销售与汇率的敏感性、未来规划、与 15 家港股餐饮企业的同业对比、以恒生指数为基准的波动率与事件研究，以及波动率套利可行性和周期性的统计检验。</p>
+    <div class="stamp" id="stamp">港股股价与指数截至 2026-11-26 收盘（美股截至 2026-11-25，11-26 感恩节休市）· 财务数据截至 2026 年三季报（2026-11-03 发布，10-Q 于 11-05 提交）· 报告日期 2026-11-26 · 仅供研究学习，不构成投资建议</div>
+  </div>
+</header>
+
+<nav class="rail" aria-label="章节导航">
+  <div class="wrap">
+    <a href="#summary">摘要</a>
+    <a href="#company">公司与业务</a>
+    <a href="#financials">财务表现</a>
+    <a href="#debt">现金与债务</a>
+    <a href="#sensitivity">敏感性</a>
+    <a href="#outlook">未来规划</a>
+    <a href="#peers">同业对比</a>
+    <a href="#valuation">估值</a>
+    <a href="#volatility">波动率</a>
+    <a href="#volarb">波动套利</a>
+    <a href="#cycles">周期检验</a>
+    <a href="#events">事件研究</a>
+    <a href="#risks">风险</a>
+    <a href="#conclusion">结论</a>
+    <a href="#appendix">方法与来源</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- ============ 00 SUMMARY ============ -->
+<section id="summary">
+  <h2><span class="no">00</span>核心结论</h2>
+  <div class="tiles" role="list" id="tiles"></div>
+  <ol class="keypoints">
+    <li><b>中国最大的餐饮企业，增长主要来自开店，而不是同店销售。</b>9 月末门店 19,989 家，2017 年末为 7,983 家；2017–2025 年收入年复合增长 5.4%，2025 年收入 117.97 亿美元（+4.4%）。同店销售 2024 年以来一直在 −4% 至 +3% 之间（2026 年三季度 −3%），但同店交易量已连续 15 个季度增长，客单价在下降。</li>
+    <li><b>利润率仍在改善，2026 年三季度经营利润 +13%。</b>2025 年经营利润 12.90 亿美元（+11.0%），经营利润率 10.9%。2026 年前三季度经营利润 12.46 亿美元（+13%，剔除汇率 +6%），三季度餐厅利润率 17.8%（+0.5 个百分点）。8 月起不再向 Yum! Brands 支付必胜客特许费，收购前 12 个月这笔费用约 6,200 万美元（税后）。</li>
+    <li><b>净现金大幅下降，股东回报已超过自由现金流。</b>9 月末现金及各类存款 23.37 亿美元，短期借款 15.49 亿美元（含收购必胜客品牌的 12.52 亿美元过桥贷款，利率约 1.9%），净现金 7.88 亿美元，2023 年末为 36.97 亿美元。过去 12 个月自由现金流 9.48 亿美元，2026 年计划回馈股东 15 亿美元；2027 年起改为回馈约 100% 自由现金流。另有 21.34 亿美元经营租赁负债。</li>
+    <li><b>利润对同店销售敏感，对汇率是同比例的折算影响。</b>示意测算：同店销售每变动 1 个百分点，经营利润约变动 6,000 万美元（过去 12 个月的 4.2%）；2019 年以来的季度数据也显示，同店销售每 +1 个百分点，经调整经营利润率同比约 +0.46 个百分点（t = 8.1）。人民币兑美元每变动 1%，美元口径经营利润约变动 1%。股价对恒指的 β 为 0.94，对餐饮同业为 0.55。</li>
+    <li><b>在港股餐饮企业中规模最大、盈利最稳，估值也最高的一档。</b>16 家公司中收入和市值都排第 1（市值占合计的 40%），2025 年 ROE 16.7%（第 8，中位数 9.7%）；市盈率 17.3 倍（同口径第 5 高，中位数 12.2 倍）。2026 年以来股价 +11.2%（第 2），而同业等权指数 −31.0%；近一年波动率 28.4%，第 2 低。</li>
+    <li><b>港股波动率 37.9%，比恒指高 14 个百分点，主要来自公司自身和财报。</b>市场只能解释 35% 的日收益方差；财报后首个交易日平均绝对涨跌 5.1%，是平常日的 3.2 倍；最大回撤 −57.3%（2021-06 至 2024-07），目前距 2021 年高点 −23.1%。</li>
+    <li><b>波动率套利的条件基本不具备。</b>港交所 170 个股票期权类别里没有 9987；美股 YUMC 期权只有 8 个月度到期日，平值期权的买卖价差折合 10–21 个波动率点。当前平值隐含波动率 27%–33%，与扣除模型偏差后的预测实现波动率（约 30%）相近；实现波动率本身也难以预测（样本外 Mincer–Zarnowitz R² 不超过 4%）。统计上唯一站得住的是一个跨市场现象：美股前一交易日涨跌超过 1% 后，港股次日开盘到收盘平均继续同向变动约 0.5%，扣除 0.25% 的往返成本后，2024 年以来样本外仍有 +0.23%（t = 2.6）。它更像价格发现的滞后，不是无风险套利。</li>
+    <li><b>股价没有可靠的周期，业务的季节性很强。</b>43 项收益规律检验中，只有港股日收益的自相关在多重检验校正后显著，且主要由少数极端交易日造成；月份效应 p = 0.86（美股线 119 个月），没有统计上显著的主导周期。业务端：一季度和三季度利润率高、四季度低（Friedman 检验 p = 0.002，8 年里 7 年四季度最低）；同店销售有明显的同比基数回摆（滞后 4 个季度的自相关 −0.58）。</li>
+    <li><b>财报是股价的主要驱动。</b>45 个事件中 20 个当日异常收益显著，其中 13 个是财报。最大的一次是 2024-02-07 四季报（同时上调分红 23%、把 2024 年回购提高到 12.5 亿美元）：港股当天 +14.8%，恒指 −0.5%，异常收益 +15.0%（t = 8.0）。</li>
+  </ol>
+</section>
+
+<!-- ============ 01 COMPANY ============ -->
+<section id="company">
+  <h2><span class="no">01</span>公司概况与业务</h2>
+  <p class="lede">百胜中国 2016 年 11 月从 Yum! Brands 分拆，在纽交所上市；2020 年 9 月在港交所第二上市，2022 年 10 月转为双重主要上市并纳入港股通。两地交易的是同一类普通股（港股 9987、美股 YUMC，1 股对 1 股）。公司在中国内地独家经营肯德基、必胜客，2026 年 8 月起拥有必胜客中国内地的品牌所有权；10-Q 称其按 2025 年系统销售额是中国最大的餐饮企业。</p>
+  <p><b>怎么赚钱：几乎全部是自营餐厅的销售。</b>2026 年前三季度总收入 98.86 亿美元，其中公司餐厅收入 91.71 亿美元（93%），加盟费及收入 0.91 亿美元，与加盟商交易的收入（主要是向加盟商供货）4.94 亿美元，其他收入 1.30 亿美元。门店 19,989 家（9 月末），肯德基超过 1.4 万家、必胜客超过 4,700 家；19% 的门店由加盟商经营，三季度净新增的 692 家中 44% 为加盟。外卖约占公司餐厅收入的 54%（上年同期 51%），过去 12 个月有消费的会员超过 2.78 亿。</p>
+  <p><b>股东结构：</b>股权分散，没有控股股东。港股通持股 1,308 万股，约占总股本 3.9%（2026-11-25；2024 年 11 月约 4.3%）；2025 年 12 月 8 日起纳入恒生中国企业指数。按成交额计，港股的成交占比从 2021 年的 7% 升至 2026 年以来的 33%，美股仍是主要交易地（见 9.5 节）。</p>
+  <div class="two">
+    <figure>
+      <figcaption>门店数（季末）<span class="cap-sub">2018 年以来，按季度</span></figcaption>
+      <div class="chart-box" id="ch-stores"></div>
+    </figure>
+    <figure>
+      <figcaption>同店销售与同店交易量（同比）<span class="cap-sub">同店交易量取自业绩稿，2024 年二季度起</span></figcaption>
+      <div class="legend" id="leg-sss"></div>
+      <div class="chart-box" id="ch-sss"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-kpi">
+    <caption>季度经营指标（公司业绩新闻稿）</caption>
+    <thead><tr><th>季度</th><th class="n">系统销售增长</th><th class="n">同店销售</th><th class="n">同店交易量</th><th class="n">餐厅利润率</th><th class="n">净新增门店</th><th class="n">期末门店</th><th class="n">外卖占比</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">系统销售与同店销售均剔除汇率影响；净新增门店按期末门店数差额计算。同店销售按公司口径“指数”换算（例如“同比为上年的 97%”记为 −3%）。</p>
+  <p><b>增长靠开店，单店销售在下降。</b>门店从 2017 年末的 7,983 家增至 2025 年末的 18,101 家，2026 年目标超过 20,500 家。疫情后同店销售在 2023 年二季度反弹到 +15%，2024 年一季度起回到 −4% 到 +3% 之间；同期同店交易量每季增长 1%–6%，说明下降的是客单价——公司主动推出低价套餐、小份餐和“一人食”，用价格换客流。</p>
+</section>
+
+<!-- ============ 02 FINANCIALS ============ -->
+<section id="financials">
+  <h2><span class="no">02</span>财务表现分析</h2>
+  <p class="lede">2025 年收入 117.97 亿美元（+4.4%），经营利润 12.90 亿美元（+11.0%），归母净利润 9.29 亿美元（+2.0%），摊薄每股收益 2.51 美元（+7.7%，回购减少了股本）。2026 年前三季度收入 98.86 亿美元（+10.2%），经营利润 12.46 亿美元（+13%，剔除汇率 +6%），摊薄 EPS 2.48 美元（+18%）。财务数据为美国会计准则、美元口径。</p>
+  <figure>
+    <figcaption>收入与利润<span class="cap-sub">百万美元；2020、2021 年经营利润含合营公司股权重估收益</span></figcaption>
+    <div class="legend" id="leg-rev"></div>
+    <div class="chart-box" id="ch-rev"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-annual">
+    <caption>年度财务摘要（百万美元；2017 年为新收入准则重述口径，经营利润率为报告口径，标 *）</caption>
+    <thead><tr><th>年度</th><th class="n">收入</th><th class="n">同比</th><th class="n">经营利润</th><th class="n">经调整经营利润率</th><th class="n">归母净利润</th><th class="n">同比</th><th class="n">摊薄 EPS（美元）</th><th class="n">ROE</th><th class="n">经营现金流</th><th class="n">资本开支</th><th class="n">股东回报</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p><b>一次性项目：</b>2020 年三季度确认苏州肯德基股权重估收益 2.39 亿美元，2021 年四季度确认杭州肯德基股权重估收益 6.18 亿美元（均为非现金，取得控制权时按公允价值重估原持股）。公司公布的经调整经营利润（剔除上述收益等特殊项目）2020、2021 年为 7.32 亿和 7.66 亿美元，报告值为 9.61 亿和 13.86 亿美元。2023 年以来报告值与调整值基本一致。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-quarters">
+    <caption>季度利润（百万美元）</caption>
+    <thead><tr><th>季度</th><th class="n">收入</th><th class="n">同比</th><th class="n">经营利润</th><th class="n">同比</th><th class="n">经营利润率</th><th class="n">餐厅利润率</th><th class="n">归母净利润</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p><b>利润率的来源：成本控制，而不是涨价。</b>2026 年前三季度公司餐厅收入中，食品和包装占 31.5%，人工占 26.9%，租金及其他经营费用占 24.2%，餐厅利润率 17.4%。三季度餐厅利润率同比 +0.5 个百分点，公司归因于精简运营、原材料价格有利和必胜客特许费节省，抵消了低价套餐、销售摊薄和外卖骑手成本上升（外卖占比 54%）。经调整经营利润率从 2022 年的 6.6% 回升到 2025 年的 10.9%。</p>
+  <p><b>现金流：</b>2025 年经营现金流 14.66 亿美元，资本开支 6.26 亿美元，自由现金流 8.40 亿美元；同年股东回报 14.97 亿美元（分红 3.53 亿、回购 11.44 亿），比自由现金流多约 6.6 亿美元，差额来自现金和存款的消耗。</p>
+</section>
+
+<!-- ============ 03 DEBT ============ -->
+<section id="debt">
+  <h2><span class="no">03</span>现金、债务与偿债能力</h2>
+  <p class="lede">百胜中国长期持有大额净现金，2026 年为收购必胜客品牌第一次借了较多的钱。偿债没有压力：短期借款 15.49 亿美元，相当于过去 12 个月 EBITDA 的 0.8 倍，现金和存款仍多于借款。需要关注的是现金在持续下降，以及过桥贷款的再融资安排。</p>
+  <figure>
+    <figcaption>现金及存款、短期借款与租赁负债<span class="cap-sub">百万美元，年末及 2026-09-30</span></figcaption>
+    <div class="legend" id="leg-bal"></div>
+    <div class="chart-box" id="ch-bal"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-bal">
+    <thead><tr><th>时点</th><th class="n">现金</th><th class="n">短期投资</th><th class="n">长期银行存款及票据</th><th class="n">现金及存款合计</th><th class="n">短期借款</th><th class="n">净现金</th><th class="n">经营租赁负债</th><th class="n">股东权益</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <ul id="solvency-points"></ul>
+  <figure>
+    <figcaption>自由现金流与股东回报<span class="cap-sub">百万美元；2026 年为前三季度</span></figcaption>
+    <div class="legend" id="leg-returns"></div>
+    <div class="chart-box" id="ch-returns"></div>
+  </figure>
+  <p><b>结论：现在偿债没有问题，但"净现金"缓冲已经变薄。</b>过桥贷款为离岸人民币 84 亿元（12.52 亿美元），期限最长 12 个月，年利率约 1.9%，一年利息约 2,400 万美元，低于必胜客特许费节省（约 6,200 万美元）。过桥贷款需要用长期债务置换（公司在交割公告中把再融资的条件和成本列为风险因素）；10-Q 显示公司另有约 28.46 亿美元的可用授信额度。2024、2025 年每年回馈 15 亿美元，都超过当年自由现金流（7.14 亿、8.40 亿美元）；2027 年起的回馈改为约 100% 自由现金流（公司预计 2027–2028 年平均每年约 9 亿至 10 亿美元以上），回购力度会比 2024–2026 年低。</p>
+</section>
+
+<!-- ============ 04 SENSITIVITY ============ -->
+<section id="sensitivity">
+  <h2><span class="no">04</span>对市场增长的敏感性</h2>
+  <p class="lede">经营层面，利润最敏感的是同店销售和食品成本；美元报告带来同比例的汇率折算影响。市场层面，港股线对恒指的 β 接近 1，但能被市场解释的波动只有约三分之一。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-sens">
+    <caption>经营利润敏感性（示意测算，以过去 12 个月经营利润 14.33 亿美元为基数）</caption>
+    <thead><tr><th>变量</th><th>变动</th><th class="n">经营利润变动（百万美元）</th><th class="n">占经营利润</th><th>测算依据</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>同店销售与经调整经营利润率的同比变化<span class="cap-sub">2019 年一季度至 2026 年三季度，每点为一个季度</span></figcaption>
+      <div class="chart-box" id="ch-sens"></div>
+    </figure>
+    <div>
+      <p><b>历史数据验证了示意测算的量级。</b><span id="sens-emp"></span></p>
+      <p><b>汇率：</b>收入和成本都是人民币，按美元报告，所以人民币兑美元的变动会同比例地放大或缩小美元口径的收入和利润。2026 年前三季度经营利润报告口径 +13%，剔除汇率后 +6%，差额来自人民币升值。</p>
+    </div>
+  </div>
+  <ul id="beta-summary"></ul>
+  <p><b>对市场增长的含义：</b>同店销售与全国社会消费品零售总额增速高度相关（2018 年以来 35 个季度，相关系数 0.75），说明公司业绩与中国消费周期同步；但开店提供了一块与消费周期关系较小的增长：2024 年以来各季度系统销售增长 2%–7%，同期同店销售只有 −4% 至 +3%，两者之差（主要是新店的贡献）平均约 5 个百分点。门店 2024、2025 年分别净增 1,751 家和 1,706 家，2026 年目标超过 2,400 家。</p>
+</section>
+
+<!-- ============ 05 OUTLOOK ============ -->
+<section id="outlook">
+  <h2><span class="no">05</span>未来规划与公司议程</h2>
+  <p class="lede">公司的计划可以概括为三件事：继续以每年 2,000 家以上的速度开店（加盟比例提高到 40%–50%）；把必胜客从加盟商变成品牌所有者、加快必胜客开店；2027 年起把约 100% 的自由现金流还给股东。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-guidance">
+    <caption>管理层指引与中期目标</caption>
+    <thead><tr><th>项目</th><th>内容</th><th>出处</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p><b>必胜客品牌收购的账：</b>2026 年 6 月 16 日宣布、8 月 7 日完成，现金对价 12 亿美元；收购前 12 个月向 Yum! Brands 支付的必胜客特许费（税后）约 6,200 万美元，对价约为其 19 倍。必胜客 2025 年收入 23 亿美元、经营利润 1.83 亿美元，公司在 8 月 7 日的交割公告中预计，免除特许费可使必胜客的餐厅利润率和经营利润率提高约 2.8 个百分点（扣除增值税），并把 2027、2028 年必胜客每年净新增门店的目标从 600 家以上提高到 800 家以上。同时，肯德基中国在达到一定系统销售增长目标时，可获得 Yum! Brands 为期十年的财务激励（6 月 16 日收购公告）。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-cat">
+    <caption>接下来的时间点</caption>
+    <thead><tr><th>时间</th><th>事项</th><th>看什么</th></tr></thead>
+    <tbody>
+      <tr><td class="nw">2026-12-01</td><td>三季度股息登记日（每股 0.29 美元，12-22 派发）</td><td>2027 年起的每季股息水平</td></tr>
+      <tr><td class="nw">2026 年四季度</td><td>全年门店超过 20,500 家的目标</td><td>四季度净新增门店（前三季度合计 1,888 家）</td></tr>
+      <tr><td class="nw">约 2027-02-04</td><td>2026 年四季度及全年业绩、2027 年指引（日期为 Yahoo 预计，待公司确认）</td><td>2027 年回购规模、同店销售指数是否回到 100 以上、餐厅利润率</td></tr>
+      <tr><td class="nw">2027 年内</td><td>12.52 亿美元过桥贷款到期（最长 12 个月）</td><td>长期融资的方式与利率（离岸人民币贷款或债券）</td></tr>
+      <tr><td class="nw">2027–2028 年</td><td>必胜客每年净新增 800 家以上；2028 年肯德基 17,000 家、必胜客 6,000 家</td><td>新店回本与加盟比例</td></tr>
+      <tr><td class="nw">2030 年</td><td>门店超过 30,000 家（RGM 3.0）</td><td>每年净增速度能否维持 2,000–2,500 家</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ============ 06 PEERS ============ -->
+<section id="peers">
+  <h2><span class="no">06</span>同业对比：增长、行业规模、股价波动与经营预期</h2>
+  <p class="lede">同业为 15 家在港股上市的中国餐饮与茶饮企业：火锅与中餐（海底捞、特海国际、九毛九、呷哺呷哺、小菜园、绿茶集团、味千、大家乐），西式快餐与比萨（达势股份），酒馆（海伦司），茶饮（奈雪的茶、茶百道、蜜雪集团、古茗、沪上阿姨）。另附 7 家全球快餐与咖啡公司的估值作为参照。财务数据来自东方财富港股指标（统一为人民币），估值用港元市值按汇率换算后重新计算。</p>
+  <h3>6.1 行业规模</h3>
+  <ul id="industry-list"></ul>
+  <p><b>百胜中国的位置：</b>2025 年收入折合约 829 亿元人民币，约相当于全国餐饮收入（57,982 亿元）的 1.4%；在 16 家港股餐饮公司的收入合计中占 37%，相当于其余 15 家之和（约 1,439 亿元）的 58%。</p>
+  <h3>6.2 增长与盈利</h3>
+  <div class="two">
+    <figure>
+      <figcaption>收入增速（2025 年）</figcaption>
+      <div class="chart-box" id="ch-peer-growth"></div>
+    </figure>
+    <figure>
+      <figcaption>ROE（2025 年）</figcaption>
+      <div class="chart-box" id="ch-peer-roe"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-peer-fin">
+    <caption id="cap-peer-fin">同业财务与估值（按市值排序）</caption>
+    <thead><tr><th>公司</th><th class="n">市值（亿元）</th><th class="n">2025 收入（亿元）</th><th class="n">收入同比</th><th class="n">净利润同比</th><th class="n">ROE</th><th class="n">净利率</th><th class="n">最新期收入</th><th class="n">市盈率 TTM</th><th class="n">市净率</th><th class="n">预期市盈率</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">最新期：百胜中国、特海国际为 2026 年前三季度，大家乐为截至 2026 年 3 月的财年，其余为 2026 年上半年。市盈率 TTM = 港元市值折人民币 ÷ 最近 12 个月归母净利润，亏损为“—”。预期市盈率为 Yahoo 汇总的分析师一致预期（第三方，港股口径；“亏损”表示预期亏损）；各公司的覆盖分析师从 1 位到 27 位不等（百胜中国 21 位），覆盖少的公司仅供参考。股息率未列：Yahoo 港股股息率字段混用币种并含特别股息，可比性差。</p>
+  <p id="peer-fin-note"></p>
+  <h3>6.3 股价表现与板块内的波动</h3>
+  <figure>
+    <figcaption id="cap-rebased">相对表现（起点 = 100，含分红）</figcaption>
+    <div class="legend" id="leg-rebased"></div>
+    <div class="chart-box" id="ch-rebased"></div>
+  </figure>
+  <div class="two">
+    <figure>
+      <figcaption>近一年波动率</figcaption>
+      <div class="chart-box" id="ch-peer-vol"></div>
+    </figure>
+    <figure>
+      <figcaption>2026 年以来收益</figcaption>
+      <div class="chart-box" id="ch-peer-ytd"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-peer-vol">
+    <caption id="cap-peer-vol">同业股价表现与风险（按近三年收益排序；β 与相关系数为 2024 年以来）</caption>
+    <thead id="thead-peer-vol"></thead>
+    <tbody></tbody>
+  </table></div>
+  <p id="peer-vol-note"></p>
+  <h3>6.4 经营预期与全球估值参照</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-global">
+    <caption>全球快餐与咖啡公司（Yahoo，美元；增长为最近一季同比）</caption>
+    <thead><tr><th>公司</th><th class="n">市值（亿美元）</th><th class="n">市盈率 TTM</th><th class="n">预期市盈率</th><th class="n">EV/EBITDA</th><th class="n">经营利润率</th><th class="n">收入增长</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <ul id="peer-points"></ul>
+</section>
+
+<!-- ============ 07 VALUATION ============ -->
+<section id="valuation">
+  <h2><span class="no">07</span>估值</h2>
+  <p class="lede">按美国会计准则每股收益，市盈率（TTM）18.1 倍、一致预期市盈率 15.5 倍，处于 2020 年 9 月港股上市以来的较低位置；对一家利润率仍在提升、每年回馈市值约 9% 的公司，估值并不高。分歧在于：同店销售若长期为负，开店带来的增长能否持续。</p>
+  <div class="tiles" role="list" id="val-tiles"></div>
+  <figure>
+    <figcaption>港股市盈率（TTM）历史<span class="cap-sub">百度股市通，2020-09-10 港股上市以来</span></figcaption>
+    <div class="chart-box" id="ch-pe"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-targets">
+    <caption>券商评级与目标价（第三方，港元）</caption>
+    <thead><tr><th>机构</th><th>评级</th><th class="n">目标价</th><th class="n">相对现价</th><th>说明</th><th>日期 / 出处</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p id="val-text"></p>
+</section>
+
+<!-- ============ 08 VOLATILITY ============ -->
+<section id="volatility">
+  <h2><span class="no">08</span>波动率分析（以恒生指数为基准）</h2>
+  <p class="lede" id="vol-lede"></p>
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">基准选择</span><span id="bench-note"></span></div>
+  </div>
+
+  <h3>8.1 价格走势对比</h3>
+  <figure>
+    <figcaption id="cap-price">累计表现（起点 = 100，含分红，对数坐标）</figcaption>
+    <div class="legend" id="leg-price"></div>
+    <div class="chart-box" id="ch-price"></div>
+  </figure>
+
+  <h3>8.2 风险统计总表</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-risk">
+    <thead id="thead-risk"></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-year">
+    <caption>分年度表现与风险</caption>
+    <thead id="thead-year"></thead>
+    <tbody></tbody>
+  </table></div>
+
+  <h3>8.3 滚动波动率与波动聚集</h3>
+  <figure>
+    <figcaption>63 日滚动年化波动率与 GARCH(1,1) 条件波动率</figcaption>
+    <div class="legend" id="leg-vol"></div>
+    <div class="chart-box" id="ch-vol"></div>
+  </figure>
+  <p id="garch-text"></p>
+
+  <h3>8.4 单指数模型与多因子模型</h3>
+  <div class="formula" id="formula-factors"></div>
+  <div class="two">
+    <figure>
+      <figcaption>日超额收益散点<span class="cap-sub" id="cap-scatter"></span></figcaption>
+      <div class="chart-box" id="ch-scatter"></div>
+    </figure>
+    <figure>
+      <figcaption>模型能解释的日收益方差（R²）<span class="cap-sub">其余为公司特有波动</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>模型可解释</span><span class="leg-mid"><i class="box"></i>公司特有</span></div>
+      <div class="chart-box" id="ch-r2"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-sim">
+    <thead id="thead-sim"></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-factors">
+    <caption>多因子模型：分时期估计</caption>
+    <thead id="thead-factors"></thead>
+    <tbody></tbody>
+  </table></div>
+
+  <h3>8.5 β 与相关性的变化</h3>
+  <div class="two">
+    <figure>
+      <figcaption>252 日滚动 β</figcaption>
+      <div class="legend" id="leg-beta"></div>
+      <div class="chart-box" id="ch-beta"></div>
+    </figure>
+    <figure>
+      <figcaption>126 日滚动相关系数</figcaption>
+      <div class="legend" id="leg-corr"></div>
+      <div class="chart-box" id="ch-corr"></div>
+    </figure>
+  </div>
+  <ul id="beta-points"></ul>
+
+  <h3>8.6 收益分布与回撤</h3>
+  <div class="two">
+    <figure>
+      <figcaption>日收益分布<span class="cap-sub">各区间交易日占比</span></figcaption>
+      <div class="legend" id="leg-hist"></div>
+      <div class="chart-box" id="ch-hist"></div>
+    </figure>
+    <figure>
+      <figcaption>回撤（相对样本内最高点）</figcaption>
+      <div class="legend" id="leg-dd"></div>
+      <div class="chart-box" id="ch-dd"></div>
+    </figure>
+  </div>
+  <p id="vol-wrap"></p>
+</section>
+
+<!-- ============ 09 VOLATILITY ARBITRAGE ============ -->
+<section id="volarb">
+  <h2><span class="no">09</span>波动率套利的可行性</h2>
+  <p class="lede">波动率套利是指买卖期权（或方差）并做 Delta 对冲，赚取隐含波动率与未来实现波动率之间的差。要做成，需要四个条件：有流动性的期权市场；隐含波动率与可预测的实现波动率之间有稳定的差；这个差大于交易成本；能承受财报跳空等尾部风险。下面逐项检验，并检验同一只股票在港、美两地交易带来的跨市场机会。</p>
+  <ul class="verdict" id="verdict"></ul>
+
+  <h3>9.1 期权市场：港股没有，美股很薄</h3>
+  <p id="opt-structure"></p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-iv">
+    <caption id="cap-iv">YUMC 期权：平值隐含波动率与预测实现波动率</caption>
+    <thead><tr><th>到期日</th><th class="n">剩余天数</th><th class="n">平值 IV</th><th class="n">IV 买卖价差（波动率点）</th><th class="n">25Δ 看跌 IV</th><th class="n">未平仓（张）</th><th class="n">GARCH 预测</th><th class="n">HAR 预测</th><th class="n">IV − HAR（波动率点）</th><th class="n">历史中位实现波动</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">隐含波动率用买卖中间价按 Black–Scholes（连续股息率）重新计算：Yahoo 原始 IV 字段混入了过期成交价。平值 IV 由远期价格两侧最近的虚值看跌、看涨期权插值；IV 买卖价差为平值附近期权按买价和卖价分别反推的 IV 之差。预测为 GARCH(1,1)-t 与 HAR-RV 对到期前平均波动率的预测（美股线日数据，2016-11 起）。</p>
+
+  <h3>9.2 隐含与实现：当前没有明显的错价</h3>
+  <div class="two">
+    <figure>
+      <figcaption>期限结构<span class="cap-sub">平值 IV 与模型预测、历史实现波动率中位数</span></figcaption>
+      <div class="legend" id="leg-iv"></div>
+      <div class="chart-box" id="ch-iv"></div>
+    </figure>
+    <figure>
+      <figcaption>波动率锥<span class="cap-sub">美股线，各窗口滚动实现波动率的分位与当前值</span></figcaption>
+      <div class="legend" id="leg-cone"></div>
+      <div class="chart-box" id="ch-cone"></div>
+    </figure>
+  </div>
+  <p id="iv-text"></p>
+
+  <h3>9.3 实现波动率能否预测：样本外检验</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-oos">
+    <caption id="cap-oos">未来 21 个交易日实现波动率的样本外预测</caption>
+    <thead><tr><th>模型</th><th class="n">RMSE（波动率点）</th><th class="n">平均偏差</th><th class="n">QLIKE 损失</th><th class="n">Diebold–Mariano（对随机游走）p 值</th><th class="n">Mincer–Zarnowitz 斜率</th><th class="n">MZ R²</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <figure>
+    <figcaption>预测与实际<span class="cap-sub">每 21 个交易日一次的样本外预测（年化）</span></figcaption>
+    <div class="legend" id="leg-oos"></div>
+    <div class="chart-box" id="ch-oos"></div>
+  </figure>
+  <p id="oos-text"></p>
+
+  <h3>9.4 财报：最大的波动来源</h3>
+  <figure>
+    <figcaption>近三个月的 30 天隐含波动率与 21 日实现波动率<span class="cap-sub">alphaquery 免费数据只有约三个月</span></figcaption>
+    <div class="legend" id="leg-iv30"></div>
+    <div class="chart-box" id="ch-iv30"></div>
+  </figure>
+  <p id="earn-text"></p>
+  <p id="vrp-text"></p>
+
+  <h3>9.5 跨市场：港股与美股之间</h3>
+  <p id="xlist-text"></p>
+  <div class="two">
+    <figure>
+      <figcaption>港股（折美元）相对前一美股收盘的价差<span class="cap-sub">基点，每 3 个交易日取一点</span></figcaption>
+      <div class="chart-box" id="ch-prem"></div>
+    </figure>
+    <figure>
+      <figcaption>港股成交额占两地合计的比例</figcaption>
+      <div class="chart-box" id="ch-volshare"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-leadlag">
+    <caption>两地的领先—滞后关系（日度回归，HAC 稳健 t 值，2020-09 起）</caption>
+    <thead><tr><th>被解释变量 ← 解释变量</th><th class="n">β</th><th class="n">t 值</th><th class="n">R²</th><th class="n">样本</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p id="leadlag-text"></p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-rule">
+    <caption>简单规则：美股前一日涨（跌）超过阈值时，港股开盘买入（卖空）、收盘平仓（扣除 0.25% 往返成本）</caption>
+    <thead><tr><th>阈值</th><th>样本期</th><th class="n">交易次数</th><th class="n">每笔毛收益</th><th class="n">每笔净收益</th><th class="n">净收益 t 值</th><th class="n">胜率</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p id="rule-text"></p>
+
+  <h3>9.6 结论</h3>
+  <p id="volarb-conclusion"></p>
+</section>
+
+<!-- ============ 10 CYCLES ============ -->
+<section id="cycles">
+  <h2><span class="no">10</span>周期性与季节性的统计检验</h2>
+  <p class="lede">“周期”分两层看：股价收益有没有可预测的日历或周期规律（如果有，就能择时）；公司业务有没有季节性和周期（如果有，就影响对季度业绩的解读）。收益规律的检验用两条线：美股线（2016-12 至 2026-10，119 个完整月）样本更长，港股线（2020-10 起，73 个月）是本报告的主线；两条线是同一只股票，结论不独立。</p>
+  <ul class="verdict" id="verdict-cyc"></ul>
+
+  <h3>10.1 日历效应：月份、星期、月末月初与节日</h3>
+  <figure>
+    <figcaption>各月份的平均月收益<span class="cap-sub">美股线 2016-12 至 2026-10，每个月份 9–10 个观测值</span></figcaption>
+    <div class="legend" id="leg-month"></div>
+    <div class="chart-box" id="ch-month"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-cal">
+    <caption>日历效应检验（p 值；“超额”为减去本地市场指数的收益）</caption>
+    <thead><tr><th>检验</th><th class="n">美股线</th><th class="n">美股线超额</th><th class="n">港股线</th><th class="n">港股线超额</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p id="cal-text"></p>
+
+  <h3>10.2 收益是否可预测：序列相关与随机游走检验</h3>
+  <div class="two">
+    <figure>
+      <figcaption>日收益自相关（滞后 1–20 日）<span class="cap-sub">虚线外为 5% 显著，参考 ±1.96/√n</span></figcaption>
+      <div class="legend" id="leg-acf"></div>
+      <div class="chart-box" id="ch-acf"></div>
+    </figure>
+    <figure>
+      <figcaption>月收益的周期图<span class="cap-sub">美股线；横轴为周期长度（月），纵轴为该周期的方差占比</span></figcaption>
+      <div class="chart-box" id="ch-spec"></div>
+    </figure>
+  </div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-dep">
+    <caption>序列相关、方差比与频谱检验</caption>
+    <thead><tr><th>检验</th><th>原假设</th><th class="n">美股线</th><th class="n">港股线</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p id="dep-text"></p>
+
+  <h3>10.3 价格的涨跌波段</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-cycles">
+    <caption>按 20% 规则识别的涨跌波段（美股线，2016-11 起，含分红）</caption>
+    <thead><tr><th>类型</th><th>起点</th><th>终点</th><th class="n">持续（月）</th><th class="n">涨跌幅</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p id="pc-text"></p>
+
+  <h3>10.4 业务的季节性与周期</h3>
+  <figure>
+    <figcaption>餐厅利润率的季度分布<span class="cap-sub">2018–2025 年，每组为一年的四个季度</span></figcaption>
+    <div class="legend" id="leg-season"></div>
+    <div class="chart-box" id="ch-season"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-season">
+    <caption>业务季节性检验</caption>
+    <thead><tr><th>指标</th><th class="n">一季度</th><th class="n">二季度</th><th class="n">三季度</th><th class="n">四季度</th><th>检验</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <figure>
+    <figcaption>同店销售与全国社会消费品零售总额增速（季度同比）</figcaption>
+    <div class="legend" id="leg-sssg-retail"></div>
+    <div class="chart-box" id="ch-sssg-retail"></div>
+  </figure>
+  <p id="biz-text"></p>
+
+  <h3>10.5 多重检验校正</h3>
+  <p id="fdr-text"></p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-fdr">
+    <caption>全部收益规律检验（Benjamini–Hochberg，错误发现率 10%）</caption>
+    <thead><tr><th>检验</th><th class="n">p 值</th><th class="n">q 值</th><th>结论</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+</section>
+
+<!-- ============ 11 EVENTS ============ -->
+<section id="events">
+  <h2><span class="no">11</span>股价与事件：事件研究</h2>
+  <p class="lede" id="events-lede"></p>
+  <div class="formula" id="ar-formula"></div>
+  <figure>
+    <figcaption>港股股价与关键事件<span class="cap-sub">悬停或聚焦圆点查看事件；圆点颜色为异常收益方向</span></figcaption>
+    <div class="chart-box" id="ch-events"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-events">
+    <thead id="thead-events"></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two" id="ar-pair">
+    <figure>
+      <figcaption>各事件当日异常收益</figcaption>
+      <div class="chart-box" id="ch-ar"></div>
+    </figure>
+    <figure>
+      <figcaption>按年度累计异常收益</figcaption>
+      <div class="chart-box" id="ch-car"></div>
+    </figure>
+  </div>
+  <p id="car-note"></p>
+  <h3>11.1 案例</h3>
+  <ol class="keypoints">
+    <li><b>2024-02-07 · 四季报叠加股东回报加码：</b>港股 +14.8%，恒指 −0.5%，餐饮同业 +0.1%；异常收益 +15.0%（t = 8.0），之后 6 个交易日累计 +9.5%。业绩于美东 2 月 6 日收盘后发布，同店销售 +4%，同时上调股息 23%、把 2024 年回购提高到 12.5 亿美元。启示：在增长放缓的阶段，市场对资本回报的反应比对同店销售更大。</li>
+    <li><b>2023-11-01 · 三季报：</b>港股 −13.0%，恒指 −0.2%；异常收益 −12.1%（t = −6.4），6 日累计 −16.1%。三季度同店销售 +4%，比二季度的 +15% 明显放缓，市场把它当作疫后反弹结束的信号；收盘价从当天的 356.2 港元继续跌到 2024-07-25 的 228.4 港元（−36%），即港股上市以来最大回撤的谷底。</li>
+    <li><b>2022-03-14 至 03-16 · 退市风险、封城与政策底：</b>3 月 14 日港股 −19.2%（异常收益 −14.4%，t = −7.7）。美国 SEC 于美东 3 月 10 日把百胜中国列入《外国公司问责法》认定名单，美股 YUMC 3 月 10–11 日共跌约 25%，叠加深圳封城。公司 3 月 14 日晚间发布一季度经营更新（3 月前两周同店销售同比下降约 20%），3 月 15 日港股持平而恒指 −5.8%（异常收益 +6.7%）；3 月 16 日金融委会议后 +16.6%（恒指 +8.5%，异常收益 +7.1%）。启示：监管风险发作时港股跟随美股定价，风险落地后反弹也最快。</li>
+    <li><b>2024-03-20 · 美股先跌、港股跟跌：</b>瑞银提示一季度利润可能低于指引（第三方），美股 YUMC 3 月 19 日跌 7.5%；港股次日 −6.2%，恒指 +0.1%，异常收益 −6.1%（t = −3.3）。这是“美股先定价、港股次日跟随”的典型例子，对应 9.5 节的领先—滞后关系。</li>
+    <li><b>2026-06-17 · 12 亿美元收购必胜客品牌，市场几乎没有反应：</b>港股 −2.4%，恒指 −0.7%，同业 −2.0%；异常收益 −1.4%（t = −0.8），6 日累计 −1.9%。交易金额相当于 2025 年自由现金流的 1.4 倍，但对价约为税后特许费的 19 倍，市场把它看作用现金换成本节省的中性交易。</li>
+    <li><b>2025-04-07 · 关税冲击，跌幅与大盘相当：</b>港股 −14.0%，恒指 −13.4%，同业 −14.4%；异常收益仅 −1.6%（t = −0.8）。美东 4 月 22 日美方释放关税降级信号，美股当天 +7.4%，港股 4 月 23 日 +10.3%（异常收益 +8.1%，t = 4.3）。启示：宏观冲击下它是普通的港股高 β 消费股，不是避险资产。</li>
+  </ol>
+  <div data-need="exdiv">
+    <h3>11.2 除息日效应</h3>
+    <p id="exdiv-text"></p>
+  </div>
+  <h3>11.3 规律总结</h3>
+  <ul id="event-points"></ul>
+</section>
+
+<!-- ============ 12 RISKS ============ -->
+<section id="risks">
+  <h2><span class="no">12</span>主要风险因素</h2>
+  <ol class="keypoints">
+    <li><b>同店销售持续为负。</b>同店销售每变动 1 个百分点，经营利润约变动 6,000 万美元（4.2%，示意）。2024 年以来 11 个季度中 5 个为负，2026 年三季度 −3%；公司 2026–2028 年目标是同店销售指数 100–102。观察：同店销售指数、同店交易量与客单价的拆分。</li>
+    <li><b>价格战与外卖成本。</b>外卖占公司餐厅收入 54%，骑手成本随外卖占比上升；外卖平台 2025 年的补贴形成高基数，公司称这是 2026 年三季度同店承压的主要原因之一（电话会，媒体报道）。中式汉堡品牌塔斯汀 2025 年初门店已超过 9,000 家（红餐，第三方）。观察：餐厅利润率、外卖占比、平台补贴力度。</li>
+    <li><b>资本配置与杠杆。</b>2026 年回馈 15 亿美元，大于过去 12 个月自由现金流（9.48 亿美元）；净现金已降至 7.88 亿美元，12.52 亿美元过桥贷款需在 12 个月内再融资。观察：长期融资方案与利率、2027 年回购规模、资本开支（2026 年指引 6–7 亿美元）。</li>
+    <li><b>汇率。</b>人民币兑美元每变动 1%，美元口径经营利润约变动 1,400 万美元；股价在两地分别以美元和港元计价。观察：人民币汇率、公司剔除汇率的增长。</li>
+    <li><b>中美关系与上市监管。</b>2022 年 3 月被列入《外国公司问责法》认定名单后，港股 3 月 11 日、14 日两个交易日累计下跌约 24%（14 日叠加深圳封城）；2022 年底 PCAOB 完成检查后风险解除，港股主要上市也降低了被迫退市的影响。观察：中美审计监管、关税与制裁动态。</li>
+    <li><b>食品成本与食品安全。</b>食品和包装占公司餐厅收入 31.5%，成本每变动 1%，经营利润约变动 3,900 万美元（2.7%，示意）。观察：鸡肉、牛肉、乳制品价格，供应链事件。</li>
+  </ol>
+</section>
+
+<!-- ============ 13 CONCLUSION ============ -->
+<section id="conclusion">
+  <h2><span class="no">13</span>结论</h2>
+  <p>百胜中国是一家成熟、现金充裕、靠开店驱动增长的餐饮龙头：同店销售在零附近徘徊，但门店每年净增 1,700 家以上（2026 年目标超过 2,400 家），成本控制让经调整经营利润率从 2022 年的 6.6% 回到 2025 年的 10.9%，2026 年前三季度经营利润仍增长 13%。资产负债表从大额净现金变成小额净现金，原因是连续三年每年 15 亿美元的股东回报和 12 亿美元的必胜客品牌收购；偿债不是问题，但回购的力度在 2027 年后会回到自由现金流的范围内。</p>
+  <p>股价方面，港股线对恒指的 β 约 0.9，65% 的波动来自公司自身，财报是最大的单一驱动。现价对应 18.1 倍历史市盈率、15.5 倍一致预期市盈率、5.4% 的自由现金流收益率，处于港股上市以来的低位，预期市盈率也低于除瑞幸外的全球快餐与咖啡同业。现价隐含的假设大致是：同店销售回到 0 至 +2%，开店继续带来中个位数的系统销售增长。若同店销售长期为负，这个假设就不成立。</p>
+  <p>关于用户特别关心的两个问题：<b>波动率套利</b>——港股没有期权，美股期权流动性差、价差远大于隐含与预测实现波动率之间的差，实现波动率本身也难以预测，因此不具备可操作的条件；跨市场的日内滞后效应在统计上显著，但量级小、依赖执行和做空，只能作为进一步验证的线索。<b>周期</b>——股价收益没有经得起多重检验的日历效应或固定周期，择时的统计基础很弱；真正有规律的是业务的季节性（一、三季度强，四季度弱）和同店销售的同比基数效应，它们影响的是对单季业绩的解读，而不是可以交易的价格规律。</p>
+  <p><b>接下来最值得关注的信号：</b>①四季度及 2027 年指引中的同店销售指数（能否回到 100 以上）；②餐厅利润率与外卖占比；③2027 年回购规模与过桥贷款的再融资；④必胜客免除特许费后的利润率与开店速度；⑤人民币汇率。</p>
+</section>
+
+<!-- ============ 14 APPENDIX ============ -->
+<section id="appendix">
+  <h2><span class="no">14</span>方法说明与数据来源</h2>
+  <ul id="method-list"></ul>
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">数据缺口</span>两项数据没有拿到完整序列：① YUMC 的长期隐含波动率历史（alphaquery 免费数据只有约三个月，Barchart 与 CBOE 拒绝访问），因此无法做多年的方差风险溢价检验；② 国家统计局月度餐饮收入（统计局数据库拒绝访问，从新闻稿只能还原 2022 年以来的 14 个季度），长期周期检验改用社会消费品零售总额。补齐后可以重跑 9.2 与 10.4 节。</div>
+  </div>
+  <h3>数据来源</h3>
+  <ul id="source-list" class="small"></ul>
+  <p class="small muted">本报告仅供研究学习，不构成投资建议。敏感性等示意测算依赖文中假设；券商目标价、一致预期、行业统计为第三方数据，已注明出处，未经独立核实。</p>
+</section>
+
+</main>
+
+<script>
+const DATA = __DATA_JSON__;
+/*__CHARTS_JS__*/
+
+/* ---------- data and helpers ---------- */
+const S = DATA.series, M = DATA.meta, N = M.names, F = DATA.fund || {};
+const VA = DATA.volarb || {}, CY = DATA.cycles || {}, OPS = (DATA.ops_kpis || {}).quarters || [];
+const ME = M.target_code;
+const HAS = { sec: !!M.has_sec, sty: !!M.has_sty, rate: !!M.has_rate, spread: !!(S && S.spread), exdiv: !!(DATA.ex_dividend && DATA.ex_dividend.length), peers: !!(DATA.peers && DATA.peers.length) };
+document.querySelectorAll('[data-need]').forEach(el => { if (!HAS[el.dataset.need]) el.hidden = true; });
+const CAT = { earnings: '业绩', guidance: '指引/经营更新', deal: '交易/并购', mna: '并购', capital: '资本/股东', financing: '融资', dividend: '分红/除息', product: '产品', contract: '合同/订单', strategic: '战略/上市', operations: '经营', supply: '供给/解禁', sector: '行业', policy: '政策/监管', macro: '宏观/市场', credit: '信用/债务', management: '管理层', legal: '监管/合规', broker: '券商观点' };
+const EV = (DATA.events || []).map((e, i) => ({ ...e, n: i + 1 }));
+const x2 = v => v === null || v === undefined ? '—' : v.toFixed(2);
+const sgn = (v, d = 2) => v === null || v === undefined ? '—' : (v < 0 ? '−' : '') + Math.abs(v).toFixed(d);
+const fmt0 = v => Math.abs(v) < 0.005 ? '0%' : spct(v, 0);
+const tone = v => v === null || v === undefined ? '' : (v < 0 ? 'neg-t' : 'pos-t');
+const tb = id => document.querySelector(`#${id} tbody`);
+const dt = s => s ? s.slice(2, 7).replace('-', '/') : '—';
+const el = id => document.getElementById(id);
+const pv = p => p === null || p === undefined ? '—' : (p < 0.001 ? '<0.001' : p.toFixed(3));
+const pe = p => p === null || p === undefined ? 'p 不可用' : (p < 0.001 ? 'p < 0.001' : 'p = ' + p.toFixed(3));
+const pp = v => v === null || v === undefined ? '—' : (v * 100).toFixed(1);
+const qlab = p => { const d = new Date(p); return `${String(d.getFullYear()).slice(2)}Q${Math.floor(d.getMonth() / 3) + 1}`; };
+function fillRows(tbody, rows) {
+  if (!tbody) return;
+  rows.forEach(cells => {
+    const tr = document.createElement('tr');
+    if (cells.me) tr.className = 'me';
+    (cells.cells || cells).forEach(c => {
+      const td = document.createElement('td');
+      if (typeof c === 'object' && c !== null) {
+        if (c.n) td.className = 'n';
+        if (c.cls) td.className = (td.className + ' ' + c.cls).trim();
+        if (c.href) { const a = document.createElement('a'); a.href = c.href; a.textContent = c.text; a.target = '_blank'; a.rel = 'noopener'; td.appendChild(a); }
+        else td.textContent = c.text;
+      } else td.textContent = c;
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+function head(id, cells, textCols = 1) {
+  const h = el(id); if (!h) return;
+  const tr = document.createElement('tr');
+  cells.forEach((c, i) => { const th = document.createElement('th'); th.textContent = c; if (i >= textCols) th.className = 'n'; tr.appendChild(th); });
+  h.replaceChildren(tr);
+}
+function legend(id, items) {
+  const box = el(id); if (!box) return;
+  box.replaceChildren(...items.filter(Boolean).map(([cls, label, box2]) => { const s = document.createElement('span'); s.className = 'leg-' + cls; const i = document.createElement('i'); if (box2) i.className = 'box'; s.append(i, label); return s; }));
+}
+function bullets(id, items) {
+  const ul = el(id); if (!ul) return;
+  items.filter(Boolean).forEach(([b, t]) => { const li = document.createElement('li'); if (b) { const bb = document.createElement('b'); bb.textContent = b; li.appendChild(bb); } li.appendChild(document.createTextNode(t)); ul.appendChild(li); });
+}
+function tiles(id, items) {
+  const box = el(id); if (!box) return;
+  items.filter(Boolean).forEach(([lab, val, small, dl]) => {
+    const t = document.createElement('div'); t.className = 'tile'; t.setAttribute('role', 'listitem');
+    const a = document.createElement('div'); a.className = 'lab'; a.textContent = lab;
+    const v = document.createElement('div'); v.className = 'val'; v.textContent = val;
+    if (small) { const s = document.createElement('small'); s.textContent = ' ' + small; v.appendChild(s); }
+    const d = document.createElement('div'); d.className = 'dl'; d.textContent = dl || '';
+    t.append(a, v, d); box.appendChild(t);
+  });
+}
+function verdict(id, items) {
+  const ul = el(id); if (!ul) return;
+  items.forEach(([cls, tag, text]) => { const li = document.createElement('li'); const s = document.createElement('span'); s.className = 'pill ' + cls; s.textContent = tag; const t = document.createElement('span'); t.textContent = text; li.append(s, t); ul.appendChild(li); });
+}
+function setText(id, t) { const e = el(id); if (e) e.textContent = t; }
+function logTicksFor(vals) {
+  const v = vals.filter(x => x !== null && isFinite(x)), lo = Math.min(...v), hi = Math.max(...v);
+  const cand = [1, 2, 3, 5, 10, 15, 20, 30, 40, 50, 60, 80, 100, 120, 150, 200, 250, 300, 400, 500, 600, 800, 1000, 1500, 2000, 3000, 5000, 10000];
+  let t = cand.filter(c => c >= lo * 0.92 && c <= hi * 1.06);
+  while (t.length > 7) t = t.filter((_, i) => i % 2 === 0);
+  return t.length >= 2 ? t : [lo, hi];
+}
+const keys = ['tgt', 'sec', 'sty', 'mkt'].filter(k => k === 'tgt' || k === 'mkt' || HAS[k]);
+const KC = { tgt: 'c2', mkt: 'c1', sec: 'c3', sty: 'c4' };
+const KF = { tgt: 'f2', mkt: 'f1', sec: 'f3', sty: 'f4' };
+const V = F.valuation || {};
+const OPSC = OPS.filter(q => q.calendar === 'calendar');
+
+/* ---------- auto text (market model, volatility, events, methods, sources) ---------- */
+(() => {
+  const st = DATA.stats, s = st.tgt, sm = DATA.sim_mkt;
+  el('bench-note').textContent = `“市场”为恒生指数，用盈富基金（2800.HK）的分红复权价代表含股息的恒指（Yahoo 没有恒指全收益序列）；“板块”为 ${M.sector.names.length} 家港股餐饮同业的等权日收益（不含本公司，新股上市后前 20 个交易日不计入，至少 ${M.sector.min_names} 家有报价才计算；样本起点 ${M.sector.n_start} 家，目前 ${M.sector.n_last} 家）。股价按分红复权。港股线样本从 2020-09-10 港股上市开始。`;
+  el('vol-lede').textContent = `样本：港股线 ${M.start} 至 ${M.end}，共 ${M.n_days.toLocaleString('en-US')} 个日收益观测值。港股线含分红累计 ${spct(s.total_return, 1)}（年化 ${spct(s.ann_return_geo, 1)}），同期恒指（含息）${spct(st.mkt.total_return, 1)}、餐饮同业 ${spct(st.sec.total_return, 1)}；年化波动率 ${pct(s.ann_vol, 1)}，恒指 ${pct(st.mkt.ann_vol, 1)}、同业 ${pct(st.sec.ann_vol, 1)}。美股线（2016-11 起，更长）含分红 ${spct(VA.us_line_stats.total_return, 1)}（年化 ${spct(VA.us_line_stats.ann_return, 1)}），同期标普 500 全收益 ${spct(VA.us_line_stats.spx_total_return, 1)}；年化波动率 ${pct(VA.us_line_stats.ann_vol, 1)}，对标普 β ${VA.us_line_stats.beta_spx.toFixed(2)}（R² ${pct(VA.us_line_stats.r2_spx, 1)}）。`;
+  el('cap-price').textContent = `累计表现（${M.start} = 100，含分红，对数坐标）`;
+  el('formula-factors').innerHTML = `R<sub>${ME}</sub> − R<sub>f</sub> = α + β<sub>M</sub>(R<sub>M</sub> − R<sub>f</sub>) + β<sub>S</sub>·F<sub>板块⊥市场</sub> + e　　F 为板块指数对市场回归的残差`;
+  el('cap-scatter').textContent = `相对${N.mkt}，β = ${sm.beta.toFixed(2)}，R² = ${sm.r2.toFixed(2)}`;
+  const g = DATA.garch.tgt;
+  el('garch-text').textContent = `GARCH(1,1)（学生 t 分布）估计：α = ${g.alpha.toFixed(3)}，β = ${g.beta.toFixed(3)}，持续性 ${g.persistence.toFixed(3)}，波动冲击的半衰期约 ${Math.round(g.half_life_days)} 个交易日，长期均值约 ${pct(g.long_run_vol_ann, 0)}，当前条件波动率约 ${pct(g.current_cond_vol_ann, 0)}。最大的 10 个交易日贡献了 ${pct(DATA.top10_days_var_share, 0)} 的方差。`;
+  const f = DATA.factors;
+  bullets('beta-points', [
+    ['全样本：', `对${N.mkt} β ${sm.beta.toFixed(2)}（R² ${pct(sm.r2, 1)}），对${N.sec} β ${DATA.sim_sec.beta.toFixed(2)}（R² ${pct(DATA.sim_sec.r2, 1)}）；加入正交化的板块因子后 R² 只升到 ${pct(f.r2_two, 1)}，板块因子 β ${f.beta_sec_o.toFixed(2)}（t = ${f.t_sec_o.toFixed(1)}）。`],
+    ['非对称：', `市场下跌日 β ${DATA.down_beta_mkt.toFixed(2)}，上涨日 ${DATA.up_beta_mkt.toFixed(2)}；周度 β ${DATA.sim_mkt_weekly.beta.toFixed(2)}，月度 β ${DATA.sim_mkt_monthly.beta.toFixed(2)}（R² ${pct(DATA.sim_mkt_monthly.r2, 0)}），Dimson β ${DATA.dimson_beta_mkt.toFixed(2)}：时间拉长后与恒指的联动更强。`],
+    ['分时期：', (DATA.factors_periods || []).map(p => `${p.label} 对市场 β ${p.beta_mkt.toFixed(2)}、R² ${pct(p.r2_two, 0)}`).join('；') + '。'],
+  ]);
+  bullets('beta-summary', [
+    ['市场 β：', `港股线对恒指 ${sm.beta.toFixed(2)}（95% 区间 ${sm.beta_ci95.map(v => v.toFixed(2)).join('–')}），系统性风险占总方差 ${pct(sm.systematic_share, 0)}；美股线对标普 500 为 ${VA.us_line_stats.beta_spx.toFixed(2)}。`],
+    ['板块 β：', `${DATA.sim_sec.beta.toFixed(2)}；板块本身对恒指的 β 为 ${DATA.sec_on_mkt.beta.toFixed(2)}，即餐饮股整体比恒指更敏感，而百胜中国比板块稳。`],
+    ['CAPM 必要回报：', `${pct(DATA.capm.required_return, 1)}（无风险利率 ${pct(DATA.capm.rf_latest, 2)}，用美国 3 个月国库券代表港元利率，股权风险溢价 ${pct(DATA.capm.erp, 0)}）。`],
+  ]);
+  const yr = DATA.by_year;
+  const y25 = yr.find(y => y.year === 2025), y26 = yr.find(y => y.year === 2026), y24 = yr.find(y => y.year === 2024);
+  el('vol-wrap').textContent = `小结：港股线的波动率与餐饮同业相当（${pct(s.ann_vol, 1)} 对 ${pct(st.sec.ann_vol, 1)}），比恒指高 ${Math.round((s.ann_vol - st.mkt.ann_vol) * 100)} 个百分点；但收益走势与同业差别很大：同业指数自 ${dt(st.sec.mdd_peak)} 高点最多下跌 ${pct(-st.sec.max_drawdown, 0)}，百胜中国最大回撤 ${spct(s.max_drawdown, 1)}，目前距高点 ${spct(s.current_drawdown, 1)}。年度上，2024 年 ${spct(y24.ret_tgt, 1)}（恒指 ${spct(y24.ret_mkt, 1)}），2025 年 ${spct(y25.ret_tgt, 1)}（恒指 ${spct(y25.ret_mkt, 1)}，大幅跑输），2026 年以来 ${spct(y26.ret_tgt, 1)}（恒指 ${spct(y26.ret_mkt, 1)}，同业 ${spct(y26.ret_sec, 1)}）。GARCH 当前条件波动率 ${pct(DATA.garch.tgt.current_cond_vol_ann, 0)}，低于长期均值 ${pct(DATA.garch.tgt.long_run_vol_ann, 0)}。`;
+  el('events-lede').textContent = `用“${N.mkt} + ${N.sec}”两因子模型剔除大盘与行业的影响，计算港股事件反应日的异常收益（AR），并用残差标准差检验显著性。业绩的反应日按 SEC 8-K 的提交时间确定：2024 年三季度起公司在美东早上 6 点前后（香港时间傍晚至晚上）发布，此时港股已收盘，次日反应；此前在美东收盘后发布（香港时间次日清晨），港股当天开盘即可反应，比美股早约半天。`;
+  el('ar-formula').innerHTML = `AR<sub>t</sub> = R<sub>t</sub> − (α̂ + β̂<sub>M</sub> R<sub>M,t</sub> + β̂<sub>S</sub> F<sub>t</sub>)　　t = AR / σ(e)，σ(e) = ${(DATA.resid_sd_daily * 100).toFixed(2)}%；|t| &gt; 1.96 视为在 5% 水平显著`;
+  const cy = DATA.car_by_year, yrs = Object.keys(cy);
+  el('car-note').textContent = `按年度累计异常收益：` + yrs.map(y => `${y} 年 ${spct(cy[y], 0)}`).join('，') + `。累计异常收益衡量的是相对模型预期的全年表现，不只来自事件日：2025 年恒指上涨 ${spct(y25.ret_mkt, 1)}，百胜中国 ${spct(y25.ret_tgt, 1)}；2026 年以来恒指 ${spct(y26.ret_mkt, 1)}、餐饮同业 ${spct(y26.ret_sec, 1)}，百胜中国 ${spct(y26.ret_tgt, 1)}。`;
+  const earn = DATA.earnings_abs_move_avg, sig = EV.filter(e => Math.abs(e.ar_t) > 1.96);
+  bullets('event-points', [
+    ['显著事件：', `${EV.length} 个事件中 ${sig.length} 个的当日异常收益在 5% 水平显著；25 次业绩中 ${sig.filter(e => e.category === 'earnings').length} 次显著。`],
+    ['业绩日：', `业绩后首个港股交易日平均绝对涨跌 ${pct(earn, 1)}，其他交易日平均 ${pct(DATA.normal_abs_move_avg, 1)}，约为 ${(earn / DATA.normal_abs_move_avg).toFixed(1)} 倍。`],
+    ['资本回报与战略：', '回购扩大（2022-03-18 异常收益 +3.8%）、四季报叠加回购加码（2024-02-07 +15.0%）的反应明显；两次投资者日（2023-09-15 +3.5%、2025-11-17 +1.0%）、纳入港股通（2022-10-24 −2.9%）与收购必胜客品牌（2026-06-17 −1.4%）的反应都不显著。'],
+    ['跟随美股：', '美股先对消息定价，港股在下一个交易时段跟随：2024-03-20（美股前一日 −7.5%，港股异常收益 −6.1%）、2025-04-23（美股前一日 +7.4%，港股异常收益 +8.1%）。9.5 节的回归显示这种跟随在统计上很稳定。'],
+  ]);
+  if (HAS.exdiv) { const x = DATA.ex_dividend_summary; el('exdiv-text').textContent = `${x.n} 次除息日中 ${x.n_neg} 次下跌，按分红复权后的平均收益 ${spct(x.avg_ret_ex, 2)}、平均异常收益 ${spct(x.avg_ar_ex, 2)}：季度股息只占股价约 0.5%，除息日没有可辨别的效应。`; }
+  const methods = [
+    `行情：港股 ${M.start} 至 ${M.end}、美股 ${VA.us_line_stats.start} 至 ${VA.us_line_stats.end} 的日度数据（Yahoo Finance，分红复权）；恒指用盈富基金复权价。年化按 252 个交易日，波动率用对数收益，β 与事件研究用超额简单收益（减美国 3 个月国库券利率）。`,
+    `模型：单指数模型（OLS，HAC 稳健标准误），板块因子为同业等权指数对市场回归的残差；GARCH(1,1) 学生 t 分布；滚动窗口 63 / 126 / 252 日。同业板块 β 用不含自身的等权指数计算（留一法），排名由程序计算。`,
+    `事件研究：事件日为港股首次能够反应的交易日（按 SEC 与港交所披露时间；午间休市时段发布计入当日）；AR 用全样本模型估计，t = AR/σ(e)；CAR 为事件日起 6 个交易日的累计。`,
+    `波动率套利：实现波动率用收盘价、Parkinson、Garman–Klass、Rogers–Satchell、Yang–Zhang 估计；预测用 GARCH(1,1)-t、GJR-GARCH-t 与 HAR-RV（日方差用隔夜收益平方加 Garman–Klass）；样本外检验从 2019 年起每 21 个交易日扩展窗口重估一次，目标为之后 21 个交易日的实现方差，比较 RMSE、QLIKE、Diebold–Mariano 与 Mincer–Zarnowitz 回归。期权隐含波动率用 2026-11-25 收盘报价（Yahoo），按 Black–Scholes 由中间价重新计算。`,
+    `跨市场：港股收盘价按港元兑美元折算，与此前最后一个美股收盘比较；平稳性用 ADF 与 KPSS，半衰期由 AR(1) 系数计算；领先—滞后回归用 HAC 稳健标准误；日内规则按 2020-09 至 2023 年与 2024 年以来分段，往返成本按 0.25% 计（印花税每边 0.1%，加佣金与半个价差）。`,
+    `周期检验：月份效应用 12 个月份哑变量的 F 检验、Alexander–Govern 检验、Kruskal–Wallis 检验和 20,000 次置换检验；单月对其他月份用 Welch t 检验；星期、月末月初、春节与国庆前后窗口、财报前后漂移；Ljung–Box、ARCH-LM、Lo–MacKinlay 方差比（异方差稳健）、游程检验；周期图与 Fisher g 检验、Bartlett 累积周期图检验；20% 规则识别涨跌波段，并用平均块长 20 天的平稳块自助法（2,000 次）检验其规律性；业务季节性用趋势加季度哑变量的回归 F 检验与 Friedman 检验；全部收益规律检验用 Benjamini–Hochberg 方法控制错误发现率。`,
+  ];
+  bullets('method-list', methods.map(t => [null, t]));
+  const src = (F.sources || []).map(s => [s.label, s.url]).concat((F.industry || []).map(i => [i.label + '（行业）', i.url])).concat((V.broker_targets || []).map(b => [`${b.broker} ${b.date}（券商，第三方）`, b.url])).concat(EV.filter(e => e.source).map(e => [`${e.day0} ${e.short || e.title}`, e.source]));
+  const ul = el('source-list');
+  src.forEach(([lab, url]) => { const li = document.createElement('li'); const a = document.createElement('a'); a.href = url; a.textContent = lab; a.target = '_blank'; a.rel = 'noopener'; li.appendChild(a); ul.appendChild(li); });
+})();
+
+/* ---------- tiles ---------- */
+(() => {
+  const s = DATA.stats.tgt;
+  tiles('tiles', [
+    [`港股收盘价（${M.end.slice(5).replace('-', '/')}）`, 'HK$' + M.last_raw_close.toFixed(1), '', `市值 ${num(V.mcap_hkd_mn / 100, 0)} 亿港元（${num(V.mcap_usd_mn / 100, 0)} 亿美元）`],
+    ['市盈率（TTM / 预期）', V.pe_ttm.toFixed(1) + 'x', '/ ' + V.pe_fwd_consensus.toFixed(1) + 'x', `港股上市以来 ${pct(V.pe_pct, 0)} 分位；EV/EBITDA ${V.ev_ebitda.toFixed(1)}x`],
+    ['年化波动率', pct(s.ann_vol, 0), '', `${N.mkt} ${pct(DATA.stats.mkt.ann_vol, 0)}，${N.sec} ${pct(DATA.stats.sec.ann_vol, 0)}`],
+    ['β（对恒指 / 对同业）', DATA.sim_mkt.beta.toFixed(2), '/ ' + DATA.sim_sec.beta.toFixed(2), `R² ${pct(DATA.sim_mkt.r2, 0)}；下跌日 β ${DATA.down_beta_mkt.toFixed(2)}`],
+    ['净现金', '$' + num(F.solvency.net_cash / 100, 1) + ' 亿', '', `现金及存款 $${num(F.solvency.cash_total / 100, 1)} 亿 − 借款 $${num(F.solvency.debt / 100, 1)} 亿（2026-09）`],
+    ['2026 年股东回报率', pct(V.shareholder_yield_2026, 1), '', `15 亿美元回馈 ÷ 市值；股息率 ${pct(V.dy_fwd, 1)}`],
+  ]);
+  tiles('val-tiles', [
+    ['市盈率 TTM / 预期', V.pe_ttm.toFixed(1) + 'x', '/ ' + V.pe_fwd_consensus.toFixed(1) + 'x', `摊薄 EPS（TTM）$${V.eps_ttm.toFixed(2)}；港股上市以来中位数 ${V.pe_hist_median.toFixed(1)}x`],
+    ['EV/EBITDA', V.ev_ebitda.toFixed(1) + 'x', '', `企业价值 ${num(V.ev_usd_mn / 100, 0)} 亿美元（含少数股东权益，扣净现金）`],
+    ['自由现金流收益率', pct(V.fcf_yield, 1), '', `过去 12 个月自由现金流 $${num(F.solvency.fcf_ttm / 100, 1)} 亿；市净率 ${V.pb.toFixed(2)}x`],
+  ]);
+})();
+
+/* ---------- company, financials, debt, sensitivity, outlook tables ---------- */
+(() => {
+  const K = OPSC.filter(q => q.p >= '2024-01-01');
+  fillRows(tb('tbl-kpi'), K.map(q => [q.label, { n: 1, text: spct(q.sys_growth, 0), cls: tone(q.sys_growth) }, { n: 1, text: fmt0(q.sssg), cls: tone(q.sssg) }, { n: 1, text: q.sst === null || q.sst === undefined ? '—' : fmt0(q.sst), cls: tone(q.sst) }, { n: 1, text: pct(q.rm, 1) }, { n: 1, text: num(q.net_new) }, { n: 1, text: num(q.stores) }, { n: 1, text: q.delivery_pct ? pct(q.delivery_pct, 0) : '—' }]));
+  const A = F.annual || [];
+  fillRows(tb('tbl-annual'), A.map(a => [String(a.y), { n: 1, text: num(a.revenue) }, { n: 1, text: spct(a.revenue_yoy, 1), cls: tone(a.revenue_yoy) }, { n: 1, text: num(a.op) }, { n: 1, text: a.adj_opm ? pct(a.adj_opm, 1) : pct(a.opm, 1) + '*' }, { n: 1, text: num(a.np) }, { n: 1, text: spct(a.np_yoy, 1), cls: tone(a.np_yoy) }, { n: 1, text: a.eps.toFixed(2) }, { n: 1, text: pct(a.roe, 1) }, { n: 1, text: num(a.ocf) }, { n: 1, text: num(a.capex) }, { n: 1, text: num(a.returns) }]));
+  const Q = (F.quarters || []).filter(q => q.p >= '2024-01-01');
+  fillRows(tb('tbl-quarters'), Q.map(q => [q.label, { n: 1, text: num(q.revenue) }, { n: 1, text: spct(q.revenue_yoy, 1), cls: tone(q.revenue_yoy) }, { n: 1, text: num(q.op) }, { n: 1, text: spct(q.op_yoy, 1), cls: tone(q.op_yoy) }, { n: 1, text: pct(q.opm, 1) }, { n: 1, text: pct(q.rm, 1) }, { n: 1, text: num(q.np) }]));
+  const B = F.balance || [];
+  fillRows(tb('tbl-bal'), B.map(b => [b.p, { n: 1, text: num(b.cash) }, { n: 1, text: num(b.sti) }, { n: 1, text: num(b.lt_deposits) }, { n: 1, text: num(b.cash_total) }, { n: 1, text: num(b.debt) }, { n: 1, text: num(b.net_cash), cls: tone(b.net_cash) }, { n: 1, text: num(b.lease) }, { n: 1, text: num(b.equity) }]));
+  const sv = F.solvency;
+  bullets('solvency-points', [
+    ['借款：', `短期借款 ${num(sv.debt)} 百万美元，其中过桥贷款 ${num(sv.bridge.amount)} 百万美元（${sv.bridge.currency}离岸人民币，约 ${pct(sv.bridge.rate, 1)}，${sv.bridge.term}），其他人民币银行借款 ${num(sv.bridge.other)} 百万美元；加权平均利率 ${pct(sv.bridge.weighted_rate, 1)}。`],
+    ['偿债指标：', `借款 / 过去 12 个月 EBITDA（${num(sv.ebitda_ttm)} 百万美元）为 ${sv.debt_to_ebitda.toFixed(2)} 倍；现金及存款仍比借款多 ${num(sv.net_cash)} 百万美元。计入经营租赁负债 ${num(sv.lease)} 百万美元后，净负债为 ${num(sv.lease_adj_net_debt)} 百万美元。`],
+    ['现金流：', `过去 12 个月经营现金流 ${num(sv.cfo_ttm)} 百万美元，资本开支 ${num(sv.capex_ttm)} 百万美元，自由现金流 ${num(sv.fcf_ttm)} 百万美元；2026 年前三季度分红与回购合计 ${num(sv.returns_9m26)} 百万美元。`],
+  ]);
+  fillRows(tb('tbl-sens'), (F.sensitivity || []).map(s => [s.label, s.change, { n: 1, text: (s.op >= 0 ? '±' : '∓') + num(Math.abs(s.op), 0), cls: '' }, { n: 1, text: pct(Math.abs(s.share_of_op), 1) }, { text: s.basis, cls: 'w small' }]).map((r, i, arr) => {
+    const s = F.sensitivity[i];
+    if (s.change === '全年') { r[2] = { n: 1, text: (s.op >= 0 ? '+' : '−') + num(Math.abs(s.op), 0), cls: tone(s.op) }; r[3] = { n: 1, text: spct(s.share_of_op, 1), cls: tone(s.op) }; }
+    return r;
+  }));
+  const se = F.sensitivity_empirical;
+  setText('sens-emp', `2019 年以来 ${se.n} 个季度，同店销售每 +1 个百分点，经调整经营利润率同比平均 +${se.slope_pp_per_pp.toFixed(2)} 个百分点（t = ${se.t.toFixed(1)}，R² ${se.r2.toFixed(2)}）；剔除 2020–2022 年疫情季度后为 +${se.slope_ex.toFixed(2)} 个百分点（t = ${se.t_ex.toFixed(1)}，${se.n_ex} 个季度）。按过去 12 个月约 127 亿美元收入换算，每个百分点对应约 4,400 万至 5,900 万美元经营利润，与上表 6,000 万美元的示意测算一致。`);
+  fillRows(tb('tbl-guidance'), (F.guidance || []).map(g => [{ text: g.item, cls: 'nw' }, { text: g.value, cls: 'w' }, { text: g.src, cls: 'small' }]));
+  const tgt = V.broker_targets || [];
+  fillRows(tb('tbl-targets'), tgt.map(t => [t.broker, t.rating, { n: 1, text: 'HK$' + t.target.toFixed(1) }, { n: 1, text: spct(t.target / V.price_hk - 1, 0), cls: tone(t.target / V.price_hk - 1) }, { text: t.note, cls: 'small' }, { text: t.date, href: t.url }]).concat([['Yahoo 一致预期（港股）', `${V.n_analysts_hk} 位分析师`, { n: 1, text: 'HK$' + V.target_mean_hk.toFixed(1) }, { n: 1, text: spct(V.upside_consensus_hk, 0), cls: tone(V.upside_consensus_hk) }, { text: `美股线 $${V.target_mean_us.toFixed(1)}（${V.n_analysts_us} 位，区间 $${V.target_low_us}–$${V.target_high_us}）`, cls: 'small' }, '2026-11-26 抓取']]));
+  setText('val-text', `估值结论：按 2026 年 15 亿美元回馈，股东回报率约 ${pct(V.shareholder_yield_2026, 1)}（股息率 ${pct(V.dy_fwd, 1)}，其余为回购）；2027 年起回馈约 9–10 亿美元以上，按现价约 5%–6%。市盈率 ${V.pe_ttm.toFixed(1)} 倍处于港股上市以来 ${pct(V.pe_pct, 0)} 分位（区间 ${V.pe_hist_min.toFixed(1)}–${V.pe_hist_max.toFixed(1)} 倍，中位数 ${V.pe_hist_median.toFixed(1)} 倍），美股口径的预期市盈率 ${V.pe_fwd_consensus.toFixed(1)} 倍，在 6.4 节的 8 家全球快餐与咖啡公司中仅高于瑞幸（${(F.global_peers || []).find(g => g.code === 'LKNCY').pe_fwd.toFixed(1)} 倍）。三家券商中两家在三季报后给出 482–514 港元的目标价（+18% 至 +26%），海通国际在三季报前把目标价下调到 379.6 港元；Yahoo 汇总的一致目标价 ${V.target_mean_hk.toFixed(1)} 港元（+${Math.round(V.upside_consensus_hk * 100)}%）。`);
+})();
+
+/* ---------- peers ---------- */
+(() => {
+  const FP = (F.peers || []).slice().sort((a, b) => (b.mcap_cny || 0) - (a.mcap_cny || 0));
+  fillRows(tb('tbl-peer-fin'), FP.map(p => ({ me: p.code === ME, cells: [p.name, { n: 1, text: num(p.mcap_cny / 100, 0) }, { n: 1, text: num(p.revenue / 100, 1) }, { n: 1, text: spct(p.revenue_yoy, 1), cls: tone(p.revenue_yoy) }, { n: 1, text: spct(p.np_yoy, 0), cls: tone(p.np_yoy) }, { n: 1, text: pct(p.roe, 1) }, { n: 1, text: pct(p.net_margin, 1) }, { n: 1, text: spct(p.rev_latest_yoy, 1), cls: tone(p.rev_latest_yoy) }, { n: 1, text: p.pe_ttm ? p.pe_ttm.toFixed(1) + 'x' : '—' }, { n: 1, text: p.pb ? p.pb.toFixed(2) + 'x' : '—' }, { n: 1, text: p.pe_fwd === null || p.pe_fwd === undefined ? '—' : (p.pe_fwd < 0 ? '亏损' : p.pe_fwd.toFixed(1) + 'x') }] })));
+  const R = F.peer_ranks, Md = F.peer_medians, me = FP.find(p => p.code === ME);
+  setText('peer-fin-note', `排名（共 ${R.revenue.of} 家）：收入第 ${R.revenue.rank}、市值第 ${R.mcap_cny.rank}（占 16 家合计 ${pct(me.mcap_cny / F.peer_mcap_total_cny, 0)}）；2025 年收入增速 ${spct(me.revenue_yoy, 1)}，第 ${R.revenue_yoy.rank}（同业中位数 ${spct(Md.revenue_yoy, 1)}）；净利润增速 ${spct(me.np_yoy, 1)}，第 ${R.np_yoy.rank}（中位数 ${spct(Md.np_yoy, 0)}，多家同业从低基数反弹）；ROE ${pct(me.roe, 1)}，第 ${R.roe.rank}（中位数 ${pct(Md.roe, 1)}）；净利率 ${pct(me.net_margin, 1)}，第 ${R.net_margin.rank}；最新期收入增速 ${spct(me.rev_latest_yoy, 1)}，第 ${R.rev_latest_yoy.rank}（共 ${R.rev_latest_yoy.of} 家，中位数 ${spct(Md.rev_latest_yoy, 1)}）；市盈率 ${me.pe_ttm.toFixed(1)} 倍，盈利公司中第 ${R.pe_ttm.rank} 高（共 ${R.pe_ttm.of} 家，中位数 ${Md.pe_ttm.toFixed(1)} 倍）；市净率 ${me.pb.toFixed(2)} 倍，第 ${R.pb.rank} 高（中位数 ${Md.pb.toFixed(2)} 倍）。`);
+  if (HAS.peers) {
+    const P = DATA.peers, pk = ['ret_2023', 'ret_2024', 'ret_2025', 'ret_ytd', 'ret_3y'];
+    const lab = k => k === 'ret_ytd' ? '2026 年以来' : k === 'ret_3y' ? '近三年' : k.replace('ret_', '') + ' 年';
+    head('thead-peer-vol', ['公司', ...pk.map(lab), '近一年波动率', '对恒指 β', '对板块 β', '与板块相关', '距高点']);
+    fillRows(tb('tbl-peer-vol'), P.slice().sort((a, b) => (b.ret_3y ?? -9) - (a.ret_3y ?? -9)).map(p => ({ me: p.code === ME, cells: [p.name, ...pk.map(k => ({ n: 1, text: p[k] === null || p[k] === undefined ? '—' : spct(p[k], 0), cls: tone(p[k]) })), { n: 1, text: pct(p.vol_1y, 0) }, { n: 1, text: x2(p.beta_mkt) }, { n: 1, text: x2(p.beta_sec) }, { n: 1, text: x2(p.corr_sec) }, { n: 1, text: fmt0(p.dd_from_high), cls: 'neg-t' }] })));
+    const r = DATA.peer_ranks, mep = P.find(p => p.code === ME);
+    setText('peer-vol-note', `百胜中国近一年波动率 ${pct(mep.vol_1y, 1)}，在 ${r.vol_1y.of} 家中第 ${r.vol_1y.rank} 高（即第 ${r.vol_1y.of - r.vol_1y.rank + 1} 低）；2026 年以来收益 ${spct(mep.ret_ytd, 1)}，第 ${r.ret_ytd.rank}；近三年 ${spct(mep.ret_3y, 1)}，第 ${r.ret_3y.rank}（共 ${r.ret_3y.of} 家有三年数据）；对板块 β ${mep.beta_sec.toFixed(2)}，第 ${r.beta_sec.rank} 高，与板块的相关系数 ${mep.corr_sec.toFixed(2)}。同业里只有味千（${pct(P.find(p => p.code === '538').vol_1y, 1)}）的波动率更低。新股（2024–2025 年上市的茶百道、小菜园、古茗、蜜雪、沪上阿姨、绿茶）的统计从上市第 21 个交易日开始。`);
+  }
+  fillRows(tb('tbl-global'), (F.global_peers || []).map(g => ({ me: g.code === 'YUMC', cells: [g.name, { n: 1, text: num(g.mcap_usd_bn * 10, 0) }, { n: 1, text: g.pe_ttm ? g.pe_ttm.toFixed(1) + 'x' : '—' }, { n: 1, text: g.pe_fwd ? g.pe_fwd.toFixed(1) + 'x' : '—' }, { n: 1, text: g.ev_ebitda ? g.ev_ebitda.toFixed(1) + 'x' : '—' }, { n: 1, text: pct(g.op_margin, 1) }, { n: 1, text: spct(g.rev_growth_q, 1), cls: tone(g.rev_growth_q) }] })));
+  const pf = c => FP.find(p => p.code === c), gp = c => (F.global_peers || []).find(g => g.code === c);
+  const fw = FP.filter(p => p.code !== ME && p.pe_fwd > 0).map(p => p.pe_fwd).sort((a, b) => a - b);
+  const fwMed = fw.length % 2 ? fw[(fw.length - 1) / 2] : (fw[fw.length / 2 - 1] + fw[fw.length / 2]) / 2;
+  bullets('peer-points', [
+    ['一致预期：', `Yahoo 汇总的港股预期市盈率：百胜中国 ${me.pe_fwd.toFixed(1)} 倍，海底捞 ${pf('6862').pe_fwd.toFixed(1)} 倍，蜜雪 ${pf('2097').pe_fwd.toFixed(1)} 倍，古茗 ${pf('1364').pe_fwd.toFixed(1)} 倍；有预期且预期盈利的 ${fw.length} 家同业中位数 ${fwMed.toFixed(1)} 倍。分析师对百胜中国的一致目标价比现价高 ${Math.round(V.upside_consensus_hk * 100)}%（第三方）。`],
+    ['经营节奏：', `最新一期同业收入增速的中位数为 ${spct(Md.rev_latest_yoy, 1)}，百胜中国前三季度 ${spct(me.rev_latest_yoy, 1)}（美元口径，剔除汇率为 +4%），排第 ${R.rev_latest_yoy.rank}。增长最快的是沪上阿姨（${spct(pf('2589').rev_latest_yoy, 0)}）、古茗（${spct(pf('1364').rev_latest_yoy, 0)}）和达势股份（${spct(pf('1405').rev_latest_yoy, 0)}）；但茶饮龙头的利润开始承压：古茗、蜜雪上半年净利润同比 ${spct(pf('1364').np_latest_yoy, 0)}、${spct(pf('2097').np_latest_yoy, 0)}，蜜雪收入只增长 ${pct(pf('2097').rev_latest_yoy, 0)}。百胜中国是“低增长、稳利润”的一端：最新期净利润 ${spct(me.np_latest_yoy, 1)}，排第 ${R.np_latest_yoy.rank}。`],
+    ['全球参照：', `百胜中国的经营利润率（Yahoo 口径 ${pct(gp('YUMC').op_margin, 1)}）远低于以加盟为主的麦当劳（${pct(gp('MCD').op_margin, 1)}）和 Yum! Brands（${pct(gp('YUM').op_margin, 1)}），因为它以直营为主、收入里包含餐厅的全部成本；更可比的是同样以直营为主的星巴克（${pct(gp('SBUX').op_margin, 1)}）和 Chipotle（${pct(gp('CMG').op_margin, 1)}），两者的预期市盈率为 ${gp('CMG').pe_fwd.toFixed(1)}–${gp('SBUX').pe_fwd.toFixed(1)} 倍，百胜中国为 ${gp('YUMC').pe_fwd.toFixed(1)} 倍。`],
+  ]);
+})();
+
+/* ---------- volatility arbitrage ---------- */
+(() => {
+  const o = VA.options, T = o.term, hk = VA.hkex_options || {}, cone = VA.cone_us, fc = VA.forecast, oos = VA.oos.models, e = VA.earnings, iv30 = VA.iv30_recent;
+  const ll = VA.lead_lag, llc = VA.lead_lag_controls, pr = VA.premium.prev, tl = VA.two_lines, rule = VA.intraday_rule.rows;
+  const spreads = T.map(t => t.atm_spread_volpts).filter(v => v !== null);
+  const rel = T.map(t => t.atm_rel_spread).filter(v => v !== null && v !== undefined);
+  // an earnings jump with the historical mean absolute move, read as a normal shock, added to a 21-day option at 25% base volatility
+  const evSd = e.us.mean_abs * Math.sqrt(Math.PI / 2), ivJump = Math.sqrt(0.25 ** 2 + evSd ** 2 * 252 / 21);
+  const dq = (hk.dqe_file || '').match(/(\d{2})(\d{2})(\d{2})/), dqDate = dq ? `20${dq[1]}-${dq[2]}-${dq[3]}` : '';
+  verdict('verdict', [
+    ['no', '不具备', `港股没有 9987 期权；美股 YUMC 期权只有 ${o.totals.n_expiries} 个月度到期，平值买卖价差 ${Math.round(Math.min(...spreads) * 100)}–${Math.round(Math.max(...spreads) * 100)} 个波动率点。`],
+    ['no', '没有错价', `平值隐含波动率 ${pct(Math.min(...T.map(t => t.atm_iv)), 0)}–${pct(Math.max(...T.map(t => t.atm_iv)), 0)}，与扣除模型偏差后的预测实现波动率（约 30%）相近，差距远小于买卖价差。`],
+    ['no', '难以预测', `实现波动率的样本外预测解释力很低（Mincer–Zarnowitz R² 最高 ${pct(Math.max(oos.rw.mz_r2, oos.garch.mz_r2, oos.har.mz_r2), 1)}），HAR 与 GARCH 也没有显著好于“用过去 21 天代替未来”。`],
+    ['weak', '尾部风险大', `财报日平均绝对涨跌 ${pct(e.us.mean_abs, 1)}（美股线 ${e.us.n} 次），一次财报相当于让一个月期、基础波动率 25% 的期权多出约 ${Math.round((ivJump - 0.25) * 100)} 个波动率点；卖波动率的收益会被财报跳空吃掉。`],
+    ['weak', '有线索', `跨市场：美股前一日涨跌超过 1% 后，港股次日开盘到收盘继续同向；扣除 0.25% 往返成本后，2024 年以来每笔仍有 ${spct(rule.find(r => r.threshold === 0.01 && r.period === '2024 年以来').net_mean, 2)}（t = ${rule.find(r => r.threshold === 0.01 && r.period === '2024 年以来').t_net.toFixed(1)}）。`],
+  ]);
+  setText('opt-structure', `港交所 ${dqDate} 的股票期权日报共列出 ${hk.dqe_n_classes} 个期权类别，其中没有百胜中国（日报中检索不到“YUM”或股票代码 09987），所以港股投资者无法直接交易 9987 的波动率。美股 YUMC 期权（${o.asof_close} 收盘）只有 ${o.totals.n_expiries} 个月度到期日（${T[0].expiry.slice(0, 7)} 至 ${T[T.length - 1].expiry.slice(0, 7)}），共 ${o.totals.n_contracts} 个合约，其中 ${o.totals.n_two_sided} 个有双边报价；未平仓合约 ${num(o.totals.oi)} 张（约 ${num(o.totals.oi * 100 / 1e6, 1)} 百万股，相当于正股近三个月日均成交量的 ${o.oi_in_shares_vs_adv.toFixed(1)} 倍），其中 ${pct(T.find(t => t.expiry === '2027-01-15').oi / o.totals.oi, 0)} 集中在 2027 年 1 月到期；当日成交 ${num(o.totals.volume)} 张。平值期权的买卖价差相当于中间价的 ${pct(Math.min(...rel), 0)}–${pct(Math.max(...rel), 0)}，折合 ${Math.round(Math.min(...spreads) * 100)}–${Math.round(Math.max(...spreads) * 100)} 个波动率点。`);
+  el('cap-iv').textContent = `YUMC 期权：平值隐含波动率与预测实现波动率（${o.asof_close} 收盘，正股 $${o.spot.toFixed(2)}，无风险利率 ${pct(o.r, 2)}，股息率 ${pct(o.q, 1)}）`;
+  const ivf = VA.iv_vs_forecast;
+  fillRows(tb('tbl-iv'), T.map(t => { const f = ivf.find(x => x.expiry === t.expiry) || {}; return [t.expiry, { n: 1, text: String(t.days) }, { n: 1, text: pct(t.atm_iv, 1) }, { n: 1, text: t.atm_spread_volpts === null ? '—' : (t.atm_spread_volpts * 100).toFixed(1) }, { n: 1, text: t.iv25_put ? pct(t.iv25_put, 1) : '—' }, { n: 1, text: num(t.oi) }, { n: 1, text: pct(f.garch, 1) }, { n: 1, text: pct(f.har, 1) }, { n: 1, text: sgn(f.iv_minus_har * 100, 1), cls: tone(f.iv_minus_har) }, { n: 1, text: pct(f.cone_p50, 1) }]; }));
+  const rv = VA.rv_now.us, c21 = cone.find(c => c.window === 21), c63 = cone.find(c => c.window === 63), c252 = cone.find(c => c.window === 252);
+  setText('iv-text', `当前实现波动率偏低：美股线 21 日收盘价波动率 ${pct(c21.now, 1)}（历史 ${pct(c21.pct_now, 0)} 分位），63 日 ${pct(c63.now, 1)}（${pct(c63.pct_now, 0)} 分位），252 日 ${pct(c252.now, 1)}（${pct(c252.pct_now, 0)} 分位）；含隔夜跳空的 Yang–Zhang 21 日估计为 ${pct(rv.yang_zhang, 1)}，其中隔夜收益贡献了 ${pct(rv.overnight_share, 0)} 的方差：美股收盘后港股还要交易一整天，不少信息在美股的隔夜时段就已定价（11 月 3 日的财报跳空也在窗口内）。GARCH 与 HAR 对未来 1 个月的预测为 ${pct(fc['21'].garch, 1)} 和 ${pct(fc['21'].har, 1)}，高于各期限 ${pct(Math.min(...T.map(t => t.atm_iv)), 0)}–${pct(Math.max(...T.map(t => t.atm_iv)), 0)} 的隐含波动率；但样本外检验显示两种模型平均高估 ${(oos.garch.bias_vol * 100).toFixed(1)} 和 ${(oos.har.bias_vol * 100).toFixed(1)} 个波动率点，扣除后约为 30%，与隐含波动率基本一致。看跌期权偏斜明显：2027 年 3 月 25Δ 看跌 IV ${pct(T.find(t => t.expiry === '2027-03-19').iv25_put, 1)}，25Δ 看涨 ${pct(T.find(t => t.expiry === '2027-03-19').iv25_call, 1)}，风险逆转 ${(T.find(t => t.expiry === '2027-03-19').rr25 * 100).toFixed(1)} 个点。结论：模型与市场的差距（几个波动率点）远小于 ${Math.round(Math.min(...spreads) * 100)}–${Math.round(Math.max(...spreads) * 100)} 个点的买卖价差，没有可交易的错价。`);
+  el('cap-oos').textContent = `未来 21 个交易日实现波动率的样本外预测（美股线，${VA.oos.start} 至 ${VA.oos.end}，${VA.oos.n} 个不重叠窗口）`;
+  const ml = { rw: '随机游走（过去 21 日）', garch: 'GARCH(1,1)-t', har: 'HAR-RV' };
+  fillRows(tb('tbl-oos'), ['rw', 'garch', 'har'].map(k => [ml[k], { n: 1, text: (oos[k].rmse_vol * 100).toFixed(1) }, { n: 1, text: (oos[k].bias_vol >= 0 ? '+' : '−') + Math.abs(oos[k].bias_vol * 100).toFixed(1) }, { n: 1, text: oos[k].qlike.toFixed(3) }, { n: 1, text: k === 'rw' ? '—' : pv(oos[k].dm_vs_rw_p) }, { n: 1, text: oos[k].mz_b.toFixed(2) }, { n: 1, text: oos[k].mz_r2.toFixed(3) }]));
+  setText('oos-text', `三个模型的预测误差都在 ${(Math.min(oos.har.rmse_vol, oos.garch.rmse_vol, oos.rw.rmse_vol) * 100).toFixed(0)}–${(Math.max(oos.har.rmse_vol, oos.garch.rmse_vol, oos.rw.rmse_vol) * 100).toFixed(0)} 个波动率点，和平值期权的买卖价差同一量级。HAR 的 QLIKE 损失最低（${oos.har.qlike.toFixed(3)}，随机游走 ${oos.rw.qlike.toFixed(3)}），但 Diebold–Mariano 检验 p = ${oos.har.dm_vs_rw_p.toFixed(3)}，只在 10% 水平显著；Mincer–Zarnowitz 回归的斜率远低于 1、R² 低于 ${pct(Math.max(oos.rw.mz_r2, oos.har.mz_r2) + 0.005, 0)}。原因是百胜中国的实现波动率主要来自财报和中美政策等跳跃，时间点可知、方向和大小不可知。`);
+  setText('earn-text', `财报是 YUMC 实现波动率最大的单一来源。美股线 ${e.us.n} 次财报后首个交易日平均绝对涨跌 ${pct(e.us.mean_abs, 1)}（中位数 ${pct(e.us.median_abs, 1)}，最大 ${pct(e.us.max_abs, 1)}，95% 自助区间 ${pct(e.us.ci95[0], 1)}–${pct(e.us.ci95[1], 1)}），是平常交易日 ${pct(e.us.normal_mean_abs, 1)} 的 ${e.us.ratio_to_normal.toFixed(1)} 倍；港股线 ${e.hk.n} 次平均 ${pct(e.hk.mean_abs, 1)}。按正态分布换算，这样的跳空标准差约 ${pct(evSd, 1)}；把它加进一个 21 个交易日期限、基础波动率 25% 的期权，隐含波动率应升到约 ${pct(ivJump, 0)}。近三个月的 30 天隐含波动率在 ${pct(iv30.min, 1)}–${pct(iv30.max, 1)} 之间，均值 ${pct(iv30.mean, 1)}，平均比过去 21 日实现波动率高 ${(iv30.mean_iv_minus_rv21 * 100).toFixed(1)} 个点；财报前一天（${iv30.pre_earnings_date}）${pct(iv30.pre_earnings_last, 1)}，发布当天（${iv30.post_earnings_date}）回落到 ${pct(iv30.post_earnings_first, 1)}。下一次财报约在 2027-02-04（Yahoo 预计），落在 2027 年 3 月到期合约内；但 1 月合约的平值 IV（${pct(T.find(t => t.expiry === '2027-01-15').atm_iv, 1)}）反而高于 3 月（${pct(T.find(t => t.expiry === '2027-03-19').atm_iv, 1)}），报价噪音大于财报溢价，无法从期限结构中可靠地分离出市场预期的财报波动。`);
+  const vr = VA.vrp;
+  setText('vrp-text', vr ? `方差风险溢价（${vr.source}）：${vr.start} 至 ${vr.end} 的 ${num(vr.n_days)} 个交易日里，30 天隐含波动率平均 ${pct(vr.mean_iv, 1)}，随后 21 个交易日的实现波动率平均 ${pct(vr.mean_rv_fwd, 1)}，差值 ${sgn(vr.mean_gap * 100, 1)} 个波动率点（Newey–West t = ${vr.t_nw.toFixed(2)}），${pct(vr.share_positive, 0)} 的交易日隐含高于随后的实现。每月卖出一份按当日隐含波动率定价的方差互换（不计成本），平均每月 ${sgn(vr.swap.mean * 100, 2)} 个波动率点，年化夏普比率 ${vr.swap.sharpe_ann.toFixed(2)}，最差的月份是 ${vr.swap.worst_month}（${sgn(vr.swap.worst * 100, 1)} 个点）。`
+    : `方差风险溢价：卖波动率的收益来自隐含波动率系统性高于随后的实现波动率。检验这一点需要多年的每日隐含波动率，本报告没有拿到（见第 14 节“数据缺口”）。近三个月的数据只能说明 30 天隐含波动率平均比过去 21 日实现波动率高 ${(iv30.mean_iv_minus_rv21 * 100).toFixed(1)} 个点，样本太短，又包含一次财报，不能据此判断。`);
+  const hkV = VA.volume_share_hk;
+  setText('xlist-text', `两地是同一只股票，理论上价格应当一致；差异来自交易时间不重叠（港股 09:30–16:00 香港时间，美股收盘在香港时间次日 04:00–05:00）、港元兑美元汇率和交易成本。港股收盘（折美元）相对前一个美股收盘的价差平均 ${(pr.mean_bp).toFixed(0)} 个基点，标准差 ${(pr.sd_bp).toFixed(0)} 个基点，5%–95% 区间 ${pr.p05_bp.toFixed(0)} 至 +${pr.p95_bp.toFixed(0)} 个基点；${pct(pr.share_abs_gt_100bp, 0)} 的交易日价差超过 1%。这个价差主要反映 11 个小时内的新信息，并非可以同时买卖的错价：它在一天之内基本消失（AR(1) 系数 ${pr.ar1.toFixed(2)}，半衰期约 ${pr.half_life_days.toFixed(1)} 个交易日；ADF = ${pr.adf.toFixed(1)}，p < 0.001）。两地股份可以在香港和美国的股东名册之间转移，但通常需要数个工作日，只有能做跨境转仓的机构才可能做真正的两地套利。按周计算，两地波动率几乎相同（港股 ${pct(tl.vol_weekly.hk, 1)}、美股 ${pct(tl.vol_weekly.us, 1)}，Levene 检验 p = ${tl.levene_weekly_p.toFixed(2)}），周收益相关系数 ${tl.corr_weekly.toFixed(2)}；日度差异（港股 ${pct(tl.vol_daily.hk, 1)}、美股 ${pct(tl.vol_daily.us, 1)}）来自时间错位。`);
+  fillRows(tb('tbl-leadlag'), ll.map(r => [r.label, { n: 1, text: r.beta.toFixed(2) }, { n: 1, text: r.t.toFixed(1), cls: Math.abs(r.t) > 1.96 ? 'sig' : '' }, { n: 1, text: r.r2.toFixed(3) }, { n: 1, text: num(r.n) }]));
+  setText('leadlag-text', `美股是主要的价格发现地：港股次日收益中约 ${pct(ll[0].r2, 0)} 的方差可以由前一个美股交易日的收益解释（β ${ll[0].beta.toFixed(2)}），大部分在开盘跳空时就已反映（β ${ll[1].beta.toFixed(2)}）。但港股开盘之后的日内收益仍与前一日美股收益显著相关（β ${ll[2].beta.toFixed(2)}，t = ${ll[2].t.toFixed(1)}）；加入恒指（盈富基金）当日的开盘到收盘收益和前一日标普 500 收益作为控制后，系数仍为 ${llc.beta_yumc_prev.toFixed(2)}（t = ${llc.t_yumc_prev.toFixed(1)}），而标普 500 的系数接近 0（${llc.beta_spx_prev.toFixed(2)}，t = ${llc.t_spx_prev.toFixed(1)}）。也就是说，港股开盘没有完全消化美股的个股信息，这部分在港股交易时段内继续被定价。反过来，美股开盘后的日内收益与当天港股收益无关（β ${ll[5].beta.toFixed(2)}，t = ${ll[5].t.toFixed(1)}）。`);
+  fillRows(tb('tbl-rule'), rule.map(r => [r.threshold === 0 ? '0（每天）' : pct(r.threshold, 0), r.period, { n: 1, text: num(r.n) }, { n: 1, text: spct(r.gross_mean, 2), cls: tone(r.gross_mean) }, { n: 1, text: spct(r.net_mean, 2), cls: tone(r.net_mean) }, { n: 1, text: r.t_net.toFixed(2), cls: Math.abs(r.t_net) > 1.96 ? 'sig' : '' }, { n: 1, text: pct(r.hit, 0) }]));
+  const r1 = rule.filter(r => r.threshold === 0.01), r2 = rule.filter(r => r.threshold === 0.02);
+  setText('rule-text', `以 1% 为阈值，2020-09 至 2023 年 ${r1[0].n} 笔交易每笔净收益 ${spct(r1[0].net_mean, 2)}（t = ${r1[0].t_net.toFixed(1)}，胜率 ${pct(r1[0].hit, 0)}），2024 年以来的样本外 ${r1[1].n} 笔为 ${spct(r1[1].net_mean, 2)}（t = ${r1[1].t_net.toFixed(1)}）；阈值 2% 时两段分别为 ${spct(r2[0].net_mean, 2)} 和 ${spct(r2[1].net_mean, 2)}。这是本报告检验的规律里唯一在样本外、扣除估计成本后仍显著的一个。但要把它当作待验证的线索而不是套利：① 用的是 Yahoo 记录的开盘价，实际在开盘集合竞价按此价格成交并不确定；② 卖空需要借券，借券费和可借数量会侵蚀收益，2021-08 至 2023-11 期间港股印花税为每边 0.13%，高于假设；③ 每笔平均只有 0.2%–0.4%，对成本假设很敏感；④ 阈值和规则是事后选择的，存在数据挖掘风险；⑤ 2026 年以来港股日均成交额约 ${num(hkV[hkV.length - 1].hk_usd_bn * 1e3 / S.date.filter(d => d.startsWith(String(hkV[hkV.length - 1].y))).length, 0)} 百万美元，策略容量有限。`);
+  setText('volarb-conclusion', `对“能不能做波动率套利”的回答是否定的：港股没有期权；美股期权流动性差，买卖价差（${Math.round(Math.min(...spreads) * 100)}–${Math.round(Math.max(...spreads) * 100)} 个波动率点）远大于隐含与预测实现波动率之间的差（几个点）；实现波动率主要由财报和政策跳跃决定，样本外几乎不可预测。若一定要表达波动率观点，更现实的是围绕财报的事件交易（历史平均跳空 ${pct(e.us.mean_abs, 1)}），但期权价差会吃掉大部分预期收益。两地之间真正有统计意义的是价格发现的滞后：美股先对公司消息定价，港股开盘后还会继续同向调整。它适合用来理解港股的次日走势，作为交易策略还需要用逐笔数据和真实成本验证。`);
+})();
+
+/* ---------- cycles ---------- */
+(() => {
+  const mo = CY.month, wk = CY.weekday, tom = CY.tom, hol = CY.holidays, dep = CY.dependence, sp = CY.spectral, pc = CY.price_cycles, bz = CY.business, fdr = CY.fdr;
+  const us = mo.us, hk = mo.hk;
+  verdict('verdict-cyc', [
+    ['no', '无日历效应', `月份效应：美股线置换 F 检验 ${pe(us.raw.tests.p_perm)}，港股线 ${pe(hk.raw.tests.p_perm)}；星期、月末月初、“五月卖出”、春节与国庆前后都不显著。`],
+    ['no', '接近随机游走', `月度收益无自相关（Ljung–Box 12 阶 ${pe(dep.us.lb_monthly[1].p)}）；方差比检验不能拒绝随机游走；周期图没有显著的主导周期（Fisher g 检验 ${pe(sp.us.monthly.p_g)}）。`],
+    ['weak', '一个弱信号', `港股日收益有显著的负自相关（滞后 2 日 ${dep.hk.acf[1].toFixed(2)}，多重检验后 q = ${fdr.tests.find(t => t.name.startsWith('hk Ljung-Box 日度')).q.toFixed(3)}），但剔除最大的 20 个交易日后不再显著。`],
+    ['yes', '业务季节性强', `经营利润率一、三季度高、四季度低（Friedman ${pe(bz.adj_opm_by_quarter.p)}）；收入四季度比一季度低约 ${pct(-bz.revenue_seasonal.factor_vs_q1.Q4, 0)}（F 检验 p < 0.001）。`],
+    ['yes', '同店有基数效应', `同店销售滞后 4 个季度的自相关 ${bz.sssg_persistence.ac4.toFixed(2)}（Ljung–Box p < 0.001），并与全国社零增速同步（相关系数 ${bz.sssg_vs_consumption.retail.pearson.toFixed(2)}）。`],
+  ]);
+  const rowT = (lab, f) => [lab, { n: 1, text: f(mo.us.raw, 'us', 'raw') }, { n: 1, text: f(mo.us.excess, 'us', 'excess') }, { n: 1, text: f(mo.hk.raw, 'hk', 'raw') }, { n: 1, text: f(mo.hk.excess, 'hk', 'excess') }];
+  fillRows(tb('tbl-cal'), [
+    rowT('月份效应：置换 F 检验', x => pv(x.tests.p_perm)),
+    rowT('月份效应：Alexander–Govern', x => pv(x.tests.p_ag)),
+    rowT('月份效应：Kruskal–Wallis', x => pv(x.tests.p_kw)),
+    rowT('可检出的最小单月效应（80% 功效）', x => pct(x.mde_one_month, 1)),
+    rowT('“五月卖出”：11–4 月对 5–10 月', x => pv(x.halloween.p)),
+    rowT('星期效应：Kruskal–Wallis', (x, l, k) => pv(wk[l][k].tests.p_kw)),
+    rowT('月末月初（最后 1 天 + 前 3 天）', (x, l, k) => pv(tom[l][k].p)),
+    [`春节前 10 日（超额）`, { n: 1, text: '—' }, { n: 1, text: pv(hol.us.cny.pre.p_t) }, { n: 1, text: '—' }, { n: 1, text: pv(hol.hk.cny.pre.p_t) }],
+    [`春节后 10 日（超额）`, { n: 1, text: '—' }, { n: 1, text: pv(hol.us.cny.post.p_t) }, { n: 1, text: '—' }, { n: 1, text: pv(hol.hk.cny.post.p_t) }],
+    [`国庆前 10 日（超额）`, { n: 1, text: '—' }, { n: 1, text: pv(hol.us.golden_week.pre.p_t) }, { n: 1, text: '—' }, { n: 1, text: pv(hol.hk.golden_week.pre.p_t) }],
+    [`财报前 10 日漂移（超额）`, { n: 1, text: '—' }, { n: 1, text: pv(CY.earnings_drift.us.pre.p_t) }, { n: 1, text: '—' }, { n: 1, text: pv(CY.earnings_drift.hk.pre.p_t) }],
+    [`财报后 10 日漂移（超额）`, { n: 1, text: '—' }, { n: 1, text: pv(CY.earnings_drift.us.post.p_t) }, { n: 1, text: '—' }, { n: 1, text: pv(CY.earnings_drift.hk.post.p_t) }],
+  ]);
+  const bm = us.raw.by_month, best = bm.slice().sort((a, b) => b.mean - a.mean), hx = hk.excess.by_month.find(r => r.label === '1月');
+  setText('cal-text', `没有统计上可靠的日历效应。美股线 119 个月里，平均收益最高的是 ${best[0].label}（${spct(best[0].mean, 1)}，${Math.round(best[0].hit * best[0].n)}/${best[0].n} 个月上涨）和 ${best[1].label}（${spct(best[1].mean, 1)}），最低的是 ${best[11].label}（${spct(best[11].mean, 1)}）和 ${best[10].label}（${spct(best[10].mean, 1)}），但月收益标准差约 ${pct(us.raw.monthly_sd, 0)}，每个月份只有 9–10 个观测值，样本只能检出约 ${pct(us.raw.mde_one_month, 0)} 以上的单月效应；四种检验的 p 值都在 ${(Math.floor(Math.min(us.raw.tests.p_f, us.raw.tests.p_perm, us.raw.tests.p_ag, us.raw.tests.p_kw) * 100) / 100).toFixed(2)} 以上。港股线的超额收益在 Alexander–Govern 检验下 ${pe(hk.excess.tests.p_ag)}，主要来自 1 月（平均超额 ${spct(hx.mean, 1)}，单月 ${pe(hx.p)}，多重检验后 q = ${pv(hx.q_bh)}），但置换检验 ${pe(hk.excess.tests.p_perm)}，且 73 个月中 1 月只有 6 个观测值。春节前 10 个交易日美股线平均超额 ${spct(hol.us.cny.pre.mean, 1)}（${hol.us.cny.pre.pos}/${hol.us.cny.pre.n} 年为正）、国庆前 ${spct(hol.us.golden_week.pre.mean, 1)}（${hol.us.golden_week.pre.pos}/${hol.us.golden_week.pre.n} 年为正），方向与“节日消费”逻辑一致，但 p 值分别为 ${pv(hol.us.cny.pre.p_t)} 和 ${pv(hol.us.golden_week.pre.p_t)}，不显著。财报前后也没有漂移：财报日的反应之后 10 天，异常收益既不延续也不反转（斜率 ${CY.earnings_drift.us.post_on_day0.slope.toFixed(2)}，${pe(CY.earnings_drift.us.post_on_day0.p)}）。`);
+  const vrRow = (lab, key, q) => { const a = dep.us[key].find(v => v.q === q), b = dep.hk[key].find(v => v.q === q); return [lab, '随机游走（VR = 1）', { n: 1, text: `${a.vr.toFixed(2)}（p ${pv(a.p)}）` }, { n: 1, text: `${b.vr.toFixed(2)}（p ${pv(b.p)}）` }]; };
+  fillRows(tb('tbl-dep'), [
+    ['Ljung–Box 日度 Q(10)', '无自相关', { n: 1, text: pv(dep.us.lb_daily[1].p) }, { n: 1, text: pv(dep.hk.lb_daily[1].p), cls: dep.hk.lb_daily[1].p < 0.05 ? 'sig' : '' }],
+    ['Ljung–Box 周度 Q(8)', '无自相关', { n: 1, text: pv(dep.us.lb_weekly[1].p) }, { n: 1, text: pv(dep.hk.lb_weekly[1].p) }],
+    ['Ljung–Box 月度 Q(12)', '无自相关', { n: 1, text: pv(dep.us.lb_monthly[1].p) }, { n: 1, text: pv(dep.hk.lb_monthly[1].p) }],
+    ['ARCH-LM（5 阶）', '无波动聚集', { n: 1, text: pv(dep.us.arch_lm.p), cls: 'sig' }, { n: 1, text: pv(dep.hk.arch_lm.p), cls: 'sig' }],
+    vrRow('方差比 VR(20)（日收益，约 1 个月）', 'vr_daily', 20),
+    ['方差比联合检验（日度）', '随机游走', { n: 1, text: pv(dep.us.vr_daily_joint.p_joint_bonferroni) }, { n: 1, text: pv(dep.hk.vr_daily_joint.p_joint_bonferroni) }],
+    vrRow('方差比 VR(8)（周收益，约 2 个月）', 'vr_weekly', 8),
+    ['方差比联合检验（周度）', '随机游走', { n: 1, text: pv(dep.us.vr_weekly_joint.p_joint_bonferroni) }, { n: 1, text: pv(dep.hk.vr_weekly_joint.p_joint_bonferroni) }],
+    ['游程检验（涨跌符号）', '涨跌随机', { n: 1, text: pv(dep.us.runs.p) }, { n: 1, text: pv(dep.hk.runs.p) }],
+    ['Fisher g（月收益）', '无单一主导周期', { n: 1, text: `p ${pv(sp.us.monthly.p_g)}（峰值 ${sp.us.monthly.peak_period.toFixed(1)} 个月）` }, { n: 1, text: `p ${pv(sp.hk.monthly.p_g)}（峰值 ${sp.hk.monthly.peak_period.toFixed(1)} 个月）` }],
+    ['Fisher g（周收益）', '无单一主导周期', { n: 1, text: pv(sp.us.weekly.p_g) }, { n: 1, text: pv(sp.hk.weekly.p_g) }],
+    ['Bartlett 累积周期图（月收益）', '白噪声', { n: 1, text: pv(sp.us.monthly.p_bartlett) }, { n: 1, text: pv(sp.hk.monthly.p_bartlett) }],
+  ]);
+  const rb = dep.hk.robustness;
+  setText('dep-text', `收益方向不可预测，波动大小可以预测。两条线的 ARCH-LM 检验 p 值都接近 0：大波动之后跟着大波动（8.3 节的 GARCH 持续性 ${DATA.garch.tgt.persistence.toFixed(2)}），这是“波动率的周期”，但不能告诉你涨跌方向。月度、周度收益都没有自相关；方差比在 20 日时为 ${dep.us.vr_daily[3].vr.toFixed(2)}（美股线）和 ${dep.hk.vr_daily[3].vr.toFixed(2)}（港股线），略低于 1，暗示月度尺度上轻微的均值回复，但单项 p 值 ${pv(dep.us.vr_daily[3].p)} 和 ${pv(dep.hk.vr_daily[3].p)}，联合检验不显著。港股日收益的 Ljung–Box 检验 ${pe(dep.hk.lb_daily[1].p)}，主要来自滞后 2 日的负自相关（${dep.hk.acf[1].toFixed(2)}），两个子样本都存在（${rb[0].period} ${rb[0].ac2.toFixed(2)}，${rb[1].period} ${rb[1].ac2.toFixed(2)}），但剔除最大的 20 个交易日后降到 ${rb[2].ac2.toFixed(2)}、${pe(rb[2].p_lb10)}：它来自 2022 年 3 月那类极端日子的大幅反转，自相关系数 0.1 对应的可解释方差约 1%，扣除港股往返成本后没有交易价值。月收益的周期图里方差占比最高的周期约 ${sp.us.monthly.peak_period.toFixed(1)} 个月，只占总方差的 ${pct(sp.us.monthly.peak_share, 1)}，Fisher g 检验 ${pe(sp.us.monthly.p_g)}，不存在显著的固定周期。`);
+  fillRows(tb('tbl-cycles'), pc.phases.concat([pc.ongoing]).map(p => [p.type === 'bull' ? (p.ongoing ? '上涨（进行中）' : '上涨') : (p.ongoing ? '下跌（进行中）' : '下跌'), p.start, p.end, { n: 1, text: p.months.toFixed(1) }, { n: 1, text: spct(p.change, 0), cls: tone(p.change) }]));
+  const bs = pc.bootstrap;
+  setText('pc-text', `用“从高点下跌 20% 进入下跌波段、从低点上涨 20% 进入上涨波段”的规则，美股线 2017 年以来有 ${pc.bull_summary.n} 个上涨波段（平均 ${pc.bull_summary.mean_months.toFixed(1)} 个月、平均涨幅 ${spct(pc.bull_summary.mean_change, 0)}）和 ${pc.bear_summary.n} 个下跌波段（平均 ${pc.bear_summary.mean_months.toFixed(1)} 个月、平均跌幅 ${spct(pc.bear_summary.mean_change, 0)}），波段长度的变异系数分别为 ${pc.bull_summary.cv_months.toFixed(2)} 和 ${pc.bear_summary.cv_months.toFixed(2)}，长短差异很大。相邻两个高点之间平均 ${pc.p2p_mean.toFixed(1)} 个月（${Math.min(...pc.peak_to_peak_months).toFixed(1)}–${Math.max(...pc.peak_to_peak_months).toFixed(1)} 个月），变异系数 ${bs.cv_obs.toFixed(2)}。为了判断这是否比随机更规律，用保留波动聚集的块自助法生成 ${num(bs.n_sims)} 条随机路径：随机路径的波段数中位数 ${bs.phases_sim_p10_p50_p90[1].toFixed(0)}（10%–90% 区间 ${bs.phases_sim_p10_p50_p90[0].toFixed(0)}–${bs.phases_sim_p10_p50_p90[2].toFixed(0)}），实际 ${bs.phases_obs}；高点间隔的变异系数中位数 ${bs.cv_sim_p10_p50_p90[1].toFixed(2)}，只有 ${pct(bs.p_more_regular, 1)} 的随机路径比实际更规律（p = ${bs.p_more_regular.toFixed(3)}），在 5% 水平不显著，多重检验后更不显著。结论：股价大约每 1 年出现一次 20% 以上的涨跌摆动，但这种频率与一只年化波动率 35% 的股票的随机波动相符，摆动的时点没有可利用的规律。`);
+  const ao = bz.adj_opm_by_quarter, rm = bz.rm_by_quarter, rs = bz.revenue_seasonal;
+  fillRows(tb('tbl-season'), [
+    ['收入（相对一季度，剔除趋势）', { n: 1, text: '基准' }, { n: 1, text: spct(rs.factor_vs_q1.Q2, 1), cls: tone(rs.factor_vs_q1.Q2) }, { n: 1, text: spct(rs.factor_vs_q1.Q3, 1), cls: tone(rs.factor_vs_q1.Q3) }, { n: 1, text: spct(rs.factor_vs_q1.Q4, 1), cls: tone(rs.factor_vs_q1.Q4) }, { text: `季度哑变量 F(${rs.df[0]}, ${rs.df[1]}) = ${rs.f.toFixed(1)}，p ${pv(rs.p)}；${rs.n} 个季度（2017–2026）`, cls: 'small' }],
+    ['经调整经营利润率（均值）', { n: 1, text: pct(ao.mean.Q1, 1) }, { n: 1, text: pct(ao.mean.Q2, 1) }, { n: 1, text: pct(ao.mean.Q3, 1) }, { n: 1, text: pct(ao.mean.Q4, 1) }, { text: `Friedman χ² = ${ao.friedman.toFixed(1)}，p ${pv(ao.p)}，Kendall W ${ao.kendall_w.toFixed(2)}；${ao.years.length} 年中四季度最低 ${ao.rank_q_worst.Q4} 年`, cls: 'small' }],
+    ['餐厅利润率（均值）', { n: 1, text: pct(rm.mean.Q1, 1) }, { n: 1, text: pct(rm.mean.Q2, 1) }, { n: 1, text: pct(rm.mean.Q3, 1) }, { n: 1, text: pct(rm.mean.Q4, 1) }, { text: `Friedman χ² = ${rm.friedman.toFixed(1)}，p ${pv(rm.p)}（2018–2025）`, cls: 'small' }],
+  ]);
+  const sc = bz.sssg_vs_consumption, ps = bz.sssg_persistence, re = bz.reaction_vs_sssg;
+  setText('biz-text', `业务的季节性非常显著，而且稳定：一季度（含春节）和三季度（暑期）利润率最高，四季度最低（8 年中有 7 年四季度经调整经营利润率最低，${ao.years.length} 年中一季度最高 ${ao.rank_q_best.Q1} 年）。原因是四季度客流淡季、年底费用集中，固定成本摊薄。这意味着单看环比会误判：三季度到四季度利润率下降几个百分点是正常的季节性，应看同比。同店销售则有明显的“基数回摆”：滞后 1 个季度的自相关 ${ps.ac1.toFixed(2)}，滞后 4 个季度 ${ps.ac4.toFixed(2)}（Ljung–Box p < 0.001），即一年前高的季度今年往往偏低（如 2023 年二季度 +15% 之后，2024 年二季度 −4%）。同店销售与全国社零增速同步：2018–2026 年 ${sc.retail.n} 个季度相关系数 ${sc.retail.pearson.toFixed(2)}（p < 0.001），剔除 2020–2023 年后仍为 ${sc.retail.pearson_ex_2020_2023.toFixed(2)}（${pe(sc.retail.p_ex_2020_2023)}）；用 2022 年以来的 ${sc.catering.n} 个季度全国餐饮收入增速，相关系数 ${sc.catering.pearson.toFixed(2)}，但这主要由 2022–2023 年疫情期间的大起大落带动：秩相关只有 ${sc.catering.spearman.toFixed(2)}（${pe(sc.catering.p_spearman)}），2024 年以来的 ${sc.catering.n_ex} 个季度为 ${sc.catering.pearson_ex_2020_2023.toFixed(2)}（${pe(sc.catering.p_ex_2020_2023)}）。Granger 检验中社零增速对同店销售的领先作用只在滞后 2 个季度时接近显著（${pe(sc.retail.granger.lag2.cat_to_sssg_p)}），说明两者主要是同期同步，而不是一个提前预示另一个。最后，股价对同店销售水平本身没有稳定反应（财报日异常收益对同店销售的斜率 ${re.sssg.slope.toFixed(2)}，${pe(re.sssg.p)}），对同店销售的环比改善有正向但不显著的反应（斜率 ${re.d_sssg.slope.toFixed(2)}，${pe(re.d_sssg.p)}）。`);
+  setText('fdr-text', `本报告对股价收益做了 ${fdr.n_tests} 项规律检验，其中只有 ${fdr.n_raw_p_below_005} 项原始 p 值小于 0.05。在错误发现率 10% 下，${fdr.tests.filter(t => t.reject).length} 项仍然显著：${fdr.tests.filter(t => t.reject).map(t => t.name.replace('hk ', '港股线 ').replace('us ', '美股线 ')).join('、')}（见 10.2 节，它对极端交易日不稳健）。在完全没有规律的情况下，43 项检验平均也会有约 2 项 p < 0.05，所以单个“显著”的日历效应不应当作择时依据。`);
+  fillRows(tb('tbl-fdr'), fdr.tests.map(t => [t.name.replace(/^hk /, '港股线 ').replace(/^us /, '美股线 ').replace('raw', '原始').replace('excess', '超额').replace('cny', '春节').replace('golden_week', '国庆').replace(' pre', '前').replace(' post', '后'), { n: 1, text: pv(t.p), cls: t.p < 0.05 ? 'sig' : '' }, { n: 1, text: pv(t.q) }, t.reject ? '显著' : '不显著']));
+})();
+
+/* ---------- tables: risk, year, models, events ---------- */
+(() => {
+  const st = DATA.stats;
+  head('thead-risk', [`指标（${dt(M.start)} – ${dt(M.end)}）`, ...keys.map(k => N[k])]);
+  const row = (lab, f, cls) => [lab, ...keys.map(k => ({ n: 1, text: f(st[k]), cls: cls ? cls(st[k]) : '' }))];
+  fillRows(tb('tbl-risk'), [
+    row('累计收益 / 年化收益', s => spct(s.total_return, 0) + ' / ' + spct(s.ann_return_geo, 1)),
+    row('年化波动率（对数收益）', s => pct(s.ann_vol, 1)),
+    row('年化下行偏差', s => pct(s.downside_dev_ann, 1)),
+    row('日 VaR 95% / CVaR 95%', s => pct(s.var95_hist, 1) + ' / ' + pct(s.cvar95_hist, 1)),
+    row('日 VaR 99% / CVaR 99%', s => pct(s.var99_hist, 1) + ' / ' + pct(s.cvar99_hist, 1)),
+    row('偏度 / 超额峰度', s => sgn(s.skew) + ' / ' + sgn(s.excess_kurtosis)),
+    row('单日涨跌幅 >3% / >5% 的天数', s => s.days_abs_gt_3pct + ' / ' + s.days_abs_gt_5pct),
+    row('最大回撤', s => spct(s.max_drawdown, 1) + '（' + dt(s.mdd_peak) + '→' + dt(s.mdd_trough) + '）', () => 'neg-t'),
+    row('当前回撤', s => spct(s.current_drawdown, 1), () => 'neg-t'),
+    row('夏普比率 / 索提诺比率', s => sgn(s.sharpe) + ' / ' + sgn(s.sortino)),
+  ]);
+  head('thead-year', ['年份', ...keys.map(k => N[k]), `${N.tgt}波动率`, '对市场 β', '对板块 β', '年内最大回撤']);
+  fillRows(tb('tbl-year'), DATA.by_year.map(y => [y.year === +M.end.slice(0, 4) ? `${y.year}（至${M.end.slice(5).replace('-', '/')}）` : (y.year === 2020 ? '2020（9/10 起）' : String(y.year)),
+    ...keys.map(k => ({ n: 1, text: spct(y['ret_' + k], 1), cls: tone(y['ret_' + k]) })), { n: 1, text: pct(y.vol_tgt, 1) }, { n: 1, text: x2(y.beta_mkt) }, { n: 1, text: x2(y.beta_sec) }, { n: 1, text: spct(y.mdd, 1), cls: 'neg-t' }]));
+  const sims = [['对' + N.mkt, DATA.sim_mkt], ['对' + N.sec, DATA.sim_sec], ['对恒指（周度）', DATA.sim_mkt_weekly]];
+  head('thead-sim', ['模型估计', ...sims.map(s => s[0])]);
+  const r = (lab, f) => [lab, ...sims.map(([, s]) => ({ n: 1, text: f(s) }))];
+  fillRows(tb('tbl-sim'), [
+    r('β（OLS）', s => s.beta.toFixed(2)), r('95% 置信区间', s => s.beta_ci95.map(v => v.toFixed(2)).join('–')),
+    r('HAC 稳健标准误', s => s.beta_se_hac.toFixed(3)), r('R² / 相关系数', s => s.r2.toFixed(3) + ' / ' + s.corr.toFixed(2)),
+    r('α（年化）', s => pct(s.alpha_ann, 1) + '（t=' + s.alpha_t.toFixed(2) + '）'), r('残差波动率 σ(e)', s => pct(s.resid_vol_ann, 1)),
+  ]);
+  head('thead-factors', ['样本期', '市场单因子 R²', '加入板块后 R²', '板块因子 β', '对市场 β']);
+  const fr = (lab, f) => [lab, { n: 1, text: pct(f.r2_mkt, 1) }, { n: 1, text: pct(f.r2_two, 1) }, { n: 1, text: f.beta_sec_o.toFixed(2) }, { n: 1, text: f.beta_mkt.toFixed(2) }];
+  fillRows(tb('tbl-factors'), [fr(`全样本 ${M.start.slice(0, 7)} 至 ${M.end.slice(0, 7)}`, DATA.factors), ...(DATA.factors_periods || []).map(p => fr(p.label, p))]);
+  head('thead-events', ['#', '反应日', '事件', '类别', '当日涨跌', '板块', '异常收益', 't 值', '6 日 CAR'], 4);
+  fillRows(tb('tbl-events'), EV.map(e => [{ text: String(e.n) }, { text: e.day0, cls: 'num nw' }, { text: e.title, href: e.source, cls: 'w' }, { text: CAT[e.category] || e.category || '', cls: 'nw' },
+    { n: 1, text: spct(e.ret_tgt), cls: tone(e.ret_tgt) }, { n: 1, text: spct(e.ret_sec) },
+    { n: 1, text: spct(e.ar), cls: tone(e.ar) + (Math.abs(e.ar_t) > 1.96 ? ' sig' : '') }, { n: 1, text: e.ar_t.toFixed(1), cls: Math.abs(e.ar_t) > 1.96 ? 'sig' : '' },
+    { n: 1, text: spct(e.car_0_p5), cls: tone(e.car_0_p5) }]));
+  const il = el('industry-list');
+  (F.industry || []).forEach(i => { const li = document.createElement('li'); const b = document.createElement('b'); b.textContent = i.label + '：'; li.appendChild(b); li.appendChild(document.createTextNode(i.value + ' ')); if (i.url) { const a = document.createElement('a'); a.href = i.url; a.textContent = '来源'; a.target = '_blank'; a.rel = 'noopener'; li.appendChild(a); } il.appendChild(li); });
+})();
+
+/* ---------- charts ---------- */
+const meCls = (code, base) => code === ME ? 'f2' : base;
+const RB = DATA.rebased;
+el('cap-rebased').textContent = RB ? `相对表现（${RB.base_date} 收盘 = 100，含分红）` : '';
+el('cap-peer-fin').textContent = `同业财务与估值（按市值排序；市值与收入为人民币，汇率 ${F.fx.cny_per_hkd.toFixed(4)} 元/港元）`;
+legend('leg-price', keys.map(k => [KC[k], N[k]]));
+legend('leg-vol', [['c2', N.tgt + ' 63 日'], ['c7', N.tgt + ' GARCH'], ['c3', N.sec + ' 63 日'], ['c1', N.mkt + ' 63 日']]);
+legend('leg-beta', [['c1', '对' + N.mkt], ['c3', '对' + N.sec]]);
+legend('leg-corr', [['c3', '与' + N.sec], ['c1', '与' + N.mkt]]);
+legend('leg-hist', [['c2', N.tgt, true], ['c3', N.sec, true]]);
+legend('leg-dd', [['c2', N.tgt], ['c3', N.sec], ['c1', N.mkt]]);
+legend('leg-rev', [['c1', '收入', true], ['c2', '经营利润', true], ['c3', '归母净利润', true]]);
+legend('leg-bal', [['c1', '现金及存款', true], ['c2', '短期借款', true], ['c7', '经营租赁负债', true]]);
+legend('leg-returns', [['c1', '自由现金流', true], ['c2', '分红', true], ['c7', '回购', true]]);
+legend('leg-sss', [['c2', '同店销售', true], ['c1', '同店交易量', true]]);
+legend('leg-iv', [['c2', '平值隐含波动率'], ['c7', 'GARCH 预测'], ['c3', 'HAR 预测'], ['c1', '历史中位实现波动']]);
+legend('leg-cone', [['c1', '10% / 90% 分位'], ['c3', '中位数'], ['c2', '当前']]);
+legend('leg-oos', [['c2', '实际（未来 21 日）'], ['c3', 'HAR'], ['c7', 'GARCH'], ['c1', '随机游走']]);
+legend('leg-iv30', [['c2', '30 天隐含波动率'], ['c1', '21 日实现波动率']]);
+legend('leg-month', [['c2', '美股线（原始）', true], ['c1', '美股线（超额，减标普 500 全收益）', true]]);
+legend('leg-acf', [['c2', '港股线', true], ['c1', '美股线', true]]);
+legend('leg-season', [['c1', '一季度', true], ['c2', '二季度', true], ['c3', '三季度', true], ['c4', '四季度', true]]);
+legend('leg-sssg-retail', [['c2', '百胜中国同店销售'], ['c1', '社会消费品零售总额']]);
+const RB_PEERS = RB ? Object.keys(RB).filter(k => /^\d/.test(k) && k !== ME).sort((a, b) => (b === '6862') - (a === '6862')) : [];  // 海底捞 first
+const peerName = k => (DATA.peers || []).find(p => p.code === k)?.name || k;
+if (RB) legend('leg-rebased', [['c2', N.tgt], ['c3', N.sec], ['c1', N.mkt], RB_PEERS[0] ? ['c7', peerName(RB_PEERS[0])] : null]);
+const charts = {
+  'ch-price': e => lineChart(e, { x: S.date, series: keys.map(k => ({ label: N[k], values: S[k + '_idx'], cls: KC[k], endLabel: true })), yfmt: v => num(v), ylog: true, logTicks: logTicksFor(keys.flatMap(k => S[k + '_idx'])), refs: [{ y: 100, label: '' }], height: 300, aria: '累计表现对比' }),
+  'ch-vol': e => lineChart(e, { x: S.date, series: [{ label: N.tgt + ' 63日', values: S.vol63_tgt, cls: 'c2' }, { label: N.tgt + ' GARCH', values: S.garch_tgt, cls: 'c7', thin: true }, { label: N.sec + ' 63日', values: S.vol63_sec, cls: 'c3' }, { label: N.mkt + ' 63日', values: S.vol63_mkt, cls: 'c1' }], yfmt: v => pct(v, 0), height: 280, aria: '滚动波动率' }),
+  'ch-beta': e => lineChart(e, { x: S.date, series: [{ label: '对' + N.mkt, values: S.beta252_mkt, cls: 'c1' }, { label: '对' + N.sec, values: S.beta252_sec, cls: 'c3' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), refs: [{ y: 1, label: 'β = 1', side: 'left' }], height: 240, aria: '滚动贝塔' }),
+  'ch-corr': e => lineChart(e, { x: S.date, series: [{ label: '与' + N.sec, values: S.corr126_sec, cls: 'c3' }, { label: '与' + N.mkt, values: S.corr126_mkt, cls: 'c1' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), yMax: 1, height: 240, aria: '滚动相关系数' }),
+  'ch-r2': e => stackChart(e, { items: [{ label: '市场', share: DATA.factors.r2_mkt }, { label: '市场 + 板块', share: DATA.factors.r2_two }], aria: '可解释方差占比' }),
+  'ch-scatter': e => scatterChart(e, { x: DATA.scatter.x, y: DATA.scatter.y, dates: DATA.scatter.dates, a: DATA.scatter.a, b: DATA.scatter.b, height: 280, xName: N.mkt + '超额收益', yName: N.tgt + '超额收益', aria: '超额收益散点' }),
+  'ch-hist': e => { const H = DATA.hist, other = 'sec'; const tot = H.tgt.reduce((a, b) => a + b, 0); const sg = v => (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(Math.round(v * 100)) + '%'; const step = H.bins[1] - H.bins[0]; const labs = H.bins.slice(0, -1).map((b, i) => sg(b) + ' 至 ' + sg(H.bins[i + 1])); const ax = H.bins.slice(0, -1).map(b => Math.abs(Math.round(b / step)) % 5 === 0 ? sg(b) : ''); barChart(e, { labels: labs, axisLabels: ax, series: [{ label: N.tgt, values: H.tgt.map(v => v / tot), cls: 'f2' }, { label: N[other], values: H[other].map(v => v / tot), cls: KF[other] }], yfmt: v => pct(v, 0), tfmt: v => pct(v, 1) + ' 的交易日', height: 250, aria: '日收益分布' }); },
+  'ch-dd': e => lineChart(e, { x: S.date, series: [{ label: N.tgt, values: S.dd_tgt, cls: 'c2' }, { label: N.sec, values: S.dd_sec, cls: 'c3' }, { label: N.mkt, values: S.dd_mkt, cls: 'c1', thin: true }], yfmt: v => pct(v, 0), yMax: 0, height: 250, aria: '回撤' }),
+  'ch-events': e => { const idx = d => S.date.indexOf(d); const markers = EV.map(ev => ({ i: idx(ev.day0), n: ev.n, up: ev.ar >= 0, cls: ev.ar >= 0 ? 'fpos' : 'fneg', title: `#${ev.n} ${ev.day0} · ${CAT[ev.category] || ''}`, aria: `事件${ev.n} ${ev.title}`, desc: ev.title, rows: [{ cls: ev.ret_tgt >= 0 ? 'fpos' : 'fneg', value: spct(ev.ret_tgt), label: '当日' }, { cls: 'f1', value: spct(ev.ret_mkt), label: N.mkt }, { cls: ev.ar >= 0 ? 'fpos' : 'fneg', value: spct(ev.ar), label: `异常收益（t=${ev.ar_t.toFixed(1)}）` }] })).filter(m => m.i >= 0); lineChart(e, { x: S.date, series: [{ label: '收盘价', values: S.tgt_px, cls: 'c2' }], yfmt: v => num(v), tfmt: v => 'HK$' + v.toFixed(1), ylog: true, logTicks: logTicksFor(S.tgt_px), markers, height: 380, aria: '股价与事件' }); },
+  'ch-ar': e => hbarChart(e, { items: EV.map(ev => ({ label: `${ev.n}. ${ev.short || ev.title}`, v: ev.ar, title: `#${ev.n} ${ev.day0}`, sub: `t = ${ev.ar_t.toFixed(1)}`, desc: ev.title })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 140, row: 18, aria: '各事件异常收益' }),
+  'ch-car': e => barChart(e, { labels: Object.keys(DATA.car_by_year), series: [{ label: '累计异常收益', values: Object.values(DATA.car_by_year), cls: v => v >= 0 ? 'fpos' : 'fneg' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), vfmt: v => spct(v, 0), valueLabels: true, height: 250, aria: '按年度累计异常收益' }),
+  'ch-rebased': e => RB && lineChart(e, { x: RB.date, series: [{ label: N.tgt, values: RB[ME], cls: 'c2', endLabel: true }, { label: N.sec, values: RB.sec, cls: 'c3', endLabel: true }, { label: N.mkt, values: RB.mkt, cls: 'c1', endLabel: true }, ...(RB_PEERS[0] ? [{ label: peerName(RB_PEERS[0]), values: RB[RB_PEERS[0]], cls: 'c7', thin: true }] : [])], yfmt: v => num(v), tfmt: v => num(v, 0), refs: [{ y: 100, label: '' }], height: 300, aria: '相对表现' }),
+  'ch-peer-vol': e => hbarChart(e, { items: DATA.peers.slice().sort((a, b) => b.vol_1y - a.vol_1y).map(p => ({ label: p.name, v: p.vol_1y, cls: meCls(p.code, 'f1'), sub: '对板块 β ' + p.beta_sec.toFixed(2), title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 80, row: 21, aria: '近一年波动率' }),
+  'ch-peer-ytd': e => hbarChart(e, { items: DATA.peers.slice().sort((a, b) => (b.ret_ytd ?? -9) - (a.ret_ytd ?? -9)).map(p => ({ label: p.name, v: p.ret_ytd, cls: p.code === ME ? 'f2' : (p.ret_ytd >= 0 ? 'f1' : 'fneg'), sub: '近三年 ' + spct(p.ret_3y, 0), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '今年以来收益' }),
+  'ch-peer-growth': e => hbarChart(e, { items: F.peers.filter(p => p.revenue_yoy !== null).sort((a, b) => b.revenue_yoy - a.revenue_yoy).map(p => ({ label: p.name, v: p.revenue_yoy, cls: p.code === ME ? 'f2' : (p.revenue_yoy >= 0 ? 'f1' : 'fneg'), sub: '净利润 ' + spct(p.np_yoy, 0), title: p.name })), fmt: fmt0, tfmt: d => spct(d.v, 1), labelWidth: 80, row: 21, aria: '收入增速' }),
+  'ch-peer-roe': e => hbarChart(e, { items: F.peers.filter(p => p.roe !== null).sort((a, b) => b.roe - a.roe).map(p => ({ label: p.name, v: p.roe, cls: p.code === ME ? 'f2' : (p.roe >= 0 ? 'f1' : 'fneg'), sub: '市净率 ' + (p.pb ? p.pb.toFixed(2) + 'x' : '—'), title: p.name })), fmt: v => pct(v, 0), tfmt: d => pct(d.v, 1), labelWidth: 80, row: 21, aria: 'ROE' }),
+  'ch-rev': e => barChart(e, { labels: F.annual.map(a => String(a.y)), series: [{ label: '收入', values: F.annual.map(a => a.revenue), cls: 'f1' }, { label: '经营利润', values: F.annual.map(a => a.op), cls: 'f2' }, { label: '归母净利润', values: F.annual.map(a => a.np), cls: 'f3' }], yfmt: v => num(v), tfmt: v => num(v) + ' 百万美元', height: 250, aria: '收入与利润' }),
+  'ch-bal': e => barChart(e, { labels: F.balance.map(b => b.p), series: [{ label: '现金及存款', values: F.balance.map(b => b.cash_total), cls: 'f1' }, { label: '短期借款', values: F.balance.map(b => b.debt), cls: 'f2' }, { label: '经营租赁负债', values: F.balance.map(b => b.lease), cls: 'f7' }], yfmt: v => num(v), tfmt: v => num(v) + ' 百万美元', height: 250, aria: '现金与负债' }),
+  'ch-returns': e => { const A = F.annual.filter(a => a.y >= 2018); const s9 = F.solvency; barChart(e, { labels: A.map(a => String(a.y)).concat(['2026 前三季度']), series: [{ label: '自由现金流', values: A.map(a => a.fcf).concat([s9.fcf_9m26]), cls: 'f1' }, { label: '分红', values: A.map(a => a.dividends).concat([s9.dividends_9m26]), cls: 'f2' }, { label: '回购', values: A.map(a => a.buybacks).concat([s9.buybacks_9m26]), cls: 'f7' }], yfmt: v => num(v), tfmt: v => num(v) + ' 百万美元', height: 250, aria: '自由现金流与股东回报' }); },
+  'ch-stores': e => { const Q = OPSC; barChart(e, { labels: Q.map(q => q.label.slice(2)), axisLabels: Q.map(q => q.label.endsWith('Q4') ? q.label.slice(0, 4) : ''), series: [{ label: '门店数', values: Q.map(q => q.stores), cls: 'f2' }], yfmt: v => num(v), tfmt: v => num(v) + ' 家', height: 240, aria: '门店数' }); },
+  'ch-sss': e => { const Q = OPSC; barChart(e, { labels: Q.map(q => q.label.slice(2)), axisLabels: Q.map(q => q.label.endsWith('Q4') ? q.label.slice(0, 4) : ''), series: [{ label: '同店销售', values: Q.map(q => q.sssg), cls: 'f2' }, { label: '同店交易量', values: Q.map(q => q.sst ?? null), cls: 'f1' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 0), height: 240, aria: '同店销售' }); },
+  'ch-sens': e => { const P = F.sensitivity_empirical.points; const xs = P.map(p => p.sssg), ys = P.map(p => p.d_margin); const mx = xs.reduce((a, b) => a + b, 0) / xs.length, my = ys.reduce((a, b) => a + b, 0) / ys.length; const b = F.sensitivity_empirical.slope_pp_per_pp; scatterChart(e, { x: xs, y: ys, dates: P.map(p => qlab(p.p)), a: my - b * mx, b, height: 260, xName: '同店销售', yName: '经调整经营利润率同比变化', aria: '同店销售与利润率' }); },
+  'ch-pe': e => { const P = V.pe_series; lineChart(e, { x: P.date, series: [{ label: '市盈率 TTM', values: P.pe, cls: 'c2', endLabel: true }], yfmt: v => v.toFixed(0) + 'x', tfmt: v => v.toFixed(1) + 'x', refs: [{ y: V.pe_hist_median, label: '中位数 ' + V.pe_hist_median.toFixed(1) + 'x', side: 'left' }], height: 260, aria: '市盈率历史' }); },
+  'ch-iv': e => { const T = VA.options.term, F2 = VA.iv_vs_forecast; lineChart(e, { labels: T.map(t => t.expiry.slice(2, 7).replace('-', '/')), x: T.map(t => t.expiry), series: [{ label: '平值 IV', values: T.map(t => t.atm_iv), cls: 'c2' }, { label: 'GARCH', values: T.map(t => (F2.find(f => f.expiry === t.expiry) || {}).garch ?? null), cls: 'c7' }, { label: 'HAR', values: T.map(t => (F2.find(f => f.expiry === t.expiry) || {}).har ?? null), cls: 'c3' }, { label: '历史中位', values: T.map(t => (F2.find(f => f.expiry === t.expiry) || {}).cone_p50 ?? null), cls: 'c1', thin: true }], points: true, yfmt: v => pct(v, 0), tfmt: v => pct(v, 1), yMin: 0.2, yMax: 0.45, height: 250, aria: '期限结构' }); },
+  'ch-cone': e => { const C = VA.cone_us; lineChart(e, { labels: C.map(c => c.window + ' 日'), x: C.map(c => String(c.window)), series: [{ label: '90% 分位', values: C.map(c => c.p90), cls: 'c1', thin: true }, { label: '中位数', values: C.map(c => c.p50), cls: 'c3' }, { label: '10% 分位', values: C.map(c => c.p10), cls: 'c1', thin: true }, { label: '当前', values: C.map(c => c.now), cls: 'c2' }], points: true, yfmt: v => pct(v, 0), tfmt: v => pct(v, 1), yMin: 0.1, height: 250, aria: '波动率锥' }); },
+  'ch-oos': e => { const O = VA.oos.series; lineChart(e, { x: O.date, series: [{ label: '实际', values: O.target, cls: 'c2' }, { label: 'HAR', values: O.har, cls: 'c3', thin: true }, { label: 'GARCH', values: O.garch, cls: 'c7', thin: true }, { label: '随机游走', values: O.rw, cls: 'c1', thin: true }], yfmt: v => pct(v, 0), tfmt: v => pct(v, 1), height: 260, aria: '样本外预测' }); },
+  'ch-iv30': e => { const I = VA.iv30_recent.series; lineChart(e, { x: I.date, series: [{ label: '30 天隐含', values: I.iv30, cls: 'c2' }, { label: '21 日实现', values: I.rv21, cls: 'c1' }], yfmt: v => pct(v, 0), tfmt: v => pct(v, 1), height: 240, aria: '隐含与实现波动率' }); },
+  'ch-prem': e => { const P = VA.premium.series; lineChart(e, { x: P.date, series: [{ label: '价差（基点）', values: P.prev_bp, cls: 'c2', thin: true }], yfmt: v => num(v), tfmt: v => (v >= 0 ? '+' : '−') + Math.abs(v).toFixed(0) + ' bp', refs: [{ y: 0, label: '' }], height: 240, aria: '港美价差' }); },
+  'ch-volshare': e => { const H = VA.volume_share_hk; barChart(e, { labels: H.map(h => h.y === 2026 ? '2026 至今' : String(h.y)), series: [{ label: '港股成交额占比', values: H.map(h => h.hk_share), cls: 'f2' }], yfmt: v => pct(v, 0), tfmt: v => pct(v, 1), vfmt: v => pct(v, 0), valueLabels: true, height: 240, aria: '港股成交占比' }); },
+  'ch-month': e => { const u = CY.month.us; barChart(e, { labels: u.raw.by_month.map(r => r.label), series: [{ label: '原始', values: u.raw.by_month.map(r => r.mean), cls: 'f2' }, { label: '超额', values: u.excess.by_month.map(r => r.mean), cls: 'f1' }], yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), height: 240, aria: '月份平均收益' }); },
+  'ch-acf': e => { const d = CY.dependence; barChart(e, { labels: d.hk.acf.map((_, i) => String(i + 1)), series: [{ label: '港股线', values: d.hk.acf, cls: v => Math.abs(v) > d.hk.acf_band ? 'f2' : 'fmid' }, { label: '美股线', values: d.us.acf, cls: v => Math.abs(v) > d.us.acf_band ? 'f1' : 'fmid' }], yfmt: v => v.toFixed(2), tfmt: v => v.toFixed(3), height: 240, aria: '自相关' }); },
+  'ch-spec': e => { const s = CY.spectral.us.monthly.spectrum; const idx = s.period.map((p, i) => [p, i]).sort((a, b) => b[0] - a[0]).map(x => x[1]); lineChart(e, { labels: idx.map(i => s.period[i].toFixed(1)), x: idx.map(i => String(s.period[i])), series: [{ label: '方差占比', values: idx.map(i => s.power_share[i]), cls: 'c2' }], points: true, yfmt: v => pct(v, 0), tfmt: v => pct(v, 1), yMin: 0, height: 240, aria: '周期图' }); },
+  'ch-season': e => { const r = CY.business.rm_by_quarter; barChart(e, { labels: r.years.map(String), series: ['Q1', 'Q2', 'Q3', 'Q4'].map((q, k) => ({ label: q, values: r.table[q], cls: ['f1', 'f2', 'f3', 'f4'][k] })), yfmt: v => pct(v, 0), tfmt: v => pct(v, 1), height: 250, aria: '餐厅利润率季节性' }); },
+  'ch-sssg-retail': e => { const s = CY.business.sssg_vs_consumption.retail.series; lineChart(e, { labels: s.p.map(qlab), x: s.p, series: [{ label: '同店销售', values: s.sssg, cls: 'c2' }, { label: '社零增速', values: s.cat, cls: 'c1' }], points: true, yfmt: v => pct(v, 0), tfmt: v => spct(v, 1), refs: [{ y: 0, label: '' }], height: 260, aria: '同店销售与社零' }); },
+};
+function renderAll() {
+  for (const id in charts) { const box = el(id); if (!box || box.closest('[hidden]')) continue; try { charts[id](box); } catch (err) { console.error(id, err); } }
+}
+renderAll();
+let lastW = window.innerWidth, rt;
+window.addEventListener('resize', () => { if (Math.abs(window.innerWidth - lastW) < 8) return; lastW = window.innerWidth; clearTimeout(rt); rt = setTimeout(renderAll, 150); });
+document.addEventListener('pointerdown', ev => { if (!ev.target.closest('.chart-box')) document.querySelectorAll('.tt').forEach(t => t.hidden = true); });
+(() => {
+  const links = [...document.querySelectorAll('.rail a')];
+  const secs = links.map(a => document.querySelector(a.getAttribute('href')));
+  const io = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting) { links.forEach(l => l.classList.toggle('on', l.getAttribute('href') === '#' + e.target.id)); const on = links.find(l => l.classList.contains('on')); const bar = document.querySelector('.rail .wrap'); if (on && bar) bar.scrollLeft = on.offsetLeft - bar.clientWidth / 2 + on.offsetWidth / 2; } });
+  }, { rootMargin: '-45% 0px -50% 0px' });
+  secs.forEach(s => s && io.observe(s));
+  const h = location.hash && document.querySelector(location.hash);
+  if (h) setTimeout(() => h.scrollIntoView(), 60);
+})();
+</script>

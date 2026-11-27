@@ -1,0 +1,1424 @@
+Hong  Kong  Exchanges  and  Clearing  Limited  and  The  Stock  Exchange  of  Hong 
+Kong  Limited  take  no  responsibility  for  the  contents  of  this  announcement,  make  no 
+representation  as  to  its  accuracy  or  completeness  and  expressly  disclaim  any  liability 
+whatsoever  for  any  loss  howsoever  arising  from  or  in  reliance  upon  the  whole  or  any 
+part of the contents of this announcement.
+
+Akeso, Inc.
+康 方 生 物 科 技（ 開 曼 ）有 限 公 司
+(Incorporated in the Cayman Islands with limited liability)
+(Stock Code: 9926))
+
+ANNUAL RESULTS ANNOUNCEMENT
+FOR THE YEAR ENDED DECEMBER 31, 2024
+
+The  Board  of  Akeso,  Inc.  hereby  announces  the  consolidated  results  of  the  Group  for 
+the  year  ended  December  31,  2024.  These  annual  results  have  been  reviewed  by  the 
+Company’s Audit Committee and agreed by the Company’s auditor, Ernst & Young.
+
+In this announcement, “we”, “us” and “our” refer to the Company or where the context 
+otherwise requires, the Group.
+
+FINANCIAL HIGHLIGHTS
+
+1.  Revenue
+
+The  Group’s  revenue  decreased  by  53.08%  from  RMB4,526.3  million  for  the  year 
+ended December 31, 2023 to RMB2,123.9 million for the year ended December 31, 
+2024.  In  2024,  the  Group’s  total  commercial  sales,  net  of  distribution  cost  reached 
+RMB2,002.4  million,  increased  by  24.88%  from  RMB1,603.5  million  in  2023. 
+License  income  for  the  year  ended  December  31,  2024  amounted  to  RMB121.6 
+million,  primarily  consisting  of  the  upfront  payment  received  from  SUMMIT  for 
+the amendment to the existing collaboration and license agreement between us and 
+SUMMIT announced on June 3, 2024.
+
+– 1 –
+
+2.  Gross Profit
+
+The  Group’s  gross  profit  decreased  by  58.23%  from  RMB4,393.0  million  for  the 
+year ended December 31, 2023 to RMB1,834.9 million for the year ended December 
+31,  2024.  The  decrease  was  mainly  attributable  to  the  upfront  payment  received 
+in  2023  from  SUMMIT  as  part  of  our  collaboration  and  license  agreement  with 
+SUMMIT. The gross profit from commercial sales for the year ended December 31, 
+2024  was  RMB1,713.3  million,  representing  an  increase  of  16.53%  from  the  gross 
+profit  from  commercial  sales  of  RMB1,470.2  million  for  the  year  ended  December 
+31, 2023.
+
+3.  Profit/Loss for the Year
+
+For  the  reasons  discussed  above,  loss  for  the  year  was  RMB501.1  million  for  the 
+year ended December 31, 2024, as compared to a profit of RMB1,942.4 million for 
+the year ended December 31, 2023.
+
+– 2 –
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+Akeso,  Inc.  is  a  biopharmaceutical  company  dedicated  to  the  research,  development, 
+manufacturing  and  commercialization  of  innovative  antibody  drugs  that  are  affordable 
+to patients worldwide. Since the Company’s inception, the Company has established an 
+end-to-end  comprehensive  drug  development  platform  (ACE  Platform),  encompassing 
+fully  integrated  drug  discovery  and  development  functions,  including  target  validation, 
+antibody  drug  discovery  and  development,  CMC  production  process  development,  and 
+GMP compliant production. The Company has also successfully developed a bi-specific 
+antibody drug development technology (Tetrabody technology) that can overcome three 
+CMC  challenges  in  the  development  and  manufacturing  of  bi-specific  antibodies:  1. 
+low  expression  levels,  2.  process  development  hurdles,  and  3.  antibody  stability  and 
+druggability.
+
+The  Company  currently  has  a  portfolio  of  over  50  innovative  programs  covering  the 
+therapeutic  areas  of  oncology,  autoimmune  and  metabolic  diseases.  Among  these 
+programs  are  61  approved  products  independently  developed  by  the  Company  and  2 
+products  under  NDA  review  by  the  NMPA.  We  are  conducting  Phase  III  clinical  trials 
+of  12  products,  and  Phase  I/II  clinical  trials  of  other  12  products.  15  of  the  products 
+are  potential  global  first-in-class  (FIC)  or  best-in-class  (BIC)  bi-specific  antibodies/
+polyclonal  antibodies/bi-specific  ADCs.  The  Company’s  vision  is  to  become  a 
+leading  global  biopharmaceutical  company  through  focused  innovation  in  R&D,  the 
+establishment  of  world  class  manufacturing,  and  continued  expansion  commercial 
+network.
+
+During  the  Reporting  Period,  the  Company  recorded  revenue  of  approximately 
+RMB2,123.9  million,  of  which  commercial  sales,  net  of  distribution  cost,  were 
+approximately RMB2,002.4 million, representing an increase of 24.88% as compared to 
+RMB1,603.5 million for the same period last year. The increase was mainly attributable 
+to the continuous sales growth of 開坦尼® (cadonilimab, PD-1/CTLA-4), as well as the 
+positive  sales  contribution  from 依達方®  (ivonescimab,  PD-1/VEGF)  since  its  official 
+marketing  approval  in  May  2024.  Both  products  have  generated  extensive  market 
+demand  due  to  their  superior  clinical  profile  and  best-in-class  therapeutic  value  for 
+cancer patients.
+
+In  addition,  the  Company  also  received  license  income  from  multiple  collaboration 
+partners  during  the  Reporting  Period,  totaling  approximately  RMB121.6  million,  with 
+the largest contribution coming from the upfront payment received from SUMMIT.
+
+1  開坦尼 ®  (cadonilimab,  PD-1/CTLA-4), 依 達方 ®  (ivonescimab,  PD-1/VEGF),  ANNIKO ® 
+(penpulimab,  PD-1),  伊喜寧®  (ebronucimab,  PCSK9)  ,  普佑恒™  (pucotenlimab,  PD-1)  which  was 
+licensed out to Lepu Biopharma Co., Ltd. (stock code: 2157.HK) and 科泰萊® (tagitanlimab, PD-L1) 
+which was licensed out to Sichuan Kelun-Biopharmaceutical Research Institute Co., Ltd.
+
+– 3 –
+
+Oncology
+
+開坦尼® (cadonilimab, PD-1/CTLA-4)
+
+Cadonilimab  currently  is  approved  in  second  line  cervical  cancer.  Cadonilimab  is  also 
+in  clinical  studies  for  20  indications  through  combination  therapies,  and  the  Company 
+has  initiated  28  clinical  trials  for  major  tumor  types,  including  cervical  cancer,  gastric 
+cancer,  lung  cancer,  liver  cancer,  and  esophageal  cancer.  Clinical  data  for  various 
+indications  have  been  published  in  international  medical  conferences  and  journals,  and 
+have been included in authoritative clinical guidelines and expert consensus.
+
+First approved indication included in the NRDL
+
+In  November  2024,  cadonilimab  was  successfully  included  in  the  latest  version  of 
+the  National  Basic  Medical  Insurance,  Work-Related  Injury  Insurance  and  Maternity 
+Insurance  Drug  List  (“NRDL”)  published  by  the  National  Healthcare  Security 
+Administration of the PRC, with the indication for patients with recurrent or metastatic 
+cervical  cancer  who  have  progressed  after  platinum-based  chemotherapy.  The  latest 
+version of the NRDL has been effective since January 1, 2025.
+
+First-line gastric cancer approved, first-line cervical cancer soon to be approved
+
+The  sNDA  for  cadonilimab  in  combination  with  chemotherapy  as  a  first-line  treatment 
+of  unresectable,  locally  advanced,  recurrent  or  metastatic  gastric  or  gastroesophageal 
+junction (G/GEJ) adenocarcinoma was approved by the NMPA in September 2024.
+
+•	
+
+The	 results	 of	 the	 Phase	 III	 clinical	 trial	 were	 presented	 in	 an	 oral	 presentation	 at	
+the  2024  AACR  annual  meeting,  and  the  full  data  were  published  in  the  leading 
+international medical journal Nature Medicine.
+
+•	 Cadonilimab	has	been	included	as	a	first-line	therapy	for	gastric	cancer	in	the	CSCO 
+Clinical  Guidelines  for  the  Diagnosis  and  Treatment  of  Gastric  Cancer,  2024, 
+the  CSCO  Immune  Checkpoint  Inhibitor  Clinical  Practice,  2024,  and  the  Expert 
+Consensus on Gastric Cancer Immunotherapy Based on PD-L1 Protein Expression 
+Levels.
+
+– 4 –
+
+The  sNDA  for  cadonilimab  in  combination  with  chemotherapy  with  or  without 
+bevacizumab  as  a  first-line  treatment  of  persistent,  recurrent,  or  metastatic  cervical 
+cancer  (regardless  of  PD-L1  expression  level/status)  is  in  the  final  review  stage  by  the 
+NMPA.
+
+•	
+
+The	results	of	the	Phase	III	clinical	trial	were	presented	in	an	oral	presentation	at	the	
+2024  IGCS  annual  global  meeting,  and  published  in  leading  international  medical 
+journals, including The Lancet and Nature Reviews Clinical Oncology.
+
+Cadonilimab  brings  a  safer  and  more  efficacious  first-line  immunotherapy  to  gastric 
+cancer  and  cervical  cancer  patients.  Cadonilimab  effectively  addresses  the  current 
+efficacy gap of PD-(L)1 products in populations with PD-L1 low or negative expression, 
+and  provides  clinical  benefit  in  a  wider  cancer  patient  population,  regardless  of  tumor 
+PD-L1 expression/status.
+
+Advancement of multiple Phase III clinical trials for major indications
+
+Akeso  advanced  multiple  Phase  III  clinical  trials  of  cadonilimab  for  major  indications, 
+and  continued  to  expand  its  therapeutic  potential.  The  Phase  III  clinical  trials  of 
+cadonilimab in China include:
+
+Lung cancer:
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 of	 cadonilimab	
+in  combination  with  chemotherapy  versus  tislelizumab  in  combination  with 
+chemotherapy as a first-line treatment of locally advanced or metastatic non-small-
+cell lung cancer (NSCLC) with PD-L1 negative expression.
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 of	 cadonilimab	
+versus  sugemalimab  for  unresectable  locally  advanced  NSCLC  with  disease 
+progression after concurrent/sequential chemoradiotherapy.
+
+Gastric cancer:
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 of	 cadonilimab	
+in  combination  with  pulocimab  (AK109,  VEGFR-2)  and  chemotherapy  for  the 
+treatment of advanced G/GEJ patients who have progressed after first-line treatment 
+with  PD-(L)1  inhibitor  in  combination  with  chemotherapy.  The  Phase  II  data  were 
+presented in an oral presentation at the 2024 ASCO annual meeting.
+
+– 5 –
+
+Liver cancer:
+
+•	
+
+The	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 of	 cadonilimab	 monotherapy	
+as  an  adjuvant  treatment  for  postoperative  hepatocellular  carcinoma  has  been 
+completed.
+
+•	 We	continued	the	patient	enrollment	in	the	Phase	III	clinical	trial	of	cadonilimab	in	
+combination  with  lenvatinib  and  transcatheter  arterial  chemoembolization  (TACE) 
+for  intermediate  to  advanced  unresectable  hepatocellular  carcinoma  (uHCC).  The 
+Phase II data were published at the 2024 ASCO GI.
+
+Actively expand the global value of cadonilimab
+
+The  international  development  strategy  for  cadonilimab  will  include  replacing  current 
+standard of care in multiple cancer types, combining cadonilimab with other therapeutic 
+agents,  and  targeting  cancer  types  that  can  benefit  from  cadonilimab’s  differentiation 
+from  the  current  PD-1/L1  treatments.  We  will  continue  to  expand  clinical  access  and 
+commercial potential of cadonilimab for patients worldwide.
+
+依達方® (ivonescimab, PD-1/VEGF)
+
+Ivonescimab is currently approved or in clinical studies across 18 indications, including 
+its  use  in  combination  therapies.  The  Company  has  initiated  over  27  clinical  trials, 
+including  12  Phase  III  clinical  trials  and  7  head-to-head  studies.  These  trials  cover 
+various tumor types, including lung cancer, biliary tract cancer, head and neck squamous 
+cell  carcinoma,  breast  cancer,  colorectal  cancer  and  pancreatic  cancer.  During  the 
+Reporting  Period,  a  number  of  important  clinical  data  were  published  in  international 
+medical conferences and journals.
+
+– 6 –
+
+New drug approval, inclusion in NRDL, reshaping a new pattern of treatment of 
+NSCLC after EGFR-TKI resistance
+
+In  May  2024,  依達方®  in  combination  with  chemotherapy  for  the  treatment  of  EGFR 
+mutated  locally  advanced  or  metastatic  non-squamous  NSCLC  progressed  after  EGFR-
+TKI  treatment  was  granted  marketing  approval  by  the  NMPA.  依達方®  is  the  second 
+bi-specific  antibody  independently  developed  by  the  Company  that  has  entered  the 
+commercialization  stage.  In  November  2024,  the  approved  indication  was  successfully 
+included in the latest version of the NRDL, which became effective on January 1, 2025. 
+Currently, 依達方® is available and widely prescribed in many medical institutions and 
+hospitals across major cities in all the provinces across China. Based on initial feedback 
+from  prescribing  physicians,  ivonescimab  is  reshaping  a  new  pattern  of  treatment  for 
+NSCLC patients after EGFR-TKI resistance.
+
+In  June  2024,  the  results  of  the  Phase  III  clinical  trial  for  ivonescimab  (AK112-301/
+HARMONi-A)  for  the  treatment  of  NSCLC  after  EGFR-TKI  resistance  were  presented 
+at  the  2024  ASCO  annual  meeting  and  published  in  the  leading  international  medical 
+journal, the Journal of the American Medical Association (JAMA). The therapy has been 
+included in the CSCO Clinical Guidelines for the Diagnosis and Treatment of Non-Small 
+Cell  Lung  Cancer,  2024  and  the  Chinese  Treatment  Guidelines  for  Stage  IV  Primary 
+Lung Cancer (2024).
+
+AK112-303/HARMONi-2 data presented at the WCLC, sNDA under review
+
+AK112-303/HARMONi-2, the Phase III clinical trial of ivonescimab monotherapy versus 
+pembrolizumab  monotherapy  as  a  first-line  treatment  of  NSCLC  with  PD-L1  positive 
+expression,  demonstrated  that  ivonescimab  has  statistically  and  clinically  meaningful 
+superiority over pembrolizumab. The clinical results from the AK112-303/HARMONi-2 
+study was presented as a late-breaking presentation at the Presidential Symposium at the 
+2024  WCLC.  Ivonescimab  is  the  world’s  first  and  only  drug  to  show  superior  efficacy 
+compared  with  pembrolizumab  monotherapy  in  a  Phase  III  head-to-head  setting.  In 
+March 2025, the results of the study were published in the leading international medical 
+journal, The Lancet.
+
+In  July  2024,  the  sNDA  of  ivonescimab  for  this  indication  has  been  accepted  by  the 
+CDE. Ivonescimab is expected to become the new standard of care in first-line treatment 
+of  NSCLC  as  a  chemo-free  therapy,  bringing  safer  and  more  effective  therapy  to 
+patients.
+
+– 7 –
+
+Advancement of 7 Phase III clinical trials covering 6 tumor types
+
+The  Company  continues  to  advance  the  clinical  development  of  ivonescimab  for  lung 
+cancer and several other indications. The ongoing key Phase III clinical trials include:
+Lung cancer:
+
+•	
+
+•	
+
+The	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 (AK112-306)	 of	 ivonescimab	
+in  combination  with  chemotherapy  versus  tislelizumab  in  combination  with 
+chemotherapy  as  a  first-line  treatment  of  locally  advanced  or  metastatic  squamous 
+NSCLC has been completed.
+
+The	 Phase	 III	 clinical	 trial	 of	 ivonescimab	 for	 the	 treatment	 of	 PD-(L)1	 resistant	
+NSCLC is in the planning stage.
+
+Biliary tract cancer:
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 of	 ivonescimab	
+in  combination  with  chemotherapy  versus  durvalumab  in  combination  with 
+chemotherapy as a first-line treatment of advanced biliary tract cancer. The Phase II 
+data of this trial were published at the 2024 ASCO annual meeting.
+
+Head and neck squamous cell carcinoma:
+
+•	 We	continued	the	patient	enrollment	in	the	Phase	III	clinical	trial	of	ivonescimab	in	
+combination with ligufalimab (AK117, CD47) versus pembrolizumab as a first-line 
+treatment of recurrent/metastatic head and neck squamous cell carcinoma (HNSCC) 
+with PD-L1 positive expression. The Phase II data of this trial were published at the 
+2024 ESMO annual meeting.
+
+Breast cancer:
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 of	 ivonescimab	
+in combination with chemotherapy versus chemotherapy as a first-line treatment of 
+locally  advanced  unresectable  or  metastatic  triple-negative  breast  cancer  with  PD-
+L1  negative  expression.  The  Phase  II  data  of  this  trial  were  published  at  the  2024 
+ESMO annual meeting.
+
+Colorectal cancer:
+
+•	
+
+The	 Company	 initiated	 the	 Phase	 III	 clinical	 trial	 of	 ivonescimab	 in	 combination	
+with  chemotherapy  versus  bevacizumab  in  combination  with  chemotherapy  as  a 
+first-line  treatment  of  metastatic  colorectal  cancer.  The  Phase  II  data  of  this  trial 
+were published at the 2024 ESMO annual meeting.
+
+– 8 –
+
+Pancreatic cancer:
+
+•	
+
+The	 Company	 is	 currently	 initiating	 the	 Phase	 III	 clinical	 trial	 of	 ivonescimab	 in	
+combination  with  chemotherapy  versus  chemotherapy  as  a  first-line  treatment  of 
+pancreatic cancer.
+
+The  superior  efficacy  and  safety  demonstrated  by  ivonescimab  over  other  cancer 
+therapeutics  have  supported  its  significant  potential  as  a  backbone  immuno-oncology 
+(IO) therapeutic agent, and also helps increase its clinical value and commercial market 
+further through combination with other therapies.
+
+Global advancement of multiple phase III clinical trials of lung cancer, strategic 
+collaboration on IO+ADC 2.0 development
+
+Overseas,  our  partner  SUMMIT  is  actively  promoting  the  clinical  development  of 
+ivonescimab. As of now, three global Phase III multi-regional clinical trials (“MRCT”) 
+for lung cancer are in progress.
+
+•	
+
+•	
+
+•	
+
+The	 patient	 enrollment	 in	 the	 global	 Phase	 III	 MRCT	 (HARMONi)	 of	 ivonescimab	
+in combination with chemotherapy for treatment of EGFR-mutated locally advanced 
+or  metastatic  nsq-NSCLC  patients  who  have  progressed  after  the  third  generation 
+EGFR-TKI treatment has been completed.
+
+SUMMIT	 continued	 the	 patient	 enrollment	 of	 the	 global	 Phase	 III	 MRCT	
+(HARMONi-3)  of  ivonescimab  in  combination  with  chemotherapy  versus 
+pembrolizumab  in  combination  with  chemotherapy  as  a  first-line  treatment  of 
+NSCLC (including squamous and non-squamous histology).
+
+SUMMIT	 is	 initiating	 the	 global	 Phase	 III	 MRCT	 (HARMONi-7)	 of	 ivonescimab	
+versus pembrolizumab monotherapy as a first-line treatment of NSCLC with PD-L1 
+high expression (TPS≥50%).
+
+Partners  have  formed  strategic  alliances  and  are  advancing  global  collaborative 
+development of ivonescimab.
+
+•	
+
+In	 June	 2024,	 we	 entered	 into	 an	 amendment	 to	 the	 license	 agreement	 with	
+SUMMIT,  pursuant  to  which  SUMMIT  obtained  additional  exclusive  rights  to 
+develop  and  commercialize  ivonescimab  in  Central  America,  South  America,  the 
+Middle  East  and  Africa.  The  Company  strengthened  its  partnership  with  SUMMIT 
+to facilitate the clinical development, regulatory approval and commercial processes 
+of  ivonescimab  in  various  regions  around  the  world,  with  the  intent  to  bring 
+ivonescimab to patients around the world.
+
+– 9 –
+
+•	
+
+•	
+
+In	 July	 2024,	 SUMMIT	 and	 M.D.	 Anderson	 Cancer	 Center	 announced	 a	 5-year	
+strategic collaboration to accelerate the global clinical development of ivonescimab 
+involving  multiple  tumor  types  including  renal  cell  carcinoma,  colorectal  cancer, 
+breast cancer, skin cancer and glioblastoma.
+
+In	 February	 2025,	 SUMMIT	 announced	 a	 clinical	 trial	 collaboration	 with	 Pfizer	
+Inc.  (NYSE:  PFE)  to  jointly  evaluate  ivonescimab  in  combination  with  Pfizer’s 
+antibody-drug  conjugates  (ADCs)  across  multiple  solid  tumor  settings  to  explore 
+the  great  synergistic  potential  and  broad  commercial  value  of  the  “IO+ADC” 
+combination  therapy.  The  studies  combining  ivonescimab  with  Pfizer’s  ADCs  are 
+planned to begin in the middle of this year.
+
+Ligufalimab (AK117, CD47)
+
+The world’s first Phase III registrational trial of CD47 for the treatment of solid 
+tumors initiated
+
+HNSCC:
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 of	 AK117	 in	
+combination  with  ivonescimab  versus  pembrolizumab  monotherapy  as  a  first-line 
+treatment  of  recurrent/metastatic  HNSCC  with  PD-L1  positive  expression,  which 
+is  the  world’s  first  Phase  III  registrational  trial  of  CD47  for  the  treatment  of  solid 
+tumors.  The  Phase  II  data  of  this  trial  were  published  at  the  2024  ESMO  annual 
+meeting.
+
+Other tumors:
+
+•	
+
+•	
+
+The	Phase	II	data	of	AK117	in	combination	with	ivonescimab	and	chemotherapy	as	
+a first-line treatment of biliary tract cancer were published at the 2024 ASCO annual 
+meeting.
+
+The	Phase	II	data	of	AK117	in	combination	with	ivonescimab	and	chemotherapy	as	
+a first-line treatment of colorectal cancer were published at the 2024 ESMO annual 
+meeting.
+
+– 10 –
+
+Patient enrollment of global Phase II MRCT of hematological tumors in progress, new 
+clinical trials initiated in China
+
+Overseas:
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 global	 Phase	 II	 MRCT	 of	 AK117	 in	
+combination  with  azacitidine  as  a  first-line  treatment  of  myelodysplastic  syndrome 
+(MDS).
+
+China:
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 II	 clinical	 trial	 of	 AK117	 in	
+combination  with  azacitidine  and  venetoclax  as  a  first-line  treatment  of  acute 
+myeloid leukemia (AML).
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 I/II	 clinical	 trial	 of	 AK117	 in	
+combination with AK129 (PD-1/LAG-3) for the treatment of recurrent or refractory 
+classical  Hodgkin  lymphoma  (cHL)  patients  who  have  progressed  after  PD-(L)1 
+treatment.
+
+Pulocimab (AK109, VEGFR-2)
+
+Positioning in the post-IO treatment market, patient enrollment of the Phase III 
+clinical trial of pulocimab in combination with cadonilimab in progress
+
+•	 We	 continued	 the	 patient	 enrollment	 in	 the	 Phase	 III	 clinical	 trial	 of	 pulocimab	 in	
+combination  with  cadonilimab  and  chemotherapy  for  the  treatment  of  advanced  G/
+GEJ  patients  who  have  progressed  after  first-line  treatment  with  PD-(L)1  inhibitor 
+in combination with chemotherapy. The Phase II data of the trial were presented in 
+an oral presentation at the 2024 ASCO annual meeting.
+
+– 11 –
+
+ANNIKO® (penpulimab, PD-1)
+
+New indications approved
+
+•	
+
+•	
+
+In	 April	 2024,	 the	 NMPA	 approved	 the	 third	 indication	 of	 ANNIKO ®  for  the 
+treatment  of  recurrent  or  metastatic  nasopharyngeal  carcinoma  (NPC)  patients  who 
+have progressed after second-line or subsequent systemic therapies.
+
+In	 March	 2025,	 the	 NMPA	 approved	 the	 fourth	 indication	 of	 ANNIKO ®  in 
+combination  with  chemotherapy  as  a  first-line  treatment  of  recurrent  or  metastatic 
+NPC.
+
+Fifth sNDA submitted
+
+•	
+
+In	 November	 2024,	 the	 sNDA	 for	 ANNIKO®  in  combination  with  anlotinib  as  a 
+first-line  treatment  of  advanced  hepatocellular  carcinoma  has  been  accepted  by  the 
+NMPA. This is the fifth indication application submitted for ANNIKO®.
+
+科泰萊® (tagitanlimab, PD-L1)
+
+•	
+
+•	
+
+I n 	 D e c e m b e r 	 2 0 2 4 , 	 科 泰 萊 ®,   w h i c h   w a s   l i c e n s e d   o u t   t o   S i c h u a n   K e l u n 
+Biopharmaceutical  Research  Institute  Co.,  Ltd.  by  the  Company,  obtained  the 
+marketing  approval  for  the  treatment  of  recurrent  or  metastatic  NPC  patients  who 
+have progressed after second-line or subsequent chemotherapy.
+
+In	 January	 2025,	 the	 NMPA	 approved	 the	 sNDA	 for	 科泰萊®  in  combination  with 
+chemotherapy as a first-line treatment of recurrent or metastatic NPC.
+
+– 12 –
+
+Metabolic and Autoimmune Therapeutic Fields
+
+In  the  non-oncology  therapeutic  areas,  we  have  clinical  candidates  with  broad  market 
+potential in metabolic and autoimmune diseases. The Company will develop therapeutic 
+candidates  in  these  diseases  with  a  focus  on  patient  affordability,  market  accessibility, 
+and competitive differentiation.
+
+伊喜寧® (ebronucimab, PCSK9)
+
+In  September  2024,  the  NMPA  approved  the  NDA  for  伊喜寧®  (ebronucimab,  PCSK9) 
+for  the  treatment  of  primary  hypercholesterolemia  and  mixed  hyperlipidemia,  and 
+heterozygous familial hypercholesterolemia (HeFH).
+
+愛達羅® (ebdarokimab, IL-12/IL-23)
+
+The  NDA  for  愛達羅®  (ebdarokimab,  IL-12/IL-23)  for  the  treatment  of  moderate-to-
+severe plaque psoriasis is under final review. The long-term safety and efficacy data of 
+the Phase III clinical trial were published at the 2024 EADV congress.
+
+Gumokimab (AK111, IL-17)
+
+NDA submitted
+
+In January 2025, the NDA for gumokimab was accepted by the NMPA for the treatment 
+of moderate-to-severe plaque psoriasis. The full data of the Phase III clinical trial were 
+presented at the 16th Annual Meeting of the Chinese Society for Immunology.
+
+Phase III clinical trial in progress
+
+The patient enrollment of the Phase III clinical trial of gumokimab for the treatment of 
+ankylosing spondylitis has been completed.
+
+Manfidokimab(AK120, IL-4Rα)
+
+The  patient  enrollment  of  the  Phase  III  clinical  trial  of  manfidokimab  for  the  treatment 
+of moderate-to-severe atopic dermatitis has been completed.
+
+– 13 –
+
+New Clinical Stage Assets
+
+New Clinical Stage Oncology Pipeline
+
+•	 AK135	(IL-1RAP)’s	Phase	I	clinical	trial	for	the	treatment	of	chemotherapy-induced 	
+peripheral  neuropathy  (CIPN)  has  been  initiated.  Currently,  there  are  no  approved 
+drugs  available  for  CIPN,  and  the  existing  clinical  treatments  demonstrate  limited 
+clinical benefit.
+
+•	 AK137	 (CD73/LAG-3)	 is	 the	 Company’s	 seventh	 bi-specific	 antibody	 in	 the	
+oncology  field.  We  continued  the  patient  enrollment  of  the  Phase  I  clinical  trial 
+for  the  treatment  of  advanced  malignant  tumors.  AK137  is  expected  to  offer 
+novel  therapeutic  potential  through  strategic  combination  with  internal  pipeline  to 
+overcome limitations of current standard of cares.
+
+•	 AK138D1	(HER3	ADC)	is	the	Company’s	first	ADC	to	enter	the	clinical	stage.	We	
+have  initiated  the  Phase  I  clinical  trial  in  Australia  for  the  treatment  of  advanced 
+malignant tumors. In addition, a series of clinical trials of AK138D1 in combination 
+with cadonilimab or ivonescimab for the “IO+ADC 2.0” therapy are in preparation.
+
+•	 AK146D1	(Trop2/Nectin4	ADC)	is	the	Company’s	first	bi-specific	ADC	to	enter	the 	
+
+clinical stage. Its IND application was accepted by the CDE in March 2025.
+
+New Clinical Stage Non-Oncology Pipeline
+
+•	 AK139	 (IL-4Rα/ST2)  is  the  Company’s  first  bi-specific  antibody  in  the  non-
+oncology  field.  Its  IND  application  was  accepted  by  the  CDE  in  February  2025. 
+AK139  is  positioned  for  exploration  across  multiple  indications  in  respiratory  and 
+dermatological diseases, including asthma, COPD and atopic dermatitis.
+
+The Company remains committed to advancing the clinical development and therapeutic 
+exploration across its diversified pipeline.
+
+– 14 –
+
+Clinical development plan of products pipeline
+
+As at the date of this announcement, the Company had a pipeline of over 50 innovative 
+programs  covering  the  therapeutic  areas  of  oncology,  autoimmune  and  metabolic 
+diseases.  24  of  those  programs  are  at  clinical  and  commercial  stages,  including 
+15  potential  global  first-in-class  or  best-in-class  bi-specific  antibodies/polyclonal 
+antibodies/bi-specific ADCs.
+
+Immuno-oncology  is  one  of  the  Company’s  focused  therapeutic  areas.  Our  products 
+and  candidates  undergoing  clinical  trials  include  開坦尼®  (cadonilimab,  PD-1/CTLA-
+4), 依達方® (ivonescimab, PD-1/VEGF) and ANNIKO® (penpulimab, PD-1) which have 
+been  approved  for  marketing,  and  ligufalimab  (AK117,  CD47),  drebuxelimab  (AK119, 
+CD73),  pulocimab  (AK109,  VEGFR-2),  AK115  (NGF),  AK127  (TIGIT),  AK129  (PD-
+1/LAG-3),  AK130  (TIGIT/TGF-β),  AK131  (PD-1/CD73),  AK132  (CLDN18.2/CD47), 
+and AK135 (IL-1RAP), AK137 (CD73/LAG-3), AK138D1 (HER3 ADC) and AK146D1 
+(Trop2/Nectin4 ADC) which have recently entered the clinical stage. These products and 
+candidates  cover  broad  indications,  including  solid  tumors  and  hematological  tumors. 
+With  cadonilimab  and  ivonescimab  as  our  two  cornerstone  I/O  agents,  we  expect  to 
+cover  a  broad  number  of  indications  with  large  market  potential  though  combination 
+therapies  with  both  independently  developed  candidates  as  well  as  products  from 
+external sources.
+
+伊喜寧®  (ebronucimab,  PCSK9),  our  innovative  product  targeting  metabolic  diseases, 
+has  obtained  marketing  approval  in  September  2024.  In  the  field  of  autoimmune 
+diseases,  we  have  a  broad  pipeline.  In  particular,  the  NDAs  of  愛達羅®  (ebdarokimab, 
+IL-12/IL-23) and gumokimab (AK111, IL-17) are under regulatory review. We are also 
+actively  advancing  the  clinical  research  and  exploration  of  other  products,  including 
+manfidokimab (AK120, IL-4R) and AK139 (IL-4Rα/ST2).
+
+– 15 –
+
+The  following  chart  highlights  the  clinical  development  plan  of  the  Company’s  main  product  portfolio  as  at  the  date  of  this 
+announcement:
+
+The following chart highlights the clinical development plan of the Company’s main product portfolio as at the date of this announcement:
+
+Target
+
+MOA
+
+Phase Ia
+
+Phase Ib/II
+
+Pivotal / Phase III
+
+NDA
+
+Approved
+
+Oncology
+開 坦 尼 ® (cadonilimab)
+
+PD-1/CTLA-4
+
+依 達 方 ® (ivonescimab)
+
+PD-1/VEGF
+
+安 尼 可 ® (penpulimab)
+
+PD-1
+
+普 佑 恒 TM (pucotenlimab)* PD-1
+
+科 泰 萊 ® (tagitanlimab)*
+
+PD-L1
+
+ligufalimab (AK117)
+
+CD47
+
+pulocimab (AK109)
+
+VEGFR-2
+
+CD73
+
+TIGIT
+
+PD-1/LAG-3
+
+TIGIT/TGF-β
+
+PD-1/CD73
+
+drebuxelimab (AK119)
+
+AK127
+
+AK129
+
+AK130
+
+AK131
+
+AK132
+
+AK135
+
+AK137
+
+AK138D1
+
+AK146D1
+
+Metabolism/
+auto-immunity
+伊 喜 寧 ® (ebronucimab)
+
+愛 達 羅 ® (ebdarokimab)
+
+IL-12/IL-23
+
+gumokimab (AK111)
+
+IL-17
+
+manfidokimab (AK120)
+
+IL-4Rα
+
+PCSK9
+
+NGF
+
+AK115
+
+AK139
+
+BsAb
+
+BsAb
+
+mAb
+
+mAb
+
+mAb
+
+mAb
+
+mAb
+
+mAb
+
+mAb
+
+BsAb
+
+BsAb
+
+BsAb
+
+adv. solid tumor
+
+adv. solid tumor
+
+adv. solid tumor
+
+PDAC, ESCC, 2L NSCLC, 1L PD-L1(-) NSCLC, HCC, 2L GC...
+
+1L GC, 1L CC, 2/3L CC
+
+1L PDAC, 1L CRC, 1L TNBC, 1L HNSCC, 1L BTC, 1L sq-NSCLC...
+
+1L PD-L1(+) NSCLC, EGFR-TKI progressed nsq-NSCLC
+
+SCLC, thyroid cancer, UC...
+
+ 1L HCC, 1L NPC, 3L NPC, 1L sq-NSCLC, cHL
+
+adv. solid tumor, melanoma
+
+1L NPC, 3L NPC
+
+adv. malignant tumor
+
+2L cHL, 1L AML, 1L MDS...
+
+1L HNSCC
+
+adv. solid tumor
+
+adv. solid tumor
+
+adv. solid tumor
+
+adv. solid tumor
+
+adv. solid tumor
+
+adv. solid tumor
+
+2L HCC, 2L NSCLC...
+
+PD-(L)1 progressed GC
+
+CRC, NSCLC
+
+HCC
+
+2L cHL, GC
+
+BTC, HCC
+
+CLDN18.2/CD47 BsAb
+
+adv. solid tumor
+
+IL-1RAP
+
+CD73/LAG-3
+
+HER3
+
+Trop2/Nectin4
+
+mAb
+
+BsAb
+
+ADC
+
+ADC
+
+CIPN
+
+adv. malignant tumor
+
+adv. malignant tumor
+
+adv. malignant tumor
+
+Target
+
+MOA
+
+Phase Ia
+
+Phase Ib/II
+
+Pivotal / Phase III
+
+NDA
+
+Approved
+
+mAb
+
+mAb
+
+mAb
+
+mAb
+
+mAb
+
+ulcerative colitis
+
+ankylosing spondylitis
+
+psoriasis
+
+psoriasis
+
+adolescent atopic dermatitis
+
+atopic dermatitis
+
+pain
+
+primary HC and mixed hyperlipidemia, HeFH
+
+IL-4Rα/ST2
+
+BsAb
+
+respiratory/dermatological diseases
+
+Note:  highlighted indications are at NDA stage or marketed
+Note: 
+*  license-out assets
+
+highlighted indications are at NDA stage or marketed
+
+*  License-out assets
+
+– 16 –
+
+– 1 –
+
+Warning  under  Rule  18A.08(3)  of  the  Listing  Rules:  There  is  no  assurance  that 
+the  successful  commercialization  of  開坦尼®  (cadonilimab,  PD-1/CTLA-4),  依達方® 
+(ivonescimab, PD-1/VEGF), ANNIKO® (penpulimab, PD-1) and 伊喜寧® (ebronucimab, 
+PCSK9)  will  continue.  There  is  also  no  assurance  that  ligufalimab  (AK117,  CD47), 
+pulocimab  (AK109,  VEGFR-2),  drebuxelimab  (AK119,  CD73),  AK115  (NGF),  AK127 
+(TIGIT),  AK129  (PD-1/LAG-3),  AK130  (TIGIT/TGF-β),  AK131  (PD-1/CD73), 
+AK132  (CLDN18.2/CD47),  AK135  (IL-1RAP),  AK137  (CD73/LAG-3),  AK138D1 
+(HER3  ADC),  AK146D1  (Trop2/Nectin4  ADC),  愛達羅®  (ebdarokimab,  IL-12/IL-23), 
+gumokimab  (AK111,  IL-17),  manfidokimab  (AK120,  IL-4Rα)  and  AK139  (IL-4Rα/
+ST2)  will  ultimately  be  successfully  developed,  marketed  and/or  commercialized  by 
+the  Company.  As  at  the  date  of  this  announcement,  no  material  adverse  changes  had 
+occurred with respect to the regulatory approvals we had received in relation to our drug 
+candidates.
+
+– 17 –
+
+HUMAN RESOURCES MANAGEMENT
+
+As  at  December  31,  2024,  we  had  a  total  of  3,035  employees.  With  the  strategic  goal 
+of  building  our  integrated  platform  of  R&D,  manufacturing  and  commercialization, 
+the  Company  continues  to  recruit  additional  employees  and  upgrade  the  employee 
+training  and  development  system.  Akeso  is  committed  to  creating  a  diverse,  fair,  open 
+and  inclusive  platform  for  employees.  The  following  table  sets  forth  the  Company’s 
+employees by function:
+
+Function
+
+Number of 
+employees 
+as at 
+December 31,
+2024
+
+Number of 
+employees
+as at
+December 31, 
+2023
+
+R&D Pre-clinical
+R&D Clinical
+Manufacturing, quality assurance and quality control
+Sales and marketing
+General and administrative
+
+329
+700
+814
+816
+376
+
+320
+679
+687
+788
+304
+
+Total
+
+3,035
+
+2,778
+
+MANUFACTURING FACILITIES
+
+At  present,  the  Company  has  a  production  capacity  of  94,000L,  which  can  ensure 
+large-scale  capacity  supply  for  us  and  our  partners.  We  have  a  continuous  and  steady 
+capacity  expansion  plan  to  support  our  future  clinical  development  and  commercial 
+requirements.  Our  GMP  compliant  manufacturing  facilities  are  designed  and  validated 
+according  to  the  US  FDA,  the  EMA,  and  the  NMPA  regulations  to  support  the  entire 
+drug development process from drug discovery to process development, GMP-compliant 
+and  commercial  manufacturing,  which  will  effectively  support  the  Company’s  clinical 
+and commercialization development.
+
+Our key manufacturing facilities are highlighted below:
+
+  Greater  Bay  Area  Technology  Park  (Zhongshan):  The  site  has  facilities  for 
+biopharmaceutical R&D, production and sales, with a total planned capacity of over 
+100,000L. The site has one of the most advanced biopharmaceutical manufacturing 
+facilities  in  the  world  with  a  production  capacity  in  operation  of  55,000L  as  of 
+March  2025,  including  40,000L  of  stainless-steel  reactors  and  the  advanced  filling 
+linkage system, and 15,000L of single-use bioreactors.
+
+✓  Knowledge  City  Biopharmaceutical  Base  (Guangzhou):  The  production  capacity  in 
+
+operation was 36,000L.
+
+✓  National  Health  Technology  Park  (Zhongshan):  The  production  capacity  in 
+
+operation was 3,000L.
+
+– 18 –
+
+ 
+ 
+ 
+ 
+FUTURE DEVELOPMENT
+
+The  Chinese  biotech  industry  is  undergoing  profound  changes.  At  this  pivotal  period, 
+Akeso will continue to invest in state of the art upgrades in our commercial infrastructure 
+to maintain our leadership position. We will continue to focus on innovation and clinical 
+execution across the Company’s multiple innovative products globally. Our mission is to 
+redefine treatment landscape, to elevate China’s biotech innovation to global standards, 
+and to deliver life-changing therapies to patients worldwide.
+
+In  2025,  with  two  in-house  developed  first-in-class  bi-specific  antibodies,  開坦尼® 
+(cadonilimab,  PD-1/CTLA-4)  and  依達方®  (ivonescimab,  PD-1/VEGF),  successfully 
+included  in  the  NRDL,  we  have  entered  a  new  phase  of  commercialization.  The  global 
+potential  of  these  innovative  therapies  are  becoming  ever  more  evident,  supported  by 
+multiple ongoing global multicenter clinical trials. Moving forward, Akeso will advance 
+our  strategy  of  “commercialization”  and  “globalization”,  increase  R&D  investments, 
+and accelerate the clinical development of our globally competitive assets. This will be 
+enhanced by our efforts to integrate end-to-end global development, manufacturing, and 
+commercialization to provide best-in-class treatment options for patients.
+
+Comprehensive commercialization system upgrade: rapid growth, best-in-class 
+quality and sustainable growth
+
+With the inclusion of cadonilimab and ivonescimab in the NRDL and further approval of 
+first-line indications, we have entered into the next phase of commercialization. We have 
+completed  a  comprehensive  upgrade  of  our  commercialization  infrastructure,  anchored 
+in  a  “patient-centric”  philosophy  and  the  “IO  2.0”  scientific  promotion  strategy. 
+Leveraging  NRDL  coverage  and  approved  indications,  we  aim  to  achieve  rapid  market 
+access, accelerating ramp-up, and dominant penetration.
+
+Through  systematic  market  deployment  and  professionalized  operational  system,  we 
+are confident these foundational efforts will fuel sustained growth in 2025 and beyond, 
+driving rapid growth, best-in-class-quality, and sustainable development.
+
+Global clinical synergy: maximizing global market potential
+
+Building  on  cadonilimab  and  ivonescimab  as  cornerstone  IO  bi-specific  antibodies, 
+we  are  reinforcing  their  first-mover  advantages  and  broad-spectrum  efficacy.  Strategic 
+combinations  with  our  in-house  or  industry-leading  ADC  therapies,  and  other  novel 
+modalities will expand our footprint across diverse indications.
+
+– 19 –
+
+•	 We	 are	 rapidly	 advancing	 more	 than	 28	 clinical	 trials	 of	 cadonilimab	 across	 20	
+indications,  including  gastric  cancer,  liver  cancer,  lung  cancer  and  esophageal 
+cancer,  to  further  consolidate  and  deepen  our  competitive  advantage.  Global  pan-
+tumor value exploration of cadonilimab is in progress.
+
+•	 We	 are	 expanding	 coverage	 of	 ivonescimab	 across	 multiple	 types	 of	 tumors	
+through  over  27  clinical  trials  across  18  indications  to  demonstrating  its  clinical 
+and  commercial  potential.  As  part  of  our  global  efforts,  we  will  assist  our  partner 
+SUMMIT to accelerate ongoing global trials of cadonilimab and broaden indications 
+beyond lung cancer.
+
+We  are  expediting  the  clinical  development  and  commercialization  of  multiple 
+innovative  drugs  globally,  committed  to  uncovering  their  clinical  value  and  market 
+potential.
+
+•	
+
+•	
+
+Ligufalimab	 (AK117,	 CD47):	 The	 world’s	 first	 Phase	 III	 clinical	 trial	 of	 CD47	
+for  the  treatment  of  solid  tumors  has  been  initiated.  The  global  Phase  II  MRCT  of 
+ligufalimab  for  the  treatment  of  hematologic  cancers  is  currently  progressing  on 
+schedule. We initiated several additional Phase II clinical trials.
+
+Pulocimab	 (AK109,	 VEGFR2):	 Strategically	 positioned	 in	 the	 post-IO	 market,	 the	
+registrational Phase III clinical trial is currently progressing on schedule. On-going 
+Phase II clinical trials across multiple tumor types have generated positive data for 
+continued development.
+
+First-in-class molecules accelerating, ADC platform deliverables emerging
+
+In  oncology,  Akeso  is  running  Phase  I/II  clinical  trials  of  our  early  stages  assets, 
+such  as  AK129  (PD-1/LAG-3),  AK130  (TIGIT/TGF-β),  AK131  (PD-1/CD73), 
+AK132  (CLDN18.2/CD47),  AK135  (IL-1RAP)  and  AK137  (CD73/LAG-3).  Through 
+monotherapy and combination therapies, a wider range of indications are covered. Early 
+data are expected to be presented at international medical conferences and journals.
+
+– 20 –
+
+We  are  advancing  our  ADC  platform  into  the  clinic.  The  global  Phase  I  clinical  trial 
+of  AK138D1  (HER3  ADC)  for  the  treatment  of  advanced  malignant  tumors  has  been 
+initiated,  and  the  IND  application  for  AK146D1  (Trop2/Nectin4  ADC)  has  been 
+submitted.  We  will  advance  additional  ADC  candidates  into  the  clinical  stage  in  the 
+coming years, leveraging combination therapies with our backbone bi-specific antibodies 
+to address unmet needs across multiple solid tumor indications.
+
+In  the  autoimmune  field,  the  NDAs  for  ebdarokimab  (AK101,  IL-12/IL-23)  and 
+gumokimab  (AK111,  IL-17)  for  the  treatment  of  moderate-to-severe  plaque  psoriasis 
+are  under  regulatory  review.  In  addition,  we  will  advance  the  Phase  III  clinical  trials 
+for gumokimab  for the  treatment of ankylosing spondylitis and manfidokimab  (AK120, 
+IL-4Rα) for the treatment of atopic dermatitis, respectively. We are expediting the IND 
+application  of  early-stage  products  such  as  AK139  (IL-4Rα/ST2),  the  first  in-house 
+developed bi-specific antibody product for autoimmune diseases.
+
+– 21 –
+
+FINANCIAL REVIEW
+
+1.  Commercial Sales
+
+The  Group’s  total  commercial  sales,  net  of  distribution  cost  increased  by  24.88% 
+from  RMB1,603.5  million  for  the  year  ended  December  31,  2023  to  RMB2,002.4 
+million  for  the  year  ended  December  31,  2024.  The  growth  was  primarily 
+attributable to the commercialization of 依達方® (ivonescimab, PD-1/VEGF), which 
+was approved in May 2024. Leveraging its outstanding clinical value, ivonescimab 
+has provided the Company with a new growth driver.
+
+2.  License Income
+
+The Group’s license income for the year ended December 31, 2024, was RMB121.6 
+million,  compared  to  RMB2,922.8  million  for  the  year  ended  December  31,  2023. 
+The decrease was primarily due to the upfront payment received and recognized in 
+2023 under the collaboration and license agreement with SUMMIT for ivonescimab 
+(PD-1/VEGF). In 2024, the license income from SUMMIT declined.
+
+3.  Cost of Sales
+
+The  cost  of  sales  increased  by  116.92%  from  RMB133.2  million  for  the  year 
+ended  December  31,  2023  to  RMB289.0  million  for  the  year  ended  December  31, 
+2024.  The  increase  was  mainly  attributable  to  the  increased  sales  volume  of  開坦
+尼®  (cadonilimab,  PD-1/CTLA-4)  and  the  approval  and  commercialization  of 依
+達方®  (ivonescimab,  PD-1/VEGF).  Cost  of  sales  of  the  Group  mainly  represents 
+cost  of  raw  materials,  direct  labor,  depreciation  of  plant  and  machinery  and  other 
+manufacturing overhead.
+
+– 22 –
+
+4.  Gross Profit
+
+The  Group’s  gross  profit  decreased  by  58.23%  from  RMB4,393.0  million  for  the 
+year ended December 31, 2023 to RMB1,834.9 million for the year ended December 
+31,  2024.  It  was  mainly  attributable  to  the  changes  in  license  income.  The  gross 
+profit from commercial sales increased by 16.53% from RMB1,470.2 million for the 
+year ended December 31, 2023 to RMB1,713.3 million for the year ended December 
+31, 2024.
+
+5.  Other Income and Gains, Net
+
+Other  income  and  gains,  net  decreased  by  19.42%  from  RMB454.2  million  for 
+the  year  ended  December  31,  2023  to  RMB366.0  million  for  the  year  ended 
+December 31, 2024, which was mainly due to the fluctuation in exchange gains and 
+government subsidies.
+
+The  Group’s  other  income  and  gains,  net  primarily  consists  of  exchange  gains, 
+subsidies  received  from  local  governments  for  the  purpose  of  compensation  for 
+expenses arising from R&D activities and award for capital expenditure incurred on 
+construction  of  production  facilities,  bank  interest  income,  and  investment  income 
+from financial products.
+
+6.  Research and Development Expenses
+
+Research and development expenses decreased by 5.29% from RMB1,254.0 million 
+for  the  year  ended  December  31,  2023  to  RMB1,187.7  million  for  the  year  ended 
+December  31,  2024.  This  reduction  was  primarily  attributable  to  the  Group’s 
+expansion  and  enhancement  of  its  in-house  clinical  team  in  recent  years,  which 
+has  enabled  the  internalization  of  some  research  services  previously  outsourced  to 
+external  clinical  service  providers.  These  initatives  allowed  the  Group  to  control 
+R&D expenditures while expanding its clinical capabilities.
+
+The  Group’s  pipeline  development  and  NDA  approvals  achieved  progress  on 
+multiple  fronts,  with  multiple  first-in-class  or  globally  leading  products  achieving 
+critical  milestones;  ivonescimab  (PD-1/VEGF),  the  world’s  first  bi-specific  drug, 
+received  marketing  approval  in  May  2024;  cadonilimab  (PD-1/CTLA-4  bispecific 
+antibody,  AK104)  expanded  its  indications,  with  first-line  gastric  cancer  treatment 
+approval  granted  in  September  2024;  ebronucimab  (anti-PCSK9  monoclonal 
+antibody, AK102), the Group’s first non-oncology drug to reach commercial stage, 
+was  approved  in  September  2024.  Multiple  new  pipelines  obtained  IND  approvals, 
+including  AK135  (IL-1RAP  biologic),  AK137  (CD73/LAG-3  bispecific  antibody), 
+and AK138D1 (HER3 ADC).
+
+– 23 –
+
+The Group’s research and development expenses primarily consisted of: (i) clinical 
+trial sites fees, central laboratory bioanalysis fees, third-party assessment fees, costs 
+associated with purchasing reference listed drugs and concomitant drugs, third-party 
+contract  fees  signed  by  clinical  trial  site  management  service  providers  and  other 
+trial  related  service  providers;  (ii)  employee  salaries  and  related  benefit  costs  in 
+connection with our research and development activities; (iii) third-party contracting 
+costs relating to testing expenses for pre-clinical programs; and (iv) costs associated 
+with purchasing raw materials for research and development of our drug candidates.
+
+7.  Selling and Marketing Expenses
+
+Selling  and  marketing  expenses  increased  by  12.51%  from  RMB890.4  million 
+for  the  year  ended  December  31,  2023  to  RMB1,001.8  million  for  the  year  ended 
+December  31,  2024.  The  increase  was  primarily  attributed  to  the  accelerated 
+commercialization process and the enhanced academic promotion capabilities of the 
+Group.
+
+8.  Administrative Expenses
+
+Administrative  expenses  increased  by  1.77%  from  RMB200.1  million  for  the  year 
+ended  December  31,  2023  to  RMB203.6  million  for  the  year  ended  December  31, 
+2024.
+
+Administrative  expenses  primarily  consisted  of  employee  salaries  and  benefits, 
+depreciation  and  amortization  expenses,  professional  fees,  taxes,  and  other 
+administrative  expenses  including  travel  expenses  and  other  expenses  associated 
+with administrative activities.
+
+9.  Finance Costs
+
+Finance  costs  decreased  by  21.53%  from  RMB87.0  million  for  the  year  ended 
+December 31, 2023 to RMB68.3 million for the year ended December 31, 2024. The 
+decrease was mainly due to lower interest rates.
+
+10.  Profit/Loss for the Year
+
+For  the  reasons  discussed  above,  the  Group  recorded  a  loss  of  RMB501.1  million 
+for the year ended December 31, 2024, compared to a profit of RMB1,942.4 million 
+for the year ended December 31, 2023.
+
+– 24 –
+
+11.  Liquidity and Source of Funding and Borrowing
+
+In  2024,  we  actively  expanded  financing  channels  and  enhanced  operational 
+capabilities  to  strengthen  cash  reserves,  providing  robust  capital  support  for  the 
+Company’s research and development and commercial expansion.
+
+As  at  December  31,  2024,  the  Group’s  current  assets  were  RMB8,691.6  million, 
+comprising  RMB7,343.9  million  in  cash,  cash  equivalents,  time  deposits,  and 
+financial products, with other current assets amounting to RMB1,347.7 million.
+
+The total balance of cash, cash equivalents, time deposits, and financial products is 
+RMB7,343.9 million as at December 31, 2024, an increase of RMB2,449.4 million 
+from the total balance of RMB4,894.4 million as at December 31, 2023.
+
+As at December 31, 2024, the Group’s current liabilities were RMB1,686.6 million, 
+which  included  RMB425.2  million  in  trade  payables,  RMB715.1  million  in  other 
+payables  and  accruals,  and  RMB535.5  million  in  interest-bearing  bank  and  other 
+borrowings.
+
+As  at  December  31,  2024,  the  Group  had  short-term  loan  and  mid-long-term  loan 
+due within next one year of RMB535.5 million and long-term loans of RMB3,406.1 
+million,  among  which,  interest  rate  of  commercial  bank  borrowings  ranged  from 
+1.2% to 4.35% based on annual interest rate over or below loan prime rate (LPR).
+
+The  Group  follows  a  conservative  set  of  cash  management  and  treasury  policies  to 
+manage its capital resources and mitigate potential risks.
+
+12.  Pledge of Assets
+
+As at December 31, 2024, the Group had a total of RMB1,455.2 million of buildings 
+and land use right pledged to secure its loans and banking facilities.
+
+– 25 –
+
+13.  Key Financial Ratios
+
+The following table sets forth the key financial ratios for the dates indicated:
+
+As at 
+December 31, 
+2024
+
+As at 
+December 31, 
+2023
+
+4.73
+
+4.39
+
+Not meaningful(2)
+
+Not meaningful(2)
+
+Quick ratio(1)
+Gearing ratio(2)
+
+Notes:
+
+(1)  Quick ratio is calculated by dividing current assets less inventories as at a given date by current 
+
+liabilities as at such date.
+
+(2)  Gearing ratio is calculated using interest-bearing bank and other borrowings less cash and bank 
+balance divided by total equity and multiplied by 100%. Gearing ratio is not meaningful as our 
+interest-bearing bank and other borrowings less cash and cash equivalents were negative.
+
+14.  Significant Investments
+
+As  at  December  31,  2024,  the  Group  did  not  hold  any  significant  investments. 
+Except  as  disclosed  in  this  announcement,  the  Group  did  not  have  other  plans  for 
+significant investments or capital assets as at the date of this announcement.
+
+15.  Material Acquisitions and Disposals
+
+On  February  8,  2024,  the  Company,  Akeso  Biopharma  Co.,  Ltd.*  (中山康方
+生物醫藥有限公司)  (an  indirect  wholly-owned  subsidiary  of  the  Company) 
+(the  “Purchaser”),  Dawnrays  Biotechnology  Capital  (Asia)  Limited  (東瑞
+生物投資發展(亞洲)有限公司)  ( the  “Ve ndor” ),  D aw nra ys  Phar ma ce u ti cal 
+a n d  A D  P h a r m a c e u t i c a l s  C o . ,  L t d . *  (康融東方(廣東)醫藥有限公司)  ( “ A D 
+Pharmaceuticals”)  entered  into  an  equity  transfer  agreement,  pursuant  to  which 
+the Vendor agreed to sell, and the Purchaser agreed to purchase, 35% of the equity 
+interest  in  AD  Pharmaceuticals  at  a  consideration  of  RMB267.4  million  (the 
+“Acquisition”).  The  Acquisition  has  been  completed  and  AD  Pharmaceuticals  has 
+become  an  indirect  wholly-owned  subsidiary  of  the  Company.  For  details  of  the 
+Acquisition,  please  refer  to  the  announcements  of  the  Company  dated  February  9, 
+2024 and March 4, 2024. 
+
+Save  as  disclosed  above,  the  Group  did  not  have  material  acquisitions  or  disposals 
+of subsidiaries, associates and joint ventures for the year ended December 31, 2024.
+
+16.  Contingent Liabilities
+
+The Group did not have any material contingent liabilities as at December 31, 2024.
+
+– 26 –
+
+17.  Capital Commitments
+
+The  capital  commitments  of  the  Group  as  at  December  31,  2024  were  RMB734.0 
+million,  as  compared  to  RMB770.0  million  as  at  December  31,  2023.  This 
+was  primarily  attributable  to  the  development  of  world-class  manufacturing 
+equipment in Greater Bay Area Technology Park (Zhongshan) and Knowledge City 
+Biopharmaceutical  Base  (Guangzhou).  The  projects  are  both  currently  progressing 
+on  schedule  and  parts  of  both  sites  are  already  in  operation.  Concurrently, 
+construction  continues  at  the  Shanghai  R&D  Center  and  the  Guangzhou  R&D 
+Center.
+
+18.  Foreign Exchange Risk Exposure
+
+For the year ended December 31, 2024, the Group mainly operated in China and the 
+majority  of  its  financial  transactions  were  settled  in  RMB,  the  functional  currency 
+of the Company’s primary subsidiaries.
+
+As at December 31, 2024, a portion of the Group’s cash and cash equivalents were 
+dominated in Hong Kong dollars and in US dollars. Except for certain cash and cash 
+equivalents,  time  deposits,  financial  products,  other  receivables,  payables,  other 
+payables  and  accrued  expenses  denominated  in  foreign  currencies,  the  Group  did 
+not  have  significant  foreign  exchange  risk  exposure  from  its  operations  during  the 
+Reporting Period.
+
+The Group currently does not have a foreign currency hedging policy. However, we 
+manage our foreign exchange risk by performing regular reviews of our net foreign 
+exchange  exposure,  and  may  potentially  use  forward  contracts  to  eliminate  the 
+foreign exchange risk exposures if such needs arise.
+
+19.  Employees and Remuneration
+
+As at December 31, 2024, the Group had a total of 3,035 employees, as at December 
+31, 2023, the Group had a total of 2,778 employees.
+
+The  total  remuneration  cost  incurred  by  the  Group  was  RMB944.7  million  for 
+the  year  ended  December  31,  2024,  and  RMB847.1  million  for  the  year  ended 
+December  31,  2023.  The  increase  in  remuneration  cost  was  primarily  attributable 
+to the increase in the number of employees, which led to an increase in employees’ 
+salaries and benefits.
+
+The  remuneration  of  the  employees  of  the  Group  comprises  salaries,  bonuses, 
+employees’ provident fund and social security contributions, other welfare payments 
+and  equity-settled  share  award  and  share  option  expenses.  In  accordance  with 
+applicable PRC laws, the Group has made contributions to social security insurance 
+funds  (including  pension  plans,  medical  insurance,  work  related  injury  insurance, 
+unemployment  insurance  and  maternity  insurance)  and  housing  funds  for  the 
+Group’s  employees.  We  provide  training  and  development  programs  to  employees, 
+including  new  hire  orientation  and  continuous  on-the-job  training  in  order  to 
+maintain and improve the knowledge and skill levels of our employees.
+
+– 27 –
+
+The  Company  adopted  the  Pre-IPO  RSU  Scheme  on  August  29,  2019.  For  details, 
+please  refer  to  the  section  headed  “D.  Share  Incentive  Schemes  —  1.  Restricted 
+Share  Unit  Scheme”  in  Appendix  IV  to  the  Prospectus.  The  Pre-IPO  RSU  Scheme 
+was  terminated  in  accordance  with  the  rules  of  the  Pre-IPO  RSU  Scheme  on  June 
+30, 2024. For details, please refer to the announcement of the Company dated June 
+5,  2024,  and  the  circular  of  the  Company  dated  June  6,  2024,  respectively.  After 
+the  termination  of  the  Pre-IPO  RSU  Scheme,  no  further  awards  might  be  granted 
+thereunder,  while  the  awards  already  granted  before  the  termination  shall  remain 
+valid and continue to vest in accordance with the rules of the Pre-IPO RSU Scheme.
+
+The  Company  also  adopted  the  2021  RSU  Scheme  on  December  6,  2021.  For 
+details, please refer to the announcement of the Company dated December 7, 2021. 
+The  2021  RSU  Scheme  was  amended  on  June  30,  2024.  For  details,  please  refer 
+to  the  announcement  of  the  Company  dated  June  5,  2024,  and  the  circular  of  the 
+Company dated June 6, 2024, respectively.
+
+The  Company  also  adopted  the  Share  Option  Scheme  on  June  28,  2022.  For 
+details,  please  refer  to  the  circular  of  the  Company  dated  June  1,  2022.  The  Share 
+Option  Scheme  was  amended  on  June  30,  2024.  For  details,  please  refer  to  the 
+announcement of the Company dated June 5, 2024, and the circular of the Company 
+dated June 6, 2024, respectively.
+
+– 28 –
+
+OTHER INFORMATION
+
+FINAL DIVIDEND
+
+The Board does not recommend the payment of a final dividend to the Shareholders for 
+the Reporting Period (year ended December 31, 2023: Nil).
+
+CORPORATE GOVERNANCE PRACTICES
+
+The  Directors  recognize  the  importance  of  good  corporate  governance  in  management 
+and  internal  procedures  to  achieve  effective  accountability.  The  Company  has  adopted 
+the  code  provisions  as  set  out  in  the  Corporate  Governance  Code  as  its  own  code  to 
+govern its corporate governance practices.
+
+The  Company  has  adopted  and  complied  with  all  applicable  code  provisions  contained 
+in  Part  2  of  the  Corporate  Governance  Code  throughout  the  Reporting  Period  with  the 
+exception of code provision C.2.1.
+
+Under  code  provision  C.2.1  of  the  Corporate  Governance  Code,  the  roles  of  chairman 
+and  chief  executive  should  be  separate  and  should  not  be  performed  by  the  same 
+individual.  Under  the  current  organizational  structure  of  the  Company,  Dr.  XIA  Yu 
+is  the  chairwoman  and  chief  executive  officer  of  the  Company.  With  her  extensive 
+experience in the industry, the Board believes that vesting the roles of both chairwoman 
+and  chief  executive  officer  in  the  same  person  provides  the  Company  with  strong  and 
+consistent  leadership,  allows  for  effective  and  efficient  planning  and  implementation 
+of  business  decisions  and  strategies,  and  is  beneficial  to  the  business  prospects  and 
+management of the Group. Although Dr. XIA Yu performs both the roles of chairwoman 
+and chief executive officer, the division of responsibilities between the chairwoman and 
+chief  executive  officer  is  clearly  established.  In  general,  the  chairwoman  is  responsible 
+for  supervising  the  functions  and  performance  of  the  Board,  while  the  chief  executive 
+officer  is  responsible  for  the  management  of  the  business  of  the  Group.  The  two  roles 
+are performed by Dr. XIA Yu distinctly. We also consider that the current structure does 
+not  impair  the  balance  of  power  and  authority  between  the  Board  and  the  management 
+of  the  Company  given  the  appropriate  delegation  of  the  power  of  the  Board  and  the 
+effective functions of the independent non-executive Directors. However, it is the long-
+term objective of the Company to have these two roles performed by separate individuals 
+when suitable candidates are identified.
+
+The  Board  will  continue  to  review  and  monitor  the  practices  of  the  Company  with  an 
+aim of maintaining a high standard of corporate governance.
+
+– 29 –
+
+MODEL CODE FOR SECURITIES TRANSACTIONS
+
+The  Company  has  adopted  the  Model  Code  as  its  own  code  of  conduct  regarding 
+dealings  in  the  securities  of  the  Company  by  the  Directors  and  the  senior  management 
+who, because of his/her office or employment, is likely to possess inside information in 
+relation to the Company or its securities.
+
+Upon  specific  enquiry,  all  Directors  confirmed  that  they  had  complied  with  the  Model 
+Code  throughout  the  Reporting  Period.  In  addition,  the  Company  is  not  aware  of  any 
+non-compliance of the Model Code by the senior management of the Group throughout 
+the Reporting Period.
+
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S LISTED 
+SECURITIES
+
+The March Placing
+
+On  March  28,  2024,  an  aggregate  of  24,800,000  new  Shares  were  issued  at  a  price  of 
+HK$47.65 per Share to not less than six professional, institutional or other investors who 
+are  Independent  Third  Parties  pursuant  to  the  placing  agreement  (the  “March  Placing 
+Agreement”) dated March 21, 2024 (the “March Placing”), representing approximately 
+2.86% of the enlarged issued share capital of the Company immediately upon completion 
+of  the  March  Placing.  The  placing  price  of  HK$47.65  per  Share  represented  (i)  a 
+discount of approximately 6.02% to the closing price of HK$50.70 per Share as quoted 
+on the Stock Exchange on the last full trading day prior to the date of the March Placing 
+Agreement,  and  (ii)  a  discount  of  approximately  6.81%  to  the  average  closing  price  of 
+approximately  HK$51.13  per  Share  as  quoted  on  the  Stock  Exchange  for  the  last  five 
+consecutive trading days prior to and including the last full trading day prior to the date 
+of the March Placing Agreement.
+
+The net placing price (after deducting related costs and expenses borne by the Company) 
+was approximately HK$47.18 per Share. The net proceeds raised from the March Placing 
+were approximately HK$1,170.18 million.
+
+Further  details  of  the  March  Placing  are  set  out  in  the  announcements  of  the  Company 
+dated  March  21,  2024  and  March  28,  2024,  respectively.  For  details  of  the  use  of 
+proceeds  from  the  March  Placing,  please  refer  to  the  section  headed  “Use  of  Net 
+Proceeds” to be disclosed in the annual report of the Company.
+
+– 30 –
+
+

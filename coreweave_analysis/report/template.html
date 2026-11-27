@@ -1,0 +1,1230 @@
+<title>CoreWeave 财务分析报告</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="CoreWeave（CRWV）中文财务分析：财务表现、债务与偿债能力、市场增长敏感性、未来规划、以标普500为基准的波动率分析与事件研究。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap">
+<style>
+/* Layout: single reading column (research-note style) with full-column figures; sticky section rail on top. */
+:root {
+  --bg: #f4f5f7;
+  --surface: #ffffff;
+  --ink: #121722;
+  --ink2: #465063;
+  --muted: #747d8c;
+  --rule: #e2e5ea;
+  --rule2: #cdd2da;
+  --accent: #2a63d4;
+  --accent-ink: #1d4fb3;
+  --s1: #2a78d6;
+  --s2: #eb6834;
+  --s3: #1baf7a;
+  --s4: #eda100;
+  --s7: #6250d6;
+  --pos: #2a78d6;
+  --neg: #e34948;
+  --mid: #c3c2b7;
+  --grid: #e7e9ed;
+  --axis: #c3c7cf;
+  --good: #0ca30c;
+  --warn: #fab219;
+  --crit: #d03b3b;
+  --info-bg: #edf3fd;
+  --warn-bg: #fff6e3;
+  --crit-bg: #fdeeee;
+  --chip: #eef0f4;
+  --font-body: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Zen Hei", system-ui, sans-serif;
+  --font-display: "Noto Serif SC", "Songti SC", "STSong", "SimSun", "Noto Sans SC", serif;
+  --font-num: "Noto Sans SC", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1015; --surface: #161920; --ink: #eceef2; --ink2: #b9c0cc; --muted: #8a93a3;
+    --rule: #262a33; --rule2: #353b47; --accent: #79a2f2; --accent-ink: #9dbbf6;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s7: #9085e9;
+    --pos: #3987e5; --neg: #e66767; --mid: #4a4d55; --grid: #23272f; --axis: #3a3f4a;
+    --info-bg: #15213a; --warn-bg: #2a2310; --crit-bg: #2d1717; --chip: #222631;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1015; --surface: #161920; --ink: #eceef2; --ink2: #b9c0cc; --muted: #8a93a3;
+  --rule: #262a33; --rule2: #353b47; --accent: #79a2f2; --accent-ink: #9dbbf6;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s7: #9085e9;
+  --pos: #3987e5; --neg: #e66767; --mid: #4a4d55; --grid: #23272f; --axis: #3a3f4a;
+  --info-bg: #15213a; --warn-bg: #2a2310; --crit-bg: #2d1717; --chip: #222631;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.8; margin: 0; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+a { color: var(--accent-ink); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+.wrap { max-width: 1000px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+/* masthead */
+.mast { background: var(--surface); border-bottom: 1px solid var(--rule); }
+.mast .wrap { padding-block: 36px 28px; }
+.mast .kicker { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-size: 13px; color: var(--muted); letter-spacing: .04em; }
+.ticker { font-family: var(--font-num); font-weight: 700; color: var(--ink); background: var(--chip); border-radius: 4px; padding: 1px 8px; letter-spacing: .06em; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(26px, 4.2vw, 40px); line-height: 1.3; margin: 12px 0 8px; text-wrap: balance; }
+.mast .sub { color: var(--ink2); font-size: 15px; margin: 0; max-width: 70ch; }
+.stamp { margin-top: 14px; font-size: 13px; color: var(--muted); }
+
+/* section rail */
+.rail { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 9; background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--rule); }
+.rail .wrap { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; padding-block: 8px; }
+.rail .wrap::-webkit-scrollbar { display: none; }
+.rail a { flex: none; font-size: 13.5px; color: var(--ink2); text-decoration: none; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.rail a:hover { background: var(--chip); color: var(--ink); }
+.rail a.on { background: var(--ink); color: var(--surface); }
+
+main { padding-block: 8px 64px; }
+section { padding-top: 40px; scroll-margin-top: 56px; }
+h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(21px, 2.6vw, 27px); line-height: 1.4; margin: 0 0 6px; text-wrap: balance; display: flex; gap: 12px; align-items: baseline; }
+h2 .no { font-family: var(--font-num); font-size: 14px; font-weight: 700; color: var(--accent); letter-spacing: .05em; flex: none; }
+h3 { font-family: var(--font-display); font-weight: 600; font-size: 18.5px; line-height: 1.5; margin: 28px 0 6px; }
+.lede { color: var(--ink2); margin: 0 0 14px; }
+p { margin: 10px 0; max-width: 76ch; }
+ul, ol { padding-left: 1.3em; margin: 8px 0; max-width: 76ch; }
+li { margin: 5px 0; }
+.num, td.n, th.n { font-variant-numeric: tabular-nums; font-family: var(--font-num); }
+.neg-t { color: var(--neg); }
+.pos-t { color: var(--pos); }
+.muted { color: var(--muted); }
+.small { font-size: 13px; }
+hr.sep { border: 0; border-top: 1px solid var(--rule); margin: 28px 0; }
+
+/* stat tiles */
+.tiles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); border-radius: 10px; overflow: hidden; margin: 22px 0 6px; }
+.tile { background: var(--surface); padding: 14px 16px 12px; min-width: 0; }
+.tile .lab { font-size: 13px; color: var(--muted); }
+.tile .val { font-size: 26px; font-weight: 700; line-height: 1.25; margin-top: 2px; font-family: var(--font-num); }
+.tile .val small { font-size: 14px; font-weight: 500; color: var(--ink2); }
+.tile .dl { font-size: 12.5px; color: var(--ink2); margin-top: 2px; }
+@media (max-width: 760px) { .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 420px) { .tile .val { font-size: 22px; } }
+
+/* summary list */
+.keypoints { counter-reset: kp; list-style: none; padding: 0; margin: 14px 0 0; display: grid; gap: 10px; max-width: none; }
+.keypoints li { counter-increment: kp; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 12px 16px 12px 52px; position: relative; margin: 0; }
+.keypoints li::before { content: counter(kp); position: absolute; left: 16px; top: 12px; width: 24px; height: 24px; border-radius: 50%; background: var(--ink); color: var(--surface); font: 700 13px/24px var(--font-num); text-align: center; }
+.keypoints b { color: var(--ink); }
+
+/* callouts */
+.callout { display: flex; gap: 12px; align-items: flex-start; border-radius: 10px; padding: 12px 16px; margin: 16px 0; max-width: none; }
+.callout svg { flex: none; margin-top: 4px; }
+.callout > div { min-width: 0; }
+.callout .tag { font-weight: 700; margin-right: 6px; }
+.callout.info { background: var(--info-bg); }
+.callout.info svg { color: var(--accent); }
+.callout.warn { background: var(--warn-bg); }
+.callout.warn svg { color: #b97f00; }
+.callout.crit { background: var(--crit-bg); }
+.callout.crit svg { color: var(--crit); }
+:root[data-theme="dark"] .callout.warn svg { color: var(--warn); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .callout.warn svg { color: var(--warn); } }
+
+/* figures */
+figure { margin: 18px 0 22px; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 14px 16px 10px; min-width: 0; }
+figcaption { font-size: 14.5px; font-weight: 700; color: var(--ink); line-height: 1.5; }
+figcaption .cap-sub { display: block; font-weight: 400; font-size: 13px; color: var(--muted); margin-top: 2px; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 12.5px; color: var(--ink2); margin: 8px 0 2px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { display: inline-block; width: 16px; height: 2.5px; border-radius: 2px; background: currentColor; }
+.legend i.box { width: 10px; height: 10px; border-radius: 2px; }
+.chart-box { position: relative; width: 100%; min-width: 0; touch-action: pan-y; }
+.chart-box svg { display: block; overflow: visible; }
+.src { font-size: 12px; color: var(--muted); margin-top: 6px; line-height: 1.6; }
+.two { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; }
+.two figure { margin: 0; }
+@media (max-width: 760px) { .two { grid-template-columns: minmax(0, 1fr); } }
+.figrow { margin: 18px 0 22px; }
+
+/* chart marks */
+.chart .grid { stroke: var(--grid); stroke-width: 1; }
+.chart .axl { stroke: var(--axis); stroke-width: 1; }
+.chart .ax { fill: var(--muted); font-size: 11.5px; font-family: var(--font-num); }
+.chart .lbl { fill: var(--ink2); font-size: 12px; }
+.chart .vlab { fill: var(--ink2); font-size: 11.5px; font-family: var(--font-num); }
+.chart .vlab-in { fill: #fff; font-size: 11.5px; font-family: var(--font-num); font-weight: 700; }
+.chart .ln { fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart .ln.thin { stroke-width: 1.5; }
+.chart .ref { stroke: var(--ink2); stroke-width: 1; stroke-dasharray: 3 3; opacity: .55; }
+.chart .ref-t { fill: var(--ink2); }
+.chart .zero { stroke: var(--ink2); stroke-width: 1; opacity: .5; }
+.chart .xhair { stroke: var(--ink2); stroke-width: 1; opacity: .45; }
+.chart .ov { fill: transparent; cursor: crosshair; }
+.chart .dot { stroke: var(--surface); stroke-width: 2; }
+.chart .c1 { stroke: var(--s1); } .chart .f1 { fill: var(--s1); }
+.chart .c2 { stroke: var(--s2); } .chart .f2 { fill: var(--s2); }
+.chart .c3 { stroke: var(--s3); } .chart .f3 { fill: var(--s3); }
+.chart .c4 { stroke: var(--s4); } .chart .f4 { fill: var(--s4); }
+.chart .c7 { stroke: var(--s7); } .chart .f7 { fill: var(--s7); }
+.chart .fpos { fill: var(--pos); } .chart .fneg { fill: var(--neg); } .chart .fmid { fill: var(--mid); }
+.chart .dot.c1 { fill: var(--s1); } .chart .dot.c2 { fill: var(--s2); } .chart .dot.c3 { fill: var(--s3); } .chart .dot.c4 { fill: var(--s4); } .chart .dot.c7 { fill: var(--s7); }
+.chart .area1 { fill: var(--s1); opacity: .10; } .chart .area2 { fill: var(--s2); opacity: .10; }
+.chart .pt { fill: var(--s1); opacity: .5; }
+.chart .fit { stroke: var(--s2); stroke-width: 2; fill: none; }
+.chart .bar { cursor: default; }
+.chart .bar:hover, .chart .bar:focus { opacity: .82; outline: none; }
+.chart .mk { stroke: var(--surface); stroke-width: 2; cursor: pointer; }
+.chart .mk:hover, .chart .mk:focus { stroke: var(--ink); outline: none; }
+.chart .mk-t { fill: #fff; font-size: 9.5px; font-weight: 700; font-family: var(--font-num); pointer-events: none; }
+.leg-c1 { color: var(--s1); } .leg-c2 { color: var(--s2); } .leg-c3 { color: var(--s3); } .leg-c4 { color: var(--s4); } .leg-c7 { color: var(--s7); }
+.leg-pos { color: var(--pos); } .leg-neg { color: var(--neg); } .leg-mid { color: var(--mid); }
+.tt { position: absolute; z-index: 5; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--rule2); border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,.12); padding: 7px 10px; font-size: 12.5px; line-height: 1.5; min-width: 120px; max-width: 280px; }
+.tt-h { color: var(--muted); font-size: 12px; margin-bottom: 2px; }
+.tt-r { display: flex; align-items: center; gap: 7px; white-space: nowrap; }
+.tt-r b { font-family: var(--font-num); font-variant-numeric: tabular-nums; }
+.tt-l { color: var(--ink2); white-space: normal; }
+.tt-k { width: 12px; height: 2.5px; border-radius: 2px; flex: none; }
+.tt-k.c1 { background: var(--s1); } .tt-k.c2 { background: var(--s2); } .tt-k.c3 { background: var(--s3); } .tt-k.c4 { background: var(--s4); } .tt-k.c7 { background: var(--s7); }
+.tt-k.fpos { background: var(--pos); } .tt-k.fneg { background: var(--neg); } .tt-k.f1 { background: var(--s1); } .tt-k.f2 { background: var(--s2); } .tt-k.fmid { background: var(--mid); }
+.tt-desc { color: var(--ink2); white-space: normal; margin-top: 3px; }
+
+/* tables */
+.tbl-wrap { overflow-x: auto; margin: 14px 0 18px; border: 1px solid var(--rule); border-radius: 10px; background: var(--surface); }
+table.tbl { border-collapse: collapse; width: 100%; font-size: 13.5px; line-height: 1.55; }
+.tbl caption { caption-side: top; text-align: left; font-weight: 700; padding: 12px 14px 4px; font-size: 14.5px; }
+.tbl th, .tbl td { padding: 7px 12px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+.tbl thead th { color: var(--muted); font-weight: 500; font-size: 12.5px; background: color-mix(in srgb, var(--chip) 55%, var(--surface)); white-space: nowrap; }
+.tbl tbody tr:last-child td { border-bottom: 0; }
+.tbl td.n, .tbl th.n { text-align: right; white-space: nowrap; }
+.tbl tr.sub td { color: var(--ink2); }
+.tbl tr.tot td { font-weight: 700; border-top: 1px solid var(--rule2); }
+.tbl td.w { min-width: 220px; }
+.tbl td.nw { white-space: nowrap; }
+#tbl-scen td:first-child { min-width: 9.5em; }
+.tbl .tag { display: inline-block; font-size: 11.5px; padding: 0 7px; border-radius: 999px; background: var(--chip); color: var(--ink2); white-space: nowrap; }
+.tbl .sig { font-weight: 700; }
+.pill { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; padding: 1px 8px; border-radius: 999px; white-space: nowrap; font-weight: 500; }
+.pill.good { background: color-mix(in srgb, var(--good) 14%, transparent); color: var(--ink); }
+.pill.warn { background: color-mix(in srgb, var(--warn) 22%, transparent); color: var(--ink); }
+.pill.crit { background: color-mix(in srgb, var(--crit) 16%, transparent); color: var(--ink); }
+.pill i { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.pill.good i { background: var(--good); } .pill.warn i { background: var(--warn); } .pill.crit i { background: var(--crit); }
+
+/* flow diagram */
+.flow { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 22px; margin: 16px 0 6px; }
+.flow .st { position: relative; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 10px 12px; font-size: 13.5px; line-height: 1.6; min-width: 0; }
+.flow .st b { display: block; font-size: 13px; color: var(--accent); font-family: var(--font-num); }
+.flow .st:not(:last-child)::after { content: "→"; position: absolute; right: -18px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 16px; }
+@media (max-width: 760px) {
+  .flow { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  .flow .st:not(:last-child)::after { content: "↓"; right: auto; left: 50%; top: auto; bottom: -21px; transform: translateX(-50%); }
+}
+
+/* timeline */
+.tl { list-style: none; padding: 0; margin: 14px 0; max-width: none; border-left: 2px solid var(--rule2); }
+.tl li { position: relative; padding: 4px 0 12px 20px; margin: 0; }
+.tl li::before { content: ""; position: absolute; left: -7px; top: 12px; width: 12px; height: 12px; border-radius: 50%; background: var(--surface); border: 2px solid var(--accent); }
+.tl .when { font-family: var(--font-num); font-weight: 700; font-size: 13.5px; color: var(--accent-ink); }
+.grid2 { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px 16px; margin: 12px 0; }
+.card { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 12px 16px; min-width: 0; }
+.card h4 { margin: 0 0 4px; font-size: 15px; font-family: var(--font-display); }
+.card p, .card ul { font-size: 14.5px; margin: 4px 0; }
+@media (max-width: 760px) { .grid2 { grid-template-columns: minmax(0, 1fr); } }
+
+.formula { font-family: var(--font-num); background: var(--chip); border-radius: 8px; padding: 10px 14px; overflow-x: auto; font-size: 14px; margin: 10px 0; max-width: none; line-height: 1.7; }
+.foot { font-size: 12.5px; color: var(--muted); line-height: 1.7; }
+.foot ol { max-width: none; }
+.foot li { word-break: break-word; }
+.disclaimer { border-top: 1px solid var(--rule); margin-top: 36px; padding-top: 14px; font-size: 12.5px; color: var(--muted); }
+
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; } }
+@media print {
+  body { background: #fff; font-size: 11.5pt; }
+  .rail { display: none; }
+  .mast { border: 0; }
+  figure, .callout, .card, .keypoints li, .flow, .two { break-inside: avoid; }
+  .tbl tr, .tbl caption { break-inside: avoid; }
+  section { padding-top: 18px; }
+  h2, h3 { break-after: avoid; }
+  .tt { display: none !important; }
+}
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="kicker"><span class="ticker">NASDAQ: CRWV</span><span>AI 云基础设施 · 美国上市公司</span><span>中文研究报告</span></div>
+    <h1>CoreWeave 财务分析报告</h1>
+    <p class="sub">覆盖财务表现、债务与偿债能力、对市场增长的敏感性、未来规划，以及以标普 500 为基准的波动率分析与股价事件研究。</p>
+    <div class="stamp">行情数据截至 2026 年 10 月 19 日收盘 · 财务数据截至 2026 年第二季度（10-Q，2026 年 8 月 12 日）· 报告日期 2026 年 10 月 20 日 · 仅供研究学习，不构成投资建议</div>
+  </div>
+</header>
+
+<nav class="rail" aria-label="章节导航">
+  <div class="wrap">
+    <a href="#summary">摘要</a>
+    <a href="#company">公司与模式</a>
+    <a href="#financials">财务表现</a>
+    <a href="#debt">债务与偿债</a>
+    <a href="#sensitivity">增长敏感性</a>
+    <a href="#outlook">未来规划</a>
+    <a href="#valuation">估值</a>
+    <a href="#volatility">波动率</a>
+    <a href="#events">事件研究</a>
+    <a href="#risks">风险</a>
+    <a href="#conclusion">结论</a>
+    <a href="#appendix">方法与来源</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- ============ SUMMARY ============ -->
+<section id="summary">
+  <h2><span class="no">00</span>核心结论</h2>
+  <div class="tiles" role="list">
+    <div class="tile" role="listitem"><div class="lab">收盘价（10/19）</div><div class="val">$61.12</div><div class="dl">较 2025/06/20 高点 $183.58 下跌 66.7%；较 IPO 价 $40 上涨 52.8%</div></div>
+    <div class="tile" role="listitem"><div class="lab">市值 / 企业价值（不含租赁）</div><div class="val">$337<small>亿</small> / $637<small>亿</small></div><div class="dl">约 5.515 亿股；6 月末净债务约 300 亿美元</div></div>
+    <div class="tile" role="listitem"><div class="lab">收入积压（Backlog，Q2’26）</div><div class="val">$1,042<small>亿</small></div><div class="dl">另有 Q3 初新增 &gt;250 亿美元未计入</div></div>
+    <div class="tile" role="listitem"><div class="lab">债务本金（6/30）</div><div class="val">$355.5<small>亿</small></div><div class="dl">+9 月可转债 42 亿；另有经营租赁负债 163 亿</div></div>
+    <div class="tile" role="listitem"><div class="lab">β（日度，对标普 500）</div><div class="val">2.75</div><div class="dl">周度 1.85；2026 年以来 3.54；63 日滚动 5.2</div></div>
+    <div class="tile" role="listitem"><div class="lab">年化波动率</div><div class="val">108%</div><div class="dl">标普 500 为 16%，约 6.6 倍；最大回撤 −66.9%</div></div>
+  </div>
+  <ol class="keypoints">
+    <li><b>增长极快，订单极多。</b>收入从 2023 年的 2.29 亿美元增至 2025 年的 51.3 亿美元，2026 年指引 124–132 亿美元（约 +150%）。收入积压达 1,042 亿美元，其中剩余履约义务（1,037 亿美元）约 41% 将在 24 个月内确认。最大客户的收入占比从 2025Q2 的 71%（微软）降到 2026Q2 的 36%，客户集中度明显改善。</li>
+    <li><b>增长几乎全部靠借钱完成。</b>2026 年资本开支指引 350–390 亿美元，约为全年收入的 3 倍。2026 年上半年经营现金流 36.6 亿美元，资本开支 141.2 亿美元，自由现金流为 −104.5 亿美元。债务本金一年内从 111.7 亿美元（2025Q2）增至 355.5 亿美元（2026Q2）。</li>
+    <li><b>偿债能力：短期可控，中期取决于融资。</b>调整后 EBITDA 能覆盖利息 2.4 倍，但扣除折旧后的调整后营业利润只覆盖利息 0.2 倍，GAAP 口径持续亏损。2026 下半年至 2027 年约 106 亿美元的到期本金几乎全部是按月摊还的担保贷款（DDTL）和设备融资，其中 DDTL 由对应的客户合同现金流偿还；无担保票据最早 2030 年才到期。真正的风险在于能否持续再融资：2026 年 10 月，5 年期 CDS 一度约 1,195 个基点，对应约 60% 的风险中性 5 年违约概率。</li>
+    <li><b>对市场增长高度敏感。</b>高经营杠杆（折旧、租金）和高财务杠杆（利息）叠加：收入每变动 10%，调整后 EBITDA 约变动 15%，税前利润约变动 40%。股价层面，加入“AI 半导体因子”和“新云同业因子”后，模型可解释约 42% 的日收益波动，远高于只用大盘时的 17%。</li>
+    <li><b>波动率极高，且越来越受宏观驱动。</b>年化波动率约 108%，日 VaR(95%) 约 9.4%，41% 的交易日涨跌幅超过 5%。单指数模型显示约 83% 的总风险为非系统性风险。但 β 在上升（2025 年 2.38 → 2026 年 3.54），说明利率与信用环境对股价的影响越来越大。</li>
+    <li><b>股价对事件反应剧烈且有规律。</b>财报日平均绝对涨跌幅 14.8%，是普通交易日（4.9%）的 3 倍。6 次财报中有 4 次单日跌幅超过 10%，主要原因是亏损扩大、指引下调或资本开支上调，而非收入本身。“融资”事件的市场反应从 2025 年的正面（+19%）转为 2026 年的负面（−4% 至 −7%），这本身就是信用周期转向的信号。</li>
+    <li><b>估值与展望。</b>按企业价值约 637 亿美元（不含租赁）计算，EV / 年化 Q2 调整后 EBITDA 约 10.6 倍，EV / 2027 年一致预期收入约 2.6 倍。分析师平均目标价约 138 美元（区间 39–278 美元）。股权价值对 EBITDA 和估值倍数极其敏感：基准情景下，估值倍数每变动 1 倍，每股价值约变动 24 美元。</li>
+  </ol>
+</section>
+
+<!-- ============ COMPANY ============ -->
+<section id="company">
+  <h2><span class="no">01</span>公司概况与商业模式</h2>
+  <p class="lede">CoreWeave 是“AI 超大规模云”（业内也称 neocloud，新型云）：把英伟达 GPU 算力打包成云服务，长期出租给 AI 实验室、大型科技公司和企业。</p>
+  <div class="grid2">
+    <div class="card"><h4>基本信息</h4><ul>
+      <li>2017 年成立，前身为加密货币挖矿公司；总部位于美国新泽西州利文斯顿。</li>
+      <li>2025 年 3 月 28 日在纳斯达克上市，发行价 40 美元，募资约 15 亿美元。</li>
+      <li>CEO 兼董事长 Michael Intrator；CFO Nitin Agrawal。2025 年末员工 2,189 人。</li>
+      <li>双重股权结构：B 类股每股 10 票，创始团队掌握多数投票权；内部人持股约 19%，机构持股约 77%。</li>
+    </ul></div>
+    <div class="card"><h4>规模（2026 年 Q2）</h4><ul>
+      <li>活跃电力约 1.5 GW（2024 年末 360 MW，2025 年末 &gt;850 MW）。</li>
+      <li>签约电力约 3.7 GW，计划 2030 年活跃电力 ≥8 GW。</li>
+      <li>98% 的收入来自客户承诺合同（take-or-pay 照付不议），2025 年末加权平均合同期限约 5 年。</li>
+      <li>客户包括微软、OpenAI、Meta、英伟达、Anthropic、Jane Street、IBM、Cohere、Mistral 等。</li>
+    </ul></div>
+  </div>
+  <h3>核心商业与融资模式</h3>
+  <p>CoreWeave 的独特之处在于“合同驱动的项目融资”：先签长期合同，再以合同现金流为抵押借款购买 GPU。理解这一链条，是理解其债务与偿债能力的关键。</p>
+  <div class="flow" role="list" aria-label="CoreWeave 合同驱动的融资链条">
+    <div class="st" role="listitem"><b>① 签约</b>客户签订多年期照付不议合同，常预付部分款项（6 月末递延收入 97 亿美元）。</div>
+    <div class="st" role="listitem"><b>② 借款</b>以合同为抵押，在破产隔离的子公司（SPV）借入延迟提款定期贷款（DDTL）。</div>
+    <div class="st" role="listitem"><b>③ 建设</b>采购英伟达 GPU、网络与存储；租赁或自建数据中心并锁定电力。</div>
+    <div class="st" role="listitem"><b>④ 交付</b>算力上线后按月收取服务费，确认收入。</div>
+    <div class="st" role="listitem"><b>⑤ 偿还</b>合同现金流优先偿还 DDTL 本息，剩余现金流上缴母公司，用于支付无担保债券利息和再投资。</div>
+  </div>
+  <p class="small muted">这一模式的优点是债务与收入期限匹配，大部分担保贷款可以“自我摊还”；缺点是前期资本投入巨大，母公司层面的无担保债券与可转债只能依靠剩余现金流和持续再融资来偿付。</p>
+
+  <h3>行业格局与竞争</h3>
+  <ul>
+    <li><b>需求端：</b>生成式 AI 的训练与推理需求推动微软、谷歌、亚马逊、Meta 等每年数千亿美元的数据中心投资，OpenAI、Anthropic 等 AI 实验室也大量外购算力。CoreWeave 的收入实质上是这轮 AI 资本开支周期的“下游”。</li>
+    <li><b>竞争者：</b>超大规模云（AWS、Azure、Google Cloud）、甲骨文 OCI，以及 Nebius、Lambda、Crusoe 等其他新云。超大规模云厂商同时是 CoreWeave 的客户和潜在竞争者。</li>
+    <li><b>优势：</b>英伟达新一代芯片的首批部署者（GB200/GB300、Vera Rubin），SemiAnalysis ClusterMAX 评级中唯一的白金级；英伟达既是供应商也是股东（2026 年 1 月追加 20 亿美元入股）；专为 AI 设计的软件栈（CKS、SUNK、Mission Control、Weights &amp; Biases）。</li>
+    <li><b>劣势：</b>不掌握芯片、电力和大部分数据中心（多为第三方开发商），交付受制于人（2025 年 Q3 的指引下调就源于第三方数据中心延误）；资本成本远高于超大规模云厂商（BB/B 级 vs AA 级）。</li>
+  </ul>
+</section>
+
+<!-- ============ FINANCIALS ============ -->
+<section id="financials">
+  <h2><span class="no">02</span>财务表现分析</h2>
+  <p class="lede">收入高速增长、毛利结构健康，但折旧和利息在快速吞噬利润；经营现金流为正，却远不足以支付资本开支。</p>
+
+  <h3>2.1 收入增长与收入积压</h3>
+  <div class="two">
+    <figure>
+      <figcaption>季度收入<span class="cap-sub">百万美元；2024Q1–2026Q2</span></figcaption>
+      <div class="chart-box" id="ch-rev"></div>
+      <div class="src">来源：公司财报新闻稿（8-K Ex.99.1）。</div>
+    </figure>
+    <figure>
+      <figcaption>收入积压（Backlog）<span class="cap-sub">十亿美元；季度末</span></figcaption>
+      <div class="chart-box" id="ch-backlog"></div>
+      <div class="src">积压 = 剩余履约义务（RPO）+ 其他承诺合同的预计收入。2026Q2 的 RPO 为 1,037 亿美元。</div>
+    </figure>
+  </div>
+  <p>收入在 2024 年增长 737%（19.2 亿美元），2025 年增长 168%（51.3 亿美元）。2026 年上半年收入 46.5 亿美元，同比 +112%；公司已把全年指引上调至 124–132 亿美元，并预计年底年化收入运行率达到 185–195 亿美元。收入积压从 2024 年末的 151 亿美元增至 2026Q2 的 1,042 亿美元。按 RPO 披露，其中 41% 预计在 24 个月内确认，39% 在第 25–48 个月，其余在第 49–78 个月。</p>
+
+  <h3>2.2 盈利能力：利润被折旧和利息吞噬</h3>
+  <figure>
+    <figcaption>利润率走势<span class="cap-sub">调整后 EBITDA 利润率、调整后营业利润率、GAAP 净利润率</span></figcaption>
+    <div class="legend"><span class="leg-c1"><i></i>调整后 EBITDA 利润率</span><span class="leg-c3"><i></i>调整后营业利润率</span><span class="leg-c2"><i></i>GAAP 净利润率</span></div>
+    <div class="chart-box" id="ch-margin"></div>
+    <div class="src">调整后 EBITDA = 净亏损 + 折旧摊销 + 利息 + 所得税 + 股权激励 + 并购相关费用等；调整后营业利润 = 营业利润 + 股权激励 + 并购无形资产摊销等。来源：公司财报。</div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-q">
+    <caption>季度核心财务数据（百万美元）</caption>
+    <thead><tr><th>季度</th><th class="n">收入</th><th class="n">同比</th><th class="n">调整后EBITDA</th><th class="n">利润率</th><th class="n">调整后营业利润</th><th class="n">利润率</th><th class="n">利息支出(净)</th><th class="n">净亏损</th><th class="n">活跃电力MW</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <ul>
+    <li><b>EBITDA 利润率仍高（56%–62%）：</b>GPU 云的“现金毛利”很厚，客户按承诺支付。2026 年上半年略降，主要因为新数据中心在产生收入前就要承担租金和电力成本。</li>
+    <li><b>营业利润率大幅收缩：</b>调整后营业利润率从 2025 年上半年的约 16%–17% 降到 2026Q1 的 1%、Q2 的 5%。原因是折旧随新 GPU 上线快速增加（Q2’26 折旧摊销 13.9 亿美元，占收入 54%）。公司对 Q3 的指引是 2.0–2.6 亿美元（约 6%–7%）。</li>
+    <li><b>利息是亏损的主因：</b>净利息支出从 2024 年的 3.6 亿美元升至 2025 年的 12.3 亿美元，2026 年上半年已达 11.8 亿美元（按 Q2 年化约 26 亿美元）。Q2’26 净亏损 6.26 亿美元，基本等于当季 6.4 亿美元的利息。</li>
+  </ul>
+
+  <h3>2.3 现金流与资本开支</h3>
+  <figure>
+    <figcaption>经营现金流与资本开支（现金口径）<span class="cap-sub">百万美元；自由现金流 = 经营现金流 − 购置物业设备支出</span></figcaption>
+    <div class="legend"><span class="leg-c1"><i class="box"></i>经营现金流</span><span class="leg-c2"><i class="box"></i>资本开支（现金）</span></div>
+    <div class="chart-box" id="ch-cash"></div>
+    <div class="src">来源：10-K/10-Q 现金流量表（XBRL）。公司口径的“资本开支”包含设备融资和应计部分，高于现金口径。例如 Q2’26 公司口径约 94 亿美元，现金口径 64 亿美元。</div>
+  </figure>
+  <p>CoreWeave 的经营现金流为正（2025 年 30.6 亿美元，2026 年上半年 36.6 亿美元），部分得益于客户预付款，但资本开支是它的数倍：2025 年现金资本开支 103.1 亿美元，2026 年上半年 141.2 亿美元。全年 350–390 亿美元的指引意味着下半年还需投入约 180–250 亿美元（取决于统计口径）。管理层明确表示，未来的投资“可能需要大量债务和/或股权融资”。</p>
+
+  <h3>2.4 资产负债表（2026 年 6 月 30 日）</h3>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>项目（百万美元）</th><th class="n">2026-06-30</th><th class="n">2025-12-31</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>现金及等价物</td><td class="n">5,524</td><td class="n">3,127</td><td>另有受限现金约 14 亿美元</td></tr>
+      <tr><td>流动资产合计</td><td class="n">9,520</td><td class="n">—</td><td>应收账款 25.4 亿美元</td></tr>
+      <tr><td>物业及设备净值</td><td class="n">46,736</td><td class="n">30,557</td><td>以 GPU 服务器为主；在建工程约 119 亿美元</td></tr>
+      <tr><td>经营租赁使用权资产</td><td class="n">16,595</td><td class="n">8,231</td><td>数据中心长期租约</td></tr>
+      <tr class="tot"><td>资产总计</td><td class="n">77,070</td><td class="n">49,302</td><td></td></tr>
+      <tr><td>流动负债合计</td><td class="n">20,917</td><td class="n">16,440</td><td>含一年内到期债务 75.1 亿美元</td></tr>
+      <tr><td>债务（账面，追索+无追索）</td><td class="n">35,068</td><td class="n">21,373</td><td>本金 355.5 亿美元，扣除未摊销折价</td></tr>
+      <tr><td>递延收入（流动+非流动）</td><td class="n">9,692</td><td class="n">8,185</td><td>客户预付款，是“无息负债”</td></tr>
+      <tr><td>租赁负债（经营+融资）</td><td class="n">16,540</td><td class="n">8,449</td><td>未计入尚未起租的 355 亿美元租约</td></tr>
+      <tr class="tot"><td>负债合计</td><td class="n">72,046</td><td class="n">45,967</td><td>资产负债率 93.5%</td></tr>
+      <tr class="tot"><td>股东权益</td><td class="n">5,024</td><td class="n">3,335</td><td>累计亏损 40.1 亿美元</td></tr>
+    </tbody>
+  </table></div>
+
+  <h3>2.5 客户集中度</h3>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>期间</th><th class="n">最大客户占收入比</th><th>其他说明</th></tr></thead>
+    <tbody>
+      <tr><td>2023 年</td><td class="n">—</td><td>前三大客户合计约 73%</td></tr>
+      <tr><td>2024 年</td><td class="n">62%（微软）</td><td>前两大客户合计 77%</td></tr>
+      <tr><td>2025 年</td><td class="n">67%（微软）</td><td>没有其他客户超过 10%</td></tr>
+      <tr><td>2025 年 Q2</td><td class="n">71%</td><td>客户 A</td></tr>
+      <tr><td>2026 年 Q2</td><td class="n">36%</td><td>客户 B 26%，客户 C 10%（客户代号每期可能对应不同公司）</td></tr>
+    </tbody>
+  </table></div>
+  <p>随着 Meta（142 亿 + 210 亿美元）、OpenAI（累计约 224 亿美元）、Anthropic、Jane Street（约 60 亿美元）等合同陆续交付，单一客户依赖明显下降。但新增的大客户中不少本身仍在大幅亏损（尤其是 AI 实验室），因此交易对手的信用风险上升。</p>
+</section>
+
+<!-- ============ DEBT ============ -->
+<section id="debt">
+  <h2><span class="no">03</span>债务结构与偿债能力</h2>
+  <p class="lede">一句话总结：短期流动性有保障，结构上大部分担保债务由合同现金流覆盖；但利润不足以覆盖利息，持续扩张完全依赖资本市场，而 2026 年 10 月信用市场已经开始“投反对票”。</p>
+
+  <h3>3.1 债务全景（2026 年 6 月 30 日）</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-debt">
+    <thead><tr><th>工具</th><th>类型</th><th>到期</th><th class="n">实际利率</th><th class="n">本金（百万美元）</th><th>追索</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="two">
+    <figure>
+      <figcaption>债务按类型构成<span class="cap-sub">本金合计 355.5 亿美元；加权实际利率约 8.4%</span></figcaption>
+      <div class="chart-box" id="ch-debttype"></div>
+    </figure>
+    <figure>
+      <figcaption>债务本金到期 / 摊还时间表<span class="cap-sub">百万美元；截至 2026-06-30</span></figcaption>
+      <div class="chart-box" id="ch-maturity"></div>
+    </figure>
+  </div>
+  <p>6 月末以后又新增两笔：2026 年 9 月发行 <b>42 亿美元 2.875% 可转债</b>（2033 年到期，初始转股价约 97.85 美元，比当时股价溢价约 22.5%）；2026 年 8 月签订 <b>26 亿美元 DDTL 5.5</b> 贷款额度（SOFR+5.50%，穆迪 Ba2 / 惠誉 BB+）。此外，资产负债表上有 <b>163 亿美元经营租赁负债</b>，还有 <b>355 亿美元尚未起租的租约</b>（2026–2029 年起租，期限 7–16 年），另有一处单一园区租约的租金上限为 147 亿美元。这些租约是“隐性债务”，信用分析中应当与债务一并考虑。</p>
+
+  <h3>3.2 偿债能力指标</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-cov">
+    <thead><tr><th>季度</th><th class="n">调整后EBITDA / 利息</th><th class="n">调整后营业利润 / 利息</th><th class="n">债务 / LTM EBITDA</th><th class="n">净债务 / 年化EBITDA</th><th class="n">流动比率</th><th class="n">自由现金流</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <figure>
+    <figcaption>利息保障倍数<span class="cap-sub">倍；1.0 倍以下表示该口径利润不足以支付利息</span></figcaption>
+    <div class="legend"><span class="leg-c1"><i></i>调整后 EBITDA / 利息</span><span class="leg-c2"><i></i>调整后营业利润 / 利息</span></div>
+    <div class="chart-box" id="ch-cov"></div>
+  </figure>
+  <ul>
+    <li><b>覆盖倍数：</b>EBITDA 口径约 2.2–2.4 倍，处于高收益债发行人的中低水平；扣除折旧后只有 0.04–0.2 倍。GPU 是 4–6 年就要更新的资产，折旧是真实的经济成本，因此后一个指标更能反映可持续的偿债能力。</li>
+    <li><b>杠杆率：</b>债务 / LTM 调整后 EBITDA 约 8.1 倍，净债务 / 年化 Q2 EBITDA 约 5.0 倍；把租赁负债计入后约 7.7 倍。公司自己更强调“运行率 EBITDA”：按其 6 月发债路演材料，在建项目全部投产后运行率调整后 EBITDA 约 188 亿美元，对应预计总债务 685 亿美元，约 3.6 倍。这个数字依赖未来执行，不应等同于当前杠杆。</li>
+    <li><b>流动性：</b>6 月末现金 55.2 亿美元、可用信贷额度 100.1 亿美元，合计流动性 155.5 亿美元。10-Q 中管理层表示，现有资金足以满足未来 12 个月的义务。流动比率 0.46，营运资本为负，这在预收款模式下并不罕见，但缓冲很薄。</li>
+    <li><b>到期结构：</b>2026 年下半年至 2027 年需偿还约 106 亿美元，几乎全部是 DDTL 和设备融资的按月摊还；DDTL 部分由对应客户合同的现金流偿还，设备融资则依靠公司整体现金流。母公司无担保票据最早在 2030 年 6 月到期（20 亿美元），可转债集中在 2031–2033 年。也就是说，未来 2–3 年没有大额“一次性”到期墙，压力体现在持续融资需求和高昂的再融资成本上。</li>
+  </ul>
+
+  <h3>3.3 信用市场的信号</h3>
+  <div class="callout crit" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><path fill="currentColor" d="M10 1.5 19 18H1L10 1.5Zm-.9 6v5h1.8v-5H9.1Zm0 6.3v1.8h1.8v-1.8H9.1Z"/></svg>
+    <div><span class="tag">信用压力（严重）</span>2026 年 10 月 14–16 日，CoreWeave 5 年期 CDS 一度升至约 1,195 个基点，创上市以来新高；10 月 19 日约 1,082 个基点。2031 年到期的 9% 票据约 82.75 美分（收益率约 14.5%），2032 年票据跌至约 78 美分，9.625% 2032 年票据收益率约 14.9%。同期股价三个交易日下跌 21%。</div>
+  </div>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>信用指标</th><th class="n">数值</th><th>含义</th></tr></thead>
+    <tbody>
+      <tr><td>5 年 CDS（10/15 峰值）</td><td class="n">≈1,195 bp</td><td>按 40% 回收率，风险中性 5 年累计违约概率约 63%</td></tr>
+      <tr><td>5 年 CDS（10/19）</td><td class="n">≈1,082 bp</td><td>对应风险中性 5 年违约概率约 59%</td></tr>
+      <tr><td>Merton 结构模型（示意）</td><td class="n">1 年 1.0% / 5 年 22%</td><td>股权价值 337 亿、债务面值约 398 亿、股权波动率 100% 时的“真实世界”违约概率</td></tr>
+      <tr><td>公司主体评级</td><td class="n">Ba3 / B+</td><td>穆迪 Ba3、标普 B+（2026 年 5 月展望正面，二手来源），均为非投资级</td></tr>
+      <tr><td>DDTL 4.0（无追索）</td><td class="n">A3 / A(low)</td><td>首个获投资级评级的 GPU 担保贷款，SOFR+2.25%</td></tr>
+      <tr><td>DDTL 5.5</td><td class="n">Ba2 / BB+</td><td>承担合同续约风险，定价 SOFR+5.50%</td></tr>
+    </tbody>
+  </table></div>
+  <p>CDS 隐含的违约概率（约 60%）远高于 Merton 模型的估计（约 22%），差距来自三方面。第一，CDS 是风险中性定价，包含风险溢价和流动性溢价。第二，Merton 模型假设企业价值连续变动，忽略了“融资窗口突然关闭”这类跳跃风险。第三，高收益市场整体对 AI 基础设施债务（甲骨文 CDS 同期也创新高）的担忧在加剧。无论哪个口径，市场给出的信号都很明确：<b>美元无担保债的融资成本已从 2026 年 4–6 月发行时的约 9.6%–9.75%，跳升至二级市场约 14%–16% 的收益率。</b></p>
+  <div class="formula">CDS 隐含违约强度 λ ≈ 利差 / (1 − 回收率)；5 年累计违约概率 = 1 − e<sup>−5λ</sup>。例：1,082bp ÷ 0.6 = 18.0%/年 → 1 − e<sup>−0.90</sup> ≈ 59%</div>
+
+  <h3>3.4 偿债能力结论</h3>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>维度</th><th>评估</th><th>依据</th></tr></thead>
+    <tbody>
+      <tr><td>短期流动性（12 个月）</td><td><span class="pill good"><i></i>尚可</span></td><td>155 亿美元流动性；担保贷款按合同摊还；9 月可转债再补充 30 亿美元以上净现金（扣除上限看涨期权成本后）</td></tr>
+      <tr><td>利润对利息的覆盖</td><td><span class="pill crit"><i></i>薄弱</span></td><td>EBITDA/利息 2.4 倍，但折旧后仅 0.2 倍；GAAP 持续亏损</td></tr>
+      <tr><td>杠杆水平</td><td><span class="pill crit"><i></i>很高</span></td><td>债务/LTM EBITDA 约 8 倍；负债率 93.5%；股东权益仅 50 亿美元</td></tr>
+      <tr><td>债务结构</td><td><span class="pill warn"><i></i>中等</span></td><td>约 38% 为合同担保贷款（自我摊还），无担保债券与可转债到期在 2030 年以后</td></tr>
+      <tr><td>再融资 / 持续融资能力</td><td><span class="pill crit"><i></i>承压</span></td><td>每年需新增 200–300 亿美元资金；CDS &gt;1,000bp，二级市场收益率约 15%</td></tr>
+      <tr><td>交易对手风险</td><td><span class="pill warn"><i></i>上升</span></td><td>客户结构从微软转向 AI 实验室，后者的盈利能力和融资能力本身存在不确定性</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ============ SENSITIVITY ============ -->
+<section id="sensitivity">
+  <h2><span class="no">04</span>对市场增长的敏感性</h2>
+  <p class="lede">CoreWeave 对“市场增长”的敏感性体现在三个层面：股价对大盘和 AI 板块的 β；经营与财务杠杆对利润的放大；以及高负债对股权价值的放大。</p>
+
+  <h3>4.1 股价层面：对大盘、AI 板块与同业的敏感度</h3>
+  <div class="two">
+    <figure>
+      <figcaption>CRWV 对不同基准的 β<span class="cap-sub">日收益回归，2025/03/28–2026/10/19；悬停可查看 R²</span></figcaption>
+      <div class="chart-box" id="ch-factor"></div>
+    </figure>
+    <figure>
+      <figcaption>可解释的风险占比（R²）<span class="cap-sub">不同模型对 CRWV 日收益方差的解释比例</span></figcaption>
+      <div class="legend"><span class="leg-c1"><i class="box"></i>模型可解释部分</span><span class="leg-mid"><i class="box"></i>公司特有部分</span></div>
+      <div class="chart-box" id="ch-risk"></div>
+    </figure>
+  </div>
+  <ul>
+    <li><b>对大盘：</b>对标普 500 的 β 为 2.75，大盘每涨跌 1%，CRWV 平均同向变动约 2.75%。上涨日 β 为 2.21，下跌日 β 为 2.34，下行更敏感。上行捕获率 3.5 倍，下行捕获率 3.4 倍。</li>
+    <li><b>对 AI 板块：</b>对半导体 ETF（SMH）的 β 为 1.27，对英伟达 1.20，对纳斯达克 100 2.25。在 SMH 单日涨跌超过 3% 的 72 个交易日里，CRWV 平均波动 6.9%，且 90% 的情况与 SMH 同向。</li>
+    <li><b>同业因子：</b>与 Nebius（另一家上市新云）的相关系数为 0.63，R² 达 39%，是所有基准中最高的。在大盘之外加入正交化的“AI 半导体因子”（β = 0.99，t = 4.6）和“新云因子”（β = 0.55）后，R² 从 16.5% 升至 41.8%。这说明相对标普 500 的“非系统性风险”中，很大一部分其实是 AI 基础设施的行业风险。</li>
+  </ul>
+
+  <h3>4.2 经营杠杆与财务杠杆</h3>
+  <p>以 2026Q2 的季度数据为基准，假设 70% 的现金运营成本在短期内是固定的（数据中心租金、电力合约、人员），折旧和利息不随收入变化：</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-lev">
+    <thead><tr><th>收入变动</th><th class="n">季度收入</th><th class="n">调整后EBITDA</th><th class="n">EBITDA变动</th><th class="n">调整后营业利润</th><th class="n">税前利润</th><th class="n">EBITDA/利息</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p>经营杠杆系数约 1.5（收入变动 10%，EBITDA 变动约 15%）。到了税前利润层面，收入下降 10% 会让季度亏损从约 5.7 亿美元扩大到约 8.0 亿美元（扩大约 39%），收入需要增长约 25%–30% 才能实现单季税前盈亏平衡。这就是股价对“增长预期”高度敏感的财务原因：<b>增长放缓带来的不是利润率小幅下滑，而是亏损显著扩大和覆盖倍数恶化。</b></p>
+
+  <h3>4.3 2027 年情景分析（示意）</h3>
+  <p>把“AI 市场增长”转化为三个情景。参数参考了管理层指引和市场一致预期（2027 年收入一致预期约 231–265 亿美元），用于展示敏感性，并非预测。</p>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-scen">
+    <thead><tr><th>2027E（百万美元）</th><th class="n">悲观</th><th class="n">基准</th><th class="n">乐观</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-grid">
+    <caption>敏感性网格：2027E 收入 × 调整后 EBITDA 利润率 → 每股价值（按 8 倍 EV/EBITDA，2026 年末净债务 440 亿美元，5.8 亿股）</caption>
+    <thead><tr><th>2027E 收入</th><th class="n">利润率 50%</th><th class="n">55%</th><th class="n">60%</th><th class="n">65%</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p>关键结论是“杠杆放大”。目前企业价值约是市值的 1.9 倍（不含租赁），所以企业价值每变动 10%，股权价值约变动 19%；按含租赁口径（约 2.4 倍）放大更多。这也解释了第 7 节中股价波动率远高于业务本身波动的原因：股东持有的相当于“对企业资产价值的看涨期权”。</p>
+
+  <h3>4.4 利率与再融资成本的敏感性</h3>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-refi">
+    <thead><tr><th>新发 100 亿美元无担保债的收益率</th><th class="n">年利息（百万美元）</th><th class="n">较 9.75% 增加</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <ul>
+    <li>若按当前约 14.5%–16% 的二级市场收益率再融资 100 亿美元，每年多付 4.8–6.3 亿美元利息，相当于 2026Q2 年化调整后营业利润（约 5 亿美元）的全部。</li>
+    <li>浮动利率担保贷款（DDTL）大多被合同要求以利率互换对冲 95% 以上，短期基准利率变动的直接影响有限。主要风险在于信用利差，而非无风险利率。</li>
+    <li><b>折旧年限：</b>公司按 6 年折旧 GPU。若技术迭代迫使年限缩短至 4 年，按 Q2’26 折旧 13.9 亿美元、服务器约占八成粗略估算，季度折旧将增加约 5–6 亿美元。</li>
+  </ul>
+</section>
+
+<!-- ============ OUTLOOK ============ -->
+<section id="outlook">
+  <h2><span class="no">05</span>未来规划与公司议程</h2>
+  <p class="lede">管理层的路线图可以概括为：用合同锁需求，用结构化融资降成本，从 1.5 GW 扩张到 2030 年 8 GW 以上，同时从“出租 GPU”走向“AI 云平台”。</p>
+  <ul class="tl">
+    <li><div class="when">2026 年 11 月（预计 9–16 日）· Q3 财报</div>指引：收入 34.5–36 亿美元，调整后营业利润 2.0–2.6 亿美元。期权市场在财报所在周给出约 108% 的隐含波动率，高于前后各期。</li>
+    <li><div class="when">2026 年底</div>全年收入 124–132 亿美元，调整后营业利润 9.6–11.5 亿美元，资本开支 350–390 亿美元；活跃电力 &gt;1.85 GW，年化收入运行率 185–195 亿美元。</li>
+    <li><div class="when">2027 年</div>管理层表示有信心使活跃电力超过 3 GW，目标年底年化收入超过 300 亿美元。DDTL 4.0、5.0 进入摊还期，部分合同开始续约。</li>
+    <li><div class="when">2030 年</div>活跃电力 ≥8 GW；与英伟达合作建设 &gt;5 GW 的“AI 工厂”。签约电力约 3.7 GW，计入可用土地、期权和意向书后潜在容量接近 6 GW，其中美国以外签约 &gt;1 GW。</li>
+  </ul>
+  <div class="grid2">
+    <div class="card"><h4>① 产能扩张</h4><p>从租用第三方数据中心转向“租赁 + 自建”并举（如宾夕法尼亚州 Lancaster 项目），扩展欧洲（英国、挪威、瑞典、西班牙）等海外容量；率先部署英伟达 Vera Rubin、新 CPU 与存储平台。</p></div>
+    <div class="card"><h4>② 客户多元化</h4><p>2025–2026 年先后签下 Meta（142 亿 + 210 亿美元）、OpenAI（累计约 224 亿美元）、英伟达产能兜底（63 亿美元）、Anthropic、Jane Street（60 亿美元并入股 10 亿美元）。通过 DDTL 5.5 为平均约 3 年的较短合同融资，开拓企业客户。</p></div>
+    <div class="card"><h4>③ 降低资本成本</h4><p>2026 年 3 月 DDTL 4.0 获 A3 投资级评级（SOFR+2.25%）；5 月 DDTL 5.0 首次公开银团化；4 月还清循环信贷额度。2026 年已累计募集 &gt;300 亿美元债务与股权资金。</p></div>
+    <div class="card"><h4>④ 平台与软件</h4><p>收购 Weights &amp; Biases、OpenPipe、Marimo、Monolith AI；与英伟达合作向其他云服务商和企业输出 CoreWeave 软件；加入美国能源部“创世纪任务”（2025 年 12 月）。</p></div>
+  </div>
+  <h3>需要持续跟踪的议程</h3>
+  <ul>
+    <li><b>Q3 财报：</b>营业利润率能否回升，资本开支和融资计划是否再上调。</li>
+    <li><b>信用市场：</b>CDS、二级市场债券收益率、评级行动，以及新一轮融资的成本。</li>
+    <li><b>客户健康度：</b>OpenAI 等 AI 实验室的收入与融资进展（2026 年 10 月 8 日 OpenAI 收入数据就导致股价单日下跌 7.8%）。</li>
+    <li><b>交付执行：</b>第三方数据中心能否按期交付（2025 年 Q3 的延误引发了集体诉讼 Masaitis v. CoreWeave，新泽西联邦法院）。</li>
+    <li><b>稀释：</b>可转债（2031、2032、2033 年三期合计约 108 亿美元）、私募增发与内部人减持（据报道 CEO 于 2026 年 6 月 30 日出售约 3,770 万美元股票）。</li>
+  </ul>
+</section>
+
+<!-- ============ VALUATION ============ -->
+<section id="valuation">
+  <h2><span class="no">06</span>估值</h2>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>指标</th><th class="n">数值</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>股价（2026-10-19）</td><td class="n">$61.12</td><td>52 周区间约 $57–$142</td></tr>
+      <tr><td>市值</td><td class="n">$337 亿</td><td>A 类 + B 类约 5.515 亿股</td></tr>
+      <tr><td>企业价值（不含租赁 / 含租赁）</td><td class="n">$637 亿 / $803 亿</td><td>按 6 月末净债务 300 亿美元、租赁负债 165 亿美元</td></tr>
+      <tr><td>EV / LTM 收入</td><td class="n">8.4x</td><td>LTM 收入 75.9 亿美元</td></tr>
+      <tr><td>EV / 2026E 收入（指引中值 128 亿）</td><td class="n">5.0x</td><td></td></tr>
+      <tr><td>EV / 2027E 收入（一致预期约 248 亿）</td><td class="n">2.6x</td><td>一致预期区间 231–265 亿美元</td></tr>
+      <tr><td>EV / LTM 调整后 EBITDA</td><td class="n">14.5x</td><td>LTM 调整后 EBITDA 44.0 亿美元</td></tr>
+      <tr><td>EV / 年化 Q2 调整后 EBITDA</td><td class="n">10.6x</td><td>Q2’26 调整后 EBITDA 15.1 亿美元 × 4</td></tr>
+      <tr><td>市销率（P/S，LTM）/ 市净率（P/B）</td><td class="n">4.4x / 6.7x</td><td></td></tr>
+      <tr><td>分析师目标价（38 位）</td><td class="n">均值 $138 / 中位 $143</td><td>最高 $278，最低 $39（汇丰“减持”）；共识评级“买入”</td></tr>
+      <tr><td>做空比例</td><td class="n">19.2%</td><td>占自由流通股比例，处于高位</td></tr>
+    </tbody>
+  </table></div>
+  <p>当前股价隐含的预期相当悲观。若接受基准情景的 2027 年调整后 EBITDA（约 139 亿美元）和 2026 年末约 440 亿美元的净债务，当前市值对应的 EV/EBITDA 只有约 5.6 倍，明显低于数据中心和基础设施类资产常见的倍数。市场的折价主要反映三点：EBITDA 能否转化为股东现金流（折旧、再投资需求），融资窗口能否持续打开，以及未来的股权稀释。分析师目标价（均值 138 美元）与股价（61 美元）之间的巨大差距，本身就说明不确定性极高。</p>
+</section>
+
+<!-- ============ VOLATILITY ============ -->
+<section id="volatility">
+  <h2><span class="no">07</span>波动率分析（以标普 500 为基准）</h2>
+  <p class="lede">样本：2025 年 3 月 28 日（上市日）至 2026 年 10 月 19 日，共 391 个日收益观测值。基准为标普 500 价格指数（^GSPC），无风险利率为 13 周美国国债收益率（样本均值 3.84%）。</p>
+
+  <h3>7.1 价格走势对比</h3>
+  <figure>
+    <figcaption>累计表现（上市日 = 100，对数坐标）</figcaption>
+    <div class="legend"><span class="leg-c1"><i></i>CoreWeave（CRWV）</span><span class="leg-c2"><i></i>标普 500</span></div>
+    <div class="chart-box" id="ch-price"></div>
+    <div class="src">来源：Yahoo Finance 日度收盘价（复权）。CRWV 首日收盘 $40.00；标普 500 为 5,580.94 → 7,690.73。</div>
+  </figure>
+
+  <h3>7.2 风险统计总表</h3>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>指标</th><th class="n">CRWV</th><th class="n">标普 500</th><th>解读</th></tr></thead>
+    <tbody>
+      <tr><td>累计收益 / 年化收益</td><td class="n">+52.8% / 31.4%</td><td class="n">+37.8% / 23.0%</td><td>上市以来跑赢大盘，但 2026 年迄今 −14.6%（标普 +12.3%）</td></tr>
+      <tr><td>年化波动率（对数收益）</td><td class="n">108.4%</td><td class="n">16.3%</td><td>约 6.6 倍；剔除上市首周仍有 103.5%</td></tr>
+      <tr><td>年化下行偏差</td><td class="n">67.3%</td><td class="n">10.7%</td><td>只计算下跌日的波动</td></tr>
+      <tr><td>日 VaR 95%（历史法）</td><td class="n">9.4%</td><td class="n">1.5%</td><td>20 个交易日中约有 1 天跌幅超过此值</td></tr>
+      <tr><td>日 CVaR 95%（期望损失）</td><td class="n">13.1%</td><td class="n">2.3%</td><td>最差 5% 交易日的平均跌幅</td></tr>
+      <tr><td>日 VaR 99% / CVaR 99%</td><td class="n">15.6% / 18.2%</td><td class="n">2.7% / 4.2%</td><td></td></tr>
+      <tr><td>偏度 / 超额峰度</td><td class="n">0.96 / 3.87</td><td class="n">1.05 / 21.3</td><td>两者都是“厚尾”分布；标普的峰度来自 2025 年 4 月关税冲击</td></tr>
+      <tr><td>单日涨跌幅 &gt;5% / &gt;10% 的天数</td><td class="n">159 / 41</td><td class="n">2 / 0</td><td>41% 的交易日波动超过 5%</td></tr>
+      <tr><td>最大回撤</td><td class="n">−66.9%</td><td class="n">−12.1%</td><td>CRWV：2025/06/20 → 2026/07/29；目前仍在 −66.7%</td></tr>
+      <tr><td>夏普比率 / 索提诺比率</td><td class="n">0.75 / 1.23</td><td class="n">1.11 / 1.70</td><td>承担的风险没有获得相应补偿</td></tr>
+      <tr><td>前 10 大波动日占总方差</td><td class="n">30%</td><td class="n">—</td><td>风险高度集中在少数事件日</td></tr>
+    </tbody>
+  </table></div>
+  <div class="tbl-wrap"><table class="tbl">
+    <caption>分时段年化波动率与相关性</caption>
+    <thead><tr><th>时段</th><th class="n">CRWV</th><th class="n">标普 500</th><th class="n">波动率倍数</th><th class="n">相关系数</th></tr></thead>
+    <tbody>
+      <tr><td>2025 年（上市–12 月）</td><td class="n">120.3%</td><td class="n">19.2%</td><td class="n">6.3x</td><td class="n">0.39</td></tr>
+      <tr><td>2026 年迄今</td><td class="n">95.9%</td><td class="n">12.9%</td><td class="n">7.4x</td><td class="n">0.47</td></tr>
+      <tr><td>最近 63 个交易日</td><td class="n">103.4%</td><td class="n">11.0%</td><td class="n">9.4x</td><td class="n">0.55</td></tr>
+      <tr><td>最近 21 个交易日</td><td class="n">88.7%</td><td class="n">10.3%</td><td class="n">8.6x</td><td class="n">0.69</td></tr>
+    </tbody>
+  </table></div>
+
+  <h3>7.3 滚动波动率与波动聚集</h3>
+  <figure>
+    <figcaption>21 日滚动年化波动率与 GARCH(1,1) 条件波动率</figcaption>
+    <div class="legend"><span class="leg-c1"><i></i>CRWV 21 日已实现波动率</span><span class="leg-c3"><i></i>CRWV GARCH 条件波动率</span><span class="leg-c2"><i></i>标普 500 21 日已实现波动率</span></div>
+    <div class="chart-box" id="ch-vol"></div>
+  </figure>
+  <p>GARCH(1,1)（学生 t 分布）估计：α = 0.064，β = 0.781，持续性 α+β = 0.845，波动冲击的半衰期约 4.1 个交易日（标普为 7.0 天）。也就是说，CRWV 的波动冲击来得猛、去得也快，基础波动率长期维持在约 100% 的高位（长期均值约 103%）。当前条件波动率约 117%，对未来 21 天的预测约 106%。自由度 ν ≈ 6，说明尾部明显厚于正态分布。值得注意的是，21 日已实现波动率在 10 月 13 日跌至样本最低的 53%，随后债务恐慌爆发——低波动并不代表低风险。</p>
+
+  <h3>7.4 单指数模型：β、系统性与非系统性风险</h3>
+  <div class="formula">R<sub>CRWV</sub> − R<sub>f</sub> = α + β (R<sub>S&amp;P500</sub> − R<sub>f</sub>) + e　　σ²<sub>总</sub> = β²σ²<sub>M</sub> + σ²(e)</div>
+  <div class="two">
+    <figure>
+      <figcaption>日超额收益散点与回归线<span class="cap-sub">横轴：标普 500；纵轴：CRWV；β = 2.75，R² = 0.165</span></figcaption>
+      <div class="chart-box" id="ch-scatter"></div>
+    </figure>
+    <div class="tbl-wrap" style="margin:0"><table class="tbl">
+      <thead><tr><th>单指数模型（日度）</th><th class="n">估计值</th></tr></thead>
+      <tbody>
+        <tr><td>β（OLS）</td><td class="n">2.75</td></tr>
+        <tr class="sub"><td>标准误 / HAC 稳健标准误</td><td class="n">0.31 / 0.41</td></tr>
+        <tr class="sub"><td>95% 置信区间</td><td class="n">2.14 – 3.37</td></tr>
+        <tr><td>α（年化，Jensen’s α）</td><td class="n">32.8%（t = 0.40，不显著）</td></tr>
+        <tr><td>R² / 相关系数</td><td class="n">0.165 / 0.41</td></tr>
+        <tr><td>总方差（年化）</td><td class="n">1.235（σ ≈ 111%）</td></tr>
+        <tr><td>系统性方差 β²σ²<sub>M</sub></td><td class="n">0.204（16.5%）</td></tr>
+        <tr><td>非系统性方差 σ²(e)</td><td class="n">1.034（83.5%）</td></tr>
+        <tr><td>残差波动率 σ(e)</td><td class="n">101.7%</td></tr>
+        <tr><td>Blume 调整 β（0.67β + 0.33）</td><td class="n">2.17</td></tr>
+        <tr><td>周度 β / Dimson β</td><td class="n">1.85 / 2.80</td></tr>
+        <tr><td>Treynor 比率 / 信息比率</td><td class="n">0.30 / 0.61</td></tr>
+        <tr><td>CAPM 要求回报（Rf 4.07% + β×5% ERP）</td><td class="n">17.8%</td></tr>
+      </tbody>
+    </table></div>
+  </div>
+  <p>结论：CRWV 是典型的“高 β、低 R²”股票。一方面，它对大盘的敏感度是普通股票的近 3 倍；另一方面，大盘只能解释其日波动的约 17%，其余 83% 来自公司与行业特有因素（合同、财报、融资、AI 板块情绪）。对投资组合而言，非系统性风险可以通过分散化消除；但对集中持有者来说，这部分风险才是主体。</p>
+
+  <h3>7.5 β 并不稳定</h3>
+  <div class="two">
+    <figure>
+      <figcaption>63 日滚动 β（对标普 500）<span class="cap-sub">虚线为全样本 β = 2.75</span></figcaption>
+      <div class="chart-box" id="ch-beta"></div>
+    </figure>
+    <figure>
+      <figcaption>63 日滚动相关系数</figcaption>
+      <div class="legend"><span class="leg-c2"><i></i>与标普 500</span><span class="leg-c7"><i></i>与 Nebius（同业）</span></div>
+      <div class="chart-box" id="ch-corr"></div>
+    </figure>
+  </div>
+  <ul>
+    <li><b>时变性：</b>63 日滚动 β 在 1.2（2025 年 9 月）到 5.4（2026 年 10 月）之间大幅波动，分年度看 2025 年为 2.38，2026 年为 3.54。近期 β 飙升，是因为大盘下跌日恰逢 CRWV 的信用恐慌（如 10 月 14 日、16 日标普各跌 1.1%，CRWV 分别跌 15.5% 和 11.9%）。</li>
+    <li><b>数据频率：</b>日度 β 为 2.75，周度只有 1.85（R² 7%），置信区间宽达 0.39–3.30。短样本、高噪声导致 β 的估计误差很大。</li>
+    <li><b>样本与异常值：</b>上市仅 19 个月，且包含 +41.8%（2025/04/01）这样的极端值；剔除上市首周后，β 为 2.81，变化不大。</li>
+    <li><b>基准选择：</b>标普 500 并非 CRWV 最相关的风险因子。纳斯达克 100、半导体指数和同业组合的解释力更强。这正是单指数模型的局限，也是多因子模型（如 Fama-French、行业因子）的用武之地。</li>
+  </ul>
+
+  <h3>7.6 收益分布、回撤与隐含波动率</h3>
+  <figure>
+    <figcaption>日收益分布<span class="cap-sub">各区间交易日占比（2 个百分点一档；两端为 ±30% 截尾）</span></figcaption>
+    <div class="legend"><span class="leg-c1"><i class="box"></i>CRWV</span><span class="leg-c2"><i class="box"></i>标普 500</span></div>
+    <div class="chart-box" id="ch-hist"></div>
+  </figure>
+  <div class="two">
+    <figure>
+      <figcaption>回撤（相对历史最高点）</figcaption>
+      <div class="legend"><span class="leg-c1"><i></i>CRWV</span><span class="leg-c2"><i></i>标普 500</span></div>
+      <div class="chart-box" id="ch-dd"></div>
+    </figure>
+    <figure>
+      <figcaption>期权隐含波动率期限结构<span class="cap-sub">2026/10/20 盘中平值期权（±6% 行权价）中位数</span></figcaption>
+      <div class="chart-box" id="ch-iv"></div>
+    </figure>
+  </div>
+  <p>期权市场给出的平值隐含波动率为：1 周约 108%，2–5 周约 96%–99%，2–5 个月约 86%–91%。期限结构向下倾斜（倒挂），说明市场预期近期的财报和信用不确定性会逐步消退。11 月 13 日到期的合约（覆盖 Q3 财报）隐含波动率回升至约 108%，体现了“财报溢价”。隐含波动率与已实现波动率（约 89%–117%）大致相当，期权并不便宜。</p>
+</section>
+
+<!-- ============ EVENTS ============ -->
+<section id="events">
+  <h2><span class="no">08</span>股价与事件：事件研究</h2>
+  <p class="lede">用市场模型剔除大盘影响后，看每个事件当天的“异常收益”（AR）有多大、是否显著。</p>
+  <div class="formula">AR<sub>t</sub> = R<sub>CRWV,t</sub> − (α̂ + β̂ R<sub>S&amp;P500,t</sub>)　　t = AR / σ(e)，σ(e) = 6.41%（日残差标准差）；|t| &gt; 1.96 视为在 5% 水平显著</div>
+  <figure>
+    <figcaption>股价走势与 27 个关键事件<span class="cap-sub">编号对应下表；蓝点为正异常收益，红点为负异常收益；悬停或聚焦查看详情</span></figcaption>
+    <div class="legend"><span class="leg-pos"><i class="box"></i>正异常收益</span><span class="leg-neg"><i class="box"></i>负异常收益</span><span class="leg-c1"><i></i>CRWV 收盘价（美元）</span></div>
+    <div class="chart-box" id="ch-events"></div>
+  </figure>
+  <div class="tbl-wrap"><table class="tbl" id="tbl-events">
+    <thead><tr><th>#</th><th>反应日</th><th>事件</th><th>类别</th><th class="n">CRWV</th><th class="n">标普500</th><th class="n">异常收益AR</th><th class="n">t 值</th><th class="n">Nebius同日</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <p class="small muted">反应日为市场首次能够交易该信息的交易日（盘后发布的财报以次日为反应日）。t 值加粗表示 |t| &gt; 1.96。“Nebius 同日”用于判断是公司特有还是行业共振。</p>
+
+  <div class="two">
+    <figure>
+      <figcaption>各事件的异常收益<span class="cap-sub">按时间排序</span></figcaption>
+      <div class="chart-box" id="ch-ar"></div>
+    </figure>
+    <figure>
+      <figcaption>按事件类别的平均异常收益<span class="cap-sub">括号内为事件数 / 显著事件数</span></figcaption>
+      <div class="chart-box" id="ch-cat"></div>
+    </figure>
+  </div>
+
+  <h3>8.1 规律总结</h3>
+  <ol>
+    <li><b>财报是最大的单一波动源，市场更看重“指引和资本开支”。</b>6 次财报的平均异常收益为 −9.2%，平均绝对异常收益 15.4%，其中 5 次显著。6 次中只有 2026Q2 一次上涨（+19.3%，全年指引上调）。其余 5 次即便收入超预期，股价也因亏损扩大、指引下调或资本开支上调而下跌。财报日平均绝对涨跌幅 14.8%，是普通交易日（4.9%）的 3 倍。</li>
+    <li><b>大客户合同带来正面但“被折价”的反应。</b>合同类事件平均 AR 为 +5.9%（Meta 142 亿美元合同 +10.5%，Anthropic +11.1%）。但当合同与融资同日公布时，利好会被抵消：2026 年 4 月 9 日 Meta 扩约 210 亿美元，同日宣布 30 亿美元可转债和 12.5 亿美元票据，股价仅涨 3.5%。</li>
+    <li><b>融资事件的解读随信用周期反转。</b>2025 年 5 月 20 亿美元高收益债获 5 倍超额认购，股价 +19.0%（AR +23.3%，t = 3.6），市场把它理解为“融资渠道畅通”。到了 2025 年 12 月的可转债（−2.3%）和 2026 年 9 月的 42 亿美元可转债（−4.2%，而当天标普 +1.1%，AR −7.4%），市场关注点已变成稀释和杠杆。</li>
+    <li><b>股票供给冲击很直接。</b>2025 年 8 月 14 日 IPO 禁售期到期前，股价单日下跌 15.5%（AR −15.7%，t = −2.4），随后内部人通过大宗交易减持超过 10 亿美元。</li>
+    <li><b>系统性冲击主要通过 β 传导，但线性模型在极端行情中会失效。</b>2025 年 4 月 3–4 日关税冲击中，CRWV 两天分别下跌 12.3% 和 11.1%，与 β 预测基本一致（AR 约 +1%）。4 月 9 日关税暂停，标普单日 +9.5%，模型预测 CRWV 应涨约 26%，实际只涨 11.8%（AR −14.5%）。</li>
+    <li><b>行业溢出效应显著。</b>2025 年 9 月 10 日甲骨文因剩余履约义务暴增单日大涨 36%，CRWV 跟涨 16.9%（AR +16.0%，t = 2.5）。2026 年 10 月 8 日 OpenAI 收入数据低于预期，CRWV 下跌 7.8%。多数大波动日 Nebius 同向变动，例如 2026/07/30 CRWV +21.5%、Nebius +27.1%。</li>
+    <li><b>信用事件让股债同跌。</b>2026 年 10 月 14–16 日 CDS 飙升期间，股价从 77.81 美元跌至 61.39 美元（三日 −21.1%），标普同期仅约 −1.9%。高杠杆公司的股票对信用条件极度敏感。</li>
+  </ol>
+
+  <h3>8.2 典型案例</h3>
+  <div class="grid2">
+    <div class="card"><h4>案例 A：2025 年 Q3 财报下调指引（2025/11/11）</h4><p>第三方数据中心开发商延误，全年收入指引从 51.5–53.5 亿美元降至 50.5–51.5 亿美元，资本开支指引从 200–230 亿美元降至 120–140 亿美元。次日股价下跌 16.3%（AR −17.0%，t = −2.7）。CEO 次日承认受影响的不止一个数据中心；12 月 15 日《华尔街日报》报道延误早已出现。此后集体诉讼称，11 月 10 日至 12 月 16 日期间公司市值蒸发约 140 亿美元。<b>启示：</b>市场对“交付能力”的惩罚远大于对短期收入的奖励。</p></div>
+    <div class="card"><h4>案例 B：Meta 142 亿美元合同（2025/09/30）</h4><p>与 Meta 签订最高 142 亿美元、期限至 2031 年的算力合同，年均收入超过 23 亿美元。当日股价 +11.7%，标普仅 +0.4%（AR +10.5%）。这是 CoreWeave 摆脱“微软依赖”的标志性事件。<b>启示：</b>新的大客户合同直接增加可抵押融资的现金流，是股价最主要的正面催化剂之一。</p></div>
+    <div class="card"><h4>案例 C：财报 + 禁售期双重冲击（2025/08/13–14）</h4><p>Q2’25 收入同比增长 207%，但净亏损和利息支出扩大，加上 8 月 14 日收盘后禁售期到期，股价两日累计下跌约 33%（148.7 美元 → 99.5 美元）。两日 AR 合计约 −37%，几乎全部是公司特有因素。<b>启示：</b>流通股供给的变化能在基本面不变时显著压低股价。</p></div>
+    <div class="card"><h4>案例 D：2026 年 10 月信用恐慌</h4><p>10 月 8 日 OpenAI 收入数据（−7.8%）→ 10 月 14 日 CPI 超预期叠加 AI 债务担忧，CDS 突破 1,000bp（−15.5%）→ 10 月 16 日 CDS 创纪录约 1,195bp（−11.9%）→ 10 月 20 日汇丰重申“减持”评级、目标价 39 美元。<b>启示：</b>当估值的核心变量从“增长”变成“融资”时，股价对利率、信用利差和客户融资状况的敏感度会急剧上升。这也是近期滚动 β 飙升至 5 以上的原因。</p></div>
+  </div>
+</section>
+
+<!-- ============ RISKS ============ -->
+<section id="risks">
+  <h2><span class="no">09</span>主要风险因素</h2>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th>风险</th><th>严重度</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>融资与再融资</td><td><span class="pill crit"><i></i>高</span></td><td>每年需新增 200–300 亿美元资金；信用利差走阔会直接提高成本，甚至关闭融资窗口</td></tr>
+      <tr><td>交易对手信用</td><td><span class="pill crit"><i></i>高</span></td><td>客户集中于少数 AI 实验室与科技巨头；AI 实验室本身高度依赖融资</td></tr>
+      <tr><td>AI 资本开支周期</td><td><span class="pill crit"><i></i>高</span></td><td>若 AI 需求或变现不及预期，新增订单、续约价格和资产价值都会受冲击</td></tr>
+      <tr><td>技术迭代与折旧</td><td><span class="pill warn"><i></i>中高</span></td><td>GPU 每 1–2 年一代，6 年折旧假设可能偏长；旧卡租金下降风险</td></tr>
+      <tr><td>交付与执行</td><td><span class="pill warn"><i></i>中高</span></td><td>依赖第三方数据中心与电力；建设延误会推迟收入但不推迟利息</td></tr>
+      <tr><td>股权稀释</td><td><span class="pill warn"><i></i>中</span></td><td>三期可转债约 108 亿美元，加上私募增发与股权激励</td></tr>
+      <tr><td>竞争</td><td><span class="pill warn"><i></i>中</span></td><td>超大规模云厂商自建能力增强；新云同业扩张；英伟达分配策略变化</td></tr>
+      <tr><td>法律与治理</td><td><span class="pill warn"><i></i>中</span></td><td>证券集体诉讼；双重股权结构；内部人持续减持</td></tr>
+      <tr><td>政策与电力</td><td><span class="pill warn"><i></i>中</span></td><td>部分州对大型数据中心实施暂停令；电力成本与供应约束；出口管制</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- ============ CONCLUSION ============ -->
+<section id="conclusion">
+  <h2><span class="no">10</span>结论</h2>
+  <p>CoreWeave 是一家<b>高增长、高杠杆、高波动</b>的公司。它的业务端表现强劲：收入翻倍增长、千亿美元级积压订单、客户结构持续多元化。但它的财务结构把这份增长变成了一场“融资竞赛”：每 1 美元收入背后要投入约 3 美元资本开支，利润在折旧和利息之后所剩无几。</p>
+  <p>从偿债能力看，未来 12 个月的流动性有保障，担保贷款由合同现金流覆盖；中期则高度依赖资本市场，而 2026 年 10 月的 CDS 和债券价格表明，市场正在重新给这种依赖定价。从市场敏感性看，CRWV 的股价相当于“AI 算力需求 × 融资可得性”的杠杆期权：β 约 2.75 且在上升，年化波动率约 108%，财报和融资事件常常带来 10%–20% 的单日波动。</p>
+  <p><b>接下来最值得关注的五个指标：</b>① Q3 财报中的营业利润率与资本开支指引；② CDS 与二级市场债券收益率；③ 新增融资的成本和结构（担保 vs 无担保、股权 vs 可转债）；④ OpenAI 等核心客户的财务状况；⑤ 活跃电力的实际交付进度（年底 &gt;1.85 GW）。</p>
+  <div class="callout info" role="note">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="currentColor" d="M9.1 8.5h1.8V15H9.1zM9.1 5h1.8v1.8H9.1z"/></svg>
+    <div><span class="tag">与课程知识的联系</span>本报告的波动率部分与 CAPM、单指数模型直接对应：总风险 = 系统性风险 + 非系统性风险；β 估计受样本期、数据频率和基准选择影响；Blume 调整让 β 向 1 回归。CRWV 是一个很好的反例：高 β 并不意味着高 R²，单一资产的风险主要是可分散的特有风险。</div>
+  </div>
+</section>
+
+<!-- ============ APPENDIX ============ -->
+<section id="appendix">
+  <h2><span class="no">11</span>方法说明与数据来源</h2>
+  <h3>方法</h3>
+  <ul class="small">
+    <li><b>收益率：</b>波动率使用对数收益率，回归与事件研究使用简单超额收益率（扣除 13 周国债收益率折算的日利率）。年化按 252 个交易日计算。样本截至 2026/10/19（10/20 为盘中数据，已剔除）。</li>
+    <li><b>单指数模型：</b>OLS 回归，并报告 Newey-West（HAC，5 阶滞后）稳健标准误；周度 β 使用周五收盘价；Dimson β 为领先、同期、滞后三期市场收益系数之和。</li>
+    <li><b>多因子：</b>“AI 半导体因子”为 SMH 日收益对标普 500 回归后的残差；“新云因子”为 Nebius 日收益对前两个因子回归后的残差。</li>
+    <li><b>GARCH：</b>GARCH(1,1)，常数均值，学生 t 分布误差，使用 Python arch 包估计。</li>
+    <li><b>事件研究：</b>全样本市场模型参数（α = 0.13%/日，β = 2.75），σ(e) = 6.41%。由于上市时间短，没有使用事件前的独立估计窗口，这可能使显著性略有偏差。</li>
+    <li><b>信用模型：</b>CDS 隐含违约概率假设回收率 40%、违约强度恒定；Merton/KMV 模型以 1 年期流动负债加一半长期债务为违约点，资产波动率 ≈ 股权波动率 × E/V（简化），仅作示意。</li>
+    <li><b>情景与敏感性：</b>基于 2026Q2 数据和管理层指引的示意性计算，关键假设已在表中列出，并非盈利预测。</li>
+  </ul>
+  <h3>数据来源</h3>
+  <ol class="foot">
+    <li>CoreWeave 2026 年 Q2 10-Q（含债务附注 Note 10、流动性、租赁）：<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm">sec.gov</a></li>
+    <li>CoreWeave 2025 年 10-K：<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm">sec.gov</a>；2026 Q1 10-Q：<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000222/crwv-20260331.htm">sec.gov</a>；2025 Q3 10-Q：<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962825000062/crwv-20250930.htm">sec.gov</a></li>
+    <li>季度财报新闻稿（8-K）：<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/crwv-20260811.htm">2026 Q2</a>、<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000220/crwv-20260507.htm">2026 Q1</a>、<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000094/crwv-20260226.htm">2025 Q4</a>、<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962825000059/crwv-20251110.htm">2025 Q3</a></li>
+    <li>2033 年可转债定价公告：<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000432/ex991pricing.htm">sec.gov</a>；DDTL 5.5 公告：<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/ex991pr.htm">sec.gov</a>；Meta 210 亿美元合同：<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000154/ex991.htm">sec.gov</a></li>
+    <li>SEC XBRL companyfacts（季度财务数据）；Yahoo Finance（日度价格、期权链、公司概况）。</li>
+    <li>CNBC：<a href="https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html">CoreWeave stock sinks as bond yields surge near 15%</a>；<a href="https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html">CoreWeave bond yields stay near 15%</a>；<a href="https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html">Q2 2026 earnings</a>；<a href="https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html">Q1 2026 earnings</a>；<a href="https://www.cnbc.com/2026/02/26/coreweave-crwv-q4-earnings-report-2025.html">Q4 2025 earnings</a></li>
+    <li>The Motley Fool：<a href="https://www.fool.com/investing/2026/10/16/why-is-coreweave-stock-falling-today/">Why Is CoreWeave Stock Falling Today?</a>（CDS 约 1,195bp）；Reuters/Investing.com：<a href="https://www.investing.com/news/stock-market-news/factboxcoreweaves-ai-contracts-and-the-lenders-financing-its-buildout-4952427">CoreWeave’s AI contracts and the lenders</a></li>
+    <li>TechCrunch：<a href="https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute">Nvidia invests $2B in CoreWeave</a>；Forbes：<a href="https://www.forbes.com/sites/aliciapark/2026/04/10/coreweave-stock-surges-13-on-anthropic-deal-a-day-after-21-billion-meta-partnership/">Anthropic deal</a>；Bloomberg：<a href="https://www.bloomberg.com/news/articles/2025-12-08/coreweave-shares-fall-on-2-billion-convertible-notes-offering">December 2025 convertible</a></li>
+    <li>集体诉讼：<a href="https://www.barchart.com/story/news/37083576/coreweave-inc-crwv-slapped-with-securities-class-action-amid-questions-over-denton-data-center-completion-transparency-14-billion-market-cap-loss-hagens-berman">Hagens Berman / Barchart</a>；评级（二手来源）：<a href="https://letsdatascience.com/news/coreweave-faces-rising-liabilities-and-leverage-32d677ad">Let’s Data Science</a>、<a href="https://primexbt.com/news/coreweaves-credit-risk-hits-a-record-as-new-borrowing-plans-unsettle-bondholders/">PrimeXBT</a></li>
+    <li>2027 年一致预期：<a href="https://247wallst.com/investing/2026/09/15/coreweave-imploded-over-the-last-few-months-one-high-conviction-wall-street-pro-says-200-gains-start-now/">24/7 Wall St.</a>；<a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-backed-stock-slated-quadruple-015000256.html">Motley Fool via Yahoo</a></li>
+    <li>其余事件来源见事件表中的链接。</li>
+  </ol>
+  <div class="disclaimer">本报告基于公开信息和作者的计算，用于研究与学习目的，不构成任何投资建议。部分数据（评级、CDS、债券价格、一致预期）来自二手媒体报道，可能与原始数据存在差异；情景分析与模型结果依赖假设，实际结果可能显著不同。</div>
+</section>
+</main>
+
+<script>
+const DATA = __DATA_JSON__;
+
+/* ---------- helpers ---------- */
+const NS = 'http://www.w3.org/2000/svg';
+function sv(tag, attrs, parent) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) if (attrs[k] !== undefined && attrs[k] !== null) e.setAttribute(k, attrs[k]);
+  if (parent) parent.appendChild(e);
+  return e;
+}
+function txt(parent, x, y, s, cls, anchor) {
+  const t = sv('text', { x, y, class: cls || 'ax', 'text-anchor': anchor || 'start' }, parent);
+  t.textContent = s;
+  return t;
+}
+const pct = (v, d = 1) => (v === null || v === undefined || !isFinite(v)) ? '—' : (v * 100).toFixed(d) + '%';
+const spct = (v, d = 1) => (v === null || v === undefined || !isFinite(v)) ? '—' : (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(v * 100).toFixed(d) + '%';
+const num = (v, d = 0) => (v === null || v === undefined || !isFinite(v)) ? '—' : (v < 0 ? '−' : '') + Math.abs(v).toLocaleString('en-US', { minimumFractionDigits: d, maximumFractionDigits: d });
+const usd = (v, d = 2) => '$' + num(v, d);
+function niceTicks(min, max, n) {
+  if (min === max) { min -= 1; max += 1; }
+  const span = max - min, step0 = span / (n || 5);
+  const mag = Math.pow(10, Math.floor(Math.log10(step0)));
+  const e = step0 / mag;
+  const step = (e >= 7.5 ? 10 : e >= 3.5 ? 5 : e >= 1.5 ? 2 : 1) * mag;
+  const lo = Math.floor(min / step + 1e-9) * step, hi = Math.ceil(max / step - 1e-9) * step;
+  const out = [];
+  for (let v = lo; v <= hi + step * 1e-6; v += step) out.push(+v.toFixed(10));
+  return out;
+}
+function tipOf(el) {
+  let t = el.querySelector(':scope > .tt');
+  if (!t) { t = document.createElement('div'); t.className = 'tt'; t.hidden = true; el.appendChild(t); }
+  return t;
+}
+function showTip(el, x, y, title, rows, desc) {
+  const t = tipOf(el);
+  t.replaceChildren();
+  if (title) { const h = document.createElement('div'); h.className = 'tt-h'; h.textContent = title; t.appendChild(h); }
+  rows.forEach(r => {
+    const d = document.createElement('div'); d.className = 'tt-r';
+    if (r.cls) { const k = document.createElement('span'); k.className = 'tt-k ' + r.cls; d.appendChild(k); }
+    const b = document.createElement('b'); b.textContent = r.value; d.appendChild(b);
+    if (r.label) { const l = document.createElement('span'); l.className = 'tt-l'; l.textContent = r.label; d.appendChild(l); }
+    t.appendChild(d);
+  });
+  if (desc) { const p = document.createElement('div'); p.className = 'tt-desc'; p.textContent = desc; t.appendChild(p); }
+  t.hidden = false;
+  const W = el.clientWidth, tw = t.offsetWidth, th = t.offsetHeight;
+  let left = x + 14; if (left + tw > W - 2) left = x - tw - 14; if (left < 2) left = Math.max(2, Math.min(W - tw - 2, x - tw / 2));
+  let top = y - th - 10; if (top < 2) top = y + 14;
+  t.style.left = left + 'px'; t.style.top = top + 'px';
+}
+function hideTip(el) { const t = el.querySelector(':scope > .tt'); if (t) t.hidden = true; }
+function svgRoot(el, W, H, label) {
+  el.replaceChildren();
+  const s = sv('svg', { width: W, height: H, viewBox: `0 0 ${W} ${H}`, class: 'chart', role: 'img', 'aria-label': label || '' });
+  el.appendChild(s);
+  return s;
+}
+function shortDate(d) { return d.slice(2, 4) + '/' + d.slice(5, 7); }
+function monthTicks(dates, iw) {
+  const idx = [];
+  for (let i = 1; i < dates.length; i++) if (dates[i].slice(5, 7) !== dates[i - 1].slice(5, 7)) idx.push(i);
+  const maxLabels = Math.max(3, Math.floor(iw / 62));
+  const step = Math.ceil(idx.length / maxLabels);
+  return idx.filter((_, k) => k % step === 0);
+}
+function barPath(x, y0, y1, w, r) {
+  const h = Math.abs(y1 - y0); r = Math.min(r, h, w / 2);
+  if (h < 0.5) return `M${x},${y0}H${x + w}`;
+  if (y1 < y0) return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+  return `M${x},${y0}V${y1 - r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 - r}V${y0}Z`;
+}
+
+/* ---------- line chart (crosshair + tooltip, keyboard arrows) ---------- */
+function lineChart(el, cfg) {
+  const W = Math.max(280, el.clientWidth), H = cfg.height || 260;
+  const narrow = W < 480;
+  const m = { t: 12, r: cfg.r || 12, b: 28, l: cfg.l || (narrow ? 40 : 50) };
+  const iw = W - m.l - m.r, ih = H - m.t - m.b;
+  const n = cfg.x.length;
+  const svg = svgRoot(el, W, H, cfg.aria);
+  const vals = [];
+  cfg.series.forEach(s => s.values.forEach(v => { if (v !== null && isFinite(v)) vals.push(v); }));
+  let lo = cfg.yMin !== undefined ? cfg.yMin : Math.min(...vals);
+  let hi = cfg.yMax !== undefined ? cfg.yMax : Math.max(...vals);
+  let ys, ticks;
+  if (cfg.ylog) {
+    const a = Math.log10(lo * 0.92), b = Math.log10(hi * 1.06);
+    ys = v => m.t + ih - (Math.log10(v) - a) / (b - a) * ih;
+    ticks = cfg.logTicks.filter(t => t >= lo * 0.92 && t <= hi * 1.06);
+  } else {
+    ticks = niceTicks(lo, hi, narrow ? 4 : (cfg.yTicks || 5));
+    const a = ticks[0], b = ticks[ticks.length - 1];
+    ys = v => m.t + ih - (v - a) / (b - a) * ih;
+  }
+  const xs = i => m.l + (n <= 1 ? iw / 2 : i * iw / (n - 1));
+  const g = sv('g', {}, svg);
+  ticks.forEach(t => { const y = ys(t); sv('line', { x1: m.l, x2: W - m.r, y1: y, y2: y, class: t === 0 && !cfg.ylog ? 'zero' : 'grid' }, g); txt(g, m.l - 6, y + 4, cfg.yfmt(t), 'ax', 'end'); });
+  sv('line', { x1: m.l, x2: W - m.r, y1: m.t + ih, y2: m.t + ih, class: 'axl' }, g);
+  const xt = cfg.labels ? cfg.labels.map((_, i) => i).filter((i) => i % Math.max(1, Math.ceil(n / Math.floor(iw / (narrow ? 44 : 56)))) === 0) : monthTicks(cfg.x, iw);
+  xt.forEach(i => { const x = xs(i); sv('line', { x1: x, x2: x, y1: m.t + ih, y2: m.t + ih + 4, class: 'axl' }, g); txt(g, x, H - 8, cfg.labels ? cfg.labels[i] : shortDate(cfg.x[i]), 'ax', 'middle'); });
+  (cfg.refs || []).forEach(r => { const y = ys(r.y); sv('line', { x1: m.l, x2: W - m.r, y1: y, y2: y, class: 'ref' }, g); txt(g, W - m.r - 2, y - 5, r.label, 'ax ref-t', 'end'); });
+  cfg.series.forEach(s => {
+    let d = '', pen = false, first = null, last = null;
+    s.values.forEach((v, i) => { if (v === null || !isFinite(v)) { pen = false; return; } const x = xs(i), y = ys(v); d += (pen ? 'L' : 'M') + x.toFixed(1) + ',' + y.toFixed(1); pen = true; if (first === null) first = i; last = i; });
+    if (s.area && first !== null) {
+      const base = cfg.ylog ? m.t + ih : ys(Math.max(ticks[0], Math.min(0, ticks[ticks.length - 1])));
+      sv('path', { d: d + `L${xs(last).toFixed(1)},${base}L${xs(first).toFixed(1)},${base}Z`, class: s.area }, svg);
+    }
+    sv('path', { d, class: 'ln ' + s.cls + (s.thin ? ' thin' : '') }, svg);
+    if (s.endLabel && last !== null) {
+      sv('circle', { cx: xs(last), cy: ys(s.values[last]), r: 4, class: 'dot ' + s.cls }, svg);
+    }
+  });
+  if (cfg.points) cfg.series.forEach(s => s.values.forEach((v, i) => { if (v !== null) sv('circle', { cx: xs(i), cy: ys(v), r: 4, class: 'dot ' + s.cls }, svg); }));
+  const hl = sv('line', { class: 'xhair', y1: m.t, y2: m.t + ih, x1: 0, x2: 0, visibility: 'hidden' }, svg);
+  const dots = cfg.series.map(s => sv('circle', { r: 4.5, class: 'dot ' + s.cls, cx: 0, cy: 0, visibility: 'hidden' }, svg));
+  const markerLayer = sv('g', {}, svg);
+  const ov = sv('rect', { x: m.l, y: m.t, width: iw, height: ih, class: 'ov' }, svg);
+  svg.insertBefore(ov, markerLayer);
+  let cur = n - 1;
+  function show(i, py) {
+    cur = i; const x = xs(i);
+    hl.setAttribute('x1', x); hl.setAttribute('x2', x); hl.setAttribute('visibility', 'visible');
+    const rows = [];
+    cfg.series.forEach((s, k) => {
+      const v = s.values[i];
+      if (v === null || !isFinite(v)) { dots[k].setAttribute('visibility', 'hidden'); return; }
+      dots[k].setAttribute('cx', x); dots[k].setAttribute('cy', ys(v)); dots[k].setAttribute('visibility', 'visible');
+      rows.push({ cls: s.cls, value: (cfg.tfmt || cfg.yfmt)(v), label: s.label });
+    });
+    showTip(el, x, py === undefined ? m.t + 30 : py, cfg.labels ? cfg.labels[i] : cfg.x[i], rows);
+  }
+  function hide() { hideTip(el); hl.setAttribute('visibility', 'hidden'); dots.forEach(d => d.setAttribute('visibility', 'hidden')); }
+  ov.addEventListener('pointermove', ev => { const r = svg.getBoundingClientRect(); const i = Math.max(0, Math.min(n - 1, Math.round((ev.clientX - r.left - m.l) / iw * (n - 1)))); show(i, ev.clientY - r.top); });
+  ov.addEventListener('pointerleave', hide);
+  svg.setAttribute('tabindex', '0');
+  svg.addEventListener('focus', () => show(cur));
+  svg.addEventListener('blur', hide);
+  svg.addEventListener('keydown', ev => {
+    if (ev.key === 'ArrowLeft' || ev.key === 'ArrowRight') { ev.preventDefault(); const step = ev.shiftKey ? 10 : 1; show(Math.max(0, Math.min(n - 1, cur + (ev.key === 'ArrowLeft' ? -step : step)))); }
+  });
+  if (cfg.markers) {
+    cfg.markers.forEach(mk => {
+      const v = cfg.series[0].values[mk.i]; if (v === null) return;
+      const cx = xs(mk.i), cy = ys(v) - (mk.up ? 14 : -14);
+      sv('line', { x1: cx, x2: cx, y1: ys(v), y2: cy, class: 'xhair' }, markerLayer);
+      const c = sv('circle', { cx, cy, r: narrow ? 6.5 : 8, class: 'mk ' + mk.cls, tabindex: 0, role: 'button', 'aria-label': mk.aria }, markerLayer);
+      if (!narrow) { const t = txt(markerLayer, cx, cy + 3.3, String(mk.n), 'mk-t', 'middle'); }
+      const open = () => showTip(el, cx, cy, mk.title, mk.rows, mk.desc);
+      c.addEventListener('pointerenter', open); c.addEventListener('focus', open);
+      c.addEventListener('pointerleave', () => hideTip(el)); c.addEventListener('blur', () => hideTip(el));
+    });
+  }
+}
+
+/* ---------- vertical bar chart (grouped, supports negatives) ---------- */
+function barChart(el, cfg) {
+  const W = Math.max(280, el.clientWidth), H = cfg.height || 240;
+  const narrow = W < 480;
+  const m = { t: cfg.valueLabels ? 22 : 12, r: 10, b: 28, l: cfg.l || (narrow ? 40 : 50) };
+  const iw = W - m.l - m.r, ih = H - m.t - m.b;
+  const svg = svgRoot(el, W, H, cfg.aria);
+  const all = []; cfg.series.forEach(s => s.values.forEach(v => { if (v !== null) all.push(v); }));
+  const ticks = niceTicks(Math.min(0, ...all), Math.max(0, ...all), narrow ? 4 : 5);
+  const a = ticks[0], b = ticks[ticks.length - 1];
+  const ys = v => m.t + ih - (v - a) / (b - a) * ih;
+  const g = sv('g', {}, svg);
+  ticks.forEach(t => { const y = ys(t); sv('line', { x1: m.l, x2: W - m.r, y1: y, y2: y, class: t === 0 ? 'zero' : 'grid' }, g); txt(g, m.l - 6, y + 4, cfg.yfmt(t), 'ax', 'end'); });
+  const nc = cfg.labels.length, ns = cfg.series.length;
+  const band = iw / nc;
+  const bw = Math.max(3, Math.min(24, (band * 0.72 - (ns - 1) * 2) / ns));
+  const gw = bw * ns + (ns - 1) * 2;
+  const every = cfg.every || Math.max(1, Math.ceil(nc / Math.floor(iw / (narrow ? 34 : 46))));
+  cfg.labels.forEach((lab, i) => {
+    const cx = m.l + band * (i + 0.5);
+    if (cfg.axisLabels) { if (cfg.axisLabels[i]) txt(g, m.l + band * i, H - 8, cfg.axisLabels[i], 'ax', 'middle'); }
+    else if (i % every === 0) txt(g, cx, H - 8, lab, 'ax', 'middle');
+    cfg.series.forEach((s, k) => {
+      const v = s.values[i]; if (v === null || v === undefined) return;
+      const x = cx - gw / 2 + k * (bw + 2);
+      const cls = typeof s.cls === 'function' ? s.cls(v, i) : s.cls;
+      const p = sv('path', { d: barPath(x, ys(0), ys(v), bw, 4), class: 'bar ' + cls, tabindex: 0, role: 'img', 'aria-label': `${lab} ${s.label} ${cfg.tfmt(v)}` }, svg);
+      const open = () => showTip(el, x + bw / 2, Math.min(ys(v), ys(0)), lab, [{ cls, value: cfg.tfmt(v), label: s.label }]);
+      p.addEventListener('pointerenter', open); p.addEventListener('focus', open);
+      p.addEventListener('pointerleave', () => hideTip(el)); p.addEventListener('blur', () => hideTip(el));
+      if (cfg.valueLabels && (cfg.valueLabels === true || cfg.valueLabels(i, k)) && !narrow) {
+        txt(svg, x + bw / 2, v >= 0 ? ys(v) - 5 : ys(v) + 13, cfg.vfmt ? cfg.vfmt(v) : cfg.tfmt(v), 'vlab', 'middle');
+      }
+    });
+  });
+}
+
+/* ---------- horizontal bar chart (diverging around zero) ---------- */
+function hbarChart(el, cfg) {
+  const W = Math.max(280, el.clientWidth);
+  const narrow = W < 480;
+  const row = cfg.row || 22;
+  const lw = Math.min(cfg.labelWidth || 150, W * (narrow ? 0.42 : 0.38));
+  const m = { t: 8, r: 44, b: 24, l: lw + 8 };
+  const H = m.t + m.b + row * cfg.items.length;
+  const iw = W - m.l - m.r;
+  const svg = svgRoot(el, W, H, cfg.aria);
+  const vals = cfg.items.map(d => d.v);
+  const ticks = niceTicks(Math.min(0, ...vals), Math.max(0, ...vals), narrow ? 3 : 5);
+  const a = ticks[0], b = ticks[ticks.length - 1];
+  const xs = v => m.l + (v - a) / (b - a) * iw;
+  const g = sv('g', {}, svg);
+  ticks.forEach(t => { const x = xs(t); sv('line', { x1: x, x2: x, y1: m.t, y2: H - m.b, class: t === 0 ? 'zero' : 'grid' }, g); txt(g, x, H - 7, cfg.fmt(t), 'ax', 'middle'); });
+  cfg.items.forEach((d, i) => {
+    const y = m.t + i * row, bh = Math.min(14, row - 6), yy = y + (row - bh) / 2;
+    let lab = d.label;
+    const maxChars = Math.floor(lw / 11.5);
+    if (lab.length > maxChars) lab = lab.slice(0, maxChars - 1) + '…';
+    txt(g, m.l - 8, y + row / 2 + 4, lab, 'lbl', 'end');
+    const x0 = xs(0), x1 = xs(d.v);
+    const left = Math.min(x0, x1), w = Math.max(1, Math.abs(x1 - x0));
+    const r = Math.min(4, w / 2);
+    const dpath = d.v >= 0
+      ? `M${left},${yy}H${left + w - r}Q${left + w},${yy} ${left + w},${yy + r}V${yy + bh - r}Q${left + w},${yy + bh} ${left + w - r},${yy + bh}H${left}Z`
+      : `M${left + w},${yy}H${left + r}Q${left},${yy} ${left},${yy + r}V${yy + bh - r}Q${left},${yy + bh} ${left + r},${yy + bh}H${left + w}Z`;
+    const cls = d.cls || (d.v >= 0 ? 'fpos' : 'fneg');
+    const p = sv('path', { d: dpath, class: 'bar ' + cls, tabindex: 0, role: 'img', 'aria-label': `${d.label} ${cfg.fmt(d.v)}` }, svg);
+    const open = () => showTip(el, x1, y + 4, d.title || d.label, [{ cls, value: cfg.tfmt ? cfg.tfmt(d) : cfg.fmt(d.v), label: d.sub || '' }], d.desc);
+    p.addEventListener('pointerenter', open); p.addEventListener('focus', open);
+    p.addEventListener('pointerleave', () => hideTip(el)); p.addEventListener('blur', () => hideTip(el));
+    txt(svg, d.v >= 0 ? x1 + 5 : x1 - 5, y + row / 2 + 4, cfg.fmt(d.v), 'vlab', d.v >= 0 ? 'start' : 'end');
+  });
+}
+
+/* ---------- 100% stacked horizontal bars ---------- */
+function stackChart(el, cfg) {
+  const W = Math.max(280, el.clientWidth);
+  const narrow = W < 480;
+  const row = 34, lw = Math.min(170, W * 0.4);
+  const m = { t: 6, r: 10, b: 22, l: lw + 8 };
+  const H = m.t + m.b + row * cfg.items.length;
+  const iw = W - m.l - m.r;
+  const svg = svgRoot(el, W, H, cfg.aria);
+  const g = sv('g', {}, svg);
+  [0, 0.25, 0.5, 0.75, 1].forEach(t => { const x = m.l + t * iw; sv('line', { x1: x, x2: x, y1: m.t, y2: H - m.b, class: 'grid' }, g); txt(g, x, H - 6, (t * 100) + '%', 'ax', 'middle'); });
+  cfg.items.forEach((d, i) => {
+    const y = m.t + i * row + 8, bh = 18;
+    txt(g, m.l - 8, y + 13, d.label, 'lbl', 'end');
+    const w1 = d.share * iw;
+    const p1 = sv('path', { d: `M${m.l},${y}H${m.l + w1 - 1}V${y + bh}H${m.l}Z`, class: 'bar f1', tabindex: 0, role: 'img', 'aria-label': `${d.label} 可解释 ${pct(d.share)}` }, svg);
+    const p2 = sv('path', { d: `M${m.l + w1 + 1},${y}H${m.l + iw - 4}Q${m.l + iw},${y} ${m.l + iw},${y + 4}V${y + bh - 4}Q${m.l + iw},${y + bh} ${m.l + iw - 4},${y + bh}H${m.l + w1 + 1}Z`, class: 'bar fmid', tabindex: 0, role: 'img', 'aria-label': `${d.label} 特有 ${pct(1 - d.share)}` }, svg);
+    [[p1, 'f1', d.share, '模型可解释'], [p2, 'fmid', 1 - d.share, '公司特有']].forEach(([p, cls, v, lab]) => {
+      const open = () => showTip(el, m.l + (cls === 'f1' ? w1 / 2 : w1 + (iw - w1) / 2), y, d.label, [{ cls, value: pct(v), label: lab }]);
+      p.addEventListener('pointerenter', open); p.addEventListener('focus', open);
+      p.addEventListener('pointerleave', () => hideTip(el)); p.addEventListener('blur', () => hideTip(el));
+    });
+    if (w1 > 46) txt(svg, m.l + 6, y + 13, pct(d.share), 'vlab-in', 'start');
+    else txt(svg, m.l + w1 + 6, y + 13, pct(d.share), 'vlab', 'start');
+  });
+}
+
+/* ---------- scatter with fit line ---------- */
+function scatterChart(el, cfg) {
+  const W = Math.max(280, el.clientWidth), H = cfg.height || 280;
+  const narrow = W < 480;
+  const m = { t: 10, r: 12, b: 30, l: narrow ? 40 : 48 };
+  const iw = W - m.l - m.r, ih = H - m.t - m.b;
+  const svg = svgRoot(el, W, H, cfg.aria);
+  const xt = niceTicks(Math.min(...cfg.x), Math.max(...cfg.x), narrow ? 4 : 6), yt = niceTicks(Math.min(...cfg.y), Math.max(...cfg.y), narrow ? 4 : 6);
+  const xs = v => m.l + (v - xt[0]) / (xt[xt.length - 1] - xt[0]) * iw;
+  const ys = v => m.t + ih - (v - yt[0]) / (yt[yt.length - 1] - yt[0]) * ih;
+  const g = sv('g', {}, svg);
+  yt.forEach(t => { const y = ys(t); sv('line', { x1: m.l, x2: W - m.r, y1: y, y2: y, class: t === 0 ? 'zero' : 'grid' }, g); txt(g, m.l - 6, y + 4, pct(t, 0), 'ax', 'end'); });
+  xt.forEach(t => { const x = xs(t); sv('line', { x1: x, x2: x, y1: m.t, y2: m.t + ih, class: t === 0 ? 'zero' : 'grid' }, g); txt(g, x, H - 10, pct(t, 0), 'ax', 'middle'); });
+  cfg.x.forEach((x, i) => sv('circle', { cx: xs(x), cy: ys(cfg.y[i]), r: 2.6, class: 'pt' }, svg));
+  const x0 = xt[0], x1 = xt[xt.length - 1];
+  const clipY = v => Math.max(yt[0], Math.min(yt[yt.length - 1], v));
+  sv('line', { x1: xs(x0), y1: ys(clipY(cfg.a + cfg.b * x0)), x2: xs(x1), y2: ys(clipY(cfg.a + cfg.b * x1)), class: 'fit' }, svg);
+  txt(svg, W - m.r - 4, m.t + 14, `β = ${cfg.b.toFixed(2)}`, 'lbl', 'end');
+  const hit = sv('circle', { r: 6, cx: 0, cy: 0, class: 'dot c2', visibility: 'hidden' }, svg);
+  const ov = sv('rect', { x: m.l, y: m.t, width: iw, height: ih, class: 'ov' }, svg);
+  ov.addEventListener('pointermove', ev => {
+    const r = svg.getBoundingClientRect(); const px = ev.clientX - r.left, py = ev.clientY - r.top;
+    let best = -1, bd = 1e9;
+    cfg.x.forEach((x, i) => { const dx = xs(x) - px, dy = ys(cfg.y[i]) - py, d = dx * dx + dy * dy; if (d < bd) { bd = d; best = i; } });
+    if (best < 0 || bd > 900) { hideTip(el); hit.setAttribute('visibility', 'hidden'); return; }
+    hit.setAttribute('cx', xs(cfg.x[best])); hit.setAttribute('cy', ys(cfg.y[best])); hit.setAttribute('visibility', 'visible');
+    showTip(el, xs(cfg.x[best]), ys(cfg.y[best]), cfg.dates[best], [{ cls: 'c1', value: spct(cfg.y[best]), label: 'CRWV 超额收益' }, { cls: 'c2', value: spct(cfg.x[best]), label: '标普 500 超额收益' }]);
+  });
+  ov.addEventListener('pointerleave', () => { hideTip(el); hit.setAttribute('visibility', 'hidden'); });
+}
+
+/* ---------- data prep ---------- */
+const S = DATA.series, Q = DATA.quarterly;
+const qLabels = Q.map(r => r.q.replace(/^20(\d\d)Q(\d)$/, '$1Q$2'));
+const CAT = { earnings: '财报', contract: '合同/客户', financing: '融资', strategic: '战略/股东', mna: '并购', supply: '股票供给', macro: '宏观', sector: '行业溢出', credit: '信用' };
+const EV = DATA.events.map((e, i) => ({ ...e, n: i + 1 }));
+const idxOf = d => S.date.indexOf(d);
+
+/* ---------- tables ---------- */
+function fillRows(tbody, rows) {
+  rows.forEach(cells => {
+    const tr = document.createElement('tr');
+    cells.forEach(c => {
+      const td = document.createElement('td');
+      if (typeof c === 'object' && c !== null) {
+        if (c.n) td.className = 'n';
+        if (c.cls) td.className = (td.className + ' ' + c.cls).trim();
+        if (c.href) { const a = document.createElement('a'); a.href = c.href; a.textContent = c.text; a.target = '_blank'; a.rel = 'noopener'; td.appendChild(a); }
+        else td.textContent = c.text;
+      } else td.textContent = c;
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+fillRows(document.querySelector('#tbl-q tbody'), Q.map(r => [
+  qLabels[Q.indexOf(r)], { n: 1, text: num(r.revenue) }, { n: 1, text: r.yoy === null ? '—' : spct(r.yoy, 0) },
+  { n: 1, text: num(r.adj_ebitda) }, { n: 1, text: pct(r.ebitda_margin, 0) }, { n: 1, text: num(r.adj_op_income) }, { n: 1, text: pct(r.aoi_margin, 0) },
+  { n: 1, text: num(r.interest) }, { n: 1, text: num(r.net_loss), cls: 'neg-t' }, { n: 1, text: r.active_mw ? (r.q === '2025Q4' ? '>850' : r.q === '2026Q1' ? '>1,000' : num(r.active_mw)) : '—' }]));
+fillRows(document.querySelector('#tbl-debt tbody'), DATA.debt_stack.map(d => [d[0], d[1], d[2], { n: 1, text: pct(d[3], 0) }, { n: 1, text: num(d[4]) }, d[5]]).concat([[{ text: '合计（本金）' }, '', '', { n: 1, text: '≈8.4%' }, { n: 1, text: num(DATA.debt_stack.reduce((s, d) => s + d[4], 0)) }, '']]));
+document.querySelector('#tbl-debt tbody').lastElementChild.className = 'tot';
+fillRows(document.querySelector('#tbl-cov tbody'), Q.filter(r => r.q >= '2024Q4').map(r => [
+  r.q.replace(/^20(\d\d)Q(\d)$/, '$1Q$2'), { n: 1, text: r.ebitda_cov.toFixed(2) + 'x' }, { n: 1, text: r.aoi_cov.toFixed(2) + 'x', cls: r.aoi_cov < 1 ? 'neg-t' : '' },
+  { n: 1, text: r.debt_to_ltm_ebitda ? r.debt_to_ltm_ebitda.toFixed(1) + 'x' : '—' }, { n: 1, text: r.net_debt_to_ann_ebitda ? r.net_debt_to_ann_ebitda.toFixed(1) + 'x' : '—' },
+  { n: 1, text: r.current_ratio ? r.current_ratio.toFixed(2) : '—' }, { n: 1, text: r.fcf !== null && r.fcf !== undefined ? num(r.fcf) : '—', cls: r.fcf < 0 ? 'neg-t' : '' }]));
+fillRows(document.querySelector('#tbl-lev tbody'), DATA.leverage_table.map(l => [
+  { text: l.chg === 0 ? '基准（Q2’26）' : spct(l.chg, 0) }, { n: 1, text: num(l.revenue) }, { n: 1, text: num(l.ebitda) }, { n: 1, text: l.chg === 0 ? '—' : spct(l.ebitda_chg, 0) },
+  { n: 1, text: num(l.aoi), cls: l.aoi < 0 ? 'neg-t' : '' }, { n: 1, text: num(l.pretax), cls: l.pretax < 0 ? 'neg-t' : '' }, { n: 1, text: l.cov.toFixed(2) + 'x' }]));
+(() => {
+  const sc = DATA.scenarios, ks = ['bear', 'base', 'bull'];
+  const rows = [
+    ['情景描述', k => sc[k].desc],
+    ['收入', k => num(sc[k].revenue)],
+    ['调整后 EBITDA 利润率', k => pct(sc[k].margin, 0)],
+    ['调整后 EBITDA', k => num(sc[k].ebitda)],
+    ['折旧摊销（假设）', k => num(sc[k].dna)],
+    ['平均融资利率（假设）', k => pct(sc[k].rate, 1)],
+    ['利息支出', k => num(sc[k].interest)],
+    ['EBITDA / 利息', k => sc[k].cov.toFixed(2) + 'x'],
+    ['税前利润（≈EBIT − 利息）', k => num(sc[k].pretax)],
+    ['2027 年资本开支（假设）', k => num(sc[k].capex27)],
+    ['融资前自由现金流', k => num(sc[k].fcf_pre_fin)],
+    ['净债务 / 2027E EBITDA', k => sc[k].lev.toFixed(1) + 'x'],
+    ['每股价值 @6x EV/EBITDA', k => usd(sc[k].equity_by_multiple['6'].per_share, 0)],
+    ['每股价值 @8x', k => usd(sc[k].equity_by_multiple['8'].per_share, 0)],
+    ['每股价值 @10x', k => usd(sc[k].equity_by_multiple['10'].per_share, 0)],
+  ];
+  const tb = document.querySelector('#tbl-scen tbody');
+  rows.forEach(([lab, f], i) => {
+    const tr = document.createElement('tr');
+    const th = document.createElement('td'); th.textContent = lab; tr.appendChild(th);
+    ks.forEach(k => { const td = document.createElement('td'); td.className = i === 0 ? 'small' : 'n'; td.textContent = f(k); tr.appendChild(td); });
+    if (lab.startsWith('每股价值 @8x')) tr.className = 'tot';
+    tb.appendChild(tr);
+  });
+  const hd = document.querySelector('#tbl-scen thead tr');
+  ks.forEach((k, i) => { hd.children[i + 1].textContent = sc[k].label; });
+})();
+fillRows(document.querySelector('#tbl-grid tbody'), DATA.grid.map(r => [num(r.revenue / 100, 0) + ' 亿美元', ...r.cells.map(c => ({ n: 1, text: usd(c.per_share_8x, 0), cls: c.per_share_8x < 61.12 ? 'neg-t' : '' }))]));
+fillRows(document.querySelector('#tbl-refi tbody'), DATA.refi.map(r => [pct(r.yield, 2), { n: 1, text: num(r.annual_interest) }, { n: 1, text: r.vs_975 === 0 ? '—' : '+' + num(r.vs_975) }]));
+fillRows(document.querySelector('#tbl-events tbody'), EV.map(e => [
+  { text: String(e.n) }, { text: e.day0, cls: 'num nw' }, { text: e.title, href: e.source, cls: 'w' }, { text: CAT[e.category], cls: 'nw' },
+  { n: 1, text: spct(e.ret_crwv), cls: e.ret_crwv < 0 ? 'neg-t' : 'pos-t' }, { n: 1, text: spct(e.ret_spx) },
+  { n: 1, text: spct(e.ar), cls: (e.ar < 0 ? 'neg-t' : 'pos-t') + (Math.abs(e.ar_t) > 1.96 ? ' sig' : '') },
+  { n: 1, text: e.ar_t.toFixed(1), cls: Math.abs(e.ar_t) > 1.96 ? 'sig' : '' }, { n: 1, text: spct(e.ret_nbis) }]));
+
+/* ---------- charts ---------- */
+const charts = {
+  'ch-rev': el => barChart(el, { labels: qLabels, series: [{ label: '收入', values: Q.map(r => r.revenue), cls: 'f1' }], yfmt: v => num(v), tfmt: v => '$' + num(v) + 'M', vfmt: v => num(v), valueLabels: (i) => i === Q.length - 1 || i === 3 || i === 7, height: 230, aria: '季度收入柱状图' }),
+  'ch-backlog': el => barChart(el, { labels: qLabels.slice(3), series: [{ label: '收入积压', values: Q.slice(3).map(r => r.backlog_bn), cls: 'f1' }], yfmt: v => num(v), tfmt: v => '$' + num(v, 1) + 'B', vfmt: v => num(v, 1), valueLabels: true, height: 230, aria: '收入积压柱状图' }),
+  'ch-margin': el => lineChart(el, { x: qLabels, labels: qLabels, series: [
+    { label: '调整后 EBITDA 利润率', values: Q.map(r => r.ebitda_margin), cls: 'c1' },
+    { label: '调整后营业利润率', values: Q.map(r => r.aoi_margin), cls: 'c3' },
+    { label: 'GAAP 净利润率', values: Q.map(r => r.net_margin), cls: 'c2' }], yfmt: v => pct(v, 0), points: true, height: 260, aria: '利润率折线图' }),
+  'ch-cash': el => barChart(el, { labels: qLabels, series: [{ label: '经营现金流', values: Q.map(r => r.cfo), cls: 'f1' }, { label: '资本开支（现金）', values: Q.map(r => r.capex), cls: 'f2' }], yfmt: v => num(v), tfmt: v => '$' + num(v) + 'M', height: 250, aria: '经营现金流与资本开支' }),
+  'ch-debttype': el => hbarChart(el, { items: Object.entries(DATA.debt_stack.reduce((o, d) => { o[d[1]] = (o[d[1]] || 0) + d[4]; return o; }, {})).sort((a, b) => b[1] - a[1]).map(([k, v]) => ({ label: k, v, cls: 'f1', sub: pct(v / 35551, 1) + ' 占比' })), fmt: v => num(v), tfmt: d => '$' + num(d.v) + 'M', labelWidth: 96, row: 30, aria: '债务类型构成' }),
+  'ch-maturity': el => barChart(el, { labels: DATA.maturities.map(d => d[0] === '2026H2' ? '26下半年' : d[0]), series: [{ label: '到期本金', values: DATA.maturities.map(d => d[1]), cls: 'f1' }], yfmt: v => num(v), tfmt: v => '$' + num(v) + 'M', vfmt: v => num(v / 1000, 1) + 'B', valueLabels: true, height: 230, aria: '债务到期时间表' }),
+  'ch-cov': el => { const qq = Q.filter(r => r.q >= '2024Q1'); const lab = qq.map(r => r.q.replace(/^20(\d\d)Q(\d)$/, '$1Q$2')); lineChart(el, { x: lab, labels: lab, series: [{ label: 'EBITDA/利息', values: qq.map(r => r.ebitda_cov), cls: 'c1' }, { label: '调整后营业利润/利息', values: qq.map(r => r.aoi_cov), cls: 'c2' }], yfmt: v => v.toFixed(1) + 'x', refs: [{ y: 1, label: '1.0x' }], points: true, height: 240, aria: '利息保障倍数' }); },
+  'ch-factor': el => { const F = DATA.factor_betas; const names = { qqq: '纳斯达克100', smh: '半导体ETF', nvda: '英伟达', msft: '微软', orcl: '甲骨文', nbis: 'Nebius' }; const items = [{ label: '标普500', v: 2.754, sub: 'R² 16.5%', cls: 'f1' }].concat(Object.entries(F).map(([k, x]) => ({ label: names[k], v: x.beta, sub: 'R² ' + pct(x.r2, 1) + '，相关系数 ' + x.corr.toFixed(2), cls: 'f1' }))); hbarChart(el, { items, fmt: v => v.toFixed(2), labelWidth: 92, row: 28, aria: '对不同基准的贝塔' }); },
+  'ch-risk': el => stackChart(el, { items: [{ label: '单指数（日度）', share: 0.165 }, { label: '单指数（周度）', share: 0.072 }, { label: '大盘 + AI 因子', share: 0.209 }, { label: '+ 新云同业因子', share: 0.418 }], aria: '模型可解释风险占比' }),
+  'ch-price': el => lineChart(el, { x: S.date, series: [{ label: 'CRWV', values: S.crwv_idx, cls: 'c1', endLabel: true }, { label: '标普 500', values: S.spx_idx, cls: 'c2', endLabel: true }], yfmt: v => num(v), ylog: true, logTicks: [50, 75, 100, 150, 200, 300, 400, 500], refs: [{ y: 100, label: '上市日 = 100' }], height: 300, aria: '累计表现对比' }),
+  'ch-vol': el => lineChart(el, { x: S.date, series: [{ label: 'CRWV 21日', values: S.vol21_crwv, cls: 'c1' }, { label: 'CRWV GARCH', values: S.garch_crwv, cls: 'c3', thin: true }, { label: '标普 21日', values: S.vol21_spx, cls: 'c2' }], yfmt: v => pct(v, 0), height: 280, aria: '滚动波动率' }),
+  'ch-scatter': el => scatterChart(el, { x: DATA.scatter.x, y: DATA.scatter.y, dates: S.date.slice(1), a: 0.0013, b: 2.7537, height: 300, aria: '超额收益散点图' }),
+  'ch-beta': el => lineChart(el, { x: S.date, series: [{ label: '63日滚动β', values: S.beta63, cls: 'c1' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), refs: [{ y: 2.75, label: '全样本 2.75' }], height: 240, aria: '滚动贝塔' }),
+  'ch-corr': el => lineChart(el, { x: S.date, series: [{ label: '与标普500', values: S.corr63, cls: 'c2' }, { label: '与Nebius', values: S.corr63_nbis, cls: 'c7' }], yfmt: v => v.toFixed(1), tfmt: v => v.toFixed(2), yMin: 0, yMax: 1, height: 240, aria: '滚动相关系数' }),
+  'ch-hist': el => { const H = DATA.hist; const tot = H.crwv.reduce((a, b) => a + b, 0); const sg = v => (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(Math.round(v * 100)) + '%'; const labs = H.bins.slice(0, -1).map((b, i) => sg(b) + ' 至 ' + sg(H.bins[i + 1])); const ax = H.bins.slice(0, -1).map(b => Math.abs(Math.round(b * 100)) % 10 === 0 ? sg(b) : ''); barChart(el, { labels: labs, axisLabels: ax, series: [{ label: 'CRWV', values: H.crwv.map(v => v / tot), cls: 'f1' }, { label: '标普 500', values: H.spx.map(v => v / tot), cls: 'f2' }], yfmt: v => pct(v, 0), tfmt: v => pct(v, 1) + ' 的交易日', height: 250, aria: '日收益分布' }); },
+  'ch-dd': el => lineChart(el, { x: S.date, series: [{ label: 'CRWV', values: S.dd_crwv, cls: 'c1', area: 'area1' }, { label: '标普 500', values: S.dd_spx, cls: 'c2' }], yfmt: v => pct(v, 0), yMax: 0, height: 240, aria: '回撤' }),
+  'ch-iv': el => { const T = (DATA.iv.term || []); const lab = T.map(t => t.expiry.slice(5).replace('-', '/')); lineChart(el, { x: lab, labels: lab, series: [{ label: '平值隐含波动率', values: T.map(t => t.atm_iv), cls: 'c1' }], yfmt: v => pct(v, 0), refs: [{ y: 0.887, label: '21日已实现 89%' }, { y: 1.172, label: 'GARCH 117%' }], points: true, yMin: 0.7, yMax: 1.25, height: 240, aria: '隐含波动率期限结构' }); },
+  'ch-events': el => {
+    const markers = EV.map(e => { const i = idxOf(e.day0); return { i, n: e.n, up: e.ar >= 0, cls: e.ar >= 0 ? 'fpos' : 'fneg', title: `#${e.n} ${e.day0} · ${CAT[e.category]}`, aria: `事件${e.n} ${e.title}`, desc: e.title, rows: [{ cls: e.ret_crwv >= 0 ? 'fpos' : 'fneg', value: spct(e.ret_crwv), label: 'CRWV 当日' }, { cls: 'c2', value: spct(e.ret_spx), label: '标普 500' }, { cls: e.ar >= 0 ? 'fpos' : 'fneg', value: spct(e.ar), label: `异常收益（t=${e.ar_t.toFixed(1)}）` }] }; }).filter(mk => mk.i >= 0);
+    lineChart(el, { x: S.date, series: [{ label: 'CRWV 收盘价', values: S.crwv, cls: 'c1' }], yfmt: v => '$' + num(v), tfmt: v => usd(v), markers, height: 360, yMin: 20, yMax: 220, aria: '股价与事件' });
+  },
+  'ch-ar': el => hbarChart(el, { items: EV.map(e => ({ label: `${e.n}. ${e.short}`, v: e.ar, title: `#${e.n} ${e.day0}`, sub: `t = ${e.ar_t.toFixed(1)}`, desc: e.title })), fmt: v => spct(v, 0), tfmt: d => spct(d.v, 1), labelWidth: 150, row: 21, aria: '各事件异常收益' }),
+  'ch-cat': el => { const g = {}; EV.forEach(e => { (g[e.category] = g[e.category] || []).push(e); }); const items = Object.entries(g).map(([k, arr]) => ({ label: `${CAT[k]}（${arr.length}/${arr.filter(e => Math.abs(e.ar_t) > 1.96).length}）`, v: arr.reduce((s, e) => s + e.ar, 0) / arr.length, sub: '平均异常收益' })).sort((a, b) => b.v - a.v); hbarChart(el, { items, fmt: v => spct(v, 0), tfmt: d => spct(d.v, 1), labelWidth: 120, row: 28, aria: '按类别平均异常收益' }); },
+};
+function renderAll() {
+  for (const id in charts) { const el = document.getElementById(id); if (!el) continue; try { charts[id](el); } catch (err) { console.error(id, err); } }
+}
+renderAll();
+let lastW = window.innerWidth, rt;
+window.addEventListener('resize', () => { if (Math.abs(window.innerWidth - lastW) < 8) return; lastW = window.innerWidth; clearTimeout(rt); rt = setTimeout(renderAll, 150); });
+document.addEventListener('pointerdown', ev => { if (!ev.target.closest('.chart-box')) document.querySelectorAll('.tt').forEach(t => t.hidden = true); });
+
+/* ---------- section rail highlight ---------- */
+(() => {
+  const links = [...document.querySelectorAll('.rail a')];
+  const secs = links.map(a => document.querySelector(a.getAttribute('href')));
+  const io = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting) { links.forEach(l => l.classList.toggle('on', l.getAttribute('href') === '#' + e.target.id)); const on = links.find(l => l.classList.contains('on')); const bar = document.querySelector('.rail .wrap'); if (on && bar) bar.scrollLeft = on.offsetLeft - bar.clientWidth / 2 + on.offsetWidth / 2; } });
+  }, { rootMargin: '-45% 0px -50% 0px' });
+  secs.forEach(s => s && io.observe(s));
+  const h = location.hash && document.querySelector(location.hash);
+  if (h) setTimeout(() => h.scrollIntoView(), 60);
+})();
+</script>

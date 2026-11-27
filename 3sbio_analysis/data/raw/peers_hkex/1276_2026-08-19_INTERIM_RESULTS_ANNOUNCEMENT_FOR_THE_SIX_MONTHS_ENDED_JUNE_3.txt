@@ -1,0 +1,5417 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility 
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly 
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the 
+contents of this announcement.
+
+Jiangsu Hengrui Pharmaceuticals Co., Ltd.
+江 蘇 恒 瑞 醫 藥 股 份 有 限 公 司
+(A joint stock company incorporated in the People’s Republic of China with limited liability)
+(Stock Code: 1276)
+
+INTERIM RESULTS ANNOUNCEMENT FOR
+THE SIX MONTHS ENDED  JUNE 30, 2026
+
+The  board  (the  “Board”)  of  directors  (the  “Directors”)  of  Jiangsu  Hengrui  Pharmaceuticals 
+Co.,  Ltd.  (the  “Company”)  is  pleased  to  announce  the  unaudited  interim  results  of  the 
+Company  and  its  subsidiaries  for  the  six  months  ended  June  30,  2026.  This  announcement, 
+containing  the  full  text  of  the  2026  interim  report  of  the  Company,  is  prepared  with  reference 
+to  the  relevant  requirements  of  the  Rules  Governing  the  Listing  of  Securities  on  The  Stock 
+Exchange  of  Hong  Kong  Limited  in  relation  to  preliminary  announcements  of  interim 
+results.  The  Company’s  2026  interim  report  is  available  for  viewing  on  the  websites  of  The 
+Stock  Exchange  of  Hong  Kong  Limited  at  https://www.hkexnews.hk  and  of  the  Company  at  
+http://www.hengrui.com.
+
+By order of the Board
+Jiangsu Hengrui Pharmaceuticals Co., Ltd.
+江蘇恒瑞醫藥股份有限公司
+Mr. Sun Piaoyang
+Chairman
+
+Shanghai, PRC
+August 19, 2026
+
+As at the date of this announcement, the Board comprises: (i) Mr. Sun Piaoyang, Mr. Dai Hongbin, 
+Ms. Feng Ji, Mr. Zhang Lianshan, Mr. Jiang Frank Ningjun and Mr. Sun Jieping as executive 
+Directors; (ii) Ms. Guo Congzhao as non-executive Director; and (iii) Mr. Lou Liguang, Mr. Zeng 
+Qingsheng, Mr. Sun Jinyun and Mr. Chow Kyan Mervyn as independent non-executive Directors.
+
+CONTENTS
+
+Corporate Information
+
+Financial Highlights
+
+Corporate Overview
+
+Management Discussion and Analysis
+
+Corporate Governance and Other Information
+
+Interim Condensed Consolidated Statements of Profit or Loss and 
+  Other Comprehensive Income
+
+Interim Condensed Consolidated Statements of Financial Position
+
+Interim Condensed Consolidated Statements of Changes in Equity
+
+Interim Condensed Consolidated Statements of Cash Flows
+
+Notes to the Unaudited Condensed Interim Financial Information
+
+Definitions and Glossary
+
+2
+
+4
+
+5
+
+7
+
+38
+
+50
+
+52
+
+54
+
+56
+
+58
+
+76
+
+2
+
+BOARD OF DIRECTORS
+
+Executive Directors
+
+Mr. Sun Piaoyang (Chairman of the Board)
+Mr. Dai Hongbin (Deputy Chairman of the Board)
+Ms. Feng Ji (General Manager (President) 
+  and Chief Operating Officer)
+Mr. Zhang Lianshan (Executive Vice President)
+Mr. Jiang Frank Ningjun (Executive Vice President 
+  and Chief Strategy Officer)
+Mr. Sun Jieping (Senior Vice President)
+
+Non-executive Director
+
+Ms. Guo Congzhao
+
+Independent Non-executive Directors
+
+Mr. Lou Liguang1
+Mr. Zeng Qingsheng
+Mr. Sun Jinyun
+Mr. Chow Kyan Mervyn
+Mr. Dong Jiahong1
+
+AUDIT COMMITTEE
+
+Mr. Zeng Qingsheng (Chairperson)
+Mr. Sun Jinyun
+Mr. Lou Liguang1
+Mr. Chow Kyan Mervyn1
+Mr. Dong Jiahong1
+
+REMUNERATION AND EVALUATION  
+  COMMITTEE
+
+Mr. Sun Jinyun (Chairperson)
+Mr. Dai Hongbin
+Mr. Zeng Qingsheng
+
+NOMINATION COMMITTEE
+
+Mr. Sun Jinyun (Chairperson)2
+Ms. Feng Ji2
+Mr. Zeng Qingsheng2
+Mr. Dong Jiahong1 (Ex-Chairperson)
+Mr. Sun Piaoyang2
+
+STRATEGY COMMITTEE
+
+Mr. Sun Piaoyang (Chairperson)
+Mr. Dai Hongbin
+Mr. Zhang Lianshan
+Mr. Jiang Frank Ningjun
+Ms. Guo Congzhao
+Mr. Lou Liguang1
+Mr. Dong Jiahong1
+
+COMPANY SECRETARY3
+
+Ms. Leung Wing Han Sharon
+
+AUTHORIZED REPRESENTATIVES
+
+Ms. Feng Ji
+Ms. Leung Wing Han Sharon
+
+REGISTERED OFFICE
+
+No. 38 Huanghe Road
+Economic and Technological
+Development Zone
+Lianyungang City
+Jiangsu Province
+PRC
+
+HEADQUARTERS
+
+No. 7 Kunlunshan Road
+Economic and Technological
+Development Zone
+Lianyungang City
+Jiangsu Province
+PRC
+
+PRINCIPAL PLACE OF BUSINESS IN  
+  HONG KONG
+
+Room 1920, 19/F
+Lee Garden One
+33 Hysan Avenue
+Causeway Bay
+Hong Kong
+
+1 
+
+2 
+
+3 
+
+Mr. Dong Jiahong retired as an independent non-executive Director, a member of the Audit Committee, the chairperson of the Nomination 
+Committee, and a member of the Strategy Committee with effect from April 16, 2026. Mr. Lou Liguang was appointed as an independent 
+non-executive Director, a member of the Audit Committee, and a member of the Strategy Committee with effect from April 16, 2026. Mr. 
+Chow Kyan Mervyn was appointed as a member of the Audit Committee with effect from April 16, 2026.
+Mr. Sun Piaoyang retired as a member of the Nomination Committee with effect from April 16, 2026. Ms. Feng Ji and Mr. Zeng Qingsheng 
+were respectively appointed as a member of the Nomination Committee, and Mr. Sun Jinyun was appointed as the chairperson of the 
+Nomination Committee with effect from the same date.
+Ms. Liu Xiaohan resigned as a joint company secretary of the Company with effect from August 19, 2026.
+
+Corporate InformationJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 20263
+
+LISTING DATE
+
+Shanghai Stock Exchange
+October 18, 2000
+
+Hong Kong Stock Exchange
+May 23, 2025
+
+PRINCIPAL BANKS
+
+Bank of China
+Lianyungang Economic and Technological
+Development Zone Sub-Branch
+No. 15 Kunlunshan Road
+Economic & Technological Development Zone
+Lianyungang City
+Jiangsu Province
+PRC
+
+Bank of Communications
+Lianyungang Branch
+No. 45 Huanghe Road
+Economic & Technological Development Zone
+Lianyungang City
+Jiangsu Province
+PRC
+
+H SHARE REGISTRAR
+
+Tricor Investor Services Limited
+17/F, Far East Finance Centre
+16 Harcourt Road
+Hong Kong
+
+COMPLIANCE ADVISOR
+
+Somerley Capital Limited
+20/F China Building
+29 Queen’s Road Central
+Hong Kong
+
+AUDITOR
+
+Ernst & Young
+Certified Public Accountants
+Registered Public Interest Entity Auditor
+27/F, One Taikoo Place
+979 King’s Road
+Quarry Bay, Hong Kong
+
+HONG KONG LEGAL ADVISER
+
+Cleary Gottlieb Steen & Hamilton (Hong Kong)
+37/F, Hysan Place
+500 Hennessy Road
+Causeway Bay
+Hong Kong
+
+COMPANY WEBSITE
+
+www.hengrui.com
+
+STOCK OVERVIEW
+
+A Share
+Shanghai Stock Exchange
+Stock Abbreviation: 恒瑞醫藥
+Stock code: 600276
+
+H Share
+Hong Kong Stock Exchange
+Stock Abbreviation: Hengrui Pharma
+Stock code: 1276
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Corporate Information4
+
+During the Reporting Period, the Group recorded the following unaudited results:
+
+For the six months 
+ended June 30,
+2026
+(unaudited)
+(RMB’000)
+
+2025
+(unaudited)
+(RMB’000)
+
+Change
+
+15,455,584
+
+15,761,194
+
+-1.9%
+
+Financial results
+Revenue
+Of which:
+
+Revenue from sales of innovative drugs
+Licensing revenue
+
+Gross profit
+Profit for the period attributable to owners of the parent
+
+8,809,344
+1,422,302
+13,342,241
+4,465,439
+
+7,569,762
+1,991,095
+13,646,232
+4,450,107
+
+16.4%
+-28.6%
+-2.2%
+0.3%
+
+-2.9%
+-2.9%
+
+0.70
+0.70
+
+86.6%
+28.3%
+
+-0.3 p.p.
+0.6 p.p.
+
+Earnings per share (in RMB)
+
+– Basic
+– Diluted
+
+Financial ratios
+Gross margin
+Net profit margin
+
+0.68
+0.68
+
+86.3%
+28.9%
+
+Financial position
+Total assets
+Net assets
+Equity attributable to owners of the parent
+Total liabilities
+
+Financial ratios
+Gearing ratio
+
+June 30, 
+2026
+(unaudited)
+(RMB’000)
+
+December 31, 
+2025
+(audited)
+(RMB’000)
+
+70,773,122
+64,989,741
+64,466,431
+5,783,381
+
+69,867,316
+61,796,823
+61,272,068
+8,070,493
+
+Change
+
+1.3%
+5.2%
+5.2%
+-28.3%
+
+8.2%
+
+11.6%
+
+-3.4 p.p.
+
+Financial HighlightsJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 20265
+
+Hengrui Pharma is a global innovative pharmaceutical company. The Company has been ranked among the global Top 
+50 pharmaceutical companies by Pharm Exec for seven consecutive years since 2019. According to the 2026 pipeline 
+size ranking published by Citeline, the Company ranked second globally in terms of the scale of its self-developed drug 
+pipeline. The Company continues to execute its “technology and innovation-driven” development strategy, with a portfolio 
+of 26 Class 1 innovative drugs and six Class 2 innovative drugs approved for marketing in China, securing the Company’s 
+industry-leading position in innovative drug deliverables. The Company has established a self-reinforcing cycle for the 
+research and development (R&D) of its innovative drugs, with successive cohorts of drugs progressing through development, 
+clinical trials, and commercialization, demonstrating the Company’s robust independent R&D capabilities.
+
+The  Company  is  principally  engaged  in  the  R&D,  manufacturing  and  sale  of  pharmaceutical  products.  Adhering  to  a 
+patient-centric philosophy, the Company is dedicated to the R&D and promotion of innovative drugs, with the objective of 
+addressing unmet clinical needs.
+
+The Company has established industry-leading, fully-integrated pharmaceutical platforms, which have been deployed 
+extensively across multiple therapeutic areas to drive in-depth advancement. Notably, the Company’s robust oncology 
+R&D pipeline covers a broad spectrum of research areas, including kinase inhibitors, antibody-drug conjugates (ADCs), 
+immuno-oncology, hormone receptor modulators, and supportive care. By focusing on the development of combinatorial 
+and  sequential  therapies  designed  for  multiple  targets,  the  Company  aims  to  enhance  response  rates  and  achieve  a 
+more durable therapeutic effect. Additionally, the Company has established diversified strategic pillars in metabolic and 
+cardiovascular diseases, immunology and respiratory diseases, and neuroscience to support its long-term growth strategy.
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Corporate Overview6
+
+OUR PIPELINE ACROSS THERAPEUTIC AREAS
+
+Small molecule
+
+Apatinib
+VEGFR
+GAC / GEJA / HCC / BC
+
+Pyrotinib
+EGFR / HER2 / HER4
+BC / NSCLC
+
+Fuzuloparib
+PARP1/2
+OC / FTC / PPC / BC /
+mCRPC
+
+Dalpiciclib
+CDK4/6
+BC
+
+Rezvilutamide
+AR
+mHSPC
+
+3
+
+3
+
+3
+
+Mecapegﬁlgrastim
+PEG -G-CSF
+CIN
+
+Hetrombopag
+TPO -R
+AA1 / ITP / CIT / CLD /
+Thrombocytopenia
+
+Famitinib
+VEGFR2 / c-Kit / PDGFR 
+CC
+
+Fosrolapitant and
+Palonosetron Hydrochloride
+NK-1RA / 5-HT3RA
+CINV
+
+Zeprumetostat
+EZH2
+Lymphoma
+
+HRS-4642
+KRAS G12D
+Solid tumors
+
+HRS-8080
+SERD
+BC
+
+HRS-7058
+KRAS G12C
+Solid tumors
+
+HRS-6209
+CDK4
+BC
+
+HRS-2189
+KAT6
+BC
+
+HRS-6208
+Solid tumors
+
+HRS-4508
+Solid tumors
+
+HRS-2329
+Solid tumors
+
+HRS-3738
+CRBN-E3
+MM / NHL
+
+HRS-1635
+B-cell 
+lymphoma
+
+Oncology
+
+Metabolic and cardiovascular diseases
+
+Immunological and Respiratory Disease
+
+Neuroscience and others
+
+Monoclonal antibody
+
+ADC
+
+Metabolism
+
+Cardiovascular
+
+Immune
+
+Respiratory system
+
+Neuroscience
+
+Others
+
+Camrelizumab
+PD-1
+cHL / HCC / NSCLC / NPC
+/ CC / EC
+
+Adebrelimab
+PD-L1
+SCLC / NSCLC / CC /
+HCC / GAC / EC / BTC
+
+SHR-2005
+Bladder
+cancer
+
+SHR-2524
+HCC
+
+SHR-4506
+Hematological
+neoplasms and
+advanced solid
+tumors
+
+Bi-/multi-speciﬁc antibodies
+
+SHR-2017
+Prevention of 
+SRE in solid
+tumors
+
+SHR-9839
+Solid tumors
+
+SHR-7787
+Solid tumors
+
+SHR-5421
+MM
+
+SHR-9539
+MM
+
+SHR-3079
+B-cell 
+lymphoma
+
+SHR-3821
+Solid tumors
+
+SHR-3836 
+MM
+
+SHR-9803
+Solid tumors
+Solid tumors
+
+SHR-4298
+Solid tumors
+
+SHR-4712
+Solid tumors
+
+SHR-4610
+Solid tumors
+
+3
+
+Trastuzumab rezetecan
+HER2 ADC
+BC / GAC / GEJA /
+NSCLC / CRC / BTC /
+Gynecologic tumors
+SHR-A2102 
+Nectin-4 ADC
+UC 1/ NSCLC / EC /
+Gynecologic tumors / HNSCC
+
+Retagliptin
+DPP-4
+T2D
+
+Henagliﬂozin
+SGLT-2
+T2D / CKD
+
+SHR-A1904
+Claudin 18.2 ADC
+GAC / GEJA / PDAC
+
+HRX0701
+DPP-4 / Metformin
+T2D
+
+Recaticimab
+PCSK9
+Dyslipidemia
+
+SHR-1918
+ANGPTL3
+HoFH / Hypercholesterolemia / 
+Mixed hyperlipidemia / 
+Hypertriglyceridemia
+SHR-2004
+FXI
+VTE prevention
+
+SHR-A2009
+HER3 ADC
+NSCLC
+
+SHR-A1912
+CD79b ADC
+B-cell lymphoma
+
+SHR-1826
+c-Met ADC
+Solid tumors including
+NSCLC
+
+SHR-4849
+DLL3 ADC
+Solid tumors
+
+SHR-4394
+PC
+
+SHR-4375
+Tf ADC
+Solid tumors
+
+SHR-1681
+Solid tumors
+
+SHR-7782
+Solid tumors
+
+Ruzinurad sodium
+URAT1
+Gout with hyperuricemia
+
+HRS-1893
+Myosin
+HCM/HF
+
+Insulin sudelidec
+Insulin
+T2D
+
+Ribupatide
+GLP-1 / GIP
+Overweight / Obesity /
+T2D / HF / OSA / PCOS
+
+HR17031
+Insulin / GLP-1
+T2D
+
+HRS-7535
+GLP-1
+Overweight / Obesity /
+T2D / CKD / HF / Hypertension
+
+HRS-1780
+Mineralocorticoid
+CKD / Primary aldosteronism
+
+HRS-5346
+Lp(a)
+Lipoprotein disorder
+
+HRS-7249
+HL / Hypertriglyceridemia
+
+HRS-1301
+HL
+
+HRS-9057
+Fluid retention
+
+HRS-5632
+Lipoprotein disorder
+
+SHR-4658
+HF
+
+HRS-5765
+HF
+
+HRS-7156
+HF
+
+SHR-3167
+Diabetes
+
+HRS-4729
+GLP-1 / GIP / GCG
+MASH / Obesity
+
+HRS-5817
+Overweight / Obesity
+
+HRS-2906
+Overweight / Obesity
+
+SHR -1703
+IL-5
+Eosinophilic asthma
+/ EGPA
+
+SHR -1905
+TSLP
+Asthma / COPD /
+CRSwNP / AD
+
+RSS0343
+NCFB / COPD
+
+HRS -9813
+IPF / PPF
+
+HRS -9821
+PDE3/4
+COPD
+
+Tegileridine
+MOR
+Analgesia / Pain
+management
+Remimazolam
+GABAa
+Sedation / Anesthesia
+
+HRS-9231
+MRI detection
+
+Oteseconazole
+CYP51
+VVC
+
+SHR7280
+GnRH
+COH
+
+HRS-8427
+Ceﬁderocol derivatives
+cUTI / Lung infection
+
+HRS-9190
+Skeletal muscle relaxation for
+induction and maintenance
+of general anesthesia
+
+HRS-5635
+HBV siRNA
+CHB
+
+HRS9432
+Anidulafungin
+derivatives
+Candidiasis
+
+HRS-7450
+AIS
+
+HRS-2129
+Pain management
+
+HRS5580
+NK1 
+PONV
+
+HRS-4029
+Acute ischemic stroke
+
+HRS-6257
+Pain
+
+Vunakizumab
+IL-17A
+PsO / PsA / AS / Nr-axSpA
+
+Imrecoxib
+COX2
+Osteoarthritis pain
+
+Ivarmacitinib
+JAK1
+AS / RA / PsA / AD/ AA2 / 
+Nr-axSpA / UC2 / Vitiligo
+
+HRS-5965
+Factor B
+IgAN / PNH
+
+SHR-1819
+IL-4Rα
+AD / PN / CSU /
+Seasonal allergic rhinitis
+
+RSS0393
+PsO / AD
+
+HRS-7085
+IBD
+
+SHR-1139
+PsO / UC2 / Pyoderma 
+gangrenosum
+
+SHR-2173
+SLE / Lupus Nephritis /
+Membranous Nephropathy /
+IgAN / Myasthenia gravis / ITP
+
+SHR-3045
+Rheumatoid arthritis
+
+HRS-3095
+Urticaria
+
+SHR-1894
+AD
+
+Commercialized
+
+A new drug marketing application
+has been submitted
+
+Phase III
+
+Phase II
+
+Phase I
+
+Breakthrough therapy
+designation/priority review by the NMPA
+
+Fast track designation
+by the U.S. FDA
+
+Orphan drug designation by
+the U.S. FDA/EMA
+
+HRS-7172
+Solid tumors
+
+HRS-6093
+Solid tumors
+
+HRS-8364
+Solid tumors
+
+PROTAC / RIPTAC
+
+HRS-5041
+AR PROTAC
+PC
+
+HRS-3005
+B-cell 
+malignancies
+
+HRS-7525
+PC
+
+Radionuclide drug conjugates
+
+HRS-4357
+PSMA
+mCRPC
+
+HRS-6768
+FAP-α
+FAP positive 
+solid tumors
+
+HRS-1738
+Prostate 
+cancer PET
+/CT imaging
+
+Fusion protein
+
+Retlirafusp alfa
+PD-L1 / TGF-β
+GAC / GEJA
+
+SHR-1501 
+IL-15
+Bladder
+cancer
+
+HRS-6213
+Solid tumor diagnosis
+
+Note: 1. This is a non-exhaustive list, with data statistics as of the end of the Reporting Period; 2. The clinical stage of each product/product 
+
+candidate represents the clinical stage of its most advanced indication(s); 3. The time period for obtaining regulatory pathway designations: from 
+
+2018 to the end of the Reporting Period.
+
+Abbreviations: AA1 = aplastic anemia; AA2 = alopecia areata; AD = atopic dermatitis; AIS = acute ischemic stroke; AS = ankylosing spondylitis; BC = 
+
+breast cancer; BTC = biliary tract cancer; CC = cervical cancer; CHB = chronic hepatitis B; cHL = classical Hodgkin lymphoma; CIN = chemotherapy-
+
+induced neutropenia; CINV = chemotherapy-induced nausea and vomiting; CIT = chemotherapy-induced thrombocytopenia; CKD = chronic kidney 
+
+disease; CLD = chronic liver disease; COPD = chronic obstructive pulmonary disease; COH = controlled ovarian hyperstimulation; CRC = colorectal 
+
+cancer; CRSwNP = chronic rhinosinusitis with nasal polyps; CSU = chronic spontaneous urticaria; cUTI = complicated urinary tract infection; DED 
+
+= dry eye disease; DKD = diabetic kidney disease; EC = esophageal cancer; EGPA = eosinophilic granulomatosis with polyangiitis; FTC = fallopian 
+
+tube cancer; GAC = gastric cancer; GEJA = gastroesophageal junction adenocarcinoma; GNB = Gram-negative bacteria; HCC = hepatocellular 
+
+carcinoma; HCM = hypertrophic cardiomyopathy; HF = heart failure; HL = hyperlipidemia; HPT = hyperparathyroidism; IBD = inflammatory bowel 
+
+disease; IgAN = IgA nephropathy; ILD = interstitial lung disease; IPF = idiopathic pulmonary fibrosis; ITP = immune thrombocytopenia; LC = lung 
+
+cancer; mCRPC = metastatic castration-resistant prostate cancer; mHSPC = metastatic hormone-sensitive prostate cancer; MM = multiple myeloma; 
+
+MRI = magnetic resonance imaging; NCFB = non-cystic fibrosis bronchiectasis; NHL = non-Hodgkin lymphoma; NPC = nasopharyngeal carcinoma; 
+
+Nr-axSpA = non-radiographic axial spondyloarthritis; NSCLC = non-small cell lung cancer; OC = ovarian cancer; OSA = obstructive sleep apnea; 
+
+PC = prostate cancer; PCOS = polycystic ovary syndrome; PDAC = pancreatic ductal adenocarcinoma; PN = prurigo nodularis; PNH = paroxysmal 
+
+nocturnal hemoglobinuria; PONV = postoperative nausea and vomiting; PPC = primary peritoneal cancer; PsA = psoriatic arthritis; PsO = psoriasis; 
+
+RA = rheumatoid arthritis; SCLC = small cell lung cancer; SLE = systemic lupus erythematosus; SpA = spondyloarthritis; SRE = skeletal-related events; 
+
+T2D = type 2 diabetes; UC1 = urothelial carcinoma; UC2 = ulcerative colitis; VTE = venous thromboembolism; VVC = vulvovaginal candidiasis.
+
+Corporate OverviewJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 20267
+
+INDUSTRY REVIEW
+
+In the first half of 2026, China’s pharmaceutical industry maintained stable growth momentum, driven jointly by the 
+continuous  refinement  of  the  policy  framework  and  accelerated  conversion  of  R&D  achievements  into  commercial 
+outcomes. The Chinese government continued to bolster comprehensive support across the entire value chain of the 
+innovative drugs industry, while the multi-tiered healthcare security system became increasingly well-established and the 
+industry development environment continued to improve. The globalization of Chinese innovative drugs continued to 
+gain momentum, with out-licensing transaction volumes achieving breakthrough growth and further elevating China’s 
+standing within the global industry landscape. However, intensifying regulatory oversight and rising governance standards 
+across  China’s  pharmaceutical  industry  placed  higher  demands  on  pharmaceutical  companies’  overall  operational 
+capabilities. Against this backdrop, the Company remained committed to its dual-pillar strategy of technological innovation 
+and  globalization,  proactively  capturing  opportunities  arising  from  industry  transformation  while  delivering  sustained 
+innovation outcomes, driving steady growth in innovative product revenue, advancing international business expansion and 
+collaboration, and maintaining an overall development trajectory that continues to improve.
+
+BUSINESS HIGHLIGHTS
+
+For the first half of 2026, the Company recorded revenue of RMB15,455.6 million, representing a year-over-year decrease 
+of  1.9%,  of  which  drug  sales  revenue  amounted  to  RMB13,948.1  million,  representing  a  year-over-year  increase  of 
+1.9%. Profit for the period attributable to shareholders of the Company amounted to RMB4,465.4 million, representing a 
+year-over-year increase of 0.3%.
+
+The Company continues to accelerate its innovation efforts with sustained high-level R&D investments. During the Reporting 
+Period, aggregate R&D investments reached RMB4,605.1 million, representing a year-over-year increase of 19.0%, including 
+R&D expenses amounting to RMB3,492.9 million (up 8.2% year-over-year).
+
+1.  Innovation outcomes continue to materialize, with revenue from innovative drug sales 
+
+sustaining continued growth
+
+For the first half of 2026, the Company generated RMB8,809.3 million in revenue from sales of innovative drugs, 
+representing a year-over-year increase of 16.4% and accounting for 63.2% of drug sales. Among revenue from sales 
+of innovative drugs, oncology products contributed RMB6,264.6 million, representing a year-over-year increase of 2.6% 
+and accounting for 71.1% of the sales of innovative drugs.
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis8
+
+The Company’s core innovative products delivered strong performance. Innovative drugs included in the National 
+Reimbursement Drug List (NRDL), such as rezvilutamide (second-generation AR antagonist) and dalpiciclib (CDK4/6 
+inhibitor), have precisely addressed unmet clinical needs. The compelling clinical data of these drugs, extensively 
+validated in practice, have continued to earn the trust of physicians and patients alike, driving robust revenue growth. 
+Fuzuloparib (PARP inhibitor) continued to deliver steady incremental revenue contributions to the Company, driven 
+by the ongoing approval of new indications that continually broaden its clinical applications. The first-time inclusion 
+of trastuzumab rezetecan (HER2 ADC) and other products in the NRDL this year rapidly improved patient accessibility 
+and resulted in significant sales volume expansion in the early stages of commercialization, leveraging their distinct 
+therapeutic advantages for specific patient populations, coupled with efficient market access strategies. However, 
+certain mature innovative products that have been on the market for a longer period experienced revenue declines. 
+In particular, products such as pyrotinib experienced revenue declines during the Reporting Period due to shifts in the 
+competitive landscape and intensifying competition from similar products. Apatinib and mecapegfilgrastim also saw 
+revenue declines due to price adjustments pursuant to NRDL renewal. As a result of these combined factors, overall 
+revenue from the Company’s innovative oncology drugs achieved only modest growth during the Reporting Period.
+
+Non-oncology innovative product revenue reached RMB2,544.8 million, representing a year-over-year increase of 
+74.0%, accounting for 28.9% of sales of innovative drugs.
+
+Sustained realization of clinical value in the metabolic therapeutic area
+
+Metabolic products including henagliflozin (SGLT-2 inhibitor), henagliflozin/metformin sustained-release tablets, and 
+retagliptin (DPP-4 inhibitor) have steadily gained recognition for their real-world value through clear demonstration 
+of clinical advantages, driving rapid growth during the Reporting Period. Among these, henagliflozin has become the 
+SGLT-2 inhibitor with the second-largest domestic market share in China.
+
+Accelerated volume expansion of immunology and cardiovascular products following NRDL inclusion
+
+Following  inclusion  in  the  NRDL,  autoimmune  products  ivarmacitinib  (JAK1  inhibitor)  and  vunakizumab  (IL-17A 
+inhibitor), as well as the cardiovascular product recaticimab (PCSK9 inhibitor), rapidly gained market traction by 
+leveraging their clear therapeutic advantages, achieving rapid growth during the Reporting Period and contributing 
+significant incremental revenue.
+
+Steady expansion in the anesthesia and analgesia therapeutic area
+
+Products such as remimazolam and tegileridine fumarate also achieved growth during the Reporting Period, further 
+enriching the revenue composition of the non-oncology product line.
+
+Overall, the non-oncology innovative drug segment delivered rapid revenue growth, driven by multiple growth drivers 
+across various therapeutic areas.
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 20269
+
+Looking ahead to the second half of the year, multiple growth drivers are progressively converging into a synergistic 
+force, which is expected to drive rapid growth in the Company’s innovative drug revenue.
+
+First, certain existing core products will continue to contribute to the Company’s growth momentum. As clinical 
+awareness continues to rise and physician prescriptions continue to accumulate, NRDL-listed core products such as 
+rezvilutamide and henagliflozin are expected to achieve steady growth in sales.
+
+Second, multiple flagship products are seeing major indication expansions this year. New indications approved in 
+the first half of the year, including trastuzumab rezetecan for second-line treatment of HER2-positive breast cancer, 
+dalpiciclib for adjuvant treatment of breast cancer, and adebrelimab for perioperative treatment of NSCLC, have 
+significantly expanded the addressable patient populations. The chemotherapy-induced thrombocytopenia (CIT) 
+indication for hetrombopag is expected to be approved in the second half of the year, further broadening its clinical 
+applications.
+
+Third, market access coverage at key hospitals is accelerating, and innovative products newly included in the NRDL 
+through national negotiations are expected to achieve further volume growth. As pharmaceutical management 
+committee meetings at key hospitals nationwide are progressively convened, innovative oncology drugs, including 
+trastuzumab rezetecan, fosrolapitant and palonosetron hydrochloride (ultra-long-acting antiemetic injection), famitinib 
+malate, abiraterone acetate tablets (II) and irinotecan hydrochloride liposome injection (II), along with non-oncology 
+innovative  drugs,  including  recaticimab,  ivarmacitinib,  vunakizumab  and  retagliptin  phosphate  and  metformin 
+hydrochloride tablets (I)/(II), all of which are products newly included in the NRDL, are expected to see further increases 
+in hospital coverage over the coming six months, providing solid channel support for rapid revenue growth.
+
+Fourth, as the industry’s emphasis on high-quality development continues to deepen, the Company continues to 
+strengthen its medical evidence-driven and market demand-oriented academic promotion model. Leveraging its 
+integrated data analytics platforms, the Company derives precise insights into clinical needs and deploys AI tools to 
+enable the personalized delivery of medical information, effectively improving prescription uptake. Meanwhile, end-
+to-end compliance traceability ensures the sound and steady operation of business. These capabilities are expected to 
+significantly shorten the cycle from product launch to scaled commercialization, providing robust commercialization 
+support for the rapid scaling of core products.
+
+2.  Centralized procurement risks for generic drugs continued to clear, resulting in a notable decline 
+
+in revenue
+
+During the Reporting Period, the Company recorded generic drug sales revenue of RMB5,138.8 million, representing 
+a year-over-year decrease of 16.1%. Generic drug business continued to be impacted by national and regional 
+centralized procurement policies, while the Company proactively scaled back resource allocation, further clearing 
+centralized procurement-related risks. Generic drug revenue as a proportion of total drug sales revenue declined from 
+44.7% in the prior-year period to 36.8% during the Reporting Period. Specifically, products such as butorphanol 
+and sevoflurane saw revenue declines as a result of the rollout of regional centralized procurement. Products already 
+subject  to  centralized  procurement,  such  as  albumin-bound  paclitaxel,  experienced  further  revenue  contraction 
+following  price  reductions  under  the  renewal  of  batches  1  through  8  of  the  national  centralized  procurement 
+program. Certain other generic drugs recorded meaningfully lower revenue contributions as the Company proactively 
+reallocated resources and strategically reduced investment in these products.
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis10
+
+3.  Globalization through out-licensing and partnerships of innovative drugs continued to deliver 
+
+strong results, with out-licensing projects continuing to materialize
+
+Business development and licensing collaborations for innovative drugs have become a well-established part of 
+the Company’s business. During the Reporting Period, licensing and collaboration business generated revenue of 
+RMB1,422.3 million, primarily comprising RMB1,176.1 million in licensing revenue from GSK, recognized based on the 
+progress of fulfillment of performance obligations during the Reporting Period, as well as milestone payments from 
+Braveheart Bio, among other items. Licensing revenue for the corresponding period of the previous year amounted to 
+RMB1,991.1 million, which was primarily attributable to the recognition of upfront payments from MSD of US$200.0 
+million and IDEAYA Biosciences of US$75.0 million at the point of fulfillment of the relevant performance obligations, 
+resulting in a high comparative base.
+
+During  the  Reporting  Period,  the  Company’s  out-licensing  activities  remained  highly  active.  In  May  2026,  the 
+Company entered into global strategic collaboration and license agreements with Bristol-Myers Squibb Company 
+(“BMS”), demonstrating the global competitiveness of its innovative pipeline. Under the terms of the agreements, 
+the parties will jointly advance 13 early-stage research programs, pursuant to which BMS will pay the Company up to 
+US$950.0 million (comprising a US$600.0 million upfront payment, a first anniversary payment of US$175.0 million, 
+and a second contingent anniversary payment of US$175.0 million in 2028), bringing the total potential transaction 
+value to up to approximately US$15.2 billion.  As of the end of the Reporting Period, no revenue had been recognized 
+in  respect  of  this  transaction,  and  management  expects  the  Company  to  receive  the  US$600.0  million  upfront 
+payment in the third quarter. In addition, the Company’s NewCo partner, Kailera (ticker: KLRA), was successfully listed 
+on Nasdaq in April 2026. During the Reporting Period, the Company recorded fair value gains of RMB820.7 million on 
+its equity holdings in Kailera, which have been recognized under “other income and gains” in the Company’s financial 
+statements.
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 202611
+
+MAJOR ACHIEVEMENTS DURING THE REPORTING PERIOD
+
+Our Operational Progress
+
+During the Reporting Period, amid a complex and evolving internal and external environment, the Company maintained 
+a  strategic  focus.  Guided  by  a  patient-centric  philosophy,  the  Company  continued  to  strengthen  its  R&D  efforts  in 
+clinically  meaningful  innovative  products  and  further  enriched  its  product  pipeline.  The  Company  also  advanced  its 
+globalization strategy by actively expanding overseas collaborations and broadening its global presence, while enhancing its 
+commercialization infrastructure to improve the accessibility and market reach of its innovative offerings. At the same time, 
+the Company continued to improve its internal governance framework and reinforce compliance across its operations, with 
+a goal of achieving sustainable, high-quality development.
+
+Research and Development Progress of Our Products During the Reporting Period
+
+Progress 
+during the 
+Reporting 
+Period
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy
+/Combination 
+Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+Oncology
+
+Non-oncology
+
+NDA 
+Acceptance
+(9 items)
+
+Entered 
+Phase III
+(17 items)
+
+Licopan fumarate
+
+Factor B
+
+Monotherapy
+
+Treatment-naïve paroxysmal nocturnal 
+hemoglobinuria
+
+Febuxostat 
+sustained-release 
+tablets
+Rivfucimab (SHR
+1918)
+
+-
+
+Sudilinsulin nolitide
+
+Xanthine oxidase
+
+Monotherapy
+
+Long-term treatment of hyperuricemia in gout 
+patients
+
+ANGPTL3
+
+Monotherapy
+
+Homozygous familial hypercholesterolemia 
+(HoFH)
+
+Insulin 
+receptor/GLP-1 
+
+Monotherapy
+
+Type 2 diabetes mellitus
+
+Licopan fumarate
+
+Factor B
+
+Monotherapy
+
+Camrelizumab
+
+PD-1
+
+Apatinib
+
+VEGFR-2
+
+Combination 
+therapy
+Combination 
+therapy
+
+Fosrolapitant and 
+palonosetron
+Trastuzumab 
+rezetecan
+Trastuzumab 
+rezetecan
+
+NK-1/5-HT3
+
+Monotherapy
+
+HER2 ADC
+
+Monotherapy
+
+HER2 ADC
+
+Monotherapy
+
+C5 antibody–treated paroxysmal nocturnal 
+hemoglobinuria
+
+In combination with transarterial
+chemoembolization (TACE) for unresectable 
+hepatocellular carcinoma
+
+Nausea and vomiting caused by moderately 
+emetogenic antineoplastic drugs
+
+Third-line treatment of HER2-positive 
+advanced colorectal cancer*
+
+-
+First- or second-line treatment of HER2-low
+expressing recurrent or metastatic breast cancer
+
+HRS-1780
+
+MRA
+
+Monotherapy
+
+Chronic kidney disease (CKD)
+
+HRS9531
+
+GLP-1/GIP
+
+Monotherapy
+
+Atherosclerotic cardiovascular disease (ASCVD)
+
+HRS-7535
+
+HRS-7535
+
+GLP-1
+
+GLP-1
+
+Monotherapy
+
+Hypertension with overweight and obesity
+
+Monotherapy
+
+Chronic kidney disease 
+
+HRS-5635
+
+HBV siRNA
+
+Monotherapy
+
+Chronic hepatitis B
+
+RSS0393
+
+SHR-1819
+
+PDE4
+
+IL-4Rα
+
+Monotherapy
+
+Monotherapy
+
+Psoriasis
+
+Prurigo nodularis
+
+SHR-1918
+
+ANGPTL3
+
+Monotherapy
+
+Hypercholesterolemia that still does not meet the 
+criteria after treatment with statins and PCSK9 
+inhibitors
+
+SHR-1918
+
+ANGPTL3
+
+Monotherapy
+
+Hypertriglyceridemia
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+*: Received marketing approval in August 2026
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis12
+
+Progress 
+during the 
+Reporting 
+Period
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy
+/Combination 
+Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA/BLA
+
+HRS-7058
+
+KRAS G12C 
+
+Monotherapy
+
+KRAS G12C-mutant NSCLC 2L
+
+HRS-8080
+
+HRS-8080
+
+Adebrelimab
+
+SERD
+
+SERD
+
+PD-L1
+
+Combination 
+therapy
+
+Monotherapy
+
+Combination 
+therapy
+
+SHR-A2102
+
+Nectin-4 ADC
+
+Monotherapy
+
+Entered 
+Phase III
+(17 items)
+
+SHR-A1904
+
+Claudin 18.2 ADC
+
+SHR-A2102
+
+Nectin-4 ADC
+
+SHR-1501
+
+HRS-1780
+
+IL-15
+
+MRA
+
+Combination 
+therapy
+Combination with 
+adebrelimab
+Combination 
+therapy
+
+Locally advanced or metastatic breast cancer 
+resistant to adjuvant endocrine therapy
+
+Extended adjuvant treatment for early-stage ER+, 
+HER2- breast cancer at high risk of recurrence
+
+Perioperative treatment of resectable gastric 
+carcinoma or gastroesophageal junction cancer
+Recurrent or metastatic cervical cancer that failed 
+platinum-based chemotherapy and PD-(L)1 
+therapy
+First-line treatment of CLDN18.2-positive 
+advanced gastric cancer
+
+First-line treatment of locally advanced or 
+metastatic urothelial carcinoma
+
+BCG-unresponsive NMIBC
+
+Monotherapy
+
+Primary aldosteronism
+
+HRS9531
+
+GLP-1/GIP (tablet)
+
+Monotherapy
+
+Type 2 diabetes mellitus (T2DM)
+
+HRS-4729
+
+GLP-1/GIP/GCG
+
+Monotherapy
+
+HRS9531
+
+GLP-1/GIP
+
+Monotherapy
+
+Metabolic dysfunction -associated steatohepatitis 
+(MASH)
+Metabolic dysfunction -associated steatohepatitis 
+(MASH)
+
+SHR4640
+
+URAT1
+
+Combination 
+therapy
+
+Hyperuricemia not meeting the criteria despite 
+treatment with febuxostat
+
+Tegileridine 
+fumarate
+
+HRS-9190
+
+HRS-9190
+
+Entered 
+Phase II
+(22 items)
+
+MOR
+
+Monotherapy
+
+Analgesia during intensive care
+
+nAChR
+
+nAChR
+
+Monotherapy
+
+Monotherapy
+
+Skeletal muscle relaxation during maintenance of 
+general anesthesia (intermittent bolus injections)
+Skeletal muscle relaxation during maintenance of 
+general anesthesia (continuous infusion)
+
+SHR-1139
+
+IL23p19/IL36R
+
+Monotherapy
+
+Pyoderma gangrenosum 
+
+HRS-3095
+
+-
+
+Monotherapy
+
+Chronic spontaneous urticaria 
+
+SHR-2173
+
+IFNAR1/TACI
+
+Monotherapy
+
+IgA nephropathy
+
+SHR-2173
+
+IFNAR1/TACI
+
+Monotherapy
+
+Myasthenia gravis
+
+HRS-9821
+
+PDE3/4
+
+Monotherapy
+
+RSS0343
+
+DPP1
+
+Monotherapy
+
+Chronic obstructive pulmonary disease 
+(COPD)
+Chronic obstructive pulmonary disease 
+(COPD)
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 202613
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA/BLA
+
+Second-line treatment of locally advanced or 
+metastatic pancreatic cancer
+
+China
+
+Perioperative treatment of colorectal cancer
+
+China
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy
+/Combination 
+Therapy
+
+HRS-7058
+
+KRAS G12C 
+
+Monotherapy
+
+Adebrelimab
+
+PD-L1
+
+SHR-4394
+
+PSMA ADC
+
+Combination with 
+SHR-8068+
+Chemoradiation
+Combination 
+therapy
+
+Prostate cancer
+
+SHR-A1904
+
+Claudin 18.2 ADC
+
+Monotherapy
+
+Second-line treatment of cholangiocarcinoma with 
+moderate-to-high CLDN18.2 expression
+
+HRS-6208
+
+CDK7
+
+Combination 
+therapy
+
+Breast cancer
+
+Trastuzumab 
+rezetecan
+
+HER2 ADC
+
+Monotherapy
+
+Unresectable locally recurrent/metastatic HR-
+positive, HER2-low-expressing breast cancer
+
+SHR-4375
+
+TF ADC
+
+Combination 
+therapy
+
+SHR-1826
+
+c-Met ADC
+
+Monotherapy
+
+Solid tumors
+
+Second-line treatment of c-Met-overexpressing, 
+driver gene-negative NSCLC 
+
+SHR-3079
+
+SHR-5421
+
+HRS-3005
+
+SHR-3836
+
+HRS-1635
+
+SHR-2524
+
+HRS-8364
+
+SHR-1894
+
+HRS-5765
+
+HRS-7156
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Monotherapy
+
+B-cell non-Hodgkin’s lymphoma
+
+Monotherapy
+
+Multiple myeloma
+
+Monotherapy
+
+B-cell malignancies 
+
+Monotherapy
+
+Multiple myeloma
+
+Monotherapy
+
+Combination 
+therapy
+
+Monotherapy
+
+B-cell malignancies
+
+Hepatocellular carcinoma
+
+Advanced solid tumors
+
+Monotherapy
+
+Atopic dermatitis
+
+Monotherapy
+
+Monotherapy
+
+Heart failure
+
+Heart failure
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Progress 
+during the 
+Reporting 
+Period
+
+Entered 
+Phase II
+(22 items)
+
+First Entry 
+into Phase I
+(10 items)
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis14
+
+Key clinical development pipeline for indication expansions of commercialized innovative drugs (as of July 31, 2026)
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+China
+
+Globally
+
+Monotherapy
+
+Combination therapy
+
+First- or second-line treatment of HER2-low-
+expressing recurrent or metastatic breast cancer
+First-line treatment of HER2-expressing advanced 
+colorectal cancer
+
+Monotherapy 
+
+Adjuvant therapy for HER2-positive breast cancer
+
+Monotherapy or combination 
+therapy 
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Combination therapy
+
+Combination therapy
+
+Combination therapy 
+(adebrelimab)
+Combination therapy 
+(fluzoparib)
+
+Combination therapy
+(pyrotinib/adebrelimab)
+
+Combination therapy
+
+Oncology
+
+Trastuzumab 
+Rezetecan
+
+HER2 ADC
+
+HER2-positive recurrent or metastatic breast 
+cancer
+Third-line treatment of HER2-positive advanced 
+colorectal cancer*
+First-line treatment of HER2-mutated advanced or 
+metastatic non-small cell lung cancer
+HER2-expressing platinum-resistant ovarian 
+cancer
+Neoadjuvant therapy for treatment-naïve 
+early-stage or locally advanced
+HER2-positive breast cancer
+
+PD-L1-positive locally recurrent unresectable or 
+metastatic triple-negative breast cancer
+Unresectable locally advanced or metastatic, 
+treatment-naïve gastric or gastroesophageal 
+junction adenocarcinoma
+
+Postoperative adjuvant therapy for TNBC
+
+China
+
+Advanced solid tumors with HER2 expression
+
+China
+
+First-line treatment for advanced non–small cell lung 
+cancer with HER2 mutation, amplification, or 
+overexpression
+
+HER2-low-expressing unresectable or 
+metastatic breast cancer
+
+Monotherapy
+
+HER2-expressing gynecological malignancies
+
+Combination therapy 
+(adebrelimab + 
+chemotherapy)
+
+Monotherapy
+
+Combination therapy
+
+Combination therapy
+
+Combination therapy
+
+HER2-expressing advanced gastric cancer or 
+gastroesophageal junction adenocarcinoma
+
+Locally advanced unresectable or 
+recurrent/metastatic biliary tract cancer with HER2
+expression or amplification
+Gastric or gastroesophageal junction 
+adenocarcinoma and colorectal cancer
+HER2-positive locally advanced or 
+metastatic biliary  tract cancer
+
+HER2-expressing platinum-sensitive 
+ovarian cancer
+
+Combination therapy
+
+Recurrent or metastatic cervical cancer
+
+Combination therapy
+
+First-line CRC
+
+* : Received marke(cid:31)ng approval in August 2026
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+US
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 202615
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+Combination therapy
+
+Combination therapy
+(SHR-8068 and platinum-
+based doublet chemotherapy)
+
+Combination therapy
+
+Combination therapy (SHR-
+8068, bevacizumab, and 
+TACE)
+Combination therapy
+(SHR-8068 and 
+bevacizumab)
+
+First-line treatment for limited-stage small cell lung 
+cancer
+First-line treatment of advanced or metastatic non-
+squamous non-small cell lung cancer with 
+STK11/KEAP1/KRAS mutations
+Perioperative period of resectable gastric 
+carcinoma or gastroesophageal junction cancer
+
+Unresectable hepatocellular carcinoma
+
+Advanced hepatocellular carcinoma
+
+Combination therapy
+
+Locally advanced cervical cancer
+
+Combination therapy (SHR-
+8068 and platinum-based 
+chemotherapy)
+Combination therapy (SHR-
+8068 and platinum-based 
+chemotherapy)
+Combination therapy (SHR-
+8068 and platinum-based 
+chemotherapy)
+Combination therapy (SHR-
+8068 and chemotherapy)
+Combination therapy (SHR-
+8068 and others)
+Combination therapy (SHR-
+8068 and others)
+
+Advanced non-small cell lung cancer
+
+First-line treatment of advanced biliary tract cancer
+
+Advanced gastric carcinoma and esophageal 
+cancer
+
+Perioperative treatment of gastric cancer
+
+Colorectal cancer (neoadjuvant/first-line)
+
+Advanced renal cancer
+
+Combination therapy
+
+Perioperative colorectal cancer
+
+Adebrelimab
+
+PD-L1
+
+Oncology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Combination therapy (SHR-
+8068 and apatinib)
+
+Combination therapy
+
+Combination therapy (TACE 
++ apatinib)
+Combination therapy 
+(apatinib)
+
+Camrelizumab
+
+PD-1
+
+Perioperative hepatocellular carcinoma
+
+Treatment for perioperative resectable non-small 
+cell lung cancer
+
+In combination with TACE for unresectable HCC
+
+China
+
+First-line treatment of advanced hepatocellular 
+carcinoma
+
+US, Europe, Asia-Pacific (including China) (1)
+
+Fuzuloparib
+
+PARP1/2
+
+Combination therapy 
+(abiraterone)
+
+Metastatic castrate-resistant prostate cancer
+
+US, Europe, Asia-Pacific (including China)
+
+Combination therapy
+
+Unresectable locally advanced esophageal cancer
+
+China
+
+Pyrotinib
+maleate
+
+EGFR/
+HER2/HER4
+
+Monotherapy
+
+Extended adjuvant therapy for HER2-positive 
+breast cancer
+
+China
+
+Monotherapy
+
+Metastatic hormone-sensitive prostate cancer
+
+Europe, China (2)
+
+Rezvilutamide
+
+AR
+
+Combination therapy
+
+Low tumor burden mHSPC
+
+Fosrolapitant and 
+palonosetron
+
+NK-1/5-HT3
+
+Monotherapy (compound)
+
+Nausea and vomiting caused by moderately 
+emetogenic antineoplastic drugs
+
+Combination therapy
+
+Prostate cancer
+
+China
+
+China
+
+China
+
+Notes: 1.
+2.
+
+China: Approved; United States and Europe: Preparing to submit BLA/MAA
+China: Approved; Europe: MAA accepted
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis16
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+Monotherapy
+
+Chemotherapy-induced thrombocytopenia
+
+China
+
+Hetrombopag
+olamine
+
+TPO-R
+
+Monotherapy
+
+Chronic liver disease with thrombocytopenia 
+undergoing invasive procedures or surgery
+
+Monotherapy
+
+Pediatric immune thrombocytopenia
+
+China
+
+China
+
+Monotherapy
+
+Chemotherapy-induced thrombocytopenia
+
+US, Europe
+
+Oncology
+
+Combination therapy
+
+Treatment-naïve non-severe aplastic anemia
+
+Combination therapy
+
+T-cell lymphoma
+
+Zeprumetostat
+
+EZH2
+
+Monotherapy
+
+Relapsed/refractory follicular lymphoma
+
+Monotherapy
+
+Relapsed/refractory T-cell lymphoma
+
+China
+
+China
+
+China
+
+China
+
+Combination therapy
+
+Advanced gastric carcinoma or gastroesophageal 
+junction cancer
+
+China
+
+Metabolism
+
+Henagliflozin
+proline
+Ruzinurad
+sodium
+
+SGLT-2
+
+URAT1
+
+Monotherapy
+
+Chronic kidney disease
+
+Combination therapy 
+(febuxostat)
+
+Monotherapy
+
+Hyperuricemia in gout patients
+
+Moderate-to-severe chronic plaque psoriasis in 
+children and adolescents
+
+Vunakizumab
+
+IL-17A
+
+Monotherapy
+
+Psoriatic arthritis
+
+Immune
+
+Ivarmacitinib
+
+JAK1
+
+Monotherapy
+
+Active non-radiographic axial spondyloarthritis
+
+Monotherapy
+
+Monotherapy
+
+Psoriatic arthritis
+
+Active non-radiographic axial 
+spondyloarthritis*
+
+Monotherapy (base ointment)
+
+Mild-to-moderate atopic dermatitis
+
+Monotherapy
+
+Ulcerative colitis
+
+Monotherapy (alkaline gel)
+
+Monotherapy/Combination 
+Therapy
+
+Vitiligo
+
+Vitiligo
+
+Neuroscience
+
+Remimazolam
+
+GABAa
+
+Monotherapy
+
+Sedation for mechanical ventilation in the ICU
+
+Monotherapy
+
+General anesthesia and sedation in children and 
+adolescents
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Tegileridine 
+fumarate
+
+MOR
+
+Monotherapy
+
+Analgesia for mechanical ventilation in the ICU
+
+China
+
+* : Received marke(cid:31)ng approval in August 2026
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 202617
+
+Key clinical development pipeline of innovative drugs under development (as of July 31, 2026)
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+China
+
+Globally
+
+l
+
+y
+g
+o
+o
+c
+n
+O
+
+l
+
+e
+u
+c
+e
+o
+m
+
+l
+
+l
+l
+a
+m
+S
+
+Monotherapy
+
+Combination therapy
+
+HRS-8080
+
+SERD
+
+Monotherapy
+
+Combination therapy 
+(dalpiciclib )
+Monotherapy or combination 
+therapy
+Combination therapy 
+(chemotherapy)
+
+Locally advanced or metastatic breast cancer after 
+endocrine therapy
+HR+/HER2- advanced breast cancer resistant to 
+adjuvant therapy
+ER-positive/HER2-negative early-stage breast 
+cancer at moderate or high risk of recurrence
+ER-positive/HER2-negative unresectable or 
+metastatic breast cancer
+
+Advanced breast cancer
+
+First-line treatment of pancreatic cancer with 
+KRAS G12D mutation
+
+HRS-4642
+
+KRAS G12D
+
+Combination therapy
+
+Advanced solid tumors with KRAS G12D mutation
+
+Combination therapy
+
+Advanced pancreatic cancer
+
+Monotherapy
+
+Advanced solid tumors
+
+Combination therapy (HRS-
+8080)
+
+Advanced breast cancer
+
+HRS-6209
+
+CDK4
+
+Combination therapy
+
+HR+/HER2- breast cancer
+
+Monotherapy
+
+Advanced solid tumors
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+HRS-4508
+
+HER2
+
+Combination therapy
+
+Non-small cell lung cancer
+
+HRS-2189
+
+KAT6
+
+HRS-7058
+
+KRAS G12C
+
+Combination therapy
+
+Breast cancer
+
+Combination therapy
+
+Advanced breast cancer
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Combination therapy
+
+Combination therapy
+
+Advanced malignant tumor
+
+KRAS G12C-mutant NSCLC
+
+Second-line treatment of locally advanced or 
+metastatic pancreatic cancer
+
+Solid tumors
+
+Colon cancer
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis 
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+18
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+HRS-3738
+
+CRBN-E3
+
+Monotherapy/
+Combination Therapy
+Monotherapy or combination 
+therapy
+
+l
+
+e
+u
+c
+e
+o
+m
+
+l
+
+l
+
+y
+g
+o
+o
+c
+n
+O
+
+l
+l
+
+a
+m
+S
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+/
+
+l
+a
+n
+o
+l
+c
+o
+n
+o
+M
+n
+i
+e
+t
+o
+r
+p
+n
+o
+i
+s
+u
+F
+
+y
+d
+o
+b
+i
+t
+n
+a
+
+c
+i
+f
+i
+c
+e
+p
+s
+i
+t
+l
+u
+m
+/
+c
+i
+f
+i
+c
+e
+p
+s
+i
+B
+
+Multiple myeloma and non-Hodgkin lymphoma
+
+HRS-6208
+
+CDK7
+
+Combination therapy
+
+Breast cancer
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+HRS-6093
+
+HRS-7172
+
+HRS-2329
+
+HRS-8364
+
+HRS-1635
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Advanced solid tumors
+
+Advanced solid tumors with RAS mutation or 
+amplification
+Advanced solid tumors with RAS mutation or 
+amplification
+
+Advanced solid tumors
+
+B-cell malignancies
+
+Combination therapy (BCG)
+
+BCG-unresponsive NMIBC
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+SHR-1501
+
+IL-15
+
+Combination therapy (BCG)
+
+Non–muscle-invasive bladder cancer (NMIBC)
+
+China
+
+SHR-4506
+
+SHR-2005
+
+SHR-2524
+
+SHR-9839 (sc)
+
+-
+
+-
+
+-
+
+-
+
+SHR-2017
+
+RANKL/
+NGF
+
+Combination therapy
+
+Locally advanced or metastatic solid tumors
+
+Monotherapy
+
+Monotherapy
+
+Hematologic malignancies and advanced solid 
+tumors 
+
+Bladder cancer
+
+Combination therapy
+
+Hepatocellular carcinoma
+
+Combination therapy
+
+Solid tumors
+
+Monotherapy
+
+Monotherapy
+
+Prevention of skeletal-related events in patients with 
+bone metastases from solid tumors and in patients 
+with multiple myeloma
+Bone metastases from solid tumors (for relief of bone 
+pain and delay or prevention of skeletal-related events)
+
+SHR-9539
+
+-
+
+Monotherapy
+
+Multiple myeloma
+
+SHR-7787
+
+DLL3/CD3
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+Combination therapy
+
+Malignant solid tumors
+
+SHR-3821
+
+SHR-9803
+
+SHR-4712
+
+SHR-4610
+
+SHR-3836
+
+SHR-5421
+
+SHR-3079
+
+SHR-4298
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Advanced malignant tumor
+
+Advanced solid tumors
+
+Multiple myeloma 
+
+Multiple myeloma 
+
+Monotherapy
+
+B-cell non-Hodgkin lymphoma 
+
+Monotherapy
+
+Advanced solid tumors
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 2026 
+ 
+ 
+ 
+ 
+19
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+HRS-5041
+
+AR PROTAC
+
+Monotherapy
+
+Metastatic castrate-resistant prostate cancer
+
+Combination therapy
+
+Advanced prostate cancer
+
+China
+
+China
+
+Monotherapy
+
+Metastatic castration-resistant prostate cancer
+
+Australia
+
+Monotherapy
+
+Advanced prostate cancer
+
+China
+
+Monotherapy
+
+Metastatic castration-resistant prostate cancer
+
+US, Australia
+
+HRS-7525
+
+HRS-3005
+
+-
+
+-
+
+Monotherapy
+
+B-cell malignancies
+
+HRS-4357
+
+PSMA
+
+Monotherapy
+
+PSMA-positive progressive metastatic castration-
+resistant prostate cancer
+
+Metastatic castrate-resistant prostate cancer
+
+HRS-1738 
+
+PSMA
+
+Monotherapy
+
+Prostate cancer
+
+HRS-6213
+
+-
+
+Monotherapy
+
+Solid tumor diagnosis
+
+HRS-6768
+
+FAP-α
+
+Monotherapy
+
+Advanced solid tumors
+
+/
+
+I
+
+C
+A
+T
+P
+R
+C
+A
+T
+O
+R
+P
+
+j
+
+s
+e
+t
+a
+g
+u
+n
+o
+c
+g
+u
+r
+d
+e
+d
+
+i
+l
+c
+u
+n
+o
+d
+a
+R
+
+i
+
+SHR-A1904
+
+Claudin 18.2 
+ADC
+
+l
+
+y
+g
+o
+o
+c
+n
+O
+
+C
+D
+A
+
+Monotherapy
+
+Combination therapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Combination therapy
+
+Second-line treatment of CLDN18.2-positive 
+advanced gastric or gastroesophageal junction 
+adenocarcinoma
+First-line treatment of CLDN18.2-positive 
+advanced gastric cancer
+Second-line treatment of cholangiocarcinoma with 
+moderate-to-high CLDN18.2 expression
+
+Advanced pancreatic cancer
+
+Advanced solid tumors
+
+Advanced solid tumors
+
+US, Australia, Europe
+
+EGFR-mutant advanced or metastatic non–small cell 
+lung cancer
+after EGFR TKI treatment failure
+First-line treatment of locally advanced or metastatic 
+non-small cell lung cancer with EGFR mutation
+
+SHR-A2009
+
+HER3 ADC
+
+Combination therapy
+
+Advanced solid tumors
+
+SHR-A1912
+
+CD79b ADC
+
+Monotherapy
+
+Advanced or metastatic solid tumors
+
+China
+
+Monotherapy
+
+Advanced solid tumors
+
+Japan, Korea
+
+Combination therapy
+
+Relapsed or refractory diffuse large B-cell 
+lymphoma
+
+Combination therapy
+
+B-cell non-Hodgkin’s lymphoma
+
+Monotherapy
+
+B-cell lymphoma
+
+Monotherapy
+
+B-cell non-Hodgkin’s lymphoma
+
+China
+
+China
+
+China
+
+US
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis 
+ 
+20
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+Monotherapy
+
+Combination therapy 
+(adebrelimab)
+
+Monotherapy
+
+Combination therapy 
+(adebrelimab)
+
+Second/third-line treatment of locally advanced or 
+metastatic urothelial carcinoma
+First-line treatment of locally advanced or 
+metastatic urothelial carcinoma
+Second-/third-line treatment of advanced cervical 
+cancer
+Locally advanced or metastatic esophageal 
+cancer
+
+Monotherapy
+
+Advanced gynecologic malignancies
+
+Combination therapy 
+(adebrelimab + SHR-8068)
+Combination therapy 
+(adebrelimab)
+Combination therapy 
+(adebrelimab + SHR-8068)
+Combination therapy 
+(adebrelimab)
+Combination therapy 
+(adebrelimab)
+Combination therapy 
+(adebrelimab)
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Locally advanced or metastatic non-small cell lung 
+cancer
+
+Advanced urothelial carcinoma
+
+Advanced urothelial carcinoma
+
+Locally advanced or metastatic non-small cell lung 
+cancer
+Recurrent/metastatic head and neck squamous cell 
+carcinoma
+Perioperative treatment of 
+non-muscle-invasive bladder cancer
+
+Advanced solid tumors
+
+Advanced solid tumors
+
+Locally advanced or metastatic non-small cell lung 
+cancer
+
+Combination therapy
+
+Advanced solid tumors
+
+Combination therapy
+
+Advanced non-small cell lung cancer
+
+Monotherapy
+
+Second-line treatment of c-Met-overexpressing, 
+driver gene-negative NSCLC 
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+SHR-A2102
+
+Nectin-4 ADC
+
+l
+
+y
+g
+o
+o
+c
+n
+O
+
+C
+D
+A
+
+SHR-1826
+
+c-Met ADC
+
+SHR-4849
+
+DLL3 ADC
+
+Combination therapy
+
+Advanced malignant solid tumors
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+SHR-4394
+
+PSMA ADC
+
+SHR-4375
+
+TF ADC
+
+SHR-1681
+
+SHR-7782
+
+SHR-4685
+
+-
+
+-
+
+-
+
+Combination therapy
+
+Monotherapy
+
+Prostate cancer
+
+Prostate cancer
+
+Combination therapy
+
+Solid tumors
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+Monotherapy
+
+Advanced malignant solid tumors
+
+Monotherapy
+
+Monotherapy
+
+Advanced solid tumors
+
+Advanced solid tumors
+
+China, US(cid:952)Australia
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+US
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 202621
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+GLP-1/GIP
+(injection)
+
+Ribupatide
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Overweight or obesity
+
+Type 2 diabetes mellitus
+
+Adult obesity
+
+China
+
+China
+
+China
+
+Monotherapy
+
+Atherosclerotic cardiovascular disease (ASCVD)
+
+China
+
+Monotherapy
+
+Obesity with knee osteoarthritis
+
+Monotherapy
+
+Obstructive sleep apnea with obesity
+
+China
+
+China
+
+Monotherapy
+
+Metabolic dysfunction-associated steatohepatitis
+
+China
+
+Monotherapy
+
+Obesity with heart failure
+
+China
+
+Monotherapy
+
+Obesity with polycystic ovary syndrome
+
+China
+
+s
+e
+s
+a
+e
+s
+i
+d
+r
+a
+l
+u
+c
+s
+a
+v
+o
+d
+r
+a
+c
+d
+n
+a
+c
+i
+l
+
+i
+
+o
+b
+a
+t
+e
+M
+
+m
+s
+i
+l
+
+o
+b
+a
+t
+e
+M
+
+Monotherapy
+
+Adolescent obesity
+
+GLP-1/GIP
+(tablet)
+
+Monotherapy (tablet)
+
+Monotherapy
+
+Monotherapy
+
+Obesity
+
+Type 2 diabetes mellitus
+
+Type 2 diabetes mellitus
+
+Overweight or obesity
+
+HRS-7535
+
+GLP-1
+
+Monotherapy
+
+Chronic kidney disease
+
+Monotherapy
+
+Hypertension with overweight and obesity
+
+HR17031
+
+SHR-3167
+
+Insulin/
+GLP-1
+Weekly 
+insulin
+
+HRS-1780
+
+Mineralocorticoid
+receptor
+
+Monotherapy
+
+Obesity with heart failure
+
+Monotherapy (compound)
+
+Type 2 diabetes mellitus
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Diabetes mellitus
+
+Chronic kidney disease
+
+Primary aldosteronism
+
+HRS-4729
+
+GLP-1/GIP/
+GCG
+
+SHR-2906
+
+HRS-5817
+
+-
+
+-
+
+Febuxostat 
+sustained-release 
+tablets
+
+Xanthine 
+oxidase 
+
+Monotherapy
+
+Uncontrolled or refractory hypertension
+
+Monotherapy
+
+Overweight or obesity
+
+Monotherapy
+
+Metabolic dysfunction-associated steatohepatitis
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Overweight/obesity
+
+Overweight/obesity
+
+Obesity
+
+Australia
+
+Monotherapy
+
+Long-term treatment of hyperuricemia in gout patients
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis 
+ 
+ 
+22
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+Monotherapy
+
+Homozygous familial hypercholesterolemia
+
+China
+
+SHR-1918
+
+ANGPTL3
+
+Monotherapy
+
+Hypertriglyceridemia
+
+Monotherapy
+
+Mixed hyperlipidemia
+
+SHR-2004
+
+FXI
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Hypercholesterolemia not achieving target after 
+statin plus PCSK9i therapy
+Severe hypertriglyceridemia with high risk of acute 
+pancreatitis
+Prevention of venous thromboembolism after knee 
+replacement
+Prevention of postoperative venous thromboembolism 
+in patients undergoing ovarian cancer surgery
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Monotherapy
+
+Obstructive hypertrophic cardiomyopathy
+
+China
+
+HRS-1893
+
+Myosin 
+
+Monotherapy
+
+Heart failure with preserved ejection fraction
+
+China
+
+Monotherapy
+
+Nonobstructive hypertrophic cardiomyopathy
+
+China
+
+HRS-5346
+
+Lp(a)
+
+Monotherapy
+
+Lipoprotein disorder
+
+HRS-7249
+
+ApoC3 siRNA
+
+HRS-5765
+
+HRS-7156
+
+SHR-4658
+
+HRS-5632
+
+HRS-9057
+
+HRS-1301
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Hyperlipidemia
+
+Severe hypertriglyceridemia with high risk of acute 
+pancreatitis
+
+Heart failure
+
+Heart failure
+
+Heart failure
+
+Lipoprotein disorder
+
+Monotherapy
+
+Fluid retention due to heart failure
+
+Monotherapy
+
+Monotherapy
+
+HRS-5965
+
+Factor B
+
+Monotherapy
+
+HRS-7085
+
+miR 124
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Hyperlipemia
+
+Treatment-naïve paroxysmal nocturnal 
+hemoglobinuria
+C5 antibody–treated paroxysmal nocturnal 
+hemoglobinuria
+
+IgA nephropathy
+
+Inflammatory bowel disease
+
+Inflammatory bowel disease
+
+Europe
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+r
+a
+l
+u
+c
+s
+a
+v
+o
+d
+r
+a
+C
+
+i
+
+e
+n
+u
+m
+m
+
+I
+
+s
+e
+s
+a
+e
+s
+i
+d
+r
+a
+l
+u
+c
+s
+a
+v
+o
+d
+r
+a
+c
+d
+n
+a
+c
+i
+l
+
+i
+
+o
+b
+a
+t
+e
+M
+
+s
+e
+s
+a
+e
+s
+i
+d
+m
+e
+t
+s
+y
+s
+y
+r
+o
+t
+a
+r
+i
+p
+s
+e
+r
+d
+n
+a
+e
+n
+u
+m
+m
+
+I
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+i
+
+s
+e
+s
+a
+e
+s
+d
+m
+e
+t
+s
+y
+s
+y
+r
+o
+t
+a
+r
+i
+p
+s
+e
+r
+d
+n
+a
+e
+n
+u
+m
+m
+
+I
+
+SHR-1819
+
+IL-4Rα
+
+SHR-1139
+
+IL23p19/
+IL36R
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+SHR-2173
+
+IFNAR1/TACI 
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Atopic dermatitis
+
+Prurigo nodularis
+
+Adolescent atopic dermatitis
+
+Chronic spontaneous urticaria
+
+Pediatric atopic dermatitis
+
+Seasonal allergic rhinitis
+
+Plaque psoriasis
+
+Ulcerative colitis
+
+Pyoderma gangrenosum
+
+Psoriasis 
+
+Lupus nephritis
+
+Membranous nephropathy
+
+Systemic lupus erythematosus
+
+IgA nephropathy
+
+Myasthenia gravis
+
+Primary immune thrombocytopenia
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+US, Europe
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Primary membranous nephropathy
+
+US
+
+RSS0393
+
+PDE 4
+
+Monotherapy
+
+Plaque psoriasis
+
+Atopic dermatitis
+
+SHR-3045
+
+PD-1
+
+Monotherapy
+
+Rheumatoid arthritis
+
+Monotherapy
+
+Chronic spontaneous urticaria
+
+China
+
+China
+
+China
+
+China
+
+HRS-3095
+
+HRS-8797
+
+SHR-1894
+
+HRS-9813
+
+-
+
+-
+
+-
+
+-
+
+Monotherapy
+
+Chronic spontaneous urticaria (healthy subjects)
+
+Australia
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Atopic dermatitis
+
+Atopic dermatitis
+
+Idiopathic pulmonary fibrosis/progressive 
+pulmonary fibrosis
+
+China
+
+China
+
+China
+
+HRS-9821
+
+PDE3/4 
+
+Monotherapy
+
+Chronic obstructive pulmonary disease
+
+China
+
+RSS0343
+
+DPP1
+
+Monotherapy
+
+Non-cystic fibrosis bronchiectasis
+
+Monotherapy
+
+Chronic obstructive pulmonary disease
+
+China
+
+China
+
+e
+n
+u
+m
+m
+
+I
+
+m
+e
+t
+s
+y
+s
+y
+r
+o
+t
+a
+r
+i
+p
+s
+e
+R
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis 
+ 
+ 
+ 
+ 
+24
+
+Therapeutic 
+Area
+
+Drug 
+Name/Code
+
+Target
+
+Monotherapy/
+Combination Therapy
+
+Indication
+
+Phase I
+
+Phase II
+
+Phase III
+
+NDA
+
+s
+e
+s
+a
+e
+s
+i
+d
+m
+e
+t
+s
+y
+s
+y
+r
+o
+t
+a
+r
+i
+p
+s
+e
+r
+d
+n
+a
+e
+n
+u
+m
+m
+
+I
+
+m
+e
+t
+s
+y
+s
+y
+r
+o
+t
+a
+r
+i
+p
+s
+e
+R
+
+SHR-1703
+
+IL-5
+
+Monotherapy
+
+Eosinophilic granulomatosis with polyangiitis
+
+Monotherapy
+
+Monotherapy
+
+Eosinophilic asthma
+
+Asthma
+
+SHR-1905
+
+TSLP
+
+Monotherapy
+
+Chronic rhinosinusitis with nasal polyps
+
+Monotherapy/Combination 
+Therapy
+
+Atopic dermatitis
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Monotherapy
+
+Chronic obstructive pulmonary disease
+
+China
+
+HRS-9190
+
+nAChR
+
+Monotherapy
+
+HRS-9231
+
+Gd Contrast 
+agent
+
+HRS-7450
+
+-
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Skeletal muscle relaxation during induction and 
+maintenance phases of general anesthesia
+
+Brain and whole-body MRI
+
+MRI detection
+
+Acute ischemic stroke
+
+Monotherapy
+
+Postoperative analgesia for orthopedic surgery
+
+Monotherapy
+
+Postoperative analgesia for abdominal surgery
+
+HRS-2129
+
+Nav1.8
+
+Monotherapy
+
+Gouty arthritis
+
+HRS-4029
+
+HRS-6257
+
+-
+
+-
+
+Atropine eye 
+drops
+
+M-receptor 
+blocker
+
+HRS-8427
+
+Cefiderocol 
+derivatives
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Monotherapy
+
+Diabetic peripheral neuropathic pain
+
+Knee osteoarthritis
+
+Acute ischemic stroke
+
+Pain management
+
+Delay myopia in children
+
+Complicated urinary tract infection
+
+Lung infection
+
+SHR7280
+
+GnRH
+
+Monotherapy
+
+Assisted reproductive technology
+
+China
+
+China
+
+Australia
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+s
+r
+e
+h
+t
+o
+d
+n
+a
+
+e
+c
+n
+e
+i
+c
+s
+o
+r
+u
+e
+N
+
+HRS5580
+
+NK1
+
+HRS9432
+
+Anidulafungin 
+derivatives
+
+Monotherapy/Combination 
+Therapy
+
+Prevention of postoperative nausea and vomiting
+
+China
+
+Monotherapy
+
+Candidemia or invasive candidiasis
+
+China
+
+China
+
+HRS-5635
+
+HBV siRNA
+
+Monotherapy
+
+Chronic hepatitis B
+
+Research and Development Progress
+
+Research and Development
+
+Technology Platforms
+
+During the Reporting Period, the Company continued to enhance its technology platforms for ADCs, bi/multi-specific 
+antibodies, protein degraders, small nucleic acid drugs, and oral peptides. The Company has also achieved preliminary 
+progress in building a platform for new molecular modalities and is actively expanding into the realm of AI-driven drug R&D 
+platforms. Furthermore, the Company actively leveraged its bioinformatics platforms to streamline various aspects of its R&D 
+process, including drug discovery, molecular design, drug property prediction and optimization. Supported by these new 
+technology platforms and the dedication of its R&D team, the Company has continually yielded differentiated, innovative 
+and competitive products.
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+25
+
+R&D Progress
+
+During the Reporting Period, the Company advanced 10 internally-developed innovative molecules into the clinic, comprising 
+multiple modalities such as small-molecule chemical drugs, antibodies, and proteolysis targeting chimera (PROTAC). These 
+innovative molecules span multiple therapeutic areas including oncology, autoimmune diseases, and cardiovascular diseases. 
+While maintaining a strong focus on oncology, the Company’s R&D infrastructure has continued to expand diversified 
+coverage of its chronic disease product pipeline. Concurrently, the Company has actively pursued pipeline optimization, 
+upgrading next-generation development of existing products and laying a solid foundation for the Company’s sustainable 
+development. The Company’s ADC platform has successfully advanced over 10 novel and differentiated ADC molecules into 
+clinical trials, among which trastuzumab rezetecan (HER2 ADC) has been granted Breakthrough Therapy Designation (BTD) 
+by the Center for Drug Evaluation (CDE) for 11 indications.
+
+The Company accelerated clinical trials of its innovative drug candidates, with seven products or indications approved 
+for marketing and advancements across multiple R&D pipelines. During the Reporting Period, the Company (including 
+its consolidated subsidiaries) obtained marketing approvals for two Class 1 innovative drugs, including retlirafusp alfa 
+injection (PD-L1/TGF-βRII bi-functional fusion protein) and ruzinurad tablets (URAT1 inhibitor). One Class 2 innovative drug, 
+cyclosporine eye drops (IV), also obtained marketing approval. In addition, four new indications of marketed innovative 
+drugs were approved for marketing, including one new indication for hetrombopag olamine tablets (treatment-naïve severe 
+aplastic anemia), one new indication for trastuzumab rezetecan (second-line treatment of HER2-positive breast cancer), 
+one new indication for dalpiciclib tablets (adjuvant treatment of HR-positive/HER2-negative breast cancer), and one new 
+indication for adebrelimab (perioperative treatment of NSCLC). During the Reporting Period, the Company’s domestic R&D 
+pipeline progress for innovative drugs included nine marketing applications accepted by the National Medical Products 
+Administration (NMPA), 17 clinical studies advancing to Phase III clinical trials, 22 clinical studies advancing to Phase II clinical 
+trials, and 10 innovative products first advancing to Phase I clinical trials. For details of the Company’s product pipeline, 
+please refer to the section headed “Management Discussion and Analysis – Our Products” of this report.
+
+During the Reporting Period, the Company steadily advanced global clinical trials of its innovative drugs. Against the 
+backdrop  of  a  complex  external  landscape  and  ongoing  uncertainties  surrounding  regulatory  review  and  approval 
+policies, the Company will conduct prudent assessments on a product-by-product and indication-by-indication basis and 
+continue to advance subsequent R&D and regulatory filing activities in a measured and systematic manner. The Company 
+continued to strengthen its overseas clinical teams and further enhanced its overseas clinical development organization, 
+project management, and workflows. In addition, the Company identified a number of early-stage R&D products with 
+global potential and progressed global (U.S.) Investigational New Drug (IND) applications accordingly. Multiple innovative 
+drugs commenced their first overseas clinical trials, spanning Phase I through Phase III. Steady progress was also made in 
+advancing the registration and approval of late-stage R&D assets, with the Marketing Authorization Application (“MAA”) 
+for the innovative drug rezvilutamide tablets in Europe having been accepted by the European Medicines Agency (EMA). In 
+the future, the Company will continue to expand its global R&D footprint and enrich its innovative product pipeline through 
+multiple approaches, including in-house R&D programs, strategic collaborations, and targeted in-licensing arrangements.
+
+The  Company  has  made  orderly  progress  in  product  registration  and  regulatory  filings.  During  the  Reporting  Period, 
+the  Company  obtained  seven  manufacturing  authorizations  for  innovative  drug  formulations  and  one  manufacturing 
+authorization for generic drug formulations. In addition, the Company secured 67 clinical trial approvals for drugs and 
+received six CDE BTDs and three priority review designations.
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis26
+
+The Company has maintained an uninterrupted 16-year record of presenting major clinical research studies at the American 
+Society of Clinical Oncology (ASCO) annual meeting. In 2026, the Company achieved notable recognition with a total 
+of 91 selected studies, setting a new record. These selected studies comprised six oral reports, three presentations at the 
+rapid oral abstract session, two clinical science symposia, 48 poster presentations, and 32 online publications. The research 
+presentations covered more than 10 oncology treatment fields, fully underscoring the Company’s academic standing and 
+robust R&D capabilities in the global oncology arena, systematically showcasing its innovation positioning in oncology 
+characterized by broad coverage of cancer types and diverse mechanisms of action.
+
+Intellectual Property
+
+The Company’s patent application and maintenance efforts progressed smoothly. During the Reporting Period, the Company 
+filed 157 new patent applications in the Greater China region and 332 new applications overseas and was granted 68 
+patents in the Greater China region and 205 patents overseas. As of the end of the Reporting Period, the Company held 1,054 
+invention patents granted in the Greater China region and 1,226 patents granted in overseas jurisdictions including Europe, 
+the U.S. and Japan. These patents cover novel drug compounds, protein molecular structures, preparation processes, 
+therapeutic applications and formulation technologies, providing comprehensive, long life-cycle patent protection for the 
+Company’s products.
+
+R&D Publications
+
+The Company remains committed to exploring innovative therapeutic solutions and demonstrating the clinical value of 
+“China-originated drugs” to the world. During the Reporting Period, 204 major research studies related to the Company’s 
+products received international recognition, as the Company’s global academic influence continued to grow and high-quality 
+clinical data from its innovative drugs were extensively published in leading international journals. These research studies 
+were successively published in world-renowned journals, including the British Medical Journal (“BMJ”), Journal of Clinical 
+Oncology, Journal of Hematology & Oncology, Journal of the American Medical Association (JAMA) Oncology, and Journal 
+of the American Academy of Dermatology, with a cumulative impact factor of 1,553 points, including 15 high-impact 
+research papers (published in journals with an impact factor of ≥30 in the oncology field or ≥10 in non-oncology fields). 
+Among these, the Phase III PHILA study of pyrotinib in combination with trastuzumab and docetaxel as first-line treatment 
+for HER2-positive metastatic breast cancer was published once again in the BMJ, with an impact factor of 43 at the time 
+of publication. The nearly four-year follow-up data reported in this publication provided further validation of the long-term 
+survival benefits of this treatment regimen for breast cancer patients.
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 202627
+
+Collaboration and Licensing Arrangements
+
+During  the  Reporting  Period,  the  Company  entered  into  global  strategic  collaboration  and  license  agreements  with 
+Bristol-Myers  Squibb  Company  (“BMS”)  to  jointly  advance  13  early-stage  programs,  including  four  oncology  and 
+hematology programs from Hengrui, four immunology programs from BMS, and five innovative programs to be jointly 
+discovered and developed by both companies, leveraging Hengrui’s discovery engine and platform technologies across 
+several innovative modalities. The Company has the option to co-develop select programs and the potential to conduct 
+certain commercialization activities globally with BMS. Pursuant to the terms of the agreements, BMS will pay the Company 
+up to US$950.0 million, comprising a US$600.0 million upfront payment, a US$175.0 million first anniversary payment, 
+and a second contingent anniversary payment of US$175.0 million in 2028. The potential total value of the agreements is 
+up to approximately US$15.2 billion, including the exercise of available options for the joint discovery programs and the 
+achievement of applicable development, regulatory, and commercial milestones for all programs. In addition, the Company 
+is eligible to receive from BMS tiered royalties on the net sales of products commercialized outside Chinese mainland, Hong 
+Kong SAR, and Macau SAR.
+
+Furthermore, in 2024, the Company out-licensed its GLP-1 product portfolio to Kailera under a NewCo model. In April 2026, 
+Kailera was successfully listed on Nasdaq as one of the then largest biotechnology initial public offerings. This milestone 
+served as a strong validation of the Company’s strategic approach to global innovation collaboration.
+
+Sales and Distribution
+
+The Company continues to strengthen its commercialization infrastructure and expand sales channels for its innovative 
+drugs.  As  of  the  end  of  the  Reporting  Period,  the  Company’s  sales  network  covered  over  25,000  hospitals  and  over 
+200,000 offline retail pharmacies spanning over 30 provincial-level administrative regions in China. In addition to offline 
+retail pharmacies, the Company’s professional prescription drug sales team also covered all mainstream online pharmacy 
+platforms. Meanwhile, the Company established a professional Direct-to-Patient (“DTP”) team dedicated to expanding DTP 
+pharmacy channels to meet diversified patient needs. To continuously enhance product accessibility and serve more patients, 
+the Company strategically deepened its retail market infrastructure, upgrading existing business models and building a 
+specialized retail promotion team for prescription drugs. Furthermore, the Company has established a primary care market 
+structure,  upgraded  infrastructure  in  broad  markets  based  on  market  potential  and  product  attributes,  strengthened 
+dedicated primary care teams, clarified a three-year development plan, and integrated resources to systematically advance 
+market access and business ecosystem development. The Company fully launched the “Channel Construction Project” 
+to systematically execute this primary care strategy, bridging the “last mile” of chronic disease management and building 
+a Hengrui full-chain chronic disease ecosystem. As of the date of this report, the Company’s network expanded to over 
+8,000 community healthcare access points and involved 30,000 medical practitioner engagements in its medical education 
+activities, strengthening the Company’s brand influence in primary care markets. Spanning core hospital markets through 
+to retail, county-level, community, and online channels, the Company has established a comprehensive sales network that 
+accelerated product uptake by strengthening market access.
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis28
+
+OUR PRODUCTS
+
+The Company continues to execute its  “technology and innovation-driven” development strategy, with a portfolio of 
+26 Class 1 innovative drugs and six Class 2 innovative drugs approved for marketing in China, securing the Company’s 
+industry-leading position in innovative drug development. The Company has established a self-reinforcing innovative drug 
+R&D ecosystem, whereby the commercialization, clinical trial, and development of innovative drugs proceed smoothly in 
+successive virtuous cycles, exemplifying the Company’s robust R&D capabilities.
+
+Introduction of the Company’s Commercialized Class 1 Innovative Drugs
+
+Therapeutic Area: Oncology
+
+Product
+
+Time of First Approval
+
+Target 
+(Modality)
+
+Approved Indication(s)
+
+Pictures of Product
+
+Retlirafusp alfa 
+®
+)
+(AiZeLi
+
+January 2026
+
+Zeprumetostat 
+®
+(AiRuiJing
+
+)
+
+August 2025
+
+Trastuzumab 
+rezetecan
+®
+)
+(AiWeiDa
+
+May 2025
+
+Famitinib 
+®
+)
+(AiBiTe
+
+May 2025
+
+Fosrolapitant and 
+palonosetron 
+hydrochloride 
+®
+)   
+(RuiTanNing
+
+May 2025
+
+Adebrelimab 
+®
+)
+(AiRuiLi
+
+February 2023
+
+Rezvilutamide 
+®
+)
+(AiRuiEn
+
+June 2022
+
+Dalpiciclib 
+®
+(AiRuiKang
+
+)
+
+December 2021
+
+PD-L1/TGF-βR II
+(Bispeciﬁc) 
+
+• Combo with ﬂuorouracil and platinum-based drugs as a ﬁrst-line treatment for locally 
+advanced unresectable, recurrent, or metastatic gastric and gastroesophageal junction 
+adenocarcinoma that has been assessed as PD-L1 positive (CPS ≥ 1) through 
+fully validated testing.  
+
+EZH2
+(Small molecule)
+
+• For adult patients with relapsed or refractory peripheral T-cell lymphoma who have 
+
+received at least one prior line of systemic therapy. 
+
+HER2 
+(ADC)
+
+• As a monotherapy for unresectable, locally advanced or metastatic non-small cell lung 
+cancer (NSCLC) in adult patients with HER2 (ERBB2) activating mutations who have 
+previously received at least one systemic therapy. 
+
+• For the treatment of adult patients with locally advanced or metastatic HER2-positive 
+
+breast cancer who have previously received one or more anti-HER2 therapies. 
+• For the treatment of adult patients with HER2-positive colorectal cancer who 
+have failed prior treatment with oxaliplatin, ﬂuorouracil and irinotecan. 
+
+VEGFR2 
+/c-kit/PDGFR 
+(Small molecule) 
+
+• Combo with camrelizumab for injection for recurrent or metastatic cervical cancer patients 
+
+who have previously failed platinum-containing chemotherapy without receiving 
+bevacizumab treatment. 
+
+• Combo with camrelizumab for injection for the ﬁrst-line treatment of patients with 
+
+recurrent or metastatic cervical cancer who have PD-L1-positive expression 
+(combined positive score (CPS) ≥1), as assessed by a fully validated test method. 
+
+NK-1RA 
+/5HT3RA 
+(Small molecule) 
+
+• Prevention of acute and delayed nausea and vomiting induced by highly emetogenic 
+
+chemotherapy (HEC) in adults. 
+
+PD-L1 
+(mAb)
+
+• Combo with carboplatin and etoposide for 1L ES-SCLC.
+• Combo with platinum-based chemotherapy as neoadjuvant therapy, followed by 
+
+continued use as monotherapy as adjuvant therapy after surgery, for the treatment of 
+adult patients with resectable stage II, IIIA, and IIIB non-small cell lung cancer (NSCLC) who 
+have no known epidermal growth factor receptor (EGFR) mutations or anaplastic 
+lymphoma kinase (ALK) rearrangements. 
+
+AR 
+(Small molecule) 
+
+• For metastatic hormone-sensitive prostate cancer (mHSPC) patients with high tumor burden.
+
+CDK4/6 
+(Small molecule) 
+
+• For the treatment of patients with hormone receptor (HR)-positive, human epidermal 
+growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer:
+1.  Combo with aromatase inhibitor as initial ET. 
+2.  Combo with fulvestrant for patients whose disease has progressed following prior ET. 
+• Combo with endocrine therapy for adjuvant treatment of patients with hormone receptor 
+(HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative early breast 
+cancer at high risk of recurrence. 
+
+Management Discussion and AnalysisJiangsu Hengrui Pharmaceuticals Co., Ltd.      Interim Report 202629
+
+TPO-R  
+(Small molecule) 
+
+•  For adult patients with chronic primary ITP who have previously responded poorly to 
+
+treatments such as glucocorticoids and immunoglobulins.
+
+•  For adult patients with severe aplastic anemia (SAA) who are refractory to IST therapy.
+• 
+
+In combination with immunosuppressive therapy, is indicated for patients aged 
+15 years and older with treatment-naive severe aplastic anemia (SAA).
+
+•
+
+•
+
+•
+
+PARP 1/2 
+(Small molecule) 
+
+•  Platinum-sensitive germline BRCA mutations (gBRCAm) recurrent OC, FTC, 
+
+or PPC after 2L+ chemo.
+Maintenance therapy for platinum-sensitive recurrent EOC, FTC, or PPC in adult patients 
+after CR/PR from platinum-containing chemo.
+Maintenance therapy for advanced EOC, FTC, or PPC in adult patients after CR/PR from 
+1L platinum-containing chemo.
+As a monotherapy or in combination with apatinib mesylate for the treatment of adult 
+patients with human epidermal growth factor receptor 2 (HER2)-negative metastatic breast 
+cancer harboring germline BRCA mutations (gBRCAm) who have received prior 
+chemotherapy in the neoadjuvant, adjuvant, or metastatic setting. Patients with 
+hormone receptor(HR)-positive breast cancer should have been treated with a prior 
+endocrine therapy or be considered inappropriate for endocrine therapy. 
+
+Hetrombopag 
+®
+(HengQu
+) 
+
+June 2021 
+
+Fuzuloparib 
+®
+(AiRuiYi
+
+) 
+
+December 2020 
+
+Camrelizumab 
+®
+) 
+(AiRuiKa
+
+May 2019 
+
+PD-1 
+(mAb) 
+
+Pyrotinib 
+®
+(AiRuiNi
+
+)  
+
+August 2018 
+
+EGFR/HER2/HER4  
+(Small molecule) 
+
+•  Advanced HCC after sorafenib and/or lenvatinib and/or oxaliplatin-containing chemo. 
+•  Combo with pemetrexed+carboplatin for unresectable LA/M EGFR-mut negative ALK 
+
+negative 1L non-squamous NSCLC.  
+
+•  LA/M ESCC progressed after or intolerable to 1L chemo. 
+•  Advanced NPC progressed after or intolerable to 2L+ chemo. 
+•  Combo with cisplatin+gemcitabine for 1L locally relapsed or metastatic NPC. 
+•  Combo with cisplatin+paclitaxel for 1L unresectable locally advanced/relapsed or metastatic 
+
+ESCC. 
+
+•  Combo with carboplatin+paclitaxel for 1L LA/M sNSCLC. 
+•  Combo with apatinib mesylate for 1L unresectable or metastatic HCC. 
+•  Combo with famitinib malate for the treatment of patients with recurrent or metastatic 
+
+cervical cancer who have failed prior platinum-based chemotherapy but have not received 
+prior bevacizumab treatment. 
+
+•  Combo with famitinib malate for the ﬁrst-line treatment of patients with recurrent or 
+
+metastatic cervical cancer who have PD-L1-positive expression (combined positive score 
+(CPS) ≥1), as assessed by a fully validated test method. 
+
+• 
+
+• 
+
+• 
+
+In combination with capecitabine, it is suitable for the treatment of epidermal growth factor 
+receptor 2 (HER2)-positive patients with recurrent or metastatic breast cancer who have not 
+received or received trastuzumab before. 
+In combination with trastuzumab and docetaxel, it is indicated for the treatment of patients 
+with human epidermal growth factor receptor  2 (HER2)-positive recurrent or metastatic 
+breast cancer who have not received prior anti-HER2 therapy in the advanced setting. 
+In combination with trastuzumab and docetaxel, it is indicated for the neoadjuvant 
+treatment of patients with human epidermal growth factor receptor 2 (HER2)-positive 
+early or locally advanced breast cancer.
+
+Mecapegﬁlgrastim 
+®
+) 
+(AiDuo
+
+May 2018 
+
+PEG-G-CSF  
+(Small molecule) 
+
+  •  For the reduction in the incidence of infection, as manifested by febrile neutropenia, in adult 
+patients with non-myeloid malignancies receiving myelosuppressive anti-cancer drugs 
+associated with a clinically signiﬁcant incidence of febrile neutropenia. This product is not 
+indicated for the mobilization of peripheral blood progenitor cells for hematopoietic stem 
+cell transplantation. 
+
+Apatinib 
+®
+(AiTan
+) 
+
+October 2014 
+
+VEGFR  
+(Small molecule) 
+
+•  As a monotherapy, it is indicated for patients with advanced gastric adenocarcinoma or 
+gastroesophageal junction adenocarcinoma who have progressed or relapsed after prior 
+treatment with at least two systemic chemotherapy regimens. Patients should have a 
+generally satisfactory health status when receiving treatment. 
+
+•  As a monotherapy, it is indicated for patients with advanced hepatocellular carcinoma who 
+
+• 
+
+• 
+
+have failed at least one prior line of systemic therapy or for whom such therapy is intolerable. 
+In combination with Camrelizumab for injection, it is indicated for the ﬁrst-line treatment 
+of patients with unresectable or metastatic hepatocellular carcinoma. 
+In combination with Fuzuloparib, it is indicated for adult patients with germline BRCA-
+mutated (gBRCAm) human epidermal growth factor receptor 2 (HER2)-negativemetastatic 
+breast cancer who have received chemotherapy in the neoadjuvant, adjuvant, or metastatic 
+setting. Patients with hormone receptor (HR)-positive breast cancer must have received prior 
+endocrine therapy or be considered unsuitable for endocrine therapy. 
+
+Therapeutic Area: Metabolic and Cardiovascular Diseases
+
+Product 
+Time of First Approval 
+
+Target 
+(Modality) 
+
+Approved Indication(s) 
+
+Pictures of Product 
+
+Insulin sudelidec 
+(RuiHengYing
+
+)
+
+®
+
+July 2026 
+
+Ruzinurad Sodium 
+®
+(RuiMing
+)  
+
+May 2026 
+
+Retagliptin Phosphate 
+and Metformin 
+Hydrochloride (I) (II) 
+®
+(RuiLinTang
+
+)  
+
+May 2025 
+
+Insulin 
+(Recombinant protein) 
+
+•  For the treatment of adults with type 2 diabetes mellitus (T2DM). 
+
+URAT1 
+(Small molecule) 
+
+•  Treatment for patients with gout and hyperuricemia. 
+
+DPP-4i/Metformin 
+(Small molecule) 
+
+•  To improve glycemic control in adult patients with type 2 diabetes who are suitable for 
+
+treatment with retagliptin phosphate and metformin hydrochloride, in combination with 
+diet control and exercise.
+
+Interim Report 2026      Jiangsu Hengrui Pharmaceuticals Co., Ltd.Management Discussion and Analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

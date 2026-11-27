@@ -1,0 +1,3663 @@
+
+
+10-Q
+
+--12-31
+0001673358
+Q1
+false
+three years
+http://fasb.org/us-gaap/2025#OperatingLeaseRightOfUseAsset
+http://fasb.org/us-gaap/2025#OperatingLeaseRightOfUseAsset
+http://fasb.org/us-gaap/2025#PropertyPlantAndEquipmentNet
+http://fasb.org/us-gaap/2025#PropertyPlantAndEquipmentNet
+http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent
+http://fasb.org/srt/2025#ChiefExecutiveOfficerMember
+0001673358
+2024-12-31
+0001673358
+yumc:DaojiaPlatformMember
+2025-12-31
+0001673358
+yumc:CorporateAndUnallocatedMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:CorporateAndUnallocatedMember
+us-gaap:OperatingSegmentsMember
+yumc:RevenueFromExternalCustomersMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+2026-03-31
+0001673358
+us-gaap:BankTimeDepositsMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:IntersegmentEliminationMember
+yumc:OtherRevenueMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001673358
+yumc:MeituanDianpingMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:RevenueFromExternalCustomersMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:OwnerAndOperatorOfKFCMember
+yumc:WuxiMember
+yumc:KFCMember
+2026-03-31
+0001673358
+yumc:IncludingNoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:InvestmentInEquitySecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+srt:MinimumMember
+2026-03-31
+0001673358
+yumc:FujianSunnerDevelopmentCoLtdMember
+2025-12-31
+0001673358
+2022-08-01
+2022-08-31
+0001673358
+yumc:PrepaidStoredValueProductsMember
+2026-03-31
+0001673358
+yumc:CustomerLoyaltyProgramsMember
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:StructuredDepositsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001673358
+yumc:TransactionsWithFranchiseesMember
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+yumc:VariableReturnInvestmentsMember
+2025-12-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+yumc:RevenueFromExternalCustomersMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:IntersegmentEliminationMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:PizzaHutMember
+yumc:TransactionsWithFranchiseesMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+us-gaap:CommonStockMember
+2026-03-31
+0001673358
+yumc:KFCMember
+2026-03-31
+0001673358
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:CorporateAndUnallocatedMember
+us-gaap:OperatingSegmentsMember
+yumc:RevenueFromExternalCustomersMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:MachineryAndEquipmentMember
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:ReacquiredFranchiseRightsMember
+2026-03-31
+0001673358
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+yumc:InvestmentInAvailableForSaleDebtSecuritiesMember
+2026-03-31
+0001673358
+yumc:FujianSunnerDevelopmentCoLtdMember
+2026-03-31
+0001673358
+yumc:InvestmentInEquitySecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+us-gaap:IntersegmentEliminationMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:RevenueFromExternalCustomersMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001673358
+yumc:FinanceLeasesPrimarilyBuildingsMember
+2025-12-31
+0001673358
+srt:MinimumMember
+yumc:KFCMember
+2026-03-31
+0001673358
+yumc:GlobalOfferingMember
+2020-09-10
+2020-09-10
+0001673358
+us-gaap:TrademarksMember
+yumc:HuangJiHuangGroupMember
+2025-12-31
+0001673358
+srt:MaximumMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+yumc:IncludingNoncontrollingInterestMember
+2025-12-31
+0001673358
+srt:MaximumMember
+yumc:HuangJiHuangMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+2024-07-01
+2024-09-30
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+yumc:FranchiseFeesAndIncomeMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:BankTimeDepositsMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+yumc:PrivilegeMembershipProgramsMember
+2025-12-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:OtherRevenueMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:NonCashTransactionsMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:InvestmentInAvailableForSaleDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+yumc:PizzaHutMember
+2025-07-01
+2025-09-30
+0001673358
+yumc:SnowValleyAgriculturalGroupMember
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+yumc:OtherRevenueMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:CorporateNonSegmentMember
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:OtherRevenueMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+2025-01-01
+2025-12-31
+0001673358
+yumc:RedeemableNoncontrollingInterestMember
+2025-03-31
+0001673358
+yumc:KFCMember
+2024-01-01
+2024-09-30
+0001673358
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0001673358
+us-gaap:TreasuryStockCommonMember
+2026-03-31
+0001673358
+yumc:ModificationOrOtherReassessmentEventsMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:InvestmentInEquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+yumc:UpfrontFranchiseFeesMember
+2025-12-31
+0001673358
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:BankTimeDepositsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:FranchiseFeesAndIncomeMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001673358
+us-gaap:AllOtherSegmentsMember
+2026-03-31
+0001673358
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+yumc:VariableReturnInvestmentsMember
+2025-12-31
+0001673358
+yumc:OtherRevenueMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:HangzhouCateringMember
+yumc:HangzhouKFCMember
+2021-12-31
+0001673358
+dei:OtherAddressMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:FranchiseFeesAndIncomeMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:InvestmentInEquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2025-12-31
+0001673358
+yumc:HangzhouMember
+yumc:OwnerAndOperatorOfKFCMember
+yumc:KFCMember
+2026-03-31
+0001673358
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:IncludingNoncontrollingInterestMember
+2024-12-31
+0001673358
+yumc:PizzaHutMember
+yumc:TransactionsWithFranchiseesMember
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+2024-07-01
+2024-09-30
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:KFCMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:ModificationOrOtherReassessmentEventsMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:SnowValleyAgriculturalGroupMember
+2025-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:InterSegmentRevenueMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+2025-12-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:OtherRevenueMember
+yumc:KFCMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+yumc:FranchiseFeesAndIncomeMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:CommonStockMember
+2024-12-31
+0001673358
+yumc:KFCMember
+2025-12-31
+0001673358
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:BuildingsAndImprovementsAndConstructionInProgressMember
+2026-03-31
+0001673358
+yumc:KfcAndPizzaHutMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:IntersegmentEliminationMember
+yumc:OtherRevenueMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:CorporateNonSegmentMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+yumc:CompanyRestaurantExpensesMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001673358
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2025-12-31
+0001673358
+us-gaap:FairValueInputsLevel2Member
+yumc:StructuredDepositsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+yumc:RedeemableNoncontrollingInterestMember
+2024-12-31
+0001673358
+us-gaap:RelatedPartyMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+yumc:FujianSunnerDevelopmentCoLtdMember
+2026-03-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:InterSegmentRevenueMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+yumc:OtherRevenueMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:OtherRevenueMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:KFCMember
+2024-07-01
+2024-09-30
+0001673358
+us-gaap:MachineryAndEquipmentMember
+2025-12-31
+0001673358
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:InterSegmentRevenueMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:LittleSheepMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:PrepaidStoredValueProductsMember
+2025-12-31
+0001673358
+yumc:TransactionsWithFranchiseesMember
+us-gaap:OperatingSegmentsMember
+yumc:KFCMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:IncludingNoncontrollingInterestMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:TransactionsWithFranchiseesMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:InterSegmentRevenueMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:PizzaHutMember
+2025-12-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:RevenueFromExternalCustomersMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:NoncontrollingInterestMember
+2026-03-31
+0001673358
+yumc:DaojiaPlatformMember
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+yumc:KFCMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-12-31
+0001673358
+yumc:KFCMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:RevenueFromExternalCustomersMember
+yumc:KFCMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:CustomerLoyaltyProgramsMember
+2025-12-31
+0001673358
+yumc:MeituanDianpingMember
+2018-09-30
+0001673358
+yumc:CustomerRelatedAssetsMember
+2026-03-31
+0001673358
+us-gaap:BankTimeDepositsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+yumc:OtherRevenueMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:UnconsolidatedAffiliatesMember
+yumc:HangzhouCateringMember
+2026-03-31
+0001673358
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:SuzhouMember
+yumc:OwnerAndOperatorOfKFCMember
+yumc:KFCMember
+2026-03-31
+0001673358
+yumc:MeituanDianpingMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:RevenueFromExternalCustomersMember
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:KFCMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:SnowValleyAgriculturalGroupMember
+2025-12-31
+0001673358
+2026-01-01
+2026-03-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:CorporateAndUnallocatedMember
+us-gaap:OperatingSegmentsMember
+yumc:OtherRevenueMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:UpfrontFranchiseFeesMember
+2026-03-31
+0001673358
+us-gaap:FairValueMeasurementsRecurringMember
+yumc:InvestmentInAvailableForSaleDebtSecuritiesMember
+2026-03-31
+0001673358
+yumc:ShanghaiMember
+yumc:OwnerAndOperatorOfKFCMember
+yumc:KFCMember
+2026-03-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:IntersegmentEliminationMember
+yumc:InterSegmentRevenueMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:CorporateAndUnallocatedMember
+yumc:TransactionsWithFranchiseesMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+yumc:HuangJiHuangGroupMember
+2026-03-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:OwnerAndOperatorOfKFCMember
+yumc:BeijingMember
+yumc:KFCMember
+2026-03-31
+0001673358
+yumc:LittleSheepMember
+us-gaap:TrademarksMember
+2025-12-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:KFCMember
+2025-12-31
+0001673358
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:CompanyRestaurantExpensesMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:TransactionsWithFranchiseesMember
+us-gaap:OperatingSegmentsMember
+yumc:KFCMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:FranchiseFeesAndIncomeMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:LittleSheepMember
+us-gaap:TrademarksMember
+2026-03-31
+0001673358
+yumc:OthersFiniteLivedIntangibleAssetsMember
+2025-12-31
+0001673358
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+yumc:VariableReturnInvestmentsMember
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:RevenueFromExternalCustomersMember
+yumc:KFCMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:FujianSunnerDevelopmentCoLtdMember
+2021-03-31
+0001673358
+us-gaap:AllOtherSegmentsMember
+2025-12-31
+0001673358
+yumc:PrivilegeMembershipProgramsMember
+2026-03-31
+0001673358
+us-gaap:FairValueInputsLevel2Member
+yumc:StructuredDepositsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-12-31
+0001673358
+yumc:RevenueFromExternalCustomersMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+us-gaap:RelatedPartyMember
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+yumc:FujianSunnerDevelopmentCoLtdMember
+2025-12-31
+0001673358
+yumc:O2026Q2DividendsMember
+us-gaap:SubsequentEventMember
+2026-04-29
+2026-04-29
+0001673358
+us-gaap:ShortTermDebtMember
+2025-12-31
+0001673358
+us-gaap:FairValueMeasurementsRecurringMember
+yumc:VariableReturnInvestmentsMember
+2026-03-31
+0001673358
+srt:MaximumMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:OtherRevenueMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:HangzhouKfc1Member
+2021-12-31
+0001673358
+yumc:LavazzaJointVentureMember
+2020-06-30
+0001673358
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001673358
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:HangzhouCateringMember
+2026-03-31
+0001673358
+yumc:FujianSunnerDevelopmentCoLtdMember
+us-gaap:FiniteLivedIntangibleAssetsMember
+2025-12-31
+0001673358
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:TransactionsWithFranchiseesMember
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:CommonStockMember
+2025-03-31
+0001673358
+yumc:CorporateAndUnallocatedMember
+yumc:TransactionsWithFranchiseesMember
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:HangzhouCateringMember
+2025-12-31
+0001673358
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001673358
+yumc:IncludingNoncontrollingInterestMember
+2026-03-31
+0001673358
+2025-01-01
+2025-12-31
+0001673358
+2026-05-04
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:RevenueFromExternalCustomersMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+srt:MinimumMember
+yumc:HuangJiHuangMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:FujianSunnerDevelopmentCoLtdMember
+us-gaap:FiniteLivedIntangibleAssetsMember
+2026-03-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:FranchiseFeesAndIncomeMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:KFCMember
+2025-01-01
+2025-12-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:TransactionsWithFranchiseesMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+yumc:FranchiseFeesAndIncomeMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:NonCashTransactionsMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001673358
+us-gaap:NoncontrollingInterestMember
+2025-12-31
+0001673358
+yumc:CustomerRelatedAssetsMember
+2025-12-31
+0001673358
+us-gaap:IntersegmentEliminationMember
+yumc:InterSegmentRevenueMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:OthersFiniteLivedIntangibleAssetsMember
+2026-03-31
+0001673358
+yumc:CorporateAndUnallocatedMember
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:OtherRevenueMember
+yumc:KFCMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:RetainedEarningsMember
+2026-03-31
+0001673358
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0001673358
+yumc:IncludingNoncontrollingInterestMember
+2025-03-31
+0001673358
+us-gaap:CorporateNonSegmentMember
+2025-12-31
+0001673358
+us-gaap:RetainedEarningsMember
+2025-12-31
+0001673358
+us-gaap:TreasuryStockCommonMember
+2025-12-31
+0001673358
+yumc:HangzhouCateringMember
+2021-12-31
+0001673358
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001673358
+yumc:TransactionsWithFranchiseesMember
+yumc:OperatingSegmentsAndCorporateNonSegmentMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:FairValueInputsLevel1Member
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001673358
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001673358
+yumc:FujianSunnerDevelopmentCoLtdMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:PizzaHutMember
+us-gaap:OperatingSegmentsMember
+yumc:RevenueFromExternalCustomersMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:ReacquiredFranchiseRightsMember
+2025-12-31
+0001673358
+yumc:FujianSunnerDevelopmentCoLtdMember
+2025-01-01
+2025-03-31
+0001673358
+yumc:FranchiseFeesAndIncomeMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:FinanceLeasesPrimarilyBuildingsMember
+2026-03-31
+0001673358
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0001673358
+yumc:CorporateAndUnallocatedMember
+us-gaap:OperatingSegmentsMember
+yumc:OtherRevenueMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2025-12-31
+0001673358
+2025-03-31
+0001673358
+yumc:TheStockExchangeOfHongKongLimitedMember
+2026-01-01
+2026-03-31
+0001673358
+2015-02-01
+2015-02-28
+0001673358
+yumc:BuildingsAndImprovementsAndConstructionInProgressMember
+2025-12-31
+0001673358
+us-gaap:NoncontrollingInterestMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:FairValueInputsLevel3Member
+yumc:InvestmentInAvailableForSaleDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+yumc:TacoBellMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+yumc:KFCMember
+2025-01-01
+2025-03-31
+0001673358
+2025-12-31
+0001673358
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2026-03-31
+0001673358
+us-gaap:CommonStockMember
+2025-12-31
+0001673358
+us-gaap:FairValueMeasurementsRecurringMember
+yumc:VariableReturnInvestmentsMember
+2025-12-31
+0001673358
+us-gaap:ShortTermDebtMember
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:FranchiseFeesAndIncomeMember
+yumc:KFCMember
+2025-01-01
+2025-03-31
+0001673358
+srt:MinimumMember
+2026-01-01
+2026-03-31
+0001673358
+yumc:StructuredDepositsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+yumc:TacoBellMember
+2026-03-31
+0001673358
+us-gaap:TrademarksMember
+yumc:HuangJiHuangGroupMember
+2026-03-31
+0001673358
+yumc:MeituanDianpingMember
+2020-06-30
+0001673358
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0001673358
+2025-07-01
+2025-09-30
+0001673358
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2026-03-31
+0001673358
+yumc:FoodAndNonFoodRevenuesFromSalesMember
+2025-01-01
+2025-03-31
+0001673358
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FixedIncomeSecuritiesMember
+2026-03-31
+0001673358
+us-gaap:SubsequentEventMember
+2026-04-29
+0001673358
+yumc:TransactionsWithFranchiseesMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:KFCMember
+2026-03-31
+0001673358
+us-gaap:OperatingSegmentsMember
+yumc:FranchiseFeesAndIncomeMember
+yumc:KFCMember
+2026-01-01
+2026-03-31
+0001673358
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001673358
+srt:MaximumMember
+2026-03-31
+0001673358
+yumc:HuangJiHuangGroupMember
+2025-12-31
+0001673358
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+yumc:VariableReturnInvestmentsMember
+2026-03-31
+iso4217:USD
+xbrli:shares
+xbrli:pure
+yumc:Segment
+xbrli:shares
+yumc:Restaurant
+iso4217:USD
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D. C. 20549
+
+FORM 
+10-Q
+
+(Mark One)
+
+☒ | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended 
+March 31, 
+2026
+
+OR
+
+☐ | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ____________ to _________________
+
+Commission file number 
+001-37762
+
+Yum China Holdings, Inc.
+(Exact Name of Registrant as Specified in Its Charter)
+
+Delaware | 81-2421743
+
+(State or Other Jurisdiction of | (I.R.S. Employer
+
+Incorporation or Organization) | Identification No.)
+
+101 East Park Boulevard, Suite 805 Plano , Texas 75074 United States of America | Yum China Building 20 Tian Yao Qiao Road Shanghai 200030 People’s Republic of China
+
+(Address, Including Zip Code, of Principal Executive Offices)
+(
+469
+) 
+980-2898
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report)
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class | Trading Symbol(s) | Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share | YUMC | New York Stock Exchange
+
+9987 | The Stock Exchange of Hong Kong Limited
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or
+
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  
+Yes
+ ☒  No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  
+Yes
+ ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer | ☒ | Accelerated filer | ☐
+
+Non-accelerated filer | ☐ | Smaller reporting company | ☐
+
+Emerging growth company | ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes ☐ No 
+☒
+The number of shares outstanding of the registrant’s common stock as of May 4, 2026 was 
+349,147,371
+ shares.
+
+Yum China Holdings, Inc.
+INDEX
+
+Page
+
+No.
+
+Part I. | Financial Information
+
+Item 1 – Financial Statements | 3
+
+Condensed Consolidated Statements of Income – Quarters Ended March 31, 2026 and 2025 (Unaudited) | 3
+
+Condensed Consolidated Statements of Comprehensive Income – Quarters Ended March 31, 2026 and 2025 (Unaudited) | 4
+
+Condensed Consolidated Statements of Cash Flows – Quarters Ended March 31, 2026 and 2025 (Unaudited) | 5
+
+Condensed Consolidated Balance Sheets – March 31, 2026 (Unaudited) and December 31, 2025 | 6
+
+Condensed Consolidated Statements of Equity – Quarters Ended March 31, 2026 and 2025 (Unaudited) | 7
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) | 8
+
+Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations | 24
+
+Item 3 – Quantitative and Qualitative Disclosures About Market Risk | 40
+
+Item 4 – Controls and Procedures | 40
+
+Part II. | Other Information
+
+Item 1 – Legal Proceedings | 41
+
+Item 1A – Risk Factors | 41
+
+Item 2 – Unregistered Sales of Equity Securities and Use of Proceeds | 41
+
+Item 5 – Other Information | 41
+
+Item 6 – Exhibits | 42
+
+Signatures | 43
+
+PART I – FINANCI
+AL INFORMATION
+
+Item 1.	Financi
+al Statements
+
+Condensed Consolidated State
+ments of Income (Unaudited)
+Yum China Holdings, Inc.
+(in US$ millions, except per share data)
+
+Quarter Ended
+
+Revenues | 3/31/2026 | 3/31/2025
+
+Company sales | $ | 3,047 | $ | 2,801
+
+Franchise fees and income | 30 | 27
+
+Revenues from transactions with franchisees | 156 | 121
+
+Other revenues | 38 | 32
+
+Total revenues | 3,271 | 2,981
+
+Costs and Expenses, Net
+
+Company restaurants
+
+Food and paper | 963 | 874
+
+Payroll and employee benefits | 813 | 719
+
+Occupancy and other operating expenses | 718 | 688
+
+Company restaurant expenses | 2,494 | 2,281
+
+General and administrative expenses | 137 | 138
+
+Franchise expenses | 12 | 11
+
+Expenses for transactions with franchisees | 150 | 117
+
+Other operating costs and expenses | 31 | 29
+
+Closures and impairment expenses, net | — | 6
+
+Total costs and expenses, net | 2,824 | 2,582
+
+Operating Profit | 447 | 399
+
+Interest income, net | 16 | 26
+
+Investment (loss) gain | ( 11 | ) | 3
+
+Income Before Income Taxes and Equity in Net Earnings (Losses) from Equity Method Investments | 452 | 428
+
+Income tax provision | ( 123 | ) | ( 119 | )
+
+Equity in net earnings (losses) from equity method investments | 2 | 4
+
+Net income – including noncontrolling interests | 331 | 313
+
+Net income – noncontrolling interests | 22 | 21
+
+Net Income – Yum China Holdings, Inc. | $ | 309 | $ | 292
+
+Weighted-average common shares outstanding (in millions):
+
+Basic | 353 | 376
+
+Diluted | 354 | 378
+
+Basic Earnings Per Common Share | $ | 0.88 | $ | 0.78
+
+Diluted Earnings Per Common Share | $ | 0.87 | $ | 0.77
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+3
+
+Condensed Consolidated Statements o
+f Comprehensive Income (Unaudited)
+Yum China Holdings, Inc.
+(in US$ millions)
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025
+
+Net income – including noncontrolling interests | $ | 331 | $ | 313
+
+Other comprehensive income, net of tax of nil:
+
+Foreign currency translation adjustments | 67 | 27
+
+Comprehensive income – including noncontrolling interests | 398 | 340
+
+Comprehensive income – noncontrolling interests | 30 | 25
+
+Comprehensive Income – Yum China Holdings, Inc. | $ | 368 | $ | 315
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+4
+
+Condensed Consolidated Stateme
+nts of Cash Flows (Unaudited)
+Yum China Holdings, Inc.
+(in US$ millions)
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025
+
+Cash Flows – Operating Activities
+
+Net income – including noncontrolling interests | $ | 331 | $ | 313
+
+Depreciation and amortization | 117 | 109
+
+Non-cash operating lease cost | 106 | 99
+
+Closures and impairment expenses | — | 6
+
+Investment loss (gain) | 11 | ( 3 | )
+
+Equity in net (earnings) losses from equity method investments | ( 2 | ) | ( 4 | )
+
+Distributions of income received from equity method investments | 3 | 4
+
+Deferred income taxes | ( 3 | ) | 2
+
+Share-based compensation expense | 10 | 9
+
+Changes in accounts receivable | ( 7 | ) | ( 2 | )
+
+Changes in inventories | 30 | 78
+
+Changes in prepaid expenses, other current assets and value-added tax assets | 68 | 25
+
+Changes in accounts payable and other current liabilities | ( 68 | ) | ( 179 | )
+
+Changes in income taxes payable | 68 | 61
+
+Changes in non-current operating lease liabilities | ( 102 | ) | ( 101 | )
+
+Other, net | ( 12 | ) | 35
+
+Net Cash Provided by Operating Activities | 550 | 452
+
+Cash Flows – Investing Activities
+
+Capital spending | ( 144 | ) | ( 137 | )
+
+Purchases of short-term investments, long-term bank deposits and notes | ( 1,867 | ) | ( 1,838 | )
+
+Maturities of short-term investments, long-term bank deposits and notes | 1,777 | 1,916
+
+Acquisition of equity investment | — | ( 14 | )
+
+Other, net | 1 | 1
+
+Net Cash Used in Investing Activities | ( 233 | ) | ( 72 | )
+
+Cash Flows – Financing Activities
+
+Proceeds from short-term borrowings | 20 | —
+
+Repayment of short-term borrowings | ( 30 | ) | —
+
+Repurchase of shares of common stock | ( 218 | ) | ( 173 | )
+
+Cash dividends paid on common stock | ( 102 | ) | ( 90 | )
+
+Dividends paid to noncontrolling interests | ( 15 | ) | ( 13 | )
+
+Other, net | ( 8 | ) | ( 4 | )
+
+Net Cash Used in Financing Activities | ( 353 | ) | ( 280 | )
+
+Effect of Exchange Rates on Cash, Cash Equivalents and Restricted Cash | 3 | 2
+
+Net (Decrease) Increase in Cash, Cash Equivalents and Restricted Cash | ( 33 | ) | 102
+
+Cash, Cash Equivalents, and Restricted Cash - Beginning of Period | 506 | 723
+
+Cash, Cash Equivalents, and Restricted Cash - End of Period | $ | 473 | $ | 825
+
+Supplemental Cash Flow Data
+
+Cash paid for income tax | 53 | 54
+
+Non-cash Investing and Financing Activities
+
+Capital expenditures included in accounts payable and other current liabilities | 133 | 132
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+5
+
+Condensed
+
+Co
+nsolidated Balance Sheets
+Yum China Holdings, Inc.
+(in US$ millions)
+
+3/31/2026 | 12/31/2025
+
+(Unaudited)
+
+ASSETS
+
+Current Assets
+
+Cash and cash equivalents | $ | 473 | $ | 506
+
+Short-term investments | 956 | 878
+
+Accounts receivable, net | 103 | 95
+
+Inventories, net | 414 | 438
+
+Prepaid expenses and other current assets | 373 | 440
+
+Total Current Assets | 2,319 | 2,357
+
+Property, plant and equipment, net | 2,570 | 2,543
+
+Operating lease right-of-use assets | 2,175 | 2,189
+
+Goodwill | 1,990 | 1,963
+
+Intangible assets, net | 149 | 148
+
+Long-term bank deposits and notes | 707 | 678
+
+Equity investments | 398 | 387
+
+Deferred income tax assets | 160 | 156
+
+Other assets | 369 | 362
+
+Total Assets | 10,837 | 10,783
+
+LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST AND EQUITY
+
+Current Liabilities
+
+Accounts payable and other current liabilities | 2,126 | 2,127
+
+Short-term borrowings | 20 | 30
+
+Income taxes payable | 158 | 89
+
+Total Current Liabilities | 2,304 | 2,246
+
+Non-current operating lease liabilities | 1,802 | 1,823
+
+Non-current finance lease liabilities | 50 | 51
+
+Deferred income tax liabilities | 412 | 406
+
+Other liabilities | 162 | 158
+
+Total Liabilities | 4,730 | 4,684
+
+Redeemable Noncontrolling Interest | — | —
+
+Equity
+
+Common stock, $ 0.01 par value; 1,000 million shares authorized; 351 million shares and 355 million shares issued at March 31, 2026 and December 31, 2025, respectively; 351 million shares and 354 million shares outstanding at March 31, 2026 and December 31, 2025, respectively. | 4 | 4
+
+Treasury stock | ( 13 | ) | ( 28 | )
+
+Additional paid-in capital | 3,752 | 3,796
+
+Retained earnings | 1,788 | 1,764
+
+Accumulated other comprehensive loss | ( 98 | ) | ( 157 | )
+
+Total Yum China Holdings, Inc. Stockholders' Equity | 5,433 | 5,379
+
+Noncontrolling interests | 674 | 720
+
+Total Equity | 6,107 | 6,099
+
+Total Liabilities, Redeemable Noncontrolling Interest and Equity | $ | 10,837 | $ | 10,783
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+6
+
+Condensed Consolidated
+ Statements of Equity (Unaudited)
+Yum China Holdings, Inc.
+(in US$ millions)
+
+Yum China Holdings, Inc.
+
+Accumulated
+
+Common | Additional | Other | Redeemable
+
+Stock | Paid-in | Retained | Comprehensive | Treasury Stock | Noncontrolling | Total | Noncontrolling
+
+Shares* | Amount | Capital | Earnings | Loss | Shares* | Amount | Interests | Equity | Interest
+
+Balance at December 31, 2025 | 355 | $ | 4 | $ | 3,796 | $ | 1,764 | $ | ( 157 | ) | ( 1 | ) | $ | ( 28 | ) | $ | 720 | $ | 6,099 | $ | —
+
+Net Income | 309 | 22 | 331 | —
+
+Foreign currency translation adjustments | 59 | 8 | 67 | —
+
+Comprehensive income | 398 | —
+
+Cash dividends declared ($ 0.29 per common share) | ( 102 | ) | ( 102 | )
+
+Distributions to noncontrolling interests | ( 76 | ) | ( 76 | )
+
+Repurchase and retirement of shares | ( 4 | ) | — | ( 48 | ) | ( 183 | ) | — | 15 | ( 216 | )
+
+Exercise and vesting of share-based awards | 1 | — | ( 6 | ) | ( 6 | )
+
+Share-based compensation | 10 | — | 10
+
+Balance at March 31, 2026 | 351 | $ | 4 | $ | 3,752 | $ | 1,788 | $ | ( 98 | ) | — | $ | ( 13 | ) | $ | 674 | $ | 6,107 | $ | —
+
+Balance at December 31, 2024 | 379 | $ | 4 | $ | 4,028 | $ | 2,089 | $ | ( 341 | ) | ( 1 | ) | $ | ( 52 | ) | $ | 686 | $ | 6,414 | $ | 13
+
+Net Income | 292 | 21 | 313 | —
+
+Foreign currency translation adjustments | 23 | 4 | 27 | —
+
+Comprehensive income | 340 | —
+
+Cash dividends declared ($ 0.24 per common share) | ( 90 | ) | ( 90 | )
+
+Distributions to noncontrolling interests | ( 69 | ) | ( 69 | )
+
+Repurchase and retirement of shares | ( 5 | ) | — | ( 50 | ) | ( 167 | ) | 1 | 44 | ( 173 | )
+
+Exercise and vesting of share-based awards | 1 | — | ( 5 | ) | (5 | )
+
+Share-based compensation | 9 | — | 9
+
+Balance at March 31, 2025 | 375 | $ | 4 | $ | 3,982 | $ | 2,124 | $ | ( 318 | ) | — | $ | ( 8 | ) | $ | 642 | $ | 6,426 | $ | 13
+
+*: Shares may not add due to rounding.
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+7
+
+Notes to Condensed Consol
+idated Financial Statements (Unaudited)
+(Tabular amounts in US$ millions, except as otherwise noted)
+
+Note 1 – Description of Business
+
+Yum China Holdings, Inc. (“Yum China” and, together with its subsidiaries, the “Company,” “we,” “us,” and “our”) was incorporated in 
+Delaware
+ on 
+April 1, 2016
+. The Company separated from Yum! Brands, Inc. (“YUM”) on October 31, 2016 (the  “separation”).
+
+The Company owns, franchises or has ownership in entities that own and operate restaurants (also referred to as “stores” or “units”) under the KFC, Pizza Hut, Lavazza, Huang Ji Huang, Little Sheep and Taco Bell concepts (collectively, the “concepts”).  Our right to use and sublicense the use of intellectual property owned by YUM and its subsidiaries for the development and operation of the KFC, Pizza Hut and Taco Bell brands and their related marks and other intellectual property rights for restaurant services is governed by the master license agreement between 
+Yum Restaurants Consulting (Shanghai) Company Limited (“YCCL”), a wholly-owned indirect subsidiary of the Company and YUM, through YRI China Franchising LLC, a subsidiary of YUM, effective from January 1, 2020 and previously through Yum! Restaurants Asia Pte. Ltd., another subsidiary of YUM, from October 31, 2016 to December 31, 2019. Pursuant to the master license agreement, we are the exclusive licensee of the KFC, Pizza Hut and, subject to the agreed terms, Taco Bell brands and their related marks and other intellectual property rights for restaurant services in the People’s Republic of China (the “PRC” or “China”), excluding Hong Kong, Macau and Taiwan. The term of the license is 
+50 years
+ from October 31, 2016 for the KFC and Pizza Hut brands and, subject to achieving certain agreed-upon milestones, 
+50 years
+ from April 15, 2022 for the Taco Bell brand, with automatic renewals for additional consecutive renewal terms of 
+50 years
+ each, subject only to us being in “good standing” and unless we give notice of our intent not to renew. In exchange, we pay a license fee to YUM equal to 
+3
+% of net system sales from both our Company and franchise restaurants. 
+The agreed-upon milestone for the Taco Bell brand included at least 225 stores by the end of 2025, subject to the terms of the agreement. There were 
+27
+ Taco Bell restaurants in China as of
+ March 31, 2026, and the Company and YUM are currently in the process of renegotiating the terms with respect to the development of the Taco Bell brand in China. We own the intellectual property of Huang Ji Huang and Little Sheep and pay no license fee related to these concepts.
+
+In 1987, KFC was the first major global restaurant brand to enter China. As of March 31, 2026
+, there were 
+13,454
+ KFC stores in China. We maintain a controlling interest of 
+58
+%, 
+70
+%, 
+83
+%, 
+92
+% and approximately 
+60
+% in the entities that own and operate the KFCs in and around Shanghai, Beijing, Wuxi, Suzhou and Hangzhou, respectively.
+
+The first Pizza Hut in China opened in 1990. As of March 31, 2026
+, there were 
+4,375
+ Pizza Hut restaurants in China.
+
+In the second quarter of 2020, the Company partnered with Luigi Lavazza S.p.A. (“Lavazza Group”), the world-renowned family-owned Italian coffee company, and established a joint venture (“Lavazza joint venture”) to explore and develop the Lavazza coffee concept in China. Lavazza joint venture operates both the coffee shop business and the retail business. We maintain a controlling interest of 
+65
+% equity interest in the Lavazza joint venture.
+
+In 2017, the Company acquired a controlling interest in the holding company of DAOJIA.com.cn (“Daojia”), an online food delivery service provider in China. This business was extended to also include a team managing the delivery services for restaurants, including restaurants in our system, with their results reported under our delivery operating segment.
+
+The Company has 
+two
+ reportable segments: KFC and Pizza Hut. Our non-reportable operating segments, including the operations of Lavazza, Huang Ji Huang, Little Sheep, Taco Bell and our delivery operating segment, are combined and referred to as All Other Segments, as these operating segments are insignificant both individually and in the aggregate. Additional details on our segment reporting are included in Note 13.
+
+The Company’s common stock is listed on the New York Stock Exchange (“NYSE”) under the symbol “YUMC”
+. On September 10, 2020, the Company completed a secondary listing of its common stock on the Main Board of the Hong Kong Stock Exchange (“HKEX”) under the stock code “9987,” in connection with a global offering of 
+41,910,700
+ shares of its common stock. Net proceeds raised by the Company from the global offering after deducting underwriting fees and the offering expenses amounted to $
+2.2
+ billion. On October 24, 2022, the Company’s voluntary conversion of its secondary listing status to a primary listing status on the HKEX became effective (“Primary Conversion”) and the Company became a dual primary listed company on the NYSE and HKEX. On the same day, the Company’s shares of common stock traded on the HKEX were included in the Shanghai-Hong Kong Stock Connect and Shenzhen-Hong Kong Stock Connect. The Company’s common stock listed on the NYSE and HKEX continue to be fully fungible.
+
+8
+
+Note 2 – Basis of Presentation
+
+Our preparation of the accompanying Condensed Consolidated Financial Statements in conformity with Generally Accepted Accounting Principles in the United States of America (“GAAP”) requires us to make estimates and assumptions that affect reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from these estimates.
+
+We have prepared the Condensed Consolidated Financial Statements in accordance with the rules and regulations of the Securities and Exchange Commission (the “SEC”) for interim financial information. Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements. The Condensed Consolidated Financial Statements include all normal and recurring adjustments considered necessary to present fairly our financial position as of March 31, 2026, and our results of operations, comprehensive income, statements of equity and cash flows for the quarters ended March 31, 2026 and 2025. Our results of operations, comprehensive income and cash flows for these interim periods are not necessarily indicative of the results to be expected for the full year. These statements should be read in conjunction with the consolidated financial statements and notes thereto included in the Company’s Annual Report on Form 10-K as filed with the SEC on February 27, 2026.
+
+Through the acquisition of Daojia, the Company also acquired a variable interest entity (“VIE”) and subsidiaries of the VIE effectively controlled by Daojia. There exists a parent-subsidiary relationship between Daojia and its VIE as a result of certain exclusive agreements that require Daojia to consolidate its VIE and subsidiaries of the VIE because Daojia is the primary beneficiary that possesses the power to direct the activities of the VIE that most significantly impact its economic performance, and is entitled to substantially all of the profits and has the obligation to absorb all of the expected losses of the VIE. The acquired VIE and its subsidiaries were considered immaterial, both individually and in the aggregate. The results of Daojia’s operations have been included in the Company’s Condensed Consolidated Financial Statements since the acquisition date.
+
+Recently Adopted Accounting Pronouncements
+
+In July 2025, the FASB issued ASU 2025-05, 
+Financial Instruments - Credit Losses (Topic 326), Measurement of Credit Losses for Accounts Receivable and Contract Assets 
+(“ASU 2025-05”), which provides the option to elect a practical expedient to assume that the current conditions as of the balance sheet date will remain unchanged for the remaining life of the asset when developing a reasonable and supportable forecast as part of estimating expected credit losses on these assets. ASU 2025-05 is effective for the Company from January 1, 2026, with early adoption permitted.
+ We adopted this standard on January 1, 2026, and elected to adopt the practical expedient prospectively. Such adoption did not have a material impact on our financial statements.
+
+Note 3 – Business Acquisitions and Equity Investments
+
+Consolidation of Hangzhou KFC and Equity Investment in Hangzhou Catering
+
+In the fourth quarter of 2021, the Company completed its investment in a 
+28
+% equity interest in Hangzhou Catering, an entity holding a 
+45
+% equity interest in Hangzhou KFC, of which the Company previously held a 
+47
+% equity interest. Upon completion of the transaction, the Company directly and indirectly holds an approximately 
+60
+% equity interest in Hangzhou KFC and has majority representation on the board, and thus obtained control over Hangzhou KFC and started to consolidate its results from the acquisition date. In addition to its equity interest in Hangzhou KFC, Hangzhou Catering operates Chinese dining restaurants under four time-honored brands and a food processing business. The Company applies the equity method of accounting to the 
+28
+% equity interest in Hangzhou Catering excluding the Hangzhou KFC business and recorded this investment in Equity investments based on its then fair value. The Company elected to report its share of Hangzhou Catering’s financial results with a one-quarter lag because its results are not available in time for the Company to record them in the concurrent period. The Company’s equity earnings (losses) from Hangzhou Catering, net of taxes, were immaterial for both quarters ended 
+March 31, 2026 and 2025, and included in Equity in net earnings (losses) from equity method investments in our Condensed Consolidated Statement of Income. As of March 31, 2026
+ and December 31, 2025, the carrying amount of the Company’s equity method investment in Hangzhou Catering was $
+71
+ million and $
+54
+ million, respectively, exceeding the Company’s interest in Hangzhou Catering’s underlying net assets by $
+22
+ million and $
+22
+ million, respectively. Substantially all of this difference was attributable to its self-owned properties and impact of related deferred tax liabilities determined upon acquisition, which is being depreciated over a weighted-average remaining useful life of 
+20
+ years.
+
+The purchase amount from Hangzhou Catering was immaterial for both quarters ended March 31, 2026 and 2025. The Company’s accounts payable and other current liabilities due to Hangzhou Catering were immaterial as of both March 31, 2026 and December 31, 2025.
+
+Fujian Sunner Development Co., Ltd. (“Sunner”) Investment
+
+In the first quarter of 2021, the Company acquired a 
+5
+% equity interest in Sunner, a Shenzhen Stock Exchange-listed company. Sunner is China’s largest white-feathered chicken producer and the Company’s largest poultry supplier.
+
+9
+
+In May 2021, the Company obtained one seat on Sunner’s board of directors upon Sunner’s shareholder approval. The representation on the board, along with the Company being one of Sunner’s significant shareholders, provides the Company with the ability to exercise significant influence over the operating and financial policies of Sunner. As a result, the Company started to apply the equity method of accounting to the investment in May 2021 based on its then fair value. The Company elected to report its share of Sunner’s financial results with a one-quarter lag because Sunner’s results are not available in time for the Company to record them in the concurrent period.  The Company’s equity earnings from Sunner, net of taxes, was $
+2
+ million for both quarters ended 
+March 31, 2026 and 2025, which were included in Equity in net earnings (losses) from equity method investments in our Condensed Consolidated Statement of Income.
+
+The Company purchased inventories of $
+96
+ million and $
+86
+ million from Sunner for the quarters ended 
+March 31, 2026 and 2025, respectively
+. The Company’s accounts payable and other current liabilities due to Sunner were $
+33
+ million and $
+34
+ million as of 
+March 31, 2026 and December 31, 2025, respectively.
+
+As of March 31, 2026
+ and December 31, 2025, the carrying amount of the Company’s investment in Sunner was $
+236
+ million and $
+231
+ million, respectively, exceeding the Company’s interest in Sunner’s underlying net assets by $
+155
+ million and $
+153
+ million, respectively. As of 
+March 31, 2026
+ and December 31, 2025, $
+14
+ million and $
+15
+ million of these basis differences were related to finite-lived intangible assets determined upon acquisition, respectively, which are being amortized over the estimated useful life of 
+20
+ years. The remaining differences were related to goodwill and indefinite-lived intangible assets, which are not subject to amortization, as well as deferred tax liabilities impact. As of 
+March 31, 2026
+ and December 31, 2025, the market value of the Company’s investment in Sunner was $
+160
+ million and $
+147
+ million based on its quoted closing price, respectively.
+
+Meituan Dianping (“Meituan”) Investment
+
+In the third quarter of 2018, the Company subscribed for 
+8.4
+ million, or less than 
+1
+%, of the ordinary shares of Meituan, a delivery aggregator in China, for a total consideration of approximately $
+74
+ million, when it launched its initial public offering on the HKEX in September 2018. In the second quarter of 2020, the Company sold 
+4.2
+ million of the ordinary shares of Meituan.
+
+The Company accounts for the equity securities at fair value with subsequent fair value changes recorded in our Condensed Consolidated Statements of Income. The fair value of the investment in Meituan is determined based on the closing market price for the shares at the end of each reporting period. The fair value change, to the extent the closing market price of shares of Meituan as of the end of reporting period is higher than our cost, is subject to U.S. tax.
+
+A summary of pre-ta
+x gains or losses on investment in equity securities of Meituan recognized, which were included in Investment gain (loss)  in our Condensed Consolidated Statements of Income, is as follows:
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025
+
+Unrealized (loss) gain recorded on equity securities still held as of the end of the period | $ | ( 12 | ) | $ | 2
+
+Other Equity Investments
+
+In addition, the Company has strategic equity investments in its eco-system partners, including food and information technology service suppliers. For investments over which the Company has significant influence but does not control, the Company applies equity method to account for such investments. These investments were immaterial both individually and in aggregate, totaling $
+31
+ million and $
+30
+ million as of 
+March 31, 2026 and December 31, 2025, respectively. The Company purchased inventories or services from these investees and the purchase amounts were immaterial for both quarters ended March 31, 2026 and 2025.
+
+In the first quarter of 2025, the Company completed a strategic investment in SnowValley Agricultural Group, one of the Company’s key suppliers for potato and a private company, for a total consideration of $
+14
+ million. The investment contains certain preferential rights, including the right to redeem shares at the Company’s option upon contingent events, and is therefore accounted for as available-for-sale debt securities measured at the estimated fair value. The unrealized gains or losses, arising from the change in fair value, net of tax, is recognized in Other comprehensive income (loss) in the Condensed Consolidated Statement of Comprehensive Income. As of both 
+March 31, 2026
+ and December 31, 2025, the carrying amount of the investment was $
+15
+ million and fair value change was 
+nil
+ for both quarters ended 
+March 31, 2026
+ and 2025.
+
+10
+
+Note 4 – Revenue Recognition
+
+The Company’s revenues include Company sales, Franchise fees and income, Revenues from transactions with franchisees, and Other revenues.
+
+Company Sales
+
+Revenues from Company-owned restaurants are recognized when a customer takes possession of the food and tenders payment, which is when our obligation to perform is satisfied. The Company presents sales net of sales-related taxes. We also offer our customers delivery through both our own mobile applications and third-party aggregators’ platforms. We use both our dedicated riders and platform riders to deliver orders. When orders are fulfilled by our dedicated riders or platform riders, we control and determine the price for the delivery service and generally recognize revenue, including delivery fees, when a customer takes possession of the food. When orders are fulfilled by the delivery staff of third-party aggregators, who control and determine the price for the delivery service, we recognize revenue, excluding delivery fees, when control of the food is transferred to the third-party aggregators’ delivery staff. The payment terms with respect to these sales are short-term in nature.
+
+We recognize revenues from prepaid stored-value products, including gift cards and product vouchers, when they are redeemed by the customer. Prepaid gift cards sold at any given point generally expire over the next 
+36
+ months, and product vouchers generally expire over a period of up to 
+12
+ months. We recognize breakage revenue, which is the amount of prepaid stored-value products that is not expected to be redeemed, either (1) proportionally in earnings as redemptions occur, in situations where the Company expects to be entitled to a breakage amount, or (2) when the likelihood of redemption is remote, in situations where the Company does not expect to be entitled to breakage, provided that there is no requirement for remitting balances to government agencies under unclaimed property laws. The Company reviews its breakage estimates at least annually based upon the latest available information regarding redemption and expiration patterns.
+
+Our privilege membership programs offer privilege members rights to multiple benefits, such as free delivery and discounts on certain products. For certain privilege membership programs offering a pre-defined amount of benefits that can be redeemed ratably over the membership period, revenue is ratably recognized over the period based on the elapse of time. With respect to privilege membership programs offering members a mix of distinct benefits, including a welcome gift and assorted discount coupons with pre-defined quantities, consideration collected is allocated to the benefits provided based on their relative standalone selling price and revenue is recognized when food or services are delivered or the benefits expire. In determining the relative standalone selling price of the benefits, the Company considers likelihood of future redemption based on historical redemption pattern and reviews such estimates periodically based upon the latest available information regarding redemption and expiration patterns.
+
+Franchise Fees and Income
+
+Franchise fees and income primarily include a combination of upfront franchise fees and continuing fees. We have determined that the services we provide in exchange for upfront franchise fees and continuing fees are highly interrelated with the franchise right. We recognize upfront franchise fees received from a franchisee as revenue over the term of the franchise agreement or the renewal agreement because the franchise rights are accounted for as rights to access our symbolic intellectual property. The franchise agreement term is generally 
+10
+ years for KFC and Pizza Hut, generally 
+five years
+ for Little Sheep and 
+three
+ to 
+10
+ years for Huang Ji Huang. We recognize continuing fees, which are based upon a percentage of franchisee sales, as those sales occur.
+
+Revenues from Transactions with Franchisees
+
+Revenues from transactions with franchisees consist primarily of sales of food and paper products, advertising services, delivery services and other services provided to franchisees.
+
+The Company centrally purchases substantially all food and paper products from suppliers for substantially all of our restaurants, including franchisees, and then sells and delivers them to the restaurants. In addition, the Company owns seasoning facilities for its Chinese dining business unit, which primarily manufacture and sell seasoning products to Huang Ji Huang and Little Sheep franchisees. The Company also provides delivery services to franchisees. The performance obligation arising from such transactions is considered distinct from the franchise agreement as it is not highly dependent on the franchise agreement and the customer can benefit from such services on its own. We consider ourselves the principal in this arrangement as we have the ability to control a promised good or service before transferring that good or service to the franchisees. Revenue is recognized upon transfer of control over ordered items or services, generally upon delivery to the franchisees.
+
+11
+
+For advertising services, the Company often engages third parties to provide services and acts as a principal in the transaction based on our responsibilities of defining the nature of the services and administering and directing all marketing and advertising programs in accordance with the provisions of our franchise agreements. The Company collects advertising contributions, which are generally based on certain percentage of sales from substantially all of our restaurants, including franchisees. Other services provided to franchisees consist primarily of customer and technology support services. Advertising services and other services provided are highly interrelated to franchise right, and are not considered individually distinct. We recognize revenue when the related sales occur.
+
+Other Revenues
+
+Other revenues primarily include i) sales of products to customers through e-commerce channels, sales of Lavazza coffee retail products beyond Lavazza coffee shops, and sales of our seasoning products to distributors, and ii) revenues from logistics and warehousing services provided to third parties through our supply chain network. Our segment disclosures also include revenues relating to delivery services that were provided to our Company-owned restaurants and, therefore, were eliminated for consolidation purposes.
+
+Other revenues are recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services.
+
+Loyalty Programs
+
+Each of the Company’s KFC and Pizza Hut reportable segments operates a loyalty program that allows registered members to earn points for each qualifying purchase. Points, which generally expire 
+18
+ months after being earned, may be redeemed for future purchases of KFC or Pizza Hut branded products or other products for free or at a discounted price. Points cannot be redeemed or exchanged for cash. The estimated value of points earned by the loyalty program members is recorded as a reduction of revenue at the time the points are earned, based on the percentage of points that are projected to be redeemed, with a corresponding deferred revenue liability included in Accounts payable and other current liabilities in the Condensed Consolidated Balance Sheets and subsequently recognized into revenue when the points are redeemed or expire. The Company estimates the value of the future redemption obligations based on the estimated value of the product for which points are expected to be redeemed and historical redemption patterns and reviews such estimates periodically based upon the latest available information regarding redemption and expiration patterns
+.
+
+Disaggregation of Revenue
+
+The following tables present revenue disaggregated by types of arrangements and segments:
+
+Quarter Ended 3/31/2026
+
+Revenues | KFC | Pizza Hut | All Other Segments | Corporate and Unallocated | Combined | Elimination | Consolidated
+
+Company sales | $ | 2,410 | $ | 627 | $ | 10 | $ | — | $ | 3,047 | $ | — | $ | 3,047
+
+Franchise fees and income | 23 | 3 | 4 | — | 30 | — | 30
+
+Revenues from transactions with franchisees | 19 | 2 | 26 | 109 | 156 | — | 156
+
+Other revenues | 1 | 3 | 248 | 22 | 274 | ( 236 | ) | 38
+
+Total revenues | $ | 2,453 | $ | 635 | $ | 288 | $ | 131 | $ | 3,507 | $ | ( 236 | ) | $ | 3,271
+
+Quarter Ended 3/31/2025
+
+Revenues | KFC | Pizza Hut | All Other Segments | Corporate and Unallocated | Combined | Elimination | Consolidated
+
+Company sales | $ | 2,208 | $ | 584 | $ | 9 | $ | — | $ | 2,801 | $ | — | $ | 2,801
+
+Franchise fees and income | 21 | 2 | 4 | — | 27 | — | 27
+
+Revenues from transactions with franchisees | 16 | 2 | 19 | 84 | 121 | — | 121
+
+Other revenues | 1 | 7 | 170 | 17 | 195 | ( 163 | ) | 32
+
+Total revenues | $ | 2,246 | $ | 595 | $ | 202 | $ | 101 | $ | 3,144 | $ | ( 163 | ) | $ | 2,981
+
+12
+
+Accounts Receivable
+
+Accounts receivable primarily consist of trade receivables and royalties from franchisees, and are generally due within 
+30
+ days of the period in which the corresponding sales occur. Our provision of credit losses for accounts receivable is based upon the current expected credit losses (“CECL”) model. The CECL model requires an estimate of the credit losses expected over the life of accounts receivable since initial recognition, and accounts receivable with similar risk characteristics are grouped together when estimating CECL. In assessing the CECL, the Company considers both quantitative and qualitative information that is reasonable and supportable, including historical credit loss experience, adjusted for relevant factors impacting collectability and forward-looking information. Upon adoption of ASU 2025-05 on January 1, 2026, the Company elected the practical expedient
+ to assume that the current conditions as of the balance sheet date will remain unchanged for the remaining life of accounts receivable
+. While we use the best information available in making our determination, the ultimate recovery of recorded receivables is also dependent upon future economic events and other conditions that may be beyond our control. Accounts receivable that are ultimately deemed to be uncollectible, and for which collection efforts have been exhausted, are written off against the allowance for doubtful accounts.
+ As of both 
+March 31, 2026
+ and December 31, 2025, the ending balances of provision for accounts receivable were $
+2
+ million, and amounts of accounts receivable past due were immaterial.
+
+Costs to Obtain Contracts
+
+Costs to obtain contracts consist of license fees that are payable to YUM in relation to our deferred revenue of prepaid stored-value products, privilege membership programs and customer loyalty programs, as well as upfront franchise fees that we paid to YUM prior to the separation in relation to initial fees or renewal fees we received from franchisees. They meet the requirements to be capitalized as they are incremental costs of obtaining contracts with customers and the Company expects to generate future economic benefits from such costs incurred. Such costs to obtain contracts are included in Other assets in the Condensed Consolidated Balance Sheets and are amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the assets relate. Subsequent to the separation, we are no longer required to pay YUM initial or renewal fees that we receive from franchisees. The Company did 
+no
+t incur any impairment losses related to costs to obtain contracts during any of the periods presented. Costs to obtain contracts were $
+6
+ million as of both 
+March 31, 2026 and December 31, 2025.
+
+Contract Liabilities
+
+Contract liabilities at 
+March 31, 2026 and December 31, 2025 were as follows:
+
+Contract liabilities | 3/31/2026 | 12/31/2025
+
+– Deferred revenue related to prepaid stored-value products | $ | 148 | $ | 132
+
+– Deferred revenue related to upfront franchise fees | 56 | 57
+
+– Deferred revenue related to customer loyalty programs | 17 | 18
+
+– Deferred revenue related to privilege membership programs | 40 | 44
+
+Total | $ | 261 | $ | 251
+
+Contract liabilities primarily consist of deferred revenue related to prepaid stored-value products, privilege membership programs, customer loyalty programs and upfront franchise fees, including initial fees and pre-opening service fees. Deferred revenue related to prepaid stored-value products, privilege membership programs and customer loyalty programs is included in Accounts payable and other current liabilities in the Condensed Consolidated Balance Sheets. Deferred revenue related to upfront franchise fees that we expect to recognize as revenue in the next 12 months is included in Accounts payable and other current liabilities, and the remaining balance is included in Other liabilities in the Condensed Consolidated Balance Sheets. Revenue recognized that was included in the contract liability balance at the beginning of each period amounted to $
+60
+ million and $
+63
+ million for the quarters ended 
+March 31, 2026 and 2025, respectively. Changes in contract liability balances were not materially impacted by business acquisition, change in estimate of transaction price or any other factors during any of the periods presented.
+
+The Company has elected, as a practical expedient, not to disclose the value of remaining performance obligations associated with sales-based royalty promised to franchisees in exchange for franchise right and other related services. The remaining duration of the performance obligation is the remaining contractual term of each franchise agreement. We recognize continuing franchisee fees and revenues from advertising services and other services provided to franchisees based on a certain percentage of sales, as those sales occur.
+
+13
+
+Note 5 – Earnings Per Common Share (“EPS”)
+
+The following table summarizes the components of basic and diluted EPS (in millions, except per share data):
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025
+
+Net Income – Yum China Holdings, Inc. | $ | 309 | $ | 292
+
+Weighted-average common shares outstanding (for basic calculation) (a) | 353 | 376
+
+Effect of dilutive share-based awards (a) | 1 | 2
+
+Weighted-average common and dilutive potential common shares outstanding (for diluted calculation) (a) | 354 | 378
+
+Basic Earnings Per Common Share | $ | 0.88 | $ | 0.78
+
+Diluted Earnings Per Common Share | $ | 0.87 | $ | 0.77
+
+Share-based awards excluded from the diluted EPS computation (b) | 2 | 3
+
+(a)
+As a result of the separation, shares of Yum China common stock were distributed to YUM’s shareholders of record as of October 19, 2016 and were included in the calculated weighted-average common shares outstanding. Holders of outstanding YUM equity awards generally received both adjusted YUM awards and Yum China awards, or adjusted awards of either YUM or Yum China in their entirety. Any subsequent exercise of these awards, whether held by the Company’s employees or YUM’s employees, would increase the number of common shares outstanding. The incremental shares arising from outstanding equity awards are included in the computation of diluted EPS, if there is dilutive effect.
+(b)
+These outstanding stock appreciation rights (“SARs”), restricted stock units (“RSUs”) and performance stock units (“PSUs”) were excluded from the computation of diluted EPS because to do so would have been antidilutive for the periods presented, or because certain awards are contingently issuable based on the achievement of performance and market conditions, which have not been met as of 
+March 31, 2026
+ and 2025. 
+
+Note 6 – Equity
+
+Share Repurchase and Retirement
+
+As of March 31, 2026
+, our Board of Directors authorized an aggregate of $
+5.4
+ billion for our share repurchase program, including its most recent increase in authorization in December 2025. During the quarters ended 
+March 31, 2026
+ and 2025, the Company repurchased 
+4.1
+ million shares of common stock for $
+214
+ million, and 
+3.6
+ million shares of common stock for $
+172
+ million, respectively, under the repurchase program, excluding transaction costs and excise tax. As of 
+March 31, 2026
+, approximately $
+942
+ million remained available for future share repurchases under the authorization.
+
+Of the shares repurchased for the quarter ended March 31, 2026
+, 
+3.9
+ million 
+shares were retired and resumed the status of authorized and unissued shares of common stock, and 
+0.2
+ million
+ shares repurchased on the HKEX are expected to be retired subsequent to March 31, 2026, and included in Treasury stock in the Condensed Consolidated Financial Statements.
+
+The Inflation Reduction Act of 2022 (“IRA”), which is discussed further in Note 12, imposes an excise tax of 
+1
+% on net share repurchases that occur after December 31, 2022. Excise tax on net share repurchases, which was recognized as part of the cost of the shares repurchased, amounted to $
+2
+ million and $
+1
+ million for the quarters ended 
+March 31, 2026
+ and 2025, respectively.
+
+Note 7 – Supplemental Balance Sheet Information
+
+Accounts Receivable, net | 3/31/2026 | 12/31/2025
+
+Accounts receivable, gross | $ | 105 | $ | 97
+
+Allowance for doubtful accounts | ( 2 | ) | ( 2 | )
+
+Accounts receivable, net | $ | 103 | $ | 95
+
+Prepaid Expenses and Other Current Assets | 3/31/2026 | 12/31/2025
+
+Value-added tax (“VAT”) assets | $ | 147 | $ | 142
+
+Receivables from payment processors and aggregators | 57 | 72
+
+Interest receivables | 40 | 100
+
+Deposits, primarily lease deposits | 23 | 24
+
+Other prepaid expenses and current assets | 106 | 102
+
+Prepaid expenses and other current assets | $ | 373 | $ | 440
+
+14
+
+Property, Plant and Equipment (“PP&E”) | 3/31/2026 | 12/31/2025
+
+Buildings and improvements, and construction in progress | $ | 3,396 | $ | 3,340
+
+Finance leases, primarily buildings | 91 | 90
+
+Machinery and equipment | 2,100 | 2,035
+
+PP&E, gross | 5,587 | 5,465
+
+Accumulated depreciation | ( 3,017 | ) | ( 2,922 | )
+
+PP&E, net | $ | 2,570 | $ | 2,543
+
+Equity Investments | 3/31/2026 | 12/31/2025
+
+Investment in equity method investees | $ | 338 | $ | 315
+
+Investment in equity securities | 45 | 57
+
+Investment in available-for-sale debt securities | 15 | 15
+
+Equity investments | $ | 398 | $ | 387
+
+Other Assets | 3/31/2026 | 12/31/2025
+
+Prepayment for acquisition of PP&E (a) | $ | 123 | $ | 122
+
+Long-term deposits, primarily lease deposits | 107 | 104
+
+Land use right | 99 | 98
+
+VAT assets | 14 | 14
+
+Costs to obtain contracts | 6 | 6
+
+Others | 20 | 18
+
+Other assets | $ | 369 | $ | 362
+
+(a)
+Primarily includes a prepayment made in relation to the acquisition of a building located in Shanghai to house the Company’s headquarters and flagship stores, which is currently expected to be delivered to the Company in 2027.
+
+Accounts Payable and Other Current Liabilities | 3/31/2026 | 12/31/2025
+
+Accounts payable | $ | 822 | $ | 793
+
+Operating lease liabilities | 443 | 438
+
+Contract liabilities | 214 | 205
+
+Accrued compensation and benefits | 178 | 261
+
+Accrued capital expenditures | 133 | 166
+
+Dividends payable | 129 | 51
+
+Accrued marketing expenses | 37 | 40
+
+Other current liabilities | 170 | 173
+
+Accounts payable and other current liabilities | $ | 2,126 | $ | 2,127
+
+Other Liabilities | 3/31/2026 | 12/31/2025
+
+Contract liabilities | $ | 47 | $ | 47
+
+Accrued income tax payable | 26 | 24
+
+Other non-current liabilities | 89 | 87
+
+Other liabilities | $ | 162 | $ | 158
+
+Note 8 – Goodwill and Intangible Assets
+
+The changes in the carrying amount of goodwill are as follows:
+
+Total Company | KFC | Pizza Hut | All Other Segments
+
+Balance as of 12/31/2025
+
+Goodwill, gross | $ | 2,354 | $ | 1,870 | $ | 19 | $ | 465
+
+Accumulated impairment losses (a) | ( 391 | ) | — | — | ( 391 | )
+
+Goodwill, net | 1,963 | 1,870 | 19 | 74
+
+Effect of currency translation adjustments | 27 | 25 | 1 | 1
+
+Balance as of 3/31/2026
+
+Goodwill, gross | 2,381 | 1,895 | 20 | 466
+
+Accumulated impairment losses (a) | ( 391 | ) | — | — | ( 391 | )
+
+Goodwill, net | $ | 1,990 | $ | 1,895 | $ | 20 | $ | 75
+
+(a)
+Accumulated impairment losses represent goodwill impairment attributable to the reporting units of Little Sheep and Daojia.
+
+15
+
+Intangible assets, net as of 
+March 31, 2026 and December 31, 2025 are as follows:
+
+3/31/2026 | 12/31/2025
+
+Gross Carrying Amount (a) | Accumulated Amortization (a) | Accumulated Impairment Losses (b) | Net Carrying Amount | Gross Carrying Amount | Accumulated Amortization | Accumulated Impairment Losses (b) | Net Carrying Amount
+
+Finite-lived intangible assets
+
+Reacquired franchise rights | $ | 277 | $ | ( 275 | ) | $ | — | $ | 2 | $ | 274 | $ | ( 271 | ) | $ | — | $ | 3
+
+Huang Ji Huang franchise related assets | 21 | ( 7 | ) | — | 14 | 21 | ( 7 | ) | — | 14
+
+Daojia platform | 9 | ( 2 | ) | ( 7 | ) | — | 9 | ( 2 | ) | ( 7 | ) | —
+
+Customer-related assets | 11 | ( 10 | ) | ( 1 | ) | — | 11 | ( 10 | ) | ( 1 | ) | —
+
+Others | 9 | ( 6 | ) | — | 3 | 9 | ( 6 | ) | — | 3
+
+$ | 327 | $ | ( 300 | ) | $ | ( 8 | ) | $ | 19 | $ | 324 | $ | ( 296 | ) | $ | ( 8 | ) | $ | 20
+
+Indefinite-lived intangible assets
+
+Little Sheep trademark | $ | 52 | $ | — | $ | — | $ | 52 | $ | 51 | $ | — | $ | — | $ | 51
+
+Huang Ji Huang trademark | 78 | — | — | 78 | 77 | — | — | 77
+
+$ | 130 | $ | — | $ | — | $ | 130 | $ | 128 | $ | — | $ | — | $ | 128
+
+Total intangible assets | $ | 457 | $ | ( 300 | ) | $ | ( 8 | ) | $ | 149 | $ | 452 | $ | ( 296 | ) | $ | ( 8 | ) | $ | 148
+
+(a)
+Changes in gross carrying amount and accumulated amortization include the effect of currency translation adjustments.
+
+(b)
+Accumulated impairment losses represent impairment charges on intangible assets acquired from Daojia primarily attributable to the Daojia platform.
+
+Amortization expense for finite-lived intangible assets was less than $
+1
+ million for both quarters ended 
+March 31, 2026 and 2025. As of March 31, 2026
+, expected amortization expense for the unamortized finite-lived intangible assets was less than $
+2
+ million for the remainder of 2026 and $
+2
+ million in each of 2027, 2028, 2029 and 2030.
+
+Note 9 – Short-term Borrowings
+
+As of March 31, 2026
+ and December 31, 2025, we had outstanding short-term bank borrowings of $
+20
+ million and $
+30
+ million, respectively,
+ mainly to manage working capital at our operating subsidiaries. 
+The bank borrowings were RMB denominated, with a weighted-average interest rate of both 
+1.5
+%, and were due within one year from their issuance dates.
+
+Note 10 – Leases
+
+As of March 31, 2026
+, we leased over 
+15,300
+ properties in China for our Company-owned restaurants. We generally enter into lease agreements for our restaurants with initial terms of 
+10
+ to 
+20
+ years. Most of our lease agreements contain termination options that permit us to terminate the lease agreement early if the restaurant profit is negative for a specified period of time. We generally do not have renewal options for our leases. Such options are accounted for only when it is reasonably certain that we will exercise the options. The rent under the majority of our current restaurant lease agreements is generally payable in one of three ways: (i) fixed rent; (ii) the higher of a fixed base rent or a percentage of the restaurant’s sales; or (iii) a percentage of the restaurant’s sales. Most leases require us to pay common area maintenance fees for the leased property. In addition to restaurants leases, we also lease office spaces, logistics centers and equipment. Our lease agreements do not contain any material residual value guarantees or material restrictive covenants.
+
+In limited cases, we sub-lease certain restaurants to franchisees in connection with refranchising transactions or lease our properties to other third parties. The lease payments under these leases are generally based on the higher of a fixed base rent or a percentage of the restaurant’s annual sales. Income from sub-lease agreements with franchisees or lease agreements with other third parties are included in Franchise fees and income and Other revenues, respectively, within our Condensed Consolidated Statements of Income.
+
+16
+
+Supplemental Balance Sheet
+
+3/31/2026 | 12/31/2025 | Account Classification
+
+Assets
+
+Operating lease right-of-use assets | $ | 2,175 | $ | 2,189 | Operating lease right-of-use assets
+
+Finance lease right-of-use assets | 49 | 49 | PP&E, net
+
+Total leased assets (a) | $ | 2,224 | $ | 2,238
+
+Liabilities
+
+Current
+
+Operating lease liabilities | $ | 443 | $ | 438 | Accounts payable and other current liabilities
+
+Finance lease liabilities | 6 | 6 | Accounts payable and other current liabilities
+
+Non-current
+
+Operating lease liabilities | 1,802 | 1,823 | Non-current operating lease liabilities
+
+Finance lease liabilities | 50 | 51 | Non-current finance lease liabilities
+
+Total lease liabilities (a) | $ | 2,301 | $ | 2,318
+
+Summary of Lease Cost
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025 | Account Classification
+
+Operating lease cost | $ | 129 | $ | 124 | Occupancy and other operating expenses, G&A or Franchise expenses
+
+Finance lease cost
+
+Amortization of leased assets | 1 | 1 | Occupancy and other operating expenses
+
+Interest on lease liabilities | 1 | 1 | Interest income, net
+
+Variable lease cost | 124 | 115 | Occupancy and other operating expenses or Franchise expenses
+
+Short-term lease cost | 3 | 4 | Occupancy and other operating expenses or G&A
+
+Sub-lease income | ( 5 | ) | ( 5 | ) | Franchise fees and income or Other revenues
+
+Total lease cost | $ | 253 | $ | 240
+
+(a)
+As of 
+March 31, 2026, excluding the impact of foreign currency translation, right-of-use (“ROU”) assets decreased, primarily due to the amortization of assets relating to existing leases with fixed lease payments and a higher portion of our leases with variable lease payments. The decrease of lease liabilities, excluding the impact of foreign currency translation,
+ was consistent with the decrease of ROU assets.
+
+Supplemental Cash Flow Information
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025
+
+Cash paid for amounts included in the measurement of lease liabilities:
+
+Operating cash flows from operating leases | $ | 126 | $ | 128
+
+Operating cash flows from finance leases | 1 | 1
+
+Financing cash flows from finance leases | 2 | 1
+
+Right-of-use assets obtained in exchange for lease liabilities (b) :
+
+Operating leases | $ | 57 | $ | 50
+
+Finance leases | — | 1
+
+(b)
+This supplemental non-cash disclosure for ROU assets obtained in exchange for lease liabilities includes an 
+increase in lease liabilities associated with obtaining new ROU assets of $
+56
+ million for both quarters ended 
+March 31, 2026 and 2025, as well as 
+adjustments to lease liabilities or ROU assets due to modification or other reassessment events, which resulted in a $
+1
+ million increase and $
+5
+ million decrease in lease liabilities for the quarters ended 
+March 31, 2026
+ and 2025, respectively.
+
+17
+
+Lease Term and Discount Rate
+
+3/31/2026 | 3/31/2025
+
+Weighted-average remaining lease term (years)
+
+Operating leases | 6.7 | 6.9
+
+Finance leases | 10.1 | 10.8
+
+Weighted-average discount rate
+
+Operating leases | 3.9 | % | 4.4 | %
+
+Finance leases | 4.1 | % | 4.6 | %
+
+Summary of Future Lease Payments and Lease Liabilities
+
+Maturities of lease liabilities as of 
+March 31, 2026 were as follows:
+
+Amount of Operating Leases | Amount of Finance Leases | Total
+
+Remainder of 2026 | $ | 399 | $ | 6 | $ | 405
+
+2027 | 455 | 8 | 463
+
+2028 | 393 | 7 | 400
+
+2029 | 324 | 7 | 331
+
+2029 | 265 | 7 | 272
+
+Thereafter | 721 | 34 | 755
+
+Total undiscounted lease payment | 2,557 | 69 | 2,626
+
+Less: imputed interest (c) | 312 | 13 | 325
+
+Present value of lease liabilities | $ | 2,245 | $ | 56 | $ | 2,301
+
+(c)
+As the rate implicit in the lease cannot be readily determined, we use our incremental borrowing rate based on the information available at the lease commencement date in determining the imputed interest and present value of lease payments. We used the incremental borrowing rate on January 1, 2019 for operating leases that commenced prior to that date.
+
+As of March 31, 2026
+, we have additional lease agreements that have been signed but not yet commenced, with total undiscounted minimum lease payments of $
+65
+ million. These leases will commence between the second quarter of 2026 and 2027 with lease terms of 
+1
+ year to 
+20
+ years.
+
+Note 11 – Fair Value Measurements
+
+and Disclosures
+
+The Company’s financial assets and liabilities primarily consist of cash and cash equivalents, short-term investments, long-term bank deposits and notes, accounts receivable, accounts payable, short-term borrowings and lease liabilities, and the carrying values of these assets and liabilities approximate their fair value in general.
+
+The Company’s financial assets also include its investment in equity securities and available-for-sale debt securities as disclosed in Note 3. Investment in equity securities is measured at fair value based on the closing market price for the shares at the end of each reporting period, with subsequent fair value changes recorded in our Condensed Consolidated Statements of Income. Investment in available-for-sale debt securities is measured at estimated fair value with subsequent fair value changes recorded in Comprehensive income (loss) in the Condensed Consolidated Statements of Comprehensive Income.
+
+The following table is a summary of our financial assets measured on a recurring basis or disclosed at fair value and the level within the fair value hierarchy in which the measurement falls. The Company classifies its cash equivalents, short-term investments, long-term bank deposits and notes, and investment in equity securities within Level 1 or Level 2 in the fair value hierarchy because it uses quoted market prices or alternative pricing sources and models utilizing market observable inputs to determine their fair value, respectively. The Company classifies its investment in available-for-sale debt securities in Level 3 in the fair value hierarchy because it is valued based on unobservable inputs. 
+No
+ transfers among the levels within the fair value hierarchy occurred during the quarters ended 
+March 31, 2026 and 2025.
+
+18
+
+Fair Value Measurement or Disclosure at March 31, 2026
+
+Balance at March 31, 2026 | Level 1 | Level 2 | Level 3
+
+Cash equivalents:
+
+Fixed income debt securities (a) | $ | 108 | $ | 108
+
+Time deposits | 78 | 78
+
+Money market funds | 57 | 57
+
+Total cash equivalents | 243 | 57 | 186 | —
+
+Short-term investments:
+
+Variable return investments | 360 | 360
+
+Structured deposits | 284 | 284
+
+Fixed income debt securities (a) | 200 | 200
+
+Time deposits | 112 | 112
+
+Total short-term investments | 956 | 360 | 596 | —
+
+Long-term bank deposits and notes:
+
+Time deposits | 379 | 379
+
+Variable return investments | 152 | 152
+
+Fixed income bank notes (a) | 151 | 151
+
+Structured deposits | 25 | 25
+
+Total long-term bank deposits and notes | 707 | — | 707 | —
+
+Equity investments:
+
+Investment in equity securities | 45 | 45
+
+Investment in available-for-sale debt securities | 15 | 15
+
+Total equity investments | 60 | 45 | — | 15
+
+Total | $ | 1,966 | $ | 462 | $ | 1,489 | $ | 15
+
+Fair Value Measurement or Disclosure at December 31, 2025
+
+Balance at December 31, 2025 | Level 1 | Level 2 | Level 3
+
+Cash equivalents:
+
+Fixed income debt securities (a) | $ | 185 | $ | 43 | $ | 142
+
+Money market funds | 93 | 93
+
+Total cash equivalents | 278 | 136 | 142 | —
+
+Short-term investments:
+
+Time deposits | 420 | 420
+
+Fixed income debt securities (a) | 200 | 200
+
+Variable return investments | 162 | 162
+
+Structured deposits | 96 | 96
+
+Total short-term investments | 878 | 162 | 716 | —
+
+Long-term bank deposits and notes:
+
+Time deposits | 352 | 352
+
+Variable return investments | 151 | 151
+
+Fixed income bank notes | 150 | 150
+
+Structured deposits | 25 | 25
+
+Total long-term bank deposits and notes | 678 | — | 678 | —
+
+Equity investments:
+
+Investment in equity securities | 57 | 57
+
+Investment in available-for-sale debt securities | 15 | 15
+
+Total equity investments | 72 | 57 | — | 15
+
+Total | $ | 1,906 | $ | 355 | $ | 1,536 | $ | 15
+
+(a)
+
+Classified as held-to-maturity investments and measured at amortized cost.
+
+19
+
+The Company is required to provide bank deposits, insurance or guarantees to secure the balance of prepaid stored-value cards issued by the Company pursuant to regulatory requirements. $
+29
+ million of time deposits in Short-term investments and $
+35
+ million of time deposits in Long-term bank deposits and notes were restricted for use as of 
+March 31, 2026, and 
+$
+29
+ million of time deposits in Short-term investments and $
+34
+ million of time deposits in Long-term bank deposits and notes were restricted for use as of December 31, 2025.
+
+Non-Recurring Fair Value Measurements
+
+In addition, certain of the Company’s restaurant-level assets (including operating lease ROU assets and PP&E), goodwill and intangible assets are measured at fair value based on unobservable inputs (Level 3) on a non-recurring basis, if determined to be impaired.
+
+We review long-lived assets of restaurants semi-annually for impairment, or whenever events or changes in circumstances indicate that the carrying amount of a restaurant may not be recoverable. We recorded restaurant-level impairment of 
+nil
+ for both quarters ended March 31, 2026 and 2025, excluding fair value measurements made for restaurants that were subsequently closed or refranchised prior to those respective quarter-end dates.
+
+Note 12 – Income Taxes
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025
+
+Income tax provision | $ | 123 | $ | 119
+
+Effective tax rate | 27.2 | % | 27.8 | %
+
+The lower effective tax rate for the quarter ended March 31, 2026 was primarily due to higher excess tax benefits upon exercise of share-based awards.
+
+In December 2017, the U.S. enacted the Tax Cuts and Jobs Act (the “Tax Act”), which included a broad range of tax reforms.  The Tax Act requires a U.S. shareholder to be subject to tax on Global Intangible Low Taxed Income (“GILTI”) earned by certain foreign subsidiaries. We have elected the option to account for current year GILTI tax as a period cost as incurred, and therefore included it in estimating the annual effective tax rate.
+
+In August 2022, the IRA was signed into law in the U.S., which contains certain tax measures, including a Corporate Alternative Minimum Tax (“CAMT”) of 
+15
+% on certain large corporations. On December 27, 2022, the U.S. Treasury Department and the Internal Revenue Service (the “IRS”) released Notice 2023-7, announcing their intention to issue proposed regulations addressing the application of the new CAMT. Additional notices or proposed regulations were released subsequently to continue to provide interim guidance regarding certain CAMT issues before proposed regulations are published. The Company will monitor the regulatory developments and continue to evaluate the impact on our financial statements, if any.
+
+In December 2022, a refined Foreign Sourced Income Exemption (“FSIE”) regime was published in Hong Kong and took effect from January 1, 2023. Under the new FSIE regime, certain foreign sourced income would be deemed as being sourced from Hong Kong and chargeable to Hong Kong Profits Tax, if the recipient entity fails to meet the prescribed exception requirements. Certain dividends, interests, intellectual property income and disposal gains, if any, received by us and our Hong Kong subsidiaries may be subject to the new tax regime. Based on our analysis, this legislation did not have a material impact on our financial statements. The Company will monitor the developments and continue to evaluate the impact, if any.
+
+The Organization for Economic Cooperation and Development (the “OECD”), the European Union and other jurisdictions (including jurisdictions in which we have operations or presence) have committed to enacting substantial changes to numerous long-standing tax principles impacting how large multinational enterprises are taxed. In particular, the OECD’s Pillar Two initiative introduced a 
+15
+% global minimum tax applied on a jurisdiction-by-jurisdiction basis, which many jurisdictions have enacted into their domestic law, with effective dates starting January 1, 2024. Based on our analysis, this legislation did not have a material impact on our financial statements. The Company will monitor the regulatory developments and continue to evaluate the impact, if any.
+
+In July 2025, the One Big Beautiful Bill Act (the “OBBBA”) was signed into law in the U.S. The OBBBA includes a broad range of provisions, such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework and others. These provisions have multiple effective dates beginning in 2025. Based on our preliminary analysis, this legislation did not have a material impact on our financial statements. The Company will monitor the regulatory developments and continue to evaluate the impact, if any.
+
+20
+
+We are subject to reviews, examinations and audits by Chinese tax authorities, the IRS and other tax authorities with respect to income and non-income based taxes. Since 2016, we have been under a national audit on transfer pricing by the Chinese State Taxation Administration (the “STA”) in China regarding our related party transactions for the period from 2006 to 2015. The information and views currently exchanged with the tax authorities focus on our franchise arrangement with YUM. We continue to provide information requested by the tax authorities to the extent it is available to the Company. It is reasonably possible that there could be significant developments, including expert review and assessment by the STA, within the next 12 months. The ultimate assessment and decision of the STA will depend upon further review of the information provided, as well as ongoing technical and other discussions with the STA and in-charge local tax authorities, and therefore, it is not possible to reasonably estimate the potential impact at this time. We will continue to defend our transfer pricing position. However, if the STA prevails in the assessment of additional tax due based on its ruling, the assessed tax, interest and penalties, if any, could have a material adverse impact on our financial position, results of operations and cash flows.
+
+Note 13 – Segment Reporting
+
+We have 
+two
+ reportable segments: KFC and Pizza Hut. Our non-reportable operating segments, including the operations of Lavazza, Huang Ji Huang, Little Sheep, Taco Bell and our delivery operating segment, are combined and referred to as All Other Segments, as these operating segments are insignificant both individually and in the aggregate. The Company’s chief operating decision maker (“CODM”) is the 
+chief executive officer
+, who reviews the financial information of each operating segment when making decisions about allocating resources and assessing the performance of the segment.
+
+Quarter Ended 3/31/2026
+
+KFC | Pizza Hut | All Other Segments | Corporate and Unallocated (a) | Combined | Elimination | Consolidated
+
+Revenue from external customers | $ | 2,453 | $ | 635 | $ | 52 | $ | 131 | (b) | $ | 3,271 | $ | — | $ | 3,271
+
+Inter-segment revenue (c) | — | — | 236 | — | 236 | ( 236 | ) | —
+
+2,453 | 635 | 288 | 131 | 3,507 | ( 236 | ) | 3,271
+
+Less:
+
+Food and paper | 746 | 213 | 4 | — | 963 | — | 963
+
+Payroll and employee benefits | 643 | 168 | 3 | — | 814 | ( 1 | ) | 813
+
+Occupancy and other operating expenses | 560 | 152 | 6 | — | 718 | — | 718
+
+General and administrative expenses | 61 | 26 | 6 | 44 | 137 | — | 137
+
+Franchise expenses | 11 | 1 | — | — | 12 | — | 12
+
+Expenses for transactions with franchisees | 15 | 2 | 25 | 108 | (b) | 150 | — | 150
+
+Other operating costs and expenses | — | 2 | 243 | (c) | 21 | 266 | ( 235 | ) | 31
+
+Operating Profit (Loss) | 417 | 71 | 1 | ( 42 | ) | 447 | — | 447
+
+Interest income, net (a) | 16 | 16
+
+Investment loss (a) | ( 11 | ) | ( 11 | )
+
+Income Before Income Taxes and Equity in Net Earnings (Losses) from Equity Method Investments | $ | 452
+
+21
+
+Quarter Ended 3/31/2025
+
+KFC | Pizza Hut | All Other Segments | Corporate and Unallocated (a) | Combined | Elimination | Consolidated
+
+Revenue from external customers | $ | 2,246 | $ | 595 | $ | 39 | $ | 101 | (b) | $ | 2,981 | $ | — | $ | 2,981
+
+Inter-segment revenue (c) | — | — | 163 | — | 163 | ( 163 | ) | —
+
+2,246 | 595 | 202 | 101 | 3,144 | ( 163 | ) | 2,981
+
+Less:
+
+Food and paper | 685 | 186 | 3 | — | 874 | — | 874
+
+Payroll and employee benefits | 554 | 163 | 3 | — | 720 | ( 1 | ) | 719
+
+Occupancy and other operating expenses | 532 | 151 | 5 | — | 688 | — | 688
+
+General and administrative expenses | 59 | 26 | 8 | 45 | 138 | — | 138
+
+Franchise expenses | 10 | 1 | — | — | 11 | — | 11
+
+Expenses for transactions with franchisees | 14 | 2 | 17 | 84 | (b) | 117 | — | 117
+
+Other operating costs and expenses | 1 | 6 | 167 | (c) | 17 | 191 | ( 162 | ) | 29
+
+Closures and impairment expenses, net | 5 | — | 1 | — | 6 | — | 6
+
+Operating Profit (Loss) | 386 | 60 | ( 2 | ) | ( 45 | ) | 399 | — | 399
+
+Interest income, net (a) | 26 | 26
+
+Investment gain (a) | 3 | 3
+
+Income Before Income Taxes and Equity in Net Earnings (Losses) from Equity Method Investments | $ | 428
+
+Quarter Ended
+
+Depreciation and Amortization | 3/31/2026 | 3/31/2025
+
+KFC | $ | 82 | $ | 74
+
+Pizza Hut | 23 | 23
+
+All Other Segments | 2 | 2
+
+Corporate and Unallocated | 10 | 10
+
+$ | 117 | $ | 109
+
+Quarter Ended
+
+Impairment Charges | 3/31/2026 | 3/31/2025
+
+KFC (d) | $ | 3 | $ | 5
+
+Pizza Hut (d) | 1 | 1
+
+$ | 4 | $ | 6
+
+Quarter Ended
+
+Capital Spending | 3/31/2026 | 3/31/2025
+
+KFC | 84 | 75
+
+Pizza Hut | 27 | 23
+
+All Other Segments | 1 | —
+
+Corporate and Unallocated | 32 | 39
+
+$ | 144 | $ | 137
+
+Total Assets
+
+3/31/2026 | 12/31/2025
+
+KFC | $ | 5,594 | $ | 5,560
+
+Pizza Hut | 966 | 952
+
+All Other Segments | 306 | 308
+
+Corporate and Unallocated (e) | 3,971 | 3,963
+
+$ | 10,837 | $ | 10,783
+
+(a)
+Amounts have not been allocated to any segment for performance reporting purposes.
+
+22
+
+(b)
+Amounts from corporate and unallocated primarily include revenues and associated expenses of transactions with franchisees derived from the Company’s central procurement model whereby the Company centrally purchases substantially all food and paper products from suppliers then sells and delivers to KFC and Pizza Hut restaurants, including franchisees. Amounts have not been allocated to any segment for purposes of making operating decisions or assessing financial performance as the transactions are deemed corporate revenues and expenses in nature.
+(c)
+Primarily includes revenues and associated costs generated from the delivery services that were provided to our Company-owned restaurants.
+(d)
+Primarily includes store closure impairment charges.
+(e)
+Primarily includes cash and cash equivalents, short-term investments, long-term bank deposits and notes, equity investments, and inventories that are centrally managed and PP&E that are not specifically identifiable within each segment.
+
+As substantially all of the Company’s revenue is derived from the PRC and substantially all of the Company’s long-lived assets are located in the PRC, no geographical information is presented. In addition, revenue derived from and long-lived assets located in the U.S., the Company’s country of domicile, are immaterial.
+
+Note 14 – Contingencies
+
+Indemnification of China Tax on Indirect Transfers of Assets
+
+In February 2015, the STA issued Bulletin 7 on Income arising from Indirect Transfers of Assets by Non-Resident Enterprises. Pursuant to Bulletin 7, an “indirect transfer” of Chinese taxable assets, including equity interests in a Chinese resident enterprise, by a non-resident enterprise, may be recharacterized and treated as a direct transfer of Chinese taxable assets, if such arrangement does not have reasonable commercial purpose and the transferor has avoided payment of Chinese enterprise income tax. As a result, gains derived from such an indirect transfer may be subject to Chinese enterprise income tax at a rate of 
+10
+%.
+
+YUM concluded and we concurred that it is more likely than not that YUM will not be subject to this tax with respect to the distribution. However, there are significant uncertainties regarding what constitutes a reasonable commercial purpose, how the safe harbor provisions for group restructurings are to be interpreted, and how the taxing authorities will ultimately view the distribution. As a result, YUM’s position could be challenged by Chinese tax authorities resulting in a 
+10
+% tax assessed on the difference between the fair market value and the tax basis of the separated China business. As YUM’s tax basis in the China business is minimal, the amount of such a tax could be significant.
+
+Any tax liability arising from the application of Bulletin 7 to the distribution is expected to be settled in accordance with the tax matters agreement between the Company and YUM. Pursuant to the tax matters agreement, to the extent any Chinese indirect transfer tax pursuant to Bulletin 7 is imposed, such tax and related losses will be allocated between YUM and the Company in proportion to their respective share of the combined market capitalization of YUM and the Company during the 30 trading days after the separation. Such a settlement could be significant and have a material adverse effect on our results of operations and our financial condition. At the inception of the tax indemnity being provided to YUM, the fair value of the non-contingent obligation to stand ready to perform was insignificant and the liability for the contingent obligation to make payment was not probable or estimable.
+
+Legal Proceedings
+
+The Company is subject to various lawsuits covering a variety of allegations from time to time. The Company believes that the ultimate liability, if any, in excess of amounts already provided for these matters in the Condensed Consolidated Financial Statements, is not likely to have a material adverse effect on the Company’s results of operations, financial condition or cash flows. Matters faced by the Company from time to time include, but are not limited to, claims from landlords, employees, customers and others related to operational, contractual or employment issues.
+
+Note 15 – Subsequent Events
+
+Cash Dividend
+
+On 
+April 29, 2026
+, the Company announced that the Board of Directors declared a cash dividend of $
+0.29
+ per share on Yum China’s common stock, payable on 
+June 17, 2026
+, to stockholders of record as of the close of business on 
+May 27, 2026
+. Total estimated cash dividend payable is approximately $
+101
+ million.
+
+23
+
+Item 2. Management’s Discussion and Analysis of
+ Financial Condition and Results of Operations
+
+References to the Company throughout this Management’s Discussion and Analysis of Financial Condition and Results of Operations (this “MD&A”) are made using the first person notations of “we,” “us” or “our.” This MD&A contains forward-looking statements, including statements with respect to the ongoing transfer pricing audit, the retail tax structure reform, our growth plans, future capital resources to fund our operations and anticipated capital expenditures, share repurchases and dividends, and the impact of new accounting pronouncements not yet adopted. See “Cautionary Note Regarding Forward-Looking Statements” at the end of this Item 2 for information regarding forward-looking statements.
+
+Introduction
+
+Yum China Holdings, Inc. is the largest restaurant company in China in terms of 2025 system sales, with 18,737 restaurants covering over 2,600 cities primarily in China as of March 31, 2026. Our growing restaurant network consists of our flagship KFC and Pizza Hut brands, as well as emerging brands such as Lavazza, Huang Ji Huang, Little Sheep and Taco Bell. We have the exclusive right to operate and sublicense the KFC, Pizza Hut and, subject to the agreed terms, Taco Bell brands in China (excluding Hong Kong, Macau and Taiwan), and own the intellectual property of the Little Sheep and Huang Ji Huang concepts outright. We also established a joint venture with Lavazza Group, the world-renowned family-owned Italian coffee company, to explore and develop the Lavazza coffee concept in China. KFC was the first major global restaurant brand to enter China in 1987. With more than three decades of operations, we have developed extensive operating experience in the China market. We believe that there are significant opportunities to further expand within China, and we intend to focus our efforts on increasing our geographic footprint in both existing and new cities.
+
+KFC is the leading and the largest quick-service restaurant (“QSR”) brand in China in terms of system sales. As of March 31, 2026, KFC operated 13,454 restaurants in over 2,600 cities across China.
+
+Pizza Hut is the leading and the largest casual dining restaurant (“CDR”) brand in China in terms of system sales and number of restaurants. As of March 31, 2026, Pizza Hut operated 4,375 restaurants in over 1,100 cities.
+
+Overview
+
+We intend for this MD&A to provide the reader with information that will assist in understanding our results of operations, including metrics that management uses to assess the Company’s performance. Throughout this MD&A, we discuss the following performance metrics:
+
+•
+Certain performance metrics and non-GAAP measures are presented excluding the impact of foreign currency translation (“F/X”). These amounts are derived by translating current year results at prior year average exchange rates. We believe the elimination of the F/X impact provides better year-to-year comparability without the distortion of foreign currency fluctuations.
+•
+System sales growth reflects the results of all restaurants regardless of ownership, including Company-owned and franchise restaurants, except for sales from non-Company-owned restaurants for which we do not receive a sales-based royalty. Sales of franchise restaurants typically generate ongoing franchise fees for the Company at an average rate of approximately 6% of system sales. Franchise restaurant sales are not included in Company sales in the Condensed Consolidated Statements of Income; however, the franchise fees are included in the Company’s revenues. We believe system sales growth is useful to investors as a significant indicator of the overall strength of our business as it incorporates all of our revenue drivers, Company and franchise same-store sales as well as net unit growth.
+•
+Effective January 1, 2018, the Company revised its definition of same-store sales growth to represent the estimated percentage change in sales of food of all restaurants in the Company system that have been open prior to the first day of our prior fiscal year, excluding the period during which stores are temporarily closed. We refer to these as our “base” stores.  Previously, same-store sales growth represented the estimated percentage change in sales of all restaurants in the Company system that have been open for one year or more, including stores temporarily closed, and the base stores changed on a rolling basis from month to month. This revision was made to align with how management measures performance internally and focuses on trends of a more stable base of stores. 
+•
+Company sales represent revenues from Company-owned restaurants. Within the analysis of Company sales, Total revenue and Restaurant profit, store portfolio actions represent the net impact from new-unit openings, acquisitions, refranchising and store closures. Net new unit contribution represents net revenue growth primarily from store portfolio actions excluding temporary store closures. Other primarily represents the impact of same-store sales as well as the impact of changes in restaurant operating costs such as inflation/deflation.
+
+24
+
+All Note references in this MD&A refer to the Notes to the Condensed Consolidated Financial Statements. Tabular amounts are displayed in millions of U.S. dollars except percentages and per share and unit count amounts, or as otherwise specifically identified. Percentages may not recompute due to rounding. References to quarters are references to the Company’s fiscal quarters.
+
+Quarters Ended March 31, 2026 and 2025
+
+Results of Operations
+
+Summary
+
+The Company has two reportable segments: KFC and Pizza Hut. Our non-reportable operating segments, including the operations of Lavazza, Huang Ji Huang, Little Sheep, Taco Bell and our delivery operating segment, are combined and referred to as All Other Segments, as those operating segments are insignificant both individually and in the aggregate. Additional details on our reportable operating segments are included in Note 13.
+
+Quarter Ended | %/ppts Change
+
+3/31/2026 | 3/31/2025 | Reported | Ex F/X
+
+System Sales Growth (a) (%) | 4 | 2 | NM | NM
+
+Same-Store Sales Growth (a) (%) | Even | Even | NM | NM
+
+Operating Profit | 447 | 399 | +12 | +6
+
+Adjusted Operating Profit (b) | 447 | 399 | +12 | +6
+
+Core Operating Profit (b) | 423 | 399 | NM | +6
+
+OP Margin (c) (%) | 13.7 | 13.4 | +0.3 | +0.2
+
+Core OP Margin (b) (%) | 13.6 | 13.4 | NM | +0.2
+
+Net Income | 309 | 292 | +6 | —
+
+Adjusted Net Income (b) | 309 | 292 | +6 | —
+
+Diluted Earnings Per Common Share | 0.87 | 0.77 | +13 | +7
+
+Adjusted Diluted Earnings Per Common Share (b) | 0.87 | 0.77 | +13 | +7
+
+NM refers to not meaningful.
+
+(a)
+System Sales and Same-Store Sales growth percentages as shown in the table exclude the impact of F/X. Effective January 1, 2018, temporary store closures are normalized in the same-store sales calculation by excluding the period during which stores are temporarily closed.
+
+(b)
+See “Non-GAAP Measures” below for definitions and reconciliations of the most directly comparable GAAP financial measures to the non-GAAP measures. 
+
+(c)
+OP margin is defined as Operating Profit divided by Total revenues.
+
+As compared to the first quarter of 2025, Total revenues in the first quarter of 2026 increased 10%, or 4% excluding the impact of F/X, primarily attributable to 4% net new unit contribution.
+
+Operating profit for the first quarter increased 12%, or 6% excluding the impact of F/X, primarily driven by the increase in Total revenues, efficiency improvement from streamlined operations and favorable commodity prices, lower G&A and closures and impairment expenses, partially offset by increased delivery cost associated with higher delivery sales mix in the current period and value-for-money offerings.
+
+Net income increased 6%, or remained flat excluding the impact of F/X, for the quarter ended March 31, 2026, mainly due to the increase in Operating Profit, offset by the decrease in fair value of our investment in Meituan and less interest income from lower investment balance and interest rates.
+
+25
+
+The Consolidated Results of Operations for the quarters ended March 31, 2026 and 2025 and other data are presented below:
+
+Quarter Ended | % B/(W) (a)
+
+3/31/2026 | 3/31/2025 | Reported | Ex F/X
+
+Company sales | $ | 3,047 | $ | 2,801 | 9 | 3
+
+Franchise fees and income | 30 | 27 | 12 | 7
+
+Revenues from transactions with franchisees | 156 | 121 | 28 | 22
+
+Other revenues | 38 | 32 | 18 | 12
+
+Total revenues | $ | 3,271 | $ | 2,981 | 10 | 4
+
+Company restaurant expenses | $ | 2,494 | $ | 2,281 | (9 | ) | (4 | )
+
+Operating Profit | $ | 447 | $ | 399 | 12 | 6
+
+OP Margin (%) | 13.7 | % | 13.4 | % | 0.3 | ppts. | 0.2 | ppts.
+
+Interest income, net | 16 | 26 | (44 | ) | (45 | )
+
+Investment (loss) gain | (11 | ) | 3 | NM | NM
+
+Income tax provision | (123 | ) | (119 | ) | (3 | ) | 2
+
+Equity in net earnings (losses) from equity method investments | 2 | 4 | (34 | ) | (37 | )
+
+Net Income – including noncontrolling interests | 331 | 313 | 6 | —
+
+Net Income – noncontrolling interests | 22 | 21 | (4 | ) | 1
+
+Net Income – Yum China Holdings, Inc. | $ | 309 | $ | 292 | 6 | —
+
+Diluted Earnings Per Common Share | $ | 0.87 | $ | 0.77 | 13 | 7
+
+Effective tax rate | 27.2 | % | 27.8 | %
+
+Supplementary information – Non-GAAP Measures (b)
+
+Restaurant profit | $ | 553 | $ | 520 | 6 | 1
+
+Restaurant margin (%) | 18.2 | % | 18.6 | % | (0.4 | ) | ppts. | (0.4 | ) | ppts.
+
+Adjusted Operating Profit | $ | 447 | $ | 399
+
+Core Operating Profit | $ | 423 | $ | 399
+
+Core OP Margin (%) | 13.6 | % | 13.4 | %
+
+Adjusted Net Income – Yum China Holdings, Inc. | $ | 309 | $ | 292
+
+Adjusted Diluted Earnings Per Common Share | $ | 0.87 | $ | 0.77
+
+Adjusted Effective Tax Rate | 27.2 | % | 27.8 | %
+
+Adjusted EBITDA | $ | 568 | $ | 514
+
+(a)
+Represents the period-over-period change in percentage. 
+(b)
+See “Non-GAAP Measures” below for definitions and reconciliations of the most directly comparable GAAP financial measures to the non-GAAP measures. 
+
+Performance Metrics
+
+Quarter Ended 3/31/2026
+
+% change
+
+System Sales Growth | 10 | %
+
+System Sales Growth, excluding F/X | 4 | %
+
+Same-Store Sales Growth | Even
+
+Unit Count | 3/31/2026 | 3/31/2025 | % Increase
+
+Company-owned | 15,448 | 14,072 | 10
+
+Franchisees | 3,289 | 2,570 | 28
+
+18,737 | 16,642 | 13
+
+26
+
+Non-GAAP Measures
+
+In addition to the results provided in accordance with GAAP throughout this MD&A, the Company provides the following non-GAAP measures:
+
+•
+Measures adjusted for Special Items, which include Adjusted Operating Profit, Adjusted Net Income, Adjusted Earnings Per Common Share (“EPS”), Adjusted Effective Tax Rate and Adjusted EBITDA; 
+•
+Company Restaurant Profit (“Restaurant profit”) and Restaurant margin; 
+•
+Core Operating Profit and Core OP margin, which exclude Special Items, and further adjusted for Items Affecting Comparability and the impact of F/X;
+
+These non-GAAP measures are not intended to replace the presentation of our financial results in accordance with GAAP.  Rather, the Company believes that the presentation of these non-GAAP measures provides additional information to investors to facilitate the comparison of past and present results, excluding those items that the Company does not believe are indicative of our core operations.
+
+With respect to non-GAAP measures adjusted for Special Items, the Company excludes impact from Special Items for the purpose of evaluating performance internally and uses them as factors in determining compensation for certain employees. Special Items are not included in any of our segment results.
+
+Adjusted EBITDA is defined as net income including noncontrolling interests adjusted for equity in net earnings (losses) from equity method investments, income tax, interest income, net, investment gain or loss, depreciation and amortization, store impairment charges, and Special Items. Store impairment charges included as an adjustment item in Adjusted EBITDA primarily resulted from our semi-annual impairment evaluation of long-lived assets of individual restaurants, and additional impairment evaluation whenever events or changes in circumstances indicate that the carrying value of the assets may not be recoverable. If these restaurant-level assets were not impaired, depreciation of the assets would have been recorded and included in EBITDA. Therefore, store impairment charges were a non-cash item similar to depreciation and amortization of our long-lived assets of restaurants. The Company believes that investors and analysts may find it useful in measuring operating performance without regard to such non-cash items.
+
+Restaurant profit is defined as Company sales less expenses incurred directly by our Company-owned restaurants in generating Company sales, including cost of food and paper, restaurant-level payroll and employee benefits, rent, depreciation and amortization of restaurant-level assets, advertising expenses, and other operating expenses. Company restaurant margin percentage is defined as Restaurant profit divided by Company sales. We also use Restaurant profit and Restaurant margin for the purpose of internally evaluating the performance of our Company-owned restaurants and we believe they provide useful information to investors as to the profitability of our Company-owned restaurants.
+
+Core Operating Profit is defined as Operating Profit adjusted for Special Items, and further excluding Items Affecting Comparability and the impact of F/X. We consider quantitative and qualitative factors in assessing whether to adjust for the impact of items that may be significant or that could affect an understanding of our ongoing financial and business performance or trends. Items such as charges, gains and accounting changes, which are viewed by management as significantly impacting the current period or the comparable period, due to changes in policy or other external factors, or non-cash items pertaining to underlying activities that are different from or unrelated to our core operations, are generally considered “Items Affecting Comparability.” Examples of Items Affecting Comparability include, but are not limited to: temporary relief from landlords and government agencies; VAT deductions due to tax policy changes; and amortization of reacquired franchise rights recognized upon acquisitions. We believe presenting Core Operating Profit provides additional information to further enhance comparability of our operating results and we use this measure for purposes of evaluating the performance of our core operations. Core OP margin is defined as Core Operating Profit divided by Total revenues, excluding the impact of F/X.
+
+27
+
+The following table sets forth the reconciliations of the most directly comparable GAAP financial measures to the non-GAAP financial measures:
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025
+
+Reconciliation of Operating Profit to Adjusted Operating Profit
+
+Operating Profit | $ | 447 | $ | 399
+
+Special Items, Operating Profit | — | —
+
+Adjusted Operating Profit | $ | 447 | $ | 399
+
+Reconciliation of Net Income to Adjusted Net Income
+
+Net Income – Yum China Holdings, Inc. | $ | 309 | $ | 292
+
+Special Items, Net Income –Yum China Holdings, Inc. | — | —
+
+Adjusted Net Income – Yum China Holdings, Inc. | $ | 309 | $ | 292
+
+Reconciliation of EPS to Adjusted EPS
+
+Basic Earnings Per Common Share | $ | 0.88 | $ | 0.78
+
+Special Items, Basic Earnings Per Common Share | — | —
+
+Adjusted Basic Earnings Per Common Share | $ | 0.88 | $ | 0.78
+
+Diluted Earnings Per Common Share | $ | 0.87 | $ | 0.77
+
+Special Items, Diluted Earnings Per Common Share | — | —
+
+Adjusted Diluted Earnings Per Common Share | $ | 0.87 | $ | 0.77
+
+Reconciliation of Effective Tax Rate to Adjusted Effective Tax Rate
+
+Effective tax rate | 27.2 | % | 27.8 | %
+
+Impact on effective tax rate as a result of Special Items | — | —
+
+Adjusted effective tax rate | 27.2 | % | 27.8 | %
+
+Net income, along with the reconciliation to Adjusted EBITDA, is presented below:
+
+Quarter Ended
+
+3/31/2026 | 3/31/2025
+
+Net Income – Yum China Holdings, Inc. | $ | 309 | $ | 292
+
+Net income – noncontrolling interests | 22 | 21
+
+Equity in net (earnings) losses from equity method investments | (2 | ) | (4 | )
+
+Income tax provision | 123 | 119
+
+Interest income, net | (16 | ) | (26 | )
+
+Investment loss (gain) | 11 | (3 | )
+
+Operating Profit | 447 | 399
+
+Special Items, Operating Profit | — | —
+
+Adjusted Operating Profit | 447 | 399
+
+Depreciation and amortization | 117 | 109
+
+Store impairment charges | 4 | 6
+
+Adjusted EBITDA | $ | 568 | $ | 514
+
+28
+
+Reconciliation of GAAP Operating Profit to Restaurant Profit is as follows:
+
+Quarter Ended 3/31/2026
+
+KFC | Pizza Hut | All Other Segments | Corporate and Unallocated | Elimination | Total
+
+GAAP Operating Profit (Loss) | $ | 417 | $ | 71 | $ | 1 | $ | (42 | ) | $ | — | $ | 447
+
+Less:
+
+Franchise fees and income | 23 | 3 | 4 | — | — | 30
+
+Revenues from transactions with franchisees | 19 | 2 | 26 | 109 | — | 156
+
+Other revenues | 1 | 3 | 248 | 22 | (236 | ) | 38
+
+Add:
+
+General and administrative expenses | 61 | 26 | 6 | 44 | — | 137
+
+Franchise expenses | 11 | 1 | — | — | — | 12
+
+Expenses for transactions with franchisees | 15 | 2 | 25 | 108 | — | 150
+
+Other operating costs and expenses | — | 2 | 243 | 21 | (235 | ) | 31
+
+Restaurant profit (loss) | $ | 461 | $ | 94 | $ | (3 | ) | $ | — | $ | 1 | $ | 553
+
+Company sales | 2,410 | 627 | 10 | — | — | 3,047
+
+Restaurant margin (%) | 19.1 | % | 15.0 | % | (14.9 | )% | N/A | N/A | 18.2 | %
+
+Quarter Ended 3/31/2025
+
+KFC | Pizza Hut | All Other Segments | Corporate and Unallocated | Elimination | Total
+
+GAAP Operating Profit (Loss) | $ | 386 | $ | 60 | $ | (2 | ) | $ | (45 | ) | $ | — | $ | 399
+
+Less:
+
+Franchise fees and income | 21 | 2 | 4 | — | — | 27
+
+Revenues from transactions with franchisees | 16 | 2 | 19 | 84 | — | 121
+
+Other revenues | 1 | 7 | 170 | 17 | (163 | ) | 32
+
+Add:
+
+General and administrative expenses | 59 | 26 | 8 | 45 | — | 138
+
+Franchise expenses | 10 | 1 | — | — | — | 11
+
+Expenses for transactions with franchisees | 14 | 2 | 17 | 84 | — | 117
+
+Other operating costs and expenses | 1 | 6 | 167 | 17 | (162 | ) | 29
+
+Closures and impairment expenses, net | 5 | — | 1 | — | — | 6
+
+Restaurant profit (loss) | $ | 437 | $ | 84 | $ | (2 | ) | $ | — | $ | 1 | $ | 520
+
+Company sales | 2,208 | 584 | 9 | — | — | 2,801
+
+Restaurant margin (%) | 19.8 | % | 14.4 | % | (20.9 | )% | N/A | N/A | 18.6 | %
+
+Reconciliation of GAAP Operating Profit to Core Operating Profit is as follows:
+
+Quarter ended | % Change
+
+3/31/2026 | 3/31/2025 | B/(W)
+
+Operating profit | $ | 447 | $ | 399 | 12
+
+Special Items, Operating Profit | — | —
+
+Adjusted Operating Profit | $ | 447 | $ | 399 | 12
+
+Items Affecting Comparability | — | —
+
+F/X impact | (24 | ) | —
+
+Core Operating Profit | $ | 423 | $ | 399 | 6
+
+Total revenues | 3,271 | 2,981 | 10
+
+F/X impact | (159 | ) | —
+
+Total revenues, excluding the impact of F/X | $ | 3,112 | $ | 2,981 | 4
+
+Core OP margin (%) | 13.6 | % | 13.4 | % | 0.2 | ppts.
+
+29
+
+Reconciliation of GAAP Operating Profit to Core Operating Profit by segment is as follows:
+
+Quarter Ended 3/31/2026
+
+KFC | Pizza Hut | All Other Segments | Corporate and Unallocated | Elimination | Total
+
+GAAP Operating Profit (Loss) | $ | 417 | $ | 71 | $ | 1 | $ | (42 | ) | $ | — | $ | 447
+
+Special Items, Operating Profit | — | — | — | — | — | —
+
+Adjusted Operating Profit (Loss) | $ | 417 | $ | 71 | $ | 1 | $ | (42 | ) | $ | — | $ | 447
+
+Items Affecting Comparability | — | — | — | — | — | —
+
+F/X impact | (21 | ) | (4 | ) | — | 1 | — | (24 | )
+
+Core Operating Profit (Loss) | $ | 396 | $ | 67 | $ | 1 | $ | (41 | ) | $ | — | $ | 423
+
+Quarter Ended 3/31/2025
+
+KFC | Pizza Hut | All Other Segments | Corporate and Unallocated | Elimination | Total
+
+GAAP Operating Profit (Loss) | $ | 386 | $ | 60 | $ | (2 | ) | $ | (45 | ) | $ | — | $ | 399
+
+Special Items, Operating Profit | — | — | — | — | — | —
+
+Adjusted Operating Profit (Loss) | $ | 386 | $ | 60 | $ | (2 | ) | $ | (45 | ) | $ | — | $ | 399
+
+Items Affecting Comparability | — | — | — | — | — | —
+
+F/X impact | — | — | — | — | — | —
+
+Core Operating Profit (Loss) | $ | 386 | $ | 60 | $ | (2 | ) | $ | (45 | ) | $ | — | $ | 399
+
+Segment Results
+
+KFC
+
+Quarter Ended
+
+% B/(W)
+
+3/31/2026 | 3/31/2025 | Reported | Ex F/X
+
+Company sales | $ | 2,410 | $ | 2,208 | 9 | 4
+
+Franchise fees and income | 23 | 21 | 17 | 11
+
+Revenues from transactions with franchisees | 19 | 16 | 15 | 9
+
+Other revenues | 1 | 1 | (2 | ) | (7 | )
+
+Total revenues | $ | 2,453 | $ | 2,246 | 9 | 4
+
+Company restaurant expenses | $ | 1,949 | $ | 1,771 | (10 | ) | (5 | )
+
+G&A expenses | $ | 61 | $ | 59 | (4 | ) | 1
+
+Franchise expenses | $ | 11 | $ | 10 | (14 | ) | (8 | )
+
+Expenses for transactions with franchisees | $ | 15 | $ | 14 | (5 | ) | —
+
+Other operating costs and expenses | $ | — | $ | 1 | 61 | 63
+
+Closures and impairment expenses, net | $ | — | $ | 5 | NM | NM
+
+Operating Profit | $ | 417 | $ | 386 | 8 | 3
+
+OP Margin (%) | 17.0 | % | 17.2 | % | (0.2 | ) | ppts. | (0.2 | ) | ppts.
+
+Restaurant profit | $ | 461 | $ | 437 | 5 | —
+
+Restaurant margin (%) | 19.1 | % | 19.8 | % | (0.7 | ) | ppts. | (0.7 | ) | ppts.
+
+Quarter Ended 3/31/2026
+
+% change
+
+System Sales Growth | 10 | %
+
+System Sales Growth, excluding F/X | 5 | %
+
+Same-Store Sales Growth | 1 | %
+
+30
+
+Unit Count | 3/31/2026 | 3/31/2025 | % Increase
+
+Company-owned | 11,317 | 10,360 | 9
+
+Franchisees | 2,137 | 1,583 | 35
+
+13,454 | 11,943 | 13
+
+Company Sales and Restaurant Profit
+
+The changes in Company sales and Restaurant profit were as follows:
+
+Quarter Ended
+
+Income (Expense) | 3/31/2025 | Store Portfolio Actions | Other | F/X | 3/31/2026
+
+Company sales | $ | 2,208 | $ | 66 | $ | 17 | $ | 119 | $ | 2,410
+
+Cost of sales | (685 | ) | (23 | ) | (1 | ) | (37 | ) | (746 | )
+
+Cost of labor | (554 | ) | (21 | ) | (36 | ) | (32 | ) | (643 | )
+
+Occupancy and other operating expenses | (532 | ) | (17 | ) | 16 | (27 | ) | (560 | )
+
+Restaurant profit | $ | 437 | $ | 5 | $ | (4 | ) | $ | 23 | $ | 461
+
+The increase in Company sales for the quarter, excluding the impact of F/X, was primarily driven by net unit growth and same-store sales growth. The increase in Restaurant profit for the quarter, excluding the impact of F/X, was primarily driven by the increase in Company sales, efficiency improvement from streamlined operations and favorable commodity prices, offset by increased rider cost associated with higher delivery sales mix in the current period and value-for-money offerings.
+
+Franchise Fees and Income/Revenues from Transactions with Franchisees
+
+The increase in Franchise fees and income and Revenues from transactions with franchisees for the quarter, excluding the impact of F/X, was primarily driven by acceleration of franchise store openings.
+
+Operating Profit
+
+The increase in Operating profit for the quarter, excluding the impact of F/X, was primarily driven by lower closures and impairment expenses, increased profit generated from acceleration of franchise store openings and increase in Restaurant profit.
+
+Pizza Hut
+
+Quarter Ended
+
+% B/(W)
+
+3/31/2026 | 3/31/2025 | Reported | Ex F/X
+
+Company sales | $ | 627 | $ | 584 | 7 | 2
+
+Franchise fees and income | 3 | 2 | 36 | 29
+
+Revenues from transactions with franchisees | 2 | 2 | 36 | 29
+
+Other revenues | 3 | 7 | (62 | ) | (63 | )
+
+Total revenues | $ | 635 | $ | 595 | 7 | 2
+
+Company restaurant expenses | $ | 533 | $ | 500 | (7 | ) | (1 | )
+
+G&A expenses | $ | 26 | $ | 26 | — | 5
+
+Franchise expenses | $ | 1 | $ | 1 | (31 | ) | (25 | )
+
+Expenses for transactions with franchisees | $ | 2 | $ | 2 | (15 | ) | (9 | )
+
+Other operating costs and expenses | $ | 2 | $ | 6 | 64 | 66
+
+Operating Profit | $ | 71 | $ | 60 | 18 | 12
+
+OP Margin (%) | 11.2 | % | 10.1 | % | 1.1 | ppts. | 1.0 | ppts.
+
+Restaurant profit | $ | 94 | $ | 84 | 12 | 6
+
+Restaurant margin (%) | 15.0 | % | 14.4 | % | 0.6 | ppts. | 0.6 | ppts.
+
+31
+
+Quarter Ended 3/31/2026
+
+% change
+
+System Sales Growth | 9 | %
+
+System Sales Growth, excluding F/X | 4 | %
+
+Same-Store Sales (Decline) | (1 | )%
+
+Unit Count | 3/31/2026 | 3/31/2025 | % Increase
+
+Company-owned | 3,932 | 3,555 | 11
+
+Franchisees | 443 | 214 | 107
+
+4,375 | 3,769 | 16
+
+Company Sales and Restaurant Profit
+
+The changes in Company sales and Restaurant profit were as follows:
+
+Quarter Ended
+
+Income (Expense) | 3/31/2025 | Store Portfolio Actions | Other | F/X | 3/31/2026
+
+Company sales | $ | 584 | $ | 15 | $ | (3 | ) | $ | 31 | $ | 627
+
+Cost of sales | (186 | ) | (5 | ) | (12 | ) | (10 | ) | (213 | )
+
+Cost of labor | (163 | ) | (3 | ) | 7 | (9 | ) | (168 | )
+
+Occupancy and other operating expenses | (151 | ) | (5 | ) | 11 | (7 | ) | (152 | )
+
+Restaurant profit | $ | 84 | $ | 2 | $ | 3 | $ | 5 | $ | 94
+
+The increase in Company sales for the quarter, excluding the impact of F/X, was primarily driven by net unit growth, partially offset by same-store sales decline. The increase in Restaurant profit for the quarter, excluding the impact of F/X, was primarily driven by the increase in Company sales, efficiency improvement from streamlined operations and favorable commodity prices, partially offset by value-for-money offerings and increased delivery cost associated with higher delivery sales mix in the current period.
+
+Franchise Fees and Income/Revenues from Transactions with Franchisees
+
+The increase in Franchise fees and income and Revenues from transactions with franchisees for the quarter, excluding the impact of F/X, was primarily driven by acceleration of franchise store openings.
+
+Operating Profit
+
+The increase in Operating profit for the quarter, excluding the impact of F/X, was primarily driven by the increase in Restaurant profit.
+
+32
+
+All Other Segments
+
+All Other Segments reflects the results of Lavazza, Huang Ji Huang, Little Sheep, Taco Bell and our delivery operating segment.
+
+Quarter Ended
+
+% B/(W)
+
+3/31/2026 | 3/31/2025 | Reported | Ex F/X
+
+Company sales | $ | 10 | $ | 9 | 23 | 17
+
+Franchise fees and income | 4 | 4 | (25 | ) | (29 | )
+
+Revenues from transactions with franchisees | 26 | 19 | 40 | 33
+
+Other revenues | 248 | 170 | 45 | 38
+
+Total revenues | $ | 288 | $ | 202 | 42 | 35
+
+Company restaurant expenses | $ | 13 | $ | 11 | (17 | ) | (12 | )
+
+G&A expenses | $ | 6 | $ | 8 | 20 | 23
+
+Expenses for transactions with franchisees | $ | 25 | $ | 17 | (46 | ) | (39 | )
+
+Other operating costs and expenses | $ | 243 | $ | 167 | (45 | ) | (38 | )
+
+Closures and impairment expenses, net | $ | — | $ | 1 | 68 | 69
+
+Operating Profit (Loss) | $ | 1 | $ | (2 | ) | NM | NM
+
+OP Margin (%) | 0.2 | % | (0.8 | )% | 1.0 | ppts. | 1.0 | ppts.
+
+Restaurant loss | $ | (3 | ) | $ | (2 | ) | 12 | 17
+
+Restaurant margin (%) | (14.9 | )% | (20.9 | )% | 6.0 | ppts. | 6.0 | ppts.
+
+Total Revenues
+
+The increase in Total revenues of All other segments for the quarter, excluding the impact of F/X, was primarily driven by inter-segment revenue generated by our delivery team for services provided to Company-owned restaurants as a result of increased delivery sales.
+
+Operating Profit (Loss)
+
+The improvement in Operating profit (loss) for the quarter, excluding the impact of F/X, was primarily driven by the decrease in Operating loss from certain emerging brands.
+
+Corporate and Unallocated
+
+Quarter Ended
+
+% B/(W)
+
+3/31/2026 | 3/31/2025 | Reported | Ex F/X
+
+Revenues from transactions with franchisees | $ | 109 | $ | 84 | 28 | 22
+
+Other revenues | $ | 22 | $ | 17 | 34 | 28
+
+Expenses for transactions with franchisees | $ | 108 | $ | 84 | (28 | ) | (22 | )
+
+Other operating costs and expenses | $ | 21 | $ | 17 | (26 | ) | (20 | )
+
+Corporate G&A expenses | $ | 44 | $ | 45 | 2 | 5
+
+Interest income, net | $ | 16 | $ | 26 | (44 | ) | (45 | )
+
+Investment (loss) gain | $ | (11 | ) | $ | 3 | NM | NM
+
+Income tax provision (See Note 12) | $ | (123 | ) | $ | (119 | ) | (3 | ) | 2
+
+Equity in net earnings (losses) from equity method investments | $ | 2 | $ | 4 | (34 | ) | (37 | )
+
+Effective tax rate (See Note 12) | 27.2 | % | 27.8 | % | 0.6 | ppts. | 0.6 | ppts.
+
+33
+
+Revenues from Transactions with Franchisees
+
+Revenues from transactions with franchisees primarily include revenues derived from the Company’s central procurement model, whereby food and paper products are centrally purchased and then mainly sold to KFC and Pizza Hut franchisees. The increase in revenues from transactions with franchisees for the quarter, excluding the impact of F/X, was mainly due to the increase in system sales for franchisees primarily driven by acceleration of franchise store openings.
+
+Corporate G&A Expenses
+
+The decrease in Corporate G&A expenses for the quarter, excluding the impact of F/X, was primarily due to timing of government subsidies and lower compensation costs.
+
+Interest Income, Net
+
+The decrease in interest income, net for the quarter, excluding the impact of F/X, was primarily driven by lower investment balance with cash used in return to shareholders and lower interest rates.
+
+Investment (Loss) Gain
+
+The investment (loss) gain mainly relates to the change in fair value of our investment in Meituan. See Note 3 for additional information.
+
+Income Tax Provision
+
+Our income tax provision primarily includes tax on our earnings generally at the Chinese statutory tax rate of 25% with certain Chinese subsidiaries qualified for preferential tax rates, withholding tax on planned or actual repatriation of earnings outside of China, Hong Kong profits tax, and U.S. corporate income tax, if any. The lower effective tax rate for the quarter ended March 31, 2026 was primarily due to higher excess tax benefits upon exercise of share-based awards.
+
+Significant Known Events, Trends or Uncertainties Expected to Impact Future Results
+
+Tax Examination on Transfer Pricing
+
+We are subject to reviews, examinations and audits by Chinese tax authorities, the Internal Revenue Service and other tax authorities with respect to income and non-income based taxes. Since 2016, we have been under a national audit on transfer pricing by the STA in China regarding our related party transactions for the period from 2006 to 2015. The information and views currently exchanged with the tax authorities focus on our franchise arrangement with YUM. We continue to provide information requested by the tax authorities to the extent it is available to the Company. It is reasonably possible that there could be significant developments, including expert review and assessment by the STA, within the next 12 months. The ultimate assessment and decision of the STA will depend upon further review of the information provided, as well as ongoing technical and other discussions with the STA and in-charge local tax authorities, and therefore it is not possible to reasonably estimate the potential impact at this time. We will continue to defend our transfer pricing position. However, if the STA prevails in the assessment of additional tax due based on its ruling, the assessed tax, interest and penalties, if any, could have a material adverse impact on our financial position, results of operations and cash flows.
+
+PRC Value-Added Tax (“VAT”)
+
+Effective May 1, 2016, a 6% output VAT replaced the 5% business tax (“BT”) previously applied to certain restaurant sales. Input VAT would be creditable to the aforementioned 6% output VAT. Our new retail business is generally subject to VAT rates at 9% or 13%. The latest VAT rates imposed on our purchase of materials and services mainly included 13%, 9% and 6%, which were gradually changed from 17%, 13%, 11% and 6% since 2017. These rate changes impact our input VAT on all materials and certain services, mainly including construction, transportation and leasing. However, the impact on our operating results was insignificant.
+
+34
+
+Entities that are general VAT taxpayers are permitted to offset qualified input VAT paid to suppliers against their output VAT upon receipt of appropriate supplier VAT invoices on an entity-by-entity basis. When the output VAT exceeds the input VAT, the difference is remitted to tax authorities, usually on a monthly basis; whereas when the input VAT exceeds the output VAT, the difference is treated as a VAT asset which can be carried forward indefinitely to offset future net VAT payables. VAT related to purchases and sales which have not been settled at the balance sheet date is disclosed separately as an asset and liability, respectively, in the Condensed Consolidated Balance Sheets. At each balance sheet date, the Company reviews the outstanding balance of any VAT asset for recoverability, giving consideration to the indefinite life of VAT assets as well as its forecasted operating results and capital spending, which inherently includes significant assumptions that are subject to change. As of March 31, 2026 and December 31, 2025, the Company has not made an allowance for the recoverability of VAT assets, as the balance is expected to be utilized to offset against VAT payables or be refunded in the future.
+
+In June 2022, the Chinese Ministry of Finance (“MOF”) and the STA jointly issued Announcement [2022] No. 21, to extend full VAT credit refunds to more sectors and increase the frequency for accepting taxpayers’ applications. Beginning on July 1, 2022, entities engaged in providing catering services in China are allowed to apply for a lump sum refund of VAT assets accumulated prior to March 31, 2019. In addition, VAT assets accumulated after March 31, 2019 can be refunded on a monthly basis. In August 2025, the MOF and the STA jointly issued Announcement [2025] No. 7, amending the VAT refund policy.  Effective September 1, 2025, certain industries (including the catering sector) are only eligible for a partial refund of VAT assets, subject to additional criteria stipulated in the announcement.
+
+As of March 31, 2026, current VAT assets of $147 million, non-current VAT assets of $14 million and net VAT payable of $6 million were recorded in Prepaid expenses and other current assets, Other assets and Accounts payable and other current liabilities, respectively, in the Condensed Consolidated Balance Sheets.
+
+The Company will continue to review the classification of VAT assets at each balance sheet date, giving consideration to different local implementation practices of refunding VAT assets and the outcome of potential administrative reviews.
+
+We have been benefiting from the retail tax structure reform since it was implemented on May 1, 2016. However, the amount of our expected benefit from this VAT regime depends on a number of factors, some of which are outside of our control. The interpretation and application of the new VAT regime are not settled at some local governmental levels. On December 25, 2024, China enacted the VAT Law, which came into effect on January 1, 2026, along with its implementation rules. In terms of tax rates, the VAT Law maintains the existing standard rates of 13%, 9% and 6%. We will continue to monitor regulatory developments and evaluate any potential impact on our financial statements.
+
+Foreign Currency Exchange Rate
+
+The reporting currency of the Company is the US$. Most of the revenues, costs, assets and liabilities of the Company are denominated in Chinese Renminbi (“RMB”). Any significant change in the exchange rate between US$ and RMB may materially affect the Company’s business, results of operations, cash flows and financial condition, depending on the weakening or strengthening of RMB against the US$. See “Item 3. Quantitative and Qualitative Disclosures About Market Risk” for further discussion.
+
+Condensed Consolidated Cash Flows
+
+Our cash flows for the quarters ended March 31, 2026 and 2025 were as follows:
+
+Net cash provided by operating activities
+ was $550 million in 2026 as compared to $452 million in 2025. The increase was primarily driven by the increase in Operating profit along with working capital changes.
+
+Net cash used in investing activities
+ was $233 million in 2026 as compared to $72 million in 2025. The increase was mainly due to the net impact on cash flows resulting from purchases and maturities of short-term investments, and long-term bank deposits and notes.
+
+Net cash used in financing activities
+ was $353 million in 2026 as compared to $280 million in 2025. The increase was primarily driven by the increase of share repurchases, cash dividends paid on common stock and net outflow related to short-term borrowings.
+
+Liquidity and Capital Resources
+
+Historically we have funded our operations through cash generated from the operation of our Company-owned stores and our franchise operations. Our global offering in September 2020 provided us with $2.2 billion in net proceeds.
+
+35
+
+Our ability to fund our future operations and capital needs will primarily depend on our ongoing ability to generate cash from operations. We believe our principal uses of cash in the future will be primarily to fund our operations and capital expenditures for accelerating store network expansion and store remodeling, to step up investments in digitalization, automation and logistics infrastructure, to provide returns to our stockholders, as well as to explore opportunities for investments that build and support our ecosystem or strategic acquisitions. We believe that our future cash from operations, together with our funds on hand and access to the capital markets, will provide adequate resources to fund these uses of cash, and that our existing cash, net cash from operations and credit facilities will be sufficient to fund our operations and anticipated capital expenditures for the next 12 months. We currently expect our fiscal year 2026 capital expenditures to be in the range of approximately $600 million to $700 million.
+
+If our cash flows from operations are less than we require, we may need to access the capital markets to obtain financing. Our access to, and the availability of, financing on acceptable terms and conditions in the future or at all will be impacted by many factors, including, but not limited to:
+
+•
+our financial performance;
+•
+our credit ratings; 
+•
+the liquidity of the overall capital markets and our access to capital markets; and
+•
+the state of the Chinese, U.S. and global economies, as well as relations between the Chinese and U.S. governments.
+
+There can be no assurance that we will have access to the capital markets on terms acceptable to us or at all.
+
+Generally, our income is subject to the Chinese statutory tax rate of 25%. However, to the extent our cash flows from operations exceed our China cash requirements, the excess cash may be subject to an additional 10% withholding tax levied by the Chinese tax authority, subject to any reduction or exemption set forth in relevant tax treaties or tax arrangements.
+
+Share Repurchases and Dividends
+
+As of March 31, 2026, our Board of Directors authorized an aggregate of $5.4 billion for our share repurchase program, of which $0.9 billion remained available as of March 31, 2026. Yum China may repurchase shares under this program from time to time in the open market or, subject to applicable regulatory requirements, through privately negotiated transactions, block trades, accelerated share repurchase transactions and the use of Rule 10b5-1 trading plans. During the quarters ended March 31, 2026 and 2025, the Company repurchased 4.1 million shares of common stock for $214 million and 3.6 million shares of common stock for $172 million, respectively, under the repurchase program, excluding transaction costs and excise tax.
+
+For the quarters ended March 31, 2026 and 2025, the Company paid cash dividends of approximately $102 million and $90 million, respectively, to stockholders through a quarterly dividend payment of $0.29 and $0.24 per share, respectively.
+
+The Company plans to return $1.5 billion to shareholders in 2026, adding to both $1.5 billion it delivered to shareholders in 2025 and 2024 in share repurchases and dividends.
+
+On April 29, 2026, the Board of Directors declared a cash dividend of $0.29 per share, payable on June 17, 2026, to stockholders of record as of the close of business on May 27, 2026. The total estimated cash dividend payable is approximately $101 million.
+
+The Company plans to return an average annual return of approximately $900 million to over $1 billion in 2027 and 2028, and to exceed $1 billion in 2028.
+
+Our plan of capital returns to shareholders is based on current expectations, which may change based on market conditions, capital needs or otherwise. Our ability to return capital to shareholders in the future is also subject to the factor described below under “Forward-Looking Statements.” In addition, our ability to declare and pay any dividends on our stock may be restricted by our earnings available for distribution under applicable Chinese laws. The laws, rules and regulations applicable to our Chinese subsidiaries permit payments of dividends only out of their accumulated profits, if any, determined in accordance with applicable Chinese accounting standards and regulations. Under Chinese laws, an enterprise incorporated in China is required to set aside at least 10% of its after-tax profits each year, after making up previous years’ accumulated losses, if any, to fund statutory surplus reserve, until the aggregate amount of such a fund reaches 50% of its registered capital. As a result, our Chinese subsidiaries are restricted in their ability to transfer a portion of their net assets to us in the form of dividends. At the discretion of the board of directors, as an enterprise incorporated in China, each of our Chinese subsidiaries may allocate a portion of its after-tax profits based on Chinese accounting standards to discretionary surplus reserve. These reserves are not distributable as cash dividends.
+
+36
+
+Borrowing Capacity
+
+As of March 31, 2026, the Company had credit facilities of RMB10,758 million (approximately $1,560 million), comprised of onshore credit facilities in the aggregate amount of RMB8,000 million (approximately $1,160 million), offshore credit facilities in the aggregate amount of $200 million and a credit facility of $200 million that can be used for either onshore or offshore.
+
+The credit facilities had remaining terms ranging from less than one year to three years as of March 31, 2026. Our credit facilities mainly include term loans, overdrafts, letters of credit, banker’s acceptance notes and bank guarantees. The credit facilities in general bear interest based on the Loan Prime Rate (“LPR”) published by the National Interbank Funding Centre of the PRC, or Secured Overnight Financing Rate (“SOFR”) published by the Federal Reserve Bank of New York. Each credit facility contains a cross-default provision whereby our failure to make any payment on a principal amount from any credit facility will constitute a default on other credit facilities. Some of the credit facilities contain covenants limiting, among other things, certain additional indebtedness and liens, and certain other transactions specified in the respective agreements. As of March 31, 2026, we had outstanding short-term bank borrowings of RMB137 million (approximately $20 million), mainly to manage working capital at our operating subsidiaries. Such bank borrowings are due within one year from their issuance dates. As of March 31, 2026, we also had outstanding bank guarantees of RMB306 million (approximately $44 million) mainly to secure our lease payments to landlords for certain Company-owned restaurants, as well as outstanding bank guarantees of RMB360 million (approximately $52 million) to secure the balance of prepaid stored-value cards issued by the Company pursuant to regulatory requirements. Our credit facilities were therefore reduced by outstanding short-term bank borrowings, adjusted for unamortized interest and outstanding guarantees. As of March 31, 2026, the Company had unused credit facilities of approximately $1,444 million.
+
+New Accounting Pronouncements
+
+Recently Adopted Accounting Pronouncements
+
+See Note 2 for details of recently adopted accounting pronouncements.
+
+New Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued ASU 2024-03, 
+Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40) 
+(“ASU 2024-03”)
+, 
+requiring public business entities to disclose in the notes to the financial statements, among other things, specific information about certain costs and expenses including purchases of inventory, employee compensation, depreciation, amortization and depletion expenses for each caption on the income statement where such expenses are included. 
+ASU 2024-03 is effective for the Company for annual period from January 1, 2027, and for interim periods from January 1, 2028, with early adoption permitted. We are currently evaluating the impact the adoption of this standard may have on our financial statements.
+
+In September 2025, the FASB issued Accounting Standards Update 2025-06, 
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Targeted Improvements to the Accounting for Internal-Use Software
+ (“ASU 2025-06”), which  better aligns the accounting guidance to how software is developed by eliminating project stages from capitalization criteria, and further clarifies the threshold entities apply to begin capitalizing costs.  The amendment also enhances the disclosure requirements for internal-use software. ASU 2025-06 is effective for the Company from January 1, 2028, with early adoption permitted. We are currently evaluating the impact the adoption of this standard may have on our financial statements.
+
+In December 2025, the FASB issued ASU 2025-10,
+ Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities 
+(“ASU 2025-10”) to establish guidance on the recognition, measurement, and presentation of government grants received by business entities. The new standard leverages the principles in the accounting framework for government assistance in International Accounting Standard 20. ASU 2025-10 is effective for the Company for annual period from January 1, 2029, with early adoption permitted. We are currently evaluating the impact the adoption of this standard may have on our financial statements.
+
+37
+
+Cautionary Note Regarding Forward-Looking Statements
+
+Forward-looking statements can be identified by the fact that they do not relate strictly to historical or current facts. These statements often include words such as “may,” “will,” “estimate,” “intend,” “seek,” “expect,” “project,” “anticipate,” “believe,” “plan,” “could,” “target,” “aim,” “commit,” “predict,” “likely,” “should,” “forecast,” “outlook,” “model,” “continue,” “ongoing” or other similar terminology. Forward-looking statements are based on our expectations, estimates, assumptions or projections concerning future results or events as of the date of the filing of this Form 10-Q. Our plan of capital returns to shareholders is based on current expectations, which may change based on market conditions, capital needs or otherwise. Forward-looking statements are neither predictions nor guarantees of future events, circumstances or performance and are inherently subject to known and unknown risks, uncertainties and assumptions that could cause our actual results and events to differ materially from those indicated by those statements. We cannot assure you that any of our assumptions are correct or any of our expectations, estimates or projections will be achieved. Numerous factors could cause our actual results to differ materially from those expressed or implied by forward-looking statements, including, without limitation, the following:
+
+•
+Risks related to our business and industry, such as (a) food safety and foodborne illness concerns, (b) significant failure to maintain effective quality assurance systems for our restaurants, (c) significant liability claims, food contamination complaints from our customers or reports of incidents of food tampering, (d) health concerns arising from outbreaks of viruses or other illnesses, (e) the fact that the operation of our restaurants is subject to the terms of the master license agreement with YUM, (f) the fact that substantially all of our revenue is derived from our operations in China, (g) the fact that our success is tied to the success of YUM’s brand strength, marketing campaigns and product innovation, (h) shortages or interruptions in the availability and delivery of food products and other supplies, (i) fluctuation of raw materials prices, (j) our inability to attain our target development goals, the potential cannibalization of existing sales by aggressive development and the possibility that new restaurants will not be profitable, (k) risks associated with leasing real estate, (l) inability to obtain desirable restaurant locations on commercially reasonable terms, (m) labor shortages or increases in labor costs, (n) the fact that our success depends substantially on our corporate reputation and on the value and perception of our brands, (o) challenges and risks related to our franchise development, (p) failures or interruptions of service or security breaches in our information technology systems, (q) the occurrence of security breaches and cyber-attacks, (r) failure to protect the integrity and security of our customer or employee personal, financial or other data or our proprietary or confidential information that is stored in our information systems or by third parties on our behalf, (s) the fact that our business depends on the performance of, and our long-term relationships with, third-party mobile payment processors, internet infrastructure operators, internet service providers, delivery aggregators and third-party e-commerce platforms, (t) failure to provide timely and reliable delivery services by our restaurants and the continued increase in delivery sales mix, (u) our growth strategy with respect to our coffee business may not be successful, (v) the anticipated benefits of our acquisitions may not be realized in a timely manner or at all, (w) challenges and risks related to our new retail business, (x) use of GenAI technologies, (y) our inability or failure to recognize, respond to and effectively manage the impact of social media, (z) failure to comply with anti-bribery or anti-corruption laws, (aa) U.S. federal income taxes, changes in tax rates, disagreements with tax authorities and imposition of new taxes, (bb) changes in consumer discretionary spending and general economic conditions, (cc) the fact that the restaurant industry in which we operate is highly competitive, (dd) loss of or failure to obtain or renew any or all of the approvals, licenses and permits to operate our business, (ee) our inability to adequately protect the intellectual property we own or have the right to use, (ff) our licensor’s failure to protect its intellectual property, (gg) seasonality and certain major events in China, (hh) our failure to detect, deter and prevent all instances of fraud or other misconduct committed by our employees, customers or other third parties, (ii) the fact that our success depends on the continuing efforts of our key management and experienced and capable personnel as well as our ability to recruit new talent, (jj) our strategic investments or acquisitions may be unsuccessful; (kk) our investment in technology and innovation may not generate the expected level of returns, (ll) fluctuation of changes for our equity investments measured at fair value, lower yields of our short-term investments or lower returns of our future long-term bank deposits and notes may adversely affect our financial results, and (mm) our operating results or net income may be adversely affected by our investment in equity method investees;
+
+38
+
+•
+Risks related to doing business in China, such as (a) changes in Chinese political policies and economic and social policies or conditions, (b) the interpretation and enforcement of Chinese laws, rules and regulations may change from time to time with little advance notice, and the risk that the PRC government may intervene or influence our operations, which could result in a material change in our operations and/or the value of our securities to decline, (c) audit reports included in our annual reports prepared by auditors who are located in China, and in the event the PCAOB is unable to inspect our auditors, our common stock will be subject to potential delisting from the New York Stock Exchange, (d) changes in political, business, economic and trade relations between the United States and China, (e) fluctuation in the value of the Chinese Renminbi, (f) the fact that we face increasing focus and evolving requirements on environmental sustainability issues, (g) limitation on our ability to utilize our cash balances effectively, including making funds held by our China-based subsidiaries unavailable for use outside of mainland China, due to interventions in or the imposition of restrictions and limitations by the PRC government on currency conversion and payments of foreign currency and RMB out of mainland China, (h) changes in the laws and regulations of China or noncompliance with applicable laws and regulations, (i) reliance on dividends and other distributions on equity paid by our principal subsidiaries in China to fund offshore cash requirements, and uncertainties regarding the application of the withholding tax rates could have a material adverse effect on our business and financial results, (j) potential unfavorable tax consequences resulting from our classification as a China resident enterprise for Chinese enterprise income tax purposes, (k) uncertainty regarding indirect transfers of equity interests in China resident enterprises and enhanced scrutiny by Chinese tax authorities, (l) difficulties in effecting service of legal process, conducting investigations, collecting evidence, enforcing foreign judgments or bringing original actions in China against us, (m) the Chinese government may determine that the variable interest entity structure of Daojia does not comply with Chinese laws on foreign investment in restricted industries, (n) inability to use properties due to defects caused by non-registration of lease agreements related to certain properties, (o) risk in relation to unexpected land acquisitions, building closures or demolitions, (p) potential fines and other legal or administrative sanctions for failure to comply with Chinese regulations regarding our employee equity incentive plans and various employee benefit plans, (q) proceedings instituted by the SEC against certain China-based accounting firms, including our independent registered public accounting firm, could result in our financial statements being determined to not be in compliance with the requirements of the Exchange Act, (r) restrictions on our ability to make loans or additional capital contributions to our Chinese subsidiaries due to Chinese regulation of loans to, and direct investment in, Chinese entities by offshore holding companies and governmental administration of currency conversion, (s) difficulties in pursuing growth through acquisitions due to regulations regarding acquisitions, and (t) the PRC government has significant oversight and discretion to exert supervision over offerings of securities conducted outside of China and over foreign investment in China-based issuers, and may limit or completely hinder our ability to offer securities to investors, or cause the value of our securities to significantly decline;
+
+•
+Risks related to the separation and related transactions, such as (a) incurring significant tax liabilities if the distribution does not qualify as a transaction that is generally tax-free for U.S. federal income tax purposes and the Company could be required to indemnify YUM for material taxes and other related amounts pursuant to indemnification obligations under the tax matters agreement, (b) being obligated to indemnify YUM for material taxes and related amounts pursuant to indemnification obligations under the tax matters agreement if YUM is subject to Chinese indirect transfer tax with respect to the distribution, (c) potential indemnification liabilities owing to YUM pursuant to the separation and distribution agreement, (d) the indemnity provided by YUM to us with respect to certain liabilities in connection with the separation may be insufficient to insure us against the full amount of such liabilities, (e) the possibility that a court would require that we assume responsibility for obligations allocated to YUM under the separation and distribution agreement, and (f) potential liabilities due to fraudulent transfer considerations; and
+
+•
+General risks, such as (a) potential legal proceedings, (b) changes in accounting standards and subjective assumptions, estimates and judgments by management related to complex accounting matters, (c) failure of our insurance policies to provide adequate coverage for claims associated with our business operations, (d) unforeseeable business interruptions, and (e) failure by us to maintain effective disclosure controls and procedures and internal control over financial reporting in accordance with the rules of the SEC. 
+
+In addition, other risks and uncertainties not presently known to us or that we currently believe to be immaterial could affect the accuracy of any such forward-looking statements. All forward-looking statements should be evaluated with the understanding of their inherent uncertainty. You should consult our filings with the SEC (including the information set forth under the captions “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025) for additional information regarding factors that could affect our financial and other results. You should not place undue reliance on forward-looking statements, which speak only as of the date of the filing of this Form 10-Q. We are not undertaking to update any of these statements, except as required by law.
+
+39
+
+Item 3. Quantitative and Qualitat
+ive Disclosures About Market Risk
+
+Foreign Currency Exchange Rate Risk
+
+Changes in foreign currency exchange rates impact the translation of our reported foreign currency denominated earnings, cash flows and net investments in foreign operations, virtually all of which are denominated in RMB. While substantially all of our supply purchases are denominated in RMB, from time to time, we enter into agreements with third parties to purchase certain amount of goods and services sourced overseas and make payments in the corresponding local currencies at predetermined exchange rates  when practical, to minimize the related foreign currency exposure with immaterial impact on our financial statements.
+
+As substantially all of the Company’s operations are located in China, the Company is exposed to movements in the RMB foreign currency exchange rate. For the quarter ended March 31, 2026, the Company’s Operating profit would have decreased by approximately $42 million, if the RMB weakened 10% relative to the U.S. dollar. This estimated reduction assumes no changes in sales volumes or local currency sales or input prices.
+
+Commodity Price Risk
+
+We are subject to volatility in food costs as a result of market risk associated with commodity prices. Our ability to recover increased costs through higher pricing is, at times, limited by the competitive environment in which we operate. We manage our exposure to this risk primarily through pricing agreements with our vendors.
+
+Investment Risk
+
+In September 2018, we invested $74 million in 8.4 million of Meituan’s ordinary shares. The Company sold 4.2 million of its ordinary shares of Meituan in the second quarter of 2020 for proceeds of approximately $54 million. Equity investment in Meituan is recorded at fair value, which is measured on a recurring basis and is subject to market price volatility. See Note 3 for further discussion on our investment in Meituan.
+
+Item 4. Controls
+ and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+The Company has evaluated the effectiveness of the design and operation of its disclosure controls and procedures pursuant to Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 as of the end of the period covered by this report. Based on the evaluation, performed under the supervision and with the participation of the Company’s management, including the Chief Executive Officer (the “CEO”) and the Chief Financial Officer (the “CFO”), the Company’s management, including the CEO and the CFO, concluded that the Company’s disclosure controls and procedures were effective as of the end of the period covered by this report.
+
+Changes in Internal Control Over Financial Reporting
+
+There were no changes with respect to the Company’s internal control over financial reporting during the quarter ended March 31, 2026 that have materially affected, or are reasonably likely to materially affect, internal control over financial reporting.
+
+40
+
+PART II – Other Infor
+mation
+
+Item 1. Legal
+ Proceedings
+
+Information regarding legal proceedings is incorporated by reference from Note 14 to the Company’s Condensed Consolidated Financial Statements set forth in Part I of this report.
+
+Item 1A. Ri
+sk Factors
+
+We face a variety of risks that are inherent in our business and our industry, including operational, legal and regulatory risks. Such risks could cause our actual results to differ materially from our forward-looking statements, expectations and historical trends. There have been no material changes from the risk factors disclosed in Part I, Item 1A. “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2025, which was filed with the SEC on February 27, 2026.
+
+Item 2. Unregistered 
+Sales of Equity Securities and Use of Proceeds
+
+As of March 31, 2026, our Board of Directors authorized an aggregate of $5.4 billion for our share repurchase program. The authorization does not have an expiration date.
+
+The following table provides information as of March 31, 2026 with respect to shares of Yum China common stock repurchased on the NYSE and HKEX by the Company during the quarter then ended:
+
+Period | Total Number of Shares Repurchased (thousands) | Average Price Paid Per Share (a) | Total Number of Shares Repurchased as Part of Publicly Announced Plans or Programs (thousands) | Approximate Dollar Value of Shares that May Yet Be Repurchased under the Plans or Programs (millions)
+
+1/1/26-1/31/26 | 1,164 | $ | 48.83 | 1,164 | $ | 1,099
+
+2/1/26-2/28/26 | 1,278 | $ | 54.64 | 1,278 | $ | 1,029
+
+3/1/26-3/31/26 | 1,680 | $ | 52.20 | 1,680 | $ | 942
+
+Total | 4,122 | $ | 52.01 | 4,122 | $ | 942
+
+(a)
+Starting January 2024, the Company also repurchased shares of common stock through open market transactions on the HKEX. Price paid for shares repurchased on the HKEX has been converted into U.S. dollars at the exchange rate on the date of repurchase.
+
+Item 5. Other Information
+
+During the quarter ended March 31, 2026, none of the Company’s officers (as defined in Rule 16a-1(f) under the Securities Exchange Act of 1934, as amended (“Exchange Act”)
+ or directors 
+adopted
+, 
+modified
+, or 
+terminated
+ a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (each as defined in Item 408 of Regulation S-K under the Exchange Act).
+
+41
+
+Item 6. E
+xhibits
+
+Exhibit Number | Description of Exhibits
+
+31.1 | Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) of Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.*
+
+31.2 | Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) of Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.*
+
+32.1 | Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.*
+
+32.2 | Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.*
+
+101.INS | XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document *
+
+101.SCH | Inline XBRL Taxonomy Extension Schema Document  *
+
+101.CAL | Inline XBRL Taxonomy Extension Calculation Linkbase Document  *
+
+101.LAB | Inline XBRL Taxonomy Extension Label Linkbase Document  *
+
+101.PRE | Inline XBRL Taxonomy Extension Presentation Linkbase Document  *
+
+101.DEF | Inline XBRL Taxonomy Extension Definition Linkbase Document  *
+
+104 | Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document  *
+
+* Filed or furnished herewith.
+
+42
+
+SIGNAT
+URES
+
+Pursuant to the requirement of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Yum China Holdings, Inc.
+
+(Registrant)
+
+Date: | May 8, 2026 | /s/  Xueling Lu
+
+Controller and Principal Accounting Officer
+
+43
+

@@ -1,0 +1,194 @@
+[
+ {
+  "date": "2021-11-02",
+  "category": "update",
+  "short": "Q3’21更新",
+  "title": "2021年三季度业务更新：收入同比+75%–80%",
+  "desc": "季度增速强劲，股价单日 +15.2%。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1101/2021110103331.pdf"
+ },
+ {
+  "date": "2022-07-18",
+  "category": "update",
+  "short": "盈利预警",
+  "title": "2022年中期盈利预警（疫情封控拖累）",
+  "desc": "上海封控期间门店停业，利润下滑。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0715/2022071500343.pdf"
+ },
+ {
+  "date": "2022-12-08",
+  "category": "macro",
+  "title": "内地优化防疫“新十条”，消费复苏预期",
+  "short": "防疫放开",
+  "desc": "线下零售重开，消费股集体反弹。",
+  "source": "https://stock.stockstar.com/JC2022120800001761.shtml"
+ },
+ {
+  "date": "2024-03-20",
+  "category": "earnings",
+  "short": "FY23业绩",
+  "title": "2023年业绩：收入+36.5%，净利润+127.5%",
+  "desc": "午间公布，次日再涨16%。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0320/2024032000317.pdf"
+ },
+ {
+  "date": "2024-07-19",
+  "category": "update",
+  "short": "H1’24正面盈喜",
+  "title": "2024年中期正面盈利预告",
+  "desc": "海外与LABUBU开始放量。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0718/2024071800309.pdf"
+ },
+ {
+  "date": "2024-08-21",
+  "category": "earnings",
+  "short": "H1’24业绩",
+  "title": "2024年中期业绩：收入+62%，经调整净利润+90%",
+  "desc": "海外收入同比+259.6%。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0820/2024082000564.pdf"
+ },
+ {
+  "date": "2024-10-08",
+  "category": "macro",
+  "short": "刺激行情回落",
+  "title": "国庆后内地刺激政策预期降温，恒指单日−9.4%",
+  "desc": "泡泡玛特仅−0.5%，显著跑赢大盘。",
+  "source": "https://hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-10-09"
+ },
+ {
+  "date": "2024-10-23",
+  "category": "update",
+  "short": "Q3’24更新",
+  "title": "2024年三季度业务更新：收入+120%–125%，海外+440%–445%",
+  "desc": "LABUBU海外爆发首次在数据中体现。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/1022/2024102200320.pdf"
+ },
+ {
+  "date": "2025-03-26",
+  "category": "earnings",
+  "short": "FY24业绩",
+  "title": "2024年业绩：收入+106.9%，净利润+188.8%",
+  "desc": "午间公布，两日累计上涨约21%。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0326/2025032600227.pdf"
+ },
+ {
+  "date": "2025-04-07",
+  "category": "macro",
+  "short": "美国关税冲击",
+  "title": "美国“对等关税”引发全球股灾，恒指单日−13.2%",
+  "desc": "泡泡玛特单日 −22.0%，跌幅大于 β 隐含的约 −16.7%。",
+  "source": "https://www.bloomberg.com/news/articles/2025-04-07/tariff-war-sparks-hong-kong-stocks-worst-implosion-since-1997"
+ },
+ {
+  "date": "2025-04-23",
+  "category": "update",
+  "short": "Q1’25更新",
+  "title": "2025年一季度业务更新：收入+165%–170%，海外+475%–480%",
+  "desc": "海外高增延续。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0422/2025042200953.pdf"
+ },
+ {
+  "date": "2025-04-28",
+  "category": "product",
+  "short": "LABUBU 3.0发售",
+  "title": "LABUBU 3.0「前方高能」系列发售，抢购潮发酵",
+  "desc": "4/24 晚线上、4/25 门店开售；4/28 收盘创历史新高。",
+  "source": "https://www.stheadline.com/zh-hans/realtime-finance/3449555/LABUBU-30今开售掀抢购潮-炒价高见1500-大行亦吹捧成股价短期催化剂"
+ },
+ {
+  "date": "2025-06-19",
+  "category": "product",
+  "short": "大幅补货",
+  "title": "LABUBU 大幅补货，二手价格腰斩",
+  "desc": "公司称当年毛绒产品供给提升约 10 倍；次日再跌 3.6%。",
+  "source": "https://www2.yicaiglobal.com/news/pop-mart-slumps-after-chinese-toymaker-boosts-labubu-supply-causing-resale-prices-to-plunge"
+ },
+ {
+  "date": "2025-07-16",
+  "category": "update",
+  "short": "H1’25正面盈喜",
+  "title": "2025年中期正面盈利预告（利润增长不少于350%）",
+  "desc": "利好兑现，股价反而下跌。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0715/2025071500213.pdf"
+ },
+ {
+  "date": "2025-08-20",
+  "category": "earnings",
+  "short": "H1’25业绩",
+  "title": "2025年中期业绩：收入+204.4%，净利润+396.5%",
+  "desc": "THE MONSTERS收入48.1亿元，占34.7%。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0819/2025081900626.pdf"
+ },
+ {
+  "date": "2025-08-25",
+  "category": "index",
+  "short": "纳入恒指公布",
+  "title": "恒生指数公司宣布泡泡玛特纳入恒生指数（9月8日生效）",
+  "desc": "次日（8/26）收市价创历史新高335.4港元。",
+  "source": "https://www.thestandard.com.hk/finance/article/309705/Labubu-maker-Pop-Mart-China-Telecom-JD-Logistics-to-be-added-to-Hang-Seng-Index"
+ },
+ {
+  "date": "2025-09-08",
+  "category": "index",
+  "short": "纳入恒指生效",
+  "title": "正式纳入恒生指数，指数资金买入后获利了结",
+  "desc": "盘中一度−8.9%，收跌7.1%。",
+  "source": "https://www.bloomberg.com/news/articles/2025-09-08/pop-mart-shares-fall-on-demand-concern-post-index-entry-selling"
+ },
+ {
+  "date": "2025-10-21",
+  "category": "update",
+  "short": "Q3’25更新前急跌",
+  "title": "三季度业务更新公布前股价急跌",
+  "desc": "公告在收市后（16:30）发布。",
+  "source": "https://www.bloomberg.com/news/articles/2025-10-21/pop-mart-s-shares-sink-ahead-of-third-quarter-business-update"
+ },
+ {
+  "date": "2025-10-22",
+  "category": "update",
+  "short": "Q3’25更新",
+  "title": "2025年三季度业务更新：收入+245%–250%，海外+365%–370%",
+  "desc": "增长见顶担忧；次日（10/23）再跌9.4%。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1021/2025102100236.pdf"
+ },
+ {
+  "date": "2026-01-20",
+  "category": "capital",
+  "short": "重启回购",
+  "title": "2024 年初以来首次回购（约 2.51 亿港元，140 万股）",
+  "desc": "1/19 收市后披露；此后一周累计上涨约 21%。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0119/2026011900757.pdf"
+ },
+ {
+  "date": "2026-02-10",
+  "category": "update",
+  "short": "4亿件销量",
+  "title": "自愿公告：2025年全球销量超4亿件，THE MONSTERS超1亿件",
+  "desc": "公告于2月9日晚间发布。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/2026020901220.pdf"
+ },
+ {
+  "date": "2026-03-25",
+  "category": "earnings",
+  "short": "FY25业绩",
+  "title": "2025年业绩：收入+184.7%，但THE MONSTERS占比38%、海外增速放缓",
+  "desc": "午间公布，下午暴跌22.5%，次日再跌10.5%。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf"
+ },
+ {
+  "date": "2026-05-13",
+  "category": "update",
+  "short": "Q1’26更新",
+  "title": "2026年一季度业务更新：收入+75%–80%，海外增速明显放缓",
+  "desc": "5/12 收市后公布；公告前（5/11）大摩下调海外增长预测。",
+  "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0512/2026051200579.pdf"
+ },
+ {
+  "date": "2026-08-21",
+  "category": "earnings",
+  "short": "H1’26业绩",
+  "title": "2026年中期业绩：收入+23.8%、海外−11.1%，宣布20–50亿元回购",
+  "desc": "8/20 收市后公布；次日盘中一度 −8.9%，收跌 3.1%。",
+  "source": "https://scmp.com/business/china-business/article/3364719/chinas-pop-mart-buy-back-shares-worth-us740m-collectible-toy-demand-cools"
+ }
+]
